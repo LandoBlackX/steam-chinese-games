@@ -30,22 +30,35 @@ jobs:
         id: scraper
         run: python Src/scraper.py
 
+      - name: Verify data files
+        run: |
+          echo "=== 文件验证 ==="
+          ls -la data/
+          echo "中文游戏文件内容:"
+          jq . data/chinese_games.json || echo "无效的JSON文件"
+          echo "卡牌游戏文件内容:"
+          jq . data/card_games.json || echo "无效的JSON文件"
+          echo "中文游戏数: $(jq '.games | length' data/chinese_games.json 2>/dev/null || echo 0)"
+          echo "卡牌游戏数: $(jq '.games | length' data/card_games.json 2>/dev/null || echo 0)"
+
       - name: Commit changes
         uses: EndBug/add-and-commit@v9
         with:
           add: 'data/*.json'
-          message: |
-            Auto-update game data
-            • Processed: ${{ steps.scraper.outputs.processed || '0' }}
-            • Chinese games: ${{ steps.scraper.outputs.new_chinese || '0' }}
-            • Card games: ${{ steps.scraper.outputs.new_cards || '0' }}
+          commit_message: |
+            Auto-update [run ${{ github.run_number }}]
+            
+            • 已处理: ${{ steps.scraper.outputs.processed || '0' }}
+            • 中文游戏: ${{ steps.scraper.outputs.new_chinese || '0' }}
+            • 卡牌游戏: ${{ steps.scraper.outputs.new_cards || '0' }}
           push: true
 
       - name: Upload debug info
         if: failure()
         uses: actions/upload-artifact@v4
         with:
-          name: debug-info
+          name: debug-${{ github.run_number }}
           path: |
             data/*.json
             Src/scraper.py
+          retention-days: 3
