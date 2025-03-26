@@ -27,20 +27,25 @@ jobs:
         run: mkdir -p data
 
       - name: Run scraper
+        id: scraper
         run: python Src/scraper.py
 
       - name: Commit changes
         uses: EndBug/add-and-commit@v9
         with:
           add: 'data/*.json'
-          commit_message: 'Auto-update game data'
+          message: |
+            Auto-update game data
+            • Processed: ${{ steps.scraper.outputs.processed || '0' }}
+            • Chinese games: ${{ steps.scraper.outputs.new_chinese || '0' }}
+            • Card games: ${{ steps.scraper.outputs.new_cards || '0' }}
           push: true
 
-      - name: Upload debug info (if failed)
+      - name: Upload debug info
         if: failure()
-        uses: actions/upload-artifact@v4  # 关键修改：使用v4版本
+        uses: actions/upload-artifact@v4
         with:
-          name: debug-logs
+          name: debug-info
           path: |
             data/*.json
             Src/scraper.py
