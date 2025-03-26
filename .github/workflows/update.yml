@@ -42,8 +42,14 @@ jobs:
           echo "卡牌游戏数: $(jq '.games | length' data/card_games.json)"
           echo "最后更新时间: $(jq '._metadata.updated' data/chinese_games.json)"
 
+      - name: Create date tag
+        id: date-tag
+        run: |
+          TAG_DATE=$(date +'v%Y.%m.%d')
+          echo "tag_name=$TAG_DATE" >> $GITHUB_OUTPUT
+          git tag $TAG_DATE
+
       - name: Commit changes
-        if: success()
         uses: EndBug/add-and-commit@v9
         with:
           add: 'data/*.json'
@@ -56,10 +62,10 @@ jobs:
             • 支持卡牌游戏: ${{ steps.scraper.outputs.new_cards }}
             
             自动生成于 ${{ github.run_id }}
-          signoff: true
           push: true
-          tag: "v$(date +%Y.%m.%d)"
-          tag_push: true
+
+      - name: Push tag
+        run: git push origin ${{ steps.date-tag.outputs.tag_name }}
 
       - name: Upload debug info
         if: failure()
