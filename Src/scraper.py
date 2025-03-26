@@ -49,7 +49,7 @@ def safe_load_json(file):
 
 def check_game(appid):
     """检查单个游戏信息"""
-    url = f"https://store.steampowered.com/api/appdetails?appids={appid}"
+    url = f"https://store.steampowered.com/api/appdetails?appids={appid}&l=schinese"
     try:
         log(f"正在检查游戏 {appid}")
         response = requests.get(url, timeout=15)
@@ -69,13 +69,38 @@ def check_game(appid):
         log(f"检查游戏 {appid} 时出错: {str(e)}")
     return None
 
+def save_data(data, file_path):
+    """安全保存数据"""
+    try:
+        with open(file_path, 'w', encoding='utf-8') as f:
+            json.dump(data, f, indent=2, ensure_ascii=False)
+        log(f"成功保存数据到 {file_path}")
+        log(f"文件大小: {os.path.getsize(file_path)} 字节")
+        log(f"包含游戏数: {len(data.get('games', {}))}")
+    except Exception as e:
+        log(f"保存失败: {str(e)}")
+        raise
+
 def main():
     log("脚本启动")
     chinese_data = safe_load_json(DATA_DIR / "chinese_games.json")
     card_data = safe_load_json(DATA_DIR / "card_games.json")
     
-    # 示例：检查前50个AppID
-    for appid in range(1, 51):
+    # 测试已知支持中文的AppID + 近期游戏范围
+    test_appids = [
+        570,     # Dota 2 (支持中文)
+        730,     # CS2 (支持中文)
+        1245620, # 艾尔登法环
+        578080,  # PUBG
+        1172470, # Apex Legends
+        1091500, # 赛博朋克2077
+        292030,  # 巫师3
+        814380,  # 只狼
+        275850,  # 饥荒
+        105600,  # 泰拉瑞亚
+    ] + list(range(1000000, 1000010))  # 近期游戏
+    
+    for appid in test_appids:
         result = check_game(appid)
         if result:
             appid_str = str(appid)
@@ -84,30 +109,21 @@ def main():
             if result["supports_cards"]:
                 card_data["games"][appid_str] = result
             
-            # 每处理5个保存一次
-            if appid % 5 == 0:
-                with open(DATA_DIR / "chinese_games.json", 'w', encoding='utf-8') as f:
-                    json.dump(chinese_data, f, indent=2, ensure_ascii=False)
-                with open(DATA_DIR / "card_games.json", 'w', encoding='utf-8') as f:
-                    json.dump(card_data, f, indent=2, ensure_ascii=False)
+            # 实时保存每个游戏的结果
+            save_data(chinese_data, DATA_DIR / "chinese_games.json")
+            save_data(card_data, DATA_DIR / "card_games.json")
         
         time.sleep(1.5)  # 遵守API限制
     
-    # 最终保存
-    with open(DATA_DIR / "chinese_games.json", 'w', encoding='utf-8') as f:
-        json.dump(chinese_data, f, indent=2, ensure_ascii=False)
-    with open(DATA_DIR / "card_games.json", 'w', encoding='utf-8') as f:
-        json.dump(card_data, f, indent=2, ensure_ascii=False)
-    
     log("脚本完成")
     
-    # GitHub Actions 输出 (新标准方式)
+    # GitHub Actions 输出
     if os.getenv("GITHUB_ACTIONS") == "true":
         github_output = os.getenv("GITHUB_OUTPUT")
         if github_output:
             try:
                 with open(github_output, 'a') as f:
-                    f.write(f"processed=50\n")
+                    f.write(f"processed={len(test_appids)}\n")
                     f.write(f"new_chinese={len(chinese_data['games'])}\n")
                     f.write(f"new_cards={len(card_data['games'])}\n")
             except Exception as e:
