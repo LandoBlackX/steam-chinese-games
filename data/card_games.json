@@ -1,12 +1,14 @@
 {
-  "_metadata": {},
+  "_metadata": {
+    "updated": "2025-03-26T11:53:05.137498"
+  },
   "games": {
     "570": {
       "name": "Dota 2",
       "type": "game",
-      "supports_chinese": false,
+      "supports_chinese": true,
       "supports_cards": true,
-      "last_checked": "2025-03-26T11:41:33.181611"
+      "last_checked": "2025-03-26T11:52:48.378714"
     },
     "730": {
       "name": "Counter-Strike 2",
@@ -18,9 +20,9 @@
     "1245620": {
       "name": "艾尔登法环",
       "type": "game",
-      "supports_chinese": false,
+      "supports_chinese": true,
       "supports_cards": true,
-      "last_checked": "2025-03-26T11:41:36.689028"
+      "last_checked": "2025-03-26T11:52:56.819583"
     },
     "1172470": {
       "name": "Apex Legends™",
@@ -32,16 +34,16 @@
     "1091500": {
       "name": "赛博朋克 2077",
       "type": "game",
-      "supports_chinese": false,
+      "supports_chinese": true,
       "supports_cards": true,
-      "last_checked": "2025-03-26T11:41:41.901980"
+      "last_checked": "2025-03-26T11:52:50.025287"
     },
     "292030": {
       "name": "巫师 3：狂猎",
       "type": "game",
-      "supports_chinese": false,
+      "supports_chinese": true,
       "supports_cards": true,
-      "last_checked": "2025-03-26T11:41:43.570184"
+      "last_checked": "2025-03-26T11:52:51.681400"
     },
     "814380": {
       "name": "Sekiro™: Shadows Die Twice - GOTY Edition",
@@ -60,9 +62,30 @@
     "105600": {
       "name": "Terraria",
       "type": "game",
-      "supports_chinese": false,
+      "supports_chinese": true,
       "supports_cards": true,
-      "last_checked": "2025-03-26T11:41:48.561664"
+      "last_checked": "2025-03-26T11:52:53.329078"
+    },
+    "322330": {
+      "name": "饥荒联机版",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-03-26T11:52:55.179015"
+    },
+    "582660": {
+      "name": "Black Desert",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-03-26T11:53:01.821709"
+    },
+    "212680": {
+      "name": "FTL: Faster Than Light",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-03-26T11:53:03.468649"
     }
   }
 }
