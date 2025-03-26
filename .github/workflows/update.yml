@@ -19,11 +19,17 @@ jobs:
 
       - name: 同步游戏列表
         run: |
-         echo "=== 开始同步游戏列表 ==="
-         mkdir -p data
-         wget -nv -N https://raw.githubusercontent.com/F1NN1ER/getSteamAppListWithType/main/data/output.json -O data/output.json
-         echo "文件路径: $(pwd)/data/output.json"
-         echo "文件大小: $(ls -lh data/output.json | awk '{print $5}')"
+          echo "::group::📥 正在同步游戏列表"
+          mkdir -p data
+          wget -N --progress=dot:giga https://raw.githubusercontent.com/F1NN1ER/getSteamAppListWithType/main/data/output.json -O data/output.json
+          echo "当前文件大小: $(du -h data/output.json | cut -f1)"
+          echo "::endgroup::"
+
+      - name: 验证数据源
+        run: |
+          echo "=== 文件状态 ==="
+          ls -lh data/output.json
+          echo "最后修改时间: $(date -r data/output.json)"
 
       - name: Set up Python
         uses: actions/setup-python@v4
