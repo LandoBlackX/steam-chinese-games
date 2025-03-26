@@ -6,78 +6,46 @@ on:
 
 jobs:
   update:
-    runs-on: ubuntu-24.04  # 明确指定新版Ubuntu镜像
+    runs-on: ubuntu-latest  # 使用通用标签确保兼容性
     timeout-minutes: 15
 
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.10'
-          cache: 'pip'
 
-      - name: Install dependencies
+      - name: Install system dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y jq  # 安装jq工具
+
+      - name: Install Python packages
         run: |
           python -m pip install --upgrade pip
-          pip install requests python-dateutil pathlib2 jq  # 添加jq用于JSON处理
+          pip install requests python-dateutil
 
       - name: Create data directory
         run: mkdir -p data
 
-      - name: Run scraper with enhanced logging
-        id: scraper
-        run: |
-          echo "=== SCRAPER STARTED $(date) ===" > scraper.log
-          echo "::group::Scraper Live Logs"
-          python Src/scraper.py 2>&1 | tee -a scraper.log
-          echo "::endgroup::"
-          
-          # 处理统计
-          echo "=== PROCESSING SUMMARY ===" >> scraper.log
-          PROCESSED=$(grep -c "Checking app" scraper.log || echo "0")
-          NEW_CHINESE=$(jq -r '.games | length' data/chinese_games.json 2>/dev/null || echo "0")
-          NEW_CARDS=$(jq -r '.games | length' data/card_games.json 2>/dev/null || echo "0")
-          
-          echo "Processed: $PROCESSED" >> scraper.log
-          echo "Chinese games: $NEW_CHINESE" >> scraper.log
-          echo "Card games: $NEW_CARDS" >> scraper.log
-          
-          echo "::set-output name=processed::$PROCESSED"
-          echo "::set-output name=new_chinese::$NEW_CHINESE"
-          echo "::set-output name=new_cards::$NEW_CARDS"
-
-      - name: Validate JSON files
-        run: |
-          jq empty data/chinese_games.json || echo "::error::Invalid Chinese games JSON"
-          jq empty data/card_games.json || echo "::error::Invalid card games JSON"
-          [ -s data/chinese_games.json ] || echo "::error::Chinese games file is empty"
-          [ -s data/card_games.json ] || echo "::error::Card games file is empty"
+      - name: Run scraper
+        run: python Src/scraper.py
 
       - name: Commit changes
         uses: EndBug/add-and-commit@v9
         with:
-          add: |
-            data/*.json
-            !data/tmp_*
-          commit_message: |
-            Auto-update [run ${{ github.run_number }}]
-            
-            • Processed: ${{ steps.scraper.outputs.processed }}
-            • Chinese games: ${{ steps.scraper.outputs.new_chinese }}
-            • Card games: ${{ steps.scraper.outputs.new_cards }}
+          add: 'data/*.json'
+          commit_message: 'Auto-update game data'
           push: true
 
-      - name: Upload debug artifacts
-        if: always()  # 无论成功失败都上传
-        uses: actions/upload-artifact@v4
+      - name: Upload debug info
+        if: failure()
+        uses: actions/upload-artifact@v4  # 使用v4版本
         with:
-          name: debug-${{ github.run_number }}
+          name: debug-info
           path: |
-            scraper.log
             data/*.json
-          retention-days: 3
+            Src/scraper.py
