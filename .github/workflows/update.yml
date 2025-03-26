@@ -8,10 +8,14 @@ jobs:
   update:
     runs-on: ubuntu-latest
     timeout-minutes: 15
+    permissions:
+      contents: write  # 允许推送提交
 
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  # 获取完整历史记录
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -34,23 +38,28 @@ jobs:
         run: |
           echo "=== 文件验证 ==="
           ls -la data/
-          echo "中文游戏文件内容:"
-          jq '.games | length' data/chinese_games.json
-          jq '.games[] | select(.supports_chinese == true) | .name' data/chinese_games.json
-          echo "卡牌游戏文件内容:"
-          jq '.games | length' data/card_games.json
+          echo "中文游戏数: $(jq '.games | length' data/chinese_games.json)"
+          echo "卡牌游戏数: $(jq '.games | length' data/card_games.json)"
+          echo "最后更新时间: $(jq '._metadata.updated' data/chinese_games.json)"
 
       - name: Commit changes
+        if: success()
         uses: EndBug/add-and-commit@v9
         with:
           add: 'data/*.json'
-          commit_message: |
-            Auto-update [run ${{ github.run_number }}]
+          message: |
+            🎮 游戏数据更新 [${{ github.run_number }}]
             
-            • 已处理: ${{ steps.scraper.outputs.processed || '0' }}
-            • 新增中文游戏: ${{ steps.scraper.outputs.new_chinese || '0' }}
-            • 新增卡牌游戏: ${{ steps.scraper.outputs.new_cards || '0' }}
+            统计数据：
+            • 已处理游戏: ${{ steps.scraper.outputs.processed }}
+            • 支持中文游戏: ${{ steps.scraper.outputs.new_chinese }}
+            • 支持卡牌游戏: ${{ steps.scraper.outputs.new_cards }}
+            
+            自动生成于 ${{ github.run_id }}
+          signoff: true
           push: true
+          tag: "v$(date +%Y.%m.%d)"
+          tag_push: true
 
       - name: Upload debug info
         if: failure()
