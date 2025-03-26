@@ -19,8 +19,10 @@ jobs:
 
       - name: 同步游戏列表
         run: |
+          echo "---[ 同步游戏列表 ]---"
           mkdir -p data
-          wget -N https://raw.githubusercontent.com/F1NN1ER/getSteamAppListWithType/main/data/output.json -O data/output.json
+          wget -nv -N https://raw.githubusercontent.com/F1NN1ER/getSteamAppListWithType/main/data/output.json -O data/output.json
+          echo "保存到: data/output.json"
 
       - name: Set up Python
         uses: actions/setup-python@v4
