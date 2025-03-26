@@ -1,15 +1,26 @@
 import os
+import sys
 import requests
 import json
 from pathlib import Path
 from datetime import datetime
 import time
 
-DATA_DIR = Path(__file__).parent.parent / "data"
-DATA_DIR.mkdir(exist_ok=True, parents=True)  # 确保目录存在
+# 动态确定数据目录
+if 'GITHUB_WORKSPACE' in os.environ:
+    BASE_DIR = Path(os.environ['GITHUB_WORKSPACE'])
+else:
+    BASE_DIR = Path(__file__).parent.parent
+
+DATA_DIR = BASE_DIR / 'data'
+DATA_DIR.mkdir(exist_ok=True, parents=True)
+
+def log(message):
+    """统一日志格式"""
+    print(f"[{datetime.now().isoformat()}] {message}", file=sys.stderr, flush=True)
 
 def init_data_structure():
-    """返回一个保证有完整结构的数据字典"""
+    """初始化数据结构"""
     return {
         "_metadata": {
             "created": datetime.utcnow().isoformat(),
@@ -20,12 +31,11 @@ def init_data_structure():
     }
 
 def safe_load_json(file):
-    """安全加载JSON文件，确保返回有效数据"""
+    """安全加载JSON文件"""
     try:
-        if file.exists():
+        if file.exists() and file.stat().st_size > 0:
             with open(file, 'r', encoding='utf-8') as f:
                 data = json.load(f)
-                # 验证数据结构
                 if not isinstance(data, dict):
                     return init_data_structure()
                 if "_metadata" not in data:
@@ -33,33 +43,15 @@ def safe_load_json(file):
                 if "games" not in data:
                     data["games"] = {}
                 return data
-    except (json.JSONDecodeError, IOError) as e:
-        print(f"Warning: Failed to load {file}, creating new. Error: {str(e)}")
+    except Exception as e:
+        log(f"加载 {file} 失败: {str(e)}")
     return init_data_structure()
 
-def save_data(data, file):
-    """安全保存数据"""
-    if not isinstance(data, dict):
-        data = init_data_structure()
-    
-    # 确保元数据存在
-    if "_metadata" not in data:
-        data["_metadata"] = {}
-    data["_metadata"].update({
-        "updated": datetime.utcnow().isoformat(),
-        "version": data["_metadata"].get("version", 0) + 1
-    })
-    
-    try:
-        with open(file, 'w', encoding='utf-8') as f:
-            json.dump(data, f, indent=2, ensure_ascii=False)
-    except IOError as e:
-        print(f"Error saving {file}: {str(e)}")
-
 def check_game(appid):
-    """检查游戏信息"""
+    """检查单个游戏信息"""
     url = f"https://store.steampowered.com/api/appdetails?appids={appid}"
     try:
+        log(f"正在检查游戏 {appid}")
         response = requests.get(url, timeout=15)
         response.raise_for_status()
         data = response.json().get(str(appid), {})
@@ -74,44 +66,46 @@ def check_game(appid):
                 "last_checked": datetime.utcnow().isoformat()
             }
     except Exception as e:
-        print(f"Error checking app {appid}: {str(e)}")
+        log(f"检查游戏 {appid} 时出错: {str(e)}")
     return None
 
 def main():
-    # 初始化数据
+    log("脚本启动")
     chinese_data = safe_load_json(DATA_DIR / "chinese_games.json")
     card_data = safe_load_json(DATA_DIR / "card_games.json")
     
-    # 示例：检查前50个AppID（实际应使用GetAppList接口）
+    # 示例：检查前50个AppID
     for appid in range(1, 51):
         result = check_game(appid)
         if result:
             appid_str = str(appid)
-            # 更新中文游戏数据
             if result["supports_chinese"]:
                 chinese_data["games"][appid_str] = result
-            # 更新卡牌游戏数据
             if result["supports_cards"]:
                 card_data["games"][appid_str] = result
             
-            # 每处理5个保存一次（频繁保存防止中断丢失数据）
+            # 每处理5个保存一次
             if appid % 5 == 0:
-                save_data(chinese_data, DATA_DIR / "chinese_games.json")
-                save_data(card_data, DATA_DIR / "card_games.json")
+                with open(DATA_DIR / "chinese_games.json", 'w', encoding='utf-8') as f:
+                    json.dump(chinese_data, f, indent=2, ensure_ascii=False)
+                with open(DATA_DIR / "card_games.json", 'w', encoding='utf-8') as f:
+                    json.dump(card_data, f, indent=2, ensure_ascii=False)
         
         time.sleep(1.5)  # 遵守API限制
     
     # 最终保存
-    save_data(chinese_data, DATA_DIR / "chinese_games.json")
-    save_data(card_data, DATA_DIR / "card_games.json")
+    with open(DATA_DIR / "chinese_games.json", 'w', encoding='utf-8') as f:
+        json.dump(chinese_data, f, indent=2, ensure_ascii=False)
+    with open(DATA_DIR / "card_games.json", 'w', encoding='utf-8') as f:
+        json.dump(card_data, f, indent=2, ensure_ascii=False)
+    
+    log("脚本完成")
+    
+    # GitHub Actions 输出
+    if os.getenv("GITHUB_ACTIONS") == "true":
+        print(f"::set-output name=processed::50")
+        print(f"::set-output name=new_chinese::{len(chinese_data['games'])}")
+        print(f"::set-output name=new_cards::{len(card_data['games'])}")
 
 if __name__ == "__main__":
     main()
-if __name__ == "__main__":
-    # ...原有代码...
-    
-    # 添加GitHub Actions输出
-    if os.getenv("GITHUB_ACTIONS") == "true":
-        print(f"::set-output name=processed::{len(appids)}")
-        print(f"::set-output name=new_chinese::{len(chinese_data['games'])}")
-        print(f"::set-output name=new_cards::{len(card_data['games'])}")
