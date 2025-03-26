@@ -106,3 +106,11 @@ def main():
 
 if __name__ == "__main__":
     main()
+if __name__ == "__main__":
+    # ...原有代码...
+    
+    # 添加GitHub Actions输出
+    if os.getenv("GITHUB_ACTIONS") == "true":
+        print(f"::set-output name=processed::{len(appids)}")
+        print(f"::set-output name=new_chinese::{len(chinese_data['games'])}")
+        print(f"::set-output name=new_cards::{len(card_data['games'])}")
