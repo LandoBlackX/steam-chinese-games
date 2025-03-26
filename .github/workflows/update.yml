@@ -17,7 +17,7 @@ jobs:
         with:
           fetch-depth: 0
 
-    - name: 同步游戏列表
+      - name: 同步游戏列表
         run: |
           mkdir -p data
           wget -N https://raw.githubusercontent.com/F1NN1ER/getSteamAppListWithType/main/data/output.json -O data/output.json
