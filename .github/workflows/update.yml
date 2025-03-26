@@ -2,27 +2,71 @@ name: Update Game Data
 on:
   schedule:
     - cron: '30 12 * * *'  # 每天UTC 12:30（北京时间20:30）
-  workflow_dispatch:
+  workflow_dispatch:        # 允许手动触发
 
 jobs:
   update:
     runs-on: ubuntu-latest
+    timeout-minutes: 10     # 防止长时间挂起
+
     steps:
-      - uses: actions/checkout@v4
-      
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0   # 获取完整提交历史
+
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.10'
-      
+          cache: 'pip'      # 启用pip缓存
+
       - name: Install dependencies
-        run: pip install requests
-      
-      - name: Run scraper
-        run: python Src/scraper.py
-      
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests python-dateutil
+
+      - name: Create data directory
+        run: mkdir -p data  # 确保数据目录存在
+
+      - name: Run scraper with logs
+        id: scraper
+        run: |
+          echo "::group::Scraper Output"  # 折叠日志分组
+          python Src/scraper.py
+          echo "::endgroup::"
+          
+          # 检查是否生成了数据文件
+          if [ ! -f "data/chinese_games.json" ]; then
+            echo "::error::Chinese games file not generated!"
+            exit 1
+          fi
+          
+          if [ ! -f "data/card_games.json" ]; then
+            echo "::error::Card games file not generated!"
+            exit 1
+          fi
+
       - name: Commit changes
+        if: always()  # 即使失败也尝试提交已有更改
         uses: EndBug/add-and-commit@v9
         with:
-          message: 'Auto-update game data'
           add: 'data/*.json'
+          commit_message: |
+            Auto-update game data
+            - Processed ${{ steps.scraper.outputs.processed }} games
+            - New Chinese games: ${{ steps.scraper.outputs.new_chinese }}
+            - New card games: ${{ steps.scraper.outputs.new_cards }}
+          push: true
+          tag: 'data-${{ github.run_id }}'
+          tag_push: true
+
+      - name: Upload artifacts
+        uses: actions/upload-artifact@v3
+        if: failure()  # 仅在失败时上传日志
+        with:
+          name: error-logs
+          path: |
+            data/*.json
+            .github/workflows/update.yml
+            Src/scraper.py
