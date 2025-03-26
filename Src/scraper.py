@@ -101,11 +101,17 @@ def main():
     
     log("脚本完成")
     
-    # GitHub Actions 输出
+    # GitHub Actions 输出 (新标准方式)
     if os.getenv("GITHUB_ACTIONS") == "true":
-        print(f"::set-output name=processed::50")
-        print(f"::set-output name=new_chinese::{len(chinese_data['games'])}")
-        print(f"::set-output name=new_cards::{len(card_data['games'])}")
+        github_output = os.getenv("GITHUB_OUTPUT")
+        if github_output:
+            try:
+                with open(github_output, 'a') as f:
+                    f.write(f"processed=50\n")
+                    f.write(f"new_chinese={len(chinese_data['games'])}\n")
+                    f.write(f"new_cards={len(card_data['games'])}\n")
+            except Exception as e:
+                log(f"写入GITHUB_OUTPUT失败: {str(e)}")
 
 if __name__ == "__main__":
     main()
