@@ -1,4 +1,68 @@
 {
   "_metadata": {},
-  "games": {}
+  "games": {
+    "570": {
+      "name": "Dota 2",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-03-26T11:41:33.181611"
+    },
+    "730": {
+      "name": "Counter-Strike 2",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-03-26T11:41:34.912879"
+    },
+    "1245620": {
+      "name": "艾尔登法环",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-03-26T11:41:36.689028"
+    },
+    "1172470": {
+      "name": "Apex Legends™",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-03-26T11:41:40.253032"
+    },
+    "1091500": {
+      "name": "赛博朋克 2077",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-03-26T11:41:41.901980"
+    },
+    "292030": {
+      "name": "巫师 3：狂猎",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-03-26T11:41:43.570184"
+    },
+    "814380": {
+      "name": "Sekiro™: Shadows Die Twice - GOTY Edition",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-03-26T11:41:45.232497"
+    },
+    "275850": {
+      "name": "No Man's Sky 无人深空",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-03-26T11:41:46.904093"
+    },
+    "105600": {
+      "name": "Terraria",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-03-26T11:41:48.561664"
+    }
+  }
 }
