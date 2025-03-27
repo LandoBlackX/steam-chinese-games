@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-03-27T16:02:30.935609"
+    "updated": "2025-03-27T18:32:28.178065"
   },
   "games": {
     "570": {
@@ -206,6 +206,46 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-03-27T16:02:28.865485"
+    },
+    "3700": {
+      "appid": 3700,
+      "name": "Sniper Elite",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-03-27T18:32:27.002218"
+    },
+    "3800": {
+      "appid": 3800,
+      "name": "Advent Rising",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-03-27T18:32:27.546821"
+    },
+    "3810": {
+      "appid": 3810,
+      "name": "BloodRayne (Legacy)",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-03-27T18:32:27.738222"
+    },
+    "3820": {
+      "appid": 3820,
+      "name": "BloodRayne 2 (Legacy)",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-03-27T18:32:27.887459"
+    },
+    "3830": {
+      "appid": 3830,
+      "name": "Psychonauts",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-03-27T18:32:28.024596"
     }
   }
 }
