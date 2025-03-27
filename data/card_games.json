@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-03-26T18:05:37.538969"
+    "updated": "2025-03-27T16:02:30.935609"
   },
   "games": {
     "570": {
@@ -86,6 +86,126 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-03-26T18:05:35.860197"
+    },
+    "220": {
+      "appid": 220,
+      "name": "Half-Life 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-03-27T16:02:18.656041"
+    },
+    "300": {
+      "appid": 300,
+      "name": "Day of Defeat: Source",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-03-27T16:02:19.036859"
+    },
+    "440": {
+      "appid": 440,
+      "name": "Team Fortress 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-03-27T16:02:19.995138"
+    },
+    "550": {
+      "appid": 550,
+      "name": "Left 4 Dead 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-03-27T16:02:20.282110"
+    },
+    "620": {
+      "appid": 620,
+      "name": "Portal 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-03-27T16:02:20.436560"
+    },
+    "659": {
+      "appid": 659,
+      "name": "Portal 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-03-27T16:02:20.715261"
+    },
+    "1250": {
+      "appid": 1250,
+      "name": "Killing Floor",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-03-27T16:02:21.098880"
+    },
+    "1900": {
+      "appid": 1900,
+      "name": "Earth 2160",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-03-27T16:02:23.588606"
+    },
+    "1930": {
+      "appid": 1930,
+      "name": "Two Worlds Epic Edition",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-03-27T16:02:23.711846"
+    },
+    "2320": {
+      "appid": 2320,
+      "name": "Quake II",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-03-27T16:02:24.760879"
+    },
+    "2400": {
+      "appid": 2400,
+      "name": "The Ship: Murder Party",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-03-27T16:02:25.284995"
+    },
+    "2500": {
+      "appid": 2500,
+      "name": "Shadowgrounds",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-03-27T16:02:25.657201"
+    },
+    "2870": {
+      "appid": 2870,
+      "name": "X Rebirth",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-03-27T16:02:28.172577"
+    },
+    "2990": {
+      "appid": 2990,
+      "name": "FlatOut 2",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-03-27T16:02:28.656397"
+    },
+    "3020": {
+      "appid": 3020,
+      "name": "Call of Juarez",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-03-27T16:02:28.865485"
     }
   }
 }

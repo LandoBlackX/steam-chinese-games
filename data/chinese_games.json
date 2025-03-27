@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-03-26T18:05:37.538964"
+    "updated": "2025-03-27T16:02:30.935609"
   },
   "games": {
     "570": {
@@ -72,6 +72,190 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-03-26T18:05:37.538819"
+    },
+    "10": {
+      "appid": 10,
+      "name": "Counter-Strike",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-27T16:02:17.074761"
+    },
+    "20": {
+      "appid": 20,
+      "name": "Team Fortress Classic",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-27T16:02:17.224635"
+    },
+    "40": {
+      "appid": 40,
+      "name": "Deathmatch Classic",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-27T16:02:17.608253"
+    },
+    "60": {
+      "appid": 60,
+      "name": "Ricochet",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-27T16:02:17.858540"
+    },
+    "70": {
+      "appid": 70,
+      "name": "Half-Life",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-27T16:02:17.959099"
+    },
+    "80": {
+      "appid": 80,
+      "name": "Counter-Strike: Condition Zero",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-27T16:02:18.058850"
+    },
+    "100": {
+      "appid": 100,
+      "name": "Counter-Strike: Condition Zero",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-27T16:02:18.393850"
+    },
+    "220": {
+      "appid": 220,
+      "name": "Half-Life 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-03-27T16:02:18.656041"
+    },
+    "240": {
+      "appid": 240,
+      "name": "Counter-Strike: Source",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-27T16:02:18.764292"
+    },
+    "280": {
+      "appid": 280,
+      "name": "Half-Life: Source",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-27T16:02:18.913232"
+    },
+    "340": {
+      "appid": 340,
+      "name": "Half-Life 2: Lost Coast",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-27T16:02:19.259375"
+    },
+    "380": {
+      "appid": 380,
+      "name": "Half-Life 2: Episode One",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-27T16:02:19.484003"
+    },
+    "400": {
+      "appid": 400,
+      "name": "Portal",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-27T16:02:19.585317"
+    },
+    "420": {
+      "appid": 420,
+      "name": "Half-Life 2: Episode Two",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-27T16:02:19.708241"
+    },
+    "440": {
+      "appid": 440,
+      "name": "Team Fortress 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-03-27T16:02:19.995138"
+    },
+    "500": {
+      "appid": 500,
+      "name": "Left 4 Dead",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-27T16:02:20.155586"
+    },
+    "550": {
+      "appid": 550,
+      "name": "Left 4 Dead 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-03-27T16:02:20.282110"
+    },
+    "620": {
+      "appid": 620,
+      "name": "Portal 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-03-27T16:02:20.436560"
+    },
+    "659": {
+      "appid": 659,
+      "name": "Portal 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-03-27T16:02:20.715261"
+    },
+    "2280": {
+      "appid": 2280,
+      "name": "DOOM + DOOM II",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-27T16:02:24.402068"
+    },
+    "2810": {
+      "appid": 2810,
+      "name": "X3: Reunion",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-27T16:02:27.597481"
+    },
+    "2820": {
+      "appid": 2820,
+      "name": "X3: Terran Conflict",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-27T16:02:27.820476"
+    },
+    "2870": {
+      "appid": 2870,
+      "name": "X Rebirth",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-03-27T16:02:28.172577"
     }
   }
 }
