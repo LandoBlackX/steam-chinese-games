@@ -1,8 +1,8 @@
 name: Update Game Data
 on:
   schedule:
-    - cron: '30 12 * * *'  # 每天UTC 12:30（北京时间20:30）
-  workflow_dispatch:
+    - cron: '0 */2 * * *'  # 每2小时运行一次（UTC时间）
+  workflow_dispatch:  # 支持手动触发
 
 jobs:
   update:
@@ -21,15 +21,10 @@ jobs:
         run: |
           echo "::group::📥 正在同步游戏列表"
           mkdir -p data
-          wget -N --progress=dot:giga https://raw.githubusercontent.com/F1NN1ER/getSteamAppListWithType/main/data/output.json -O data/output.json
+          curl -z data/output.json -o data/output.json \
+            https://raw.githubusercontent.com/F1NN1ER/getSteamAppListWithType/main/data/output.json
           echo "当前文件大小: $(du -h data/output.json | cut -f1)"
           echo "::endgroup::"
-
-      - name: 验证数据源
-        run: |
-          echo "=== 文件状态 ==="
-          ls -lh data/output.json
-          echo "最后修改时间: $(date -r data/output.json)"
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -39,29 +34,11 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install requests jq
+          pip install requests
 
       - name: Run scraper
         id: scraper
         run: python Src/scraper.py
-
-      - name: Verify data files
-        run: |
-          echo "=== 数据验证 ==="
-          echo "中文游戏: $(jq '.games | length' data/chinese_games.json)"
-          jq '.games[] | .name' data/chinese_games.json
-          echo "卡牌游戏: $(jq '.games | length' data/card_games.json)"
-
-      - name: Create date tag
-        id: date-tag
-        run: |
-          TAG_DATE=$(date +'v%Y.%m.%d')
-          if git rev-parse "$TAG_DATE" >/dev/null 2>&1; then
-            echo "tag_exists=true" >> $GITHUB_OUTPUT
-          else
-            echo "tag_name=$TAG_DATE" >> $GITHUB_OUTPUT
-            git tag $TAG_DATE
-          fi
 
       - name: Commit changes
         uses: EndBug/add-and-commit@v9
@@ -69,24 +46,7 @@ jobs:
           add: 'data/*.json'
           message: |
             🎮 游戏数据更新 [${{ github.run_number }}]
-            
             统计结果：
-            ✅ 中文游戏: ${{ steps.scraper.outputs.new_chinese }}/${{ steps.scraper.outputs.processed }}
-            🃏 卡牌游戏: ${{ steps.scraper.outputs.new_cards }}/${{ steps.scraper.outputs.processed }}
-            
-            标签: ${{ steps.date-tag.outputs.tag_name || '无新标签' }}
+            ✅ 中文游戏: ${{ steps.scraper.outputs.new_chinese }}
+            🃏 卡牌游戏: ${{ steps.scraper.outputs.new_cards }}
           push: true
-
-      - name: Push new tag
-        if: steps.date-tag.outputs.tag_name
-        run: git push origin ${{ steps.date-tag.outputs.tag_name }}
-
-      - name: Upload debug info
-        if: failure()
-        uses: actions/upload-artifact@v4
-        with:
-          name: debug-${{ github.run_number }}
-          path: |
-            data/*.json
-            Src/scraper.py
-          retention-days: 7
