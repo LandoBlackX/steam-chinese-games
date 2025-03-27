@@ -41,7 +41,7 @@ def safe_load_json(file):
     return init_data_structure()
 
 def load_game_appids():
-    """从output.json加载所有游戏类AppID"""
+    """从output.json加载游戏类AppID"""
     output_path = DATA_DIR / "output.json"
     if not output_path.exists():
         log("错误：output.json 文件不存在")
@@ -50,41 +50,29 @@ def load_game_appids():
     try:
         with open(output_path, 'r', encoding='utf-8') as f:
             data = json.load(f)
-            appids = [
-                int(app["appid"]) 
-                for app in data.values() 
-                if app.get("type") == "game"
-            ]
-            log(f"从output.json加载到 {len(appids)} 个游戏类AppID（示例：{appids[:5]}...）")
+            appids = [int(appid) for appid, app in data.items() if app.get("type") == "game"]
+            log(f"从output.json加载到 {len(appids)} 个游戏类AppID")
             return appids
     except Exception as e:
-        log(f"加载失败: {str(e)}")
+        log(f"加载 output.json 失败: {str(e)}")
         return []
 
 def check_game(appid):
     """检查单个游戏信息（含错误重试）"""
     url = f"https://store.steampowered.com/api/appdetails?appids={appid}&l=schinese"
     retries = 3
-    
     for attempt in range(retries):
         try:
             response = requests.get(url, timeout=15)
             response.raise_for_status()
             data = response.json().get(str(appid), {})
-            
             if data.get("success", False):
                 game_data = data["data"]
                 langs = game_data.get("supported_languages", "") + "|" + game_data.get("languages", "")
-                
-                # 中文检测逻辑
                 chinese_keywords = ['schinese', 'tchinese', '中文', '简体', '繁体']
                 has_chinese = any(kw in langs.lower() for kw in chinese_keywords)
-                
-                # 卡牌检测逻辑
                 has_cards = any(cat.get("id") == 29 for cat in game_data.get("categories", []))
-                
                 log(f"游戏 {appid} => {'支持中文' if has_chinese else '无中文'} | {'有卡牌' if has_cards else '无卡牌'}")
-                
                 return {
                     "appid": appid,
                     "name": game_data.get("name", f"Unknown_{appid}"),
@@ -93,7 +81,6 @@ def check_game(appid):
                     "supports_cards": has_cards,
                     "last_checked": datetime.utcnow().isoformat()
                 }
-                
         except requests.exceptions.RequestException as e:
             if attempt < retries - 1:
                 wait = 2 ** attempt
@@ -101,7 +88,6 @@ def check_game(appid):
                 time.sleep(wait)
             else:
                 log(f"检查游戏 {appid} 最终失败: {str(e)}")
-    
     return None
 
 def save_data(data, file_path):
@@ -117,26 +103,19 @@ def save_data(data, file_path):
 def main():
     log("脚本启动")
     
-    # 初始化数据文件
+    # 加载现有数据
     chinese_data = safe_load_json(DATA_DIR / "chinese_games.json")
     card_data = safe_load_json(DATA_DIR / "card_games.json")
     
-    # 加载游戏类AppID
+    # 加载所有游戏类AppID
     all_appids = load_game_appids()
     if not all_appids:
-        log("未找到有效AppID，终止执行")
+        log("没有游戏类AppID需要处理")
         return
     
-    # 计算待处理范围
-    processed_count = len(chinese_data["games"])
-    batch_size = 200
-    test_appids = all_appids[processed_count : processed_count + batch_size]
-    
-    if not test_appids:
-        log("没有需要处理的新AppID")
-        return
-    
-    log(f"开始处理 {len(test_appids)} 个AppID（从#{processed_count}开始）")
+    # 当前逻辑：处理所有AppID（后续可改为增量更新）
+    test_appids = all_appids
+    log(f"开始处理 {len(test_appids)} 个AppID")
 
     # 并发处理（3线程）
     with ThreadPoolExecutor(max_workers=3) as executor:
@@ -171,8 +150,8 @@ def main():
     if os.getenv("GITHUB_ACTIONS") == "true":
         with open(os.getenv("GITHUB_OUTPUT"), 'a') as f:
             f.write(f"processed={len(test_appids)}\n")
-            f.write(f"new_chinese={len(chinese_data['games']) - processed_count}\n")
-            f.write(f"new_cards={len(card_data['games']) - processed_count}\n")
+            f.write(f"new_chinese={len(chinese_data['games'])}\n")
+            f.write(f"new_cards={len(card_data['games'])}\n")
 
 if __name__ == "__main__":
     main()
