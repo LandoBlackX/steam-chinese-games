@@ -3,7 +3,7 @@ import sys
 import requests
 import json
 from pathlib import Path
-from datetime import datetime
+from datetime import datetime, timedelta
 import time
 from concurrent.futures import ThreadPoolExecutor
 
@@ -40,8 +40,8 @@ def safe_load_json(file):
         log(f"加载 {file} 失败: {str(e)}")
     return init_data_structure()
 
-def load_game_appids():
-    """从output.json加载游戏类AppID"""
+def load_game_appids(existing_chinese, existing_cards):
+    """从output.json加载需要处理的游戏类AppID"""
     output_path = DATA_DIR / "output.json"
     if not output_path.exists():
         log("错误：output.json 文件不存在")
@@ -50,15 +50,27 @@ def load_game_appids():
     try:
         with open(output_path, 'r', encoding='utf-8') as f:
             data = json.load(f)
-            appids = [int(appid) for appid, app in data.items() if app.get("type") == "game"]
-            log(f"从output.json加载到 {len(appids)} 个游戏类AppID")
-            return appids
+            if not isinstance(data, dict):
+                log("错误：output.json 内容不是有效的字典")
+                return []
+            appids = []
+            thirty_days_ago = datetime.utcnow() - timedelta(days=30)
+            for appid, app_info in data.items():
+                if app_info == "game":  # 注意：这里根据实际output.json格式调整
+                    appid_int = int(appid)
+                    existing_c = existing_chinese["games"].get(appid, {})
+                    existing_card = existing_cards["games"].get(appid, {})
+                    last_checked = existing_c.get("last_checked") or existing_card.get("last_checked")
+                    if not last_checked or datetime.fromisoformat(last_checked) < thirty_days_ago:
+                        appids.append(appid_int)
+            log(f"从output.json加载到 {len(appids)} 个待处理游戏类AppID")
+            return appids[:100]  # 每次最多处理100个
     except Exception as e:
         log(f"加载 output.json 失败: {str(e)}")
         return []
 
 def check_game(appid):
-    """检查单个游戏信息（含错误重试）"""
+    """检查单个游戏信息（含错误重试和2秒间隔）"""
     url = f"https://store.steampowered.com/api/appdetails?appids={appid}&l=schinese"
     retries = 3
     for attempt in range(retries):
@@ -76,7 +88,7 @@ def check_game(appid):
                 return {
                     "appid": appid,
                     "name": game_data.get("name", f"Unknown_{appid}"),
-                    "type": game_data.get("type", "unknown"),
+                    "type": game_data.get("type", "game"),
                     "supports_chinese": has_chinese,
                     "supports_cards": has_cards,
                     "last_checked": datetime.utcnow().isoformat()
@@ -88,6 +100,7 @@ def check_game(appid):
                 time.sleep(wait)
             else:
                 log(f"检查游戏 {appid} 最终失败: {str(e)}")
+    time.sleep(2)  # 每次请求后等待2秒
     return None
 
 def save_data(data, file_path):
@@ -103,23 +116,24 @@ def save_data(data, file_path):
 def main():
     log("脚本启动")
     
-    # 加载现有数据
+    # 初始化数据文件
     chinese_data = safe_load_json(DATA_DIR / "chinese_games.json")
     card_data = safe_load_json(DATA_DIR / "card_games.json")
     
-    # 加载所有游戏类AppID
-    all_appids = load_game_appids()
-    if not all_appids:
-        log("没有游戏类AppID需要处理")
+    # 加载待处理游戏类AppID
+    test_appids = load_game_appids(chinese_data, card_data)
+    if not test_appids:
+        log("没有需要处理的新AppID，终止执行")
         return
     
-    # 当前逻辑：处理所有AppID（后续可改为增量更新）
-    test_appids = all_appids
     log(f"开始处理 {len(test_appids)} 个AppID")
 
-    # 并发处理（3线程）
-    with ThreadPoolExecutor(max_workers=3) as executor:
-        results = list(executor.map(check_game, test_appids))
+    # 单线程处理，确保每2秒一个请求
+    results = []
+    for appid in test_appids:
+        result = check_game(appid)
+        if result:
+            results.append(result)
 
     # 更新数据
     updated = False
