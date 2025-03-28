@@ -98,7 +98,7 @@ def main():
     conn.commit()
 
     rows = cursor.execute("SELECT appid FROM apps WHERE status = false").fetchall()
-    appids = [row[0] for row in rows[:50]]  # 每次处理 50 个 AppID
+    appids = [row[0] for row in rows[:100]]  # 每次处理 100 个 AppID
     if not appids:
         log("没有需要处理的新 AppID，终止执行")
         cursor.close()
@@ -119,8 +119,8 @@ def main():
     cursor.close()
     conn.close()
 
-    log("完成 get_app_details.py，等待 30 秒后继续...")
-    time.sleep(30)
+    log("完成 get_app_details.py，等待 15 秒后继续...")
+    time.sleep(15)
 
 if __name__ == "__main__":
     main()
