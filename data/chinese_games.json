@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-03-28T17:09:50.352217"
+    "updated": "2025-03-28T17:31:44.133512"
   },
   "games": {
     "570": {
@@ -584,6 +584,142 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-03-28T17:09:42.861595"
+    },
+    "3570670": {
+      "appid": 3570670,
+      "name": "巫回",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-28T17:31:28.502326"
+    },
+    "3570570": {
+      "appid": 3570570,
+      "name": "Windows Separate Worlds: Chapter 1",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-28T17:31:28.891274"
+    },
+    "3570490": {
+      "appid": 3570490,
+      "name": "Фронтир: Путем Теней",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-28T17:31:29.331624"
+    },
+    "3570360": {
+      "appid": 3570360,
+      "name": "七夜神社",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-28T17:31:30.236522"
+    },
+    "3570340": {
+      "appid": 3570340,
+      "name": "这个CEO我当定了！",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-28T17:31:30.383572"
+    },
+    "3570260": {
+      "appid": 3570260,
+      "name": "Tower of Nightmares",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-28T17:31:30.644627"
+    },
+    "3569950": {
+      "appid": 3569950,
+      "name": "Everdream Village",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-28T17:31:32.450995"
+    },
+    "3569700": {
+      "appid": 3569700,
+      "name": "祖宗饶命",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-28T17:31:33.038584"
+    },
+    "3569590": {
+      "appid": 3569590,
+      "name": "Newton Coin",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-28T17:31:33.317879"
+    },
+    "3569500": {
+      "appid": 3569500,
+      "name": "扑可萌卡牌店模拟器 联机版",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-28T17:31:33.740143"
+    },
+    "3569480": {
+      "appid": 3569480,
+      "name": "凌天2: 你的命定王子",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-28T17:31:33.899464"
+    },
+    "3568800": {
+      "appid": 3568800,
+      "name": "Welcome to the Chop House",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-28T17:31:36.136946"
+    },
+    "3568570": {
+      "appid": 3568570,
+      "name": "Anode Heart 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-28T17:31:37.314861"
+    },
+    "3568480": {
+      "appid": 3568480,
+      "name": "乌水有多深?",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-28T17:31:37.843301"
+    },
+    "3567940": {
+      "appid": 3567940,
+      "name": "失乡骑士",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-28T17:31:40.469998"
+    },
+    "3567920": {
+      "appid": 3567920,
+      "name": "深渊之书",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-28T17:31:40.601331"
+    },
+    "3567060": {
+      "appid": 3567060,
+      "name": "英雄经理人",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-28T17:31:43.990981"
     }
   }
 }
