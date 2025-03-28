@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-03-28T17:31:44.133512"
+    "updated": "2025-03-28T17:45:23.691657"
   },
   "games": {
     "570": {
@@ -720,6 +720,294 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-03-28T17:31:43.990981"
+    },
+    "3567010": {
+      "appid": 3567010,
+      "name": "Gravethorn",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-28T17:45:10.884677"
+    },
+    "3567000": {
+      "appid": 3567000,
+      "name": "洗屋人",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-28T17:45:11.006394"
+    },
+    "3566860": {
+      "appid": 3566860,
+      "name": "东方天试院",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-28T17:45:12.005826"
+    },
+    "3566780": {
+      "appid": 3566780,
+      "name": "BOX HUSTLE",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-28T17:45:12.393026"
+    },
+    "3566670": {
+      "appid": 3566670,
+      "name": "Speed Surge",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-28T17:45:12.890469"
+    },
+    "3566480": {
+      "appid": 3566480,
+      "name": "Switcheroo",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-28T17:45:13.642315"
+    },
+    "3566410": {
+      "appid": 3566410,
+      "name": "Sexy Puzzle",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-28T17:45:13.909843"
+    },
+    "3566270": {
+      "appid": 3566270,
+      "name": "Survivors of the Wildstone",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-28T17:45:14.283413"
+    },
+    "3566200": {
+      "appid": 3566200,
+      "name": "Pocket City 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-28T17:45:14.406838"
+    },
+    "3566180": {
+      "appid": 3566180,
+      "name": "Honey：欲望、尊严与毁灭",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-28T17:45:14.521444"
+    },
+    "3566070": {
+      "appid": 3566070,
+      "name": "Shooting Range Simulator: Prologue",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-28T17:45:15.010703"
+    },
+    "3566050": {
+      "appid": 3566050,
+      "name": "夜鹰号",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-28T17:45:15.281928"
+    },
+    "3565980": {
+      "appid": 3565980,
+      "name": "The Stalked 3",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-28T17:45:15.401429"
+    },
+    "3565740": {
+      "appid": 3565740,
+      "name": "BannerBound",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-28T17:45:16.013837"
+    },
+    "3565720": {
+      "appid": 3565720,
+      "name": "星际战场",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-28T17:45:16.141967"
+    },
+    "3565650": {
+      "appid": 3565650,
+      "name": "Drone Simulator VR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-28T17:45:16.532342"
+    },
+    "3565560": {
+      "appid": 3565560,
+      "name": "BOX KING",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-28T17:45:17.348063"
+    },
+    "3565390": {
+      "appid": 3565390,
+      "name": "SIGILLUM",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-28T17:45:17.615062"
+    },
+    "3565290": {
+      "appid": 3565290,
+      "name": "无限进化",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-28T17:45:17.738511"
+    },
+    "3565150": {
+      "appid": 3565150,
+      "name": "感染",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-28T17:45:17.991410"
+    },
+    "3565100": {
+      "appid": 3565100,
+      "name": "盲盒拆拆乐园",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-28T17:45:18.368164"
+    },
+    "3565050": {
+      "appid": 3565050,
+      "name": "Trucker Horror",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-28T17:45:18.738539"
+    },
+    "3565030": {
+      "appid": 3565030,
+      "name": "Online Records: Unknown Seller",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-28T17:45:18.863476"
+    },
+    "3564900": {
+      "appid": 3564900,
+      "name": "VR Dunk Assistant",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-28T17:45:19.103322"
+    },
+    "3564880": {
+      "appid": 3564880,
+      "name": "VR Wilderness Survival",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-28T17:45:19.232858"
+    },
+    "3564870": {
+      "appid": 3564870,
+      "name": "奇妙手办柜",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-28T17:45:19.365708"
+    },
+    "3564710": {
+      "appid": 3564710,
+      "name": "Clicksama",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-28T17:45:20.011971"
+    },
+    "3564570": {
+      "appid": 3564570,
+      "name": "迷蝓",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-28T17:45:20.870562"
+    },
+    "3564530": {
+      "appid": 3564530,
+      "name": "Hidden Cats - St. Patrick",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-28T17:45:21.023882"
+    },
+    "3564140": {
+      "appid": 3564140,
+      "name": "AI Gallery ”Onsen”",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-28T17:45:21.636360"
+    },
+    "3564130": {
+      "appid": 3564130,
+      "name": "AI Gallery ”Kimono”",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-28T17:45:21.767960"
+    },
+    "3564110": {
+      "appid": 3564110,
+      "name": "DX Legends",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-28T17:45:21.882205"
+    },
+    "3563950": {
+      "appid": 3563950,
+      "name": "Phantom Ops",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-28T17:45:22.009009"
+    },
+    "3563710": {
+      "appid": 3563710,
+      "name": "Black Smith Shop Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-28T17:45:22.648114"
+    },
+    "3563570": {
+      "appid": 3563570,
+      "name": "The Biggest Fool: DURAK",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-28T17:45:23.052676"
+    },
+    "3563530": {
+      "appid": 3563530,
+      "name": "Brass Lament",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-28T17:45:23.294544"
     }
   }
 }
