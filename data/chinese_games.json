@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-03-28T14:22:38.245441"
+    "updated": "2025-03-28T14:44:00.840558"
   },
   "games": {
     "570": {
@@ -496,6 +496,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-03-28T13:52:46.685847"
+    },
+    "33230": {
+      "appid": 33230,
+      "name": "Assassin's Creed 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-28T14:44:00.019246"
     }
   }
 }

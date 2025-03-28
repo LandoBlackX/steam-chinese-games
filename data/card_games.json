@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-03-28T14:22:38.245441"
+    "updated": "2025-03-28T14:44:00.840558"
   },
   "games": {
     "570": {
@@ -662,6 +662,30 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-03-28T14:22:31.265202"
+    },
+    "33100": {
+      "appid": 33100,
+      "name": "Alien Shooter",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-03-28T14:43:58.834873"
+    },
+    "33110": {
+      "appid": 33110,
+      "name": "Alien Shooter: Revisited",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-03-28T14:43:59.004415"
+    },
+    "33120": {
+      "appid": 33120,
+      "name": "Alien Shooter 2: Reloaded",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-03-28T14:43:59.268823"
     }
   }
 }
