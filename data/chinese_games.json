@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-03-28T13:40:15.606026"
+    "updated": "2025-03-28T13:52:49.547432"
   },
   "games": {
     "570": {
@@ -464,6 +464,38 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-03-28T13:40:14.050652"
+    },
+    "24790": {
+      "appid": 24790,
+      "name": "《命令与征服3：泰伯利亚战争》",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-28T13:52:43.032530"
+    },
+    "24800": {
+      "appid": 24800,
+      "name": "《命令与征服：红色警戒 3》起义",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-28T13:52:43.225510"
+    },
+    "24810": {
+      "appid": 24810,
+      "name": "命令与征服3: 凯恩之怒",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-28T13:52:43.369411"
+    },
+    "26000": {
+      "appid": 26000,
+      "name": "The Maw",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-28T13:52:46.685847"
     }
   }
 }

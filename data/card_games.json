@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-03-28T13:40:15.606026"
+    "updated": "2025-03-28T13:52:49.547432"
   },
   "games": {
     "570": {
@@ -630,6 +630,30 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-03-28T13:40:14.365315"
+    },
+    "25800": {
+      "appid": 25800,
+      "name": "Europa Universalis III Complete",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-03-28T13:52:44.818912"
+    },
+    "25890": {
+      "appid": 25890,
+      "name": "Hearts of Iron III",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-03-28T13:52:45.658164"
+    },
+    "27000": {
+      "appid": 27000,
+      "name": "The Path",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-03-28T13:52:47.307650"
     }
   }
 }
