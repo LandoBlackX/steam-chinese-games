@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-03-28T10:49:08.372185"
+    "updated": "2025-03-28T11:07:45.955474"
   },
   "games": {
     "570": {
@@ -342,6 +342,38 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-03-28T10:49:06.559862"
+    },
+    "8500": {
+      "appid": 8500,
+      "name": "EVE Online",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-03-28T11:07:38.961739"
+    },
+    "8870": {
+      "appid": 8870,
+      "name": "生化奇兵：无限 完全版",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-03-28T11:07:39.882483"
+    },
+    "8930": {
+      "appid": 8930,
+      "name": "Sid Meier's Civilization® V",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-03-28T11:07:40.324557"
+    },
+    "9940": {
+      "appid": 9940,
+      "name": "Blade Kitten",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-03-28T11:07:43.893043"
     }
   }
 }
