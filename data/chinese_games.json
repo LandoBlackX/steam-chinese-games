@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-03-28T20:34:57.476883"
+    "updated": "2025-03-28T20:47:20.623747"
   },
   "games": {
     "570": {
@@ -2936,6 +2936,174 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-03-28T20:34:57.475475"
+    },
+    "3530010": {
+      "appid": 3530010,
+      "name": "种喵得喵",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-28T20:47:07.558201"
+    },
+    "3529970": {
+      "appid": 3529970,
+      "name": "LiveCap",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-28T20:47:07.717087"
+    },
+    "3529380": {
+      "appid": 3529380,
+      "name": "Carrotour 逻卜巡萝",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-28T20:47:09.393428"
+    },
+    "3529010": {
+      "appid": 3529010,
+      "name": "Blood Curse Legions",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-28T20:47:10.622369"
+    },
+    "3528970": {
+      "appid": 3528970,
+      "name": "Unmourned",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-28T20:47:10.956155"
+    },
+    "3528450": {
+      "appid": 3528450,
+      "name": "纸房子",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-28T20:47:13.038884"
+    },
+    "3528380": {
+      "appid": 3528380,
+      "name": "ScaleBox",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-28T20:47:13.408007"
+    },
+    "3528190": {
+      "appid": 3528190,
+      "name": "月之冕",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-28T20:47:13.817944"
+    },
+    "3527920": {
+      "appid": 3527920,
+      "name": "CoRoT",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-28T20:47:14.576024"
+    },
+    "3527900": {
+      "appid": 3527900,
+      "name": "破法神谕",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-28T20:47:14.912797"
+    },
+    "3527760": {
+      "appid": 3527760,
+      "name": "RoboCop: Rogue City - Unfinished Business",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-28T20:47:15.612398"
+    },
+    "3527750": {
+      "appid": 3527750,
+      "name": "爱人：Aijin",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-28T20:47:15.728078"
+    },
+    "3527650": {
+      "appid": 3527650,
+      "name": "Taskbar Looters",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-28T20:47:15.964713"
+    },
+    "3527340": {
+      "appid": 3527340,
+      "name": "Castle War",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-28T20:47:16.238247"
+    },
+    "3527250": {
+      "appid": 3527250,
+      "name": "自然选择大学",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-28T20:47:16.591721"
+    },
+    "3526830": {
+      "appid": 3526830,
+      "name": "Demon Goblin and Mr. Knight",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-28T20:47:17.765396"
+    },
+    "3525940": {
+      "appid": 3525940,
+      "name": "Pestilence",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-28T20:47:19.497265"
+    },
+    "3525880": {
+      "appid": 3525880,
+      "name": "How Much Items - Vehicles",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-28T20:47:19.817349"
+    },
+    "3525850": {
+      "appid": 3525850,
+      "name": "How Much Items - Animals",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-28T20:47:19.923138"
+    },
+    "3525650": {
+      "appid": 3525650,
+      "name": "Macro Data Refinement Simulator: Shapes",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-28T20:47:20.302830"
+    },
+    "3525580": {
+      "appid": 3525580,
+      "name": "城堡战记",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-28T20:47:20.448751"
     }
   }
 }
