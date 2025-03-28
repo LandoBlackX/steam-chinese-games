@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-03-28T11:39:51.211397"
+    "updated": "2025-03-28T11:52:09.326673"
   },
   "games": {
     "570": {
@@ -438,6 +438,30 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-03-28T11:26:13.082862"
+    },
+    "15620": {
+      "appid": 15620,
+      "name": "Warhammer 40,000: Dawn of War II - Anniversary Edition",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-03-28T11:52:04.049402"
+    },
+    "15700": {
+      "appid": 15700,
+      "name": "Oddworld: Abe's Oddysee®",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-03-28T11:52:04.224705"
+    },
+    "15740": {
+      "appid": 15740,
+      "name": "Oddworld: Munch's Oddysee",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-03-28T11:52:04.578168"
     }
   }
 }
