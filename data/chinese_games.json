@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-03-28T19:27:16.298293"
+    "updated": "2025-03-28T19:40:02.890976"
   },
   "games": {
     "570": {
@@ -2032,6 +2032,230 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-03-28T19:27:15.549425"
+    },
+    "3544120": {
+      "appid": 3544120,
+      "name": "Rollover",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-28T19:39:50.869798"
+    },
+    "3544100": {
+      "appid": 3544100,
+      "name": "重返大学时代",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-28T19:39:51.073116"
+    },
+    "3544030": {
+      "appid": 3544030,
+      "name": "Magic World",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-28T19:39:51.626343"
+    },
+    "3544020": {
+      "appid": 3544020,
+      "name": "Unknot! -解结!-",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-28T19:39:51.748568"
+    },
+    "3543960": {
+      "appid": 3543960,
+      "name": "问题偶像的养成计划",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-28T19:39:52.108967"
+    },
+    "3543890": {
+      "appid": 3543890,
+      "name": "Boat Together",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-28T19:39:52.415099"
+    },
+    "3543710": {
+      "appid": 3543710,
+      "name": "A Few Days With : Hazel",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-28T19:39:53.047888"
+    },
+    "3543640": {
+      "appid": 3543640,
+      "name": "凡人神将传",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-28T19:39:53.187144"
+    },
+    "3543490": {
+      "appid": 3543490,
+      "name": "The Peacemakers",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-28T19:39:53.397082"
+    },
+    "3543410": {
+      "appid": 3543410,
+      "name": "Meow Meow Kattie",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-28T19:39:53.879786"
+    },
+    "3543300": {
+      "appid": 3543300,
+      "name": "Medic Mayhem",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-28T19:39:54.228851"
+    },
+    "3543050": {
+      "appid": 3543050,
+      "name": "MOSS Becoming Human",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-28T19:39:54.881617"
+    },
+    "3542790": {
+      "appid": 3542790,
+      "name": "Riseon",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-28T19:39:56.002273"
+    },
+    "3542380": {
+      "appid": 3542380,
+      "name": "Rune Dice",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-28T19:39:57.399137"
+    },
+    "3542300": {
+      "appid": 3542300,
+      "name": "Car Cleaner Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-28T19:39:57.946091"
+    },
+    "3541880": {
+      "appid": 3541880,
+      "name": "LABYBAN",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-28T19:39:58.454335"
+    },
+    "3541770": {
+      "appid": 3541770,
+      "name": "Toilet Empire",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-28T19:39:58.931711"
+    },
+    "3541750": {
+      "appid": 3541750,
+      "name": "古咒迷途",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-28T19:39:59.038326"
+    },
+    "3541630": {
+      "appid": 3541630,
+      "name": "HR: Human Remains",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-28T19:39:59.480808"
+    },
+    "3541480": {
+      "appid": 3541480,
+      "name": "MIRROR MIRROR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-28T19:39:59.724521"
+    },
+    "3541350": {
+      "appid": 3541350,
+      "name": "Candy & Emily: Hentai Puzzle 18+",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-28T19:40:00.160274"
+    },
+    "3541180": {
+      "appid": 3541180,
+      "name": "梦境边界",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-28T19:40:00.750650"
+    },
+    "3541050": {
+      "appid": 3541050,
+      "name": "Draw in the tray 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-28T19:40:01.230830"
+    },
+    "3541000": {
+      "appid": 3541000,
+      "name": "Kingdom Loop",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-28T19:40:01.333172"
+    },
+    "3540870": {
+      "appid": 3540870,
+      "name": "You are a Failed Murderer",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-28T19:40:01.982209"
+    },
+    "3540830": {
+      "appid": 3540830,
+      "name": "菜鸟闯江湖",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-28T19:40:02.159657"
+    },
+    "3540760": {
+      "appid": 3540760,
+      "name": "巨匠眼",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-28T19:40:02.439588"
+    },
+    "3540670": {
+      "appid": 3540670,
+      "name": "SQUASER 5",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-28T19:40:02.681929"
     }
   }
 }
