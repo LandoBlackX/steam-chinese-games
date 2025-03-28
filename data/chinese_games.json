@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-03-28T11:26:13.967287"
+    "updated": "2025-03-28T11:39:51.211397"
   },
   "games": {
     "570": {
@@ -352,6 +352,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-03-28T11:26:08.553197"
+    },
+    "12480": {
+      "appid": 12480,
+      "name": "9th Company: Roots Of Terror",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-28T11:39:44.699359"
     }
   }
 }
