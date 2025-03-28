@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-03-28T11:52:09.326673"
+    "updated": "2025-03-28T12:45:59.945875"
   },
   "games": {
     "570": {
@@ -360,6 +360,38 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-03-28T11:39:44.699359"
+    },
+    "17480": {
+      "appid": 17480,
+      "name": "《命令与征服™：红色警戒 3》",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-28T12:45:54.842137"
+    },
+    "17500": {
+      "appid": 17500,
+      "name": "Zombie Panic! Source",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-28T12:45:55.022678"
+    },
+    "17570": {
+      "appid": 17570,
+      "name": "Pirates, Vikings, and Knights II",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-28T12:45:55.140206"
+    },
+    "17580": {
+      "appid": 17580,
+      "name": "Dystopia",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-28T12:45:55.275319"
     }
   }
 }

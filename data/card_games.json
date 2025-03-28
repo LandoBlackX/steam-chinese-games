@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-03-28T11:52:09.326673"
+    "updated": "2025-03-28T12:45:59.945875"
   },
   "games": {
     "570": {
@@ -462,6 +462,70 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-03-28T11:52:04.578168"
+    },
+    "17390": {
+      "appid": 17390,
+      "name": "SPORE™",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-03-28T12:45:54.056314"
+    },
+    "17410": {
+      "appid": 17410,
+      "name": "Mirror's Edge™",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-03-28T12:45:54.276073"
+    },
+    "17470": {
+      "appid": 17470,
+      "name": "Dead Space (2008)",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-03-28T12:45:54.725456"
+    },
+    "17710": {
+      "appid": 17710,
+      "name": "Nuclear Dawn",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-03-28T12:45:55.397719"
+    },
+    "18300": {
+      "appid": 18300,
+      "name": "Spectraball",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-03-28T12:45:57.409336"
+    },
+    "18400": {
+      "appid": 18400,
+      "name": "Crazy Machines 2",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-03-28T12:45:57.625972"
+    },
+    "18500": {
+      "appid": 18500,
+      "name": "Defense Grid: The Awakening",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-03-28T12:45:58.790836"
+    },
+    "18820": {
+      "appid": 18820,
+      "name": "Zero Gear",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-03-28T12:45:59.253383"
     }
   }
 }
