@@ -5,6 +5,8 @@ import warnings
 from pathlib import Path
 import requests
 from urllib3.exceptions import InsecureRequestWarning
+import time
+from datetime import datetime
 
 warnings.simplefilter('ignore', InsecureRequestWarning)
 
@@ -16,6 +18,27 @@ DATA_DIR.mkdir(exist_ok=True, parents=True)
 db_path = DATA_DIR / 'app_list.db'
 getDetails_URL = "https://store.steampowered.com/api/appdetails?l=english&appids="
 output_file = DATA_DIR / 'output.json'
+
+class SteamRateLimiter:
+    def __init__(self, requests_per_minute=200):
+        self.requests_per_minute = requests_per_minute
+        self.request_timestamps = []
+
+    def can_make_request(self):
+        current_time = time.time()
+        self.request_timestamps = [t for t in self.request_timestamps if current_time - t < 60]
+        if len(self.request_timestamps) < self.requests_per_minute:
+            self.request_timestamps.append(current_time)
+            return True
+        return False
+
+    def wait_for_slot(self):
+        while not self.can_make_request():
+            time.sleep(1)
+
+def log(message):
+    """统一日志格式"""
+    print(f"[{datetime.now().isoformat()}] {message}", file=sys.stderr, flush=True)
 
 def write_results_to_file(results):
     if output_file.exists():
@@ -33,34 +56,37 @@ def update_status(conn, cursor, appid):
     cursor.execute("UPDATE apps SET status = true WHERE appid = ?", (appid,))
     conn.commit()
 
-def check(appid, results, cursor, conn):
+def check_app(appid, rate_limiter):
     url = f"{getDetails_URL}{appid}"
+    rate_limiter.wait_for_slot()
     try:
-        response = requests.get(url, verify=False)
+        start = time.time()
+        response = requests.get(url, verify=False, timeout=15)
+        duration = time.time() - start
         response.raise_for_status()
         data = response.json()
-        update_status(conn, cursor, appid)
-        if data[str(appid)]['success']:
-            app_data = data[str(appid)]['data']
+        appid_str = str(appid)
+        if data.get(appid_str, {}).get('success'):
+            app_data = data[appid_str]['data']
             app_type = app_data.get('type', 'Unknown')
-            results[appid] = app_type
-            print(f"AppID: {appid}, 类型: {app_type}")
+            log(f"AppID: {appid}, 类型: {app_type}, 响应时间: {duration:.2f}秒")
+            return appid, app_type
         else:
-            print(f"获取appid: {appid}的详情失败")
+            log(f"获取 AppID: {appid} 的详情失败")
+            return appid, None
     except requests.exceptions.RequestException as e:
-        print(f"appid: {appid}的HTTP请求失败，错误: {e}")
-        write_results_to_file(results)
-        cursor.close()
-        conn.close()
-        exit(0)
-    except ValueError as e:
-        print(f"appid: {appid}的JSON解析失败，错误: {e}")
+        if "429" in str(e):
+            log(f"触发 429 错误，暂停 5 分钟后重试...")
+            time.sleep(300)
+            return appid, None
+        else:
+            log(f"请求 AppID: {appid} 失败: {e}")
+            return appid, None
 
 def main():
     conn = sqlite3.connect(db_path)
     cursor = conn.cursor()
 
-    # 确保表结构包含 scraper_status 字段
     cursor.execute('''
     CREATE TABLE IF NOT EXISTS apps (
         appid INTEGER PRIMARY KEY,
@@ -71,15 +97,29 @@ def main():
     conn.commit()
 
     rows = cursor.execute("SELECT appid FROM apps WHERE status = false").fetchall()
+    appids = [row[0] for row in rows[:50]]  # 每次处理 50 个 AppID
+    if not appids:
+        log("没有需要处理的新 AppID，终止执行")
+        cursor.close()
+        conn.close()
+        return
+
+    log(f"开始处理 {len(appids)} 个 AppID")
+    rate_limiter = SteamRateLimiter(requests_per_minute=200)
     results = {}
 
-    for row in rows[:200]:
-        appid = row[0]
-        check(appid, results, cursor, conn)
+    for appid in appids:
+        appid, app_type = check_app(appid, rate_limiter)
+        update_status(conn, cursor, appid)
+        if app_type:
+            results[appid] = app_type
 
     write_results_to_file(results)
     cursor.close()
     conn.close()
+
+    log("完成 get_app_details.py，等待 30 秒后继续...")
+    time.sleep(30)
 
 if __name__ == "__main__":
     main()
