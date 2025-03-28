@@ -2,7 +2,7 @@ import json
 import os
 import sqlite3
 import warnings
-import sys  # 添加这一行以导入 sys 模块
+import sys
 from pathlib import Path
 import requests
 from urllib3.exceptions import InsecureRequestWarning
@@ -11,7 +11,6 @@ from datetime import datetime
 
 warnings.simplefilter('ignore', InsecureRequestWarning)
 
-# 动态确定数据目录
 BASE_DIR = Path(os.environ.get('GITHUB_WORKSPACE', Path(__file__).parent.parent))
 DATA_DIR = BASE_DIR / 'data'
 DATA_DIR.mkdir(exist_ok=True, parents=True)
@@ -24,6 +23,7 @@ class SteamRateLimiter:
     def __init__(self, requests_per_minute=200):
         self.requests_per_minute = requests_per_minute
         self.request_timestamps = []
+        self.last_response_time = 0
 
     def can_make_request(self):
         current_time = time.time()
@@ -36,10 +36,24 @@ class SteamRateLimiter:
     def wait_for_slot(self):
         while not self.can_make_request():
             time.sleep(1)
+        if self.last_response_time > 0.5:
+            time.sleep(0.2)
+
+    def update_response_time(self, response_time):
+        self.last_response_time = response_time
 
 def log(message):
-    """统一日志格式"""
     print(f"[{datetime.now().isoformat()}] {message}", file=sys.stderr, flush=True)
+
+def log_failed_appid(appid, reason):
+    failed_file = DATA_DIR / 'failed_appids.json'
+    failed_data = {}
+    if failed_file.exists():
+        with open(failed_file, 'r', encoding='utf-8') as f:
+            failed_data = json.load(f)
+    failed_data[str(appid)] = reason
+    with open(failed_file, 'w', encoding='utf-8') as f:
+        json.dump(failed_data, f, indent=2, ensure_ascii=False)
 
 def write_results_to_file(results):
     if output_file.exists():
@@ -64,6 +78,7 @@ def check_app(appid, rate_limiter):
         start = time.time()
         response = requests.get(url, verify=False, timeout=15)
         duration = time.time() - start
+        rate_limiter.update_response_time(duration)
         response.raise_for_status()
         data = response.json()
         appid_str = str(appid)
@@ -73,7 +88,9 @@ def check_app(appid, rate_limiter):
             log(f"AppID: {appid}, 类型: {app_type}, 响应时间: {duration:.2f}秒")
             return appid, app_type
         else:
-            log(f"获取 AppID: {appid} 的详情失败")
+            reason = f"API 返回: {data.get(appid_str, '无数据')}"
+            log(f"获取 AppID: {appid} 的详情失败，{reason}")
+            log_failed_appid(appid, reason)
             return appid, None
     except requests.exceptions.RequestException as e:
         if "429" in str(e):
@@ -82,6 +99,7 @@ def check_app(appid, rate_limiter):
             return appid, None
         else:
             log(f"请求 AppID: {appid} 失败: {e}")
+            log_failed_appid(appid, str(e))
             return appid, None
 
 def main():
@@ -108,19 +126,25 @@ def main():
     log(f"开始处理 {len(appids)} 个 AppID")
     rate_limiter = SteamRateLimiter(requests_per_minute=200)
     results = {}
+    success_count = 0
+    failure_count = 0
 
     for appid in appids:
         appid, app_type = check_app(appid, rate_limiter)
         update_status(conn, cursor, appid)
         if app_type:
             results[appid] = app_type
+            success_count += 1
+        else:
+            failure_count += 1
 
+    log(f"处理完成！成功: {success_count}, 失败: {failure_count}")
     write_results_to_file(results)
     cursor.close()
     conn.close()
 
-    log("完成 get_app_details.py，等待 15 秒后继续...")
-    time.sleep(15)
+    log("完成 get_app_details.py，等待 30 秒后继续...")
+    time.sleep(30)
 
 if __name__ == "__main__":
     main()
