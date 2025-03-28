@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-03-28T10:35:35.823111"
+    "updated": "2025-03-28T10:49:08.372185"
   },
   "games": {
     "570": {
@@ -310,6 +310,38 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-03-28T10:35:35.117623"
+    },
+    "7510": {
+      "appid": 7510,
+      "name": "X-Blades",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-03-28T10:49:04.663643"
+    },
+    "7520": {
+      "appid": 7520,
+      "name": "Two Worlds II HD",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-03-28T10:49:04.855867"
+    },
+    "7530": {
+      "appid": 7530,
+      "name": "Two Worlds II Castle Defense",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-03-28T10:49:05.001798"
+    },
+    "7800": {
+      "appid": 7800,
+      "name": "Stubbs the Zombie in Rebel Without a Pulse",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-03-28T10:49:06.559862"
     }
   }
 }

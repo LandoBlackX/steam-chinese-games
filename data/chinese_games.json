@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-03-28T10:35:35.823111"
+    "updated": "2025-03-28T10:49:08.372185"
   },
   "games": {
     "570": {
@@ -296,6 +296,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-03-28T10:35:33.912536"
+    },
+    "7200": {
+      "appid": 7200,
+      "name": "Trackmania United Forever",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-28T10:49:03.854916"
+    },
+    "7800": {
+      "appid": 7800,
+      "name": "Stubbs the Zombie in Rebel Without a Pulse",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-03-28T10:49:06.559862"
     }
   }
 }
