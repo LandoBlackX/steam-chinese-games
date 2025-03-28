@@ -88,7 +88,7 @@ def load_game_appids(existing_chinese, existing_cards, conn, cursor):
                     if not last_checked or datetime.fromisoformat(last_checked) < thirty_days_ago:
                         appids.append(appid_int)
             log(f"从 output.json 加载到 {len(appids)} 个待处理游戏类 AppID")
-            return appids[:50]  # 每次处理 50 个 AppID
+            return appids[:100]  # 每次处理 100 个 AppID
     except Exception as e:
         log(f"加载 output.json 失败: {str(e)}")
         return []
