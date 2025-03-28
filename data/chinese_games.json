@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-03-28T13:16:41.751710"
+    "updated": "2025-03-28T13:40:15.606026"
   },
   "games": {
     "570": {
@@ -424,6 +424,46 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-03-28T13:16:40.818613"
+    },
+    "24010": {
+      "appid": 24010,
+      "name": "Train Simulator Classic 2024",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-03-28T13:40:10.930166"
+    },
+    "24043": {
+      "appid": 24043,
+      "name": "Train Simulator Classic 2024",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-03-28T13:40:11.656762"
+    },
+    "24049": {
+      "appid": 24049,
+      "name": "Train Simulator Classic 2024",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-03-28T13:40:12.419190"
+    },
+    "24058": {
+      "appid": 24058,
+      "name": "Train Simulator Classic 2024",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-03-28T13:40:13.347048"
+    },
+    "24085": {
+      "appid": 24085,
+      "name": "Train Simulator Classic 2024",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-03-28T13:40:14.050652"
     }
   }
 }
