@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-03-28T19:12:48.157628"
+    "updated": "2025-03-28T19:27:16.298293"
   },
   "games": {
     "570": {
@@ -966,6 +966,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-03-28T17:09:50.350843"
+    },
+    "3546740": {
+      "appid": 3546740,
+      "name": "Champions Tactics Reforged",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-03-28T19:27:04.770599"
     }
   }
 }
