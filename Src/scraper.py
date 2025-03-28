@@ -108,7 +108,7 @@ def check_game(appid, rate_limiter):
         if game_data.get("success", False):
             game_info = game_data["data"]
             langs = game_info.get("supported_languages", "") + "|" + game_info.get("languages", "")
-            chinese_keywords = ['schinese', 'tchinese', '中文', '简体', '繁体']
+            chinese_keywords = ['schinese', 'tchinese', '中文', '简体', '繁体', 'Chinese', 'Simplified Chinese', 'Traditional Chinese']
             has_chinese = any(kw in langs.lower() for kw in chinese_keywords)
             has_cards = any(cat.get("id") == 29 for cat in game_info.get("categories", []))
             log(f"游戏 {appid} => {'支持中文' if has_chinese else '无中文'} | {'有卡牌' if has_cards else '无卡牌'} | 响应时间: {duration:.2f}秒")
