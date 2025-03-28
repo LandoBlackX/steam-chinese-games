@@ -2,6 +2,7 @@ import json
 import os
 import sqlite3
 import warnings
+import sys  # 添加这一行以导入 sys 模块
 from pathlib import Path
 import requests
 from urllib3.exceptions import InsecureRequestWarning
