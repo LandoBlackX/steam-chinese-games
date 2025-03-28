@@ -7,18 +7,17 @@ from pathlib import Path
 from datetime import datetime, timedelta
 import time
 
-# 动态确定数据目录
 BASE_DIR = Path(os.environ.get('GITHUB_WORKSPACE', Path(__file__).parent.parent))
 DATA_DIR = BASE_DIR / 'data'
 DATA_DIR.mkdir(exist_ok=True, parents=True)
 
-# 数据库路径
 DB_PATH = DATA_DIR / "app_list.db"
 
 class SteamRateLimiter:
     def __init__(self, requests_per_minute=200):
         self.requests_per_minute = requests_per_minute
         self.request_timestamps = []
+        self.last_response_time = 0
 
     def can_make_request(self):
         current_time = time.time()
@@ -31,13 +30,26 @@ class SteamRateLimiter:
     def wait_for_slot(self):
         while not self.can_make_request():
             time.sleep(1)
+        if self.last_response_time > 0.5:
+            time.sleep(0.2)
+
+    def update_response_time(self, response_time):
+        self.last_response_time = response_time
 
 def log(message):
-    """统一日志格式"""
     print(f"[{datetime.now().isoformat()}] {message}", file=sys.stderr, flush=True)
 
+def log_failed_appid(appid, reason):
+    failed_file = DATA_DIR / 'failed_appids.json'
+    failed_data = {}
+    if failed_file.exists():
+        with open(failed_file, 'r', encoding='utf-8') as f:
+            failed_data = json.load(f)
+    failed_data[str(appid)] = reason
+    with open(failed_file, 'w', encoding='utf-8') as f:
+        json.dump(failed_data, f, indent=2, ensure_ascii=False)
+
 def init_data_structure():
-    """初始化数据结构"""
     return {
         "_metadata": {
             "created": datetime.utcnow().isoformat(),
@@ -48,7 +60,6 @@ def init_data_structure():
     }
 
 def safe_load_json(file):
-    """安全加载 JSON 文件"""
     try:
         if file.exists() and file.stat().st_size > 0:
             with open(file, 'r', encoding='utf-8') as f:
@@ -61,7 +72,6 @@ def safe_load_json(file):
     return init_data_structure()
 
 def load_game_appids(existing_chinese, existing_cards, conn, cursor):
-    """从 output.json 加载需要处理的游戏类 AppID"""
     output_path = DATA_DIR / "output.json"
     if not output_path.exists():
         log("错误：output.json 文件不存在")
@@ -87,6 +97,7 @@ def load_game_appids(existing_chinese, existing_cards, conn, cursor):
                     last_checked = existing_c.get("last_checked") or existing_card.get("last_checked")
                     if not last_checked or datetime.fromisoformat(last_checked) < thirty_days_ago:
                         appids.append(appid_int)
+            appids.sort(reverse=True)  # 按 AppID 降序排序
             log(f"从 output.json 加载到 {len(appids)} 个待处理游戏类 AppID")
             return appids[:100]  # 每次处理 100 个 AppID
     except Exception as e:
@@ -94,13 +105,13 @@ def load_game_appids(existing_chinese, existing_cards, conn, cursor):
         return []
 
 def check_game(appid, rate_limiter):
-    """检查单个游戏信息"""
     url = f"https://store.steampowered.com/api/appdetails?appids={appid}&l=schinese"
     rate_limiter.wait_for_slot()
     try:
         start = time.time()
         response = requests.get(url, timeout=15)
         duration = time.time() - start
+        rate_limiter.update_response_time(duration)
         response.raise_for_status()
         data = response.json()
         appid_str = str(appid)
@@ -122,6 +133,7 @@ def check_game(appid, rate_limiter):
             }
         else:
             log(f"获取 AppID: {appid} 的详情失败")
+            log_failed_appid(appid, "API 返回 success: false")
             return None
     except requests.exceptions.RequestException as e:
         if "429" in str(e):
@@ -130,10 +142,10 @@ def check_game(appid, rate_limiter):
             return None
         else:
             log(f"请求 AppID: {appid} 失败: {e}")
+            log_failed_appid(appid, str(e))
             return None
 
 def save_data(data, file_path):
-    """安全保存数据"""
     try:
         with open(file_path, 'w', encoding='utf-8') as f:
             json.dump(data, f, indent=2, ensure_ascii=False)
@@ -145,15 +157,12 @@ def save_data(data, file_path):
 def main():
     log("脚本启动")
     
-    # 初始化数据文件
     chinese_data = safe_load_json(DATA_DIR / "chinese_games.json")
     card_data = safe_load_json(DATA_DIR / "card_games.json")
     
-    # 连接数据库
     conn = sqlite3.connect(DB_PATH)
     cursor = conn.cursor()
     
-    # 添加 scraper_status 字段
     cursor.execute('''
     CREATE TABLE IF NOT EXISTS apps (
         appid INTEGER PRIMARY KEY,
@@ -163,7 +172,6 @@ def main():
     ''')
     conn.commit()
     
-    # 加载待处理游戏类 AppID
     test_appids = load_game_appids(chinese_data, card_data, conn, cursor)
     if not test_appids:
         log("没有需要处理的新 AppID，终止执行")
@@ -173,17 +181,22 @@ def main():
     
     log(f"开始处理 {len(test_appids)} 个 AppID")
 
-    # 使用速率限制器
     rate_limiter = SteamRateLimiter(requests_per_minute=200)
     results = []
+    success_count = 0
+    failure_count = 0
     for appid in test_appids:
         result = check_game(appid, rate_limiter)
         if result:
             results.append(result)
+            success_count += 1
+        else:
+            failure_count += 1
         cursor.execute("UPDATE apps SET scraper_status = true WHERE appid = ?", (appid,))
         conn.commit()
 
-    # 更新数据
+    log(f"处理完成！成功: {success_count}, 失败: {failure_count}")
+
     updated = False
     for result in results:
         if result:
@@ -195,7 +208,6 @@ def main():
                 card_data["games"][appid_str] = result
                 updated = True
 
-    # 统一保存
     if updated:
         timestamp = datetime.utcnow().isoformat()
         chinese_data["_metadata"]["updated"] = timestamp
@@ -204,11 +216,9 @@ def main():
         save_data(chinese_data, DATA_DIR / "chinese_games.json")
         save_data(card_data, DATA_DIR / "card_games.json")
     
-    # 输出统计
     log(f"完成！累计中文游戏: {len(chinese_data['games'])}")
     log(f"完成！累计卡牌游戏: {len(card_data['games'])}")
 
-    # GitHub Actions 输出
     if os.getenv("GITHUB_ACTIONS") == "true":
         with open(os.getenv("GITHUB_OUTPUT"), 'a') as f:
             f.write(f"processed={len(test_appids)}\n")
