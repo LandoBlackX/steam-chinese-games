@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-03-28T13:52:49.547432"
+    "updated": "2025-03-28T14:22:38.245441"
   },
   "games": {
     "570": {
@@ -654,6 +654,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-03-28T13:52:47.307650"
+    },
+    "29800": {
+      "appid": 29800,
+      "name": "Caster",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-03-28T14:22:31.265202"
     }
   }
 }
