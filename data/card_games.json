@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-03-28T15:58:34.852384"
+    "updated": "2025-03-28T16:51:26.563496"
   },
   "games": {
     "570": {
@@ -782,6 +782,38 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-03-28T15:58:33.860860"
+    },
+    "38600": {
+      "appid": 38600,
+      "name": "Faerie Solitaire",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-03-28T16:51:19.259255"
+    },
+    "39120": {
+      "appid": 39120,
+      "name": "RIFT",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-03-28T16:51:20.567884"
+    },
+    "39800": {
+      "appid": 39800,
+      "name": "Nation Red",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-03-28T16:51:24.926207"
+    },
+    "40300": {
+      "appid": 40300,
+      "name": "Risen",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-03-28T16:51:25.874561"
     }
   }
 }
