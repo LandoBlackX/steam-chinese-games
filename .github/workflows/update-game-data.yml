@@ -1,7 +1,7 @@
 name: Update Game Data
 on:
   schedule:
-    - cron: '0 */2 * * *'  # 每2小时运行一次（UTC时间）
+    - cron: '*/5 * * * *'  # 每 5 分钟运行一次（UTC 时间）
   workflow_dispatch:  # 支持手动触发
 
 jobs:
@@ -17,15 +17,6 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: 同步游戏列表
-        run: |
-          echo "::group::📥 正在同步游戏列表"
-          mkdir -p data
-          curl -z data/output.json -o data/output.json \
-            https://raw.githubusercontent.com/F1NN1ER/getSteamAppListWithType/main/data/output.json
-          echo "当前文件大小: $(du -h data/output.json | cut -f1)"
-          echo "::endgroup::"
-
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
@@ -36,6 +27,19 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests
 
+      - name: Fetch App List
+        run: |
+          echo "::group::📥 正在同步应用列表"
+          python Src/fetch_app_list.py
+          echo "::endgroup::"
+
+      - name: Get App Details
+        run: |
+          echo "::group::🔍 获取应用详情"
+          python Src/get_app_details.py
+          echo "当前 output.json 文件大小: $(du -h data/output.json | cut -f1)"
+          echo "::endgroup::"
+
       - name: Run scraper
         id: scraper
         run: python Src/scraper.py
@@ -43,7 +47,7 @@ jobs:
       - name: Commit changes
         uses: EndBug/add-and-commit@v9
         with:
-          add: 'data/*.json'
+          add: 'data/*.json data/*.db'
           message: |
             🎮 游戏数据更新 [${{ github.run_number }}]
             统计结果：
