@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-03-28T14:44:00.840558"
+    "updated": "2025-03-28T14:58:20.834301"
   },
   "games": {
     "570": {
@@ -686,6 +686,30 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-03-28T14:43:59.268823"
+    },
+    "33680": {
+      "appid": 33680,
+      "name": "eversion",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-03-28T14:58:16.573006"
+    },
+    "34030": {
+      "appid": 34030,
+      "name": "Total War: NAPOLEON – Definitive Edition",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-03-28T14:58:18.801042"
+    },
+    "34270": {
+      "appid": 34270,
+      "name": "SEGA Mega Drive and Genesis Classics",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-03-28T14:58:19.206784"
     }
   }
 }
