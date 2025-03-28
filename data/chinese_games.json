@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-03-27T18:32:28.178065"
+    "updated": "2025-03-28T10:35:35.823111"
   },
   "games": {
     "570": {
@@ -256,6 +256,46 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-03-27T16:02:28.172577"
+    },
+    "4000": {
+      "appid": 4000,
+      "name": "Garry's Mod",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-03-28T10:35:29.747509"
+    },
+    "4300": {
+      "appid": 4300,
+      "name": "RoboBlitz",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-28T10:35:30.488818"
+    },
+    "4500": {
+      "appid": 4500,
+      "name": "S.T.A.L.K.E.R.: Shadow of Chernobyl",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-28T10:35:31.035838"
+    },
+    "4560": {
+      "appid": 4560,
+      "name": "Company of Heroes - Legacy Edition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-03-28T10:35:31.421453"
+    },
+    "6030": {
+      "appid": 6030,
+      "name": "STAR WARS™ Jedi Knight II - Jedi Outcast™",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-28T10:35:33.912536"
     }
   }
 }

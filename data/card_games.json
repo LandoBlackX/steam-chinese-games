@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-03-27T18:32:28.178065"
+    "updated": "2025-03-28T10:35:35.823111"
   },
   "games": {
     "570": {
@@ -246,6 +246,70 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-03-27T18:32:28.024596"
+    },
+    "4000": {
+      "appid": 4000,
+      "name": "Garry's Mod",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-03-28T10:35:29.747509"
+    },
+    "4560": {
+      "appid": 4560,
+      "name": "Company of Heroes - Legacy Edition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-03-28T10:35:31.421453"
+    },
+    "4570": {
+      "appid": 4570,
+      "name": "《Warhammer 40,000: Dawn of War》——周年纪念版 ",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-03-28T10:35:31.548073"
+    },
+    "4700": {
+      "appid": 4700,
+      "name": "Total War: MEDIEVAL II – Definitive Edition",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-03-28T10:35:31.788957"
+    },
+    "4760": {
+      "appid": 4760,
+      "name": "Rome: Total War™ - Collection",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-03-28T10:35:32.031000"
+    },
+    "4920": {
+      "appid": 4920,
+      "name": "Natural Selection 2",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-03-28T10:35:33.258063"
+    },
+    "4932": {
+      "appid": 4932,
+      "name": "Natural Selection 2",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-03-28T10:35:33.395340"
+    },
+    "6220": {
+      "appid": 6220,
+      "name": "FlatOut",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-03-28T10:35:35.117623"
     }
   }
 }
