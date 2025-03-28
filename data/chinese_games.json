@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-03-28T16:51:26.563496"
+    "updated": "2025-03-28T17:09:50.352217"
   },
   "games": {
     "570": {
@@ -528,6 +528,62 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-03-28T16:51:24.926207"
+    },
+    "40700": {
+      "appid": 40700,
+      "name": "机械迷城 (Machinarium)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-03-28T17:09:40.792202"
+    },
+    "40720": {
+      "appid": 40720,
+      "name": "Samorost 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-28T17:09:40.963919"
+    },
+    "40950": {
+      "appid": 40950,
+      "name": "Stronghold HD (2012)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-03-28T17:09:41.457804"
+    },
+    "40960": {
+      "appid": 40960,
+      "name": "Stronghold 2: Steam Edition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-03-28T17:09:41.625422"
+    },
+    "40970": {
+      "appid": 40970,
+      "name": "Stronghold Crusader HD (2012)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-03-28T17:09:41.772943"
+    },
+    "40980": {
+      "appid": 40980,
+      "name": "Stronghold Legends: Steam Edition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-03-28T17:09:41.946311"
+    },
+    "41070": {
+      "appid": 41070,
+      "name": "Serious Sam 3: BFE",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-03-28T17:09:42.861595"
     }
   }
 }

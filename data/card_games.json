@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-03-28T16:51:26.563496"
+    "updated": "2025-03-28T17:09:50.352217"
   },
   "games": {
     "570": {
@@ -814,6 +814,158 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-03-28T16:51:25.874561"
+    },
+    "40390": {
+      "appid": 40390,
+      "name": "Risen 2: Dark Waters",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-03-28T17:09:40.191992"
+    },
+    "40400": {
+      "appid": 40400,
+      "name": "AI War: Fleet Command",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-03-28T17:09:40.372151"
+    },
+    "40700": {
+      "appid": 40700,
+      "name": "机械迷城 (Machinarium)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-03-28T17:09:40.792202"
+    },
+    "40800": {
+      "appid": 40800,
+      "name": "Super Meat Boy",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-03-28T17:09:41.124627"
+    },
+    "40950": {
+      "appid": 40950,
+      "name": "Stronghold HD (2012)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-03-28T17:09:41.457804"
+    },
+    "40960": {
+      "appid": 40960,
+      "name": "Stronghold 2: Steam Edition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-03-28T17:09:41.625422"
+    },
+    "40970": {
+      "appid": 40970,
+      "name": "Stronghold Crusader HD (2012)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-03-28T17:09:41.772943"
+    },
+    "40980": {
+      "appid": 40980,
+      "name": "Stronghold Legends: Steam Edition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-03-28T17:09:41.946311"
+    },
+    "41000": {
+      "appid": 41000,
+      "name": "Serious Sam HD: The First Encounter",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-03-28T17:09:42.235389"
+    },
+    "41070": {
+      "appid": 41070,
+      "name": "Serious Sam 3: BFE",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-03-28T17:09:42.861595"
+    },
+    "41730": {
+      "appid": 41730,
+      "name": "Ion Assault",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-03-28T17:09:44.413524"
+    },
+    "41800": {
+      "appid": 41800,
+      "name": "Gratuitous Space Battles",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-03-28T17:09:44.753935"
+    },
+    "41900": {
+      "appid": 41900,
+      "name": "The Bard's Tale ARPG: Remastered and Resnarkled",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-03-28T17:09:44.912328"
+    },
+    "42140": {
+      "appid": 42140,
+      "name": "Hamilton's Great Adventure",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-03-28T17:09:45.402144"
+    },
+    "42170": {
+      "appid": 42170,
+      "name": "Krater",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-03-28T17:09:45.770585"
+    },
+    "42910": {
+      "appid": 42910,
+      "name": "Magicka",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-03-28T17:09:48.075824"
+    },
+    "42960": {
+      "appid": 42960,
+      "name": "Victoria II",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-03-28T17:09:48.906291"
+    },
+    "43190": {
+      "appid": 43190,
+      "name": "The Haunted: Hells Reach",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-03-28T17:09:49.661490"
+    },
+    "44350": {
+      "appid": 44350,
+      "name": "GRID 2",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-03-28T17:09:50.350843"
     }
   }
 }
