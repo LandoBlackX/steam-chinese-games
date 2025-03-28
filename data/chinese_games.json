@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-03-28T22:31:40.737251"
+    "updated": "2025-03-28T22:44:06.008547"
   },
   "games": {
     "570": {
@@ -4376,6 +4376,190 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-03-28T22:31:40.064905"
+    },
+    "3506070": {
+      "appid": 3506070,
+      "name": "Teios Journey",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-28T22:43:54.213068"
+    },
+    "3505930": {
+      "appid": 3505930,
+      "name": "Skyline",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-28T22:43:54.968593"
+    },
+    "3505780": {
+      "appid": 3505780,
+      "name": "Click the block  点击方块",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-28T22:43:56.469039"
+    },
+    "3505700": {
+      "appid": 3505700,
+      "name": "Lobotomy",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-28T22:43:56.609075"
+    },
+    "3505660": {
+      "appid": 3505660,
+      "name": "异世界小队长",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-28T22:43:57.031042"
+    },
+    "3505650": {
+      "appid": 3505650,
+      "name": "Vampire Spin",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-28T22:43:57.187884"
+    },
+    "3504940": {
+      "appid": 3504940,
+      "name": "桌面天使",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-28T22:43:59.884829"
+    },
+    "3504870": {
+      "appid": 3504870,
+      "name": "消消果汁店",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-28T22:44:00.021473"
+    },
+    "3504780": {
+      "appid": 3504780,
+      "name": "无主星渊",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-28T22:44:00.601143"
+    },
+    "3504360": {
+      "appid": 3504360,
+      "name": "Boundaries of Morality",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-28T22:44:01.963781"
+    },
+    "3504320": {
+      "appid": 3504320,
+      "name": "如何数到 100",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-28T22:44:02.118413"
+    },
+    "3504170": {
+      "appid": 3504170,
+      "name": "Emberfly",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-28T22:44:02.942960"
+    },
+    "3504140": {
+      "appid": 3504140,
+      "name": "拧个螺丝",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-28T22:44:03.094748"
+    },
+    "3503980": {
+      "appid": 3503980,
+      "name": "Soul Knight",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-28T22:44:03.633031"
+    },
+    "3503950": {
+      "appid": 3503950,
+      "name": "heart of Y",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-28T22:44:03.931534"
+    },
+    "3503790": {
+      "appid": 3503790,
+      "name": "PROHIBEAST",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-28T22:44:04.588614"
+    },
+    "3503720": {
+      "appid": 3503720,
+      "name": "Letters of longing",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-28T22:44:04.837250"
+    },
+    "3503710": {
+      "appid": 3503710,
+      "name": "中世纪马贩子模拟器",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-28T22:44:05.016441"
+    },
+    "3503680": {
+      "appid": 3503680,
+      "name": "5番線おじさん救出編 Platform 5 Dungeons",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-28T22:44:05.150086"
+    },
+    "3503540": {
+      "appid": 3503540,
+      "name": "Football Career Mode 26",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-28T22:44:05.267870"
+    },
+    "3503440": {
+      "appid": 3503440,
+      "name": "咖啡星矿工 Astro Prospector",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-28T22:44:05.643384"
+    },
+    "3503390": {
+      "appid": 3503390,
+      "name": "Driving Master D",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-28T22:44:05.894855"
+    },
+    "3503380": {
+      "appid": 3503380,
+      "name": "寻龙分金模拟器",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-28T22:44:06.006785"
     }
   }
 }
