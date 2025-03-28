@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-03-28T12:45:59.945875"
+    "updated": "2025-03-28T13:16:41.751710"
   },
   "games": {
     "570": {
@@ -526,6 +526,54 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-03-28T12:45:59.253383"
+    },
+    "20500": {
+      "appid": 20500,
+      "name": "Red Faction Guerrilla Steam Edition",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-03-28T13:16:35.878117"
+    },
+    "20920": {
+      "appid": 20920,
+      "name": "The Witcher 2: Assassins of Kings Enhanced Edition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-03-28T13:16:37.345243"
+    },
+    "21690": {
+      "appid": 21690,
+      "name": "Resident Evil 5",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-03-28T13:16:39.826790"
+    },
+    "22000": {
+      "appid": 22000,
+      "name": "World of Goo",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-03-28T13:16:40.614988"
+    },
+    "22100": {
+      "appid": 22100,
+      "name": "Mount & Blade",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-03-28T13:16:40.818613"
+    },
+    "22200": {
+      "appid": 22200,
+      "name": "Zeno Clash",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-03-28T13:16:41.750059"
     }
   }
 }
