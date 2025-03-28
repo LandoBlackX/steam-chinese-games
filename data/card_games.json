@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-03-28T14:58:20.834301"
+    "updated": "2025-03-28T15:27:52.480139"
   },
   "games": {
     "570": {
@@ -710,6 +710,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-03-28T14:58:19.206784"
+    },
+    "34330": {
+      "appid": 34330,
+      "name": "Total War: SHOGUN 2",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-03-28T15:27:50.348676"
     }
   }
 }
