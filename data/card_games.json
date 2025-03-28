@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-03-28T11:07:45.955474"
+    "updated": "2025-03-28T11:26:13.967287"
   },
   "games": {
     "570": {
@@ -374,6 +374,70 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-03-28T11:07:43.893043"
+    },
+    "10500": {
+      "appid": 10500,
+      "name": "Total War: EMPIRE – Definitive Edition",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-03-28T11:26:08.168969"
+    },
+    "11200": {
+      "appid": 11200,
+      "name": "Shadowgrounds Survivor",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-03-28T11:26:09.570989"
+    },
+    "11250": {
+      "appid": 11250,
+      "name": "Pacific Storm",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-03-28T11:26:09.919710"
+    },
+    "11260": {
+      "appid": 11260,
+      "name": "Pacific Storm Allies",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-03-28T11:26:10.034196"
+    },
+    "11280": {
+      "appid": 11280,
+      "name": "Penguins Arena: Sedna's World",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-03-28T11:26:10.246389"
+    },
+    "11480": {
+      "appid": 11480,
+      "name": "Soldiers: Heroes of World War II",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-03-28T11:26:10.976654"
+    },
+    "12340": {
+      "appid": 12340,
+      "name": "Jack Keane",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-03-28T11:26:12.979545"
+    },
+    "12360": {
+      "appid": 12360,
+      "name": "FlatOut: Ultimate Carnage Collector's Edition",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-03-28T11:26:13.082862"
     }
   }
 }

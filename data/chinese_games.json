@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-03-28T11:07:45.955474"
+    "updated": "2025-03-28T11:26:13.967287"
   },
   "games": {
     "570": {
@@ -344,6 +344,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-03-28T11:07:42.052043"
+    },
+    "11020": {
+      "appid": 11020,
+      "name": "TrackMania Nations Forever",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-28T11:26:08.553197"
     }
   }
 }
