@@ -15,6 +15,23 @@ DATA_DIR.mkdir(exist_ok=True, parents=True)
 # 数据库路径
 DB_PATH = DATA_DIR / "app_list.db"
 
+class SteamRateLimiter:
+    def __init__(self, requests_per_minute=200):
+        self.requests_per_minute = requests_per_minute
+        self.request_timestamps = []
+
+    def can_make_request(self):
+        current_time = time.time()
+        self.request_timestamps = [t for t in self.request_timestamps if current_time - t < 60]
+        if len(self.request_timestamps) < self.requests_per_minute:
+            self.request_timestamps.append(current_time)
+            return True
+        return False
+
+    def wait_for_slot(self):
+        while not self.can_make_request():
+            time.sleep(1)
+
 def log(message):
     """统一日志格式"""
     print(f"[{datetime.now().isoformat()}] {message}", file=sys.stderr, flush=True)
@@ -58,13 +75,11 @@ def load_game_appids(existing_chinese, existing_cards, conn, cursor):
                 return []
             appids = []
             thirty_days_ago = datetime.utcnow() - timedelta(days=30)
-            # 获取已处理的 AppID（仅针对 scraper.py）
             cursor.execute("SELECT appid FROM apps WHERE scraper_status = true")
             processed_appids = set(row[0] for row in cursor.fetchall())
             for appid, app_info in data.items():
                 if app_info == "game":
                     appid_int = int(appid)
-                    # 跳过已处理的 AppID
                     if appid_int in processed_appids:
                         continue
                     existing_c = existing_chinese["games"].get(appid, {})
@@ -73,50 +88,49 @@ def load_game_appids(existing_chinese, existing_cards, conn, cursor):
                     if not last_checked or datetime.fromisoformat(last_checked) < thirty_days_ago:
                         appids.append(appid_int)
             log(f"从 output.json 加载到 {len(appids)} 个待处理游戏类 AppID")
-            return appids[:200]  # 每次处理 200 个 AppID
+            return appids[:50]  # 每次处理 50 个 AppID
     except Exception as e:
         log(f"加载 output.json 失败: {str(e)}")
         return []
 
-def check_game(appid, cursor, conn):
-    """检查单个游戏信息（含错误重试和 2 秒间隔）"""
+def check_game(appid, rate_limiter):
+    """检查单个游戏信息"""
     url = f"https://store.steampowered.com/api/appdetails?appids={appid}&l=schinese"
-    retries = 3
-    for attempt in range(retries):
-        try:
-            start_time = time.time()
-            response = requests.get(url, timeout=15)
-            response.raise_for_status()
-            data = response.json().get(str(appid), {})
-            if data.get("success", False):
-                game_data = data["data"]
-                langs = game_data.get("supported_languages", "") + "|" + game_data.get("languages", "")
-                chinese_keywords = ['schinese', 'tchinese', '中文', '简体', '繁体']
-                has_chinese = any(kw in langs.lower() for kw in chinese_keywords)
-                has_cards = any(cat.get("id") == 29 for cat in game_data.get("categories", []))
-                log(f"游戏 {appid} => {'支持中文' if has_chinese else '无中文'} | {'有卡牌' if has_cards else '无卡牌'}")
-                # 标记为已处理（仅针对 scraper.py）
-                cursor.execute("UPDATE apps SET scraper_status = true WHERE appid = ?", (appid,))
-                conn.commit()
-                elapsed = time.time() - start_time
-                time.sleep(max(0, 2 - elapsed))  # 确保总耗时至少 2 秒
-                return {
-                    "appid": appid,
-                    "name": game_data.get("name", f"Unknown_{appid}"),
-                    "type": game_data.get("type", "game"),
-                    "supports_chinese": has_chinese,
-                    "supports_cards": has_cards,
-                    "last_checked": datetime.utcnow().isoformat()
-                }
-        except requests.exceptions.RequestException as e:
-            if attempt < retries - 1:
-                wait = 2 ** attempt
-                log(f"请求 {appid} 失败，{wait}秒后重试...")
-                time.sleep(wait)
-            else:
-                log(f"检查游戏 {appid} 最终失败: {str(e)}")
-    time.sleep(2)  # 失败时也等待 2 秒
-    return None
+    rate_limiter.wait_for_slot()
+    try:
+        start = time.time()
+        response = requests.get(url, timeout=15)
+        duration = time.time() - start
+        response.raise_for_status()
+        data = response.json()
+        appid_str = str(appid)
+        game_data = data.get(appid_str, {})
+        if game_data.get("success", False):
+            game_info = game_data["data"]
+            langs = game_info.get("supported_languages", "") + "|" + game_info.get("languages", "")
+            chinese_keywords = ['schinese', 'tchinese', '中文', '简体', '繁体']
+            has_chinese = any(kw in langs.lower() for kw in chinese_keywords)
+            has_cards = any(cat.get("id") == 29 for cat in game_info.get("categories", []))
+            log(f"游戏 {appid} => {'支持中文' if has_chinese else '无中文'} | {'有卡牌' if has_cards else '无卡牌'} | 响应时间: {duration:.2f}秒")
+            return {
+                "appid": appid,
+                "name": game_info.get("name", f"Unknown_{appid}"),
+                "type": game_info.get("type", "game"),
+                "supports_chinese": has_chinese,
+                "supports_cards": has_cards,
+                "last_checked": datetime.utcnow().isoformat()
+            }
+        else:
+            log(f"获取 AppID: {appid} 的详情失败")
+            return None
+    except requests.exceptions.RequestException as e:
+        if "429" in str(e):
+            log(f"触发 429 错误，暂停 5 分钟后重试...")
+            time.sleep(300)
+            return None
+        else:
+            log(f"请求 AppID: {appid} 失败: {e}")
+            return None
 
 def save_data(data, file_path):
     """安全保存数据"""
@@ -139,7 +153,7 @@ def main():
     conn = sqlite3.connect(DB_PATH)
     cursor = conn.cursor()
     
-    # 添加 scraper_status 字段（如果不存在）
+    # 添加 scraper_status 字段
     cursor.execute('''
     CREATE TABLE IF NOT EXISTS apps (
         appid INTEGER PRIMARY KEY,
@@ -159,12 +173,15 @@ def main():
     
     log(f"开始处理 {len(test_appids)} 个 AppID")
 
-    # 单线程处理，确保每 2 秒一个请求
+    # 使用速率限制器
+    rate_limiter = SteamRateLimiter(requests_per_minute=200)
     results = []
     for appid in test_appids:
-        result = check_game(appid, cursor, conn)
+        result = check_game(appid, rate_limiter)
         if result:
             results.append(result)
+        cursor.execute("UPDATE apps SET scraper_status = true WHERE appid = ?", (appid,))
+        conn.commit()
 
     # 更新数据
     updated = False
