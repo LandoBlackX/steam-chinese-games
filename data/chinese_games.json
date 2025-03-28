@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-03-28T15:27:52.480139"
+    "updated": "2025-03-28T15:44:06.636457"
   },
   "games": {
     "570": {
@@ -504,6 +504,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-03-28T14:44:00.019246"
+    },
+    "35720": {
+      "appid": 35720,
+      "name": "Trine 2: Complete Story",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-03-28T15:44:06.634914"
     }
   }
 }

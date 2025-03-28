@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-03-28T15:27:52.480139"
+    "updated": "2025-03-28T15:44:06.636457"
   },
   "games": {
     "570": {
@@ -718,6 +718,54 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-03-28T15:27:50.348676"
+    },
+    "34900": {
+      "appid": 34900,
+      "name": "Bad Rats: the Rats' Revenge",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-03-28T15:44:03.255086"
+    },
+    "35010": {
+      "appid": 35010,
+      "name": "Batman: Arkham Asylum Game of the Year Edition",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-03-28T15:44:03.822926"
+    },
+    "35140": {
+      "appid": 35140,
+      "name": "Batman: Arkham Asylum Game of the Year Edition",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-03-28T15:44:04.654544"
+    },
+    "35450": {
+      "appid": 35450,
+      "name": "Red Orchestra 2: Heroes of Stalingrad with Rising Storm",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-03-28T15:44:05.629514"
+    },
+    "35700": {
+      "appid": 35700,
+      "name": "Trine Enchanted Edition",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-03-28T15:44:06.378945"
+    },
+    "35720": {
+      "appid": 35720,
+      "name": "Trine 2: Complete Story",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-03-28T15:44:06.634914"
     }
   }
 }
