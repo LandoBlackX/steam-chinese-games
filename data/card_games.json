@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-03-28T15:44:06.636457"
+    "updated": "2025-03-28T15:58:34.852384"
   },
   "games": {
     "570": {
@@ -766,6 +766,22 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-03-28T15:44:06.634914"
+    },
+    "35725": {
+      "appid": 35725,
+      "name": "Trine 2: Complete Story",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-03-28T15:58:32.949559"
+    },
+    "37000": {
+      "appid": 37000,
+      "name": "The Void",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-03-28T15:58:33.860860"
     }
   }
 }
