@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-03-29T20:25:45.934184"
+    "updated": "2025-03-29T20:40:10.343672"
   },
   "games": {
     "570": {
@@ -17064,6 +17064,174 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-03-29T20:25:45.289602"
+    },
+    "3352470": {
+      "appid": 3352470,
+      "name": "你的机器人",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-29T20:40:02.043205"
+    },
+    "3352350": {
+      "appid": 3352350,
+      "name": "行走 Walk",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-29T20:40:02.451181"
+    },
+    "3352260": {
+      "appid": 3352260,
+      "name": "Spire Blast",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-29T20:40:02.857698"
+    },
+    "3352180": {
+      "appid": 3352180,
+      "name": "GLORY DESTINY - REBORN 晴空物語",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-29T20:40:03.281281"
+    },
+    "3352150": {
+      "appid": 3352150,
+      "name": "Bushcraft Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-29T20:40:03.580491"
+    },
+    "3352140": {
+      "appid": 3352140,
+      "name": "Satellite Odyssey: Jupiter",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-29T20:40:03.728140"
+    },
+    "3351990": {
+      "appid": 3351990,
+      "name": "BRELOK -ねずみたちの脱出-",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-29T20:40:04.415683"
+    },
+    "3351910": {
+      "appid": 3351910,
+      "name": "大善",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-29T20:40:05.148174"
+    },
+    "3351860": {
+      "appid": 3351860,
+      "name": "Thrustme Too",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-29T20:40:05.557672"
+    },
+    "3351840": {
+      "appid": 3351840,
+      "name": "Play Twice",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-29T20:40:05.713089"
+    },
+    "3351770": {
+      "appid": 3351770,
+      "name": "Bumble Brawlers",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-29T20:40:06.151996"
+    },
+    "3351760": {
+      "appid": 3351760,
+      "name": "Chromapix",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-29T20:40:06.314263"
+    },
+    "3351710": {
+      "appid": 3351710,
+      "name": "喵喵入侵",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-29T20:40:06.594152"
+    },
+    "3351660": {
+      "appid": 3351660,
+      "name": "轮回 GiLGuL",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-29T20:40:07.053809"
+    },
+    "3351650": {
+      "appid": 3351650,
+      "name": "长夜之后",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-29T20:40:07.248811"
+    },
+    "3351640": {
+      "appid": 3351640,
+      "name": "三界劫",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-29T20:40:07.385738"
+    },
+    "3351560": {
+      "appid": 3351560,
+      "name": "One Little World",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-29T20:40:08.001613"
+    },
+    "3351490": {
+      "appid": 3351490,
+      "name": "CleanTwin",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-29T20:40:08.461309"
+    },
+    "3351430": {
+      "appid": 3351430,
+      "name": "Batography",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-29T20:40:08.764737"
+    },
+    "3351360": {
+      "appid": 3351360,
+      "name": "Tessera",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-29T20:40:09.600012"
+    },
+    "3351290": {
+      "appid": 3351290,
+      "name": "Specter: The Battle of the Mind",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-29T20:40:10.220553"
     }
   }
 }
