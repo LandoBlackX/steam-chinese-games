@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-03-29T07:00:59.577450"
+    "updated": "2025-03-29T07:23:27.679620"
   },
   "games": {
     "570": {
@@ -990,6 +990,14 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-03-29T07:00:54.001241"
+    },
+    "3446120": {
+      "appid": 3446120,
+      "name": "闪亮☆女友",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-03-29T07:23:21.176341"
     }
   }
 }
