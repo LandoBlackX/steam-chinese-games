@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-03-28T23:59:17.763235"
+    "updated": "2025-03-29T01:57:26.713379"
   },
   "games": {
     "570": {
@@ -5392,6 +5392,190 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-03-28T23:59:17.209810"
+    },
+    "3487600": {
+      "appid": 3487600,
+      "name": "The Last Ride Home",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-29T01:57:13.804454"
+    },
+    "3487520": {
+      "appid": 3487520,
+      "name": "Bridge Trap",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-29T01:57:14.206827"
+    },
+    "3487500": {
+      "appid": 3487500,
+      "name": "Animal Aboard!",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-29T01:57:14.351466"
+    },
+    "3487460": {
+      "appid": 3487460,
+      "name": "A Few Days With : Darlene",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-29T01:57:15.058564"
+    },
+    "3487240": {
+      "appid": 3487240,
+      "name": "Mistaken",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-29T01:57:16.004432"
+    },
+    "3487090": {
+      "appid": 3487090,
+      "name": "Ludocracy",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-29T01:57:16.595866"
+    },
+    "3486680": {
+      "appid": 3486680,
+      "name": "画剑Draw Sword",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-29T01:57:17.907220"
+    },
+    "3486630": {
+      "appid": 3486630,
+      "name": "THIS IS KIKO",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-29T01:57:18.058396"
+    },
+    "3486610": {
+      "appid": 3486610,
+      "name": "find y",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-29T01:57:18.183741"
+    },
+    "3486500": {
+      "appid": 3486500,
+      "name": "Aftershock",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-29T01:57:18.914297"
+    },
+    "3486420": {
+      "appid": 3486420,
+      "name": "Road To School",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-29T01:57:19.191738"
+    },
+    "3486280": {
+      "appid": 3486280,
+      "name": "捉刀",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-29T01:57:19.344477"
+    },
+    "3486250": {
+      "appid": 3486250,
+      "name": "DBall",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-29T01:57:19.535568"
+    },
+    "3486240": {
+      "appid": 3486240,
+      "name": "最后的修仙者",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-29T01:57:19.699586"
+    },
+    "3486160": {
+      "appid": 3486160,
+      "name": "临界点",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-29T01:57:20.372849"
+    },
+    "3486110": {
+      "appid": 3486110,
+      "name": "Just Cat Slap",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-29T01:57:20.764640"
+    },
+    "3486050": {
+      "appid": 3486050,
+      "name": "Hamster Hunter: Rodent Rampage",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-29T01:57:20.884788"
+    },
+    "3485910": {
+      "appid": 3485910,
+      "name": "The Squirrel & Sea",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-29T01:57:21.909632"
+    },
+    "3485880": {
+      "appid": 3485880,
+      "name": "哨兵骑士Sentinel Knights",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-29T01:57:22.341468"
+    },
+    "3485580": {
+      "appid": 3485580,
+      "name": "Bodybuilder Simulator CO-OP",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-29T01:57:23.273000"
+    },
+    "3485160": {
+      "appid": 3485160,
+      "name": "DTC",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-29T01:57:25.051254"
+    },
+    "3485000": {
+      "appid": 3485000,
+      "name": "Lost City of Bardo",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-29T01:57:25.885361"
+    },
+    "3484940": {
+      "appid": 3484940,
+      "name": "Curse of Pirates",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-29T01:57:26.273282"
     }
   }
 }
