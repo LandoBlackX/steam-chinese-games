@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-03-29T18:33:21.297392"
+    "updated": "2025-03-29T18:48:02.762357"
   },
   "games": {
     "570": {
@@ -1022,6 +1022,22 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-03-29T17:22:16.053307"
+    },
+    "3363390": {
+      "appid": 3363390,
+      "name": "激情乘客",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-03-29T18:47:55.668721"
+    },
+    "3362480": {
+      "appid": 3362480,
+      "name": "Sex Apartment 💫",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-03-29T18:47:59.682470"
     }
   }
 }
