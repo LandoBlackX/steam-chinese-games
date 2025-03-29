@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-03-29T06:48:42.812727"
+    "updated": "2025-03-29T07:00:59.577450"
   },
   "games": {
     "570": {
@@ -982,6 +982,14 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-03-29T04:54:35.133677"
+    },
+    "3447690": {
+      "appid": 3447690,
+      "name": "iDigging",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-03-29T07:00:54.001241"
     }
   }
 }
