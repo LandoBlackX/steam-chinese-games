@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-03-29T03:52:43.757442"
+    "updated": "2025-03-29T04:19:07.525880"
   },
   "games": {
     "570": {
@@ -6216,6 +6216,190 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-03-29T03:52:43.152281"
+    },
+    "3475380": {
+      "appid": 3475380,
+      "name": "Parallel World",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-29T04:18:49.047217"
+    },
+    "3475360": {
+      "appid": 3475360,
+      "name": "Sycophant",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-29T04:18:49.508267"
+    },
+    "3475340": {
+      "appid": 3475340,
+      "name": "帝天之战",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-29T04:18:49.672054"
+    },
+    "3475330": {
+      "appid": 3475330,
+      "name": "Fillet Fury",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-29T04:18:49.809079"
+    },
+    "3475190": {
+      "appid": 3475190,
+      "name": "死狱",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-29T04:18:50.643534"
+    },
+    "3475120": {
+      "appid": 3475120,
+      "name": "像素熊老师的像素画生成器",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-29T04:18:50.832074"
+    },
+    "3475080": {
+      "appid": 3475080,
+      "name": "面具轮盘",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-29T04:18:51.180693"
+    },
+    "3474950": {
+      "appid": 3474950,
+      "name": "Decorum",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-29T04:18:52.541385"
+    },
+    "3474900": {
+      "appid": 3474900,
+      "name": "Anima Engine",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-29T04:18:52.943920"
+    },
+    "3474890": {
+      "appid": 3474890,
+      "name": "Super Citycon",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-29T04:18:53.127719"
+    },
+    "3474710": {
+      "appid": 3474710,
+      "name": "The Mystical Traveler",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-29T04:18:54.894387"
+    },
+    "3474590": {
+      "appid": 3474590,
+      "name": "Hentai Mia",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-29T04:18:55.665818"
+    },
+    "3474450": {
+      "appid": 3474450,
+      "name": "Race Jam",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-29T04:18:56.530303"
+    },
+    "3474340": {
+      "appid": 3474340,
+      "name": "Incest Tales: Hot Sister",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-29T04:18:57.400173"
+    },
+    "3474250": {
+      "appid": 3474250,
+      "name": "Heart of Pacific",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-29T04:18:58.533339"
+    },
+    "3474130": {
+      "appid": 3474130,
+      "name": "Dice x Dice",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-29T04:18:59.930643"
+    },
+    "3473780": {
+      "appid": 3473780,
+      "name": "Multiple Territory War",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-29T04:19:01.845840"
+    },
+    "3473570": {
+      "appid": 3473570,
+      "name": "Detective - The Test",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-29T04:19:02.545494"
+    },
+    "3473400": {
+      "appid": 3473400,
+      "name": "精灵与爱丽丝",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-29T04:19:03.281620"
+    },
+    "3473330": {
+      "appid": 3473330,
+      "name": "皇上驾到",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-29T04:19:04.041808"
+    },
+    "3473160": {
+      "appid": 3473160,
+      "name": "少女与城主",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-29T04:19:05.328928"
+    },
+    "3472890": {
+      "appid": 3472890,
+      "name": "欢乐水族馆",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-29T04:19:07.068581"
+    },
+    "3472870": {
+      "appid": 3472870,
+      "name": "PUBLIC TOILET SIMULATOR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-29T04:19:07.524345"
     }
   }
 }
