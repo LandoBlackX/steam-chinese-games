@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-03-29T20:52:22.563132"
+    "updated": "2025-03-29T21:12:44.817447"
   },
   "games": {
     "570": {
@@ -17376,6 +17376,86 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-03-29T20:52:22.560763"
+    },
+    "3349820": {
+      "appid": 3349820,
+      "name": "Big Blind",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-29T21:12:35.805868"
+    },
+    "3349800": {
+      "appid": 3349800,
+      "name": "Bone To Gather",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-29T21:12:36.050468"
+    },
+    "3349750": {
+      "appid": 3349750,
+      "name": "东隅荡寇志·朝鲜战争",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-29T21:12:36.363144"
+    },
+    "3349670": {
+      "appid": 3349670,
+      "name": "骑兵冲突·三国争霸",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-29T21:12:37.084388"
+    },
+    "3349570": {
+      "appid": 3349570,
+      "name": "江城子",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-29T21:12:37.802708"
+    },
+    "3348910": {
+      "appid": 3348910,
+      "name": "Bee Simulator: The Hive",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-29T21:12:40.984142"
+    },
+    "3348660": {
+      "appid": 3348660,
+      "name": "Rogue Samurai: Prologue",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-29T21:12:43.193896"
+    },
+    "3348640": {
+      "appid": 3348640,
+      "name": "Tsarevna",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-29T21:12:43.498587"
+    },
+    "3348600": {
+      "appid": 3348600,
+      "name": "Skuf for altushki",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-29T21:12:43.805398"
+    },
+    "3348590": {
+      "appid": 3348590,
+      "name": "I Am Quadrober!",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-29T21:12:43.975446"
     }
   }
 }
