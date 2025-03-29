@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-03-29T19:47:13.824946"
+    "updated": "2025-03-29T19:58:53.223777"
   },
   "games": {
     "570": {
@@ -16824,6 +16824,134 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-03-29T19:47:13.178326"
+    },
+    "3356010": {
+      "appid": 3356010,
+      "name": "异源冲突",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-29T19:58:45.861693"
+    },
+    "3355940": {
+      "appid": 3355940,
+      "name": "Card Coder",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-29T19:58:46.369139"
+    },
+    "3355900": {
+      "appid": 3355900,
+      "name": "FIREBALL",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-29T19:58:46.834806"
+    },
+    "3355800": {
+      "appid": 3355800,
+      "name": "Bank Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-29T19:58:47.594180"
+    },
+    "3355790": {
+      "appid": 3355790,
+      "name": "FREEZIA",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-29T19:58:47.721455"
+    },
+    "3355780": {
+      "appid": 3355780,
+      "name": "魔法甜心❥净魔弹",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-29T19:58:47.879901"
+    },
+    "3355760": {
+      "appid": 3355760,
+      "name": "望文爱生义",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-29T19:58:47.994484"
+    },
+    "3355510": {
+      "appid": 3355510,
+      "name": "Kill Dee",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-29T19:58:49.071880"
+    },
+    "3355430": {
+      "appid": 3355430,
+      "name": "Alice Mesmerizing Episodes of Neurosis (AMEN)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-29T19:58:49.187481"
+    },
+    "3355230": {
+      "appid": 3355230,
+      "name": "Smol Adventure",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-29T19:58:49.652761"
+    },
+    "3355140": {
+      "appid": 3355140,
+      "name": "Crimson Skyline",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-29T19:58:50.225666"
+    },
+    "3355080": {
+      "appid": 3355080,
+      "name": "鬼追灯",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-29T19:58:50.538716"
+    },
+    "3355030": {
+      "appid": 3355030,
+      "name": "LuminaryPrimer",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-29T19:58:51.009442"
+    },
+    "3355020": {
+      "appid": 3355020,
+      "name": "Reverse Problem",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-29T19:58:51.120970"
+    },
+    "3354320": {
+      "appid": 3354320,
+      "name": "Game for Aliens",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-29T19:58:52.617230"
+    },
+    "3354260": {
+      "appid": 3354260,
+      "name": "TCG Multiplayer Card Shop Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-29T19:58:53.222121"
     }
   }
 }
