@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-03-29T04:42:40.666550"
+    "updated": "2025-03-29T04:54:48.673137"
   },
   "games": {
     "570": {
@@ -974,6 +974,14 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-03-28T19:27:04.770599"
+    },
+    "3469190": {
+      "appid": 3469190,
+      "name": "东方符卡嘉年华",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-03-29T04:54:35.133677"
     }
   }
 }
