@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-03-29T13:13:34.484499"
+    "updated": "2025-03-29T13:33:20.089519"
   },
   "games": {
     "570": {
@@ -12816,6 +12816,270 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-03-29T13:13:33.513159"
+    },
+    "3400470": {
+      "appid": 3400470,
+      "name": "Hell Bug",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-29T13:33:01.426432"
+    },
+    "3400360": {
+      "appid": 3400360,
+      "name": "Extreme Cycling",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-29T13:33:02.074910"
+    },
+    "3400160": {
+      "appid": 3400160,
+      "name": "坦克大战齐射",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-29T13:33:03.258931"
+    },
+    "3400140": {
+      "appid": 3400140,
+      "name": "夏日盛宴",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-29T13:33:03.710480"
+    },
+    "3400080": {
+      "appid": 3400080,
+      "name": "奇幻灵魂复仇",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-29T13:33:04.902025"
+    },
+    "3400000": {
+      "appid": 3400000,
+      "name": "Cubic Odyssey",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-29T13:33:05.735167"
+    },
+    "3399960": {
+      "appid": 3399960,
+      "name": "悠哉钓鱼",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-29T13:33:06.107025"
+    },
+    "3399950": {
+      "appid": 3399950,
+      "name": "你的老母",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-29T13:33:06.393303"
+    },
+    "3399930": {
+      "appid": 3399930,
+      "name": "轮盘地牢",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-29T13:33:06.724124"
+    },
+    "3399830": {
+      "appid": 3399830,
+      "name": "The Last of them",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-29T13:33:08.153941"
+    },
+    "3399780": {
+      "appid": 3399780,
+      "name": "镇邪Ⅱ",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-29T13:33:08.297612"
+    },
+    "3399770": {
+      "appid": 3399770,
+      "name": "米利安：污浊的大地",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-29T13:33:08.590450"
+    },
+    "3399700": {
+      "appid": 3399700,
+      "name": "疾速之刃",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-29T13:33:09.268886"
+    },
+    "3399690": {
+      "appid": 3399690,
+      "name": "疯狂摩托",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-29T13:33:09.500929"
+    },
+    "3399680": {
+      "appid": 3399680,
+      "name": "Cooking Clash",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-29T13:33:09.739588"
+    },
+    "3399670": {
+      "appid": 3399670,
+      "name": "Writer. Chapter 1",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-29T13:33:10.134827"
+    },
+    "3399590": {
+      "appid": 3399590,
+      "name": "跳跃的你 Plus (from 大家一起观颜察色。4)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-29T13:33:10.600673"
+    },
+    "3399580": {
+      "appid": 3399580,
+      "name": "8 个你 Plus",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-29T13:33:10.806960"
+    },
+    "3399570": {
+      "appid": 3399570,
+      "name": "合成你的游戏 Plus (from 大家一起观颜察色。4)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-29T13:33:11.007969"
+    },
+    "3399540": {
+      "appid": 3399540,
+      "name": "浮云游戏公司",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-29T13:33:11.252160"
+    },
+    "3399520": {
+      "appid": 3399520,
+      "name": "亩产亿万斤",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-29T13:33:11.468638"
+    },
+    "3399430": {
+      "appid": 3399430,
+      "name": "18岁清纯少萝",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-29T13:33:12.432884"
+    },
+    "3399360": {
+      "appid": 3399360,
+      "name": "'My' parkour(‘我’的跑酷)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-29T13:33:13.056916"
+    },
+    "3399260": {
+      "appid": 3399260,
+      "name": "夜烬迷航 Veil of Ember",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-29T13:33:13.782223"
+    },
+    "3399130": {
+      "appid": 3399130,
+      "name": "Dominova",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-29T13:33:14.754234"
+    },
+    "3399040": {
+      "appid": 3399040,
+      "name": "Office Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-29T13:33:15.933660"
+    },
+    "3398940": {
+      "appid": 3398940,
+      "name": "WayPoint",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-29T13:33:17.048470"
+    },
+    "3398900": {
+      "appid": 3398900,
+      "name": "The Turkish Bazaar",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-29T13:33:17.320348"
+    },
+    "3398880": {
+      "appid": 3398880,
+      "name": "Castle V Castle",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-29T13:33:17.758145"
+    },
+    "3398870": {
+      "appid": 3398870,
+      "name": "末日发廊",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-29T13:33:18.164606"
+    },
+    "3398810": {
+      "appid": 3398810,
+      "name": "Lonely Christmas: Sadistic Femdom Punishment",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-29T13:33:18.700108"
+    },
+    "3398750": {
+      "appid": 3398750,
+      "name": "Gear Slayer TCG",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-29T13:33:19.271300"
+    },
+    "3398690": {
+      "appid": 3398690,
+      "name": "Lonely Christmas: Cupid's Punishment",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-29T13:33:20.087971"
     }
   }
 }
