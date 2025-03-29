@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-03-29T22:14:14.480219"
+    "updated": "2025-03-29T22:33:34.098346"
   },
   "games": {
     "570": {
@@ -18048,6 +18048,102 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-03-29T22:14:13.771116"
+    },
+    "3342890": {
+      "appid": 3342890,
+      "name": "Cozy Nook",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-29T22:33:28.780578"
+    },
+    "3342870": {
+      "appid": 3342870,
+      "name": "Lottery vs Aliens",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-29T22:33:29.030908"
+    },
+    "3342680": {
+      "appid": 3342680,
+      "name": "Lofi Cafe",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-29T22:33:29.545779"
+    },
+    "3342650": {
+      "appid": 3342650,
+      "name": "From The Past",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-29T22:33:29.653188"
+    },
+    "3342640": {
+      "appid": 3342640,
+      "name": "地狱烹烹乐 Hell's Cooking Joy",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-29T22:33:29.751830"
+    },
+    "3342630": {
+      "appid": 3342630,
+      "name": "Escape From Sandhill",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-29T22:33:29.878613"
+    },
+    "3342540": {
+      "appid": 3342540,
+      "name": "小行星X",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-29T22:33:30.307550"
+    },
+    "3342500": {
+      "appid": 3342500,
+      "name": "坦克王牌 / Tanks: The Ace",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-29T22:33:30.412680"
+    },
+    "3342490": {
+      "appid": 3342490,
+      "name": "1938",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-29T22:33:30.535600"
+    },
+    "3342320": {
+      "appid": 3342320,
+      "name": "无限猫猫计划",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-29T22:33:31.878736"
+    },
+    "3342270": {
+      "appid": 3342270,
+      "name": "一片良田",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-29T22:33:31.986403"
+    },
+    "3342040": {
+      "appid": 3342040,
+      "name": "Paranoide",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-29T22:33:33.307959"
     }
   }
 }
