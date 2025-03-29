@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-03-29T16:46:43.298038"
+    "updated": "2025-03-29T16:58:42.348494"
   },
   "games": {
     "570": {
@@ -1006,6 +1006,14 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-03-29T08:59:57.646996"
+    },
+    "3377320": {
+      "appid": 3377320,
+      "name": "Arcane Lust 18+",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-03-29T16:58:34.314933"
     }
   }
 }
