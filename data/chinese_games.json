@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-03-29T19:21:49.323269"
+    "updated": "2025-03-29T19:35:11.588448"
   },
   "games": {
     "570": {
@@ -16520,6 +16520,198 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-03-29T19:21:49.194639"
+    },
+    "3359200": {
+      "appid": 3359200,
+      "name": "All Aboard! 火车防御特快",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-29T19:34:57.885315"
+    },
+    "3359030": {
+      "appid": 3359030,
+      "name": "BoringParty",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-29T19:34:59.025003"
+    },
+    "3358930": {
+      "appid": 3358930,
+      "name": "球球大作战",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-29T19:34:59.459162"
+    },
+    "3358870": {
+      "appid": 3358870,
+      "name": "A Sexy Tour With : Marie",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-29T19:35:00.045018"
+    },
+    "3358690": {
+      "appid": 3358690,
+      "name": "千和饭堂",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-29T19:35:00.940797"
+    },
+    "3358650": {
+      "appid": 3358650,
+      "name": "橙子小白大冒险",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-29T19:35:02.323215"
+    },
+    "3358590": {
+      "appid": 3358590,
+      "name": "维度研究导论 能够在多次时长约为三分钟的通话后出现的超高维度界面引论",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-29T19:35:02.688915"
+    },
+    "3358560": {
+      "appid": 3358560,
+      "name": "Hardware Store Simulator / 五金店模拟器",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-29T19:35:03.027418"
+    },
+    "3358520": {
+      "appid": 3358520,
+      "name": "Hidden Cats of Mayan",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-29T19:35:03.183178"
+    },
+    "3358510": {
+      "appid": 3358510,
+      "name": "再刷一把2：金色传说",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-29T19:35:03.341339"
+    },
+    "3358480": {
+      "appid": 3358480,
+      "name": "Idiom‌",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-29T19:35:03.537063"
+    },
+    "3358470": {
+      "appid": 3358470,
+      "name": "永恒珍宝：失落的秘宝",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-29T19:35:03.734053"
+    },
+    "3358400": {
+      "appid": 3358400,
+      "name": "夜班护士模拟器",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-29T19:35:04.121361"
+    },
+    "3358360": {
+      "appid": 3358360,
+      "name": "Motorcycle Night Ride",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-29T19:35:04.347137"
+    },
+    "3358340": {
+      "appid": 3358340,
+      "name": "Fearscape: The Boogeyman",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-29T19:35:05.137413"
+    },
+    "3358250": {
+      "appid": 3358250,
+      "name": "巴尔的遗产",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-29T19:35:06.211882"
+    },
+    "3358030": {
+      "appid": 3358030,
+      "name": "波莉走了",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-29T19:35:07.443113"
+    },
+    "3358010": {
+      "appid": 3358010,
+      "name": "De:Lithe Last Memories",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-29T19:35:07.757434"
+    },
+    "3357960": {
+      "appid": 3357960,
+      "name": "KuloNiku: Meatball Cooking",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-29T19:35:08.953346"
+    },
+    "3357930": {
+      "appid": 3357930,
+      "name": "ToDo LisT 待办清单",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-29T19:35:09.192011"
+    },
+    "3357910": {
+      "appid": 3357910,
+      "name": "MOBA大乱斗",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-29T19:35:09.458355"
+    },
+    "3357810": {
+      "appid": 3357810,
+      "name": "Game Widgets",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-29T19:35:10.306597"
+    },
+    "3357680": {
+      "appid": 3357680,
+      "name": "亡行者编年史",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-29T19:35:10.485538"
+    },
+    "3357660": {
+      "appid": 3357660,
+      "name": "Christmas Bazaar - Manager Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-29T19:35:10.839420"
     }
   }
 }
