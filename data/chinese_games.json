@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-03-30T12:31:46.528183"
+    "updated": "2025-03-30T13:01:54.705253"
   },
   "games": {
     "570": {
@@ -21528,6 +21528,94 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-03-30T12:31:46.387654"
+    },
+    "3301020": {
+      "appid": 3301020,
+      "name": "Echoes of Nara",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T13:01:52.012653"
+    },
+    "3301010": {
+      "appid": 3301010,
+      "name": "Den-Den: Tokyo Horror",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T13:01:52.111462"
+    },
+    "3301000": {
+      "appid": 3301000,
+      "name": "The Vast White",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T13:01:52.212617"
+    },
+    "3300970": {
+      "appid": 3300970,
+      "name": "OpenDraft",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T13:01:52.353534"
+    },
+    "3300960": {
+      "appid": 3300960,
+      "name": "过冬松鼠",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T13:01:52.538027"
+    },
+    "3300950": {
+      "appid": 3300950,
+      "name": "次元幻境",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T13:01:52.657570"
+    },
+    "3300830": {
+      "appid": 3300830,
+      "name": "The Abandoned Levels",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T13:01:53.451989"
+    },
+    "3300800": {
+      "appid": 3300800,
+      "name": "HER TREES : PUZZLE DREAM",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T13:01:53.733711"
+    },
+    "3300760": {
+      "appid": 3300760,
+      "name": "掠宝法师 (LootMage)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T13:01:53.843732"
+    },
+    "3300740": {
+      "appid": 3300740,
+      "name": "怪谈事务所：破界",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T13:01:53.945857"
+    },
+    "3300580": {
+      "appid": 3300580,
+      "name": "蘑菇大冒险！奇迹",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T13:01:54.703646"
     }
   }
 }
