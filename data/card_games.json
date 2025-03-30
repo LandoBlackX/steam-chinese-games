@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-03-30T03:12:39.617326"
+    "updated": "2025-03-30T03:47:38.209543"
   },
   "games": {
     "570": {
@@ -1038,6 +1038,14 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-03-29T18:47:59.682470"
+    },
+    "3330930": {
+      "appid": 3330930,
+      "name": "Locked in my Darkness 2: The Room",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-03-30T03:47:36.046576"
     }
   }
 }
