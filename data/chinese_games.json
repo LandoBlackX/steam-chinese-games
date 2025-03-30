@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-03-30T07:57:03.620271"
+    "updated": "2025-03-30T08:28:14.878424"
   },
   "games": {
     "570": {
@@ -20528,6 +20528,70 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-03-30T07:57:03.618654"
+    },
+    "3315400": {
+      "appid": 3315400,
+      "name": "绿林英雄：序章",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T08:28:10.072523"
+    },
+    "3315370": {
+      "appid": 3315370,
+      "name": "JusticeCat 裁决之猫",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T08:28:10.243332"
+    },
+    "3315330": {
+      "appid": 3315330,
+      "name": "江城大赢家",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T08:28:10.365769"
+    },
+    "3315310": {
+      "appid": 3315310,
+      "name": "六足冒险 the legend of six legged",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T08:28:10.936641"
+    },
+    "3315230": {
+      "appid": 3315230,
+      "name": "Rocket Squad: Infinity",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T08:28:11.398533"
+    },
+    "3314980": {
+      "appid": 3314980,
+      "name": "Die by Anything",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T08:28:12.381880"
+    },
+    "3314880": {
+      "appid": 3314880,
+      "name": "EXTERMINIUM",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T08:28:12.507694"
+    },
+    "3314450": {
+      "appid": 3314450,
+      "name": "武器育儿",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T08:28:14.046670"
     }
   }
 }
