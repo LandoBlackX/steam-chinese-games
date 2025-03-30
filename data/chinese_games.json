@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-03-30T13:41:41.419178"
+    "updated": "2025-03-30T13:49:28.912724"
   },
   "games": {
     "570": {
@@ -21712,6 +21712,102 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-03-30T13:41:41.417678"
+    },
+    "3299140": {
+      "appid": 3299140,
+      "name": "Hogs Rampage",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T13:49:25.134406"
+    },
+    "3299130": {
+      "appid": 3299130,
+      "name": "Mayhem Maidens",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T13:49:25.325461"
+    },
+    "3299100": {
+      "appid": 3299100,
+      "name": "Null Transit",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T13:49:25.452299"
+    },
+    "3299080": {
+      "appid": 3299080,
+      "name": "Snow Resort Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T13:49:25.579563"
+    },
+    "3298960": {
+      "appid": 3298960,
+      "name": "寻仙问道",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T13:49:25.785132"
+    },
+    "3298950": {
+      "appid": 3298950,
+      "name": "Noir Light",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T13:49:25.927687"
+    },
+    "3298940": {
+      "appid": 3298940,
+      "name": "Static Dread: 15 Nights at the Old Lighthouse",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T13:49:26.049020"
+    },
+    "3298920": {
+      "appid": 3298920,
+      "name": "psy-relic",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T13:49:26.185644"
+    },
+    "3298870": {
+      "appid": 3298870,
+      "name": "梦幻八仙",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T13:49:26.615486"
+    },
+    "3298820": {
+      "appid": 3298820,
+      "name": "令我骄傲的女友--丽娜篇",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T13:49:26.883697"
+    },
+    "3298590": {
+      "appid": 3298590,
+      "name": "101 Cats Hidden in Tokyo",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T13:49:28.283395"
+    },
+    "3298570": {
+      "appid": 3298570,
+      "name": "The Legend of Cyber Cowboy",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T13:49:28.618309"
     }
   }
 }
