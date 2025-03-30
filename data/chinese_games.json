@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-03-30T07:45:21.254162"
+    "updated": "2025-03-30T07:57:03.620271"
   },
   "games": {
     "570": {
@@ -20432,6 +20432,102 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-03-30T07:45:19.947425"
+    },
+    "3316430": {
+      "appid": 3316430,
+      "name": "Unpatterned Cut",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T07:56:57.454653"
+    },
+    "3316330": {
+      "appid": 3316330,
+      "name": "Undead Hunter Part I",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T07:56:58.725188"
+    },
+    "3316210": {
+      "appid": 3316210,
+      "name": "梧州旅行家",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T07:56:58.874611"
+    },
+    "3316190": {
+      "appid": 3316190,
+      "name": "Project Neon",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T07:56:59.433667"
+    },
+    "3316020": {
+      "appid": 3316020,
+      "name": "The President Bodyguard: Sam story",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T07:57:00.760963"
+    },
+    "3315920": {
+      "appid": 3315920,
+      "name": "一心多用",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T07:57:01.082022"
+    },
+    "3315910": {
+      "appid": 3315910,
+      "name": "Swap",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T07:57:01.215844"
+    },
+    "3315880": {
+      "appid": 3315880,
+      "name": "Sweet Robot",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T07:57:01.869664"
+    },
+    "3315830": {
+      "appid": 3315830,
+      "name": "Cosmic Royale",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T07:57:02.316069"
+    },
+    "3315770": {
+      "appid": 3315770,
+      "name": "铜刀银剑",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T07:57:02.902253"
+    },
+    "3315720": {
+      "appid": 3315720,
+      "name": "位面领主：海盗与低语",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T07:57:03.359784"
+    },
+    "3315700": {
+      "appid": 3315700,
+      "name": "Unsound Love",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T07:57:03.618654"
     }
   }
 }
