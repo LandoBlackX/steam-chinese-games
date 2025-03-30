@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-03-30T21:35:37.011224"
+    "updated": "2025-03-30T21:47:24.963040"
   },
   "games": {
     "570": {
@@ -1182,6 +1182,14 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-03-30T20:32:59.813434"
+    },
+    "3226460": {
+      "appid": 3226460,
+      "name": "Scar-Lead Salvation",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-03-30T21:47:17.733505"
     }
   }
 }
