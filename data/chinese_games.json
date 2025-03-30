@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-03-30T14:15:06.731549"
+    "updated": "2025-03-30T14:22:00.342875"
   },
   "games": {
     "570": {
@@ -22104,6 +22104,46 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-03-30T14:15:06.176164"
+    },
+    "3296240": {
+      "appid": 3296240,
+      "name": "Math Master",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T14:21:57.236868"
+    },
+    "3296190": {
+      "appid": 3296190,
+      "name": "ONIBITO KIKI",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T14:21:57.474696"
+    },
+    "3295890": {
+      "appid": 3295890,
+      "name": "PARKOUR CIVILIZATION",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T14:21:59.259097"
+    },
+    "3295820": {
+      "appid": 3295820,
+      "name": "Rebirth of Legal maniac",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T14:21:59.552773"
+    },
+    "3295720": {
+      "appid": 3295720,
+      "name": "逃家少女~蜜梨與巧克力~",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T14:22:00.086944"
     }
   }
 }
