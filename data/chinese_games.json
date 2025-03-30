@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-03-30T09:47:45.438645"
+    "updated": "2025-03-30T09:59:46.149932"
   },
   "games": {
     "570": {
@@ -21096,6 +21096,46 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-03-30T09:47:44.591221"
+    },
+    "3307610": {
+      "appid": 3307610,
+      "name": "Ultimate Golf Battle",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T09:59:42.792886"
+    },
+    "3307460": {
+      "appid": 3307460,
+      "name": "Monster Shuttle",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T09:59:43.331683"
+    },
+    "3307440": {
+      "appid": 3307440,
+      "name": "Living Shadows",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T09:59:43.474287"
+    },
+    "3307390": {
+      "appid": 3307390,
+      "name": "Gizmo",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T09:59:43.849924"
+    },
+    "3307050": {
+      "appid": 3307050,
+      "name": "凛冬将至",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T09:59:45.607835"
     }
   }
 }
