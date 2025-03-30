@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-03-30T03:59:22.774241"
+    "updated": "2025-03-30T04:31:24.287905"
   },
   "games": {
     "570": {
@@ -1046,6 +1046,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-03-30T03:47:36.046576"
+    },
+    "3328720": {
+      "appid": 3328720,
+      "name": "闪光公仔",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-03-30T04:31:22.869816"
     }
   }
 }
