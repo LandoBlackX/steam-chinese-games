@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-03-30T09:35:58.030188"
+    "updated": "2025-03-30T09:47:45.438645"
   },
   "games": {
     "570": {
@@ -21008,6 +21008,94 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-03-30T09:35:58.028689"
+    },
+    "3309070": {
+      "appid": 3309070,
+      "name": "鬼子必须死！",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T09:47:41.459633"
+    },
+    "3309020": {
+      "appid": 3309020,
+      "name": "幸运牌",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T09:47:41.577975"
+    },
+    "3308930": {
+      "appid": 3308930,
+      "name": "迷你空战",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T09:47:42.020568"
+    },
+    "3308800": {
+      "appid": 3308800,
+      "name": "银河先锋",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T09:47:42.225180"
+    },
+    "3308560": {
+      "appid": 3308560,
+      "name": "咕咕披萨：送披萨到空间站？老板，这不对啊！",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T09:47:42.521995"
+    },
+    "3308550": {
+      "appid": 3308550,
+      "name": "Sky End Market",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T09:47:42.630769"
+    },
+    "3308330": {
+      "appid": 3308330,
+      "name": "Hardcore Circus",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T09:47:43.087859"
+    },
+    "3308310": {
+      "appid": 3308310,
+      "name": "10分钟战争【BG】",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T09:47:43.319385"
+    },
+    "3308230": {
+      "appid": 3308230,
+      "name": "Brawlers of the West: Prologue",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T09:47:43.839138"
+    },
+    "3308210": {
+      "appid": 3308210,
+      "name": "Store Wars: Prologue - Multiplayer Shop Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T09:47:44.068960"
+    },
+    "3308150": {
+      "appid": 3308150,
+      "name": "Handstand Hank",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T09:47:44.591221"
     }
   }
 }
