@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-03-30T05:41:02.606056"
+    "updated": "2025-03-30T05:53:08.592252"
   },
   "games": {
     "570": {
@@ -19768,6 +19768,46 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-03-30T05:41:02.151731"
+    },
+    "3324060": {
+      "appid": 3324060,
+      "name": "Seek and Click",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T05:53:02.605636"
+    },
+    "3324030": {
+      "appid": 3324030,
+      "name": "爱坤新手教程",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T05:53:02.881569"
+    },
+    "3323990": {
+      "appid": 3323990,
+      "name": "I'm Rich",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T05:53:03.173271"
+    },
+    "3323860": {
+      "appid": 3323860,
+      "name": "Jelly Farm",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T05:53:04.120026"
+    },
+    "3323440": {
+      "appid": 3323440,
+      "name": "魔石格斗战争",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T05:53:07.069741"
     }
   }
 }
