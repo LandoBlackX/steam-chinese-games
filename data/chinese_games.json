@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-03-30T10:43:14.387067"
+    "updated": "2025-03-30T10:55:29.596744"
   },
   "games": {
     "570": {
@@ -21288,6 +21288,38 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-03-30T10:43:13.976861"
+    },
+    "3305190": {
+      "appid": 3305190,
+      "name": "再来一盘！",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T10:55:24.435590"
+    },
+    "3304770": {
+      "appid": 3304770,
+      "name": "释放自我！户外直播体验",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T10:55:27.431391"
+    },
+    "3304760": {
+      "appid": 3304760,
+      "name": "虚渺裂界",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T10:55:27.570448"
+    },
+    "3304750": {
+      "appid": 3304750,
+      "name": "尸境求生",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T10:55:27.725952"
     }
   }
 }
