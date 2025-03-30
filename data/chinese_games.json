@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-03-30T11:17:04.646013"
+    "updated": "2025-03-30T11:30:03.389175"
   },
   "games": {
     "570": {
@@ -21376,6 +21376,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-03-30T11:17:04.514445"
+    },
+    "3303700": {
+      "appid": 3303700,
+      "name": "Vagnerun",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T11:30:00.605315"
+    },
+    "3303420": {
+      "appid": 3303420,
+      "name": "Hot Slice: Lust Exposed",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T11:30:02.857517"
     }
   }
 }
