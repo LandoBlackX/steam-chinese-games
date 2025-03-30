@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-03-30T14:34:24.676953"
+    "updated": "2025-03-30T14:46:27.552346"
   },
   "games": {
     "570": {
@@ -22248,6 +22248,46 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-03-30T14:34:24.675315"
+    },
+    "3294540": {
+      "appid": 3294540,
+      "name": "迷宫塔防",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T14:46:24.551500"
+    },
+    "3294280": {
+      "appid": 3294280,
+      "name": "Gafes Special Agent",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T14:46:25.860097"
+    },
+    "3294220": {
+      "appid": 3294220,
+      "name": "Curse of Darkness",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T14:46:26.261665"
+    },
+    "3294180": {
+      "appid": 3294180,
+      "name": "KOTA: The Survival",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T14:46:26.494433"
+    },
+    "3294060": {
+      "appid": 3294060,
+      "name": "遥远的村庄 AN OUTLAND VILLAGE",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T14:46:27.361024"
     }
   }
 }
