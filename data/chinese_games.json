@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-03-30T15:39:01.456399"
+    "updated": "2025-03-30T15:51:18.984192"
   },
   "games": {
     "570": {
@@ -22536,6 +22536,46 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-03-30T15:39:01.322253"
+    },
+    "3291370": {
+      "appid": 3291370,
+      "name": "NightClub Manager",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T15:51:17.071252"
+    },
+    "3291350": {
+      "appid": 3291350,
+      "name": "灭绝虚空",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T15:51:17.269985"
+    },
+    "3291290": {
+      "appid": 3291290,
+      "name": "E-Commerce Simulator 2025",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T15:51:17.826593"
+    },
+    "3291240": {
+      "appid": 3291240,
+      "name": "三消 x 方块",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T15:51:18.332734"
+    },
+    "3291130": {
+      "appid": 3291130,
+      "name": "QR DEAD",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T15:51:18.760075"
     }
   }
 }
