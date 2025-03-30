@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-03-30T14:58:35.219902"
+    "updated": "2025-03-30T15:23:28.522036"
   },
   "games": {
     "570": {
@@ -22344,6 +22344,46 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-03-30T14:58:34.772772"
+    },
+    "3293450": {
+      "appid": 3293450,
+      "name": "Blazium Engine",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T15:23:25.805824"
+    },
+    "3293390": {
+      "appid": 3293390,
+      "name": "Blank Wallpaper",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T15:23:25.923618"
+    },
+    "3293250": {
+      "appid": 3293250,
+      "name": "Delirium",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T15:23:26.671645"
+    },
+    "3293150": {
+      "appid": 3293150,
+      "name": "KEEP LOOKING",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T15:23:27.671070"
+    },
+    "3293100": {
+      "appid": 3293100,
+      "name": "Scientist Creature",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T15:23:27.823761"
     }
   }
 }
