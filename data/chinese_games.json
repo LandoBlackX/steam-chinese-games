@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-03-30T14:31:00.116834"
+    "updated": "2025-03-30T14:34:24.676953"
   },
   "games": {
     "570": {
@@ -22184,6 +22184,70 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-03-30T14:30:59.946233"
+    },
+    "3294790": {
+      "appid": 3294790,
+      "name": "Elf World Adventure 3",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T14:34:22.716642"
+    },
+    "3294750": {
+      "appid": 3294750,
+      "name": "MUBOSAMA",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T14:34:23.043680"
+    },
+    "3294670": {
+      "appid": 3294670,
+      "name": "Sweet Honey",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T14:34:23.471978"
+    },
+    "3294640": {
+      "appid": 3294640,
+      "name": "BrickRobo Shop Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T14:34:23.610348"
+    },
+    "3294630": {
+      "appid": 3294630,
+      "name": "Mini Racer Car Shop Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T14:34:23.758351"
+    },
+    "3294610": {
+      "appid": 3294610,
+      "name": "Go Go Fight",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T14:34:24.089453"
+    },
+    "3294580": {
+      "appid": 3294580,
+      "name": "506战纪",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T14:34:24.367796"
+    },
+    "3294550": {
+      "appid": 3294550,
+      "name": "疯狂找东西",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T14:34:24.675315"
     }
   }
 }
