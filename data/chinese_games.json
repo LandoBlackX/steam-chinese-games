@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-03-30T15:23:28.522036"
+    "updated": "2025-03-30T15:25:20.849473"
   },
   "games": {
     "570": {
@@ -22384,6 +22384,54 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-03-30T15:23:27.823761"
+    },
+    "3292980": {
+      "appid": 3292980,
+      "name": "Hacky",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T15:25:18.577712"
+    },
+    "3292960": {
+      "appid": 3292960,
+      "name": "空战英豪",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T15:25:18.680365"
+    },
+    "3292780": {
+      "appid": 3292780,
+      "name": "Atlas Protocol - Escape Room",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T15:25:19.706812"
+    },
+    "3292740": {
+      "appid": 3292740,
+      "name": "With The Fire And Sword",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T15:25:20.165637"
+    },
+    "3292680": {
+      "appid": 3292680,
+      "name": "红星照耀美利坚 Red Star Over America",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T15:25:20.566137"
+    },
+    "3292650": {
+      "appid": 3292650,
+      "name": "奇迹松鼠俱乐部",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T15:25:20.848180"
     }
   }
 }
