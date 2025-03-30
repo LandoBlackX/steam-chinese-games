@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-03-30T23:31:25.514083"
+    "updated": "2025-03-30T23:44:33.798171"
   },
   "games": {
     "570": {
@@ -1190,6 +1190,22 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-03-30T21:47:17.733505"
+    },
+    "3213090": {
+      "appid": 3213090,
+      "name": "SEX Route 69",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-03-30T23:44:24.000762"
+    },
+    "3211680": {
+      "appid": 3211680,
+      "name": "烟店模拟器",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-03-30T23:44:31.256771"
     }
   }
 }
