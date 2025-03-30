@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-03-30T13:01:54.705253"
+    "updated": "2025-03-30T13:29:27.073792"
   },
   "games": {
     "570": {
@@ -21616,6 +21616,46 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-03-30T13:01:54.703646"
+    },
+    "3300410": {
+      "appid": 3300410,
+      "name": "Garten of Banban 0",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T13:29:24.517322"
+    },
+    "3300260": {
+      "appid": 3300260,
+      "name": "8 Ball: Reborn",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T13:29:25.395145"
+    },
+    "3300140": {
+      "appid": 3300140,
+      "name": "Bumper Blitz TD",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T13:29:25.769620"
+    },
+    "3299940": {
+      "appid": 3299940,
+      "name": "Omega Luma : The First Battle",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T13:29:26.728305"
+    },
+    "3299920": {
+      "appid": 3299920,
+      "name": "Liminal Point",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T13:29:26.829508"
     }
   }
 }
