@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-03-30T06:43:27.962843"
+    "updated": "2025-03-30T06:55:36.592841"
   },
   "games": {
     "570": {
@@ -20024,6 +20024,142 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-03-30T06:43:27.961391"
+    },
+    "3320440": {
+      "appid": 3320440,
+      "name": "CannonHead",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T06:55:30.864878"
+    },
+    "3320390": {
+      "appid": 3320390,
+      "name": "斯拉格的姐妹防御",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T06:55:30.998573"
+    },
+    "3320380": {
+      "appid": 3320380,
+      "name": "Hangul Typing Tale",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T06:55:31.133662"
+    },
+    "3320370": {
+      "appid": 3320370,
+      "name": "Little Adventure Tale",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T06:55:31.273756"
+    },
+    "3320340": {
+      "appid": 3320340,
+      "name": "Nomadic Tale (Harvest Elysium)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T06:55:31.513986"
+    },
+    "3320320": {
+      "appid": 3320320,
+      "name": "次元沙漏的棋盘 Dimensional Racing Board",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T06:55:31.752274"
+    },
+    "3320270": {
+      "appid": 3320270,
+      "name": "Chertovica",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T06:55:32.025036"
+    },
+    "3320200": {
+      "appid": 3320200,
+      "name": "Kaal Yoddha: Curse of The Mask",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T06:55:32.355086"
+    },
+    "3319980": {
+      "appid": 3319980,
+      "name": "英雄传说 界之轨迹 -告别塞姆利亚-",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T06:55:33.526281"
+    },
+    "3319740": {
+      "appid": 3319740,
+      "name": "寿司学日文",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T06:55:34.234939"
+    },
+    "3319730": {
+      "appid": 3319730,
+      "name": "Purrfect Chatter 喵语心扉",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T06:55:34.338089"
+    },
+    "3319720": {
+      "appid": 3319720,
+      "name": "心核 Kernel",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T06:55:34.456151"
+    },
+    "3319710": {
+      "appid": 3319710,
+      "name": "CybArena",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T06:55:34.639898"
+    },
+    "3319700": {
+      "appid": 3319700,
+      "name": "新世界：暗影成双",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T06:55:34.771965"
+    },
+    "3319670": {
+      "appid": 3319670,
+      "name": "重写末日",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T06:55:34.886969"
+    },
+    "3319630": {
+      "appid": 3319630,
+      "name": "荒野起源",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T06:55:35.468689"
+    },
+    "3319620": {
+      "appid": 3319620,
+      "name": "潮痕 Tideline",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T06:55:35.596442"
     }
   }
 }
