@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-03-30T22:25:05.905286"
+    "updated": "2025-03-30T22:40:21.436275"
   },
   "games": {
     "570": {
@@ -28104,6 +28104,198 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-03-30T22:25:05.636562"
+    },
+    "3221190": {
+      "appid": 3221190,
+      "name": "运动女孩:村庄",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T22:40:09.571567"
+    },
+    "3221180": {
+      "appid": 3221180,
+      "name": "Re:Flex",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T22:40:09.692575"
+    },
+    "3221170": {
+      "appid": 3221170,
+      "name": "唯",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T22:40:09.813815"
+    },
+    "3221110": {
+      "appid": 3221110,
+      "name": "Elf Adventure: The Lost Castle",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T22:40:10.015887"
+    },
+    "3221000": {
+      "appid": 3221000,
+      "name": "酆都战记",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T22:40:11.005408"
+    },
+    "3220830": {
+      "appid": 3220830,
+      "name": "黄昏酒馆",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T22:40:11.412716"
+    },
+    "3220800": {
+      "appid": 3220800,
+      "name": "Feika AI Game Engine",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T22:40:11.677924"
+    },
+    "3220730": {
+      "appid": 3220730,
+      "name": "JAMs",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T22:40:12.268456"
+    },
+    "3220650": {
+      "appid": 3220650,
+      "name": "Horse Manager",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T22:40:13.321899"
+    },
+    "3220520": {
+      "appid": 3220520,
+      "name": "H+H=H2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T22:40:13.877930"
+    },
+    "3220330": {
+      "appid": 3220330,
+      "name": "Mangoo",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T22:40:15.094433"
+    },
+    "3220210": {
+      "appid": 3220210,
+      "name": "Slenderman: The Unknowns",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T22:40:15.548013"
+    },
+    "3220200": {
+      "appid": 3220200,
+      "name": "羔羊崛起：觉醒",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T22:40:15.656636"
+    },
+    "3220170": {
+      "appid": 3220170,
+      "name": "LostMagic",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T22:40:16.082896"
+    },
+    "3220150": {
+      "appid": 3220150,
+      "name": "Dungeon Ward",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T22:40:16.208573"
+    },
+    "3220110": {
+      "appid": 3220110,
+      "name": "Agent Fall",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T22:40:16.334054"
+    },
+    "3220090": {
+      "appid": 3220090,
+      "name": "100 hidden Cats : Kitty House",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T22:40:16.511820"
+    },
+    "3220070": {
+      "appid": 3220070,
+      "name": "愚者之梦：零时将至",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T22:40:16.818206"
+    },
+    "3220060": {
+      "appid": 3220060,
+      "name": "哀鸿：城破十日记",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T22:40:16.940291"
+    },
+    "3219990": {
+      "appid": 3219990,
+      "name": "星云突击",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T22:40:17.250901"
+    },
+    "3219960": {
+      "appid": 3219960,
+      "name": "ICE on the EDGE",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T22:40:17.368009"
+    },
+    "3219820": {
+      "appid": 3219820,
+      "name": "Road Motel Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T22:40:18.122558"
+    },
+    "3219580": {
+      "appid": 3219580,
+      "name": "茜塔和世界线悖论",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T22:40:19.548255"
+    },
+    "3219450": {
+      "appid": 3219450,
+      "name": "Nonogram Halloween",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T22:40:19.989196"
     }
   }
 }
