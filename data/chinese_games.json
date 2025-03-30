@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-03-30T09:22:16.753220"
+    "updated": "2025-03-30T09:35:58.030188"
   },
   "games": {
     "570": {
@@ -20944,6 +20944,70 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-03-30T09:22:16.147129"
+    },
+    "3310110": {
+      "appid": 3310110,
+      "name": "Big Burger Tower",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T09:35:53.054185"
+    },
+    "3309510": {
+      "appid": 3309510,
+      "name": "成年人填色本 2 - 家庭版",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T09:35:55.564501"
+    },
+    "3309440": {
+      "appid": 3309440,
+      "name": "罪孽庄园",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T09:35:56.108526"
+    },
+    "3309390": {
+      "appid": 3309390,
+      "name": "同一天~永無止境的慶功宴~",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T09:35:56.259539"
+    },
+    "3309360": {
+      "appid": 3309360,
+      "name": "GraveBorn",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T09:35:56.528441"
+    },
+    "3309290": {
+      "appid": 3309290,
+      "name": "黑乌鸦",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T09:35:56.826585"
+    },
+    "3309160": {
+      "appid": 3309160,
+      "name": "Chronocracy",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T09:35:57.718988"
+    },
+    "3309140": {
+      "appid": 3309140,
+      "name": "Ragnar",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T09:35:58.028689"
     }
   }
 }
