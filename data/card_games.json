@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-03-30T13:49:28.912724"
+    "updated": "2025-03-30T13:53:25.217956"
   },
   "games": {
     "570": {
@@ -1054,6 +1054,22 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-03-30T04:31:22.869816"
+    },
+    "3298250": {
+      "appid": 3298250,
+      "name": "Yoshima: Hentai Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-03-30T13:53:23.549446"
+    },
+    "3298170": {
+      "appid": 3298170,
+      "name": "S.E.X. Z.O.N.E. ☢️",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-03-30T13:53:24.065624"
     }
   }
 }

@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-03-30T13:49:28.912724"
+    "updated": "2025-03-30T13:53:25.217956"
   },
   "games": {
     "570": {
@@ -21808,6 +21808,54 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-03-30T13:49:28.618309"
+    },
+    "3298500": {
+      "appid": 3298500,
+      "name": "留级魔女与贤者之石",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T13:53:21.730155"
+    },
+    "3298460": {
+      "appid": 3298460,
+      "name": "Pushing it! Together - Sisyphus Co-op",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T13:53:22.123529"
+    },
+    "3298250": {
+      "appid": 3298250,
+      "name": "Yoshima: Hentai Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-03-30T13:53:23.549446"
+    },
+    "3298170": {
+      "appid": 3298170,
+      "name": "S.E.X. Z.O.N.E. ☢️",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-03-30T13:53:24.065624"
+    },
+    "3298150": {
+      "appid": 3298150,
+      "name": "Flip Flop XL",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T13:53:24.201697"
+    },
+    "3298020": {
+      "appid": 3298020,
+      "name": "A Night With: Succubus",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T13:53:25.087078"
     }
   }
 }
