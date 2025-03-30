@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-03-30T17:54:03.893236"
+    "updated": "2025-03-30T18:22:46.003007"
   },
   "games": {
     "570": {
@@ -1102,6 +1102,14 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-03-30T17:29:39.189732"
+    },
+    "3263320": {
+      "appid": 3263320,
+      "name": "Carry The Glass",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-03-30T18:22:37.628781"
     }
   }
 }
