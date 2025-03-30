@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-03-30T11:30:03.389175"
+    "updated": "2025-03-30T11:42:03.016478"
   },
   "games": {
     "570": {
@@ -21392,6 +21392,54 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-03-30T11:30:02.857517"
+    },
+    "3303320": {
+      "appid": 3303320,
+      "name": "克拉肯城市",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T11:41:58.965796"
+    },
+    "3303230": {
+      "appid": 3303230,
+      "name": "Backrooms Level X",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T11:41:59.543080"
+    },
+    "3303150": {
+      "appid": 3303150,
+      "name": "无尽塔防：活下去",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T11:41:59.814608"
+    },
+    "3303100": {
+      "appid": 3303100,
+      "name": "Sweet Fantasy",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T11:42:00.128913"
+    },
+    "3303070": {
+      "appid": 3303070,
+      "name": "艾瑞亚之歌",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T11:42:00.258058"
+    },
+    "3302740": {
+      "appid": 3302740,
+      "name": "Supernatural Squad",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T11:42:01.782499"
     }
   }
 }
