@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-03-30T07:33:12.080131"
+    "updated": "2025-03-30T07:45:21.254162"
   },
   "games": {
     "570": {
@@ -20360,6 +20360,78 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-03-30T07:33:12.078856"
+    },
+    "3317370": {
+      "appid": 3317370,
+      "name": "The last farewell",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T07:45:14.868890"
+    },
+    "3317350": {
+      "appid": 3317350,
+      "name": "Capacity",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T07:45:15.204242"
+    },
+    "3316970": {
+      "appid": 3316970,
+      "name": "Kickoff Land!",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T07:45:17.292754"
+    },
+    "3316920": {
+      "appid": 3316920,
+      "name": "TDS",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T07:45:17.780051"
+    },
+    "3316880": {
+      "appid": 3316880,
+      "name": "Central Bank",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T07:45:18.112064"
+    },
+    "3316830": {
+      "appid": 3316830,
+      "name": "Queen's Revenge",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T07:45:18.599286"
+    },
+    "3316700": {
+      "appid": 3316700,
+      "name": "The Horror",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T07:45:19.127781"
+    },
+    "3316660": {
+      "appid": 3316660,
+      "name": "咕咕呱噗乐",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T07:45:19.423387"
+    },
+    "3316620": {
+      "appid": 3316620,
+      "name": "Prove You Can Win",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T07:45:19.947425"
     }
   }
 }
