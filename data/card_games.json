@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-03-30T16:50:47.736740"
+    "updated": "2025-03-30T17:02:12.655947"
   },
   "games": {
     "570": {
@@ -1086,6 +1086,14 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-03-30T16:50:35.782979"
+    },
+    "3279160": {
+      "appid": 3279160,
+      "name": "Only Up: LIZARDS MUST FALL",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-03-30T17:02:04.293920"
     }
   }
 }
