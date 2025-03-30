@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-03-30T15:25:20.849473"
+    "updated": "2025-03-30T15:31:39.185976"
   },
   "games": {
     "570": {
@@ -22432,6 +22432,78 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-03-30T15:25:20.848180"
+    },
+    "3292640": {
+      "appid": 3292640,
+      "name": "雄闯天下",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T15:31:37.070795"
+    },
+    "3292610": {
+      "appid": 3292610,
+      "name": "横行纵队",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T15:31:37.299874"
+    },
+    "3292600": {
+      "appid": 3292600,
+      "name": "伊娃的实验室",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T15:31:37.428574"
+    },
+    "3292470": {
+      "appid": 3292470,
+      "name": "湮灭之潮",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T15:31:38.345287"
+    },
+    "3292420": {
+      "appid": 3292420,
+      "name": "Phantom Asylum VR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T15:31:38.547917"
+    },
+    "3292410": {
+      "appid": 3292410,
+      "name": "转生魔塔",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T15:31:38.656061"
+    },
+    "3292370": {
+      "appid": 3292370,
+      "name": "SUBJECTS",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T15:31:38.875269"
+    },
+    "3292310": {
+      "appid": 3292310,
+      "name": "卡牌小镇",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T15:31:39.067592"
+    },
+    "3292290": {
+      "appid": 3292290,
+      "name": "肥羊危机II",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T15:31:39.184400"
     }
   }
 }
