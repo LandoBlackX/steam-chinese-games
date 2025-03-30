@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-03-30T08:44:37.367145"
+    "updated": "2025-03-30T08:51:52.296335"
   },
   "games": {
     "570": {
@@ -20696,6 +20696,78 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-03-30T08:44:37.153853"
+    },
+    "3313310": {
+      "appid": 3313310,
+      "name": "Fishing The Abyss",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T08:51:46.871481"
+    },
+    "3313290": {
+      "appid": 3313290,
+      "name": "Speed Lane",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T08:51:47.034473"
+    },
+    "3313160": {
+      "appid": 3313160,
+      "name": "美少女勇闯吸血鬼城堡",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T08:51:47.779799"
+    },
+    "3313070": {
+      "appid": 3313070,
+      "name": "Frontier Forge",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T08:51:48.235035"
+    },
+    "3312730": {
+      "appid": 3312730,
+      "name": "Broken World: Save Your Children",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T08:51:49.024287"
+    },
+    "3312340": {
+      "appid": 3312340,
+      "name": "风之歌",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T08:51:51.228054"
+    },
+    "3312310": {
+      "appid": 3312310,
+      "name": "斩妖Raksasi2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T08:51:51.535324"
+    },
+    "3312300": {
+      "appid": 3312300,
+      "name": "Maskared",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T08:51:51.685857"
+    },
+    "3312290": {
+      "appid": 3312290,
+      "name": "Dimension L",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T08:51:51.817004"
     }
   }
 }
