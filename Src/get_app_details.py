@@ -143,8 +143,8 @@ def main():
     cursor.close()
     conn.close()
 
-    log("完成 get_app_details.py，等待 30 秒后继续...")
-    time.sleep(30)
+    log("完成 get_app_details.py，等待 5 秒后继续...")
+    time.sleep(5)
 
 if __name__ == "__main__":
     main()
