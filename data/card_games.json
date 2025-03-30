@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-03-30T19:27:24.465447"
+    "updated": "2025-03-30T19:40:20.555704"
   },
   "games": {
     "570": {
@@ -1134,6 +1134,30 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-03-30T19:14:48.590447"
+    },
+    "3246260": {
+      "appid": 3246260,
+      "name": "密室逃脱 ep4:电视台密切跟踪24小时篇",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-03-30T19:40:13.779782"
+    },
+    "3246250": {
+      "appid": 3246250,
+      "name": "密室逃脱 ep3:热带度假村篇 ",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-03-30T19:40:13.943342"
+    },
+    "3246240": {
+      "appid": 3246240,
+      "name": "密室逃脱　ep2:废弃学校篇",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-03-30T19:40:14.073056"
     }
   }
 }
