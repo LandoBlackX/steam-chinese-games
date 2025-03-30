@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-03-30T13:29:27.073792"
+    "updated": "2025-03-30T13:41:41.419178"
   },
   "games": {
     "570": {
@@ -21656,6 +21656,62 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-03-30T13:29:26.829508"
+    },
+    "3299850": {
+      "appid": 3299850,
+      "name": "The Last Phoenix",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T13:41:37.826932"
+    },
+    "3299460": {
+      "appid": 3299460,
+      "name": "Arcade Empire Tycoon",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T13:41:39.594392"
+    },
+    "3299440": {
+      "appid": 3299440,
+      "name": "瘋狂地下餐酒館《Crazy Dungeon Tavern》",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T13:41:39.722599"
+    },
+    "3299370": {
+      "appid": 3299370,
+      "name": "PAN GUN",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T13:41:40.141144"
+    },
+    "3299340": {
+      "appid": 3299340,
+      "name": "游郭惊梦",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T13:41:40.687951"
+    },
+    "3299160": {
+      "appid": 3299160,
+      "name": "Weldiver",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T13:41:41.273902"
+    },
+    "3299150": {
+      "appid": 3299150,
+      "name": "完美天劫",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T13:41:41.417678"
     }
   }
 }
