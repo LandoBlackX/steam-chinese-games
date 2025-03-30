@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-03-30T10:55:29.596744"
+    "updated": "2025-03-30T11:17:04.646013"
   },
   "games": {
     "570": {
@@ -21320,6 +21320,62 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-03-30T10:55:27.725952"
+    },
+    "3304430": {
+      "appid": 3304430,
+      "name": "巴沙王国：边境之战",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T11:17:02.205644"
+    },
+    "3304410": {
+      "appid": 3304410,
+      "name": "虚空回响",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T11:17:02.405491"
+    },
+    "3304320": {
+      "appid": 3304320,
+      "name": "中国足球模拟器 (CFS)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T11:17:03.064094"
+    },
+    "3304190": {
+      "appid": 3304190,
+      "name": "死亡攀登",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T11:17:03.486488"
+    },
+    "3304170": {
+      "appid": 3304170,
+      "name": "MinteraDesktop",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T11:17:03.604593"
+    },
+    "3303940": {
+      "appid": 3303940,
+      "name": "AquaDark",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T11:17:04.411604"
+    },
+    "3303920": {
+      "appid": 3303920,
+      "name": "Nightclub Manager Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T11:17:04.514445"
     }
   }
 }
