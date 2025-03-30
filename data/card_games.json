@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-03-30T17:08:36.368483"
+    "updated": "2025-03-30T17:29:50.645517"
   },
   "games": {
     "570": {
@@ -1094,6 +1094,14 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-03-30T17:02:04.293920"
+    },
+    "3273290": {
+      "appid": 3273290,
+      "name": "Neptunia Riders VS Dogoos",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-03-30T17:29:39.189732"
     }
   }
 }
