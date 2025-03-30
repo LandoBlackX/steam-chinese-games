@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-03-30T11:42:03.016478"
+    "updated": "2025-03-30T11:53:51.217909"
   },
   "games": {
     "570": {
@@ -21440,6 +21440,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-03-30T11:42:01.782499"
+    },
+    "3302570": {
+      "appid": 3302570,
+      "name": "BACKROOMS 0",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T11:53:49.567643"
+    },
+    "3302460": {
+      "appid": 3302460,
+      "name": "Enerdusk",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-30T11:53:49.898740"
     }
   }
 }
