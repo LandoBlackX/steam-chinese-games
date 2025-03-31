@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-03-31T21:44:17.312746"
+    "updated": "2025-03-31T21:50:14.099072"
   },
   "games": {
     "570": {
@@ -37720,6 +37720,62 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-03-31T21:44:16.352457"
+    },
+    "3123980": {
+      "appid": 3123980,
+      "name": "SILENT EXPRESS",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T21:50:13.230612"
+    },
+    "3123920": {
+      "appid": 3123920,
+      "name": "Coral & The Abyss",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T21:50:13.337380"
+    },
+    "3123880": {
+      "appid": 3123880,
+      "name": "Waifu Beach Bar",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T21:50:13.466852"
+    },
+    "3123830": {
+      "appid": 3123830,
+      "name": "诡墓",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T21:50:13.605643"
+    },
+    "3123800": {
+      "appid": 3123800,
+      "name": "Tempest Tower",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T21:50:13.740318"
+    },
+    "3123790": {
+      "appid": 3123790,
+      "name": "Stack 'Em Up",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T21:50:13.858363"
+    },
+    "3123780": {
+      "appid": 3123780,
+      "name": "UNDER DEATH",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T21:50:13.988488"
     }
   }
 }
