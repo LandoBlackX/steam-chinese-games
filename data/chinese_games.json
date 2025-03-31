@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-03-31T14:51:47.884272"
+    "updated": "2025-03-31T14:57:39.895280"
   },
   "games": {
     "570": {
@@ -36312,6 +36312,94 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-03-31T14:51:47.882175"
+    },
+    "3139680": {
+      "appid": 3139680,
+      "name": "王权对决",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T14:57:36.606619"
+    },
+    "3139670": {
+      "appid": 3139670,
+      "name": "H·P超自然事件档案",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T14:57:36.755320"
+    },
+    "3139640": {
+      "appid": 3139640,
+      "name": "喵咪任务",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T14:57:36.963562"
+    },
+    "3139620": {
+      "appid": 3139620,
+      "name": "战线危机",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T14:57:37.109672"
+    },
+    "3139610": {
+      "appid": 3139610,
+      "name": "战术脉冲",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T14:57:37.243860"
+    },
+    "3139560": {
+      "appid": 3139560,
+      "name": "万物之数",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T14:57:37.542634"
+    },
+    "3139550": {
+      "appid": 3139550,
+      "name": "Cappu Dungeon",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T14:57:37.983284"
+    },
+    "3139540": {
+      "appid": 3139540,
+      "name": "Countin' Stars",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T14:57:38.167176"
+    },
+    "3139530": {
+      "appid": 3139530,
+      "name": "中年失业模拟器2-When a man lose his job 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T14:57:38.309868"
+    },
+    "3139480": {
+      "appid": 3139480,
+      "name": "疯狂动物团",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T14:57:38.804488"
+    },
+    "3139380": {
+      "appid": 3139380,
+      "name": "Trash Wars",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T14:57:39.762641"
     }
   }
 }
