@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-03-31T20:43:26.981369"
+    "updated": "2025-03-31T20:49:11.246647"
   },
   "games": {
     "570": {
@@ -37552,6 +37552,38 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-03-31T20:43:26.979474"
+    },
+    "3125560": {
+      "appid": 3125560,
+      "name": "猫之旅",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T20:49:10.197492"
+    },
+    "3125540": {
+      "appid": 3125540,
+      "name": "维兹之刃 Blade of Wiz",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T20:49:10.406476"
+    },
+    "3125530": {
+      "appid": 3125530,
+      "name": "revive of the moon(リバイブ・オブ・ザ・ムーン)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T20:49:10.541122"
+    },
+    "3125490": {
+      "appid": 3125490,
+      "name": "怪兽星球：起航",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T20:49:10.835860"
     }
   }
 }
