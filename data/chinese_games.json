@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-03-31T18:57:53.066330"
+    "updated": "2025-03-31T19:11:12.123033"
   },
   "games": {
     "570": {
@@ -37296,6 +37296,46 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-03-31T18:57:52.772695"
+    },
+    "3128220": {
+      "appid": 3128220,
+      "name": "Nerd Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T19:11:10.606407"
+    },
+    "3128080": {
+      "appid": 3128080,
+      "name": "无尽救援",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T19:11:11.075158"
+    },
+    "3128040": {
+      "appid": 3128040,
+      "name": "逆风翻盘 One more game",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T19:11:11.358901"
+    },
+    "3127910": {
+      "appid": 3127910,
+      "name": "Geomancers",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T19:11:11.825692"
+    },
+    "3127880": {
+      "appid": 3127880,
+      "name": "穿越奇迹",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T19:11:11.967775"
     }
   }
 }
