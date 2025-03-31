@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-03-31T19:42:11.036962"
+    "updated": "2025-03-31T19:48:08.071011"
   },
   "games": {
     "570": {
@@ -37408,6 +37408,38 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-03-31T19:42:10.728661"
+    },
+    "3126790": {
+      "appid": 3126790,
+      "name": "Wordban：基于文字的推箱子游戏",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T19:48:07.172380"
+    },
+    "3126660": {
+      "appid": 3126660,
+      "name": "绣口吐珠",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T19:48:07.320154"
+    },
+    "3126620": {
+      "appid": 3126620,
+      "name": "Phantom Relics",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T19:48:07.593483"
+    },
+    "3126560": {
+      "appid": 3126560,
+      "name": "A Mazing Cheesesnake",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T19:48:07.737863"
     }
   }
 }
