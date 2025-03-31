@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-03-31T17:57:31.471981"
+    "updated": "2025-03-31T18:17:06.355337"
   },
   "games": {
     "570": {
@@ -37160,6 +37160,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-03-31T17:57:31.470101"
+    },
+    "3129650": {
+      "appid": 3129650,
+      "name": "101 Cats Hidden in Mexico",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T18:17:04.990318"
     }
   }
 }
