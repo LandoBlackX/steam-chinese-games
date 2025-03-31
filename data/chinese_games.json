@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-03-31T16:22:04.656938"
+    "updated": "2025-03-31T16:28:55.748801"
   },
   "games": {
     "570": {
@@ -36728,6 +36728,30 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-03-31T16:22:04.655159"
+    },
+    "3134940": {
+      "appid": 3134940,
+      "name": "EmptyEgg-Puzzle",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T16:28:54.336653"
+    },
+    "3134860": {
+      "appid": 3134860,
+      "name": "Jar",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T16:28:55.061795"
+    },
+    "3134790": {
+      "appid": 3134790,
+      "name": "Dreadborne Dungeon",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T16:28:55.747056"
     }
   }
 }
