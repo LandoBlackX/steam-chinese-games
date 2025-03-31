@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-03-31T20:55:13.612713"
+    "updated": "2025-03-31T21:01:03.450548"
   },
   "games": {
     "570": {
@@ -37600,6 +37600,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-03-31T20:55:13.110251"
+    },
+    "3125090": {
+      "appid": 3125090,
+      "name": "格斗少女尤里",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T21:01:02.359879"
+    },
+    "3125050": {
+      "appid": 3125050,
+      "name": "Lust Fantasy 💜",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-03-31T21:01:02.970710"
     }
   }
 }
