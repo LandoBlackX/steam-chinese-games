@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-03-31T06:34:03.249452"
+    "updated": "2025-03-31T06:52:03.164361"
   },
   "games": {
     "570": {
@@ -1214,6 +1214,14 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-03-31T05:05:32.538595"
+    },
+    "3188550": {
+      "appid": 3188550,
+      "name": "死神模拟器",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-03-31T06:51:54.860789"
     }
   }
 }
