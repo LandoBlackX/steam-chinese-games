@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-03-31T13:30:06.076266"
+    "updated": "2025-03-31T13:33:37.226643"
   },
   "games": {
     "570": {
@@ -34968,6 +34968,94 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-03-31T13:30:05.800894"
+    },
+    "3151930": {
+      "appid": 3151930,
+      "name": "Pigeon Hater",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T13:33:32.267969"
+    },
+    "3151870": {
+      "appid": 3151870,
+      "name": "幸福的我们家",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T13:33:32.863442"
+    },
+    "3151830": {
+      "appid": 3151830,
+      "name": "Yugo: the non-game",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T13:33:33.478334"
+    },
+    "3151760": {
+      "appid": 3151760,
+      "name": "Roboquest VR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T13:33:33.997508"
+    },
+    "3151570": {
+      "appid": 3151570,
+      "name": "Thor's Wrath",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T13:33:35.083884"
+    },
+    "3151420": {
+      "appid": 3151420,
+      "name": "秘境探险者",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T13:33:35.939444"
+    },
+    "3151400": {
+      "appid": 3151400,
+      "name": "Liminal Universe",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T13:33:36.093136"
+    },
+    "3151380": {
+      "appid": 3151380,
+      "name": "Small Spaces",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T13:33:36.237114"
+    },
+    "3151340": {
+      "appid": 3151340,
+      "name": "思嘉哪儿去了？ 44 Hidden Naomis",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T13:33:36.678524"
+    },
+    "3151300": {
+      "appid": 3151300,
+      "name": "小小冒险",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T13:33:37.086132"
+    },
+    "3151290": {
+      "appid": 3151290,
+      "name": "Almost reversi",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T13:33:37.225183"
     }
   }
 }
