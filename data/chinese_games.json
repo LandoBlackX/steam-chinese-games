@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-03-31T20:49:11.246647"
+    "updated": "2025-03-31T20:55:13.612713"
   },
   "games": {
     "570": {
@@ -37584,6 +37584,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-03-31T20:49:10.835860"
+    },
+    "3125320": {
+      "appid": 3125320,
+      "name": "Isadora's Edge",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T20:55:12.620980"
+    },
+    "3125270": {
+      "appid": 3125270,
+      "name": "⁤Square Wars",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T20:55:13.110251"
     }
   }
 }
