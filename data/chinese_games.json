@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-03-31T21:56:00.520757"
+    "updated": "2025-03-31T22:09:31.286176"
   },
   "games": {
     "570": {
@@ -37792,6 +37792,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-03-31T21:56:00.519490"
+    },
+    "3123290": {
+      "appid": 3123290,
+      "name": "SAVE",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T22:09:30.311141"
     }
   }
 }
