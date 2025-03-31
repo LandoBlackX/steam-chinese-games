@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-03-31T19:36:23.094126"
+    "updated": "2025-03-31T19:42:11.036962"
   },
   "games": {
     "570": {
@@ -37392,6 +37392,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-03-31T19:36:23.092587"
+    },
+    "3127270": {
+      "appid": 3127270,
+      "name": "101 Cats Hidden in India",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T19:42:10.069169"
+    },
+    "3126900": {
+      "appid": 3126900,
+      "name": "The Vanished Soul",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T19:42:10.728661"
     }
   }
 }
