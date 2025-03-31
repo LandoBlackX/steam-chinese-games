@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-03-31T03:57:41.437619"
+    "updated": "2025-03-31T04:30:23.350187"
   },
   "games": {
     "570": {
@@ -29912,6 +29912,198 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-03-31T03:57:41.263947"
+    },
+    "3202260": {
+      "appid": 3202260,
+      "name": "15th Prison",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T04:30:12.346973"
+    },
+    "3202250": {
+      "appid": 3202250,
+      "name": "Bosslife Office Manager",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T04:30:12.519239"
+    },
+    "3202220": {
+      "appid": 3202220,
+      "name": "Aldian of Ancients",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T04:30:13.062509"
+    },
+    "3202110": {
+      "appid": 3202110,
+      "name": "死亡红心赌局",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T04:30:13.208188"
+    },
+    "3202040": {
+      "appid": 3202040,
+      "name": "なつめ繚乱 -ハイスペ脳筋妖狐の恋愛奇譚-",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T04:30:13.398379"
+    },
+    "3201940": {
+      "appid": 3201940,
+      "name": "Paper Puzzle",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T04:30:14.048507"
+    },
+    "3201910": {
+      "appid": 3201910,
+      "name": "RailGods of Hysterra",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T04:30:14.186583"
+    },
+    "3201880": {
+      "appid": 3201880,
+      "name": "软糖方块  -  一款治愈系解谜游戏",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T04:30:14.336416"
+    },
+    "3201830": {
+      "appid": 3201830,
+      "name": "春秋异闻录",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T04:30:14.888342"
+    },
+    "3201820": {
+      "appid": 3201820,
+      "name": "Grumpy Football",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T04:30:15.022510"
+    },
+    "3201810": {
+      "appid": 3201810,
+      "name": "失踪した友人の部屋に残されていたゲーム",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T04:30:15.183240"
+    },
+    "3201800": {
+      "appid": 3201800,
+      "name": "Infinite Nowhere",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T04:30:15.306450"
+    },
+    "3201710": {
+      "appid": 3201710,
+      "name": "Overpowered Tactics",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T04:30:16.150676"
+    },
+    "3201570": {
+      "appid": 3201570,
+      "name": "VR乘风破浪",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T04:30:17.053019"
+    },
+    "3201530": {
+      "appid": 3201530,
+      "name": "巴哈姆特1-REMAKE(BAHAMUT1-REMAKE)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T04:30:17.417217"
+    },
+    "3201450": {
+      "appid": 3201450,
+      "name": "暗黑堕落幸存者",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T04:30:17.708819"
+    },
+    "3201370": {
+      "appid": 3201370,
+      "name": "好朋友",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T04:30:18.131976"
+    },
+    "3201360": {
+      "appid": 3201360,
+      "name": "小姐！别耽误我上分！",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T04:30:18.272357"
+    },
+    "3201210": {
+      "appid": 3201210,
+      "name": "混沌之熵",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T04:30:19.127631"
+    },
+    "3201170": {
+      "appid": 3201170,
+      "name": "建个园林吧",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T04:30:19.486503"
+    },
+    "3201070": {
+      "appid": 3201070,
+      "name": "钢铁巨像 机甲觉醒",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T04:30:19.800354"
+    },
+    "3201030": {
+      "appid": 3201030,
+      "name": "The Auto Sort Is Broken",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T04:30:20.166842"
+    },
+    "3201010": {
+      "appid": 3201010,
+      "name": "Starlight Re:Volver",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T04:30:20.294544"
+    },
+    "3200590": {
+      "appid": 3200590,
+      "name": "Axxx: 教导和性交",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T04:30:22.604038"
     }
   }
 }
