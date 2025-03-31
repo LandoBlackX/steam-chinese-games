@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-03-31T21:30:54.800347"
+    "updated": "2025-03-31T21:38:37.658299"
   },
   "games": {
     "570": {
@@ -37672,6 +37672,46 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-03-31T21:30:54.798804"
+    },
+    "3124460": {
+      "appid": 3124460,
+      "name": "September Fall - Loneliness",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T21:38:36.642508"
+    },
+    "3124390": {
+      "appid": 3124390,
+      "name": "Bat Tap",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T21:38:36.745905"
+    },
+    "3124330": {
+      "appid": 3124330,
+      "name": "凡朽之躯：生存重筑",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T21:38:37.201639"
+    },
+    "3124310": {
+      "appid": 3124310,
+      "name": "BOULDER DASH 40th Anniversary",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T21:38:37.502617"
+    },
+    "3124230": {
+      "appid": 3124230,
+      "name": "Jackal",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T21:38:37.656548"
     }
   }
 }
