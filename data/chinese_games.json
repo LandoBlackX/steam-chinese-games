@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-03-31T15:48:14.960375"
+    "updated": "2025-03-31T15:54:07.255803"
   },
   "games": {
     "570": {
@@ -36584,6 +36584,38 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-03-31T15:48:14.833270"
+    },
+    "3136380": {
+      "appid": 3136380,
+      "name": "Space Menace 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T15:54:04.670220"
+    },
+    "3136330": {
+      "appid": 3136330,
+      "name": "Tiny Terraces",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T15:54:05.141176"
+    },
+    "3136260": {
+      "appid": 3136260,
+      "name": "窝窝岛历险记",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T15:54:05.756405"
+    },
+    "3136170": {
+      "appid": 3136170,
+      "name": "E-FCC",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T15:54:06.526046"
     }
   }
 }
