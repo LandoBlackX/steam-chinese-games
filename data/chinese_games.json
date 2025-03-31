@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-03-31T18:17:06.355337"
+    "updated": "2025-03-31T18:41:59.204467"
   },
   "games": {
     "570": {
@@ -37168,6 +37168,46 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-03-31T18:17:04.990318"
+    },
+    "3129220": {
+      "appid": 3129220,
+      "name": "Eggplant",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T18:41:57.466028"
+    },
+    "3129170": {
+      "appid": 3129170,
+      "name": "Slidezzle",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T18:41:57.889498"
+    },
+    "3129010": {
+      "appid": 3129010,
+      "name": "Format",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T18:41:58.693334"
+    },
+    "3129000": {
+      "appid": 3129000,
+      "name": "black Bird",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T18:41:58.863454"
+    },
+    "3128980": {
+      "appid": 3128980,
+      "name": "猫力 - 武士道之剑",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T18:41:59.007784"
     }
   }
 }
