@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-03-31T13:00:09.717841"
+    "updated": "2025-03-31T13:07:13.702993"
   },
   "games": {
     "570": {
@@ -34576,6 +34576,110 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-03-31T13:00:09.716317"
+    },
+    "3156080": {
+      "appid": 3156080,
+      "name": "The Tale of Azu",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T13:07:08.528321"
+    },
+    "3156070": {
+      "appid": 3156070,
+      "name": "拓荒骑士",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T13:07:08.666446"
+    },
+    "3156010": {
+      "appid": 3156010,
+      "name": "Minesweeper & Dungeon RPG - 扫雷与地下城",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T13:07:09.192041"
+    },
+    "3155830": {
+      "appid": 3155830,
+      "name": "白创纪 - Genesis of Pure White",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T13:07:10.385708"
+    },
+    "3155780": {
+      "appid": 3155780,
+      "name": "虚谷",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T13:07:10.781380"
+    },
+    "3155710": {
+      "appid": 3155710,
+      "name": "七蛟龙",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T13:07:11.241178"
+    },
+    "3155570": {
+      "appid": 3155570,
+      "name": "Decollate Decoration",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T13:07:12.072007"
+    },
+    "3155560": {
+      "appid": 3155560,
+      "name": "Debut Project: Cooking Café",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-03-31T13:07:12.285777"
+    },
+    "3155320": {
+      "appid": 3155320,
+      "name": "Game Over Please",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T13:07:12.898038"
+    },
+    "3155310": {
+      "appid": 3155310,
+      "name": "阴三国谋论: 徐州篇",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T13:07:13.045302"
+    },
+    "3155300": {
+      "appid": 3155300,
+      "name": "寓言行者 FABLE WALKER",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T13:07:13.176957"
+    },
+    "3155290": {
+      "appid": 3155290,
+      "name": "哥哥，早起前要一直抱紧我哦！",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T13:07:13.316767"
+    },
+    "3155180": {
+      "appid": 3155180,
+      "name": "临江奇谭",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T13:07:13.576171"
     }
   }
 }

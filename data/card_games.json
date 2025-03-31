@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-03-31T13:00:09.717841"
+    "updated": "2025-03-31T13:07:13.702993"
   },
   "games": {
     "570": {
@@ -1286,6 +1286,14 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-03-31T11:49:47.240946"
+    },
+    "3155560": {
+      "appid": 3155560,
+      "name": "Debut Project: Cooking Café",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-03-31T13:07:12.285777"
     }
   }
 }
