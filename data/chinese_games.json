@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-03-31T15:59:56.306660"
+    "updated": "2025-03-31T16:22:04.656938"
   },
   "games": {
     "570": {
@@ -36680,6 +36680,54 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-03-31T15:59:56.304601"
+    },
+    "3135600": {
+      "appid": 3135600,
+      "name": "水浒群豪传 (Tale of Heroes in Water Margin)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T16:22:02.025379"
+    },
+    "3135550": {
+      "appid": 3135550,
+      "name": "PokerBall",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T16:22:02.716501"
+    },
+    "3135500": {
+      "appid": 3135500,
+      "name": "大犬座Alpha",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T16:22:02.995197"
+    },
+    "3135450": {
+      "appid": 3135450,
+      "name": "TowerUp: Breakout",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T16:22:03.314208"
+    },
+    "3135260": {
+      "appid": 3135260,
+      "name": "Blueman",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T16:22:04.016998"
+    },
+    "3135200": {
+      "appid": 3135200,
+      "name": "Legacy of Defense - 防御遗产",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T16:22:04.655159"
     }
   }
 }
