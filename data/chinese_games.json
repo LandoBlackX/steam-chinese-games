@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-03-31T16:43:02.363432"
+    "updated": "2025-03-31T16:48:31.793087"
   },
   "games": {
     "570": {
@@ -36784,6 +36784,46 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-03-31T16:43:01.907259"
+    },
+    "3134380": {
+      "appid": 3134380,
+      "name": "Fallen Goddesses",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T16:48:28.913146"
+    },
+    "3134280": {
+      "appid": 3134280,
+      "name": "Piczle Cross: 符文工房",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T16:48:29.058961"
+    },
+    "3133950": {
+      "appid": 3133950,
+      "name": "激速狂飙",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T16:48:30.288645"
+    },
+    "3133650": {
+      "appid": 3133650,
+      "name": "钱钱向钱冲",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T16:48:31.351167"
+    },
+    "3133640": {
+      "appid": 3133640,
+      "name": "Train to Hong Kong",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T16:48:31.503185"
     }
   }
 }
