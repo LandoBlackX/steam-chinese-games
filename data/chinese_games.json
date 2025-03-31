@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-03-31T10:48:45.891853"
+    "updated": "2025-03-31T11:01:03.245646"
   },
   "games": {
     "570": {
@@ -34008,6 +34008,94 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-03-31T10:48:44.882714"
+    },
+    "3162110": {
+      "appid": 3162110,
+      "name": "空间循环站",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T11:00:56.391159"
+    },
+    "3162030": {
+      "appid": 3162030,
+      "name": "盖亚幸存者",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T11:00:56.838157"
+    },
+    "3162020": {
+      "appid": 3162020,
+      "name": "ToriDori 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T11:00:57.092803"
+    },
+    "3161960": {
+      "appid": 3161960,
+      "name": "Missi",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T11:00:57.840254"
+    },
+    "3161870": {
+      "appid": 3161870,
+      "name": "September Fall - Cursed",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T11:00:58.651308"
+    },
+    "3161570": {
+      "appid": 3161570,
+      "name": "仙影迷踪",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T11:01:00.041559"
+    },
+    "3161510": {
+      "appid": 3161510,
+      "name": "希特勒是我的梦中情人 爱情与法西斯主义",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T11:01:00.649024"
+    },
+    "3161450": {
+      "appid": 3161450,
+      "name": "Blade Blitz",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T11:01:01.137935"
+    },
+    "3161350": {
+      "appid": 3161350,
+      "name": "COSETTE: THE UNTITLED GAME",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T11:01:02.051277"
+    },
+    "3161340": {
+      "appid": 3161340,
+      "name": "灵校园的奇妙日常",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T11:01:02.237810"
+    },
+    "3161280": {
+      "appid": 3161280,
+      "name": "Cozy Garden",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T11:01:02.924603"
     }
   }
 }
