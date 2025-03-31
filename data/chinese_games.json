@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-03-31T22:09:31.286176"
+    "updated": "2025-03-31T22:30:28.006884"
   },
   "games": {
     "570": {
@@ -37800,6 +37800,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-03-31T22:09:30.311141"
+    },
+    "3123060": {
+      "appid": 3123060,
+      "name": "Warlord: Awaji",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T22:30:26.786089"
+    },
+    "3122950": {
+      "appid": 3122950,
+      "name": "101 Cats Hidden in Berlin",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T22:30:27.742686"
     }
   }
 }
