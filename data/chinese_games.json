@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-03-31T15:13:39.250554"
+    "updated": "2025-03-31T15:29:56.910827"
   },
   "games": {
     "570": {
@@ -36448,6 +36448,30 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-03-31T15:13:39.096021"
+    },
+    "3138570": {
+      "appid": 3138570,
+      "name": "Unicycle Pizza Time!",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T15:29:54.329035"
+    },
+    "3138500": {
+      "appid": 3138500,
+      "name": "The Simp - 舔狗",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T15:29:54.764571"
+    },
+    "3138480": {
+      "appid": 3138480,
+      "name": "The Living Shadows",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T15:29:54.924287"
     }
   }
 }
