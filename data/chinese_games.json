@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-03-31T23:13:40.044025"
+    "updated": "2025-03-31T23:28:04.886077"
   },
   "games": {
     "570": {
@@ -37944,6 +37944,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-03-31T23:13:39.537494"
+    },
+    "3121990": {
+      "appid": 3121990,
+      "name": "Never Play Evil",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T23:28:04.173598"
+    },
+    "3121970": {
+      "appid": 3121970,
+      "name": "Steel Covenant 钢铁盟约",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T23:28:04.308797"
     }
   }
 }
