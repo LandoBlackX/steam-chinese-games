@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-03-31T15:29:56.910827"
+    "updated": "2025-03-31T15:31:45.994832"
   },
   "games": {
     "570": {
@@ -36472,6 +36472,46 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-03-31T15:29:54.924287"
+    },
+    "3138100": {
+      "appid": 3138100,
+      "name": "极限超车",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T15:31:43.736209"
+    },
+    "3138060": {
+      "appid": 3138060,
+      "name": "Esport Manager: Road To Major",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T15:31:43.934799"
+    },
+    "3137960": {
+      "appid": 3137960,
+      "name": "Deepest Dungeons",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T15:31:44.158888"
+    },
+    "3137670": {
+      "appid": 3137670,
+      "name": "墨缇斯：霾影季度",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T15:31:45.551794"
+    },
+    "3137560": {
+      "appid": 3137560,
+      "name": "The Liminal Dimension",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T15:31:45.803296"
     }
   }
 }
