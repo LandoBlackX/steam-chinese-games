@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-03-31T15:31:45.994832"
+    "updated": "2025-03-31T15:42:20.688786"
   },
   "games": {
     "570": {
@@ -36512,6 +36512,46 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-03-31T15:31:45.803296"
+    },
+    "3137520": {
+      "appid": 3137520,
+      "name": "枪炮工厂模拟器 - Gun Factory Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T15:42:17.192544"
+    },
+    "3137350": {
+      "appid": 3137350,
+      "name": "Motion Soccer PRO",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T15:42:17.955237"
+    },
+    "3137240": {
+      "appid": 3137240,
+      "name": "幻海奇航",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T15:42:19.057815"
+    },
+    "3137110": {
+      "appid": 3137110,
+      "name": "SACRIFICE VILLAINS：牺牲恶棍",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T15:42:20.244946"
+    },
+    "3137070": {
+      "appid": 3137070,
+      "name": "地府行记",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T15:42:20.539878"
     }
   }
 }
