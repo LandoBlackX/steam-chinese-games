@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-03-31T17:46:08.320307"
+    "updated": "2025-03-31T17:51:57.271408"
   },
   "games": {
     "570": {
@@ -37072,6 +37072,38 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-03-31T17:46:07.395500"
+    },
+    "3130220": {
+      "appid": 3130220,
+      "name": "Sagas of Lumin",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T17:51:56.457725"
+    },
+    "3130160": {
+      "appid": 3130160,
+      "name": "Ultra Sudoku",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T17:51:56.708430"
+    },
+    "3130110": {
+      "appid": 3130110,
+      "name": "悠之空",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T17:51:57.028015"
+    },
+    "3130080": {
+      "appid": 3130080,
+      "name": "Prison Break Princess",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T17:51:57.150200"
     }
   }
 }
