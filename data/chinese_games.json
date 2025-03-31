@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-03-31T19:59:28.021018"
+    "updated": "2025-03-31T20:18:40.035536"
   },
   "games": {
     "570": {
@@ -37464,6 +37464,46 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-03-31T19:59:27.809090"
+    },
+    "3126180": {
+      "appid": 3126180,
+      "name": "Tarisland",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T20:18:38.889595"
+    },
+    "3126160": {
+      "appid": 3126160,
+      "name": "Nazar",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T20:18:39.045572"
+    },
+    "3126150": {
+      "appid": 3126150,
+      "name": "不同的星球",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T20:18:39.179627"
+    },
+    "3126050": {
+      "appid": 3126050,
+      "name": "Ninja: Shadow of the Dash",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T20:18:39.782094"
+    },
+    "3125930": {
+      "appid": 3125930,
+      "name": "魔物卡牌",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T20:18:40.033589"
     }
   }
 }
