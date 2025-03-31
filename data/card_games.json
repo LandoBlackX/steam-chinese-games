@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-03-31T07:56:09.704462"
+    "updated": "2025-03-31T08:30:03.256641"
   },
   "games": {
     "570": {
@@ -1246,6 +1246,14 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-03-31T07:32:04.136802"
+    },
+    "3172860": {
+      "appid": 3172860,
+      "name": "Lust Epidemic 18+",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-03-31T08:29:59.782410"
     }
   }
 }
