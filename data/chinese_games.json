@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-03-31T20:33:44.049184"
+    "updated": "2025-03-31T20:43:26.981369"
   },
   "games": {
     "570": {
@@ -37528,6 +37528,30 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-03-31T20:33:44.047647"
+    },
+    "3125700": {
+      "appid": 3125700,
+      "name": "Planternauts",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T20:43:26.211139"
+    },
+    "3125640": {
+      "appid": 3125640,
+      "name": "通天之井The Well of Heaven-Reaching",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T20:43:26.548000"
+    },
+    "3125570": {
+      "appid": 3125570,
+      "name": "洗衣店模拟器：洗刷刷！",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T20:43:26.979474"
     }
   }
 }
