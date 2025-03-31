@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-03-31T07:29:03.859635"
+    "updated": "2025-03-31T07:32:06.479337"
   },
   "games": {
     "570": {
@@ -1230,6 +1230,22 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-03-31T07:28:58.676805"
+    },
+    "3178350": {
+      "appid": 3178350,
+      "name": "无双深渊",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-03-31T07:32:03.816285"
+    },
+    "3177970": {
+      "appid": 3177970,
+      "name": "原点计划：血肉工匠",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-03-31T07:32:04.136802"
     }
   }
 }
