@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-03-31T22:47:03.541294"
+    "updated": "2025-03-31T22:52:54.417063"
   },
   "games": {
     "570": {
@@ -37872,6 +37872,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-03-31T22:47:03.411764"
+    },
+    "3122540": {
+      "appid": 3122540,
+      "name": "Mental Hellacious",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T22:52:53.548151"
+    },
+    "3122530": {
+      "appid": 3122530,
+      "name": "苍空的彼端",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T22:52:53.678508"
     }
   }
 }
