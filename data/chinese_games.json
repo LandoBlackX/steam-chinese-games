@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-03-31T19:23:22.939269"
+    "updated": "2025-03-31T19:28:49.856927"
   },
   "games": {
     "570": {
@@ -37360,6 +37360,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-03-31T19:23:22.937688"
+    },
+    "3127630": {
+      "appid": 3127630,
+      "name": "时空三分之三 Tritime Space",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T19:28:49.031207"
     }
   }
 }
