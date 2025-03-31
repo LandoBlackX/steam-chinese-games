@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-03-31T21:50:14.099072"
+    "updated": "2025-03-31T21:56:00.520757"
   },
   "games": {
     "570": {
@@ -37776,6 +37776,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-03-31T21:50:13.988488"
+    },
+    "3123520": {
+      "appid": 3123520,
+      "name": "リア充爆発しろ！ Normies Should Burn!",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T21:55:59.840719"
+    },
+    "3123410": {
+      "appid": 3123410,
+      "name": "优米雅的炼金工房 ～追忆之炼金术士与幻创之地～",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T21:56:00.519490"
     }
   }
 }
