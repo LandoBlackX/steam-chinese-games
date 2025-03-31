@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-03-31T13:59:09.746838"
+    "updated": "2025-03-31T14:03:45.231239"
   },
   "games": {
     "570": {
@@ -35832,6 +35832,70 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-03-31T13:59:09.745239"
+    },
+    "3144340": {
+      "appid": 3144340,
+      "name": "PiN",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T14:03:42.088987"
+    },
+    "3144230": {
+      "appid": 3144230,
+      "name": "Modern Warships",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T14:03:42.485390"
+    },
+    "3144130": {
+      "appid": 3144130,
+      "name": "Pitty Meaty",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T14:03:43.122303"
+    },
+    "3144110": {
+      "appid": 3144110,
+      "name": "Journey Up",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T14:03:43.389350"
+    },
+    "3144080": {
+      "appid": 3144080,
+      "name": "静府: 刺眼",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T14:03:43.713193"
+    },
+    "3144070": {
+      "appid": 3144070,
+      "name": "CINEMA",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T14:03:43.854245"
+    },
+    "3144060": {
+      "appid": 3144060,
+      "name": "World of the dead",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T14:03:43.973311"
+    },
+    "3144010": {
+      "appid": 3144010,
+      "name": "Usagi Shima: Bunny Island",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T14:03:44.520190"
     }
   }
 }
