@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-03-31T22:52:54.417063"
+    "updated": "2025-03-31T22:58:29.115917"
   },
   "games": {
     "570": {
@@ -37888,6 +37888,30 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-03-31T22:52:53.678508"
+    },
+    "3122370": {
+      "appid": 3122370,
+      "name": "PirateWar",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T22:58:27.866395"
+    },
+    "3122360": {
+      "appid": 3122360,
+      "name": "Catbo 猫噗猫噗",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T22:58:28.061245"
+    },
+    "3122220": {
+      "appid": 3122220,
+      "name": "Mr Figs",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T22:58:29.114257"
     }
   }
 }
