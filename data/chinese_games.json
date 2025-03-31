@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-03-31T22:41:17.913450"
+    "updated": "2025-03-31T22:47:03.541294"
   },
   "games": {
     "570": {
@@ -37848,6 +37848,30 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-03-31T22:41:17.367709"
+    },
+    "3122720": {
+      "appid": 3122720,
+      "name": "反抗幸存者",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T22:47:02.588049"
+    },
+    "3122710": {
+      "appid": 3122710,
+      "name": "Skyline Savior",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T22:47:02.722706"
+    },
+    "3122600": {
+      "appid": 3122600,
+      "name": "Glintseeker Island",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T22:47:03.411764"
     }
   }
 }
