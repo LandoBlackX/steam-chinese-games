@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-03-31T23:36:09.030494"
+    "updated": "2025-03-31T23:42:21.950888"
   },
   "games": {
     "570": {
@@ -37984,6 +37984,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-03-31T23:36:08.894134"
+    },
+    "3121640": {
+      "appid": 3121640,
+      "name": "Tiles Puzzle",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T23:42:21.448914"
+    },
+    "3121620": {
+      "appid": 3121620,
+      "name": "The King Cat Clicker",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T23:42:21.806127"
     }
   }
 }
