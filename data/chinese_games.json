@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-03-31T16:48:31.793087"
+    "updated": "2025-03-31T16:54:31.835868"
   },
   "games": {
     "570": {
@@ -36824,6 +36824,38 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-03-31T16:48:31.503185"
+    },
+    "3133580": {
+      "appid": 3133580,
+      "name": "Cheese Co-op Clicker Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T16:54:29.738374"
+    },
+    "3133400": {
+      "appid": 3133400,
+      "name": "LIGHT: Path of the Archmage",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T16:54:30.617147"
+    },
+    "3133390": {
+      "appid": 3133390,
+      "name": "Bouncing Agency",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T16:54:30.748410"
+    },
+    "3133180": {
+      "appid": 3133180,
+      "name": "Island Clicker",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T16:54:31.834615"
     }
   }
 }
