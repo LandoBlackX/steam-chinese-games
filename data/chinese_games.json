@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-03-31T23:28:04.886077"
+    "updated": "2025-03-31T23:36:09.030494"
   },
   "games": {
     "570": {
@@ -37960,6 +37960,30 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-03-31T23:28:04.308797"
+    },
+    "3121850": {
+      "appid": 3121850,
+      "name": "UHILANT",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T23:36:08.170735"
+    },
+    "3121840": {
+      "appid": 3121840,
+      "name": "金斧偶像-商業貼貼",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T23:36:08.333710"
+    },
+    "3121760": {
+      "appid": 3121760,
+      "name": "Strange Horizons",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T23:36:08.894134"
     }
   }
 }
