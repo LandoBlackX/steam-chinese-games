@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-03-31T21:18:36.959969"
+    "updated": "2025-03-31T21:30:54.800347"
   },
   "games": {
     "570": {
@@ -37648,6 +37648,30 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-03-31T21:18:36.698160"
+    },
+    "3124770": {
+      "appid": 3124770,
+      "name": "The Green Book",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T21:30:53.737173"
+    },
+    "3124550": {
+      "appid": 3124550,
+      "name": "Liquor Store Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T21:30:54.559874"
+    },
+    "3124480": {
+      "appid": 3124480,
+      "name": "休闲木鱼",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T21:30:54.798804"
     }
   }
 }
