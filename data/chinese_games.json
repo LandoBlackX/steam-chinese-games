@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-03-31T13:53:28.730712"
+    "updated": "2025-03-31T13:57:23.573591"
   },
   "games": {
     "570": {
@@ -35704,6 +35704,78 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-03-31T13:53:28.247566"
+    },
+    "3145640": {
+      "appid": 3145640,
+      "name": "Gaming Copilot: 游戏搭子",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T13:57:20.114724"
+    },
+    "3145580": {
+      "appid": 3145580,
+      "name": "迷因朋友",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T13:57:20.748720"
+    },
+    "3145570": {
+      "appid": 3145570,
+      "name": "Astral Break",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T13:57:20.863634"
+    },
+    "3145520": {
+      "appid": 3145520,
+      "name": "Look or Die",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T13:57:21.291989"
+    },
+    "3145510": {
+      "appid": 3145510,
+      "name": "铁路日本！轨道之旅EX 登山电车 小田急箱根篇",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T13:57:21.432593"
+    },
+    "3145480": {
+      "appid": 3145480,
+      "name": "喵与时光的街角",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T13:57:21.577028"
+    },
+    "3145350": {
+      "appid": 3145350,
+      "name": "Cats and Seek: Toge Land",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T13:57:22.161551"
+    },
+    "3145320": {
+      "appid": 3145320,
+      "name": "元素与构筑",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T13:57:22.415361"
+    },
+    "3144950": {
+      "appid": 3144950,
+      "name": "Pet Lands",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T13:57:23.572107"
     }
   }
 }
