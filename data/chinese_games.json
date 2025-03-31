@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-03-31T14:09:05.254594"
+    "updated": "2025-03-31T14:16:01.655442"
   },
   "games": {
     "570": {
@@ -35968,6 +35968,62 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-03-31T14:09:05.252957"
+    },
+    "3143530": {
+      "appid": 3143530,
+      "name": "Shadow Project",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T14:15:58.119809"
+    },
+    "3143510": {
+      "appid": 3143510,
+      "name": "像素狂潮",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T14:15:58.397384"
+    },
+    "3143490": {
+      "appid": 3143490,
+      "name": "My Sleeper",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T14:15:58.517868"
+    },
+    "3143470": {
+      "appid": 3143470,
+      "name": "懒人也江湖",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T14:15:58.643104"
+    },
+    "3142930": {
+      "appid": 3142930,
+      "name": "UnPlugged",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T14:16:00.395802"
+    },
+    "3142900": {
+      "appid": 3142900,
+      "name": "Wizard of OZ: Hidden Objects",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T14:16:00.532973"
+    },
+    "3142800": {
+      "appid": 3142800,
+      "name": "AAM AADMI आम आदमी",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T14:16:01.184636"
     }
   }
 }
