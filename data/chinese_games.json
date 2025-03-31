@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-03-31T19:28:49.856927"
+    "updated": "2025-03-31T19:36:23.094126"
   },
   "games": {
     "570": {
@@ -37368,6 +37368,30 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-03-31T19:28:49.031207"
+    },
+    "3127440": {
+      "appid": 3127440,
+      "name": "101 Cats Hidden in Ireland",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T19:36:22.315308"
+    },
+    "3127350": {
+      "appid": 3127350,
+      "name": "Demeter",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T19:36:22.733612"
+    },
+    "3127280": {
+      "appid": 3127280,
+      "name": "Marvel Contest of Champions",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T19:36:23.092587"
     }
   }
 }
