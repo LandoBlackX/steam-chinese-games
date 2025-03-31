@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-03-31T17:32:10.073862"
+    "updated": "2025-03-31T17:40:17.225897"
   },
   "games": {
     "570": {
@@ -37008,6 +37008,30 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-03-31T17:31:54.355396"
+    },
+    "3131280": {
+      "appid": 3131280,
+      "name": "Boxville 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T17:40:15.970936"
+    },
+    "3130960": {
+      "appid": 3130960,
+      "name": "Camelbirds",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T17:40:16.653735"
+    },
+    "3130940": {
+      "appid": 3130940,
+      "name": "Compass of Destiny: Istanbul Prologue",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T17:40:16.916436"
     }
   }
 }
