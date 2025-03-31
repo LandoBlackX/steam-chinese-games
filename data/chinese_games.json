@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-03-31T13:07:13.702993"
+    "updated": "2025-03-31T13:10:43.370076"
   },
   "games": {
     "570": {
@@ -34680,6 +34680,62 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-03-31T13:07:13.576171"
+    },
+    "3154940": {
+      "appid": 3154940,
+      "name": "Glowie Shooter",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T13:10:39.241528"
+    },
+    "3154920": {
+      "appid": 3154920,
+      "name": "《Rift of the NecroDancer》关卡编辑器",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T13:10:39.365845"
+    },
+    "3154910": {
+      "appid": 3154910,
+      "name": "SERK",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T13:10:39.482803"
+    },
+    "3154800": {
+      "appid": 3154800,
+      "name": "Football Pitch Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T13:10:40.128040"
+    },
+    "3154610": {
+      "appid": 3154610,
+      "name": "Game about jetpack fly",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T13:10:41.003449"
+    },
+    "3154590": {
+      "appid": 3154590,
+      "name": "100 hidden Cats : Pirates",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T13:10:41.258455"
+    },
+    "3154520": {
+      "appid": 3154520,
+      "name": "Blob",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T13:10:41.625786"
     }
   }
 }
