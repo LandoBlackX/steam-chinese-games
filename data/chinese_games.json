@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-03-31T23:48:03.403660"
+    "updated": "2025-03-31T23:53:38.574809"
   },
   "games": {
     "570": {
@@ -38016,6 +38016,38 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-03-31T23:48:03.261955"
+    },
+    "3121430": {
+      "appid": 3121430,
+      "name": "MK-ULTRA Psychic Defense",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T23:53:37.778824"
+    },
+    "3121410": {
+      "appid": 3121410,
+      "name": "BackStreet",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T23:53:37.906977"
+    },
+    "3121340": {
+      "appid": 3121340,
+      "name": "机动装甲：超时空之门",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T23:53:38.041735"
+    },
+    "3121330": {
+      "appid": 3121330,
+      "name": "Blood of Inquisition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T23:53:38.190824"
     }
   }
 }
