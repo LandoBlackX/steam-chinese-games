@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-03-31T13:38:16.382576"
+    "updated": "2025-03-31T13:40:31.180846"
   },
   "games": {
     "570": {
@@ -35296,6 +35296,54 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-03-31T13:38:16.381034"
+    },
+    "3149730": {
+      "appid": 3149730,
+      "name": "Blam! Blam!",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T13:40:26.420741"
+    },
+    "3149560": {
+      "appid": 3149560,
+      "name": "Choices Matter: Mega City",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T13:40:27.086058"
+    },
+    "3149550": {
+      "appid": 3149550,
+      "name": "Comix Zero",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T13:40:27.223149"
+    },
+    "3149330": {
+      "appid": 3149330,
+      "name": "放置塔防",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T13:40:29.093773"
+    },
+    "3149250": {
+      "appid": 3149250,
+      "name": "小鸡保卫战",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T13:40:29.636896"
+    },
+    "3149010": {
+      "appid": 3149010,
+      "name": "Build Up",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T13:40:30.896688"
     }
   }
 }
