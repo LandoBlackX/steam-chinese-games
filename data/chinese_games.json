@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-03-31T15:42:20.688786"
+    "updated": "2025-03-31T15:48:14.960375"
   },
   "games": {
     "570": {
@@ -36552,6 +36552,38 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-03-31T15:42:20.539878"
+    },
+    "3136880": {
+      "appid": 3136880,
+      "name": "我与她们的大学画相",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T15:48:12.724928"
+    },
+    "3136740": {
+      "appid": 3136740,
+      "name": "Alchemy",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T15:48:13.023273"
+    },
+    "3136490": {
+      "appid": 3136490,
+      "name": "Echoes of the Architects",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T15:48:14.433979"
+    },
+    "3136450": {
+      "appid": 3136450,
+      "name": "Arcane spark",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T15:48:14.833270"
     }
   }
 }
