@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-03-31T20:18:40.035536"
+    "updated": "2025-03-31T20:33:44.049184"
   },
   "games": {
     "570": {
@@ -37504,6 +37504,30 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-03-31T20:18:40.033589"
+    },
+    "3125910": {
+      "appid": 3125910,
+      "name": "The Mightiest Sword is Mine!",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T20:33:42.992268"
+    },
+    "3125890": {
+      "appid": 3125890,
+      "name": "Mineral Defense",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T20:33:43.156165"
+    },
+    "3125750": {
+      "appid": 3125750,
+      "name": "EDENS ZERO",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T20:33:44.047647"
     }
   }
 }
