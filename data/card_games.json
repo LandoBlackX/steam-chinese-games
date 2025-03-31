@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-03-31T11:37:51.590896"
+    "updated": "2025-03-31T11:49:52.323282"
   },
   "games": {
     "570": {
@@ -1278,6 +1278,14 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-03-31T08:31:54.154389"
+    },
+    "3159330": {
+      "appid": 3159330,
+      "name": "刺客信条：影",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-03-31T11:49:47.240946"
     }
   }
 }

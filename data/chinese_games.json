@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-03-31T11:37:51.590896"
+    "updated": "2025-03-31T11:49:52.323282"
   },
   "games": {
     "570": {
@@ -34304,6 +34304,62 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-03-31T11:37:51.589115"
+    },
+    "3159440": {
+      "appid": 3159440,
+      "name": "修仙故事: 无尽剑域",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T11:49:46.678188"
+    },
+    "3159330": {
+      "appid": 3159330,
+      "name": "刺客信条：影",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-03-31T11:49:47.240946"
+    },
+    "3159090": {
+      "appid": 3159090,
+      "name": "Cozy Night",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T11:49:48.471740"
+    },
+    "3159010": {
+      "appid": 3159010,
+      "name": "Repair and Defend",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T11:49:49.028876"
+    },
+    "3158630": {
+      "appid": 3158630,
+      "name": "A Tale In The Garden",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T11:49:50.864726"
+    },
+    "3158620": {
+      "appid": 3158620,
+      "name": "Grimstone Survivors",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T11:49:51.003467"
+    },
+    "3158480": {
+      "appid": 3158480,
+      "name": "Hotel Owner Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T11:49:51.550973"
     }
   }
 }
