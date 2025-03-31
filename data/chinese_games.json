@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-03-31T17:51:57.271408"
+    "updated": "2025-03-31T17:57:31.471981"
   },
   "games": {
     "570": {
@@ -37104,6 +37104,62 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-03-31T17:51:57.150200"
+    },
+    "3129980": {
+      "appid": 3129980,
+      "name": "女帝:日月明空",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T17:57:29.820726"
+    },
+    "3129950": {
+      "appid": 3129950,
+      "name": "旅人的紫阳",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T17:57:30.210295"
+    },
+    "3129930": {
+      "appid": 3129930,
+      "name": "银河灰暗角落",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T17:57:30.367405"
+    },
+    "3129910": {
+      "appid": 3129910,
+      "name": "偷猫贼",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T17:57:30.640223"
+    },
+    "3129790": {
+      "appid": 3129790,
+      "name": "口袋传奇",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T17:57:31.194908"
+    },
+    "3129770": {
+      "appid": 3129770,
+      "name": "封印之魂",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T17:57:31.329386"
+    },
+    "3129760": {
+      "appid": 3129760,
+      "name": "101 Cats Hidden in Brazil",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T17:57:31.470101"
     }
   }
 }
