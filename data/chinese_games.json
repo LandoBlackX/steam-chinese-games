@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-03-31T07:54:16.485660"
+    "updated": "2025-03-31T07:56:09.704462"
   },
   "games": {
     "570": {
@@ -32600,6 +32600,102 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-03-31T07:54:16.483962"
+    },
+    "3174510": {
+      "appid": 3174510,
+      "name": "Who Killed",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T07:56:03.776208"
+    },
+    "3174500": {
+      "appid": 3174500,
+      "name": "冬日生存工程",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T07:56:03.890655"
+    },
+    "3174480": {
+      "appid": 3174480,
+      "name": "重返校园",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T07:56:04.182465"
+    },
+    "3174380": {
+      "appid": 3174380,
+      "name": "EV Station Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T07:56:05.156447"
+    },
+    "3174160": {
+      "appid": 3174160,
+      "name": "猫鼠乱斗",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T07:56:05.809069"
+    },
+    "3174070": {
+      "appid": 3174070,
+      "name": "德州扑克 - Pokerist",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T07:56:06.240724"
+    },
+    "3173930": {
+      "appid": 3173930,
+      "name": "爆笑三国",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T07:56:07.144595"
+    },
+    "3173920": {
+      "appid": 3173920,
+      "name": "报答老板",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T07:56:07.263635"
+    },
+    "3173890": {
+      "appid": 3173890,
+      "name": "开局五个亿",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T07:56:07.517401"
+    },
+    "3173740": {
+      "appid": 3173740,
+      "name": "Ghost Frequency",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T07:56:08.000323"
+    },
+    "3173710": {
+      "appid": 3173710,
+      "name": "Uplift Isle – Your Encouragement Guide",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T07:56:08.119749"
+    },
+    "3173690": {
+      "appid": 3173690,
+      "name": "Echo 99 – Your Pomodoro Partner",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T07:56:08.237671"
     }
   }
 }
