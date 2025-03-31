@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-03-31T21:01:03.450548"
+    "updated": "2025-03-31T21:18:36.959969"
   },
   "games": {
     "570": {
@@ -37616,6 +37616,38 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-03-31T21:01:02.970710"
+    },
+    "3124870": {
+      "appid": 3124870,
+      "name": "Yacht Life Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T21:18:35.936724"
+    },
+    "3124860": {
+      "appid": 3124860,
+      "name": "Lunara: Planet IX",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T21:18:36.109518"
+    },
+    "3124850": {
+      "appid": 3124850,
+      "name": "桌面战争：兵团乱斗",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T21:18:36.230692"
+    },
+    "3124810": {
+      "appid": 3124810,
+      "name": "Guess the Flag!",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T21:18:36.698160"
     }
   }
 }
