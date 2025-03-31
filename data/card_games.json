@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-03-31T04:59:22.939677"
+    "updated": "2025-03-31T05:05:40.862930"
   },
   "games": {
     "570": {
@@ -1206,6 +1206,14 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-03-30T23:44:31.256771"
+    },
+    "3196770": {
+      "appid": 3196770,
+      "name": "密室逃脱 ep1:熊当劳汉堡的奇妙物语篇",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-03-31T05:05:32.538595"
     }
   }
 }
