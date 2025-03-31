@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-03-31T10:30:25.884403"
+    "updated": "2025-03-31T10:48:45.891853"
   },
   "games": {
     "570": {
@@ -33944,6 +33944,70 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-03-31T10:30:25.473577"
+    },
+    "3163370": {
+      "appid": 3163370,
+      "name": "Champion Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T10:48:39.768824"
+    },
+    "3163310": {
+      "appid": 3163310,
+      "name": "Life Without You",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T10:48:40.234250"
+    },
+    "3163170": {
+      "appid": 3163170,
+      "name": "A Few Nights With : Francesca",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T10:48:40.924500"
+    },
+    "3163160": {
+      "appid": 3163160,
+      "name": "视野零点（Tactical Shooting）",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T10:48:41.083500"
+    },
+    "3162740": {
+      "appid": 3162740,
+      "name": "Night Fright",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T10:48:43.150970"
+    },
+    "3162340": {
+      "appid": 3162340,
+      "name": "Tilebreaker Next Level",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T10:48:44.296562"
+    },
+    "3162270": {
+      "appid": 3162270,
+      "name": "Wolf Simulator: Silent Paws",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T10:48:44.738808"
+    },
+    "3162260": {
+      "appid": 3162260,
+      "name": "抓娃娃模拟器",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T10:48:44.882714"
     }
   }
 }
