@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-03-31T13:57:23.573591"
+    "updated": "2025-03-31T13:59:09.746838"
   },
   "games": {
     "570": {
@@ -35776,6 +35776,62 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-03-31T13:57:23.572107"
+    },
+    "3144910": {
+      "appid": 3144910,
+      "name": "Homini et Armi: The End of Knights",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T13:59:05.414092"
+    },
+    "3144860": {
+      "appid": 3144860,
+      "name": "WILL: Follow The Light",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T13:59:05.641842"
+    },
+    "3144770": {
+      "appid": 3144770,
+      "name": "Ooze Keeper",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T13:59:05.854871"
+    },
+    "3144760": {
+      "appid": 3144760,
+      "name": "Serpentine Shadows and the Joys of Vengeance",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T13:59:06.004309"
+    },
+    "3144450": {
+      "appid": 3144450,
+      "name": "洗衣模拟器 - Laundry Simulator 2025",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T13:59:09.346885"
+    },
+    "3144420": {
+      "appid": 3144420,
+      "name": "ROBOT OX",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T13:59:09.607385"
+    },
+    "3144410": {
+      "appid": 3144410,
+      "name": "躺平世界",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T13:59:09.745239"
     }
   }
 }
