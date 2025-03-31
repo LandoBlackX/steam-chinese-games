@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-03-31T14:46:16.824399"
+    "updated": "2025-03-31T14:51:47.884272"
   },
   "games": {
     "570": {
@@ -36256,6 +36256,62 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-03-31T14:46:16.433597"
+    },
+    "3140420": {
+      "appid": 3140420,
+      "name": "Touko in Underland",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T14:51:44.987284"
+    },
+    "3140410": {
+      "appid": 3140410,
+      "name": "喘息 Respite",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T14:51:45.170847"
+    },
+    "3140180": {
+      "appid": 3140180,
+      "name": "THYSIASTERY",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T14:51:46.308355"
+    },
+    "3140130": {
+      "appid": 3140130,
+      "name": "大家一起观颜察色。4",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T14:51:46.915459"
+    },
+    "3140060": {
+      "appid": 3140060,
+      "name": "False Spider",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T14:51:47.439702"
+    },
+    "3140050": {
+      "appid": 3140050,
+      "name": "牢笼都市",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T14:51:47.567567"
+    },
+    "3139890": {
+      "appid": 3139890,
+      "name": "恐龙岛(巨兽岛)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T14:51:47.882175"
     }
   }
 }
