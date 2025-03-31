@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-03-31T13:45:25.492300"
+    "updated": "2025-03-31T13:48:31.456608"
   },
   "games": {
     "570": {
@@ -35528,6 +35528,46 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-03-31T13:45:25.490030"
+    },
+    "3147560": {
+      "appid": 3147560,
+      "name": "幼兽帕帕",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T13:48:28.512983"
+    },
+    "3147550": {
+      "appid": 3147550,
+      "name": "守望联盟",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T13:48:28.647627"
+    },
+    "3147510": {
+      "appid": 3147510,
+      "name": "魔物地牢的幸存女孩",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T13:48:28.981575"
+    },
+    "3147480": {
+      "appid": 3147480,
+      "name": "Mutable 50",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T13:48:29.111786"
+    },
+    "3147220": {
+      "appid": 3147220,
+      "name": "修女露米娜与催眠教团",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T13:48:30.754963"
     }
   }
 }

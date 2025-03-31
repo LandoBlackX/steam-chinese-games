@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-03-31T13:45:25.492300"
+    "updated": "2025-03-31T13:48:31.456608"
   },
   "games": {
     "570": {
@@ -1294,6 +1294,14 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-03-31T13:07:12.285777"
+    },
+    "3147430": {
+      "appid": 3147430,
+      "name": "Journey to Incrementalia",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-03-31T13:48:29.617842"
     }
   }
 }
