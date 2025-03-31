@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-03-31T17:40:17.225897"
+    "updated": "2025-03-31T17:46:08.320307"
   },
   "games": {
     "570": {
@@ -37032,6 +37032,46 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-03-31T17:40:16.916436"
+    },
+    "3130880": {
+      "appid": 3130880,
+      "name": "索拉瑞亚",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T17:46:06.163844"
+    },
+    "3130830": {
+      "appid": 3130830,
+      "name": "寻光述:百草",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T17:46:06.414179"
+    },
+    "3130800": {
+      "appid": 3130800,
+      "name": "Find My Frogs",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T17:46:06.561446"
+    },
+    "3130730": {
+      "appid": 3130730,
+      "name": "E-Trading Simulator: Prologue",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T17:46:06.828569"
+    },
+    "3130670": {
+      "appid": 3130670,
+      "name": "Senchu/線虫",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T17:46:07.395500"
     }
   }
 }
