@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-03-31T18:41:59.204467"
+    "updated": "2025-03-31T18:52:06.838012"
   },
   "games": {
     "570": {
@@ -37208,6 +37208,62 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-03-31T18:41:59.007784"
+    },
+    "3128940": {
+      "appid": 3128940,
+      "name": "Rune Ark",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T18:52:05.567093"
+    },
+    "3128840": {
+      "appid": 3128840,
+      "name": "少年亚瑟：西域传说",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T18:52:05.796860"
+    },
+    "3128770": {
+      "appid": 3128770,
+      "name": "World Turned Stone: Apocalypse",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T18:52:06.186707"
+    },
+    "3128740": {
+      "appid": 3128740,
+      "name": "Beff Jezos Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T18:52:06.313793"
+    },
+    "3128610": {
+      "appid": 3128610,
+      "name": "Plane Graveyard Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T18:52:06.608346"
+    },
+    "3128590": {
+      "appid": 3128590,
+      "name": "按右键启动翻译器",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T18:52:06.723290"
+    },
+    "3128580": {
+      "appid": 3128580,
+      "name": "OMEGA 6 The Triangle Stars",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T18:52:06.836526"
     }
   }
 }
