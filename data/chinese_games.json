@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-03-31T19:53:54.796686"
+    "updated": "2025-03-31T19:59:28.021018"
   },
   "games": {
     "570": {
@@ -37456,6 +37456,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-03-31T19:53:54.794905"
+    },
+    "3126220": {
+      "appid": 3126220,
+      "name": "Make It Count",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T19:59:27.809090"
     }
   }
 }
