@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-03-31T07:20:41.586435"
+    "updated": "2025-03-31T07:29:03.859635"
   },
   "games": {
     "570": {
@@ -1222,6 +1222,14 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-03-31T06:51:54.860789"
+    },
+    "3180240": {
+      "appid": 3180240,
+      "name": "Tetris® Forever",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-03-31T07:28:58.676805"
     }
   }
 }
