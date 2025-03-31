@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-03-31T16:28:55.748801"
+    "updated": "2025-03-31T16:43:02.363432"
   },
   "games": {
     "570": {
@@ -36752,6 +36752,38 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-03-31T16:28:55.747056"
+    },
+    "3134670": {
+      "appid": 3134670,
+      "name": "边境检查员",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T16:43:00.224786"
+    },
+    "3134590": {
+      "appid": 3134590,
+      "name": "The Prison of Infinity Code – Krylosis",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T16:43:01.241425"
+    },
+    "3134560": {
+      "appid": 3134560,
+      "name": "Totomi trainer",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T16:43:01.562805"
+    },
+    "3134540": {
+      "appid": 3134540,
+      "name": "UFO（幽爱夫欧）",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T16:43:01.907259"
     }
   }
 }
