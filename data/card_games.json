@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-03-31T14:35:03.812376"
+    "updated": "2025-03-31T14:46:16.824399"
   },
   "games": {
     "570": {
@@ -1302,6 +1302,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-03-31T13:48:29.617842"
+    },
+    "3140620": {
+      "appid": 3140620,
+      "name": "C.A.S.T. (CHERNOZEM ANOMALY STRIKE TEAM)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-03-31T14:46:16.433597"
     }
   }
 }

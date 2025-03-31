@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-03-31T14:35:03.812376"
+    "updated": "2025-03-31T14:46:16.824399"
   },
   "games": {
     "570": {
@@ -36216,6 +36216,46 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-03-31T14:35:03.808567"
+    },
+    "3141080": {
+      "appid": 3141080,
+      "name": "100 Fantasy Cats",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T14:46:13.194002"
+    },
+    "3141070": {
+      "appid": 3141070,
+      "name": "100 Indonesia Cats",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T14:46:13.312382"
+    },
+    "3141020": {
+      "appid": 3141020,
+      "name": "绯雪千夜 Remaster",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T14:46:13.556806"
+    },
+    "3140990": {
+      "appid": 3140990,
+      "name": "Backrooms 清洁小队 (Backrooms Cleanup Crew)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T14:46:13.883062"
+    },
+    "3140620": {
+      "appid": 3140620,
+      "name": "C.A.S.T. (CHERNOZEM ANOMALY STRIKE TEAM)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-03-31T14:46:16.433597"
     }
   }
 }
