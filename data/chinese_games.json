@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-03-31T19:48:08.071011"
+    "updated": "2025-03-31T19:53:54.796686"
   },
   "games": {
     "570": {
@@ -37440,6 +37440,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-03-31T19:48:07.737863"
+    },
+    "3126470": {
+      "appid": 3126470,
+      "name": "冰封世界",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T19:53:53.778635"
+    },
+    "3126330": {
+      "appid": 3126330,
+      "name": "Kiosk",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T19:53:54.794905"
     }
   }
 }
