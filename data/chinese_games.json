@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-03-31T17:15:58.532234"
+    "updated": "2025-03-31T17:32:10.073862"
   },
   "games": {
     "570": {
@@ -36984,6 +36984,30 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-03-31T17:15:58.240422"
+    },
+    "3132000": {
+      "appid": 3132000,
+      "name": "贡多拉通过",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T17:31:53.243761"
+    },
+    "3131780": {
+      "appid": 3131780,
+      "name": "传奇战场",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T17:31:54.164744"
+    },
+    "3131770": {
+      "appid": 3131770,
+      "name": "Arch Legends",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T17:31:54.355396"
     }
   }
 }
