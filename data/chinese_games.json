@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-03-31T22:58:29.115917"
+    "updated": "2025-03-31T23:13:40.044025"
   },
   "games": {
     "570": {
@@ -37912,6 +37912,38 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-03-31T22:58:29.114257"
+    },
+    "3122170": {
+      "appid": 3122170,
+      "name": "Dream Cage",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T23:13:39.171975"
+    },
+    "3122150": {
+      "appid": 3122150,
+      "name": "Under the blue horizon",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T23:13:39.307234"
+    },
+    "3122120": {
+      "appid": 3122120,
+      "name": "TimeKeeper",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T23:13:39.438588"
+    },
+    "3122100": {
+      "appid": 3122100,
+      "name": "The Ritual",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T23:13:39.537494"
     }
   }
 }
