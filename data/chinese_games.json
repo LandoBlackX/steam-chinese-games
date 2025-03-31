@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-03-31T18:52:06.838012"
+    "updated": "2025-03-31T18:57:53.066330"
   },
   "games": {
     "570": {
@@ -37264,6 +37264,38 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-03-31T18:52:06.836526"
+    },
+    "3128570": {
+      "appid": 3128570,
+      "name": "法医探案团之碎嘴小诗",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T18:57:51.550873"
+    },
+    "3128530": {
+      "appid": 3128530,
+      "name": "萍城异闻录",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T18:57:51.892109"
+    },
+    "3128520": {
+      "appid": 3128520,
+      "name": "Fit My Cat",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T18:57:52.039109"
+    },
+    "3128280": {
+      "appid": 3128280,
+      "name": "Cats & Dice",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T18:57:52.772695"
     }
   }
 }
