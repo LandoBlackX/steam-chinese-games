@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-03-31T09:59:09.017189"
+    "updated": "2025-03-31T10:30:25.884403"
   },
   "games": {
     "570": {
@@ -33872,6 +33872,78 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-03-31T09:59:08.654147"
+    },
+    "3164290": {
+      "appid": 3164290,
+      "name": "星径迷途",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T10:30:20.180669"
+    },
+    "3164240": {
+      "appid": 3164240,
+      "name": "地下城骑士团：开篇",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T10:30:20.729080"
+    },
+    "3164160": {
+      "appid": 3164160,
+      "name": "皇上，上朝了",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T10:30:21.355242"
+    },
+    "3164120": {
+      "appid": 3164120,
+      "name": "0927",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T10:30:21.651213"
+    },
+    "3164060": {
+      "appid": 3164060,
+      "name": "莎可莉与坠落之都",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T10:30:21.900583"
+    },
+    "3163840": {
+      "appid": 3163840,
+      "name": "Market Empire Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T10:30:23.021286"
+    },
+    "3163790": {
+      "appid": 3163790,
+      "name": "Toy Shop Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T10:30:23.363115"
+    },
+    "3163730": {
+      "appid": 3163730,
+      "name": "Trapped: Family Vacation",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T10:30:23.859372"
+    },
+    "3163550": {
+      "appid": 3163550,
+      "name": "Hotel of Shadows",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-03-31T10:30:25.473577"
     }
   }
 }
