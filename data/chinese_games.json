@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-01T08:57:35.448924"
+    "updated": "2025-04-01T09:14:21.456086"
   },
   "games": {
     "570": {
@@ -38512,6 +38512,30 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-04-01T08:57:35.447446"
+    },
+    "3116730": {
+      "appid": 3116730,
+      "name": "BIG LOOT",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-01T09:14:21.203792"
+    },
+    "3116720": {
+      "appid": 3116720,
+      "name": "Five Nights At Skibidi Toilets",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-01T09:14:21.349016"
+    },
+    "3116700": {
+      "appid": 3116700,
+      "name": "请君入殓",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-01T09:14:21.453873"
     }
   }
 }
