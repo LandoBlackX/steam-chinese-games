@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-01T07:31:24.424275"
+    "updated": "2025-04-01T07:39:58.951310"
   },
   "games": {
     "570": {
@@ -38408,6 +38408,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-04-01T07:31:24.165066"
+    },
+    "3117780": {
+      "appid": 3117780,
+      "name": "Yin-Yang Ping-Pong",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-01T07:39:58.735039"
     }
   }
 }
