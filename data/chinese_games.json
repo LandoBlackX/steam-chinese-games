@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-01T15:34:02.229074"
+    "updated": "2025-04-01T16:12:36.251242"
   },
   "games": {
     "570": {
@@ -38760,6 +38760,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-04-01T15:34:02.227774"
+    },
+    "3114440": {
+      "appid": 3114440,
+      "name": "War of Charge",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-01T16:12:36.053902"
+    },
+    "3114420": {
+      "appid": 3114420,
+      "name": "UNCRACKED",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-01T16:12:36.246522"
     }
   }
 }
