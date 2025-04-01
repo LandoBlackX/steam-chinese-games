@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-01T05:34:36.327668"
+    "updated": "2025-04-01T05:49:58.103652"
   },
   "games": {
     "570": {
@@ -38376,6 +38376,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-04-01T05:34:36.325294"
+    },
+    "3118450": {
+      "appid": 3118450,
+      "name": "Cast Cats",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-01T05:49:57.872732"
     }
   }
 }
