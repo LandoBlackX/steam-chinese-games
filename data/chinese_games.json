@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-01T05:00:01.647423"
+    "updated": "2025-04-01T05:34:36.327668"
   },
   "games": {
     "570": {
@@ -38360,6 +38360,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-04-01T05:00:01.340840"
+    },
+    "3118620": {
+      "appid": 3118620,
+      "name": "AERO BATTLE ROYALE",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-01T05:34:35.962778"
+    },
+    "3118580": {
+      "appid": 3118580,
+      "name": "101 Cats Hidden in Shanghai",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-01T05:34:36.325294"
     }
   }
 }
