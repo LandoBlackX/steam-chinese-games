@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-01T16:56:37.104936"
+    "updated": "2025-04-01T17:09:47.202723"
   },
   "games": {
     "570": {
@@ -38800,6 +38800,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-04-01T16:56:37.103352"
+    },
+    "3114310": {
+      "appid": 3114310,
+      "name": "摆摊人生",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-01T17:09:47.010652"
     }
   }
 }
