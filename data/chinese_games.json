@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-01T14:58:58.214827"
+    "updated": "2025-04-01T15:16:46.687404"
   },
   "games": {
     "570": {
@@ -38736,6 +38736,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-04-01T14:58:58.212807"
+    },
+    "3114680": {
+      "appid": 3114680,
+      "name": "无敌舰队",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-01T15:16:46.555460"
     }
   }
 }
