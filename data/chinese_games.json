@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-01T04:48:16.571486"
+    "updated": "2025-04-01T05:00:01.647423"
   },
   "games": {
     "570": {
@@ -38352,6 +38352,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-04-01T04:48:16.569947"
+    },
+    "3118740": {
+      "appid": 3118740,
+      "name": "Do You Know Kimchi?",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-01T05:00:01.340840"
     }
   }
 }
