@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-01T20:18:06.451247"
+    "updated": "2025-04-01T20:28:24.737918"
   },
   "games": {
     "570": {
@@ -38904,6 +38904,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-04-01T20:18:06.286504"
+    },
+    "3113500": {
+      "appid": 3113500,
+      "name": "KILL KILL KILL KILL",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-01T20:28:24.578518"
+    },
+    "3113490": {
+      "appid": 3113490,
+      "name": "Five Nights And VTBs管人痴的五夜后宫",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-01T20:28:24.736075"
     }
   }
 }
