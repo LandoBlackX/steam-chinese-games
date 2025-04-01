@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-01T03:30:39.659380"
+    "updated": "2025-04-01T03:33:20.248644"
   },
   "games": {
     "570": {
@@ -38184,6 +38184,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-04-01T03:30:39.503079"
+    },
+    "3119980": {
+      "appid": 3119980,
+      "name": "Welcome: A Cozy Estuary",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-01T03:33:19.591134"
+    },
+    "3119960": {
+      "appid": 3119960,
+      "name": "军团酒馆",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-01T03:33:19.707275"
     }
   }
 }
