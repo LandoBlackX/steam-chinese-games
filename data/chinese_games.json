@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-01T14:15:25.911168"
+    "updated": "2025-04-01T14:36:25.851731"
   },
   "games": {
     "570": {
@@ -38712,6 +38712,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-04-01T14:15:25.741790"
+    },
+    "3114900": {
+      "appid": 3114900,
+      "name": "凶寓",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-01T14:36:25.717371"
     }
   }
 }
