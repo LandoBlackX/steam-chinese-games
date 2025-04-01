@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-01T09:48:48.969693"
+    "updated": "2025-04-01T09:54:39.470681"
   },
   "games": {
     "570": {
@@ -38576,6 +38576,30 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-04-01T09:48:48.862203"
+    },
+    "3116400": {
+      "appid": 3116400,
+      "name": "Hentai Akari",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-01T09:54:39.156368"
+    },
+    "3116370": {
+      "appid": 3116370,
+      "name": "破碎棱镜 Broken Prism",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-01T09:54:39.317921"
+    },
+    "3116360": {
+      "appid": 3116360,
+      "name": "SAVE Teaser: Before the Dawn",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-01T09:54:39.468058"
     }
   }
 }
