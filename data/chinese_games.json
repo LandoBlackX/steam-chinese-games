@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-01T07:00:03.009098"
+    "updated": "2025-04-01T07:31:24.424275"
   },
   "games": {
     "570": {
@@ -38400,6 +38400,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-04-01T07:00:02.701772"
+    },
+    "3117820": {
+      "appid": 3117820,
+      "name": "苏丹的游戏",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-01T07:31:24.165066"
     }
   }
 }
