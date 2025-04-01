@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-01T13:51:36.990718"
+    "updated": "2025-04-01T13:59:43.722283"
   },
   "games": {
     "570": {
@@ -38696,6 +38696,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-04-01T13:51:36.989004"
+    },
+    "3115060": {
+      "appid": 3115060,
+      "name": "催眠诱奸",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-01T13:59:43.566954"
     }
   }
 }
