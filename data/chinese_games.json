@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-03-31T23:59:03.878330"
+    "updated": "2025-04-01T01:07:08.131704"
   },
   "games": {
     "570": {
@@ -38072,6 +38072,30 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-03-31T23:59:03.711180"
+    },
+    "3120910": {
+      "appid": 3120910,
+      "name": "The Little Moon",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-01T01:07:07.914517"
+    },
+    "3120890": {
+      "appid": 3120890,
+      "name": "CatCat",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-01T01:07:08.019737"
+    },
+    "3120880": {
+      "appid": 3120880,
+      "name": "食物大乱斗：多功能卡牌",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-01T01:07:08.129938"
     }
   }
 }
