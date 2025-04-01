@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-01T14:36:25.851731"
+    "updated": "2025-04-01T14:47:06.630258"
   },
   "games": {
     "570": {
@@ -38720,6 +38720,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-04-01T14:36:25.717371"
+    },
+    "3114860": {
+      "appid": 3114860,
+      "name": "Barrok",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-01T14:47:06.507695"
     }
   }
 }
