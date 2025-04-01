@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-01T02:59:51.570957"
+    "updated": "2025-04-01T03:11:12.972438"
   },
   "games": {
     "570": {
@@ -38152,6 +38152,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-04-01T02:59:51.569176"
+    },
+    "3120300": {
+      "appid": 3120300,
+      "name": "3D PUZZLE - Pizza Shop 1",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-01T03:11:12.173694"
+    },
+    "3120290": {
+      "appid": 3120290,
+      "name": "3D PUZZLE - Courtyard",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-01T03:11:12.289081"
     }
   }
 }
