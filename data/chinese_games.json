@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-01T04:07:13.652290"
+    "updated": "2025-04-01T04:15:46.873322"
   },
   "games": {
     "570": {
@@ -38296,6 +38296,30 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-04-01T04:07:13.650851"
+    },
+    "3119460": {
+      "appid": 3119460,
+      "name": "Dark Blue Dungeon",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-01T04:15:46.138523"
+    },
+    "3119450": {
+      "appid": 3119450,
+      "name": "Rock! Scissors! Please!",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-01T04:15:46.288357"
+    },
+    "3119380": {
+      "appid": 3119380,
+      "name": "无线电平原 - Radio Plains",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-01T04:15:46.762573"
     }
   }
 }
