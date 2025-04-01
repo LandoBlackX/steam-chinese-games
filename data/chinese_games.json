@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-01T06:12:44.746998"
+    "updated": "2025-04-01T07:00:03.009098"
   },
   "games": {
     "570": {
@@ -38392,6 +38392,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-04-01T06:12:44.477806"
+    },
+    "3118050": {
+      "appid": 3118050,
+      "name": "Meteorder",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-01T07:00:02.701772"
     }
   }
 }
