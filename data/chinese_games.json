@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-01T11:42:05.741937"
+    "updated": "2025-04-01T12:16:28.460869"
   },
   "games": {
     "570": {
@@ -38656,6 +38656,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-04-01T11:42:05.740184"
+    },
+    "3115510": {
+      "appid": 3115510,
+      "name": "猫女瞄准训练师",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-01T12:16:28.299405"
+    },
+    "3115500": {
+      "appid": 3115500,
+      "name": "梦幻旋律",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-01T12:16:28.459291"
     }
   }
 }
