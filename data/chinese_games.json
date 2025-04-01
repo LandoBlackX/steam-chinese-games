@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-01T03:33:20.248644"
+    "updated": "2025-04-01T03:35:50.545588"
   },
   "games": {
     "570": {
@@ -38200,6 +38200,46 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-04-01T03:33:19.707275"
+    },
+    "3119830": {
+      "appid": 3119830,
+      "name": "Chaos Bringer",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-01T03:35:49.519500"
+    },
+    "3119820": {
+      "appid": 3119820,
+      "name": "Doggy Farmer",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-01T03:35:49.673676"
+    },
+    "3119780": {
+      "appid": 3119780,
+      "name": "Drive Thru Miami",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-01T03:35:49.904533"
+    },
+    "3119720": {
+      "appid": 3119720,
+      "name": "Barro 2024",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-01T03:35:50.185423"
+    },
+    "3119700": {
+      "appid": 3119700,
+      "name": "NOOK FALL：西区",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-01T03:35:50.543678"
     }
   }
 }
