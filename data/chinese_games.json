@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-01T04:15:46.873322"
+    "updated": "2025-04-01T04:37:20.228994"
   },
   "games": {
     "570": {
@@ -38320,6 +38320,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-04-01T04:15:46.762573"
+    },
+    "3119180": {
+      "appid": 3119180,
+      "name": "幻想修仙世界",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-01T04:37:20.227503"
     }
   }
 }
