@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-01T17:45:54.944144"
+    "updated": "2025-04-01T17:51:45.802372"
   },
   "games": {
     "570": {
@@ -38832,6 +38832,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-04-01T17:45:54.793260"
+    },
+    "3114090": {
+      "appid": 3114090,
+      "name": "深渊联盟(League of Abyss)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-01T17:51:45.641712"
+    },
+    "3114070": {
+      "appid": 3114070,
+      "name": "十秒英雄1-Ten Seconds Hero1",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-01T17:51:45.800792"
     }
   }
 }
