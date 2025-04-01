@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-01T09:14:21.456086"
+    "updated": "2025-04-01T09:32:20.606676"
   },
   "games": {
     "570": {
@@ -38536,6 +38536,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-04-01T09:14:21.453873"
+    },
+    "3116640": {
+      "appid": 3116640,
+      "name": "Torque Drift 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-01T09:32:20.466775"
+    },
+    "3116600": {
+      "appid": 3116600,
+      "name": "Gate Project",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-01T09:32:20.605085"
     }
   }
 }
