@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-01T07:51:26.404012"
+    "updated": "2025-04-01T07:57:03.776403"
   },
   "games": {
     "570": {
@@ -38440,6 +38440,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-04-01T07:51:26.402321"
+    },
+    "3117620": {
+      "appid": 3117620,
+      "name": "Robabekya",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-01T07:57:03.673426"
+    },
+    "3117600": {
+      "appid": 3117600,
+      "name": "Scaler",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-01T07:57:03.775134"
     }
   }
 }
