@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-01T11:00:25.361914"
+    "updated": "2025-04-01T11:16:29.096886"
   },
   "games": {
     "570": {
@@ -38640,6 +38640,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-04-01T11:00:25.252550"
+    },
+    "3116120": {
+      "appid": 3116120,
+      "name": "兽人领地",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-01T11:16:28.887718"
     }
   }
 }
