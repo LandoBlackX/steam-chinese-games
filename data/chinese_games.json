@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-01T03:35:50.545588"
+    "updated": "2025-04-01T03:57:30.238709"
   },
   "games": {
     "570": {
@@ -38240,6 +38240,30 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-04-01T03:35:50.543678"
+    },
+    "3119690": {
+      "appid": 3119690,
+      "name": "Sa[meow]rai：银翼喵侍",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-01T03:57:29.483379"
+    },
+    "3119650": {
+      "appid": 3119650,
+      "name": "The Last FARMER - Prologue",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-01T03:57:29.873697"
+    },
+    "3119640": {
+      "appid": 3119640,
+      "name": "Warbound",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-01T03:57:30.014940"
     }
   }
 }
