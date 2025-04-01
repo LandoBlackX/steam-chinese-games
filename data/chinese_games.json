@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-01T19:22:57.631893"
+    "updated": "2025-04-01T19:28:44.613054"
   },
   "games": {
     "570": {
@@ -38872,6 +38872,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-04-01T19:22:57.503343"
+    },
+    "3113730": {
+      "appid": 3113730,
+      "name": "Mini Bash",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-01T19:28:44.610822"
     }
   }
 }
