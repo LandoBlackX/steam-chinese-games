@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-01T12:16:28.460869"
+    "updated": "2025-04-01T13:06:27.958205"
   },
   "games": {
     "570": {
@@ -38672,6 +38672,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-04-01T12:16:28.459291"
+    },
+    "3115390": {
+      "appid": 3115390,
+      "name": "SuperImage Pro",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-01T13:06:27.857061"
     }
   }
 }
