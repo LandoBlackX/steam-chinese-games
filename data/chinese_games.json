@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-01T09:43:13.576147"
+    "updated": "2025-04-01T09:48:48.969693"
   },
   "games": {
     "570": {
@@ -38560,6 +38560,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-04-01T09:43:13.186342"
+    },
+    "3116470": {
+      "appid": 3116470,
+      "name": "IDUN - 阵线推进官：序章",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-01T09:48:48.742057"
+    },
+    "3116450": {
+      "appid": 3116450,
+      "name": "淫灵退魔师小枫",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-01T09:48:48.862203"
     }
   }
 }
