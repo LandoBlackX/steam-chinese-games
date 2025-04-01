@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-01T03:11:12.972438"
+    "updated": "2025-04-01T03:30:39.659380"
   },
   "games": {
     "570": {
@@ -38168,6 +38168,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-04-01T03:11:12.289081"
+    },
+    "3120140": {
+      "appid": 3120140,
+      "name": "Along the Edge of the Sky",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-01T03:30:38.943168"
+    },
+    "3120050": {
+      "appid": 3120050,
+      "name": "Dungeon of Grandmasters",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-01T03:30:39.503079"
     }
   }
 }
