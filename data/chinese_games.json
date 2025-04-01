@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-01T09:32:20.606676"
+    "updated": "2025-04-01T09:43:13.576147"
   },
   "games": {
     "570": {
@@ -38552,6 +38552,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-04-01T09:32:20.605085"
+    },
+    "3116530": {
+      "appid": 3116530,
+      "name": "Zombie Siege City",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-01T09:43:13.186342"
     }
   }
 }
