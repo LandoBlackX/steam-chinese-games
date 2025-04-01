@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-01T16:36:07.000506"
+    "updated": "2025-04-01T16:38:56.147225"
   },
   "games": {
     "570": {
@@ -38784,6 +38784,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-04-01T16:36:06.822688"
+    },
+    "3114370": {
+      "appid": 3114370,
+      "name": "《文字游戏世界》",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-01T16:38:56.145586"
     }
   }
 }
