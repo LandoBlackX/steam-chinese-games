@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-01T18:16:08.031287"
+    "updated": "2025-04-01T19:22:57.631893"
   },
   "games": {
     "570": {
@@ -38864,6 +38864,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-04-01T18:16:07.893642"
+    },
+    "3113780": {
+      "appid": 3113780,
+      "name": "Grab and Guts",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-01T19:22:57.503343"
     }
   }
 }
