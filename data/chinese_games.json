@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-01T19:28:44.613054"
+    "updated": "2025-04-01T19:42:01.356955"
   },
   "games": {
     "570": {
@@ -38880,6 +38880,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-04-01T19:28:44.610822"
+    },
+    "3113680": {
+      "appid": 3113680,
+      "name": "Missing Banban",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-01T19:42:01.173938"
+    },
+    "3113670": {
+      "appid": 3113670,
+      "name": "The Barkeeper",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-01T19:42:01.355456"
     }
   }
 }
