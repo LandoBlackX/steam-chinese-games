@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-01T03:57:30.238709"
+    "updated": "2025-04-01T04:07:13.652290"
   },
   "games": {
     "570": {
@@ -38264,6 +38264,38 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-04-01T03:57:30.014940"
+    },
+    "3119540": {
+      "appid": 3119540,
+      "name": "Scriptorium: Master of Manuscripts",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-01T04:07:12.994531"
+    },
+    "3119520": {
+      "appid": 3119520,
+      "name": "Waifu Closet",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-01T04:07:13.260034"
+    },
+    "3119480": {
+      "appid": 3119480,
+      "name": "The Black Labyrinth",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-01T04:07:13.519294"
+    },
+    "3119470": {
+      "appid": 3119470,
+      "name": "マカブルの残党: Remnants of the Macabre",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-01T04:07:13.650851"
     }
   }
 }
