@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-01T13:59:43.722283"
+    "updated": "2025-04-01T14:15:25.911168"
   },
   "games": {
     "570": {
@@ -38704,6 +38704,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-04-01T13:59:43.566954"
+    },
+    "3115010": {
+      "appid": 3115010,
+      "name": "Car Dealer Simulator: Prologue - Early Days",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-01T14:15:25.741790"
     }
   }
 }
