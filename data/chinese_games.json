@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-01T19:42:01.356955"
+    "updated": "2025-04-01T20:18:06.451247"
   },
   "games": {
     "570": {
@@ -38896,6 +38896,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-04-01T19:42:01.355456"
+    },
+    "3113530": {
+      "appid": 3113530,
+      "name": "Haunted Elevator - 闹鬼电梯",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-01T20:18:06.286504"
     }
   }
 }
