@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-01T16:38:56.147225"
+    "updated": "2025-04-01T16:56:37.104936"
   },
   "games": {
     "570": {
@@ -38792,6 +38792,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-04-01T16:38:56.145586"
+    },
+    "3114320": {
+      "appid": 3114320,
+      "name": "Dinosaur Running（恐龙快跑）",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-01T16:56:37.103352"
     }
   }
 }
