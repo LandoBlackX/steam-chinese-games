@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-01T08:38:48.623533"
+    "updated": "2025-04-01T08:52:07.822212"
   },
   "games": {
     "570": {
@@ -38488,6 +38488,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-04-01T08:38:48.284338"
+    },
+    "3116860": {
+      "appid": 3116860,
+      "name": "Wire Throne",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-01T08:52:07.713799"
     }
   }
 }
