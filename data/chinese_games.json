@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-01T11:16:29.096886"
+    "updated": "2025-04-01T11:42:05.741937"
   },
   "games": {
     "570": {
@@ -38648,6 +38648,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-04-01T11:16:28.887718"
+    },
+    "3115880": {
+      "appid": 3115880,
+      "name": "Jumpscare Scare Jump",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-01T11:42:05.740184"
     }
   }
 }
