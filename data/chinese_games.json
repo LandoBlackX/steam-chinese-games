@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-01T01:20:01.058540"
+    "updated": "2025-04-01T02:53:55.434541"
   },
   "games": {
     "570": {
@@ -38112,6 +38112,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-04-01T01:20:00.223416"
+    },
+    "3120700": {
+      "appid": 3120700,
+      "name": "Farming",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-01T02:53:54.648986"
+    },
+    "3120630": {
+      "appid": 3120630,
+      "name": "Cold Chains",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-01T02:53:54.859365"
     }
   }
 }
