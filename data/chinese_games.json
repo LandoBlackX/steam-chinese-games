@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-01T13:45:25.562147"
+    "updated": "2025-04-01T13:51:36.990718"
   },
   "games": {
     "570": {
@@ -38688,6 +38688,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-04-01T13:45:25.452366"
+    },
+    "3115220": {
+      "appid": 3115220,
+      "name": "Town to City",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-01T13:51:36.989004"
     }
   }
 }
