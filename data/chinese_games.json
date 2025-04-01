@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-01T05:49:58.103652"
+    "updated": "2025-04-01T06:12:44.746998"
   },
   "games": {
     "570": {
@@ -38384,6 +38384,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-04-01T05:49:57.872732"
+    },
+    "3118290": {
+      "appid": 3118290,
+      "name": "Capybara",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-01T06:12:44.477806"
     }
   }
 }
