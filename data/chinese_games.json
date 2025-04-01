@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-01T10:40:29.569655"
+    "updated": "2025-04-01T10:49:15.486693"
   },
   "games": {
     "570": {
@@ -38616,6 +38616,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-04-01T10:40:29.568182"
+    },
+    "3116220": {
+      "appid": 3116220,
+      "name": "Cats Hidden Timeline",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-01T10:49:15.367413"
+    },
+    "3116200": {
+      "appid": 3116200,
+      "name": "Poker Tower Defense",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-01T10:49:15.484930"
     }
   }
 }
