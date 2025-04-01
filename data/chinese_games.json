@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-01T20:28:24.737918"
+    "updated": "2025-04-01T21:18:48.128766"
   },
   "games": {
     "570": {
@@ -38920,6 +38920,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-04-01T20:28:24.736075"
+    },
+    "3113260": {
+      "appid": 3113260,
+      "name": "Forgotten Memories",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-01T21:18:48.001872"
+    },
+    "3113230": {
+      "appid": 3113230,
+      "name": "放置仙途",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-01T21:18:48.127338"
     }
   }
 }
