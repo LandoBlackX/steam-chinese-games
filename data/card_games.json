@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-01T08:16:11.005972"
+    "updated": "2025-04-01T08:38:48.623533"
   },
   "games": {
     "570": {
@@ -1318,6 +1318,14 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-03-31T21:01:02.970710"
+    },
+    "3116890": {
+      "appid": 3116890,
+      "name": "Out of the Park Baseball 26",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-01T08:38:48.435971"
     }
   }
 }

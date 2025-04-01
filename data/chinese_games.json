@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-01T08:16:11.005972"
+    "updated": "2025-04-01T08:38:48.623533"
   },
   "games": {
     "570": {
@@ -38480,6 +38480,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-04-01T08:16:11.004264"
+    },
+    "3116920": {
+      "appid": 3116920,
+      "name": "Frightening Monastery",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-01T08:38:48.284338"
     }
   }
 }
