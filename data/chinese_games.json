@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-01T17:09:47.202723"
+    "updated": "2025-04-01T17:39:21.130134"
   },
   "games": {
     "570": {
@@ -38808,6 +38808,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-04-01T17:09:47.010652"
+    },
+    "3114160": {
+      "appid": 3114160,
+      "name": "萌芽之缘 FATE'S TIES",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-01T17:39:21.005153"
+    },
+    "3114150": {
+      "appid": 3114150,
+      "name": "Native Isekai Defense: Prologue",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-01T17:39:21.127620"
     }
   }
 }
