@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-01T15:16:46.687404"
+    "updated": "2025-04-01T15:34:02.229074"
   },
   "games": {
     "570": {
@@ -38744,6 +38744,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-04-01T15:16:46.555460"
+    },
+    "3114650": {
+      "appid": 3114650,
+      "name": "墙之恐惧: The Walls Still Stand",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-01T15:34:02.071389"
+    },
+    "3114620": {
+      "appid": 3114620,
+      "name": "Toy Voyage",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-01T15:34:02.227774"
     }
   }
 }
