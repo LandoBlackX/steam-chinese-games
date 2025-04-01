@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-01T21:50:06.539294"
+    "updated": "2025-04-01T21:56:01.524744"
   },
   "games": {
     "570": {
@@ -38952,6 +38952,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-04-01T21:50:06.376764"
+    },
+    "3112730": {
+      "appid": 3112730,
+      "name": "《神探狗狗：爪不可及》",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-01T21:56:01.523390"
     }
   }
 }
