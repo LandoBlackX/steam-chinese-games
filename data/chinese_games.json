@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-02T03:57:42.742393"
+    "updated": "2025-04-02T04:15:00.501682"
   },
   "games": {
     "570": {
@@ -38968,6 +38968,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-04-02T03:57:42.740400"
+    },
+    "3112330": {
+      "appid": 3112330,
+      "name": "Yamauba",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-02T04:15:00.499635"
     }
   }
 }
