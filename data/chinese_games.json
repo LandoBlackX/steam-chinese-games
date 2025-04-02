@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-02T04:47:34.949760"
+    "updated": "2025-04-02T04:54:12.004809"
   },
   "games": {
     "570": {
@@ -38984,6 +38984,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-04-02T04:47:34.947957"
+    },
+    "3112260": {
+      "appid": 3112260,
+      "name": "Virtua Fighter 5 R.E.V.O.",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-02T04:54:12.002608"
     }
   }
 }
