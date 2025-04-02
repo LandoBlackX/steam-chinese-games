@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-01T21:56:01.524744"
+    "updated": "2025-04-02T03:57:42.742393"
   },
   "games": {
     "570": {
@@ -38960,6 +38960,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-04-01T21:56:01.523390"
+    },
+    "3112340": {
+      "appid": 3112340,
+      "name": "ALL IN VAIN",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-02T03:57:42.740400"
     }
   }
 }
