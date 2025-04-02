@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-02T07:37:03.324338"
+    "updated": "2025-04-02T07:48:52.612077"
   },
   "games": {
     "570": {
@@ -39048,6 +39048,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-04-02T07:37:03.321137"
+    },
+    "3111930": {
+      "appid": 3111930,
+      "name": "影色渐染~阿斯林顿的妹神官~",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-02T07:48:52.609761"
     }
   }
 }
