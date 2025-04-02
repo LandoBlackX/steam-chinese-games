@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-02T04:54:12.004809"
+    "updated": "2025-04-02T05:18:08.705747"
   },
   "games": {
     "570": {
@@ -38992,6 +38992,14 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-02T04:54:12.002608"
+    },
+    "3112210": {
+      "appid": 3112210,
+      "name": "Party Spirits",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-02T05:18:08.703941"
     }
   }
 }
