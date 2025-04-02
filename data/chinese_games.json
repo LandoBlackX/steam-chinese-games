@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-02T06:40:49.934105"
+    "updated": "2025-04-02T06:57:45.722029"
   },
   "games": {
     "570": {
@@ -39024,6 +39024,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-04-02T06:40:49.932133"
+    },
+    "3112010": {
+      "appid": 3112010,
+      "name": "不思议迷宫",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-02T06:57:45.719959"
     }
   }
 }
