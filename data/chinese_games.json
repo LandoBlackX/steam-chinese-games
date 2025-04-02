@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-02T06:57:45.722029"
+    "updated": "2025-04-02T07:13:22.776599"
   },
   "games": {
     "570": {
@@ -39032,6 +39032,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-04-02T06:57:45.719959"
+    },
+    "3112000": {
+      "appid": 3112000,
+      "name": "伏魔之境-Demon Suppression Realm",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-02T07:13:22.774420"
     }
   }
 }
