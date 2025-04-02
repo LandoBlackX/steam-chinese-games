@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-02T05:18:08.705747"
+    "updated": "2025-04-02T05:35:22.105610"
   },
   "games": {
     "570": {
@@ -39000,6 +39000,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-04-02T05:18:08.703941"
+    },
+    "3112200": {
+      "appid": 3112200,
+      "name": "Subdimension",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-02T05:35:22.103642"
     }
   }
 }
