@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-02T05:45:13.461618"
+    "updated": "2025-04-02T06:40:49.934105"
   },
   "games": {
     "570": {
@@ -39016,6 +39016,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-04-02T05:45:13.457197"
+    },
+    "3112050": {
+      "appid": 3112050,
+      "name": "J-Room",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-02T06:40:49.932133"
     }
   }
 }
