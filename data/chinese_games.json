@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-02T05:35:22.105610"
+    "updated": "2025-04-02T05:45:13.461618"
   },
   "games": {
     "570": {
@@ -39008,6 +39008,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-04-02T05:35:22.103642"
+    },
+    "3112170": {
+      "appid": 3112170,
+      "name": "Dice Legends",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-02T05:45:13.457197"
     }
   }
 }
