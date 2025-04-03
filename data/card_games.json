@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-03T18:44:31.298765"
+    "updated": "2025-04-03T18:48:01.255839"
   },
   "games": {
     "570": {
@@ -5022,6 +5022,630 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-04-03T18:44:31.149034"
+    },
+    "244070": {
+      "appid": 244070,
+      "name": "Sid Meier’s Ace Patrol",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:47:44.673888"
+    },
+    "244090": {
+      "appid": 244090,
+      "name": "Sid Meier’s Ace Patrol: Pacific Skies",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:47:44.970264"
+    },
+    "244410": {
+      "appid": 244410,
+      "name": "Supreme Ruler 1936",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:47:45.381682"
+    },
+    "244430": {
+      "appid": 244430,
+      "name": "realMyst: Masterpiece Edition",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:47:45.498388"
+    },
+    "244450": {
+      "appid": 244450,
+      "name": "Men of War: Assault Squad 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:47:45.778590"
+    },
+    "244590": {
+      "appid": 244590,
+      "name": "Epigenesis",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:47:45.895895"
+    },
+    "244690": {
+      "appid": 244690,
+      "name": "Face Noir",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:47:46.067525"
+    },
+    "244710": {
+      "appid": 244710,
+      "name": "Shelter",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:47:46.190762"
+    },
+    "244730": {
+      "appid": 244730,
+      "name": "Divekick",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:47:46.310883"
+    },
+    "244810": {
+      "appid": 244810,
+      "name": "Foul Play",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:47:46.759878"
+    },
+    "244870": {
+      "appid": 244870,
+      "name": "Electronic Super Joy",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:47:47.205994"
+    },
+    "244890": {
+      "appid": 244890,
+      "name": "Velocity®Ultra",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:47:47.342680"
+    },
+    "244910": {
+      "appid": 244910,
+      "name": "Homesick",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:47:47.450981"
+    },
+    "245050": {
+      "appid": 245050,
+      "name": "SpellForce 2 - Demons of the Past",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:47:47.820715"
+    },
+    "245150": {
+      "appid": 245150,
+      "name": "The Novelist",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:47:47.933694"
+    },
+    "245170": {
+      "appid": 245170,
+      "name": "Skullgirls 2nd Encore",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:47:48.077819"
+    },
+    "245300": {
+      "appid": 245300,
+      "name": "Disney Epic Mickey 2:  The Power of Two",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:47:48.349785"
+    },
+    "245370": {
+      "appid": 245370,
+      "name": "Etherium",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:47:48.464558"
+    },
+    "245390": {
+      "appid": 245390,
+      "name": "I Have No Mouth, and I Must Scream",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:47:48.616202"
+    },
+    "245470": {
+      "appid": 245470,
+      "name": "Democracy 3",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:47:49.148352"
+    },
+    "245620": {
+      "appid": 245620,
+      "name": "Tropico 5",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:47:49.406582"
+    },
+    "246090": {
+      "appid": 246090,
+      "name": "Spacebase DF-9",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:47:49.789424"
+    },
+    "246110": {
+      "appid": 246110,
+      "name": "MASSIVE CHALICE",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:47:49.904728"
+    },
+    "246300": {
+      "appid": 246300,
+      "name": "Paranormal",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:47:50.023294"
+    },
+    "246420": {
+      "appid": 246420,
+      "name": "Kingdom Rush  - Tower Defense",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:47:50.253746"
+    },
+    "246580": {
+      "appid": 246580,
+      "name": "The Typing of The Dead: Overkill",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:47:50.380952"
+    },
+    "246620": {
+      "appid": 246620,
+      "name": "Plague Inc: Evolved",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:47:50.488799"
+    },
+    "246760": {
+      "appid": 246760,
+      "name": "Legends of Eisenwald",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:47:50.952066"
+    },
+    "246800": {
+      "appid": 246800,
+      "name": "BeatBlasters III",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:47:51.065764"
+    },
+    "246840": {
+      "appid": 246840,
+      "name": "FATE",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:47:51.290082"
+    },
+    "246900": {
+      "appid": 246900,
+      "name": "Viscera Cleanup Detail",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:47:51.537924"
+    },
+    "246920": {
+      "appid": 246920,
+      "name": "Bombernauts",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:47:51.658707"
+    },
+    "246940": {
+      "appid": 246940,
+      "name": "Lords of the Black Sun",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:47:51.768974"
+    },
+    "246960": {
+      "appid": 246960,
+      "name": "Giana Sisters: Twisted Dreams - Rise of the Owlverlord",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:47:51.908881"
+    },
+    "246980": {
+      "appid": 246980,
+      "name": "InFlux",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:47:52.019092"
+    },
+    "247000": {
+      "appid": 247000,
+      "name": "Talisman: Digital Classic Edition",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:47:52.253753"
+    },
+    "247020": {
+      "appid": 247020,
+      "name": "Cook, Serve, Delicious!",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:47:52.491690"
+    },
+    "247080": {
+      "appid": 247080,
+      "name": "Crypt of the NecroDancer",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:47:52.613652"
+    },
+    "247140": {
+      "appid": 247140,
+      "name": "Soundodger+",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:47:52.730831"
+    },
+    "247240": {
+      "appid": 247240,
+      "name": "Volgarr the Viking",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:47:52.847615"
+    },
+    "247310": {
+      "appid": 247310,
+      "name": "Gravi",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:47:52.991473"
+    },
+    "247370": {
+      "appid": 247370,
+      "name": "Mutant Mudds Deluxe",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:47:53.205841"
+    },
+    "247660": {
+      "appid": 247660,
+      "name": "Deadly Premonition: The Director's Cut",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:47:53.538141"
+    },
+    "247910": {
+      "appid": 247910,
+      "name": "Sniper Elite: Nazi Zombie Army 2",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:47:53.893177"
+    },
+    "247950": {
+      "appid": 247950,
+      "name": "Sacred 3",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:47:54.038283"
+    },
+    "248190": {
+      "appid": 248190,
+      "name": "Knytt Underground",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:47:54.281806"
+    },
+    "248290": {
+      "appid": 248290,
+      "name": "Reach for the Sun",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:47:54.489763"
+    },
+    "248310": {
+      "appid": 248310,
+      "name": "Freedom Planet",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:47:54.614722"
+    },
+    "248330": {
+      "appid": 248330,
+      "name": "Dino Run DX",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:47:54.722284"
+    },
+    "248390": {
+      "appid": 248390,
+      "name": "Craft The World",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:47:55.057760"
+    },
+    "248470": {
+      "appid": 248470,
+      "name": "Doorways: Prelude",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:47:55.281700"
+    },
+    "248530": {
+      "appid": 248530,
+      "name": "Depth Hunter 2: Deep Dive",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:47:55.616409"
+    },
+    "248570": {
+      "appid": 248570,
+      "name": "Toribash",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:47:55.837542"
+    },
+    "248610": {
+      "appid": 248610,
+      "name": "Door Kickers",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:47:56.006216"
+    },
+    "248650": {
+      "appid": 248650,
+      "name": "Draw a Stickman: EPIC",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:47:56.134886"
+    },
+    "248820": {
+      "appid": 248820,
+      "name": "Risk of Rain (2013)",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:47:56.589931"
+    },
+    "248860": {
+      "appid": 248860,
+      "name": "NEO Scavenger",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:47:56.694986"
+    },
+    "248970": {
+      "appid": 248970,
+      "name": "Vector",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:47:56.814530"
+    },
+    "249050": {
+      "appid": 249050,
+      "name": "Dungeon of the ENDLESS™",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:47:56.943864"
+    },
+    "249190": {
+      "appid": 249190,
+      "name": "Ancient Space",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:47:57.204411"
+    },
+    "249230": {
+      "appid": 249230,
+      "name": "Risen 3 - Titan Lords",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:47:57.308688"
+    },
+    "249330": {
+      "appid": 249330,
+      "name": "Unholy Heights",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:47:57.407763"
+    },
+    "249590": {
+      "appid": 249590,
+      "name": "Teslagrad",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:47:57.849982"
+    },
+    "249610": {
+      "appid": 249610,
+      "name": "Galactic Arms Race",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:47:57.980231"
+    },
+    "249650": {
+      "appid": 249650,
+      "name": "Blackguards",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:47:58.266331"
+    },
+    "249870": {
+      "appid": 249870,
+      "name": "Scribblenauts Unmasked: A DC Comics Adventure",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:47:58.505598"
+    },
+    "249990": {
+      "appid": 249990,
+      "name": "FORCED: Slightly Better Edition",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:47:58.868109"
+    },
+    "250030": {
+      "appid": 250030,
+      "name": "Lilly Looking Through",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:47:58.983017"
+    },
+    "250050": {
+      "appid": 250050,
+      "name": "Life Goes On: Done to Death",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:47:59.091825"
+    },
+    "250110": {
+      "appid": 250110,
+      "name": "Assault Android Cactus+",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:47:59.312012"
+    },
+    "250180": {
+      "appid": 250180,
+      "name": "METAL SLUG 3",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:47:59.478974"
+    },
+    "250260": {
+      "appid": 250260,
+      "name": "Jazzpunk: Director's Cut",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:47:59.598819"
+    },
+    "250340": {
+      "appid": 250340,
+      "name": "Blockland",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:47:59.857585"
+    },
+    "250380": {
+      "appid": 250380,
+      "name": "Knock-knock",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:48:00.137814"
+    },
+    "250400": {
+      "appid": 250400,
+      "name": "How to Survive",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:48:00.285872"
+    },
+    "250420": {
+      "appid": 250420,
+      "name": "8BitMMO",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:48:00.425820"
+    },
+    "250560": {
+      "appid": 250560,
+      "name": "Fight The Dragon",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:48:01.028655"
+    },
+    "250580": {
+      "appid": 250580,
+      "name": "Paranautical Activity: Deluxe Atonement Edition",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:48:01.148128"
     }
   }
 }
