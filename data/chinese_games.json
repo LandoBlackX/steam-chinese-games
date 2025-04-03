@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-03T17:40:19.398341"
+    "updated": "2025-04-03T17:49:02.941095"
   },
   "games": {
     "570": {
@@ -39416,6 +39416,126 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-04-03T17:40:18.668962"
+    },
+    "204240": {
+      "appid": 204240,
+      "name": "The Bridge",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:48:40.967930"
+    },
+    "204300": {
+      "appid": 204300,
+      "name": "Awesomenauts - the 2D moba",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:48:41.110139"
+    },
+    "204360": {
+      "appid": 204360,
+      "name": "Castle Crashers®",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:48:41.389755"
+    },
+    "204880": {
+      "appid": 204880,
+      "name": "Sins of a Solar Empire®: Rebellion",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:48:42.873318"
+    },
+    "205250": {
+      "appid": 205250,
+      "name": "3DMark Vantage",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-03T17:48:44.140557"
+    },
+    "205270": {
+      "appid": 205270,
+      "name": "3DMark 11",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-03T17:48:44.273242"
+    },
+    "205650": {
+      "appid": 205650,
+      "name": "The Testament of Sherlock Holmes",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:48:44.896767"
+    },
+    "206440": {
+      "appid": 206440,
+      "name": "To the Moon《去月球》",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:48:47.998778"
+    },
+    "206500": {
+      "appid": 206500,
+      "name": "AirMech",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:48:48.298103"
+    },
+    "206610": {
+      "appid": 206610,
+      "name": "3SwitcheD",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:48:48.434707"
+    },
+    "207080": {
+      "appid": 207080,
+      "name": "Indie Game: The Movie",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:48:49.348398"
+    },
+    "207140": {
+      "appid": 207140,
+      "name": "SpeedRunners",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:48:49.499616"
+    },
+    "207690": {
+      "appid": 207690,
+      "name": "植物精灵 (Botanicula)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:48:51.743737"
+    },
+    "208480": {
+      "appid": 208480,
+      "name": "Assassin’s Creed® III",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-03T17:48:53.376940"
+    },
+    "210970": {
+      "appid": 210970,
+      "name": "The Witness",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-03T17:49:00.731230"
     }
   }
 }

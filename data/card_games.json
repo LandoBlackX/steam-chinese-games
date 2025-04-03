@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-03T17:40:19.398341"
+    "updated": "2025-04-03T17:49:02.941095"
   },
   "games": {
     "570": {
@@ -2254,6 +2254,398 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-04-03T17:40:19.258760"
+    },
+    "204240": {
+      "appid": 204240,
+      "name": "The Bridge",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:48:40.967930"
+    },
+    "204300": {
+      "appid": 204300,
+      "name": "Awesomenauts - the 2D moba",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:48:41.110139"
+    },
+    "204360": {
+      "appid": 204360,
+      "name": "Castle Crashers®",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:48:41.389755"
+    },
+    "204450": {
+      "appid": 204450,
+      "name": "Call of Juarez: Gunslinger",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:48:41.831558"
+    },
+    "204530": {
+      "appid": 204530,
+      "name": "Infested Planet",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:48:42.104260"
+    },
+    "204630": {
+      "appid": 204630,
+      "name": "Retro City Rampage™ DX",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:48:42.556510"
+    },
+    "204880": {
+      "appid": 204880,
+      "name": "Sins of a Solar Empire®: Rebellion",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:48:42.873318"
+    },
+    "205080": {
+      "appid": 205080,
+      "name": "BIT.TRIP FATE",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:48:43.671389"
+    },
+    "205610": {
+      "appid": 205610,
+      "name": "Port Royale 3",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:48:44.753466"
+    },
+    "205650": {
+      "appid": 205650,
+      "name": "The Testament of Sherlock Holmes",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:48:44.896767"
+    },
+    "205910": {
+      "appid": 205910,
+      "name": "Tiny and Big: Grandpa's Leftovers",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:48:46.164470"
+    },
+    "205990": {
+      "appid": 205990,
+      "name": "Warlock 2: The Exiled",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:48:46.471884"
+    },
+    "206190": {
+      "appid": 206190,
+      "name": "Gunpoint",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:48:47.032626"
+    },
+    "206370": {
+      "appid": 206370,
+      "name": "Tales From Space: Mutant Blobs Attack",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:48:47.463768"
+    },
+    "206420": {
+      "appid": 206420,
+      "name": "Saints Row IV: Re-Elected",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:48:47.848316"
+    },
+    "206440": {
+      "appid": 206440,
+      "name": "To the Moon《去月球》",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:48:47.998778"
+    },
+    "206500": {
+      "appid": 206500,
+      "name": "AirMech",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:48:48.298103"
+    },
+    "206610": {
+      "appid": 206610,
+      "name": "3SwitcheD",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:48:48.434707"
+    },
+    "207080": {
+      "appid": 207080,
+      "name": "Indie Game: The Movie",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:48:49.348398"
+    },
+    "207140": {
+      "appid": 207140,
+      "name": "SpeedRunners",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:48:49.499616"
+    },
+    "207230": {
+      "appid": 207230,
+      "name": "ArcheBlade™",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:48:49.994121"
+    },
+    "207320": {
+      "appid": 207320,
+      "name": "Ys: The Oath in Felghana",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:48:50.366231"
+    },
+    "207350": {
+      "appid": 207350,
+      "name": "Ys Origin",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:48:50.501621"
+    },
+    "207420": {
+      "appid": 207420,
+      "name": "Wizorb",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:48:50.636155"
+    },
+    "207430": {
+      "appid": 207430,
+      "name": "Hack, Slash, Loot",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:48:50.778632"
+    },
+    "207530": {
+      "appid": 207530,
+      "name": "Noitu Love 2: Devolution",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:48:51.055525"
+    },
+    "207610": {
+      "appid": 207610,
+      "name": "The Walking Dead",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:48:51.328077"
+    },
+    "207650": {
+      "appid": 207650,
+      "name": "A Virus Named TOM",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:48:51.480166"
+    },
+    "207690": {
+      "appid": 207690,
+      "name": "植物精灵 (Botanicula)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:48:51.743737"
+    },
+    "208140": {
+      "appid": 208140,
+      "name": "ENDLESS™ Space - Definitive Edition",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:48:52.797535"
+    },
+    "208520": {
+      "appid": 208520,
+      "name": "Omerta - City of Gangsters",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:48:53.548282"
+    },
+    "208600": {
+      "appid": 208600,
+      "name": "Lunar Flight",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:48:53.915880"
+    },
+    "208650": {
+      "appid": 208650,
+      "name": "Batman™: Arkham Knight",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:48:54.510535"
+    },
+    "208750": {
+      "appid": 208750,
+      "name": "Apotheon",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:48:55.159185"
+    },
+    "209000": {
+      "appid": 209000,
+      "name": "Batman™: Arkham Origins",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:48:55.343484"
+    },
+    "209060": {
+      "appid": 209060,
+      "name": "Drunken Robot Pornography",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:48:55.496388"
+    },
+    "209080": {
+      "appid": 209080,
+      "name": "Guns of Icarus Online",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:48:55.642279"
+    },
+    "209190": {
+      "appid": 209190,
+      "name": "Stealth Bastard Deluxe",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:48:56.669259"
+    },
+    "209330": {
+      "appid": 209330,
+      "name": "A Valley Without Wind",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:48:57.097704"
+    },
+    "209520": {
+      "appid": 209520,
+      "name": "Mini Motor Racing EVO",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:48:57.678207"
+    },
+    "209540": {
+      "appid": 209540,
+      "name": "Strike Suit Zero",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:48:57.842970"
+    },
+    "209670": {
+      "appid": 209670,
+      "name": "Cortex Command",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:48:58.659195"
+    },
+    "209870": {
+      "appid": 209870,
+      "name": "Blacklight: Retribution",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:48:59.707174"
+    },
+    "209950": {
+      "appid": 209950,
+      "name": "Triple Town",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:48:59.844236"
+    },
+    "210170": {
+      "appid": 210170,
+      "name": "Spirits",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:48:59.976182"
+    },
+    "210550": {
+      "appid": 210550,
+      "name": "Angry Birds Space",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:49:00.272684"
+    },
+    "210770": {
+      "appid": 210770,
+      "name": "Sanctum 2",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:49:00.462402"
+    },
+    "211010": {
+      "appid": 211010,
+      "name": "Alien Shooter 2 Conscription",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:49:00.862361"
+    },
+    "211260": {
+      "appid": 211260,
+      "name": "They Bleed Pixels",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:49:02.939447"
     }
   }
 }
