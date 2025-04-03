@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-03T23:46:16.299482"
+    "updated": "2025-04-03T23:59:19.081082"
   },
   "games": {
     "570": {
@@ -44344,6 +44344,166 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-03T23:46:16.297635"
+    },
+    "352550": {
+      "appid": 352550,
+      "name": "Urban Empire",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T23:59:05.075346"
+    },
+    "352720": {
+      "appid": 352720,
+      "name": "The Universim",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T23:59:05.857351"
+    },
+    "352760": {
+      "appid": 352760,
+      "name": "Kaiju Panic",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T23:59:06.283387"
+    },
+    "352850": {
+      "appid": 352850,
+      "name": "DGU: Death God University",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-03T23:59:06.833458"
+    },
+    "352890": {
+      "appid": 352890,
+      "name": "Caravan",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T23:59:06.949787"
+    },
+    "352950": {
+      "appid": 352950,
+      "name": "Better Late Than DEAD",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-03T23:59:07.314645"
+    },
+    "352960": {
+      "appid": 352960,
+      "name": "Star Horizon",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T23:59:07.443092"
+    },
+    "353270": {
+      "appid": 353270,
+      "name": "Hyperdimension Neptunia Re;Birth3 V Generation",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T23:59:08.309825"
+    },
+    "353380": {
+      "appid": 353380,
+      "name": "Steam Link",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-03T23:59:09.035038"
+    },
+    "353560": {
+      "appid": 353560,
+      "name": "即插即玩",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-03T23:59:09.429375"
+    },
+    "353640": {
+      "appid": 353640,
+      "name": "Train Valley",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T23:59:10.111236"
+    },
+    "353700": {
+      "appid": 353700,
+      "name": "The Deadly Tower of Monsters",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T23:59:10.246604"
+    },
+    "353940": {
+      "appid": 353940,
+      "name": "Aces of the Luftwaffe",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-03T23:59:10.661918"
+    },
+    "354240": {
+      "appid": 354240,
+      "name": "Please, Don’t Touch Anything",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T23:59:12.174281"
+    },
+    "354380": {
+      "appid": 354380,
+      "name": "Assassin’s Creed® Chronicles: China",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T23:59:12.682804"
+    },
+    "355050": {
+      "appid": 355050,
+      "name": "Sky Force Anniversary",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T23:59:16.217342"
+    },
+    "355060": {
+      "appid": 355060,
+      "name": "Sébastien Loeb Rally EVO",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T23:59:16.347374"
+    },
+    "355130": {
+      "appid": 355130,
+      "name": "MotoGP™15",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T23:59:17.562857"
+    },
+    "355180": {
+      "appid": 355180,
+      "name": "Codename CURE",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-03T23:59:18.287395"
+    },
+    "355280": {
+      "appid": 355280,
+      "name": "Brave Furries",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T23:59:19.078700"
     }
   }
 }
