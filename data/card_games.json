@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-03T17:52:58.392276"
+    "updated": "2025-04-03T18:23:21.777167"
   },
   "games": {
     "570": {
@@ -3158,6 +3158,614 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-04-03T17:52:58.390577"
+    },
+    "220200": {
+      "appid": 220200,
+      "name": "Kerbal Space Program",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:22:50.341294"
+    },
+    "220260": {
+      "appid": 220260,
+      "name": "Farming Simulator 2013 Titanium Edition",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:22:50.725250"
+    },
+    "220440": {
+      "appid": 220440,
+      "name": "DmC: Devil May Cry",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:22:51.106433"
+    },
+    "220460": {
+      "appid": 220460,
+      "name": "Cargo Commander",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:22:51.319714"
+    },
+    "220660": {
+      "appid": 220660,
+      "name": "StarDrive",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:22:51.497074"
+    },
+    "220700": {
+      "appid": 220700,
+      "name": "RPG Maker VX Ace",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:22:52.657200"
+    },
+    "220740": {
+      "appid": 220740,
+      "name": "Chaos on Deponia",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:22:53.052774"
+    },
+    "220820": {
+      "appid": 220820,
+      "name": "Zombie Driver HD",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:22:53.442369"
+    },
+    "220860": {
+      "appid": 220860,
+      "name": "McPixel",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:22:53.611310"
+    },
+    "220900": {
+      "appid": 220900,
+      "name": "Jack Lumber",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:22:53.792231"
+    },
+    "221040": {
+      "appid": 221040,
+      "name": "Resident Evil 6",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:22:54.529513"
+    },
+    "221260": {
+      "appid": 221260,
+      "name": "小小炼狱",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:22:55.275923"
+    },
+    "221380": {
+      "appid": 221380,
+      "name": "Age of Empires II (Retired)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:22:55.467430"
+    },
+    "221540": {
+      "appid": 221540,
+      "name": "DG2: Defense Grid 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:22:55.779388"
+    },
+    "221680": {
+      "appid": 221680,
+      "name": "Rocksmith® 2014 Edition REMASTERED LEARN & PLAY",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:23:00.358912"
+    },
+    "222140": {
+      "appid": 222140,
+      "name": "Puddle",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:23:01.374500"
+    },
+    "222160": {
+      "appid": 222160,
+      "name": "Hamlet or the Last Game without MMORPG Features, Shaders and Product Placement",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:23:01.574003"
+    },
+    "222180": {
+      "appid": 222180,
+      "name": "Mushroom Men: Truffle Trouble",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:23:01.773730"
+    },
+    "222420": {
+      "appid": 222420,
+      "name": "THE KING OF FIGHTERS '98 ULTIMATE MATCH FINAL EDITION",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:23:01.978971"
+    },
+    "222440": {
+      "appid": 222440,
+      "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:23:02.180761"
+    },
+    "222480": {
+      "appid": 222480,
+      "name": "Resident Evil Revelations",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:23:02.378988"
+    },
+    "222606": {
+      "appid": 222606,
+      "name": "Train Simulator: Pacific Surfliner® LA - San Diego Route",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:23:02.938926"
+    },
+    "222615": {
+      "appid": 222615,
+      "name": "Train Simulator: West Somerset Railway Route Add-On",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:23:03.117710"
+    },
+    "222618": {
+      "appid": 222618,
+      "name": "Train Simulator: East Coast Main Line London-Peterborough Route Add-On",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:23:03.326139"
+    },
+    "222640": {
+      "appid": 222640,
+      "name": "Aarklash: Legacy",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:23:03.535663"
+    },
+    "222660": {
+      "appid": 222660,
+      "name": "Retro/Grade",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:23:03.738536"
+    },
+    "222730": {
+      "appid": 222730,
+      "name": "Reus",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:23:03.919184"
+    },
+    "222750": {
+      "appid": 222750,
+      "name": "Wargame: Airland Battle",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:23:04.106826"
+    },
+    "222880": {
+      "appid": 222880,
+      "name": "Insurgency",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:23:04.513477"
+    },
+    "222940": {
+      "appid": 222940,
+      "name": "THE KING OF FIGHTERS XIII STEAM EDITION",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:23:04.730485"
+    },
+    "223100": {
+      "appid": 223100,
+      "name": "Homefront®: The Revolution",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:23:05.329144"
+    },
+    "223220": {
+      "appid": 223220,
+      "name": "Giana Sisters: Twisted Dreams",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:23:05.587570"
+    },
+    "223330": {
+      "appid": 223330,
+      "name": "Sea Dogs: To Each His Own",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:23:05.998603"
+    },
+    "223410": {
+      "appid": 223410,
+      "name": "Perpetuum",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:23:06.191764"
+    },
+    "223470": {
+      "appid": 223470,
+      "name": "POSTAL 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:23:06.787540"
+    },
+    "223630": {
+      "appid": 223630,
+      "name": "AirBuccaneers",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:23:07.405626"
+    },
+    "223730": {
+      "appid": 223730,
+      "name": "Fly'N",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:23:07.888797"
+    },
+    "223810": {
+      "appid": 223810,
+      "name": "Ys I & II Chronicles+",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:23:08.337496"
+    },
+    "223830": {
+      "appid": 223830,
+      "name": "Xenonauts",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:23:08.532942"
+    },
+    "223850": {
+      "appid": 223850,
+      "name": "3DMark",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:23:08.733264"
+    },
+    "223870": {
+      "appid": 223870,
+      "name": "Ys I & II Chronicles+",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:23:08.935215"
+    },
+    "224460": {
+      "appid": 224460,
+      "name": "Contrast",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:23:10.197218"
+    },
+    "224480": {
+      "appid": 224480,
+      "name": "Octodad: Dadliest Catch",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:23:10.374935"
+    },
+    "224500": {
+      "appid": 224500,
+      "name": "Gnomoria",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:23:10.551002"
+    },
+    "224740": {
+      "appid": 224740,
+      "name": "Clockwork Empires",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:23:10.752081"
+    },
+    "224820": {
+      "appid": 224820,
+      "name": "Super House of Dead Ninjas",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:23:11.157994"
+    },
+    "224860": {
+      "appid": 224860,
+      "name": "Arma Tactics",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:23:11.396082"
+    },
+    "225160": {
+      "appid": 225160,
+      "name": "Shadow Warrior Classic Redux",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:23:12.936170"
+    },
+    "225260": {
+      "appid": 225260,
+      "name": "Brutal Legend",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:23:13.134098"
+    },
+    "225280": {
+      "appid": 225280,
+      "name": "Full Mojo Rampage",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:23:13.400045"
+    },
+    "225360": {
+      "appid": 225360,
+      "name": "DARK",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:23:14.003677"
+    },
+    "225420": {
+      "appid": 225420,
+      "name": "Cities in Motion 2",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:23:14.282509"
+    },
+    "225540": {
+      "appid": 225540,
+      "name": "Just Cause™ 3",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:23:14.499221"
+    },
+    "225600": {
+      "appid": 225600,
+      "name": "Blade Symphony",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:23:14.703311"
+    },
+    "226100": {
+      "appid": 226100,
+      "name": "PixelJunk™ Nom Nom Galaxy",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:23:15.227380"
+    },
+    "226280": {
+      "appid": 226280,
+      "name": "Warp Frontier",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:23:15.574702"
+    },
+    "226560": {
+      "appid": 226560,
+      "name": "Escape Dead Island",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:23:15.843832"
+    },
+    "226620": {
+      "appid": 226620,
+      "name": "Desktop Dungeons",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:23:16.024755"
+    },
+    "226720": {
+      "appid": 226720,
+      "name": "LOST PLANET® 3",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:23:16.421476"
+    },
+    "226740": {
+      "appid": 226740,
+      "name": "Monster Loves You!",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:23:16.644696"
+    },
+    "226840": {
+      "appid": 226840,
+      "name": "Age of Wonders III",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:23:17.227285"
+    },
+    "226860": {
+      "appid": 226860,
+      "name": "Galactic Civilizations III",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:23:17.441476"
+    },
+    "226960": {
+      "appid": 226960,
+      "name": "Ironclad Tactics",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:23:17.666397"
+    },
+    "227000": {
+      "appid": 227000,
+      "name": "Primordia",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:23:17.844224"
+    },
+    "227020": {
+      "appid": 227020,
+      "name": "Rise of Venice",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:23:18.031880"
+    },
+    "227060": {
+      "appid": 227060,
+      "name": "Hegemony Rome: The Rise of Caesar",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:23:18.273091"
+    },
+    "227100": {
+      "appid": 227100,
+      "name": "Sniper Elite: Nazi Zombie Army",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:23:18.667022"
+    },
+    "227160": {
+      "appid": 227160,
+      "name": "Kinetic Void",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:23:18.843411"
+    },
+    "227180": {
+      "appid": 227180,
+      "name": "Kingdom Wars",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:23:19.028710"
+    },
+    "227220": {
+      "appid": 227220,
+      "name": "Sang-Froid - Tales of Werewolves",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:23:19.380664"
+    },
+    "227300": {
+      "appid": 227300,
+      "name": "Euro Truck Simulator 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:23:19.801538"
+    },
+    "227560": {
+      "appid": 227560,
+      "name": "Scourge: Outbreak",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:23:20.185619"
+    },
+    "227580": {
+      "appid": 227580,
+      "name": "10,000,000",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:23:20.365153"
+    },
+    "227760": {
+      "appid": 227760,
+      "name": "March of the Eagles",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:23:20.786531"
+    },
+    "227800": {
+      "appid": 227800,
+      "name": "Retrovirus",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:23:21.231973"
+    },
+    "228200": {
+      "appid": 228200,
+      "name": "Company of Heroes",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:23:21.774936"
     }
   }
 }

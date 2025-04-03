@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-03T17:52:58.392276"
+    "updated": "2025-04-03T18:23:21.777167"
   },
   "games": {
     "570": {
@@ -39648,6 +39648,238 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-03T17:52:58.262763"
+    },
+    "220160": {
+      "appid": 220160,
+      "name": "Trials Evolution: Gold Edition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-03T18:22:50.146908"
+    },
+    "220200": {
+      "appid": 220200,
+      "name": "Kerbal Space Program",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:22:50.341294"
+    },
+    "220240": {
+      "appid": 220240,
+      "name": "Far Cry 3",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-03T18:22:50.519213"
+    },
+    "221100": {
+      "appid": 221100,
+      "name": "DayZ",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-03T18:22:54.704092"
+    },
+    "221260": {
+      "appid": 221260,
+      "name": "小小炼狱",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:22:55.275923"
+    },
+    "221380": {
+      "appid": 221380,
+      "name": "Age of Empires II (Retired)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:22:55.467430"
+    },
+    "221540": {
+      "appid": 221540,
+      "name": "DG2: Defense Grid 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:22:55.779388"
+    },
+    "222480": {
+      "appid": 222480,
+      "name": "Resident Evil Revelations",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:23:02.378988"
+    },
+    "222730": {
+      "appid": 222730,
+      "name": "Reus",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:23:03.919184"
+    },
+    "222750": {
+      "appid": 222750,
+      "name": "Wargame: Airland Battle",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:23:04.106826"
+    },
+    "222880": {
+      "appid": 222880,
+      "name": "Insurgency",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:23:04.513477"
+    },
+    "222940": {
+      "appid": 222940,
+      "name": "THE KING OF FIGHTERS XIII STEAM EDITION",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:23:04.730485"
+    },
+    "223470": {
+      "appid": 223470,
+      "name": "POSTAL 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:23:06.787540"
+    },
+    "223750": {
+      "appid": 223750,
+      "name": "DCS World Steam Edition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-03T18:23:08.162286"
+    },
+    "223850": {
+      "appid": 223850,
+      "name": "3DMark",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:23:08.733264"
+    },
+    "224260": {
+      "appid": 224260,
+      "name": "No More Room in Hell",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-03T18:23:09.515805"
+    },
+    "224480": {
+      "appid": 224480,
+      "name": "Octodad: Dadliest Catch",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:23:10.374935"
+    },
+    "224760": {
+      "appid": 224760,
+      "name": "FEZ",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-03T18:23:10.942376"
+    },
+    "225080": {
+      "appid": 225080,
+      "name": "Brothers - A Tale of Two Sons",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-03T18:23:12.711988"
+    },
+    "225600": {
+      "appid": 225600,
+      "name": "Blade Symphony",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:23:14.703311"
+    },
+    "226280": {
+      "appid": 226280,
+      "name": "Warp Frontier",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:23:15.574702"
+    },
+    "226620": {
+      "appid": 226620,
+      "name": "Desktop Dungeons",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:23:16.024755"
+    },
+    "226700": {
+      "appid": 226700,
+      "name": "Infestation: The New Beginning",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-03T18:23:16.216873"
+    },
+    "227020": {
+      "appid": 227020,
+      "name": "Rise of Venice",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:23:18.031880"
+    },
+    "227260": {
+      "appid": 227260,
+      "name": "DisplayFusion",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-03T18:23:19.555467"
+    },
+    "227300": {
+      "appid": 227300,
+      "name": "Euro Truck Simulator 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:23:19.801538"
+    },
+    "227580": {
+      "appid": 227580,
+      "name": "10,000,000",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:23:20.365153"
+    },
+    "228180": {
+      "appid": 228180,
+      "name": "Action! - Gameplay Recording and Streaming",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-03T18:23:21.592491"
+    },
+    "228200": {
+      "appid": 228200,
+      "name": "Company of Heroes",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:23:21.774936"
     }
   }
 }
