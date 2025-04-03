@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-03T22:16:16.957188"
+    "updated": "2025-04-03T22:36:43.708513"
   },
   "games": {
     "570": {
@@ -43648,6 +43648,134 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-04-03T22:16:16.955451"
+    },
+    "338120": {
+      "appid": 338120,
+      "name": "Marble Duel: Sphere-Matching Tactical Fantasy",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T22:36:29.365832"
+    },
+    "338290": {
+      "appid": 338290,
+      "name": "Molecats",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T22:36:30.150583"
+    },
+    "338810": {
+      "appid": 338810,
+      "name": "Demise of Nations",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T22:36:32.364072"
+    },
+    "338960": {
+      "appid": 338960,
+      "name": "Rescue Team",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T22:36:32.963340"
+    },
+    "339090": {
+      "appid": 339090,
+      "name": "Pig Eat Ball",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T22:36:33.477525"
+    },
+    "339200": {
+      "appid": 339200,
+      "name": "Oceanhorn: Monster of Uncharted Seas",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T22:36:34.091873"
+    },
+    "339340": {
+      "appid": 339340,
+      "name": "Resident Evil 0",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T22:36:35.029641"
+    },
+    "339400": {
+      "appid": 339400,
+      "name": "Runestone Keeper",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T22:36:35.224315"
+    },
+    "339600": {
+      "appid": 339600,
+      "name": "VEGA Conflict",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-03T22:36:36.361333"
+    },
+    "339700": {
+      "appid": 339700,
+      "name": "I, Gladiator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T22:36:36.875217"
+    },
+    "339830": {
+      "appid": 339830,
+      "name": "The Church in the Darkness ™",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T22:36:37.738418"
+    },
+    "340150": {
+      "appid": 340150,
+      "name": "Basement",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T22:36:38.889777"
+    },
+    "340170": {
+      "appid": 340170,
+      "name": "FINAL FANTASY TYPE-0™ HD",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T22:36:39.024113"
+    },
+    "340460": {
+      "appid": 340460,
+      "name": "Spartans Vs Zombies Defense",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-03T22:36:41.335271"
+    },
+    "340490": {
+      "appid": 340490,
+      "name": "Subterrain",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T22:36:41.795047"
+    },
+    "340520": {
+      "appid": 340520,
+      "name": "Tallowmere",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T22:36:42.035576"
     }
   }
 }
