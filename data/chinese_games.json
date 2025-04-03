@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-03T17:49:02.941095"
+    "updated": "2025-04-03T17:52:58.392276"
   },
   "games": {
     "570": {
@@ -39536,6 +39536,118 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-04-03T17:49:00.731230"
+    },
+    "212010": {
+      "appid": 212010,
+      "name": "Galaxy on Fire 2™ Full HD",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-03T17:52:43.848145"
+    },
+    "212070": {
+      "appid": 212070,
+      "name": "Star Conflict",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:52:44.421832"
+    },
+    "214340": {
+      "appid": 214340,
+      "name": "Deponia",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:52:47.359605"
+    },
+    "214420": {
+      "appid": 214420,
+      "name": "Gear Up",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:52:47.585577"
+    },
+    "215510": {
+      "appid": 215510,
+      "name": "Rocketbirds: Hardboiled Chicken",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:52:50.579462"
+    },
+    "217920": {
+      "appid": 217920,
+      "name": "Alien Rage - Unlimited",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-03T17:52:54.367038"
+    },
+    "218230": {
+      "appid": 218230,
+      "name": "PlanetSide 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:52:54.922327"
+    },
+    "218410": {
+      "appid": 218410,
+      "name": "Defender's Quest: Valley of the Forgotten (DX edition)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:52:55.049017"
+    },
+    "218620": {
+      "appid": 218620,
+      "name": "PAYDAY 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:52:55.464690"
+    },
+    "218640": {
+      "appid": 218640,
+      "name": "Lucius",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:52:55.575867"
+    },
+    "218760": {
+      "appid": 218760,
+      "name": "Mixcraft 8 Home Studio",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-03T17:52:56.354994"
+    },
+    "219640": {
+      "appid": 219640,
+      "name": "Chivalry: Medieval Warfare",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:52:57.009953"
+    },
+    "219740": {
+      "appid": 219740,
+      "name": "饥荒",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:52:57.399508"
+    },
+    "219990": {
+      "appid": 219990,
+      "name": "Grim Dawn",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:52:58.262763"
     }
   }
 }
