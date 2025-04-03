@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-03T19:58:48.422227"
+    "updated": "2025-04-03T20:05:17.587307"
   },
   "games": {
     "570": {
@@ -41904,6 +41904,110 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-04-03T19:58:47.329187"
+    },
+    "290890": {
+      "appid": 290890,
+      "name": "You Must Build A Boat",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-03T20:04:56.142931"
+    },
+    "291480": {
+      "appid": 291480,
+      "name": "Warface: Clutch",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:04:58.488387"
+    },
+    "291550": {
+      "appid": 291550,
+      "name": "Brawlhalla",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:04:58.658166"
+    },
+    "291860": {
+      "appid": 291860,
+      "name": "Pit People®",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:05:00.932924"
+    },
+    "292000": {
+      "appid": 292000,
+      "name": "No More Room in Hell 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-03T20:05:01.695308"
+    },
+    "292500": {
+      "appid": 292500,
+      "name": "青蛙爆破者",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:05:07.107360"
+    },
+    "292600": {
+      "appid": 292600,
+      "name": "Duet",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:05:07.489823"
+    },
+    "292730": {
+      "appid": 292730,
+      "name": "Call of Duty®: Infinite Warfare",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-03T20:05:08.148295"
+    },
+    "292990": {
+      "appid": 292990,
+      "name": "NOBUNAGA'S AMBITION: Souzou",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-03T20:05:10.058109"
+    },
+    "293660": {
+      "appid": 293660,
+      "name": "TRI：友情与癫狂的魔法三角",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:05:12.168601"
+    },
+    "293760": {
+      "appid": 293760,
+      "name": "Automation - The Car Company Tycoon Game",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-03T20:05:12.985216"
+    },
+    "294100": {
+      "appid": 294100,
+      "name": "RimWorld",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-03T20:05:15.223857"
+    },
+    "294230": {
+      "appid": 294230,
+      "name": "Millie",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:05:15.709327"
     }
   }
 }
