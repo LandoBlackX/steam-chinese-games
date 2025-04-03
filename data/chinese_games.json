@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-03T23:32:39.854077"
+    "updated": "2025-04-03T23:46:16.299482"
   },
   "games": {
     "570": {
@@ -44192,6 +44192,158 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-04-03T23:32:39.281339"
+    },
+    "349260": {
+      "appid": 349260,
+      "name": "BlastZone 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T23:45:58.953837"
+    },
+    "349270": {
+      "appid": 349270,
+      "name": "Mosaic",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-03T23:45:59.113320"
+    },
+    "349320": {
+      "appid": 349320,
+      "name": "The Rainy Port Keelung 雨港基隆",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T23:45:59.485059"
+    },
+    "349510": {
+      "appid": 349510,
+      "name": "Hanako: Honor & Blade",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-03T23:46:00.354244"
+    },
+    "349760": {
+      "appid": 349760,
+      "name": "Snail Bob 2: Tiny Troubles",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T23:46:01.956747"
+    },
+    "349780": {
+      "appid": 349780,
+      "name": "Fatty Maze's Adventures",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-03T23:46:02.118420"
+    },
+    "350010": {
+      "appid": 350010,
+      "name": "Time Mysteries: Inheritance - Remastered",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T23:46:03.139012"
+    },
+    "350640": {
+      "appid": 350640,
+      "name": "Sherlock Holmes: The Devil's Daughter",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T23:46:06.433807"
+    },
+    "350740": {
+      "appid": 350740,
+      "name": "The Bug Butcher",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T23:46:06.904105"
+    },
+    "350970": {
+      "appid": 350970,
+      "name": "Planet of the Eyes",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T23:46:07.919466"
+    },
+    "351030": {
+      "appid": 351030,
+      "name": "Pixel Puzzles Ultimate Jigsaw Puzzles",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T23:46:08.606291"
+    },
+    "351100": {
+      "appid": 351100,
+      "name": "Niffelheim",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T23:46:09.627126"
+    },
+    "351490": {
+      "appid": 351490,
+      "name": "Intergalactic Bubbles",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T23:46:12.760197"
+    },
+    "351640": {
+      "appid": 351640,
+      "name": "Eternal Senia",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-03T23:46:13.164427"
+    },
+    "351710": {
+      "appid": 351710,
+      "name": "Hyperdimension Neptunia Re;Birth2: Sisters Generation",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T23:46:13.667987"
+    },
+    "351910": {
+      "appid": 351910,
+      "name": "Valhalla Hills",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T23:46:15.173911"
+    },
+    "351920": {
+      "appid": 351920,
+      "name": "疯狂机器3 - Crazy Machines 3",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T23:46:15.311676"
+    },
+    "351970": {
+      "appid": 351970,
+      "name": "Tales of Zestiria",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T23:46:15.602641"
+    },
+    "352120": {
+      "appid": 352120,
+      "name": "Fair Strike",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T23:46:16.297635"
     }
   }
 }
