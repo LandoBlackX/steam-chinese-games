@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-03T20:25:26.906787"
+    "updated": "2025-04-03T20:33:53.500563"
   },
   "games": {
     "570": {
@@ -42592,6 +42592,134 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-04-03T20:25:25.102370"
+    },
+    "312520": {
+      "appid": 312520,
+      "name": "雨世界",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:33:36.904455"
+    },
+    "312610": {
+      "appid": 312610,
+      "name": "METAL SLUG X",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:33:37.697025"
+    },
+    "312650": {
+      "appid": 312650,
+      "name": "Battlezone Gold Edition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:33:38.160164"
+    },
+    "312660": {
+      "appid": 312660,
+      "name": "Sniper Elite 4",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:33:38.330960"
+    },
+    "312670": {
+      "appid": 312670,
+      "name": "Strange Brigade",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:33:38.496767"
+    },
+    "312750": {
+      "appid": 312750,
+      "name": "Final Fantasy IV (3D Remake)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:33:38.777163"
+    },
+    "313010": {
+      "appid": 313010,
+      "name": "Cities XXL",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:33:40.358620"
+    },
+    "313160": {
+      "appid": 313160,
+      "name": "Farming Simulator 15",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:33:41.432480"
+    },
+    "313340": {
+      "appid": 313340,
+      "name": "Mountain",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:33:42.109197"
+    },
+    "313650": {
+      "appid": 313650,
+      "name": "Time Mysteries 2: The Ancient Spectres",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:33:43.549954"
+    },
+    "313780": {
+      "appid": 313780,
+      "name": "Conarium",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:33:44.459472"
+    },
+    "314150": {
+      "appid": 314150,
+      "name": "Double Dragon Trilogy",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:33:46.422498"
+    },
+    "314460": {
+      "appid": 314460,
+      "name": "Jamsouls",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:33:50.718240"
+    },
+    "314650": {
+      "appid": 314650,
+      "name": "SpaceEngine",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-03T20:33:52.579117"
+    },
+    "314710": {
+      "appid": 314710,
+      "name": "Mighty No. 9",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:33:52.882429"
+    },
+    "314790": {
+      "appid": 314790,
+      "name": "Silence",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:33:53.498683"
     }
   }
 }
