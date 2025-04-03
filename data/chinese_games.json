@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-03T18:48:01.255839"
+    "updated": "2025-04-03T19:00:54.948750"
   },
   "games": {
     "570": {
@@ -40528,6 +40528,158 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-04-03T18:48:00.918130"
+    },
+    "250620": {
+      "appid": 250620,
+      "name": "Among the Sleep - Enhanced Edition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:00:31.211534"
+    },
+    "250640": {
+      "appid": 250640,
+      "name": "[Old Edition] Croixleur Sigma",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:00:31.385696"
+    },
+    "250760": {
+      "appid": 250760,
+      "name": "Shovel Knight: Treasure Trove",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:00:32.030117"
+    },
+    "250820": {
+      "appid": 250820,
+      "name": "SteamVR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-03T19:00:32.139469"
+    },
+    "251060": {
+      "appid": 251060,
+      "name": "Wargame: Red Dragon",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:00:32.524667"
+    },
+    "251450": {
+      "appid": 251450,
+      "name": "Heroes of Havoc: Idle Adventures",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-03T19:00:34.183245"
+    },
+    "251510": {
+      "appid": 251510,
+      "name": "Constant C",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:00:34.621141"
+    },
+    "251570": {
+      "appid": 251570,
+      "name": "7 Days to Die",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:00:34.875460"
+    },
+    "252110": {
+      "appid": 252110,
+      "name": "Lovers in a Dangerous Spacetime",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:00:37.664046"
+    },
+    "252330": {
+      "appid": 252330,
+      "name": "Slender: The Arrival",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:00:38.664024"
+    },
+    "252470": {
+      "appid": 252470,
+      "name": "Space Pirates And Zombies 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:00:39.569189"
+    },
+    "252490": {
+      "appid": 252490,
+      "name": "Rust",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:00:39.712531"
+    },
+    "252670": {
+      "appid": 252670,
+      "name": "Nihilumbra",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:00:40.821408"
+    },
+    "252750": {
+      "appid": 252750,
+      "name": "MouseCraft",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:00:46.760323"
+    },
+    "253230": {
+      "appid": 253230,
+      "name": "A Hat in Time",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:00:48.579668"
+    },
+    "253290": {
+      "appid": 253290,
+      "name": "FOTONICA",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:00:48.824372"
+    },
+    "253330": {
+      "appid": 253330,
+      "name": "Neverending Nightmares",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:00:49.091939"
+    },
+    "253370": {
+      "appid": 253370,
+      "name": "Axis Game Factory's AGFPRO v3",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-03T19:00:49.364387"
+    },
+    "254370": {
+      "appid": 254370,
+      "name": "Aquanox Deep Descent",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:00:54.080458"
     }
   }
 }
