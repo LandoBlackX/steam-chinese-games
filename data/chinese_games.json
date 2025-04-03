@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-03T20:09:39.617158"
+    "updated": "2025-04-03T20:12:48.161648"
   },
   "games": {
     "570": {
@@ -42128,6 +42128,142 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-04-03T20:09:37.402017"
+    },
+    "299420": {
+      "appid": 299420,
+      "name": "CubeGun",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-03T20:12:32.239371"
+    },
+    "299480": {
+      "appid": 299480,
+      "name": "Rogue Stormers",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:12:32.664660"
+    },
+    "299660": {
+      "appid": 299660,
+      "name": "6180 the moon",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:12:33.111577"
+    },
+    "299680": {
+      "appid": 299680,
+      "name": "Tengami",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-03T20:12:33.248720"
+    },
+    "300380": {
+      "appid": 300380,
+      "name": "Road Redemption",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:12:35.908006"
+    },
+    "300510": {
+      "appid": 300510,
+      "name": "Them - The Summoning",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-03T20:12:36.207580"
+    },
+    "300600": {
+      "appid": 300600,
+      "name": "Gear Up",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:12:37.123704"
+    },
+    "301200": {
+      "appid": 301200,
+      "name": "Frederic: Evil Strikes Back",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:12:39.122417"
+    },
+    "301280": {
+      "appid": 301280,
+      "name": "Skin Deep",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-03T20:12:39.907026"
+    },
+    "301520": {
+      "appid": 301520,
+      "name": "Robocraft",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:12:41.209027"
+    },
+    "301610": {
+      "appid": 301610,
+      "name": "openCanvas 6",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:12:41.614833"
+    },
+    "301640": {
+      "appid": 301640,
+      "name": "Zombie Army Trilogy",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:12:41.745813"
+    },
+    "301840": {
+      "appid": 301840,
+      "name": "City of Brass",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:12:43.170815"
+    },
+    "301860": {
+      "appid": 301860,
+      "name": "Submerged",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:12:43.282301"
+    },
+    "301970": {
+      "appid": 301970,
+      "name": "Screencheat",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:12:43.875478"
+    },
+    "302460": {
+      "appid": 302460,
+      "name": "I Am Vegend - Zombiegeddon",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-03T20:12:48.007499"
+    },
+    "302470": {
+      "appid": 302470,
+      "name": "Battle Mages",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:12:48.159949"
     }
   }
 }
