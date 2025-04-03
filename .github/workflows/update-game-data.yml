@@ -1,7 +1,7 @@
 name: Update Game Data
 on:
   schedule:
-    - cron: '*/2 * * * *'  # 每 2 分钟运行一次
+    - cron: '*/5 * * * *'  # 每 5 分钟运行一次
   workflow_dispatch:
 
 jobs:
@@ -43,6 +43,11 @@ jobs:
       - name: Run scraper
         id: scraper
         run: python Src/scraper.py
+
+      - name: Pull remote changes
+        run: |
+          git pull origin main --rebase
+        continue-on-error: true  # 如果拉取失败，继续执行后续步骤
 
       - name: Commit changes
         uses: EndBug/add-and-commit@v9
