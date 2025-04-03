@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-03T21:24:55.719077"
+    "updated": "2025-04-03T21:39:30.369532"
   },
   "games": {
     "570": {
@@ -14870,6 +14870,422 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-04-03T21:24:55.594344"
+    },
+    "327670": {
+      "appid": 327670,
+      "name": "Ironcast",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T21:39:14.326851"
+    },
+    "327690": {
+      "appid": 327690,
+      "name": "Gigantic",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T21:39:14.471563"
+    },
+    "327760": {
+      "appid": 327760,
+      "name": "Bacon Man: An Adventure",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T21:39:14.864405"
+    },
+    "327860": {
+      "appid": 327860,
+      "name": "Salt",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T21:39:15.022755"
+    },
+    "327880": {
+      "appid": 327880,
+      "name": "Sublevel Zero Redux",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T21:39:15.161880"
+    },
+    "327890": {
+      "appid": 327890,
+      "name": "I Am Bread",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T21:39:15.267799"
+    },
+    "327980": {
+      "appid": 327980,
+      "name": "Dragon Fantasy: The Volumes of Westeria",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T21:39:16.266109"
+    },
+    "328000": {
+      "appid": 328000,
+      "name": "Dragon Fantasy: The Black Tome of Ice",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T21:39:16.404514"
+    },
+    "328060": {
+      "appid": 328060,
+      "name": "Tales Runner",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T21:39:16.583870"
+    },
+    "328080": {
+      "appid": 328080,
+      "name": "Rise to Ruins",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T21:39:17.039726"
+    },
+    "328270": {
+      "appid": 328270,
+      "name": "Leviathan: The Last Day of the Decade",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T21:39:17.415930"
+    },
+    "328500": {
+      "appid": 328500,
+      "name": "Potatoman Seeks the Troof",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T21:39:18.222738"
+    },
+    "328590": {
+      "appid": 328590,
+      "name": "Don't Knock Twice",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T21:39:18.578336"
+    },
+    "328640": {
+      "appid": 328640,
+      "name": "Rock Zombie",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T21:39:18.704243"
+    },
+    "328680": {
+      "appid": 328680,
+      "name": "Crab Cakes Rescue",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T21:39:19.057031"
+    },
+    "328730": {
+      "appid": 328730,
+      "name": "Letter Quest: Grimm's Journey",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T21:39:19.487888"
+    },
+    "328760": {
+      "appid": 328760,
+      "name": "SanctuaryRPG: Black Edition",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T21:39:19.729467"
+    },
+    "328780": {
+      "appid": 328780,
+      "name": "Vampires: Guide Them to Safety!",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T21:39:19.858057"
+    },
+    "329050": {
+      "appid": 329050,
+      "name": "Devil May Cry 4 Special Edition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T21:39:21.474172"
+    },
+    "329110": {
+      "appid": 329110,
+      "name": "Gems of War - Puzzle RPG",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T21:39:21.928423"
+    },
+    "329130": {
+      "appid": 329130,
+      "name": "Reassembly",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T21:39:22.061695"
+    },
+    "329240": {
+      "appid": 329240,
+      "name": "The Weaponographist",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T21:39:22.438372"
+    },
+    "329340": {
+      "appid": 329340,
+      "name": "cloudphobia",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T21:39:22.925123"
+    },
+    "329380": {
+      "appid": 329380,
+      "name": "Stealth Inc 2: A Game of Clones",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T21:39:23.063931"
+    },
+    "329430": {
+      "appid": 329430,
+      "name": "State of Decay: YOSE",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T21:39:23.190867"
+    },
+    "329690": {
+      "appid": 329690,
+      "name": "BasketBelle",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T21:39:24.563757"
+    },
+    "329770": {
+      "appid": 329770,
+      "name": "4089: Ghost Within",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T21:39:24.730560"
+    },
+    "329790": {
+      "appid": 329790,
+      "name": "Krosmaster Arena",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T21:39:24.855308"
+    },
+    "329830": {
+      "appid": 329830,
+      "name": "The Moon Sliver",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T21:39:24.978722"
+    },
+    "329860": {
+      "appid": 329860,
+      "name": "Catlateral Damage",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T21:39:25.072994"
+    },
+    "330100": {
+      "appid": 330100,
+      "name": "BossConstructor",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T21:39:25.604494"
+    },
+    "330180": {
+      "appid": 330180,
+      "name": "Pix the Cat",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T21:39:25.690414"
+    },
+    "330270": {
+      "appid": 330270,
+      "name": "Warlocks vs Shadows",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T21:39:25.806352"
+    },
+    "330350": {
+      "appid": 330350,
+      "name": "Robotex",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T21:39:25.954886"
+    },
+    "330390": {
+      "appid": 330390,
+      "name": "冒險奇譚II高畫質重製版",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T21:39:26.182013"
+    },
+    "330450": {
+      "appid": 330450,
+      "name": "Runes of Brennos",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T21:39:26.426438"
+    },
+    "330470": {
+      "appid": 330470,
+      "name": "Over The Void",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T21:39:26.681222"
+    },
+    "330580": {
+      "appid": 330580,
+      "name": "Shark Attack Deathmatch 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T21:39:27.046984"
+    },
+    "330620": {
+      "appid": 330620,
+      "name": "It's A Wipe!",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T21:39:27.397459"
+    },
+    "330660": {
+      "appid": 330660,
+      "name": "Luna's Wandering Stars",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T21:39:27.525001"
+    },
+    "330670": {
+      "appid": 330670,
+      "name": "DiscStorm",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T21:39:27.660573"
+    },
+    "330680": {
+      "appid": 330680,
+      "name": "Solar Struggle",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T21:39:27.781876"
+    },
+    "330820": {
+      "appid": 330820,
+      "name": "2064: Read Only Memories",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T21:39:28.175544"
+    },
+    "330880": {
+      "appid": 330880,
+      "name": "Redemption",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T21:39:28.540294"
+    },
+    "330990": {
+      "appid": 330990,
+      "name": "Demon Hunter: Chronicles from Beyond",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T21:39:28.666503"
+    },
+    "331190": {
+      "appid": 331190,
+      "name": "Master Spy",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T21:39:28.962976"
+    },
+    "331200": {
+      "appid": 331200,
+      "name": "Grass Simulator",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T21:39:29.079425"
+    },
+    "331220": {
+      "appid": 331220,
+      "name": "Thief Town",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T21:39:29.446961"
+    },
+    "331340": {
+      "appid": 331340,
+      "name": "Tulpa",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T21:39:29.656465"
+    },
+    "331390": {
+      "appid": 331390,
+      "name": "Winged Sakura: Mindy's Arc",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T21:39:29.866007"
+    },
+    "331400": {
+      "appid": 331400,
+      "name": "Luna: Shattered Hearts: Episode 1",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T21:39:29.983482"
+    },
+    "331440": {
+      "appid": 331440,
+      "name": "bit Dungeon II",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T21:39:30.242917"
     }
   }
 }

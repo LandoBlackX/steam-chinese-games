@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-03T21:24:55.719077"
+    "updated": "2025-04-03T21:39:30.369532"
   },
   "games": {
     "570": {
@@ -43272,6 +43272,94 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-03T21:24:55.120138"
+    },
+    "328590": {
+      "appid": 328590,
+      "name": "Don't Knock Twice",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T21:39:18.578336"
+    },
+    "329050": {
+      "appid": 329050,
+      "name": "Devil May Cry 4 Special Edition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T21:39:21.474172"
+    },
+    "329110": {
+      "appid": 329110,
+      "name": "Gems of War - Puzzle RPG",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T21:39:21.928423"
+    },
+    "329130": {
+      "appid": 329130,
+      "name": "Reassembly",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T21:39:22.061695"
+    },
+    "330020": {
+      "appid": 330020,
+      "name": "Children of Morta",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-03T21:39:25.474368"
+    },
+    "330270": {
+      "appid": 330270,
+      "name": "Warlocks vs Shadows",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T21:39:25.806352"
+    },
+    "330350": {
+      "appid": 330350,
+      "name": "Robotex",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T21:39:25.954886"
+    },
+    "330390": {
+      "appid": 330390,
+      "name": "冒險奇譚II高畫質重製版",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T21:39:26.182013"
+    },
+    "330460": {
+      "appid": 330460,
+      "name": "Celestial Command",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-03T21:39:26.545244"
+    },
+    "330580": {
+      "appid": 330580,
+      "name": "Shark Attack Deathmatch 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T21:39:27.046984"
+    },
+    "330990": {
+      "appid": 330990,
+      "name": "Demon Hunter: Chronicles from Beyond",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T21:39:28.666503"
     }
   }
 }
