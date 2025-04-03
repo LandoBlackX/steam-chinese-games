@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-03T22:50:00.903404"
+    "updated": "2025-04-03T23:12:16.775974"
   },
   "games": {
     "570": {
@@ -43904,6 +43904,150 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-04-03T22:50:00.137065"
+    },
+    "343440": {
+      "appid": 343440,
+      "name": "Crash Drive 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T23:11:55.206100"
+    },
+    "343710": {
+      "appid": 343710,
+      "name": "死山",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T23:11:55.884437"
+    },
+    "343860": {
+      "appid": 343860,
+      "name": "Tacoma",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T23:11:57.935940"
+    },
+    "344480": {
+      "appid": 344480,
+      "name": "Quell",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-03T23:12:00.980167"
+    },
+    "344770": {
+      "appid": 344770,
+      "name": "fault - milestone two side:above",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T23:12:01.943970"
+    },
+    "344850": {
+      "appid": 344850,
+      "name": "Big Pharma",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T23:12:03.045280"
+    },
+    "345060": {
+      "appid": 345060,
+      "name": "Stay Alight",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T23:12:04.861600"
+    },
+    "345090": {
+      "appid": 345090,
+      "name": "Ancient Planet Tower Defense",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T23:12:05.245171"
+    },
+    "345120": {
+      "appid": 345120,
+      "name": "Vox Populi Vox Dei 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T23:12:05.463607"
+    },
+    "345180": {
+      "appid": 345180,
+      "name": "Victor Vran ARPG",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T23:12:06.068413"
+    },
+    "345350": {
+      "appid": 345350,
+      "name": "LIGHTNING RETURNS™: FINAL FANTASY® XIII",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T23:12:08.508409"
+    },
+    "345430": {
+      "appid": 345430,
+      "name": "诅咒丛林",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T23:12:09.132685"
+    },
+    "345540": {
+      "appid": 345540,
+      "name": "Inbetween Land",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T23:12:09.932672"
+    },
+    "345640": {
+      "appid": 345640,
+      "name": "砖块传奇DX",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T23:12:10.906200"
+    },
+    "345650": {
+      "appid": 345650,
+      "name": "Without Within",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-03T23:12:11.107588"
+    },
+    "345660": {
+      "appid": 345660,
+      "name": "RIDE",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T23:12:11.298662"
+    },
+    "346010": {
+      "appid": 346010,
+      "name": "围攻",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T23:12:13.422036"
+    },
+    "346330": {
+      "appid": 346330,
+      "name": "BrainBread 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-03T23:12:16.350359"
     }
   }
 }
