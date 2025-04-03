@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-03T20:05:17.587307"
+    "updated": "2025-04-03T20:09:39.617158"
   },
   "games": {
     "570": {
@@ -10606,6 +10606,510 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-04-03T20:05:16.733200"
+    },
+    "294660": {
+      "appid": 294660,
+      "name": "Putt-Putt® Saves The Zoo",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:09:19.330088"
+    },
+    "294670": {
+      "appid": 294670,
+      "name": "Putt-Putt® Travels Through Time",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:09:19.485204"
+    },
+    "294750": {
+      "appid": 294750,
+      "name": "Anomaly Defenders",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:09:20.754569"
+    },
+    "294810": {
+      "appid": 294810,
+      "name": "BlazBlue: Continuum Shift Extend",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:09:21.263876"
+    },
+    "294830": {
+      "appid": 294830,
+      "name": "RECYCLE",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:09:21.575284"
+    },
+    "294860": {
+      "appid": 294860,
+      "name": "Valkyria Chronicles™",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:09:21.742275"
+    },
+    "295250": {
+      "appid": 295250,
+      "name": "Stranded",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:09:21.904033"
+    },
+    "295490": {
+      "appid": 295490,
+      "name": "Schrodinger’s Cat And The Raiders Of The Lost Quark",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:09:22.063340"
+    },
+    "295590": {
+      "appid": 295590,
+      "name": "Hero Generations",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:09:22.204884"
+    },
+    "295650": {
+      "appid": 295650,
+      "name": "Streng Check",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:09:22.687197"
+    },
+    "295690": {
+      "appid": 295690,
+      "name": "PARTICLE MACE",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:09:22.969620"
+    },
+    "295730": {
+      "appid": 295730,
+      "name": "Sweezy Gunner",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:09:23.279871"
+    },
+    "295790": {
+      "appid": 295790,
+      "name": "Never Alone (Kisima Ingitchuna)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:09:23.809536"
+    },
+    "295910": {
+      "appid": 295910,
+      "name": "Olympia Rising",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:09:24.229878"
+    },
+    "295930": {
+      "appid": 295930,
+      "name": "Swipecart",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:09:24.426576"
+    },
+    "295990": {
+      "appid": 295990,
+      "name": "Evopollution",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:09:24.587916"
+    },
+    "296030": {
+      "appid": 296030,
+      "name": "Qasir al-Wasat: International Edition",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:09:24.886885"
+    },
+    "296050": {
+      "appid": 296050,
+      "name": "Battlepaths",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:09:25.125295"
+    },
+    "296070": {
+      "appid": 296070,
+      "name": "MIND: Path to Thalamus Enhanced Edition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:09:25.261184"
+    },
+    "296220": {
+      "appid": 296220,
+      "name": "Farm Frenzy 4",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:09:25.857239"
+    },
+    "296240": {
+      "appid": 296240,
+      "name": "The Promised Land",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:09:26.151517"
+    },
+    "296470": {
+      "appid": 296470,
+      "name": "Mount Your Friends",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:09:26.716295"
+    },
+    "296490": {
+      "appid": 296490,
+      "name": "GemCraft - Chasing Shadows",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:09:26.868689"
+    },
+    "296510": {
+      "appid": 296510,
+      "name": "Magnetic By Nature",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:09:27.075949"
+    },
+    "296550": {
+      "appid": 296550,
+      "name": "Niko: Through The Dream",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:09:27.452541"
+    },
+    "296570": {
+      "appid": 296570,
+      "name": "Lords of Xulima",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:09:27.620557"
+    },
+    "296590": {
+      "appid": 296590,
+      "name": "Draconian Wars",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:09:27.793838"
+    },
+    "296730": {
+      "appid": 296730,
+      "name": "Viktor",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:09:28.458924"
+    },
+    "296770": {
+      "appid": 296770,
+      "name": "Real Boxing™",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:09:28.600276"
+    },
+    "296790": {
+      "appid": 296790,
+      "name": "ThunderWheels",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:09:28.806596"
+    },
+    "296830": {
+      "appid": 296830,
+      "name": "Lucius II",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:09:29.009492"
+    },
+    "296850": {
+      "appid": 296850,
+      "name": "Al Emmo and the Lost Dutchman's Mine",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:09:29.153259"
+    },
+    "296870": {
+      "appid": 296870,
+      "name": "Dreaming Sarah",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:09:29.344126"
+    },
+    "296930": {
+      "appid": 296930,
+      "name": "Ascendant",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:09:29.825843"
+    },
+    "296970": {
+      "appid": 296970,
+      "name": "Renowned Explorers: International Society",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:09:30.016191"
+    },
+    "297020": {
+      "appid": 297020,
+      "name": "The Culling Of The Cows",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:09:30.346827"
+    },
+    "297080": {
+      "appid": 297080,
+      "name": "Navpoint",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:09:30.829018"
+    },
+    "297120": {
+      "appid": 297120,
+      "name": "Heavy Bullets",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:09:31.207159"
+    },
+    "297190": {
+      "appid": 297190,
+      "name": "Grayland",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:09:31.535310"
+    },
+    "297290": {
+      "appid": 297290,
+      "name": "Detective Case and Clown Bot in: Murder in the Hotel Lisbon",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:09:31.839543"
+    },
+    "297410": {
+      "appid": 297410,
+      "name": "Trace Vector",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:09:32.830330"
+    },
+    "297450": {
+      "appid": 297450,
+      "name": "Zombies on a Plane",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:09:32.995000"
+    },
+    "297490": {
+      "appid": 297490,
+      "name": "Spy Chameleon - RGB Agent",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:09:33.344494"
+    },
+    "297590": {
+      "appid": 297590,
+      "name": "Monsters Ate My Birthday Cake",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:09:33.651971"
+    },
+    "297660": {
+      "appid": 297660,
+      "name": "Super Rad Raygun",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:09:33.931208"
+    },
+    "297740": {
+      "appid": 297740,
+      "name": "Overruled!",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:09:34.210446"
+    },
+    "297860": {
+      "appid": 297860,
+      "name": "Split/Second",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:09:34.662737"
+    },
+    "297920": {
+      "appid": 297920,
+      "name": "Space Colony: Steam Edition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:09:34.801080"
+    },
+    "298050": {
+      "appid": 298050,
+      "name": "Master of Orion",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:09:35.202921"
+    },
+    "298160": {
+      "appid": 298160,
+      "name": "Eldevin",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:09:35.686056"
+    },
+    "298280": {
+      "appid": 298280,
+      "name": "XenoRaptor",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:09:36.520360"
+    },
+    "298360": {
+      "appid": 298360,
+      "name": "Immortal Defense",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:09:36.808177"
+    },
+    "298380": {
+      "appid": 298380,
+      "name": "Reef Shot",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:09:36.987769"
+    },
+    "298480": {
+      "appid": 298480,
+      "name": "Victory At Sea",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:09:37.604408"
+    },
+    "298520": {
+      "appid": 298520,
+      "name": "Orbital Gear",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:09:37.737993"
+    },
+    "298600": {
+      "appid": 298600,
+      "name": "Lovely Planet",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:09:38.059077"
+    },
+    "298630": {
+      "appid": 298630,
+      "name": "The Escapists",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:09:38.394837"
+    },
+    "298790": {
+      "appid": 298790,
+      "name": "Rock Boshers DX: Directors Cut",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:09:38.531405"
+    },
+    "298820": {
+      "appid": 298820,
+      "name": "Millennium 2 - Take Me Higher",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:09:38.695581"
+    },
+    "298830": {
+      "appid": 298830,
+      "name": "Millennium 3 - Cry Wolf",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:09:38.843777"
+    },
+    "298840": {
+      "appid": 298840,
+      "name": "Millennium 4 - Beyond Sunset",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:09:38.996078"
+    },
+    "298850": {
+      "appid": 298850,
+      "name": "Millennium 5 - The Battle of the Millennium",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:09:39.144534"
+    },
+    "298900": {
+      "appid": 298900,
+      "name": "Space Hulk: Deathwing",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:09:39.463910"
     }
   }
 }

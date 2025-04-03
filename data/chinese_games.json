@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-03T20:05:17.587307"
+    "updated": "2025-04-03T20:09:39.617158"
   },
   "games": {
     "570": {
@@ -42008,6 +42008,126 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-03T20:05:15.709327"
+    },
+    "294810": {
+      "appid": 294810,
+      "name": "BlazBlue: Continuum Shift Extend",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:09:21.263876"
+    },
+    "295790": {
+      "appid": 295790,
+      "name": "Never Alone (Kisima Ingitchuna)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:09:23.809536"
+    },
+    "296070": {
+      "appid": 296070,
+      "name": "MIND: Path to Thalamus Enhanced Edition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:09:25.261184"
+    },
+    "296570": {
+      "appid": 296570,
+      "name": "Lords of Xulima",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:09:27.620557"
+    },
+    "296650": {
+      "appid": 296650,
+      "name": "The Great Jitters: Pudding Panic",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-03T20:09:28.079638"
+    },
+    "296770": {
+      "appid": 296770,
+      "name": "Real Boxing™",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:09:28.600276"
+    },
+    "296790": {
+      "appid": 296790,
+      "name": "ThunderWheels",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:09:28.806596"
+    },
+    "296870": {
+      "appid": 296870,
+      "name": "Dreaming Sarah",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:09:29.344126"
+    },
+    "297000": {
+      "appid": 297000,
+      "name": "Heroes® of Might & Magic® III - HD Edition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-03T20:09:30.169484"
+    },
+    "297590": {
+      "appid": 297590,
+      "name": "Monsters Ate My Birthday Cake",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:09:33.651971"
+    },
+    "297920": {
+      "appid": 297920,
+      "name": "Space Colony: Steam Edition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:09:34.801080"
+    },
+    "298050": {
+      "appid": 298050,
+      "name": "Master of Orion",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:09:35.202921"
+    },
+    "298110": {
+      "appid": 298110,
+      "name": "Far Cry® 4",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-03T20:09:35.388569"
+    },
+    "298340": {
+      "appid": 298340,
+      "name": "FLASHOUT 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-03T20:09:36.656949"
+    },
+    "298420": {
+      "appid": 298420,
+      "name": "Dreii",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-03T20:09:37.402017"
     }
   }
 }
