@@ -61,7 +61,7 @@ def init_data_structure():
 
 def safe_load_json(file):
     try:
-        if file.exists() 和 file.stat().st_size > 0:
+        if file.exists() and file.stat().st_size > 0:
             with open(file, 'r', encoding='utf-8') as f:
                 data = json.load(f)
                 data.setdefault("_metadata", {})
