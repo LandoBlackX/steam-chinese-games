@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-03T17:23:40.486679"
+    "updated": "2025-04-03T17:40:19.398341"
   },
   "games": {
     "570": {
@@ -39312,6 +39312,110 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-04-03T17:23:40.156527"
+    },
+    "105420": {
+      "appid": 105420,
+      "name": "Ms. Splosion Man",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-03T17:40:00.465205"
+    },
+    "107100": {
+      "appid": 107100,
+      "name": "Bastion",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:40:01.068619"
+    },
+    "107410": {
+      "appid": 107410,
+      "name": "Arma 3",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:40:01.756933"
+    },
+    "108600": {
+      "appid": 108600,
+      "name": "Project Zomboid",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:40:02.538647"
+    },
+    "108710": {
+      "appid": 108710,
+      "name": "Alan Wake",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:40:02.829432"
+    },
+    "108800": {
+      "appid": 108800,
+      "name": "Crysis 2 - Maximum Edition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-03T17:40:02.960075"
+    },
+    "113020": {
+      "appid": 113020,
+      "name": "Monaco: What's Yours Is Mine",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:40:05.854728"
+    },
+    "115800": {
+      "appid": 115800,
+      "name": "Owlboy",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:40:07.631180"
+    },
+    "200510": {
+      "appid": 200510,
+      "name": "XCOM: Enemy Unknown",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:40:10.144109"
+    },
+    "200710": {
+      "appid": 200710,
+      "name": "Torchlight II",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:40:10.602043"
+    },
+    "201870": {
+      "appid": 201870,
+      "name": "Assassin's Creed® Revelations",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-03T17:40:13.837398"
+    },
+    "203160": {
+      "appid": 203160,
+      "name": "Tomb Raider",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:40:16.656324"
+    },
+    "204030": {
+      "appid": 204030,
+      "name": "Fable - The Lost Chapters",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-03T17:40:18.668962"
     }
   }
 }

@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-03T17:23:40.486679"
+    "updated": "2025-04-03T17:40:19.398341"
   },
   "games": {
     "570": {
@@ -1886,6 +1886,374 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-04-03T17:23:40.307144"
+    },
+    "102810": {
+      "appid": 102810,
+      "name": "Gatling Gears",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:39:58.374908"
+    },
+    "102840": {
+      "appid": 102840,
+      "name": "Shank 2",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:39:58.573915"
+    },
+    "104200": {
+      "appid": 104200,
+      "name": "BEEP",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:39:59.453401"
+    },
+    "104900": {
+      "appid": 104900,
+      "name": "ORION: Prelude",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:39:59.863983"
+    },
+    "105450": {
+      "appid": 105450,
+      "name": "Age of Empires® III (2007)",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:40:00.599388"
+    },
+    "105800": {
+      "appid": 105800,
+      "name": "PixelJunk™ Eden",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:40:00.920182"
+    },
+    "107100": {
+      "appid": 107100,
+      "name": "Bastion",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:40:01.068619"
+    },
+    "107200": {
+      "appid": 107200,
+      "name": "Space Pirates and Zombies",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:40:01.290259"
+    },
+    "107310": {
+      "appid": 107310,
+      "name": "Cthulhu Saves the World",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:40:01.586950"
+    },
+    "107410": {
+      "appid": 107410,
+      "name": "Arma 3",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:40:01.756933"
+    },
+    "107600": {
+      "appid": 107600,
+      "name": "Waves",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:40:01.907057"
+    },
+    "108600": {
+      "appid": 108600,
+      "name": "Project Zomboid",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:40:02.538647"
+    },
+    "108710": {
+      "appid": 108710,
+      "name": "Alan Wake",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:40:02.829432"
+    },
+    "109600": {
+      "appid": 109600,
+      "name": "Neverwinter",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:40:03.380847"
+    },
+    "111100": {
+      "appid": 111100,
+      "name": "Snuggle Truck",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:40:04.810137"
+    },
+    "111800": {
+      "appid": 111800,
+      "name": "Blocks That Matter",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:40:05.422756"
+    },
+    "111900": {
+      "appid": 111900,
+      "name": "Guardians of Middle-earth",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:40:05.576092"
+    },
+    "113020": {
+      "appid": 113020,
+      "name": "Monaco: What's Yours Is Mine",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:40:05.854728"
+    },
+    "113200": {
+      "appid": 113200,
+      "name": "The Binding of Isaac",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:40:06.002737"
+    },
+    "115100": {
+      "appid": 115100,
+      "name": "Costume Quest",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:40:06.475335"
+    },
+    "115800": {
+      "appid": 115800,
+      "name": "Owlboy",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:40:07.631180"
+    },
+    "116100": {
+      "appid": 116100,
+      "name": "Super Toy Cars",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:40:07.786487"
+    },
+    "200020": {
+      "appid": 200020,
+      "name": "Global Ops: Commando Libya",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:40:08.255289"
+    },
+    "200170": {
+      "appid": 200170,
+      "name": "Worms Revolution",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:40:08.806406"
+    },
+    "200260": {
+      "appid": 200260,
+      "name": "Batman: Arkham City - Game of the Year Edition",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:40:09.379510"
+    },
+    "200510": {
+      "appid": 200510,
+      "name": "XCOM: Enemy Unknown",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:40:10.144109"
+    },
+    "200710": {
+      "appid": 200710,
+      "name": "Torchlight II",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:40:10.602043"
+    },
+    "200910": {
+      "appid": 200910,
+      "name": "Before the Echo",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:40:10.885026"
+    },
+    "201210": {
+      "appid": 201210,
+      "name": "Pox Nora",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:40:11.891278"
+    },
+    "201270": {
+      "appid": 201270,
+      "name": "Total War: SHOGUN 2",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:40:12.212563"
+    },
+    "201420": {
+      "appid": 201420,
+      "name": "Toki Tori 2+",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:40:12.644019"
+    },
+    "201570": {
+      "appid": 201570,
+      "name": "Really Big Sky",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:40:13.252449"
+    },
+    "201790": {
+      "appid": 201790,
+      "name": "Orcs Must Die! 2",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:40:13.394707"
+    },
+    "202170": {
+      "appid": 202170,
+      "name": "Sleeping Dogs",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:40:14.396469"
+    },
+    "202970": {
+      "appid": 202970,
+      "name": "Call of Duty®: Black Ops II",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:40:16.197278"
+    },
+    "202990": {
+      "appid": 202990,
+      "name": "Call of Duty®: Black Ops II",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:40:16.357834"
+    },
+    "203140": {
+      "appid": 203140,
+      "name": "Hitman: Absolution™",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:40:16.498489"
+    },
+    "203160": {
+      "appid": 203160,
+      "name": "Tomb Raider",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:40:16.656324"
+    },
+    "203210": {
+      "appid": 203210,
+      "name": "Titan Attacks!",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:40:16.793206"
+    },
+    "203290": {
+      "appid": 203290,
+      "name": "America's Army: Proving Grounds",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:40:16.929098"
+    },
+    "203350": {
+      "appid": 203350,
+      "name": "King's Bounty: Warriors of the North",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:40:17.090629"
+    },
+    "203630": {
+      "appid": 203630,
+      "name": "Warlock - Master of the Arcane",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:40:17.595794"
+    },
+    "203770": {
+      "appid": 203770,
+      "name": "Crusader Kings II",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:40:18.233444"
+    },
+    "203830": {
+      "appid": 203830,
+      "name": "The Dark Eye: Chains of Satinav",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:40:18.399583"
+    },
+    "203990": {
+      "appid": 203990,
+      "name": "SATAZIUS",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:40:18.532561"
+    },
+    "204180": {
+      "appid": 204180,
+      "name": "Waveform",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:40:19.258760"
     }
   }
 }
