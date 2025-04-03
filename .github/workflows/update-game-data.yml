@@ -44,15 +44,19 @@ jobs:
         id: scraper
         run: python Src/scraper.py
 
+      - name: Stage changes
+        run: |
+          git add data/*.json data/*.db
+
       - name: Pull remote changes
         run: |
           git pull origin main --rebase
-        continue-on-error: true  # 如果拉取失败，继续执行后续步骤
+        continue-on-error: true  # 如果拉取失败，继续尝试提交
 
-      - name: Commit changes
+      - name: Commit and push changes
         uses: EndBug/add-and-commit@v9
         with:
-          add: 'data/*.json data/*.db'
+          add: 'data/*.json data/*.db'  # 再次确保所有更改被添加
           message: |
             🎮 游戏数据更新 [${{ github.run_number }}]
             统计结果：
