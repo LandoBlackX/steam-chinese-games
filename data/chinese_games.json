@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-03T19:37:04.605814"
+    "updated": "2025-04-03T19:40:53.031497"
   },
   "games": {
     "570": {
@@ -41304,6 +41304,198 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-03T19:37:01.401404"
+    },
+    "276460": {
+      "appid": 276460,
+      "name": "Dragon Tales 2: The Lair",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-03T19:40:38.380033"
+    },
+    "277430": {
+      "appid": 277430,
+      "name": "Halo: Spartan Assault",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:40:39.383648"
+    },
+    "277540": {
+      "appid": 277540,
+      "name": "Tales From The Dragon Mountain: The Strix",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-03T19:40:40.313462"
+    },
+    "277560": {
+      "appid": 277560,
+      "name": "Where Angels Cry",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-03T19:40:40.419538"
+    },
+    "277700": {
+      "appid": 277700,
+      "name": "On Rusty Trails",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:40:40.993577"
+    },
+    "278080": {
+      "appid": 278080,
+      "name": "真・三国无双７ with 猛将传",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-03T19:40:41.708875"
+    },
+    "278100": {
+      "appid": 278100,
+      "name": "RIVE: Wreck, Hack, Die, Retry!",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:40:41.840837"
+    },
+    "279140": {
+      "appid": 279140,
+      "name": "Making History: The Great War",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:40:44.180659"
+    },
+    "279800": {
+      "appid": 279800,
+      "name": "Grim Legends 2: Song of the Dark Swan",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:40:46.057177"
+    },
+    "279990": {
+      "appid": 279990,
+      "name": "Bridge Constructor Playground",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-03T19:40:46.554983"
+    },
+    "280160": {
+      "appid": 280160,
+      "name": "Aragami",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:40:47.123110"
+    },
+    "280180": {
+      "appid": 280180,
+      "name": "Hover",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-03T19:40:47.260426"
+    },
+    "280680": {
+      "appid": 280680,
+      "name": "Krita",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-03T19:40:48.555089"
+    },
+    "280720": {
+      "appid": 280720,
+      "name": "Imagine Earth",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:40:48.662398"
+    },
+    "280830": {
+      "appid": 280830,
+      "name": "Foosball - Street Edition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-03T19:40:48.882807"
+    },
+    "280850": {
+      "appid": 280850,
+      "name": "Dollhouse",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:40:48.983557"
+    },
+    "280930": {
+      "appid": 280930,
+      "name": "Battlepillars Gold Edition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:40:49.345406"
+    },
+    "281060": {
+      "appid": 281060,
+      "name": "Reversion - The Meeting (2nd Chapter)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:40:49.487472"
+    },
+    "281080": {
+      "appid": 281080,
+      "name": "Reversion - The Return (Last Chapter)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:40:49.591855"
+    },
+    "281410": {
+      "appid": 281410,
+      "name": "UberSoldier II 狼穴尖兵2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-03T19:40:50.610752"
+    },
+    "281640": {
+      "appid": 281640,
+      "name": "The Banner Saga 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:40:51.375082"
+    },
+    "281990": {
+      "appid": 281990,
+      "name": "Stellaris",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:40:52.257643"
+    },
+    "282070": {
+      "appid": 282070,
+      "name": "This War of Mine",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:40:52.810834"
+    },
+    "282140": {
+      "appid": 282140,
+      "name": "SOMA",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:40:53.029475"
     }
   }
 }
