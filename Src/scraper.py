@@ -97,7 +97,7 @@ def load_game_appids(existing_chinese, existing_cards, conn, cursor):
                     last_checked = existing_c.get("last_checked") or existing_card.get("last_checked")
                     if not last_checked or datetime.fromisoformat(last_checked) < thirty_days_ago:
                         appids.append(appid_int)
-            appids.sort(reverse=True)  # 按 AppID 降序排序
+            appids.sort(reverse=False)  # 按 AppID 升序排序
             log(f"从 output.json 加载到 {len(appids)} 个待处理游戏类 AppID")
             return appids[:199]  # 每次处理 199 个 AppID
     except Exception as e:
