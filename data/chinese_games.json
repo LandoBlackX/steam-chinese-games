@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-03T18:23:21.777167"
+    "updated": "2025-04-03T18:24:49.206458"
   },
   "games": {
     "570": {
@@ -39880,6 +39880,270 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-03T18:23:21.774936"
+    },
+    "228280": {
+      "appid": 228280,
+      "name": "Baldur's Gate: Enhanced Edition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:24:27.846676"
+    },
+    "228300": {
+      "appid": 228300,
+      "name": "Remember Me",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:24:27.994777"
+    },
+    "228380": {
+      "appid": 228380,
+      "name": "Wreckfest",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-03T18:24:28.531470"
+    },
+    "228400": {
+      "appid": 228400,
+      "name": "Ace Combat Assault Horizon - Enhanced Edition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-03T18:24:28.742369"
+    },
+    "228760": {
+      "appid": 228760,
+      "name": "TrackMania² Canyon",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-03T18:24:29.061598"
+    },
+    "228960": {
+      "appid": 228960,
+      "name": "Skulls of the Shogun",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:24:29.257544"
+    },
+    "229870": {
+      "appid": 229870,
+      "name": "ShootMania Storm",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-03T18:24:30.677134"
+    },
+    "230190": {
+      "appid": 230190,
+      "name": "War for the Overworld",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:24:31.837450"
+    },
+    "230270": {
+      "appid": 230270,
+      "name": "N++ (NPLUSPLUS)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:24:32.308359"
+    },
+    "230290": {
+      "appid": 230290,
+      "name": "Universe Sandbox",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-03T18:24:32.481628"
+    },
+    "230410": {
+      "appid": 230410,
+      "name": "Warframe",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:24:32.786677"
+    },
+    "230820": {
+      "appid": 230820,
+      "name": "The Night of the Rabbit",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:24:33.595018"
+    },
+    "231040": {
+      "appid": 231040,
+      "name": "Beatbuddy: Tale of the Guardians",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:24:34.438382"
+    },
+    "231060": {
+      "appid": 231060,
+      "name": "Ragnarok Online 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-03T18:24:34.593623"
+    },
+    "231200": {
+      "appid": 231200,
+      "name": "肯塔基零号国道：电脑版",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-03T18:24:35.119002"
+    },
+    "232090": {
+      "appid": 232090,
+      "name": "Killing Floor 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:24:36.470244"
+    },
+    "232430": {
+      "appid": 232430,
+      "name": "Gone Home",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:24:36.641391"
+    },
+    "232750": {
+      "appid": 232750,
+      "name": "Mars: War Logs",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:24:36.953673"
+    },
+    "232890": {
+      "appid": 232890,
+      "name": "Stronghold Crusader 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:24:37.419685"
+    },
+    "232910": {
+      "appid": 232910,
+      "name": "TrackMania² Stadium",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-03T18:24:37.581485"
+    },
+    "233130": {
+      "appid": 233130,
+      "name": "影子武士",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:24:38.225864"
+    },
+    "233450": {
+      "appid": 233450,
+      "name": "Prison Architect",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:24:40.027863"
+    },
+    "233550": {
+      "appid": 233550,
+      "name": "Another World – 20th Anniversary Edition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-03T18:24:40.709801"
+    },
+    "233860": {
+      "appid": 233860,
+      "name": "Kenshi",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:24:41.951236"
+    },
+    "233980": {
+      "appid": 233980,
+      "name": "UnEpic",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:24:42.129013"
+    },
+    "234040": {
+      "appid": 234040,
+      "name": "Gear Up",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:24:42.296870"
+    },
+    "234270": {
+      "appid": 234270,
+      "name": "Ken Follett's The Pillars of the Earth",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:24:43.107594"
+    },
+    "234670": {
+      "appid": 234670,
+      "name": "NARUTO SHIPPUDEN: Ultimate Ninja STORM 3 Full Burst HD",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-03T18:24:44.668063"
+    },
+    "234820": {
+      "appid": 234820,
+      "name": "Driver Fusion - The Best Driver Update and Backup Software",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-03T18:24:45.049125"
+    },
+    "234900": {
+      "appid": 234900,
+      "name": "Anodyne",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:24:45.228796"
+    },
+    "235520": {
+      "appid": 235520,
+      "name": "The White Laboratory",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-03T18:24:46.929779"
+    },
+    "235600": {
+      "appid": 235600,
+      "name": "Tom Clancy’s Splinter Cell Blacklist",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-03T18:24:47.231945"
+    },
+    "235980": {
+      "appid": 235980,
+      "name": "Tetrobot and Co.",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T18:24:48.314555"
     }
   }
 }
