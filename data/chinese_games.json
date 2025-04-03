@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-03T20:16:20.431805"
+    "updated": "2025-04-03T20:25:26.906787"
   },
   "games": {
     "570": {
@@ -42440,6 +42440,158 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-03T20:16:20.429911"
+    },
+    "307050": {
+      "appid": 307050,
+      "name": "Shan Gui (山桂)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:25:08.379251"
+    },
+    "307230": {
+      "appid": 307230,
+      "name": "I, Zombie",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:25:09.876843"
+    },
+    "307860": {
+      "appid": 307860,
+      "name": "In Verbis Virtus",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:25:12.885761"
+    },
+    "307940": {
+      "appid": 307940,
+      "name": "Radiation Island",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-03T20:25:13.642080"
+    },
+    "307960": {
+      "appid": 307960,
+      "name": "IL-2捍卫雄鹰：斯大林格勒战役",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:25:14.092458"
+    },
+    "308040": {
+      "appid": 308040,
+      "name": "Back to Bed",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:25:14.680963"
+    },
+    "308060": {
+      "appid": 308060,
+      "name": "Black The Fall",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:25:14.821171"
+    },
+    "308080": {
+      "appid": 308080,
+      "name": "Wing Breakers",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:25:14.976060"
+    },
+    "308420": {
+      "appid": 308420,
+      "name": "Ziggurat",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:25:16.480620"
+    },
+    "308600": {
+      "appid": 308600,
+      "name": "Gene Shift Auto",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-03T20:25:17.458547"
+    },
+    "310470": {
+      "appid": 310470,
+      "name": "Grand Ages: Medieval",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:25:19.107317"
+    },
+    "310840": {
+      "appid": 310840,
+      "name": "Perennial",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-03T20:25:20.393001"
+    },
+    "310950": {
+      "appid": 310950,
+      "name": "Street Fighter V",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:25:21.122968"
+    },
+    "311210": {
+      "appid": 311210,
+      "name": "Call of Duty®: Black Ops III",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:25:22.966474"
+    },
+    "311260": {
+      "appid": 311260,
+      "name": "The Guild 3",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-03T20:25:23.366929"
+    },
+    "311290": {
+      "appid": 311290,
+      "name": "SpellForce 3 Reforced",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:25:23.501943"
+    },
+    "311310": {
+      "appid": 311310,
+      "name": "Naval Action",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-03T20:25:23.692570"
+    },
+    "311690": {
+      "appid": 311690,
+      "name": "挺进地牢",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-03T20:25:24.684572"
+    },
+    "311730": {
+      "appid": 311730,
+      "name": "DEAD OR ALIVE 5 Last Round: Core Fighters",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-03T20:25:25.102370"
     }
   }
 }

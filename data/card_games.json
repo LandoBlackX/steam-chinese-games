@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-03T20:16:20.431805"
+    "updated": "2025-04-03T20:25:26.906787"
   },
   "games": {
     "570": {
@@ -12174,6 +12174,582 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-03T20:16:20.429911"
+    },
+    "306950": {
+      "appid": 306950,
+      "name": "Heroes & Legends: Conquerors of Kolhar",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:25:07.827292"
+    },
+    "307010": {
+      "appid": 307010,
+      "name": "Northmark: Hour of the Wolf",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:25:07.974649"
+    },
+    "307050": {
+      "appid": 307050,
+      "name": "Shan Gui (山桂)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:25:08.379251"
+    },
+    "307070": {
+      "appid": 307070,
+      "name": "Memories of a Vagabond",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:25:08.527109"
+    },
+    "307090": {
+      "appid": 307090,
+      "name": "Fancy Skulls",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:25:08.665410"
+    },
+    "307110": {
+      "appid": 307110,
+      "name": "We Need To Go Deeper",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:25:08.872232"
+    },
+    "307130": {
+      "appid": 307130,
+      "name": "Asteria",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:25:09.020373"
+    },
+    "307150": {
+      "appid": 307150,
+      "name": "Survival Games",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:25:09.242820"
+    },
+    "307170": {
+      "appid": 307170,
+      "name": "Borealis",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:25:09.403889"
+    },
+    "307190": {
+      "appid": 307190,
+      "name": "Nicole",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:25:09.561343"
+    },
+    "307210": {
+      "appid": 307210,
+      "name": "Will Fight for Food: Super Actual Sellout: Game of the Hour",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:25:09.705666"
+    },
+    "307230": {
+      "appid": 307230,
+      "name": "I, Zombie",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:25:09.876843"
+    },
+    "307340": {
+      "appid": 307340,
+      "name": "Platypus",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:25:10.376180"
+    },
+    "307350": {
+      "appid": 307350,
+      "name": "Nux",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:25:10.523429"
+    },
+    "307430": {
+      "appid": 307430,
+      "name": "Othello",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:25:10.820452"
+    },
+    "307570": {
+      "appid": 307570,
+      "name": "A Golden Wake",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:25:11.123532"
+    },
+    "307580": {
+      "appid": 307580,
+      "name": "Technobabylon",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:25:11.290532"
+    },
+    "307590": {
+      "appid": 307590,
+      "name": "Penarium",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:25:11.452797"
+    },
+    "307620": {
+      "appid": 307620,
+      "name": "Curses 'N Chaos",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:25:11.630607"
+    },
+    "307670": {
+      "appid": 307670,
+      "name": "Hard West",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:25:12.000463"
+    },
+    "307780": {
+      "appid": 307780,
+      "name": "Mortal Kombat X",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:25:12.714750"
+    },
+    "307860": {
+      "appid": 307860,
+      "name": "In Verbis Virtus",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:25:12.885761"
+    },
+    "307880": {
+      "appid": 307880,
+      "name": "Savage Lands",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:25:13.013418"
+    },
+    "307900": {
+      "appid": 307900,
+      "name": "Wildlife Park 2 - Marine World",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:25:13.145058"
+    },
+    "307930": {
+      "appid": 307930,
+      "name": "Wildlife Park 2 - Dino World",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:25:13.455908"
+    },
+    "307950": {
+      "appid": 307950,
+      "name": "Caliber",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:25:13.914917"
+    },
+    "307960": {
+      "appid": 307960,
+      "name": "IL-2捍卫雄鹰：斯大林格勒战役",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:25:14.092458"
+    },
+    "308000": {
+      "appid": 308000,
+      "name": "Gold Rush! Classic",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:25:14.536976"
+    },
+    "308040": {
+      "appid": 308040,
+      "name": "Back to Bed",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:25:14.680963"
+    },
+    "308060": {
+      "appid": 308060,
+      "name": "Black The Fall",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:25:14.821171"
+    },
+    "308080": {
+      "appid": 308080,
+      "name": "Wing Breakers",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:25:14.976060"
+    },
+    "308173": {
+      "appid": 308173,
+      "name": "Hegemony III: Clash of the Ancients",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:25:15.113218"
+    },
+    "308270": {
+      "appid": 308270,
+      "name": "Buzz Aldrin's Space Program Manager",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:25:15.484506"
+    },
+    "308360": {
+      "appid": 308360,
+      "name": "LogiGun",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:25:15.790056"
+    },
+    "308380": {
+      "appid": 308380,
+      "name": "Airship Dragoon",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:25:16.061108"
+    },
+    "308420": {
+      "appid": 308420,
+      "name": "Ziggurat",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:25:16.480620"
+    },
+    "308440": {
+      "appid": 308440,
+      "name": "Pushcat",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:25:16.681714"
+    },
+    "308560": {
+      "appid": 308560,
+      "name": "City Quest",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:25:17.175350"
+    },
+    "310060": {
+      "appid": 310060,
+      "name": "Knights of Pen and Paper 2",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:25:17.738752"
+    },
+    "310070": {
+      "appid": 310070,
+      "name": "The Nightmare Cooperative",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:25:17.878460"
+    },
+    "310080": {
+      "appid": 310080,
+      "name": "Hatoful Boyfriend",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:25:18.066546"
+    },
+    "310360": {
+      "appid": 310360,
+      "name": "Higurashi When They Cry Hou - Ch.1 Onikakushi",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:25:18.324774"
+    },
+    "310460": {
+      "appid": 310460,
+      "name": "Corto Maltese - Secrets of Venice",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:25:18.928189"
+    },
+    "310470": {
+      "appid": 310470,
+      "name": "Grand Ages: Medieval",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:25:19.107317"
+    },
+    "310490": {
+      "appid": 310490,
+      "name": "Crookz - The Big Heist",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:25:19.316424"
+    },
+    "310510": {
+      "appid": 310510,
+      "name": "Deathtrap",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:25:19.518356"
+    },
+    "310700": {
+      "appid": 310700,
+      "name": "Super Win the Game",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:25:19.823147"
+    },
+    "310740": {
+      "appid": 310740,
+      "name": "NEON STRUCT",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:25:19.965411"
+    },
+    "310850": {
+      "appid": 310850,
+      "name": "Onikira - Demon Killer",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:25:20.553703"
+    },
+    "310880": {
+      "appid": 310880,
+      "name": "Basketball Pro Management 2015",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:25:20.796640"
+    },
+    "310890": {
+      "appid": 310890,
+      "name": "Breach & Clear: Deadline Rebirth (2016)",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:25:20.933904"
+    },
+    "310950": {
+      "appid": 310950,
+      "name": "Street Fighter V",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:25:21.122968"
+    },
+    "311010": {
+      "appid": 311010,
+      "name": "The Way",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:25:21.582190"
+    },
+    "311060": {
+      "appid": 311060,
+      "name": "Battle Mages: Sign of Darkness",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:25:21.846198"
+    },
+    "311080": {
+      "appid": 311080,
+      "name": "Echelon",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:25:21.985643"
+    },
+    "311100": {
+      "appid": 311100,
+      "name": "Echelon: Wind Warriors",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:25:22.231899"
+    },
+    "311120": {
+      "appid": 311120,
+      "name": "The Stalin Subway: Red Veil",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:25:22.374904"
+    },
+    "311140": {
+      "appid": 311140,
+      "name": "The Stalin Subway",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:25:22.532408"
+    },
+    "311190": {
+      "appid": 311190,
+      "name": "Super Panda Adventures",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:25:22.825958"
+    },
+    "311210": {
+      "appid": 311210,
+      "name": "Call of Duty®: Black Ops III",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:25:22.966474"
+    },
+    "311240": {
+      "appid": 311240,
+      "name": "Zero Escape: Zero Time Dilemma",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:25:23.092968"
+    },
+    "311250": {
+      "appid": 311250,
+      "name": "Doorways: The Underworld",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:25:23.235129"
+    },
+    "311290": {
+      "appid": 311290,
+      "name": "SpellForce 3 Reforced",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:25:23.501943"
+    },
+    "311680": {
+      "appid": 311680,
+      "name": "Flower Shop: Winter In Fairbrook",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:25:24.552358"
+    },
+    "311720": {
+      "appid": 311720,
+      "name": "Sproggiwood",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:25:24.834818"
+    },
+    "311770": {
+      "appid": 311770,
+      "name": "LEGO® Pirates of the Caribbean: The Video Game",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:25:25.229309"
+    },
+    "311800": {
+      "appid": 311800,
+      "name": "Black Ice",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:25:25.381321"
+    },
+    "311840": {
+      "appid": 311840,
+      "name": "Wildlife Park",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:25:25.784105"
+    },
+    "311850": {
+      "appid": 311850,
+      "name": "Zombie Solitaire",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:25:25.921165"
+    },
+    "311860": {
+      "appid": 311860,
+      "name": "Data Hacker: Initiation",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:25:26.070788"
+    },
+    "311870": {
+      "appid": 311870,
+      "name": "Super Trench Attack!",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:25:26.202380"
+    },
+    "311930": {
+      "appid": 311930,
+      "name": "Tinertia",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:25:26.492431"
     }
   }
 }
