@@ -56,16 +56,27 @@ def log_failed_appid(appid, reason):
         json.dump(failed_data, f, indent=2, ensure_ascii=False)
 
 def write_results_to_file(results):
+    # (1) 加载现有内容
     if output_file.exists():
         with open(output_file, 'r', encoding='utf-8') as f:
             existing_results = json.load(f)
     else:
         existing_results = {}
 
+    # (2) 更新内容
     existing_results.update(results)
 
+    # (3) 按 AppID 升序排序
+    sorted_results = {str(k): v for k, v in sorted(
+        existing_results.items(),
+        key=lambda item: int(item[0])  # 按 AppID 的数值升序排序
+    )}
+
+    # (4) 写回文件
     with open(output_file, 'w', encoding='utf-8') as f:
-        json.dump(existing_results, f, ensure_ascii=False, indent=4)
+        json.dump(sorted_results, f, ensure_ascii=False, indent=4)
+
+    log("已将结果写入 output.json 并按 AppID 升序排序")
 
 def update_status(conn, cursor, appid):
     cursor.execute("UPDATE apps SET status = true WHERE appid = ?", (appid,))
@@ -106,6 +117,7 @@ def main():
     conn = sqlite3.connect(db_path)
     cursor = conn.cursor()
 
+    # 创建数据库表（如果不存在）
     cursor.execute('''
     CREATE TABLE IF NOT EXISTS apps (
         appid INTEGER PRIMARY KEY,
@@ -115,6 +127,7 @@ def main():
     ''')
     conn.commit()
 
+    # 查询未处理的 AppID
     rows = cursor.execute("SELECT appid FROM apps WHERE status = false").fetchall()
     appids = [row[0] for row in rows[:1]]  # 每次处理 1 个 AppID
     if not appids:
@@ -129,6 +142,7 @@ def main():
     success_count = 0
     failure_count = 0
 
+    # 遍历并处理每个 AppID
     for appid in appids:
         appid, app_type = check_app(appid, rate_limiter)
         update_status(conn, cursor, appid)
