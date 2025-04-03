@@ -87,6 +87,7 @@ def load_game_appids(existing_chinese, existing_cards, conn, cursor):
             thirty_days_ago = datetime.utcnow() - timedelta(days=30)
             cursor.execute("SELECT appid FROM apps WHERE scraper_status = true")
             processed_appids = set(row[0] for row in cursor.fetchall())
+            log(f"已处理 AppID 数量: {len(processed_appids)}")
             for appid, app_info in data.items():
                 if app_info == "game":
                     appid_int = int(appid)
@@ -194,6 +195,12 @@ def main():
             failure_count += 1
         cursor.execute("UPDATE apps SET scraper_status = true WHERE appid = ?", (appid,))
         conn.commit()
+        cursor.execute("SELECT scraper_status FROM apps WHERE appid = ?", (appid,))
+        status = cursor.fetchone()
+        if status and status[0]:
+            log(f"AppID: {appid} 已标记为已处理")
+        else:
+            log(f"警告：AppID: {appid} 标记失败")
 
     log(f"处理完成！成功: {success_count}, 失败: {failure_count}")
 
