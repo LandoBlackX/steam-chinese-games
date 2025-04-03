@@ -85,9 +85,12 @@ def load_game_appids(existing_chinese, existing_cards, conn, cursor):
                 return []
             appids = []
             thirty_days_ago = datetime.utcnow() - timedelta(days=30)
-            cursor.execute("SELECT appid FROM apps WHERE scraper_status = true")
+            
+            # 获取已处理的 AppID
+            cursor.execute("SELECT appid FROM apps WHERE scraper_status = 1")
             processed_appids = set(row[0] for row in cursor.fetchall())
-            log(f"已处理 AppID 数量: {len(processed_appids)}")
+            log(f"数据库状态：已处理 {len(processed_appids)} 个 AppID")
+            
             for appid, app_info in data.items():
                 if app_info == "game":
                     appid_int = int(appid)
@@ -98,7 +101,8 @@ def load_game_appids(existing_chinese, existing_cards, conn, cursor):
                     last_checked = existing_c.get("last_checked") or existing_card.get("last_checked")
                     if not last_checked or datetime.fromisoformat(last_checked) < thirty_days_ago:
                         appids.append(appid_int)
-            appids.sort(reverse=True)  # 按 AppID 降序排序
+            
+            appids.sort(reverse=True)
             log(f"从 output.json 加载到 {len(appids)} 个待处理游戏类 AppID")
             return appids[:199]  # 每次处理 199 个 AppID
     except Exception as e:
@@ -158,21 +162,41 @@ def save_data(data, file_path):
 def main():
     log("脚本启动")
     
+    # 初始化数据库连接
+    try:
+        conn = sqlite3.connect(DB_PATH)
+        cursor = conn.cursor()
+        
+        # 确保表结构存在
+        cursor.execute('''
+        CREATE TABLE IF NOT EXISTS apps (
+            appid INTEGER PRIMARY KEY,
+            status BOOLEAN DEFAULT 0,
+            scraper_status BOOLEAN DEFAULT 0
+        )
+        ''')
+        conn.commit()
+        
+        # 测试数据库写入
+        test_appid = 9999999  # 测试用虚拟ID
+        cursor.execute("INSERT OR IGNORE INTO apps (appid, scraper_status) VALUES (?, ?)", (test_appid, 1))
+        conn.commit()
+        cursor.execute("SELECT scraper_status FROM apps WHERE appid = ?", (test_appid,))
+        if cursor.fetchone()[0] != 1:
+            log("错误：数据库写入测试失败，请检查权限")
+            return
+        cursor.execute("DELETE FROM apps WHERE appid = ?", (test_appid,))
+        conn.commit()
+        
+    except sqlite3.Error as e:
+        log(f"数据库初始化失败: {str(e)}")
+        return
+    
+    # 加载数据文件
     chinese_data = safe_load_json(DATA_DIR / "chinese_games.json")
     card_data = safe_load_json(DATA_DIR / "card_games.json")
     
-    conn = sqlite3.connect(DB_PATH)
-    cursor = conn.cursor()
-    
-    cursor.execute('''
-    CREATE TABLE IF NOT EXISTS apps (
-        appid INTEGER PRIMARY KEY,
-        status BOOLEAN DEFAULT FALSE,
-        scraper_status BOOLEAN DEFAULT FALSE
-    )
-    ''')
-    conn.commit()
-    
+    # 加载待处理的 AppID
     test_appids = load_game_appids(chinese_data, card_data, conn, cursor)
     if not test_appids:
         log("没有需要处理的新 AppID，终止执行")
@@ -186,6 +210,7 @@ def main():
     results = []
     success_count = 0
     failure_count = 0
+    
     for appid in test_appids:
         result = check_game(appid, rate_limiter)
         if result:
@@ -193,17 +218,25 @@ def main():
             success_count += 1
         else:
             failure_count += 1
-        cursor.execute("UPDATE apps SET scraper_status = true WHERE appid = ?", (appid,))
-        conn.commit()
-        cursor.execute("SELECT scraper_status FROM apps WHERE appid = ?", (appid,))
-        status = cursor.fetchone()
-        if status and status[0]:
-            log(f"AppID: {appid} 已标记为已处理")
-        else:
-            log(f"警告：AppID: {appid} 标记失败")
+        
+        # 更新数据库状态
+        try:
+            cursor.execute("INSERT OR IGNORE INTO apps (appid) VALUES (?)", (appid,))
+            cursor.execute("UPDATE apps SET scraper_status = 1 WHERE appid = ?", (appid,))
+            conn.commit()
+            
+            # 验证更新
+            cursor.execute("SELECT scraper_status FROM apps WHERE appid = ?", (appid,))
+            if cursor.fetchone()[0] == 1:
+                log(f"AppID: {appid} 标记成功")
+            else:
+                log(f"警告：AppID: {appid} 标记验证失败")
+                
+        except sqlite3.Error as e:
+            log(f"数据库错误(AppID:{appid}): {str(e)}")
+            conn.rollback()
 
-    log(f"处理完成！成功: {success_count}, 失败: {failure_count}")
-
+    # 保存结果
     updated = False
     for result in results:
         if result:
@@ -219,12 +252,16 @@ def main():
         timestamp = datetime.utcnow().isoformat()
         chinese_data["_metadata"]["updated"] = timestamp
         card_data["_metadata"]["updated"] = timestamp
-        
         save_data(chinese_data, DATA_DIR / "chinese_games.json")
         save_data(card_data, DATA_DIR / "card_games.json")
     
-    log(f"完成！累计中文游戏: {len(chinese_data['games'])}")
-    log(f"完成！累计卡牌游戏: {len(card_data['games'])}")
+    # 输出数据库状态报告
+    cursor.execute("SELECT COUNT(*) FROM apps WHERE scraper_status = 1")
+    processed_total = cursor.fetchone()[0]
+    log(f"数据库状态报告：已处理总数 = {processed_total}")
+    
+    log(f"处理完成！成功: {success_count}, 失败: {failure_count}")
+    log(f"累计中文游戏: {len(chinese_data['games'])}, 累计卡牌游戏: {len(card_data['games'])}")
 
     if os.getenv("GITHUB_ACTIONS") == "true":
         with open(os.getenv("GITHUB_OUTPUT"), 'a') as f:
