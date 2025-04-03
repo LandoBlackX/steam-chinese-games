@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-03T20:12:48.161648"
+    "updated": "2025-04-03T20:16:20.431805"
   },
   "games": {
     "570": {
@@ -42264,6 +42264,182 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-03T20:12:48.159949"
+    },
+    "302570": {
+      "appid": 302570,
+      "name": "Dangerous",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-03T20:16:01.349585"
+    },
+    "302590": {
+      "appid": 302590,
+      "name": "Of Guards And Thieves",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:16:01.590300"
+    },
+    "302670": {
+      "appid": 302670,
+      "name": "Call to Arms",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:16:01.991756"
+    },
+    "302710": {
+      "appid": 302710,
+      "name": "BlazeRush",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:16:02.329973"
+    },
+    "302750": {
+      "appid": 302750,
+      "name": "The Counting Kingdom",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:16:02.627910"
+    },
+    "302810": {
+      "appid": 302810,
+      "name": "蒂维妮娅编年史：甘缇遗物",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:16:02.909941"
+    },
+    "303310": {
+      "appid": 303310,
+      "name": "The House in Fata Morgana",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:16:04.492355"
+    },
+    "303610": {
+      "appid": 303610,
+      "name": "Suicide Guy",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:16:05.904857"
+    },
+    "303860": {
+      "appid": 303860,
+      "name": "Machines At War 3",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-03T20:16:07.221265"
+    },
+    "304050": {
+      "appid": 304050,
+      "name": "宝藏世界",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:16:08.146395"
+    },
+    "304240": {
+      "appid": 304240,
+      "name": "Resident Evil",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:16:08.934145"
+    },
+    "304350": {
+      "appid": 304350,
+      "name": "Wildlife Park 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:16:09.229963"
+    },
+    "304390": {
+      "appid": 304390,
+      "name": "FOR HONOR™",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:16:09.480921"
+    },
+    "304410": {
+      "appid": 304410,
+      "name": "Hexcells Infinite",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-03T20:16:09.623503"
+    },
+    "304430": {
+      "appid": 304430,
+      "name": "INSIDE",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:16:09.821034"
+    },
+    "304580": {
+      "appid": 304580,
+      "name": "CITYCONOMY: Service for your City",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:16:10.676566"
+    },
+    "304730": {
+      "appid": 304730,
+      "name": "Train Fever",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-03T20:16:11.321731"
+    },
+    "304770": {
+      "appid": 304770,
+      "name": "IAH: INTERNET WAR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-03T20:16:11.604272"
+    },
+    "304910": {
+      "appid": 304910,
+      "name": "Sky Gamblers: Storm Raiders",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-03T20:16:12.167785"
+    },
+    "305620": {
+      "appid": 305620,
+      "name": "The Long Dark",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:16:14.579211"
+    },
+    "306130": {
+      "appid": 306130,
+      "name": "《上古卷轴®OL》",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:16:17.740623"
+    },
+    "306760": {
+      "appid": 306760,
+      "name": "Obduction",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:16:20.429911"
     }
   }
 }
