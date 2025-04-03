@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-03T19:49:41.031277"
+    "updated": "2025-04-03T19:58:48.422227"
   },
   "games": {
     "570": {
@@ -41720,6 +41720,190 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-03T19:49:40.929436"
+    },
+    "287200": {
+      "appid": 287200,
+      "name": "Wildlife Park 3",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:58:32.015425"
+    },
+    "287290": {
+      "appid": 287290,
+      "name": "Resident Evil Revelations 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:58:32.469714"
+    },
+    "287980": {
+      "appid": 287980,
+      "name": "Mini Metro",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:58:34.957518"
+    },
+    "288040": {
+      "appid": 288040,
+      "name": "Actual Sunlight",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:58:35.428274"
+    },
+    "288060": {
+      "appid": 288060,
+      "name": "Whispering Willows",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:58:35.581528"
+    },
+    "288470": {
+      "appid": 288470,
+      "name": "Fable Anniversary",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:58:37.166506"
+    },
+    "288610": {
+      "appid": 288610,
+      "name": "Kingdom Tales 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-03T19:58:37.438525"
+    },
+    "288670": {
+      "appid": 288670,
+      "name": "Myths Of Orion: Light From The North",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-03T19:58:37.833209"
+    },
+    "288750": {
+      "appid": 288750,
+      "name": "Hotel Collector's Edition (Brightstone Mysteries: Paranormal Hotel)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-03T19:58:38.356192"
+    },
+    "289060": {
+      "appid": 289060,
+      "name": "The Emerald Tablet",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-03T19:58:39.651415"
+    },
+    "289070": {
+      "appid": 289070,
+      "name": "Sid Meier’s Civilization® VI",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:58:39.800851"
+    },
+    "289090": {
+      "appid": 289090,
+      "name": "Ampu-Tea",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:58:39.933501"
+    },
+    "289130": {
+      "appid": 289130,
+      "name": "无尽帝国",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:58:40.102891"
+    },
+    "289340": {
+      "appid": 289340,
+      "name": "Freight Tycoon Inc.",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-03T19:58:41.336238"
+    },
+    "289650": {
+      "appid": 289650,
+      "name": "Assassin's Creed® Unity",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-03T19:58:43.309116"
+    },
+    "289930": {
+      "appid": 289930,
+      "name": "TransOcean: The Shipping Company",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:58:44.536528"
+    },
+    "290020": {
+      "appid": 290020,
+      "name": "LogicBots",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:58:45.183562"
+    },
+    "290080": {
+      "appid": 290080,
+      "name": "Life is Feudal: Your Own",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:58:45.584007"
+    },
+    "290100": {
+      "appid": 290100,
+      "name": "堡垒：猎鹰战纪",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:58:45.779143"
+    },
+    "290260": {
+      "appid": 290260,
+      "name": "Sokobond",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-03T19:58:46.037740"
+    },
+    "290300": {
+      "appid": 290300,
+      "name": "Rebel Galaxy",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-03T19:58:46.384791"
+    },
+    "290340": {
+      "appid": 290340,
+      "name": "Armello",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:58:46.745359"
+    },
+    "290470": {
+      "appid": 290470,
+      "name": "Onigiri",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-03T19:58:47.329187"
     }
   }
 }

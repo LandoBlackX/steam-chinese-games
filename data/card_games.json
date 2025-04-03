@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-03T19:49:41.031277"
+    "updated": "2025-04-03T19:58:48.422227"
   },
   "games": {
     "570": {
@@ -9630,6 +9630,446 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-04-03T19:49:41.029494"
+    },
+    "286810": {
+      "appid": 286810,
+      "name": "Hard Truck Apocalypse: Rise Of Clans / Ex Machina: Meridian 113",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:58:30.596784"
+    },
+    "286830": {
+      "appid": 286830,
+      "name": "Hard Truck Apocalypse: Arcade / Ex Machina: Arcade",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:58:30.733043"
+    },
+    "286880": {
+      "appid": 286880,
+      "name": "Disney Planes",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:58:30.896735"
+    },
+    "286940": {
+      "appid": 286940,
+      "name": "S.K.I.L.L. - Special Force 2 (Shooter)",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:58:31.276519"
+    },
+    "287020": {
+      "appid": 287020,
+      "name": "Harvester",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:58:31.414653"
+    },
+    "287120": {
+      "appid": 287120,
+      "name": "Ionball 2: Ionstorm",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:58:31.851771"
+    },
+    "287200": {
+      "appid": 287200,
+      "name": "Wildlife Park 3",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:58:32.015425"
+    },
+    "287260": {
+      "appid": 287260,
+      "name": "Toybox Turbos",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:58:32.288121"
+    },
+    "287290": {
+      "appid": 287290,
+      "name": "Resident Evil Revelations 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:58:32.469714"
+    },
+    "287390": {
+      "appid": 287390,
+      "name": "Metro: Last Light Redux",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:58:33.033781"
+    },
+    "287450": {
+      "appid": 287450,
+      "name": "Rise of Nations: Extended Edition",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:58:33.179766"
+    },
+    "287600": {
+      "appid": 287600,
+      "name": "Sunset",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:58:33.467516"
+    },
+    "287630": {
+      "appid": 287630,
+      "name": "The Council",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:58:33.623683"
+    },
+    "287700": {
+      "appid": 287700,
+      "name": "METAL GEAR SOLID V: THE PHANTOM PAIN",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:58:33.793668"
+    },
+    "287840": {
+      "appid": 287840,
+      "name": "TY the Tasmanian Tiger 4",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:58:34.441280"
+    },
+    "287920": {
+      "appid": 287920,
+      "name": "Mortal Online",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:58:34.704755"
+    },
+    "287980": {
+      "appid": 287980,
+      "name": "Mini Metro",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:58:34.957518"
+    },
+    "288020": {
+      "appid": 288020,
+      "name": "Rex Rocket",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:58:35.269568"
+    },
+    "288040": {
+      "appid": 288040,
+      "name": "Actual Sunlight",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:58:35.428274"
+    },
+    "288060": {
+      "appid": 288060,
+      "name": "Whispering Willows",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:58:35.581528"
+    },
+    "288080": {
+      "appid": 288080,
+      "name": "BoneTown: The Second Coming Edition",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:58:35.740551"
+    },
+    "288160": {
+      "appid": 288160,
+      "name": "The Room",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:58:36.331146"
+    },
+    "288220": {
+      "appid": 288220,
+      "name": "Backstage Pass",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:58:36.464877"
+    },
+    "288260": {
+      "appid": 288260,
+      "name": "Conflicks - Revolutionary Space Battles",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:58:36.609369"
+    },
+    "288370": {
+      "appid": 288370,
+      "name": "Strike Suit Zero: Director's Cut",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:58:36.899861"
+    },
+    "288470": {
+      "appid": 288470,
+      "name": "Fable Anniversary",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:58:37.166506"
+    },
+    "288860": {
+      "appid": 288860,
+      "name": "Realms of Arkania: Star Trail",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:58:38.906413"
+    },
+    "288880": {
+      "appid": 288880,
+      "name": "Pineview Drive",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:58:39.049365"
+    },
+    "288930": {
+      "appid": 288930,
+      "name": "The Charnel House Trilogy",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:58:39.195528"
+    },
+    "289070": {
+      "appid": 289070,
+      "name": "Sid Meier’s Civilization® VI",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:58:39.800851"
+    },
+    "289090": {
+      "appid": 289090,
+      "name": "Ampu-Tea",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:58:39.933501"
+    },
+    "289130": {
+      "appid": 289130,
+      "name": "无尽帝国",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:58:40.102891"
+    },
+    "289220": {
+      "appid": 289220,
+      "name": "BorderZone",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:58:40.516021"
+    },
+    "289400": {
+      "appid": 289400,
+      "name": "Parkan 2",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:58:41.746586"
+    },
+    "289420": {
+      "appid": 289420,
+      "name": "Planet Alcatraz",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:58:41.963252"
+    },
+    "289440": {
+      "appid": 289440,
+      "name": "Perimeter",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:58:42.143664"
+    },
+    "289480": {
+      "appid": 289480,
+      "name": "The Tomorrow War",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:58:42.481073"
+    },
+    "289600": {
+      "appid": 289600,
+      "name": "Marauder",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:58:43.031469"
+    },
+    "289620": {
+      "appid": 289620,
+      "name": "Collapse",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:58:43.166743"
+    },
+    "289760": {
+      "appid": 289760,
+      "name": "ROCKETSROCKETSROCKETS",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:58:43.617961"
+    },
+    "289780": {
+      "appid": 289780,
+      "name": "Requiem: Desiderium Mortis",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:58:43.741180"
+    },
+    "289890": {
+      "appid": 289890,
+      "name": "7,62 High Calibre",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:58:44.337498"
+    },
+    "289930": {
+      "appid": 289930,
+      "name": "TransOcean: The Shipping Company",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:58:44.536528"
+    },
+    "289950": {
+      "appid": 289950,
+      "name": "Construction Simulator 2015",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:58:44.709223"
+    },
+    "290000": {
+      "appid": 290000,
+      "name": "DubWars",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:58:44.988346"
+    },
+    "290020": {
+      "appid": 290020,
+      "name": "LogicBots",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:58:45.183562"
+    },
+    "290080": {
+      "appid": 290080,
+      "name": "Life is Feudal: Your Own",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:58:45.584007"
+    },
+    "290100": {
+      "appid": 290100,
+      "name": "堡垒：猎鹰战纪",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:58:45.779143"
+    },
+    "290280": {
+      "appid": 290280,
+      "name": "Volt",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:58:46.210852"
+    },
+    "290320": {
+      "appid": 290320,
+      "name": "Project Temporality",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:58:46.592074"
+    },
+    "290340": {
+      "appid": 290340,
+      "name": "Armello",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:58:46.745359"
+    },
+    "290510": {
+      "appid": 290510,
+      "name": "GNOG",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:58:47.623579"
+    },
+    "290530": {
+      "appid": 290530,
+      "name": "Clandestine",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:58:47.777223"
+    },
+    "290650": {
+      "appid": 290650,
+      "name": "Time Ramesside (A New Reckoning)",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:58:47.904020"
+    },
+    "290770": {
+      "appid": 290770,
+      "name": "The Fall",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:58:48.420469"
     }
   }
 }
