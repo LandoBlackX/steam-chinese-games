@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-03T19:27:28.203147"
+    "updated": "2025-04-03T19:37:04.605814"
   },
   "games": {
     "570": {
@@ -41184,6 +41184,126 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-03T19:27:27.524584"
+    },
+    "270570": {
+      "appid": 270570,
+      "name": "Reversion - The Escape (1st Chapter)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:36:47.665338"
+    },
+    "270880": {
+      "appid": 270880,
+      "name": "American Truck Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:36:49.187274"
+    },
+    "271240": {
+      "appid": 271240,
+      "name": "Offworld Trading Company",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:36:49.694807"
+    },
+    "271260": {
+      "appid": 271260,
+      "name": "Star Control®: Origins",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:36:49.859266"
+    },
+    "271590": {
+      "appid": 271590,
+      "name": "Grand Theft Auto V 传承版",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-03T19:36:50.895079"
+    },
+    "271900": {
+      "appid": 271900,
+      "name": "Hexcells Plus",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-03T19:36:51.658796"
+    },
+    "273350": {
+      "appid": 273350,
+      "name": "Evolve Stage 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:36:54.973948"
+    },
+    "273890": {
+      "appid": 273890,
+      "name": "Arctic Trucker Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-03T19:36:57.891989"
+    },
+    "274190": {
+      "appid": 274190,
+      "name": "Broforce",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-03T19:36:58.585235"
+    },
+    "274350": {
+      "appid": 274350,
+      "name": "Dropsy",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-03T19:36:59.430351"
+    },
+    "274500": {
+      "appid": 274500,
+      "name": "叛击士 装甲强化版",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:36:59.708184"
+    },
+    "274520": {
+      "appid": 274520,
+      "name": "Darkwood",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:36:59.833316"
+    },
+    "274940": {
+      "appid": 274940,
+      "name": "深海惊魂 Depth",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:37:00.629278"
+    },
+    "274980": {
+      "appid": 274980,
+      "name": "Influent Language Learning Game",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:37:00.893774"
+    },
+    "275100": {
+      "appid": 275100,
+      "name": "Shelter 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:37:01.401404"
     }
   }
 }

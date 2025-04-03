@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-03T19:27:28.203147"
+    "updated": "2025-04-03T19:37:04.605814"
   },
   "games": {
     "570": {
@@ -8046,6 +8046,462 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-04-03T19:27:28.201484"
+    },
+    "270310": {
+      "appid": 270310,
+      "name": "Dominique Pamplemousse",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:36:46.744242"
+    },
+    "270330": {
+      "appid": 270330,
+      "name": "Ku: Shroud of the Morrigan",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:36:46.855673"
+    },
+    "270450": {
+      "appid": 270450,
+      "name": "Robot Roller-Derby Disco Dodgeball",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:36:47.160833"
+    },
+    "270490": {
+      "appid": 270490,
+      "name": "The Forest of Doom (Standalone)",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:36:47.282884"
+    },
+    "270510": {
+      "appid": 270510,
+      "name": "EPOCH",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:36:47.415389"
+    },
+    "270550": {
+      "appid": 270550,
+      "name": "Yet Another Zombie Defense",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:36:47.535077"
+    },
+    "270570": {
+      "appid": 270570,
+      "name": "Reversion - The Escape (1st Chapter)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:36:47.665338"
+    },
+    "270630": {
+      "appid": 270630,
+      "name": "Haunt the House: Terrortown",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:36:48.113802"
+    },
+    "270750": {
+      "appid": 270750,
+      "name": "Realms of Arkania 2 - Star Trail Classic",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:36:48.241081"
+    },
+    "270760": {
+      "appid": 270760,
+      "name": "Realms of Arkania 3 - Shadows over Riva Classic",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:36:48.360076"
+    },
+    "270810": {
+      "appid": 270810,
+      "name": "Jones On Fire",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:36:48.769364"
+    },
+    "270880": {
+      "appid": 270880,
+      "name": "American Truck Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:36:49.187274"
+    },
+    "270910": {
+      "appid": 270910,
+      "name": "Worms World Party Remastered",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:36:49.372205"
+    },
+    "271240": {
+      "appid": 271240,
+      "name": "Offworld Trading Company",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:36:49.694807"
+    },
+    "271260": {
+      "appid": 271260,
+      "name": "Star Control®: Origins",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:36:49.859266"
+    },
+    "271550": {
+      "appid": 271550,
+      "name": "Tribloos 2",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:36:50.445942"
+    },
+    "271570": {
+      "appid": 271570,
+      "name": "Space Farmers",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:36:50.761303"
+    },
+    "271640": {
+      "appid": 271640,
+      "name": "Humanity Asset",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:36:51.030308"
+    },
+    "271670": {
+      "appid": 271670,
+      "name": "10 Second Ninja",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:36:51.154468"
+    },
+    "271760": {
+      "appid": 271760,
+      "name": "Dungeon Lords Steam Edition",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:36:51.299373"
+    },
+    "271820": {
+      "appid": 271820,
+      "name": "Card City Nights",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:36:51.410205"
+    },
+    "271860": {
+      "appid": 271860,
+      "name": "Super Killer Hornet: Resurrection",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:36:51.528554"
+    },
+    "271970": {
+      "appid": 271970,
+      "name": "Hero and Daughter+",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:36:51.921972"
+    },
+    "271990": {
+      "appid": 271990,
+      "name": "Dreamscape",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:36:52.072061"
+    },
+    "272330": {
+      "appid": 272330,
+      "name": "Shadow Blade: Reload",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:36:52.984670"
+    },
+    "272470": {
+      "appid": 272470,
+      "name": "The Incredible Adventures of Van Helsing II",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:36:53.287711"
+    },
+    "272600": {
+      "appid": 272600,
+      "name": "Detective Grimoire",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:36:53.555023"
+    },
+    "272620": {
+      "appid": 272620,
+      "name": "Serious Sam's Bogus Detour",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:36:53.680053"
+    },
+    "273070": {
+      "appid": 273070,
+      "name": "The Last Federation",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:36:54.531338"
+    },
+    "273110": {
+      "appid": 273110,
+      "name": "Counter-Strike Nexon",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:36:54.655905"
+    },
+    "273240": {
+      "appid": 273240,
+      "name": "Gunhound EX",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:36:54.796269"
+    },
+    "273350": {
+      "appid": 273350,
+      "name": "Evolve Stage 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:36:54.973948"
+    },
+    "273500": {
+      "appid": 273500,
+      "name": "Over 9000 Zombies!",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:36:55.103604"
+    },
+    "273830": {
+      "appid": 273830,
+      "name": "Aviator - Bush Pilot",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:36:57.341938"
+    },
+    "273960": {
+      "appid": 273960,
+      "name": "Mechs & Mercs: Black Talons",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:36:58.169682"
+    },
+    "274270": {
+      "appid": 274270,
+      "name": "NOT A HERO",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:36:58.964242"
+    },
+    "274290": {
+      "appid": 274290,
+      "name": "Gods Will Be Watching",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:36:59.125660"
+    },
+    "274310": {
+      "appid": 274310,
+      "name": "Always Sometimes Monsters",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:36:59.263034"
+    },
+    "274480": {
+      "appid": 274480,
+      "name": "Drox Operative",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:36:59.573251"
+    },
+    "274500": {
+      "appid": 274500,
+      "name": "叛击士 装甲强化版",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:36:59.708184"
+    },
+    "274520": {
+      "appid": 274520,
+      "name": "Darkwood",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:36:59.833316"
+    },
+    "274560": {
+      "appid": 274560,
+      "name": "Revolution Ace",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:36:59.963297"
+    },
+    "274620": {
+      "appid": 274620,
+      "name": "Skara - The Blade Remains",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:37:00.123257"
+    },
+    "274900": {
+      "appid": 274900,
+      "name": "Murder Miners",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:37:00.484935"
+    },
+    "274940": {
+      "appid": 274940,
+      "name": "深海惊魂 Depth",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:37:00.629278"
+    },
+    "274980": {
+      "appid": 274980,
+      "name": "Influent Language Learning Game",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:37:00.893774"
+    },
+    "275060": {
+      "appid": 275060,
+      "name": "Alone in the Dark: Illumination™",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:37:01.144550"
+    },
+    "275080": {
+      "appid": 275080,
+      "name": "Post Master",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:37:01.271776"
+    },
+    "275100": {
+      "appid": 275100,
+      "name": "Shelter 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:37:01.401404"
+    },
+    "275180": {
+      "appid": 275180,
+      "name": "Costume Quest 2",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:37:01.535328"
+    },
+    "275200": {
+      "appid": 275200,
+      "name": "Westerado: Double Barreled",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:37:01.658187"
+    },
+    "275390": {
+      "appid": 275390,
+      "name": "Guacamelee! Super Turbo Championship Edition",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:37:02.385599"
+    },
+    "275470": {
+      "appid": 275470,
+      "name": "Chip",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:37:02.569700"
+    },
+    "275490": {
+      "appid": 275490,
+      "name": "Canyon Capers",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:37:02.890772"
+    },
+    "275510": {
+      "appid": 275510,
+      "name": "Z Steel Soldiers",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:37:03.026929"
+    },
+    "275530": {
+      "appid": 275530,
+      "name": "Z",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:37:03.157303"
+    },
+    "275670": {
+      "appid": 275670,
+      "name": "Space Run",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:37:03.435123"
     }
   }
 }
