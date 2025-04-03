@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-03T20:33:53.500563"
+    "updated": "2025-04-03T20:47:16.588551"
   },
   "games": {
     "570": {
@@ -42720,6 +42720,118 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-03T20:33:53.498683"
+    },
+    "314970": {
+      "appid": 314970,
+      "name": "Age of Conquest IV",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:46:58.793728"
+    },
+    "315210": {
+      "appid": 315210,
+      "name": "自杀小队：消灭正义联盟",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-03T20:46:59.723015"
+    },
+    "315460": {
+      "appid": 315460,
+      "name": "Dig or Die",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:47:00.888451"
+    },
+    "315810": {
+      "appid": 315810,
+      "name": "eden*",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:47:02.301722"
+    },
+    "316010": {
+      "appid": 316010,
+      "name": "Magic Duels",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-03T20:47:03.454600"
+    },
+    "316610": {
+      "appid": 316610,
+      "name": "A Good Snowman Is Hard To Build",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-03T20:47:05.528108"
+    },
+    "316890": {
+      "appid": 316890,
+      "name": "Calvino Noir",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:47:06.899182"
+    },
+    "317360": {
+      "appid": 317360,
+      "name": "Double Action: Boogaloo",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-03T20:47:09.235600"
+    },
+    "317820": {
+      "appid": 317820,
+      "name": "地下城探险公会终极版 Guild of Dungeoneering Ultimate Edition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:47:11.122683"
+    },
+    "318130": {
+      "appid": 318130,
+      "name": "Doom & Destiny",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:47:12.483540"
+    },
+    "318480": {
+      "appid": 318480,
+      "name": "Burnstar",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:47:13.960273"
+    },
+    "318600": {
+      "appid": 318600,
+      "name": "洪潮之焰 / The Flame in the Flood",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:47:14.573390"
+    },
+    "318840": {
+      "appid": 318840,
+      "name": "Tempopo",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-03T20:47:15.451593"
+    },
+    "319050": {
+      "appid": 319050,
+      "name": "Chaos Reborn",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:47:16.001138"
     }
   }
 }
