@@ -44,19 +44,22 @@ jobs:
         id: scraper
         run: python Src/scraper.py
 
-      - name: Stage changes
+      - name: Commit local changes
         run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
           git add data/*.json data/*.db
+          git commit -m "Temporary commit of local changes" || echo "No changes to commit"
 
       - name: Pull remote changes
         run: |
           git pull origin main --rebase
-        continue-on-error: true  # 如果拉取失败，继续尝试提交
+        continue-on-error: true  # 如果拉取失败，继续尝试推送
 
-      - name: Commit and push changes
+      - name: Push changes
         uses: EndBug/add-and-commit@v9
         with:
-          add: 'data/*.json data/*.db'  # 再次确保所有更改被添加
+          add: 'data/*.json data/*.db'
           message: |
             🎮 游戏数据更新 [${{ github.run_number }}]
             统计结果：
