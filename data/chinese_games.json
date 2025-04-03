@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-03T19:00:54.948750"
+    "updated": "2025-04-03T19:22:12.812540"
   },
   "games": {
     "570": {
@@ -40680,6 +40680,102 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-03T19:00:54.080458"
+    },
+    "255300": {
+      "appid": 255300,
+      "name": "Journey of a Roach",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:21:56.331163"
+    },
+    "255320": {
+      "appid": 255320,
+      "name": "Edna & Harvey: The Breakout",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:21:56.406379"
+    },
+    "255710": {
+      "appid": 255710,
+      "name": "Cities: Skylines",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:21:56.861301"
+    },
+    "257350": {
+      "appid": 257350,
+      "name": "Baldur's Gate II: Enhanced Edition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:21:59.407471"
+    },
+    "257420": {
+      "appid": 257420,
+      "name": "英雄萨姆4",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:21:59.650048"
+    },
+    "257510": {
+      "appid": 257510,
+      "name": "塔罗斯的法则",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:21:59.769472"
+    },
+    "257990": {
+      "appid": 257990,
+      "name": "Oozi: Earth Adventure",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:22:01.919071"
+    },
+    "259530": {
+      "appid": 259530,
+      "name": "Savant - Ascent",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-03T19:22:06.606645"
+    },
+    "259550": {
+      "appid": 259550,
+      "name": "王国英雄",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:22:06.718378"
+    },
+    "259680": {
+      "appid": 259680,
+      "name": "Tales of Maj'Eyal",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:22:07.335021"
+    },
+    "259810": {
+      "appid": 259810,
+      "name": "送小羊回家",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-03T19:22:07.928019"
+    },
+    "260410": {
+      "appid": 260410,
+      "name": "Get Off My Lawn!",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:22:11.889509"
     }
   }
 }
