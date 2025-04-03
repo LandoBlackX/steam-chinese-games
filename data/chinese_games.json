@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-03T20:47:16.588551"
+    "updated": "2025-04-03T20:59:59.351968"
   },
   "games": {
     "570": {
@@ -42832,6 +42832,222 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-03T20:47:16.001138"
+    },
+    "319320": {
+      "appid": 319320,
+      "name": "Time Mysteries 3: The Final Enigma",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:59:43.030142"
+    },
+    "319540": {
+      "appid": 319540,
+      "name": "A Year Of Rain",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-03T20:59:44.073482"
+    },
+    "319740": {
+      "appid": 319740,
+      "name": "There Came an Echo",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:59:44.624055"
+    },
+    "319780": {
+      "appid": 319780,
+      "name": "Airport Simulator 2015",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-03T20:59:44.893305"
+    },
+    "319850": {
+      "appid": 319850,
+      "name": "Bridge Constructor Medieval",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-03T20:59:45.161936"
+    },
+    "319870": {
+      "appid": 319870,
+      "name": "Jenny LeClue - Detectivu",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-03T20:59:45.346382"
+    },
+    "319910": {
+      "appid": 319910,
+      "name": "Trine 3: The Artifacts of Power",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:59:45.487068"
+    },
+    "320040": {
+      "appid": 320040,
+      "name": "Moon Hunters",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:59:45.741281"
+    },
+    "320240": {
+      "appid": 320240,
+      "name": "We Happy Few",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-03T20:59:46.557164"
+    },
+    "320540": {
+      "appid": 320540,
+      "name": "Coffin Dodgers",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:59:48.059504"
+    },
+    "320610": {
+      "appid": 320610,
+      "name": "Questerium: Sinister Trinity HD Collector's Edition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:59:48.183744"
+    },
+    "321150": {
+      "appid": 321150,
+      "name": "Melissa K. and the Heart of Gold Collector's Edition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:59:49.873449"
+    },
+    "321160": {
+      "appid": 321160,
+      "name": "Timber Tennis: Versus",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:59:50.002131"
+    },
+    "321290": {
+      "appid": 321290,
+      "name": "Dandelion - Wishes brought to you -",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:59:50.493419"
+    },
+    "321370": {
+      "appid": 321370,
+      "name": "Sign Motion",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:59:51.113877"
+    },
+    "321800": {
+      "appid": 321800,
+      "name": "Icewind Dale: Enhanced Edition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:59:52.674339"
+    },
+    "321960": {
+      "appid": 321960,
+      "name": "Might & Magic® Heroes® VII",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:59:54.010072"
+    },
+    "322110": {
+      "appid": 322110,
+      "name": "20XX",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:59:54.613270"
+    },
+    "322450": {
+      "appid": 322450,
+      "name": "FRAMED Collection",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:59:55.849843"
+    },
+    "322500": {
+      "appid": 322500,
+      "name": "SUPERHOT",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:59:55.978117"
+    },
+    "322520": {
+      "appid": 322520,
+      "name": "真・三国无双７ Empires",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-03T20:59:56.156422"
+    },
+    "322580": {
+      "appid": 322580,
+      "name": "Dungeon Lurk II - Leona",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-03T20:59:56.557216"
+    },
+    "322770": {
+      "appid": 322770,
+      "name": "Vanishing Realms™",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-03T20:59:57.233546"
+    },
+    "322950": {
+      "appid": 322950,
+      "name": "Pure Hold'em",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-03T20:59:57.914423"
+    },
+    "323040": {
+      "appid": 323040,
+      "name": "Laserlife",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:59:58.697633"
+    },
+    "323190": {
+      "appid": 323190,
+      "name": "冰汽时代",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T20:59:58.940983"
+    },
+    "323240": {
+      "appid": 323240,
+      "name": "The World II: Hunting BOSS",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-03T20:59:59.217965"
     }
   }
 }
