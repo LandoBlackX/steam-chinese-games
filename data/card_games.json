@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-03T21:39:30.369532"
+    "updated": "2025-04-03T21:52:53.516400"
   },
   "games": {
     "570": {
@@ -15286,6 +15286,582 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-04-03T21:39:30.242917"
+    },
+    "331460": {
+      "appid": 331460,
+      "name": "ROOMS: The Toymaker's Mansion",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T21:52:31.576358"
+    },
+    "331480": {
+      "appid": 331480,
+      "name": "Pinstripe",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T21:52:31.998701"
+    },
+    "331510": {
+      "appid": 331510,
+      "name": "Amphora",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T21:52:32.561391"
+    },
+    "331570": {
+      "appid": 331570,
+      "name": "Wimp: Who Stole My Pants?",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T21:52:32.757659"
+    },
+    "331580": {
+      "appid": 331580,
+      "name": "ULTRAWORLD EXODUS",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T21:52:32.920524"
+    },
+    "331690": {
+      "appid": 331690,
+      "name": "Crossing Souls",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T21:52:33.797308"
+    },
+    "331720": {
+      "appid": 331720,
+      "name": "Survivor Squad: Gauntlets",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T21:52:34.017046"
+    },
+    "331760": {
+      "appid": 331760,
+      "name": "Supreme League of Patriots",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T21:52:34.367622"
+    },
+    "331790": {
+      "appid": 331790,
+      "name": "Data Hacker: Reboot",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T21:52:34.500957"
+    },
+    "331870": {
+      "appid": 331870,
+      "name": "AER Memories of Old",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T21:52:34.666995"
+    },
+    "331980": {
+      "appid": 331980,
+      "name": "Last Inua",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T21:52:35.379607"
+    },
+    "332200": {
+      "appid": 332200,
+      "name": "Axiom Verge",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T21:52:35.803261"
+    },
+    "332330": {
+      "appid": 332330,
+      "name": "PixelJunk™ Shooter Ultimate",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T21:52:36.699619"
+    },
+    "332360": {
+      "appid": 332360,
+      "name": "Spriter Pro",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T21:52:36.903700"
+    },
+    "332380": {
+      "appid": 332380,
+      "name": "Asguaard",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T21:52:37.251213"
+    },
+    "332390": {
+      "appid": 332390,
+      "name": "Undefeated",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T21:52:37.424840"
+    },
+    "332400": {
+      "appid": 332400,
+      "name": "Girlfriend Rescue",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T21:52:37.657490"
+    },
+    "332410": {
+      "appid": 332410,
+      "name": "Moonchild",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T21:52:37.901564"
+    },
+    "332480": {
+      "appid": 332480,
+      "name": "Phoenix Force",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T21:52:38.078486"
+    },
+    "332530": {
+      "appid": 332530,
+      "name": "Shutshimi",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T21:52:38.648638"
+    },
+    "332540": {
+      "appid": 332540,
+      "name": "We Slay Monsters",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T21:52:38.895670"
+    },
+    "332580": {
+      "appid": 332580,
+      "name": "Mimpi",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T21:52:39.221718"
+    },
+    "332610": {
+      "appid": 332610,
+      "name": "Mystik Belle",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T21:52:39.386387"
+    },
+    "332620": {
+      "appid": 332620,
+      "name": "PONCHO",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T21:52:39.562449"
+    },
+    "332630": {
+      "appid": 332630,
+      "name": "The Guilt and the Shadow",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T21:52:39.730223"
+    },
+    "332700": {
+      "appid": 332700,
+      "name": "Mike was Сursed",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T21:52:39.897166"
+    },
+    "332710": {
+      "appid": 332710,
+      "name": "1Quest",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T21:52:40.060294"
+    },
+    "332730": {
+      "appid": 332730,
+      "name": "Barbarian Brawl",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T21:52:40.184861"
+    },
+    "332790": {
+      "appid": 332790,
+      "name": "Darkness Assault",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T21:52:40.521641"
+    },
+    "332830": {
+      "appid": 332830,
+      "name": "Prelogate",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T21:52:41.031018"
+    },
+    "333120": {
+      "appid": 333120,
+      "name": "Inside The Gear",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T21:52:41.721702"
+    },
+    "333210": {
+      "appid": 333210,
+      "name": "Kaiju-A-GoGo",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T21:52:42.141371"
+    },
+    "333250": {
+      "appid": 333250,
+      "name": "Forward to the Sky",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T21:52:42.297836"
+    },
+    "333260": {
+      "appid": 333260,
+      "name": "Marvin's Mittens",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T21:52:42.445640"
+    },
+    "333300": {
+      "appid": 333300,
+      "name": "ADOM (Ancient Domains Of Mystery)",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T21:52:42.788839"
+    },
+    "333330": {
+      "appid": 333330,
+      "name": "Song of the Myrne: What Lies Beneath",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T21:52:42.990094"
+    },
+    "333340": {
+      "appid": 333340,
+      "name": "Star Rangers™ XE",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T21:52:43.215066"
+    },
+    "333390": {
+      "appid": 333390,
+      "name": "Tales of Aravorn: Seasons Of The Wolf",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T21:52:43.754716"
+    },
+    "333420": {
+      "appid": 333420,
+      "name": "Cossacks 3",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T21:52:43.940917"
+    },
+    "333490": {
+      "appid": 333490,
+      "name": "Replay - VHS is not dead",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T21:52:44.310515"
+    },
+    "333510": {
+      "appid": 333510,
+      "name": "Isbarah",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T21:52:44.492268"
+    },
+    "333580": {
+      "appid": 333580,
+      "name": "Slow Down, Bull",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T21:52:44.884682"
+    },
+    "333600": {
+      "appid": 333600,
+      "name": "NEKOPARA Vol. 1",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T21:52:45.049180"
+    },
+    "333660": {
+      "appid": 333660,
+      "name": "Towers of Altrac - Epic Defense Battles",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T21:52:45.592236"
+    },
+    "333690": {
+      "appid": 333690,
+      "name": "Epanalepsis",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T21:52:45.764202"
+    },
+    "333730": {
+      "appid": 333730,
+      "name": "Dark Gates",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T21:52:45.928744"
+    },
+    "333760": {
+      "appid": 333760,
+      "name": "Vintage Year",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T21:52:46.092590"
+    },
+    "333880": {
+      "appid": 333880,
+      "name": "Braveland Wizard",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T21:52:46.445800"
+    },
+    "333930": {
+      "appid": 333930,
+      "name": "Dirty Bomb®",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T21:52:46.713742"
+    },
+    "333970": {
+      "appid": 333970,
+      "name": "A Druid's Duel",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T21:52:47.211918"
+    },
+    "333980": {
+      "appid": 333980,
+      "name": "AKIBA'S TRIP: Undead ＆ Undressed",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T21:52:47.388984"
+    },
+    "334030": {
+      "appid": 334030,
+      "name": "Epic Arena",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T21:52:47.732857"
+    },
+    "334040": {
+      "appid": 334040,
+      "name": "Down To One",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T21:52:47.901504"
+    },
+    "334070": {
+      "appid": 334070,
+      "name": "Hektor",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T21:52:48.073217"
+    },
+    "334100": {
+      "appid": 334100,
+      "name": "Extreme Exorcism",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T21:52:48.382300"
+    },
+    "334140": {
+      "appid": 334140,
+      "name": "Roche Fusion",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T21:52:48.734063"
+    },
+    "334210": {
+      "appid": 334210,
+      "name": "Fortified",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T21:52:49.109892"
+    },
+    "334260": {
+      "appid": 334260,
+      "name": "Icebound",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T21:52:49.428922"
+    },
+    "334270": {
+      "appid": 334270,
+      "name": "Star Traders: 4X Empires",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T21:52:49.577166"
+    },
+    "334280": {
+      "appid": 334280,
+      "name": "Lost Sea",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T21:52:49.765527"
+    },
+    "334290": {
+      "appid": 334290,
+      "name": "Gates of Horizon",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T21:52:49.944447"
+    },
+    "334300": {
+      "appid": 334300,
+      "name": "Fake Colours",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T21:52:50.065895"
+    },
+    "334350": {
+      "appid": 334350,
+      "name": "Don't Move",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T21:52:50.469534"
+    },
+    "334360": {
+      "appid": 334360,
+      "name": "Passcode Breaker: The Day Before",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T21:52:50.630410"
+    },
+    "334420": {
+      "appid": 334420,
+      "name": "Out There: Ω Edition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T21:52:50.953304"
+    },
+    "334560": {
+      "appid": 334560,
+      "name": "Square Heroes",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T21:52:51.970172"
+    },
+    "334620": {
+      "appid": 334620,
+      "name": "Soccertron",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T21:52:52.180916"
+    },
+    "334690": {
+      "appid": 334690,
+      "name": "Squirreltopia",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T21:52:52.349299"
+    },
+    "334710": {
+      "appid": 334710,
+      "name": "Ilamentia",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T21:52:52.507766"
+    },
+    "334840": {
+      "appid": 334840,
+      "name": "Drive to Hell",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T21:52:52.818150"
+    },
+    "334850": {
+      "appid": 334850,
+      "name": "1931: Scheherazade at the Library of Pergamum",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T21:52:52.982624"
+    },
+    "334940": {
+      "appid": 334940,
+      "name": "Yoku's Island Express",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T21:52:53.306825"
     }
   }
 }

@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-03T21:39:30.369532"
+    "updated": "2025-04-03T21:52:53.516400"
   },
   "games": {
     "570": {
@@ -43360,6 +43360,190 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-03T21:39:28.666503"
+    },
+    "331460": {
+      "appid": 331460,
+      "name": "ROOMS: The Toymaker's Mansion",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T21:52:31.576358"
+    },
+    "331470": {
+      "appid": 331470,
+      "name": "Everlasting Summer",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-03T21:52:31.839013"
+    },
+    "331480": {
+      "appid": 331480,
+      "name": "Pinstripe",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T21:52:31.998701"
+    },
+    "331600": {
+      "appid": 331600,
+      "name": "One Piece Pirate Warriors 3",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-03T21:52:33.117732"
+    },
+    "331690": {
+      "appid": 331690,
+      "name": "Crossing Souls",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T21:52:33.797308"
+    },
+    "331870": {
+      "appid": 331870,
+      "name": "AER Memories of Old",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T21:52:34.666995"
+    },
+    "332310": {
+      "appid": 332310,
+      "name": "LEGO® Worlds",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-03T21:52:36.527302"
+    },
+    "332480": {
+      "appid": 332480,
+      "name": "Phoenix Force",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T21:52:38.078486"
+    },
+    "332500": {
+      "appid": 332500,
+      "name": "GRAV",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-03T21:52:38.446939"
+    },
+    "332950": {
+      "appid": 332950,
+      "name": "Dark Deception",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-03T21:52:41.350240"
+    },
+    "333130": {
+      "appid": 333130,
+      "name": "Do Not Fall",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-03T21:52:41.959378"
+    },
+    "333250": {
+      "appid": 333250,
+      "name": "Forward to the Sky",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T21:52:42.297836"
+    },
+    "333290": {
+      "appid": 333290,
+      "name": "Mos Speedrun 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-03T21:52:42.631048"
+    },
+    "333600": {
+      "appid": 333600,
+      "name": "NEKOPARA Vol. 1",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T21:52:45.049180"
+    },
+    "333880": {
+      "appid": 333880,
+      "name": "Braveland Wizard",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T21:52:46.445800"
+    },
+    "333930": {
+      "appid": 333930,
+      "name": "Dirty Bomb®",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T21:52:46.713742"
+    },
+    "333980": {
+      "appid": 333980,
+      "name": "AKIBA'S TRIP: Undead ＆ Undressed",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T21:52:47.388984"
+    },
+    "334030": {
+      "appid": 334030,
+      "name": "Epic Arena",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T21:52:47.732857"
+    },
+    "334280": {
+      "appid": 334280,
+      "name": "Lost Sea",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T21:52:49.765527"
+    },
+    "334310": {
+      "appid": 334310,
+      "name": "冒险之旅：十字军东征",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-03T21:52:50.236636"
+    },
+    "334420": {
+      "appid": 334420,
+      "name": "Out There: Ω Edition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T21:52:50.953304"
+    },
+    "334940": {
+      "appid": 334940,
+      "name": "Yoku's Island Express",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T21:52:53.306825"
+    },
+    "334960": {
+      "appid": 334960,
+      "name": "Cell HD: emergence",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-03T21:52:53.514606"
     }
   }
 }
