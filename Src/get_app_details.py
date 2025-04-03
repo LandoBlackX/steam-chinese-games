@@ -18,7 +18,6 @@ DATA_DIR.mkdir(exist_ok=True, parents=True)
 db_path = DATA_DIR / 'app_list.db'
 getDetails_URL = "https://store.steampowered.com/api/appdetails?l=english&appids="
 output_file = DATA_DIR / 'output.json'
-failed_file = DATA_DIR / 'failed_appids.json'
 
 class SteamRateLimiter:
     def __init__(self, requests_per_minute=200):
@@ -47,6 +46,7 @@ def log(message):
     print(f"[{datetime.now().isoformat()}] {message}", file=sys.stderr, flush=True)
 
 def log_failed_appid(appid, reason):
+    failed_file = DATA_DIR / 'failed_appids.json'
     failed_data = {}
     if failed_file.exists():
         with open(failed_file, 'r', encoding='utf-8') as f:
@@ -55,11 +55,21 @@ def log_failed_appid(appid, reason):
     with open(failed_file, 'w', encoding='utf-8') as f:
         json.dump(failed_data, f, indent=2, ensure_ascii=False)
 
-def load_existing_results():
+def write_results_to_file(results):
     if output_file.exists():
         with open(output_file, 'r', encoding='utf-8') as f:
-            return json.load(f)
-    return {}
+            existing_results = json.load(f)
+    else:
+        existing_results = {}
+
+    existing_results.update(results)
+
+    with open(output_file, 'w', encoding='utf-8') as f:
+        json.dump(existing_results, f, ensure_ascii=False, indent=4)
+
+def update_status(conn, cursor, appid):
+    cursor.execute("UPDATE apps SET status = true WHERE appid = ?", (appid,))
+    conn.commit()
 
 def check_app(appid, rate_limiter):
     url = f"{getDetails_URL}{appid}"
@@ -76,36 +86,23 @@ def check_app(appid, rate_limiter):
             app_data = data[appid_str]['data']
             app_type = app_data.get('type', 'Unknown')
             log(f"AppID: {appid}, 类型: {app_type}, 响应时间: {duration:.2f}秒")
-            return app_type
+            return appid, app_type
         else:
             reason = f"API 返回: {data.get(appid_str, '无数据')}"
             log(f"获取 AppID: {appid} 的详情失败，{reason}")
             log_failed_appid(appid, reason)
-            return None
+            return appid, None
     except requests.exceptions.RequestException as e:
         if "429" in str(e):
             log(f"触发 429 错误，暂停 5 分钟后重试...")
             time.sleep(300)
-            return None
+            return appid, None
         else:
             log(f"请求 AppID: {appid} 失败: {e}")
             log_failed_appid(appid, str(e))
-            return None
-
-def update_status(conn, cursor, appid, success=True):
-    if success:
-        cursor.execute("UPDATE apps SET status = true WHERE appid = ?", (appid,))
-    conn.commit()
-
-def write_results_to_file(results):
-    existing_results = load_existing_results()
-    existing_results.update(results)
-    with open(output_file, 'w', encoding='utf-8') as f:
-        json.dump(existing_results, f, ensure_ascii=False, indent=4)
+            return appid, None
 
 def main():
-    log("开始运行 get_app_details.py")
-
     conn = sqlite3.connect(db_path)
     cursor = conn.cursor()
 
@@ -126,35 +123,23 @@ def main():
         conn.close()
         return
 
-    log(f"从数据库加载 {len(appids)} 个待处理 AppID")
-
-    existing_results = load_existing_results()
+    log(f"开始处理 {len(appids)} 个 AppID")
+    rate_limiter = SteamRateLimiter(requests_per_minute=200)
     results = {}
     success_count = 0
     failure_count = 0
-    rate_limiter = SteamRateLimiter(requests_per_minute=200)
 
     for appid in appids:
-        appid_str = str(appid)
-        if appid_str in existing_results:
-            results[appid] = existing_results[appid_str]
+        appid, app_type = check_app(appid, rate_limiter)
+        update_status(conn, cursor, appid)
+        if app_type:
+            results[appid] = app_type
             success_count += 1
-            log(f"AppID: {appid} 已存在于 output.json，类型: {results[appid]}，跳过查询")
-            update_status(conn, cursor, appid)
         else:
-            app_type = check_app(appid, rate_limiter)
-            if app_type:
-                results[appid] = app_type
-                success_count += 1
-            else:
-                failure_count += 1
-            update_status(conn, cursor, appid, success=(app_type is not None))
-
-    if results:
-        write_results_to_file(results)
-        log(f"已更新 output.json，新增或更新 {len(results)} 个 AppID")
+            failure_count += 1
 
     log(f"处理完成！成功: {success_count}, 失败: {failure_count}")
+    write_results_to_file(results)
     cursor.close()
     conn.close()
 
