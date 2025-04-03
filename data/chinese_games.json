@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-03T18:24:49.206458"
+    "updated": "2025-04-03T18:33:56.671283"
   },
   "games": {
     "570": {
@@ -40144,6 +40144,14 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-03T18:24:48.314555"
+    },
+    "3111830": {
+      "appid": 3111830,
+      "name": "美人驾到：忘忧岛",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-03T18:33:56.669633"
     }
   }
 }
