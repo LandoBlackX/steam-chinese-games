@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-03T17:18:17.828261"
+    "updated": "2025-04-03T17:23:40.486679"
   },
   "games": {
     "570": {
@@ -39232,6 +39232,86 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-04-03T17:18:16.858699"
+    },
+    "63200": {
+      "appid": 63200,
+      "name": "Monday Night Combat",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-03T17:23:17.137627"
+    },
+    "63209": {
+      "appid": 63209,
+      "name": "Monday Night Combat",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-03T17:23:17.296530"
+    },
+    "65080": {
+      "appid": 65080,
+      "name": "Kaptain Brawe: A Brawe New World",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-03T17:23:20.139601"
+    },
+    "65980": {
+      "appid": 65980,
+      "name": "Sid Meier's Civilization®: Beyond Earth™",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:23:22.605294"
+    },
+    "70300": {
+      "appid": 70300,
+      "name": "VVVVVV",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:23:23.640170"
+    },
+    "92000": {
+      "appid": 92000,
+      "name": "Hydrophobia: Prophecy",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-03T17:23:32.783861"
+    },
+    "95400": {
+      "appid": 95400,
+      "name": "ibb & obb",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:23:36.351328"
+    },
+    "96000": {
+      "appid": 96000,
+      "name": "The Tiny Bang Story",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:23:36.780568"
+    },
+    "98300": {
+      "appid": 98300,
+      "name": "Toy Soldiers",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-03T17:23:38.435788"
+    },
+    "99830": {
+      "appid": 99830,
+      "name": "Crysis 2 - Maximum Edition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-03T17:23:40.156527"
     }
   }
 }

@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-03T17:18:17.828261"
+    "updated": "2025-04-03T17:23:40.486679"
   },
   "games": {
     "570": {
@@ -1566,6 +1566,326 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-04-03T17:18:15.204420"
+    },
+    "63380": {
+      "appid": 63380,
+      "name": "Sniper Elite V2",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:23:17.432665"
+    },
+    "63710": {
+      "appid": 63710,
+      "name": "BIT.TRIP RUNNER",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:23:18.748634"
+    },
+    "63800": {
+      "appid": 63800,
+      "name": "Delve Deeper",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:23:18.921946"
+    },
+    "65300": {
+      "appid": 65300,
+      "name": "Dustforce DX",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:23:20.555303"
+    },
+    "65800": {
+      "appid": 65800,
+      "name": "Dungeon Defenders",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:23:22.315629"
+    },
+    "65930": {
+      "appid": 65930,
+      "name": "The Bureau: XCOM Declassified",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:23:22.451456"
+    },
+    "65980": {
+      "appid": 65980,
+      "name": "Sid Meier's Civilization®: Beyond Earth™",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:23:22.605294"
+    },
+    "70000": {
+      "appid": 70000,
+      "name": "Dino D-Day",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:23:23.041049"
+    },
+    "70100": {
+      "appid": 70100,
+      "name": "Hacker Evolution",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:23:23.177499"
+    },
+    "70110": {
+      "appid": 70110,
+      "name": "Hacker Evolution: Untold",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:23:23.317598"
+    },
+    "70300": {
+      "appid": 70300,
+      "name": "VVVVVV",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:23:23.640170"
+    },
+    "71000": {
+      "appid": 71000,
+      "name": "Evochron Mercenary",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:23:24.993851"
+    },
+    "72000": {
+      "appid": 72000,
+      "name": "Closure",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:23:28.185792"
+    },
+    "72400": {
+      "appid": 72400,
+      "name": "Clones",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:23:28.319095"
+    },
+    "72850": {
+      "appid": 72850,
+      "name": "The Elder Scrolls V: Skyrim",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:23:28.459594"
+    },
+    "72900": {
+      "appid": 72900,
+      "name": "Winter Voices",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:23:28.588985"
+    },
+    "73210": {
+      "appid": 73210,
+      "name": "Sengoku",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:23:29.495606"
+    },
+    "80310": {
+      "appid": 80310,
+      "name": "Gemini Rue",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:23:30.348571"
+    },
+    "80330": {
+      "appid": 80330,
+      "name": "The Blackwell Legacy",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:23:30.484400"
+    },
+    "80340": {
+      "appid": 80340,
+      "name": "Blackwell Unbound",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:23:30.635169"
+    },
+    "80350": {
+      "appid": 80350,
+      "name": "Blackwell Convergence",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:23:30.791071"
+    },
+    "80360": {
+      "appid": 80360,
+      "name": "Blackwell Deception",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:23:31.005252"
+    },
+    "91200": {
+      "appid": 91200,
+      "name": "Anomaly: Warzone Earth",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:23:31.713473"
+    },
+    "91700": {
+      "appid": 91700,
+      "name": "E.Y.E: Divine Cybermancy",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:23:32.192737"
+    },
+    "91900": {
+      "appid": 91900,
+      "name": "Post Apocalyptic Mayhem",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:23:32.652451"
+    },
+    "92100": {
+      "appid": 92100,
+      "name": "DETOUR",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:23:32.910794"
+    },
+    "92300": {
+      "appid": 92300,
+      "name": "A.R.E.S.: Extinction Agenda",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:23:33.483432"
+    },
+    "92800": {
+      "appid": 92800,
+      "name": "SpaceChem",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:23:34.104648"
+    },
+    "93200": {
+      "appid": 93200,
+      "name": "Revenge of the Titans",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:23:34.402667"
+    },
+    "94300": {
+      "appid": 94300,
+      "name": "The Dream Machine: Chapter 1 & 2",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:23:34.851724"
+    },
+    "94400": {
+      "appid": 94400,
+      "name": "Nidhogg",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:23:34.979953"
+    },
+    "95400": {
+      "appid": 95400,
+      "name": "ibb & obb",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:23:36.351328"
+    },
+    "96000": {
+      "appid": 96000,
+      "name": "The Tiny Bang Story",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:23:36.780568"
+    },
+    "96100": {
+      "appid": 96100,
+      "name": "Defy Gravity Extended",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:23:36.925995"
+    },
+    "96200": {
+      "appid": 96200,
+      "name": "Steel Storm: Burning Retribution",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:23:37.083118"
+    },
+    "96900": {
+      "appid": 96900,
+      "name": "Slam Bolt Scrappers",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:23:37.411334"
+    },
+    "98200": {
+      "appid": 98200,
+      "name": "Frozen Synapse",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:23:38.290001"
+    },
+    "98500": {
+      "appid": 98500,
+      "name": "Naval Warfare",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:23:38.703231"
+    },
+    "98800": {
+      "appid": 98800,
+      "name": "Dungeons of Dredmor",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:23:38.976933"
+    },
+    "99900": {
+      "appid": 99900,
+      "name": "Spiral Knights",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:23:40.307144"
     }
   }
 }
