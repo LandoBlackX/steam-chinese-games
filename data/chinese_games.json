@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-03T21:52:53.516400"
+    "updated": "2025-04-03T22:16:16.957188"
   },
   "games": {
     "570": {
@@ -43544,6 +43544,110 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-04-03T21:52:53.514606"
+    },
+    "335240": {
+      "appid": 335240,
+      "name": "Transformice",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T22:16:00.770372"
+    },
+    "335300": {
+      "appid": 335300,
+      "name": "DARK SOULS™ II: Scholar of the First Sin",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-03T22:16:00.873583"
+    },
+    "335670": {
+      "appid": 335670,
+      "name": "LISA: The Painful",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T22:16:02.800680"
+    },
+    "335920": {
+      "appid": 335920,
+      "name": "Ephemerid: A Musical Adventure",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T22:16:04.242946"
+    },
+    "336240": {
+      "appid": 336240,
+      "name": "Typoman",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T22:16:06.828210"
+    },
+    "336440": {
+      "appid": 336440,
+      "name": "Super Cane Magic ZERO - Legend of the Cane Cane",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T22:16:07.560078"
+    },
+    "336760": {
+      "appid": 336760,
+      "name": "Pilot Brothers",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-03T22:16:08.981536"
+    },
+    "337070": {
+      "appid": 337070,
+      "name": "Dimmdrive :: Gaming Ramdrive @ 10,000+ MB/s",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-03T22:16:10.267625"
+    },
+    "337320": {
+      "appid": 337320,
+      "name": "Paint the Town Red",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T22:16:11.517032"
+    },
+    "337340": {
+      "appid": 337340,
+      "name": "Finding Paradise 《寻找天堂》",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T22:16:11.663436"
+    },
+    "337360": {
+      "appid": 337360,
+      "name": "Dead Island Retro Revenge",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-03T22:16:12.009351"
+    },
+    "337420": {
+      "appid": 337420,
+      "name": "Final Dusk",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T22:16:12.282608"
+    },
+    "338110": {
+      "appid": 338110,
+      "name": "Khaba",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-03T22:16:16.955451"
     }
   }
 }
