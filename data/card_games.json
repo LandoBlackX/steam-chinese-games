@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-03T19:22:12.812540"
+    "updated": "2025-04-03T19:25:12.764059"
   },
   "games": {
     "570": {
@@ -6862,6 +6862,622 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-04-03T19:22:12.564717"
+    },
+    "261110": {
+      "appid": 261110,
+      "name": "Killer is Dead - Nightmare Edition",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:24:54.435882"
+    },
+    "261180": {
+      "appid": 261180,
+      "name": "Lethal League",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:24:54.582078"
+    },
+    "261510": {
+      "appid": 261510,
+      "name": "Tesla Effect: A Tex Murphy Adventure",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:24:54.882422"
+    },
+    "261550": {
+      "appid": 261550,
+      "name": "Mount & Blade II: Bannerlord",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:24:55.142887"
+    },
+    "261570": {
+      "appid": 261570,
+      "name": "Ori and the Blind Forest",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:24:55.277459"
+    },
+    "261640": {
+      "appid": 261640,
+      "name": "Borderlands: The Pre-Sequel",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:24:55.419439"
+    },
+    "261680": {
+      "appid": 261680,
+      "name": "Journal",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:24:55.571397"
+    },
+    "261700": {
+      "appid": 261700,
+      "name": "Eryi's Action",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:24:55.716201"
+    },
+    "261760": {
+      "appid": 261760,
+      "name": "Lichdom: Battlemage",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:24:56.219727"
+    },
+    "262000": {
+      "appid": 262000,
+      "name": "Gabriel Knight: Sins of the Fathers 20th Anniversary Edition",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:24:57.011672"
+    },
+    "262060": {
+      "appid": 262060,
+      "name": "Darkest Dungeon®",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:24:57.142465"
+    },
+    "262080": {
+      "appid": 262080,
+      "name": "Iron Soul",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:24:57.301335"
+    },
+    "262120": {
+      "appid": 262120,
+      "name": "Toy Soldiers: Complete",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:24:57.595579"
+    },
+    "262150": {
+      "appid": 262150,
+      "name": "Vanguard Princess",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:24:57.796058"
+    },
+    "262210": {
+      "appid": 262210,
+      "name": "Last Knight: Rogue Rider Edition",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:24:58.123580"
+    },
+    "262260": {
+      "appid": 262260,
+      "name": "Jets'n'Guns Gold",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:24:58.430889"
+    },
+    "262280": {
+      "appid": 262280,
+      "name": "Dungeons 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:24:58.581360"
+    },
+    "262390": {
+      "appid": 262390,
+      "name": "云境 (Cloudbuilt)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:24:59.006033"
+    },
+    "262410": {
+      "appid": 262410,
+      "name": "World of Guns: Gun Disassembly",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:24:59.221515"
+    },
+    "262450": {
+      "appid": 262450,
+      "name": "Dead Man's Draw",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:24:59.368754"
+    },
+    "262470": {
+      "appid": 262470,
+      "name": "Rollers of the Realm",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:24:59.500882"
+    },
+    "262590": {
+      "appid": 262590,
+      "name": "Chuck's Challenge 3D 2020",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:25:00.138076"
+    },
+    "262690": {
+      "appid": 262690,
+      "name": "Little Racers STREET",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:25:00.845284"
+    },
+    "262750": {
+      "appid": 262750,
+      "name": "GoD Factory: Wingmen",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:25:01.012050"
+    },
+    "262770": {
+      "appid": 262770,
+      "name": "Freedom Fall",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:25:01.191836"
+    },
+    "262790": {
+      "appid": 262790,
+      "name": "Our Darker Purpose",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:25:01.345614"
+    },
+    "262810": {
+      "appid": 262810,
+      "name": "Super Turbo Demon Busters!",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:25:01.503569"
+    },
+    "262830": {
+      "appid": 262830,
+      "name": "Crimsonland",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:25:01.608153"
+    },
+    "262850": {
+      "appid": 262850,
+      "name": "The Journey Down: Chapter Two",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:25:01.740171"
+    },
+    "262900": {
+      "appid": 262900,
+      "name": "Smooth Operators",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:25:02.026566"
+    },
+    "262920": {
+      "appid": 262920,
+      "name": "Super Chain Crusher Horizon",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:25:02.180852"
+    },
+    "262940": {
+      "appid": 262940,
+      "name": "Broken Sword 5 - the Serpent's Curse",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:25:02.326099"
+    },
+    "262960": {
+      "appid": 262960,
+      "name": "Castle In The Darkness",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:25:02.478706"
+    },
+    "263020": {
+      "appid": 263020,
+      "name": "STARWHAL",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:25:02.786995"
+    },
+    "263040": {
+      "appid": 263040,
+      "name": "Bot Colony",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:25:02.943059"
+    },
+    "263060": {
+      "appid": 263060,
+      "name": "Blockstorm",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:25:03.076594"
+    },
+    "263200": {
+      "appid": 263200,
+      "name": "Signs of Life",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:25:03.781883"
+    },
+    "263300": {
+      "appid": 263300,
+      "name": "BlazBlue: Calamity Trigger",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:25:03.910225"
+    },
+    "263320": {
+      "appid": 263320,
+      "name": "Saturday Morning RPG",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:25:04.081048"
+    },
+    "263360": {
+      "appid": 263360,
+      "name": "3089 -- Futuristic Action RPG",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:25:04.349157"
+    },
+    "263400": {
+      "appid": 263400,
+      "name": "War of the Human Tanks",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:25:04.680333"
+    },
+    "263420": {
+      "appid": 263420,
+      "name": "Probably Archery",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:25:04.832766"
+    },
+    "263460": {
+      "appid": 263460,
+      "name": "Girls Like Robots",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:25:04.967827"
+    },
+    "263480": {
+      "appid": 263480,
+      "name": "Final Rush",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:25:05.129662"
+    },
+    "263520": {
+      "appid": 263520,
+      "name": "Enola",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:25:05.265597"
+    },
+    "263540": {
+      "appid": 263540,
+      "name": "Villagers and Heroes",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:25:05.387228"
+    },
+    "263560": {
+      "appid": 263560,
+      "name": "Paper Sorcerer",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:25:05.521220"
+    },
+    "263620": {
+      "appid": 263620,
+      "name": "Mitsurugi Kamui Hikae",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:25:05.657018"
+    },
+    "263640": {
+      "appid": 263640,
+      "name": "CDF Ghostship",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:25:05.797830"
+    },
+    "263680": {
+      "appid": 263680,
+      "name": "Unearthed: Trail of Ibn Battuta - Episode 1 - Gold Edition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:25:05.962463"
+    },
+    "263740": {
+      "appid": 263740,
+      "name": "FootLOL: Epic Soccer League",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:25:06.404002"
+    },
+    "263760": {
+      "appid": 263760,
+      "name": "Turbo Dismount™",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:25:06.534281"
+    },
+    "263820": {
+      "appid": 263820,
+      "name": "EvilQuest",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:25:06.859609"
+    },
+    "263860": {
+      "appid": 263860,
+      "name": "SPACECOM",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:25:07.005865"
+    },
+    "263880": {
+      "appid": 263880,
+      "name": "Aqua Kitty - Milk Mine Defender",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:25:07.139335"
+    },
+    "263920": {
+      "appid": 263920,
+      "name": "Zombie Grinder",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:25:07.272737"
+    },
+    "263960": {
+      "appid": 263960,
+      "name": "Wyv and Keep: The Temple of the Lost Idol",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:25:07.623310"
+    },
+    "263980": {
+      "appid": 263980,
+      "name": "Out There Somewhere",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:25:07.843134"
+    },
+    "264000": {
+      "appid": 264000,
+      "name": "Son of Nor",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:25:08.000771"
+    },
+    "264060": {
+      "appid": 264060,
+      "name": "Full Bore",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:25:08.350083"
+    },
+    "264120": {
+      "appid": 264120,
+      "name": "Victory: The Age of Racing",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:25:08.628371"
+    },
+    "264140": {
+      "appid": 264140,
+      "name": "Pixel Piracy",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:25:08.770258"
+    },
+    "264160": {
+      "appid": 264160,
+      "name": "WazHack",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:25:08.926891"
+    },
+    "264220": {
+      "appid": 264220,
+      "name": "Mr. Bree+",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:25:09.349738"
+    },
+    "264280": {
+      "appid": 264280,
+      "name": "99 Levels To Hell",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:25:09.497933"
+    },
+    "264300": {
+      "appid": 264300,
+      "name": "Guns n Zombies",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:25:09.643409"
+    },
+    "264340": {
+      "appid": 264340,
+      "name": "Major Mayhem",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:25:09.917356"
+    },
+    "264460": {
+      "appid": 264460,
+      "name": "A-Men",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:25:10.685107"
+    },
+    "264520": {
+      "appid": 264520,
+      "name": "Moebius: Empire Rising",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:25:10.792073"
+    },
+    "264540": {
+      "appid": 264540,
+      "name": "Platformines",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:25:10.949989"
+    },
+    "264560": {
+      "appid": 264560,
+      "name": "Quest for Infamy",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:25:11.090945"
+    },
+    "264690": {
+      "appid": 264690,
+      "name": "Coin Crypt",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:25:11.391848"
+    },
+    "264710": {
+      "appid": 264710,
+      "name": "深海迷航",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:25:11.540049"
+    },
+    "264730": {
+      "appid": 264730,
+      "name": "Deadly 30",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:25:11.675659"
+    },
+    "265120": {
+      "appid": 265120,
+      "name": "Meridian: New World",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:25:11.992852"
+    },
+    "265300": {
+      "appid": 265300,
+      "name": "Lords Of The Fallen™ 2014",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:25:12.624635"
+    },
+    "265330": {
+      "appid": 265330,
+      "name": "Gomo",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:25:12.762270"
     }
   }
 }

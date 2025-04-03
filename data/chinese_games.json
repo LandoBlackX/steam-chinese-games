@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-03T19:22:12.812540"
+    "updated": "2025-04-03T19:25:12.764059"
   },
   "games": {
     "570": {
@@ -40776,6 +40776,182 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-03T19:22:11.889509"
+    },
+    "260750": {
+      "appid": 260750,
+      "name": "Neighbours from Hell Compilation",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-03T19:24:53.691175"
+    },
+    "261550": {
+      "appid": 261550,
+      "name": "Mount & Blade II: Bannerlord",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:24:55.142887"
+    },
+    "261570": {
+      "appid": 261570,
+      "name": "Ori and the Blind Forest",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:24:55.277459"
+    },
+    "261920": {
+      "appid": 261920,
+      "name": "Catzilla 4K - Advanced",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-03T19:24:56.536248"
+    },
+    "262060": {
+      "appid": 262060,
+      "name": "Darkest Dungeon®",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:24:57.142465"
+    },
+    "262280": {
+      "appid": 262280,
+      "name": "Dungeons 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:24:58.581360"
+    },
+    "262390": {
+      "appid": 262390,
+      "name": "云境 (Cloudbuilt)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:24:59.006033"
+    },
+    "262410": {
+      "appid": 262410,
+      "name": "World of Guns: Gun Disassembly",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:24:59.221515"
+    },
+    "262490": {
+      "appid": 262490,
+      "name": "漫画制作大师ComiPo!",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-03T19:24:59.663720"
+    },
+    "262810": {
+      "appid": 262810,
+      "name": "Super Turbo Demon Busters!",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:25:01.503569"
+    },
+    "262830": {
+      "appid": 262830,
+      "name": "Crimsonland",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:25:01.608153"
+    },
+    "263120": {
+      "appid": 263120,
+      "name": "Ludwig",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-03T19:25:03.361619"
+    },
+    "263300": {
+      "appid": 263300,
+      "name": "BlazBlue: Calamity Trigger",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:25:03.910225"
+    },
+    "263540": {
+      "appid": 263540,
+      "name": "Villagers and Heroes",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:25:05.387228"
+    },
+    "263620": {
+      "appid": 263620,
+      "name": "Mitsurugi Kamui Hikae",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:25:05.657018"
+    },
+    "263680": {
+      "appid": 263680,
+      "name": "Unearthed: Trail of Ibn Battuta - Episode 1 - Gold Edition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:25:05.962463"
+    },
+    "263700": {
+      "appid": 263700,
+      "name": "Muffin Knight",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-03T19:25:06.095200"
+    },
+    "263720": {
+      "appid": 263720,
+      "name": "Brawlout",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-03T19:25:06.231931"
+    },
+    "264300": {
+      "appid": 264300,
+      "name": "Guns n Zombies",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:25:09.643409"
+    },
+    "264710": {
+      "appid": 264710,
+      "name": "深海迷航",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:25:11.540049"
+    },
+    "265240": {
+      "appid": 265240,
+      "name": "Crazy Machines: Golden Gears",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-03T19:25:12.420462"
+    },
+    "265300": {
+      "appid": 265300,
+      "name": "Lords Of The Fallen™ 2014",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T19:25:12.624635"
     }
   }
 }
