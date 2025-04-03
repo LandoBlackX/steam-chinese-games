@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-02T07:48:52.612077"
+    "updated": "2025-04-03T17:18:17.828261"
   },
   "games": {
     "570": {
@@ -1334,6 +1334,238 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-02T04:54:12.002608"
+    },
+    "45000": {
+      "appid": 45000,
+      "name": "Sol Survivor",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:17:56.667746"
+    },
+    "45100": {
+      "appid": 45100,
+      "name": "Secret of the Magic Crystals",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:17:56.910111"
+    },
+    "45400": {
+      "appid": 45400,
+      "name": "Fortix",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:17:57.490504"
+    },
+    "45450": {
+      "appid": 45450,
+      "name": "Fortix 2",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:17:57.906566"
+    },
+    "45740": {
+      "appid": 45740,
+      "name": "Dead Rising® 2",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:17:58.199026"
+    },
+    "45760": {
+      "appid": 45760,
+      "name": "Ultra Street Fighter® IV",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:17:58.555704"
+    },
+    "45770": {
+      "appid": 45770,
+      "name": "Dead Rising 2: Off the Record",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:17:58.701050"
+    },
+    "46260": {
+      "appid": 46260,
+      "name": "Star Wolves 3: Civil War",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:17:59.237753"
+    },
+    "46500": {
+      "appid": 46500,
+      "name": "Syberia",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:18:01.394986"
+    },
+    "46510": {
+      "appid": 46510,
+      "name": "Syberia II",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:18:01.509278"
+    },
+    "46540": {
+      "appid": 46540,
+      "name": "Trapped Dead",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:18:01.763952"
+    },
+    "46750": {
+      "appid": 46750,
+      "name": "Dark Fall: Lost Souls",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:18:03.207792"
+    },
+    "46770": {
+      "appid": 46770,
+      "name": "Making History II: The War of the World",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:18:03.477005"
+    },
+    "47400": {
+      "appid": 47400,
+      "name": "Stronghold 3 Gold",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:18:04.652259"
+    },
+    "47410": {
+      "appid": 47410,
+      "name": "Stronghold Kingdoms",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:18:04.793225"
+    },
+    "47780": {
+      "appid": 47780,
+      "name": "Dead Space™ 2",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:18:05.494762"
+    },
+    "47870": {
+      "appid": 47870,
+      "name": "Need For Speed: Hot Pursuit",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:18:05.957651"
+    },
+    "48000": {
+      "appid": 48000,
+      "name": "LIMBO",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:18:06.454246"
+    },
+    "48240": {
+      "appid": 48240,
+      "name": "Anno 2070™",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:18:07.311154"
+    },
+    "48700": {
+      "appid": 48700,
+      "name": "Mount & Blade: Warband",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:18:07.442073"
+    },
+    "49520": {
+      "appid": 49520,
+      "name": "Borderlands 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:18:08.632358"
+    },
+    "49600": {
+      "appid": 49600,
+      "name": "Beat Hazard",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:18:08.897217"
+    },
+    "50100": {
+      "appid": 50100,
+      "name": "Sid Meier's Civilization® V",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:18:09.507292"
+    },
+    "51010": {
+      "appid": 51010,
+      "name": "My Tribe",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:18:11.143243"
+    },
+    "51060": {
+      "appid": 51060,
+      "name": "Drawn®: The Painted Tower",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:18:11.506966"
+    },
+    "55230": {
+      "appid": 55230,
+      "name": "Saints Row: The Third",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:18:12.744692"
+    },
+    "57690": {
+      "appid": 57690,
+      "name": "Tropico 4",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:18:14.421522"
+    },
+    "57740": {
+      "appid": 57740,
+      "name": "Jagged Alliance - Back in Action",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:18:14.661964"
+    },
+    "58230": {
+      "appid": 58230,
+      "name": "MacGuffin's Curse",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:18:15.204420"
     }
   }
 }

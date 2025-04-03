@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-02T07:48:52.612077"
+    "updated": "2025-04-03T17:18:17.828261"
   },
   "games": {
     "570": {
@@ -39056,6 +39056,182 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-04-02T07:48:52.609761"
+    },
+    "26800": {
+      "appid": 26800,
+      "name": "Braid",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-03T17:17:51.525600"
+    },
+    "45760": {
+      "appid": 45760,
+      "name": "Ultra Street Fighter® IV",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:17:58.555704"
+    },
+    "47410": {
+      "appid": 47410,
+      "name": "Stronghold Kingdoms",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:18:04.793225"
+    },
+    "47700": {
+      "appid": 47700,
+      "name": "《命令与征服 4：泰伯利亚暮光》",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-03T17:18:05.384255"
+    },
+    "47790": {
+      "appid": 47790,
+      "name": "Medal of Honor™",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-03T17:18:05.611682"
+    },
+    "47830": {
+      "appid": 47830,
+      "name": "Medal of Honor™",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-03T17:18:05.846413"
+    },
+    "47870": {
+      "appid": 47870,
+      "name": "Need For Speed: Hot Pursuit",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:18:05.957651"
+    },
+    "47890": {
+      "appid": 47890,
+      "name": "The Sims™ 3",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-03T17:18:06.233103"
+    },
+    "48000": {
+      "appid": 48000,
+      "name": "LIMBO",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:18:06.454246"
+    },
+    "48173": {
+      "appid": 48173,
+      "name": "Assassin's Creed 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-03T17:18:06.817643"
+    },
+    "48190": {
+      "appid": 48190,
+      "name": "Assassin’s Creed® Brotherhood",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-03T17:18:06.939254"
+    },
+    "48700": {
+      "appid": 48700,
+      "name": "Mount & Blade: Warband",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:18:07.442073"
+    },
+    "48720": {
+      "appid": 48720,
+      "name": "Mount & Blade: With Fire & Sword",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-03T17:18:07.560871"
+    },
+    "49520": {
+      "appid": 49520,
+      "name": "Borderlands 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:18:08.632358"
+    },
+    "50100": {
+      "appid": 50100,
+      "name": "Sid Meier's Civilization® V",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T17:18:09.507292"
+    },
+    "52003": {
+      "appid": 52003,
+      "name": "Portal",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-03T17:18:11.655229"
+    },
+    "56400": {
+      "appid": 56400,
+      "name": "Warhammer 40,000: Dawn of War II: Retribution",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-03T17:18:12.921911"
+    },
+    "56437": {
+      "appid": 56437,
+      "name": "Warhammer 40,000: Dawn of War II: Retribution",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-03T17:18:13.047442"
+    },
+    "57200": {
+      "appid": 57200,
+      "name": "Puzzle Dimension",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-03T17:18:13.440150"
+    },
+    "57300": {
+      "appid": 57300,
+      "name": "Amnesia: The Dark Descent",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-03T17:18:13.561991"
+    },
+    "58610": {
+      "appid": 58610,
+      "name": "Wargame: European Escalation",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-03T17:18:15.962516"
+    },
+    "61310": {
+      "appid": 61310,
+      "name": "Fractal: Make Blooms Not War",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-03T17:18:16.858699"
     }
   }
 }
