@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-03T23:12:16.775974"
+    "updated": "2025-04-03T23:32:39.854077"
   },
   "games": {
     "570": {
@@ -17950,6 +17950,526 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-04-03T23:12:16.774303"
+    },
+    "346420": {
+      "appid": 346420,
+      "name": "The Spatials",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T23:32:17.216665"
+    },
+    "346430": {
+      "appid": 346430,
+      "name": "Spectrum: First Light",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T23:32:17.482588"
+    },
+    "346490": {
+      "appid": 346490,
+      "name": "Toy Wars Invasion",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T23:32:18.435693"
+    },
+    "346500": {
+      "appid": 346500,
+      "name": "Road Scars: Origins",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T23:32:18.615204"
+    },
+    "346510": {
+      "appid": 346510,
+      "name": "Hyphen",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T23:32:18.842874"
+    },
+    "346560": {
+      "appid": 346560,
+      "name": "王国英雄II",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T23:32:19.210393"
+    },
+    "346630": {
+      "appid": 346630,
+      "name": "Plazma Being",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T23:32:19.383167"
+    },
+    "346670": {
+      "appid": 346670,
+      "name": "Sky Battles",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T23:32:19.816283"
+    },
+    "346730": {
+      "appid": 346730,
+      "name": "GOCCO OF WAR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T23:32:20.032264"
+    },
+    "346760": {
+      "appid": 346760,
+      "name": "ProtoMasons",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T23:32:20.388062"
+    },
+    "346780": {
+      "appid": 346780,
+      "name": "Luminosity",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T23:32:20.734768"
+    },
+    "346810": {
+      "appid": 346810,
+      "name": "Marble Age",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T23:32:21.045250"
+    },
+    "346820": {
+      "appid": 346820,
+      "name": "Crash Drive 3",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T23:32:21.222508"
+    },
+    "346830": {
+      "appid": 346830,
+      "name": "FINAL FANTASY IV: THE AFTER YEARS",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T23:32:21.378601"
+    },
+    "346850": {
+      "appid": 346850,
+      "name": "Chip's Challenge 1",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T23:32:21.542830"
+    },
+    "346900": {
+      "appid": 346900,
+      "name": "AdVenture Capitalist",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T23:32:21.755109"
+    },
+    "346950": {
+      "appid": 346950,
+      "name": "The Dark Stone from Mebara",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T23:32:22.283344"
+    },
+    "346970": {
+      "appid": 346970,
+      "name": "OBEY",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T23:32:22.448179"
+    },
+    "347000": {
+      "appid": 347000,
+      "name": "InnerSpace",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T23:32:22.620245"
+    },
+    "347040": {
+      "appid": 347040,
+      "name": "Keebles",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T23:32:22.801289"
+    },
+    "347160": {
+      "appid": 347160,
+      "name": "Steredenn: Binary Stars",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T23:32:23.441862"
+    },
+    "347280": {
+      "appid": 347280,
+      "name": "A Quiver of Crows",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T23:32:24.905827"
+    },
+    "347290": {
+      "appid": 347290,
+      "name": "Rise & Shine",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T23:32:25.112325"
+    },
+    "347430": {
+      "appid": 347430,
+      "name": "Frankenstein: Master of Death",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T23:32:25.696641"
+    },
+    "347440": {
+      "appid": 347440,
+      "name": "Pneuma: Breath of Life",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T23:32:25.874179"
+    },
+    "347470": {
+      "appid": 347470,
+      "name": "Mayan Death Robots",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T23:32:26.187721"
+    },
+    "347480": {
+      "appid": 347480,
+      "name": "Super Pixalo",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T23:32:26.373342"
+    },
+    "347560": {
+      "appid": 347560,
+      "name": "Terra Incognita Chapter One: The Descendant",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T23:32:26.870321"
+    },
+    "347590": {
+      "appid": 347590,
+      "name": "Heroes of Hellas 3: Athens",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T23:32:27.212771"
+    },
+    "347610": {
+      "appid": 347610,
+      "name": "Hidden Object Bundle 4 in 1",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T23:32:27.595089"
+    },
+    "347620": {
+      "appid": 347620,
+      "name": "高考恋爱一百天",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T23:32:27.821096"
+    },
+    "347660": {
+      "appid": 347660,
+      "name": "Caromble!",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T23:32:28.249531"
+    },
+    "347670": {
+      "appid": 347670,
+      "name": "Karate Master 2 Knock Down Blow",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T23:32:28.481334"
+    },
+    "347710": {
+      "appid": 347710,
+      "name": "Perils of Man",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T23:32:29.044397"
+    },
+    "347720": {
+      "appid": 347720,
+      "name": "Soda Drinker Pro",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T23:32:29.357452"
+    },
+    "347730": {
+      "appid": 347730,
+      "name": "Wait - Extended",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T23:32:29.592094"
+    },
+    "347830": {
+      "appid": 347830,
+      "name": "Fairy Fencer F",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T23:32:30.283251"
+    },
+    "348160": {
+      "appid": 348160,
+      "name": "RUMP! - It's a Jump and Rump!",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T23:32:31.167750"
+    },
+    "348180": {
+      "appid": 348180,
+      "name": "Starship Traveller (Standalone)",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T23:32:31.322724"
+    },
+    "348240": {
+      "appid": 348240,
+      "name": "铳翼 Gun Wings",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T23:32:31.667696"
+    },
+    "348270": {
+      "appid": 348270,
+      "name": "Social Justice Warriors",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T23:32:32.001834"
+    },
+    "348300": {
+      "appid": 348300,
+      "name": "Chip's Challenge 2",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T23:32:32.607988"
+    },
+    "348340": {
+      "appid": 348340,
+      "name": "Siege Wars",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T23:32:32.808302"
+    },
+    "348360": {
+      "appid": 348360,
+      "name": "Doodle God",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T23:32:33.008114"
+    },
+    "348400": {
+      "appid": 348400,
+      "name": "BattleLore: Command",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T23:32:33.336124"
+    },
+    "348450": {
+      "appid": 348450,
+      "name": "Lex Mortis",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T23:32:34.139763"
+    },
+    "348460": {
+      "appid": 348460,
+      "name": "Bierzerkers",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T23:32:34.352242"
+    },
+    "348510": {
+      "appid": 348510,
+      "name": "Autobahn Police Simulator",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T23:32:34.776417"
+    },
+    "348540": {
+      "appid": 348540,
+      "name": "Divine Slice of Life",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T23:32:34.982371"
+    },
+    "348550": {
+      "appid": 348550,
+      "name": "GUILTY GEAR XX ACCENT CORE PLUS R",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T23:32:35.143735"
+    },
+    "348570": {
+      "appid": 348570,
+      "name": "Monster Minis Extreme Off-Road",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T23:32:35.312454"
+    },
+    "348580": {
+      "appid": 348580,
+      "name": "Sector Zero",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T23:32:35.494415"
+    },
+    "348650": {
+      "appid": 348650,
+      "name": "The Asskickers-Steam Edition",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T23:32:35.897241"
+    },
+    "348670": {
+      "appid": 348670,
+      "name": "Immune - True Survival",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T23:32:36.125282"
+    },
+    "348730": {
+      "appid": 348730,
+      "name": "Abyss Raiders: Uncharted",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T23:32:36.502481"
+    },
+    "348740": {
+      "appid": 348740,
+      "name": "Abyss Cave",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T23:32:36.685592"
+    },
+    "348800": {
+      "appid": 348800,
+      "name": "Chester One",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T23:32:37.026939"
+    },
+    "348840": {
+      "appid": 348840,
+      "name": "UFHO2",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T23:32:37.540752"
+    },
+    "348870": {
+      "appid": 348870,
+      "name": "Night Mysteries: The Amphora Prisoner",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T23:32:37.902441"
+    },
+    "348930": {
+      "appid": 348930,
+      "name": "Lone Wolf",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T23:32:38.273150"
+    },
+    "348950": {
+      "appid": 348950,
+      "name": "Ame no Marginal -Rain Marginal-",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T23:32:38.469684"
+    },
+    "348960": {
+      "appid": 348960,
+      "name": "Odysseus: Long Way Home",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T23:32:38.641397"
+    },
+    "348980": {
+      "appid": 348980,
+      "name": "INIT.",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T23:32:38.803727"
+    },
+    "349020": {
+      "appid": 349020,
+      "name": "Hyperspace Pinball",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T23:32:39.078827"
+    },
+    "349140": {
+      "appid": 349140,
+      "name": "Corrosion: Cold Winter Waiting [Enhanced Edition]",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T23:32:39.852419"
     }
   }
 }

@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-03T23:12:16.775974"
+    "updated": "2025-04-03T23:32:39.854077"
   },
   "games": {
     "570": {
@@ -44048,6 +44048,150 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-04-03T23:12:16.350359"
+    },
+    "346460": {
+      "appid": 346460,
+      "name": "Vector 36",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-03T23:32:18.080277"
+    },
+    "346500": {
+      "appid": 346500,
+      "name": "Road Scars: Origins",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T23:32:18.615204"
+    },
+    "346560": {
+      "appid": 346560,
+      "name": "王国英雄II",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T23:32:19.210393"
+    },
+    "346730": {
+      "appid": 346730,
+      "name": "GOCCO OF WAR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T23:32:20.032264"
+    },
+    "346820": {
+      "appid": 346820,
+      "name": "Crash Drive 3",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T23:32:21.222508"
+    },
+    "347000": {
+      "appid": 347000,
+      "name": "InnerSpace",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T23:32:22.620245"
+    },
+    "347160": {
+      "appid": 347160,
+      "name": "Steredenn: Binary Stars",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T23:32:23.441862"
+    },
+    "347620": {
+      "appid": 347620,
+      "name": "高考恋爱一百天",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T23:32:27.821096"
+    },
+    "347800": {
+      "appid": 347800,
+      "name": "Ghost Song",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-03T23:32:29.914730"
+    },
+    "348240": {
+      "appid": 348240,
+      "name": "铳翼 Gun Wings",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T23:32:31.667696"
+    },
+    "348360": {
+      "appid": 348360,
+      "name": "Doodle God",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T23:32:33.008114"
+    },
+    "348430": {
+      "appid": 348430,
+      "name": "Quell Reflect",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-03T23:32:33.550315"
+    },
+    "348440": {
+      "appid": 348440,
+      "name": "Quell Memento",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-03T23:32:33.850998"
+    },
+    "348580": {
+      "appid": 348580,
+      "name": "Sector Zero",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T23:32:35.494415"
+    },
+    "348730": {
+      "appid": 348730,
+      "name": "Abyss Raiders: Uncharted",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T23:32:36.502481"
+    },
+    "348740": {
+      "appid": 348740,
+      "name": "Abyss Cave",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-03T23:32:36.685592"
+    },
+    "348910": {
+      "appid": 348910,
+      "name": "Faerie Solitaire Harvest",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-03T23:32:38.111896"
+    },
+    "349040": {
+      "appid": 349040,
+      "name": "火影忍者 疾风传 终极风暴4",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-03T23:32:39.281339"
     }
   }
 }
