@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-04T06:53:04.800902"
+    "updated": "2025-04-04T07:17:46.162068"
   },
   "games": {
     "570": {
@@ -24886,6 +24886,86 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-04T06:53:04.632467"
+    },
+    "386350": {
+      "appid": 386350,
+      "name": "Rise: Battle Lines",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T07:17:43.808565"
+    },
+    "386360": {
+      "appid": 386360,
+      "name": "SMITE®",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T07:17:43.980209"
+    },
+    "386420": {
+      "appid": 386420,
+      "name": "Job the Leprechaun",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T07:17:44.186598"
+    },
+    "386480": {
+      "appid": 386480,
+      "name": "Blood Code",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T07:17:44.811031"
+    },
+    "386490": {
+      "appid": 386490,
+      "name": "Wanda - A Beautiful Apocalypse",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T07:17:44.973911"
+    },
+    "386510": {
+      "appid": 386510,
+      "name": "Pyramid Raid",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T07:17:45.143709"
+    },
+    "386540": {
+      "appid": 386540,
+      "name": "A.I. Invasion",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T07:17:45.478351"
+    },
+    "386560": {
+      "appid": 386560,
+      "name": "Psycho Starship Rampage",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T07:17:45.791573"
+    },
+    "386590": {
+      "appid": 386590,
+      "name": "Novus Inceptio",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T07:17:45.998520"
+    },
+    "386600": {
+      "appid": 386600,
+      "name": "Pixel Fodder",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T07:17:46.160527"
     }
   }
 }

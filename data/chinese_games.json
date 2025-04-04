@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-04T06:53:04.800902"
+    "updated": "2025-04-04T07:17:46.162068"
   },
   "games": {
     "570": {
@@ -46104,6 +46104,22 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-04T06:53:04.632467"
+    },
+    "386360": {
+      "appid": 386360,
+      "name": "SMITE®",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T07:17:43.980209"
+    },
+    "386480": {
+      "appid": 386480,
+      "name": "Blood Code",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T07:17:44.811031"
     }
   }
 }
