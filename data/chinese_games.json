@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-04T05:57:58.776955"
+    "updated": "2025-04-04T06:17:20.825980"
   },
   "games": {
     "570": {
@@ -45864,6 +45864,150 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-04T05:57:58.407248"
+    },
+    "382310": {
+      "appid": 382310,
+      "name": "Eco",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T06:17:01.790834"
+    },
+    "382490": {
+      "appid": 382490,
+      "name": "Relic Hunters Zero: Remix",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T06:17:02.799737"
+    },
+    "382560": {
+      "appid": 382560,
+      "name": "Hot Lava",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T06:17:03.071788"
+    },
+    "382940": {
+      "appid": 382940,
+      "name": "HITMAN™",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T06:17:03.674048"
+    },
+    "383120": {
+      "appid": 383120,
+      "name": "Empyrion - Galactic Survival",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T06:17:04.869823"
+    },
+    "383460": {
+      "appid": 383460,
+      "name": "Sound of Drop - fall into poison -",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T06:17:06.024996"
+    },
+    "383740": {
+      "appid": 383740,
+      "name": "Marble Age: Remastered",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T06:17:08.749603"
+    },
+    "383840": {
+      "appid": 383840,
+      "name": "Nimbatus - The Space Drone Constructor",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T06:17:09.795958"
+    },
+    "383870": {
+      "appid": 383870,
+      "name": "Firewatch",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T06:17:10.132055"
+    },
+    "384120": {
+      "appid": 384120,
+      "name": "WonderCat Adventures",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T06:17:12.550634"
+    },
+    "384190": {
+      "appid": 384190,
+      "name": "ABZU",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T06:17:12.990081"
+    },
+    "384200": {
+      "appid": 384200,
+      "name": "Raging Justice",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T06:17:13.224878"
+    },
+    "384250": {
+      "appid": 384250,
+      "name": "Super Rude Bear Resurrection",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T06:17:13.589313"
+    },
+    "384300": {
+      "appid": 384300,
+      "name": "CPUCores :: Maximize Your FPS",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T06:17:13.899159"
+    },
+    "384680": {
+      "appid": 384680,
+      "name": "MechaNika",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T06:17:16.081644"
+    },
+    "384980": {
+      "appid": 384980,
+      "name": "Battle for Blood - Epic battles within 30 seconds!",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T06:17:18.174000"
+    },
+    "385020": {
+      "appid": 385020,
+      "name": "none",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T06:17:18.481373"
+    },
+    "385220": {
+      "appid": 385220,
+      "name": "Pulut Adventure",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T06:17:19.941939"
     }
   }
 }
