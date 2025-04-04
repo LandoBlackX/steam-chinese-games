@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-04T22:32:43.062242"
+    "updated": "2025-04-04T22:45:51.229538"
   },
   "games": {
     "570": {
@@ -52544,6 +52544,270 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-04T22:32:41.891918"
+    },
+    "512110": {
+      "appid": 512110,
+      "name": "Cosmos Crash VR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T22:45:20.114634"
+    },
+    "512160": {
+      "appid": 512160,
+      "name": "Volleying",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T22:45:20.719154"
+    },
+    "512170": {
+      "appid": 512170,
+      "name": "the research facility NO.507",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T22:45:20.877105"
+    },
+    "512230": {
+      "appid": 512230,
+      "name": "Sally's Law",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T22:45:21.571833"
+    },
+    "512430": {
+      "appid": 512430,
+      "name": "Make America Great Again",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T22:45:23.100473"
+    },
+    "512470": {
+      "appid": 512470,
+      "name": "The Pirate: Caribbean Hunt",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T22:45:23.447044"
+    },
+    "512560": {
+      "appid": 512560,
+      "name": "HoCWar",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T22:45:24.069193"
+    },
+    "512790": {
+      "appid": 512790,
+      "name": "Quern - 不朽之念",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T22:45:25.504535"
+    },
+    "512830": {
+      "appid": 512830,
+      "name": "Zombie Trigger",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T22:45:25.686960"
+    },
+    "512900": {
+      "appid": 512900,
+      "name": "Streets of Rogue",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T22:45:26.142313"
+    },
+    "513290": {
+      "appid": 513290,
+      "name": "Lucius III",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T22:45:28.558668"
+    },
+    "513320": {
+      "appid": 513320,
+      "name": "ALICE VR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T22:45:28.879812"
+    },
+    "513340": {
+      "appid": 513340,
+      "name": "Through Abandoned: The Forest",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T22:45:29.198702"
+    },
+    "513420": {
+      "appid": 513420,
+      "name": "VR Escape The Space Station",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T22:45:29.771582"
+    },
+    "513460": {
+      "appid": 513460,
+      "name": "Agenda",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T22:45:30.065526"
+    },
+    "513510": {
+      "appid": 513510,
+      "name": "Intralism",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T22:45:30.475485"
+    },
+    "513550": {
+      "appid": 513550,
+      "name": "Vive le Roi",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T22:45:30.625070"
+    },
+    "513560": {
+      "appid": 513560,
+      "name": "Hunger Dungeon",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T22:45:30.763225"
+    },
+    "513710": {
+      "appid": 513710,
+      "name": "人渣",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T22:45:32.081259"
+    },
+    "513820": {
+      "appid": 513820,
+      "name": "LUXIS",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T22:45:33.408145"
+    },
+    "514310": {
+      "appid": 514310,
+      "name": "SENRAN KAGURA Bon Appétit! - Full Course",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T22:45:37.118849"
+    },
+    "514620": {
+      "appid": 514620,
+      "name": "Ellipsis",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T22:45:39.736480"
+    },
+    "514830": {
+      "appid": 514830,
+      "name": "Stifled - Echolocation Horror Mystery",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T22:45:42.125814"
+    },
+    "515180": {
+      "appid": 515180,
+      "name": "Bus Simulator 18",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T22:45:43.808138"
+    },
+    "515570": {
+      "appid": 515570,
+      "name": "UBERMOSH Vol.3",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T22:45:44.632344"
+    },
+    "515960": {
+      "appid": 515960,
+      "name": "玛莎已死",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T22:45:45.645273"
+    },
+    "516000": {
+      "appid": 516000,
+      "name": "Candy Thieves - Tale of Gnomes",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T22:45:45.989691"
+    },
+    "516010": {
+      "appid": 516010,
+      "name": "Board Defenders",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T22:45:46.133682"
+    },
+    "516250": {
+      "appid": 516250,
+      "name": "Skynet Rising : Portal to the Past",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T22:45:47.081008"
+    },
+    "516590": {
+      "appid": 516590,
+      "name": "CyberThreat",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T22:45:49.372874"
+    },
+    "516600": {
+      "appid": 516600,
+      "name": "百曲",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T22:45:49.511216"
+    },
+    "516610": {
+      "appid": 516610,
+      "name": "Guardian war VR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T22:45:49.673392"
+    },
+    "516790": {
+      "appid": 516790,
+      "name": "Fat Mask",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T22:45:50.650759"
     }
   }
 }
