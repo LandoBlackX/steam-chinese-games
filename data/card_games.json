@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-04T07:58:04.982808"
+    "updated": "2025-04-04T08:33:27.902760"
   },
   "games": {
     "570": {
@@ -25150,6 +25150,54 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-04-04T07:58:04.871413"
+    },
+    "388010": {
+      "appid": 388010,
+      "name": "Tick: The Time Based Puzzle Game",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T08:33:26.281289"
+    },
+    "388050": {
+      "appid": 388050,
+      "name": "Snik",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T08:33:26.419027"
+    },
+    "388060": {
+      "appid": 388060,
+      "name": "The Escapists: The Walking Dead",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T08:33:26.545205"
+    },
+    "388080": {
+      "appid": 388080,
+      "name": "Borderless Gaming",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T08:33:26.666298"
+    },
+    "388210": {
+      "appid": 388210,
+      "name": "Day of the Tentacle Remastered",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T08:33:27.142347"
+    },
+    "388320": {
+      "appid": 388320,
+      "name": "1979 Revolution: Black Friday",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T08:33:27.749678"
     }
   }
 }

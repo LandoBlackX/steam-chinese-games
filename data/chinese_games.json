@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-04T07:58:04.982808"
+    "updated": "2025-04-04T08:33:27.902760"
   },
   "games": {
     "570": {
@@ -46152,6 +46152,22 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-04T07:58:04.481489"
+    },
+    "387990": {
+      "appid": 387990,
+      "name": "Scrap Mechanic",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T08:33:26.010334"
+    },
+    "388080": {
+      "appid": 388080,
+      "name": "Borderless Gaming",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T08:33:26.666298"
     }
   }
 }
