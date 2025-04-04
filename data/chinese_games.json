@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-04T15:42:23.255518"
+    "updated": "2025-04-04T16:24:59.864857"
   },
   "games": {
     "570": {
@@ -46608,6 +46608,94 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-04T15:42:22.748780"
+    },
+    "397270": {
+      "appid": 397270,
+      "name": "A Kiss For The Petals - Remembering How We Met",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T16:24:46.825833"
+    },
+    "397540": {
+      "appid": 397540,
+      "name": "无主之地3",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T16:24:48.822815"
+    },
+    "397570": {
+      "appid": 397570,
+      "name": "Shmadow",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T16:24:48.948277"
+    },
+    "397900": {
+      "appid": 397900,
+      "name": "Business Tour - Board Game with Online Multiplayer",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T16:24:52.168617"
+    },
+    "398030": {
+      "appid": 398030,
+      "name": "Old School Musical",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T16:24:53.191601"
+    },
+    "398810": {
+      "appid": 398810,
+      "name": "openCanvas 7",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T16:24:56.229478"
+    },
+    "398840": {
+      "appid": 398840,
+      "name": "War of Beach",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T16:24:56.335008"
+    },
+    "398850": {
+      "appid": 398850,
+      "name": "Epistory - Typing Chronicles",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T16:24:56.456020"
+    },
+    "398980": {
+      "appid": 398980,
+      "name": "Without Within 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T16:24:57.716039"
+    },
+    "399430": {
+      "appid": 399430,
+      "name": "Tinboy",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T16:24:59.443442"
+    },
+    "399600": {
+      "appid": 399600,
+      "name": "I and Me",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T16:24:59.863277"
     }
   }
 }
