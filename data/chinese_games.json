@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-04T08:33:27.902760"
+    "updated": "2025-04-04T08:51:41.632331"
   },
   "games": {
     "570": {
@@ -46168,6 +46168,22 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-04T08:33:26.666298"
+    },
+    "388520": {
+      "appid": 388520,
+      "name": "Call of Duty®: Black Ops III",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T08:51:40.887194"
+    },
+    "388620": {
+      "appid": 388620,
+      "name": "DungeonUp",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T08:51:41.348861"
     }
   }
 }
