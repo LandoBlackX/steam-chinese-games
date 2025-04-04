@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-04T20:03:18.063871"
+    "updated": "2025-04-04T20:06:45.555517"
   },
   "games": {
     "570": {
@@ -49688,6 +49688,286 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-04-04T20:03:17.741298"
+    },
+    "457650": {
+      "appid": 457650,
+      "name": "Stonehenge VR SANDBOX",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T20:06:00.605054"
+    },
+    "457680": {
+      "appid": 457680,
+      "name": "OPUS：地球计划",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T20:06:01.211198"
+    },
+    "457730": {
+      "appid": 457730,
+      "name": "Mushroom Wars 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T20:06:06.878609"
+    },
+    "458180": {
+      "appid": 458180,
+      "name": "PostZ 僵尸来袭",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T20:06:11.263530"
+    },
+    "458330": {
+      "appid": 458330,
+      "name": "Vilmonic",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T20:06:12.236893"
+    },
+    "458430": {
+      "appid": 458430,
+      "name": "钢铁之种",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T20:06:13.490361"
+    },
+    "458470": {
+      "appid": 458470,
+      "name": "Grim Legends 3: The Dark City",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T20:06:13.934422"
+    },
+    "458480": {
+      "appid": 458480,
+      "name": "Mythic Wonders: The Philosopher's Stone",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T20:06:14.106935"
+    },
+    "458540": {
+      "appid": 458540,
+      "name": "Lines",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T20:06:15.156934"
+    },
+    "458630": {
+      "appid": 458630,
+      "name": "Political Animals",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T20:06:16.172495"
+    },
+    "458710": {
+      "appid": 458710,
+      "name": "Kingdom Rush Frontiers - Tower Defense",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T20:06:16.842545"
+    },
+    "458750": {
+      "appid": 458750,
+      "name": "FireAlpaca SE",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T20:06:17.230357"
+    },
+    "458770": {
+      "appid": 458770,
+      "name": "WRC 6 FIA World Rally Championship",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T20:06:17.801001"
+    },
+    "458920": {
+      "appid": 458920,
+      "name": "Carnival Games® VR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T20:06:18.671110"
+    },
+    "459220": {
+      "appid": 459220,
+      "name": "Halo Wars: Definitive Edition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T20:06:21.736164"
+    },
+    "459350": {
+      "appid": 459350,
+      "name": "Battlesloths 2025: The Great Pizza Wars",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T20:06:22.617905"
+    },
+    "459370": {
+      "appid": 459370,
+      "name": "Riverbond",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T20:06:22.775795"
+    },
+    "459820": {
+      "appid": 459820,
+      "name": "Crush Crush",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T20:06:25.606876"
+    },
+    "459940": {
+      "appid": 459940,
+      "name": "Deer Man",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T20:06:26.908752"
+    },
+    "460060": {
+      "appid": 460060,
+      "name": "Varenje",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T20:06:27.131535"
+    },
+    "460190": {
+      "appid": 460190,
+      "name": "Rocket Riot",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T20:06:28.222114"
+    },
+    "460250": {
+      "appid": 460250,
+      "name": "🔴 Circles",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T20:06:28.908938"
+    },
+    "460430": {
+      "appid": 460430,
+      "name": "鬼来信",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T20:06:29.308037"
+    },
+    "460580": {
+      "appid": 460580,
+      "name": "Star Chart",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T20:06:30.235306"
+    },
+    "460910": {
+      "appid": 460910,
+      "name": "A-Gents",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T20:06:32.765865"
+    },
+    "460920": {
+      "appid": 460920,
+      "name": "Steep™",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T20:06:32.959163"
+    },
+    "460930": {
+      "appid": 460930,
+      "name": "Tom Clancy's Ghost Recon® Wildlands",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T20:06:33.180935"
+    },
+    "460950": {
+      "appid": 460950,
+      "name": "武士 零",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T20:06:33.510661"
+    },
+    "460960": {
+      "appid": 460960,
+      "name": "The Deed: Dynasty",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T20:06:33.767216"
+    },
+    "461230": {
+      "appid": 461230,
+      "name": "Dashy Square",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T20:06:36.121418"
+    },
+    "461510": {
+      "appid": 461510,
+      "name": "Tears of Avia",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T20:06:38.904721"
+    },
+    "461620": {
+      "appid": 461620,
+      "name": "Predynastic Egypt",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T20:06:40.858248"
+    },
+    "461840": {
+      "appid": 461840,
+      "name": "Zenge",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T20:06:43.088897"
+    },
+    "461950": {
+      "appid": 461950,
+      "name": "Beat Cop",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T20:06:44.544396"
+    },
+    "461990": {
+      "appid": 461990,
+      "name": "The Prison Game",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T20:06:44.864021"
     }
   }
 }
