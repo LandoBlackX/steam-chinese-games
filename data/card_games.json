@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-04T11:43:04.630004"
+    "updated": "2025-04-04T11:56:07.280958"
   },
   "games": {
     "570": {
@@ -25998,6 +25998,86 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-04-04T11:43:04.628176"
+    },
+    "392410": {
+      "appid": 392410,
+      "name": "Toy Odyssey: The Lost and Found",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T11:56:05.130765"
+    },
+    "392470": {
+      "appid": 392470,
+      "name": "NOBUNAGA'S AMBITION: Sphere of Influence",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T11:56:05.382498"
+    },
+    "392580": {
+      "appid": 392580,
+      "name": "WARSHIFT",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T11:56:05.491893"
+    },
+    "392600": {
+      "appid": 392600,
+      "name": "Volvox",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T11:56:05.638953"
+    },
+    "392690": {
+      "appid": 392690,
+      "name": "Erwin's Timewarp",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T11:56:05.906717"
+    },
+    "392780": {
+      "appid": 392780,
+      "name": "Mondrian - Abstraction in Beauty",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T11:56:06.187642"
+    },
+    "392820": {
+      "appid": 392820,
+      "name": "Wild Island Quest",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T11:56:06.341050"
+    },
+    "392920": {
+      "appid": 392920,
+      "name": "Arvale",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T11:56:06.607715"
+    },
+    "392930": {
+      "appid": 392930,
+      "name": "A Sirius Game",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T11:56:06.721724"
+    },
+    "392940": {
+      "appid": 392940,
+      "name": "Epic Quest of the 4 Crystals",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T11:56:06.948878"
     }
   }
 }
