@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-04T07:32:14.289483"
+    "updated": "2025-04-04T07:45:14.186215"
   },
   "games": {
     "570": {
@@ -46136,6 +46136,14 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-04T07:32:14.287111"
+    },
+    "386970": {
+      "appid": 386970,
+      "name": "Memory's Dogma CODE:01",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T07:45:11.744641"
     }
   }
 }

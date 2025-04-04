@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-04T07:32:14.289483"
+    "updated": "2025-04-04T07:45:14.186215"
   },
   "games": {
     "570": {
@@ -25046,6 +25046,70 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-04T07:32:14.287111"
+    },
+    "386970": {
+      "appid": 386970,
+      "name": "Memory's Dogma CODE:01",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T07:45:11.744641"
+    },
+    "386990": {
+      "appid": 386990,
+      "name": "Asphyxia",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T07:45:11.899572"
+    },
+    "387010": {
+      "appid": 387010,
+      "name": "FIVE: Guardians of David",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T07:45:12.084205"
+    },
+    "387060": {
+      "appid": 387060,
+      "name": "Earth Overclocked",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T07:45:12.274426"
+    },
+    "387090": {
+      "appid": 387090,
+      "name": "Revolution : Virtual Playspace",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T07:45:12.434294"
+    },
+    "387100": {
+      "appid": 387100,
+      "name": "Walkerman",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T07:45:12.643022"
+    },
+    "387240": {
+      "appid": 387240,
+      "name": "Steel Rain",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T07:45:13.150715"
+    },
+    "387340": {
+      "appid": 387340,
+      "name": "Hyperdimension Neptunia U: Action Unleashed",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T07:45:13.828669"
     }
   }
 }
