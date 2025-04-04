@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-04T17:20:31.821086"
+    "updated": "2025-04-04T17:30:53.675965"
   },
   "games": {
     "570": {
@@ -28798,6 +28798,422 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-04T17:20:31.325471"
+    },
+    "411370": {
+      "appid": 411370,
+      "name": "Melty Blood Actress Again Current Code",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T17:30:41.887672"
+    },
+    "411480": {
+      "appid": 411480,
+      "name": "BATTLECREW™ Space Pirates",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T17:30:42.135525"
+    },
+    "411610": {
+      "appid": 411610,
+      "name": "Tick's Tales",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T17:30:43.055719"
+    },
+    "411680": {
+      "appid": 411680,
+      "name": "Loot Hound™",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T17:30:43.456524"
+    },
+    "411740": {
+      "appid": 411740,
+      "name": "Yet Another World",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T17:30:43.684118"
+    },
+    "411760": {
+      "appid": 411760,
+      "name": "Swordbreaker The Game",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T17:30:43.926621"
+    },
+    "411830": {
+      "appid": 411830,
+      "name": "SENRAN KAGURA SHINOVI VERSUS",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T17:30:44.178155"
+    },
+    "411960": {
+      "appid": 411960,
+      "name": "TY the Tasmanian Tiger",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T17:30:44.649122"
+    },
+    "411970": {
+      "appid": 411970,
+      "name": "TY the Tasmanian Tiger 2",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T17:30:44.784687"
+    },
+    "411980": {
+      "appid": 411980,
+      "name": "TY the Tasmanian Tiger 3",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T17:30:44.915602"
+    },
+    "412020": {
+      "appid": 412020,
+      "name": "Metro Exodus",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T17:30:45.171233"
+    },
+    "412170": {
+      "appid": 412170,
+      "name": "City of Chains",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T17:30:45.442979"
+    },
+    "412230": {
+      "appid": 412230,
+      "name": "Infinitrap Classic: Ohio Jack and The Cup Of Eternity",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T17:30:45.777184"
+    },
+    "412250": {
+      "appid": 412250,
+      "name": "Empires Of Creation",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T17:30:45.891536"
+    },
+    "412270": {
+      "appid": 412270,
+      "name": "Stories of Bethem: Full Moon",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T17:30:46.044411"
+    },
+    "412290": {
+      "appid": 412290,
+      "name": "The Dreamlord",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T17:30:46.166617"
+    },
+    "412310": {
+      "appid": 412310,
+      "name": "Labyrinth",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T17:30:46.279243"
+    },
+    "412370": {
+      "appid": 412370,
+      "name": "Parallels",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T17:30:46.508860"
+    },
+    "412380": {
+      "appid": 412380,
+      "name": "Legend (1994)",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T17:30:46.613868"
+    },
+    "412460": {
+      "appid": 412460,
+      "name": "Villagers",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T17:30:46.976398"
+    },
+    "412490": {
+      "appid": 412490,
+      "name": "Yrminsul",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T17:30:47.305774"
+    },
+    "412520": {
+      "appid": 412520,
+      "name": "Evil Defenders",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T17:30:47.419877"
+    },
+    "412530": {
+      "appid": 412530,
+      "name": "Atlantic Quest 2 - New Adventure -",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T17:30:47.535850"
+    },
+    "412540": {
+      "appid": 412540,
+      "name": "The Minotaur",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T17:30:47.665728"
+    },
+    "412600": {
+      "appid": 412600,
+      "name": "Lup",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T17:30:47.881385"
+    },
+    "412620": {
+      "appid": 412620,
+      "name": "CropDuster Supreme",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T17:30:48.017407"
+    },
+    "412660": {
+      "appid": 412660,
+      "name": "Klang",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T17:30:48.238960"
+    },
+    "412670": {
+      "appid": 412670,
+      "name": "Bullet Heaven 2",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T17:30:48.351370"
+    },
+    "412730": {
+      "appid": 412730,
+      "name": "Days Under Custody",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T17:30:48.466298"
+    },
+    "412770": {
+      "appid": 412770,
+      "name": "Boogeyman",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T17:30:48.826769"
+    },
+    "412830": {
+      "appid": 412830,
+      "name": "STEINS;GATE",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T17:30:48.934908"
+    },
+    "412880": {
+      "appid": 412880,
+      "name": "Drift Streets Japan",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T17:30:49.048761"
+    },
+    "413040": {
+      "appid": 413040,
+      "name": "Eekeemoo - Splinters of the Dark Shard",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T17:30:49.570038"
+    },
+    "413150": {
+      "appid": 413150,
+      "name": "Stardew Valley",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T17:30:49.779783"
+    },
+    "413410": {
+      "appid": 413410,
+      "name": "Danganronpa: Trigger Happy Havoc",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T17:30:50.121093"
+    },
+    "413420": {
+      "appid": 413420,
+      "name": "Danganronpa 2: Goodbye Despair",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T17:30:50.247303"
+    },
+    "413480": {
+      "appid": 413480,
+      "name": "101 Ways to Die",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T17:30:50.467642"
+    },
+    "413500": {
+      "appid": 413500,
+      "name": "Rocket Fist",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T17:30:50.708472"
+    },
+    "413540": {
+      "appid": 413540,
+      "name": "Recourse",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T17:30:50.834233"
+    },
+    "413580": {
+      "appid": 413580,
+      "name": "Reverse x Reverse",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T17:30:50.960901"
+    },
+    "413680": {
+      "appid": 413680,
+      "name": "Statues",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T17:30:51.301113"
+    },
+    "413710": {
+      "appid": 413710,
+      "name": "Blood and Gold: Caribbean!",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T17:30:51.533061"
+    },
+    "413730": {
+      "appid": 413730,
+      "name": "Krosmaster Arena",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T17:30:51.695784"
+    },
+    "413830": {
+      "appid": 413830,
+      "name": "Overdosed - A Trip To Hell",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T17:30:52.230973"
+    },
+    "413870": {
+      "appid": 413870,
+      "name": "Sickness",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T17:30:52.354945"
+    },
+    "414060": {
+      "appid": 414060,
+      "name": "iso-Sphere",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T17:30:52.473481"
+    },
+    "414080": {
+      "appid": 414080,
+      "name": "Life is Hard",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T17:30:52.584299"
+    },
+    "414190": {
+      "appid": 414190,
+      "name": "Junk Jack",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T17:30:53.185030"
+    },
+    "414260": {
+      "appid": 414260,
+      "name": "Ironclads 2: American Civil War",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T17:30:53.312724"
+    },
+    "414330": {
+      "appid": 414330,
+      "name": "We Are Chicago",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T17:30:53.434471"
+    },
+    "414340": {
+      "appid": 414340,
+      "name": "Hellblade: Senua's Sacrifice",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T17:30:53.540238"
+    },
+    "414370": {
+      "appid": 414370,
+      "name": "Raining Blobs",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T17:30:53.674486"
     }
   }
 }

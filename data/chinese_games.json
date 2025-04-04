@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-04T17:20:31.821086"
+    "updated": "2025-04-04T17:30:53.675965"
   },
   "games": {
     "570": {
@@ -47264,6 +47264,110 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-04T17:20:31.325471"
+    },
+    "411690": {
+      "appid": 411690,
+      "name": "VROOM: Galleon",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T17:30:43.563890"
+    },
+    "411880": {
+      "appid": 411880,
+      "name": "Once'",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T17:30:44.515091"
+    },
+    "412020": {
+      "appid": 412020,
+      "name": "Metro Exodus",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T17:30:45.171233"
+    },
+    "412220": {
+      "appid": 412220,
+      "name": "DDNet",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T17:30:45.658113"
+    },
+    "412760": {
+      "appid": 412760,
+      "name": "Revolve",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T17:30:48.710387"
+    },
+    "412830": {
+      "appid": 412830,
+      "name": "STEINS;GATE",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T17:30:48.934908"
+    },
+    "413150": {
+      "appid": 413150,
+      "name": "Stardew Valley",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T17:30:49.779783"
+    },
+    "413410": {
+      "appid": 413410,
+      "name": "Danganronpa: Trigger Happy Havoc",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T17:30:50.121093"
+    },
+    "413420": {
+      "appid": 413420,
+      "name": "Danganronpa 2: Goodbye Despair",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T17:30:50.247303"
+    },
+    "413470": {
+      "appid": 413470,
+      "name": "Where Angels Cry: Tears of the Fallen Collector's Edition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T17:30:50.360720"
+    },
+    "413500": {
+      "appid": 413500,
+      "name": "Rocket Fist",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T17:30:50.708472"
+    },
+    "414140": {
+      "appid": 414140,
+      "name": "Jewel bits",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T17:30:52.942257"
+    },
+    "414340": {
+      "appid": 414340,
+      "name": "Hellblade: Senua's Sacrifice",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T17:30:53.540238"
     }
   }
 }
