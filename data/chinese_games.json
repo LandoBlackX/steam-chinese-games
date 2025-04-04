@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-04T03:42:04.488138"
+    "updated": "2025-04-04T03:56:01.548111"
   },
   "games": {
     "570": {
@@ -44976,6 +44976,102 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-04-04T03:42:04.174129"
+    },
+    "364690": {
+      "appid": 364690,
+      "name": "SUPER DISTRO",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T03:55:47.455397"
+    },
+    "364970": {
+      "appid": 364970,
+      "name": "CopperCube 5 Game Engine",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T03:55:49.838504"
+    },
+    "365020": {
+      "appid": 365020,
+      "name": "Gynophobia",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T03:55:50.063004"
+    },
+    "365160": {
+      "appid": 365160,
+      "name": "Kona",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T03:55:51.429704"
+    },
+    "365450": {
+      "appid": 365450,
+      "name": "Hacknet",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T03:55:53.667548"
+    },
+    "365590": {
+      "appid": 365590,
+      "name": "Tom Clancy’s The Division™",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T03:55:54.652352"
+    },
+    "365670": {
+      "appid": 365670,
+      "name": "Blender",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T03:55:54.988422"
+    },
+    "365810": {
+      "appid": 365810,
+      "name": "Flying Tigers: Shadows Over China",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T03:55:55.799119"
+    },
+    "366090": {
+      "appid": 366090,
+      "name": "Colony Survival",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T03:55:57.691496"
+    },
+    "366250": {
+      "appid": 366250,
+      "name": "METAL SLUG",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T03:55:58.599734"
+    },
+    "366380": {
+      "appid": 366380,
+      "name": "MYTH - Steam Edition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T03:55:59.494204"
+    },
+    "366760": {
+      "appid": 366760,
+      "name": "Adorables",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T03:56:01.313934"
     }
   }
 }

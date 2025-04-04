@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-04T03:42:04.488138"
+    "updated": "2025-04-04T03:56:01.548111"
   },
   "games": {
     "570": {
@@ -21046,6 +21046,438 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-04-04T03:42:04.346930"
+    },
+    "364470": {
+      "appid": 364470,
+      "name": "The Elder Scrolls®: Legends™",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T03:55:46.384168"
+    },
+    "364480": {
+      "appid": 364480,
+      "name": "Red Goblin: Cursed Forest",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T03:55:46.521295"
+    },
+    "364630": {
+      "appid": 364630,
+      "name": "AirMech Command",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T03:55:46.908451"
+    },
+    "364640": {
+      "appid": 364640,
+      "name": "FreeCell Quest",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T03:55:47.036648"
+    },
+    "364660": {
+      "appid": 364660,
+      "name": "Luminoso",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T03:55:47.168500"
+    },
+    "364690": {
+      "appid": 364690,
+      "name": "SUPER DISTRO",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T03:55:47.455397"
+    },
+    "364700": {
+      "appid": 364700,
+      "name": "Dawn of the Plow",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T03:55:47.570854"
+    },
+    "364720": {
+      "appid": 364720,
+      "name": "Reagan Gorbachev",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T03:55:47.834517"
+    },
+    "364770": {
+      "appid": 364770,
+      "name": "Super Furball",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T03:55:48.267315"
+    },
+    "364790": {
+      "appid": 364790,
+      "name": "Voyage to Farland",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T03:55:48.405841"
+    },
+    "364830": {
+      "appid": 364830,
+      "name": "BLEAK: Welcome to Glimmer",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T03:55:48.854312"
+    },
+    "364890": {
+      "appid": 364890,
+      "name": "The Lost Battalion: All Out Warfare",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T03:55:49.208572"
+    },
+    "364900": {
+      "appid": 364900,
+      "name": "Red Bit Ninja",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T03:55:49.345011"
+    },
+    "364910": {
+      "appid": 364910,
+      "name": "Redemption: Saints And Sinners",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T03:55:49.456776"
+    },
+    "364930": {
+      "appid": 364930,
+      "name": "Koi-Koi Japan [Hanafuda playing cards]",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T03:55:49.603974"
+    },
+    "365020": {
+      "appid": 365020,
+      "name": "Gynophobia",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T03:55:50.063004"
+    },
+    "365070": {
+      "appid": 365070,
+      "name": "One Manga Day",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T03:55:50.413830"
+    },
+    "365110": {
+      "appid": 365110,
+      "name": "After All",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T03:55:50.885001"
+    },
+    "365120": {
+      "appid": 365120,
+      "name": "Curse of the Crescent Isle DX",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T03:55:51.004838"
+    },
+    "365280": {
+      "appid": 365280,
+      "name": "Alexia Crow and the Cave of Heroes",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T03:55:52.241717"
+    },
+    "365290": {
+      "appid": 365290,
+      "name": "House of Nightmares B-Movie Edition",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T03:55:52.350155"
+    },
+    "365350": {
+      "appid": 365350,
+      "name": "How to Take Off Your Mask",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T03:55:53.049833"
+    },
+    "365360": {
+      "appid": 365360,
+      "name": "战场兄弟 Battle Brothers",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T03:55:53.173605"
+    },
+    "365400": {
+      "appid": 365400,
+      "name": "Spoko and Poko",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T03:55:53.290410"
+    },
+    "365420": {
+      "appid": 365420,
+      "name": "Apollo4x",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T03:55:53.425473"
+    },
+    "365450": {
+      "appid": 365450,
+      "name": "Hacknet",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T03:55:53.667548"
+    },
+    "365480": {
+      "appid": 365480,
+      "name": "Ravenmark: Scourge of Estellion",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T03:55:53.936867"
+    },
+    "365580": {
+      "appid": 365580,
+      "name": "Beeswing",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T03:55:54.509414"
+    },
+    "365590": {
+      "appid": 365590,
+      "name": "Tom Clancy’s The Division™",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T03:55:54.652352"
+    },
+    "365680": {
+      "appid": 365680,
+      "name": "BRAWL",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T03:55:55.097772"
+    },
+    "365770": {
+      "appid": 365770,
+      "name": "Volume",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T03:55:55.507507"
+    },
+    "365800": {
+      "appid": 365800,
+      "name": "AdvertCity",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T03:55:55.632757"
+    },
+    "365810": {
+      "appid": 365810,
+      "name": "Flying Tigers: Shadows Over China",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T03:55:55.799119"
+    },
+    "365820": {
+      "appid": 365820,
+      "name": "Company of Heroes 2 - The British Forces",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T03:55:55.924486"
+    },
+    "365850": {
+      "appid": 365850,
+      "name": "Starchaser: Priestess of the Night Sky",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T03:55:56.038129"
+    },
+    "365860": {
+      "appid": 365860,
+      "name": "Spaceman Sparkles 2",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T03:55:56.158269"
+    },
+    "365880": {
+      "appid": 365880,
+      "name": "Mirrored - Chapter 1",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T03:55:56.474031"
+    },
+    "365890": {
+      "appid": 365890,
+      "name": "Heroes of Normandie",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T03:55:56.592707"
+    },
+    "365900": {
+      "appid": 365900,
+      "name": "Pixel Dungeon",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T03:55:56.712281"
+    },
+    "365980": {
+      "appid": 365980,
+      "name": "Useless Box",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T03:55:56.997311"
+    },
+    "366090": {
+      "appid": 366090,
+      "name": "Colony Survival",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T03:55:57.691496"
+    },
+    "366180": {
+      "appid": 366180,
+      "name": "Disposable Heroes",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T03:55:57.949407"
+    },
+    "366210": {
+      "appid": 366210,
+      "name": "Sleep Attack",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T03:55:58.072075"
+    },
+    "366220": {
+      "appid": 366220,
+      "name": "Wurm Unlimited",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T03:55:58.182668"
+    },
+    "366250": {
+      "appid": 366250,
+      "name": "METAL SLUG",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T03:55:58.599734"
+    },
+    "366320": {
+      "appid": 366320,
+      "name": "Seasons after Fall",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T03:55:59.263391"
+    },
+    "366380": {
+      "appid": 366380,
+      "name": "MYTH - Steam Edition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T03:55:59.494204"
+    },
+    "366440": {
+      "appid": 366440,
+      "name": "Savage Resurrection",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T03:55:59.755157"
+    },
+    "366610": {
+      "appid": 366610,
+      "name": "Not without my donuts",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T03:56:00.553362"
+    },
+    "366620": {
+      "appid": 366620,
+      "name": "Broken Bots",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T03:56:00.666409"
+    },
+    "366640": {
+      "appid": 366640,
+      "name": "Shiness: The Lightning Kingdom",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T03:56:00.779960"
+    },
+    "366670": {
+      "appid": 366670,
+      "name": "The Travels of Marco Polo",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T03:56:00.904169"
+    },
+    "366760": {
+      "appid": 366760,
+      "name": "Adorables",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T03:56:01.313934"
+    },
+    "366780": {
+      "appid": 366780,
+      "name": "Magical Eyes - Red is for Anguish",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T03:56:01.432797"
     }
   }
 }
