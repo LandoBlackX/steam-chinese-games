@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-04T05:01:12.011378"
+    "updated": "2025-04-04T05:44:50.788144"
   },
   "games": {
     "570": {
@@ -45576,6 +45576,134 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-04-04T05:01:11.637900"
+    },
+    "375530": {
+      "appid": 375530,
+      "name": "Football, Tactics & Glory",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T05:44:18.723534"
+    },
+    "375750": {
+      "appid": 375750,
+      "name": "Invisigun Reloaded",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T05:44:19.733850"
+    },
+    "375820": {
+      "appid": 375820,
+      "name": "Human Resource Machine",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T05:44:20.548260"
+    },
+    "375900": {
+      "appid": 375900,
+      "name": "Trackmania® Turbo",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T05:44:21.315524"
+    },
+    "376120": {
+      "appid": 376120,
+      "name": "Assault Corps 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T05:44:21.781988"
+    },
+    "376300": {
+      "appid": 376300,
+      "name": "GUILTY GEAR Xrd -SIGN-",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T05:44:23.098058"
+    },
+    "376730": {
+      "appid": 376730,
+      "name": "Monument",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T05:44:24.603394"
+    },
+    "376870": {
+      "appid": 376870,
+      "name": "Minecraft: Story Mode - A Telltale Games Series",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T05:44:25.495366"
+    },
+    "377160": {
+      "appid": 377160,
+      "name": "Fallout 4",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T05:44:43.938056"
+    },
+    "377300": {
+      "appid": 377300,
+      "name": "Thunder Tier One",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T05:44:44.751097"
+    },
+    "377450": {
+      "appid": 377450,
+      "name": "Lost Lands: Dark Overlord Collector's Edition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T05:44:45.597903"
+    },
+    "377480": {
+      "appid": 377480,
+      "name": "N.E.R.O.: Nothing Ever Remains Obscure",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T05:44:45.944690"
+    },
+    "377530": {
+      "appid": 377530,
+      "name": "侠客风云传(Tale of Wuxia)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T05:44:46.286004"
+    },
+    "377860": {
+      "appid": 377860,
+      "name": "Mushihimesama",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T05:44:47.813331"
+    },
+    "377880": {
+      "appid": 377880,
+      "name": "Eternal Destiny",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T05:44:48.216882"
+    },
+    "378410": {
+      "appid": 378410,
+      "name": "Patchman vs. Red Circles",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T05:44:50.785698"
     }
   }
 }
