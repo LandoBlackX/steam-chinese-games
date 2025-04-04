@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-04T12:50:09.040592"
+    "updated": "2025-04-04T13:22:08.660709"
   },
   "games": {
     "570": {
@@ -26126,6 +26126,86 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-04T12:50:08.763215"
+    },
+    "393430": {
+      "appid": 393430,
+      "name": "Ice Lakes",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T13:22:06.684762"
+    },
+    "393460": {
+      "appid": 393460,
+      "name": "Crazy Pixel Streaker",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T13:22:06.822236"
+    },
+    "393520": {
+      "appid": 393520,
+      "name": "Iconoclasts",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T13:22:06.951688"
+    },
+    "393530": {
+      "appid": 393530,
+      "name": "Insanity Clicker",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T13:22:07.080380"
+    },
+    "393550": {
+      "appid": 393550,
+      "name": "The Journey Back",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T13:22:07.223655"
+    },
+    "393600": {
+      "appid": 393600,
+      "name": "Robot Exploration Squad",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T13:22:07.360182"
+    },
+    "393610": {
+      "appid": 393610,
+      "name": "ROOT",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T13:22:07.495928"
+    },
+    "393820": {
+      "appid": 393820,
+      "name": "At the Mountains of Madness",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T13:22:08.262488"
+    },
+    "393860": {
+      "appid": 393860,
+      "name": "Smoots World Cup Tennis",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T13:22:08.393344"
+    },
+    "393920": {
+      "appid": 393920,
+      "name": "Auto Dealership Tycoon",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T13:22:08.521577"
     }
   }
 }

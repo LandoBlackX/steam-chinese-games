@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-04T12:50:09.040592"
+    "updated": "2025-04-04T13:22:08.660709"
   },
   "games": {
     "570": {
@@ -46472,6 +46472,30 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-04-04T12:50:09.039240"
+    },
+    "393430": {
+      "appid": 393430,
+      "name": "Ice Lakes",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T13:22:06.684762"
+    },
+    "393520": {
+      "appid": 393520,
+      "name": "Iconoclasts",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T13:22:06.951688"
+    },
+    "393530": {
+      "appid": 393530,
+      "name": "Insanity Clicker",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T13:22:07.080380"
     }
   }
 }
