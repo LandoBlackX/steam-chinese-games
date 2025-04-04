@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-04T10:36:38.560722"
+    "updated": "2025-04-04T10:50:06.439807"
   },
   "games": {
     "570": {
@@ -46312,6 +46312,38 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-04T10:36:37.369601"
+    },
+    "391050": {
+      "appid": 391050,
+      "name": "AquaSnap Window Manager",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T10:50:04.519270"
+    },
+    "391140": {
+      "appid": 391140,
+      "name": "Blast-off",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T10:50:05.003739"
+    },
+    "391220": {
+      "appid": 391220,
+      "name": "Rise of the Tomb Raider™",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T10:50:05.919843"
+    },
+    "391240": {
+      "appid": 391240,
+      "name": "Forgotten Lore",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T10:50:06.032968"
     }
   }
 }
