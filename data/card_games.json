@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-04T16:28:09.068309"
+    "updated": "2025-04-04T16:35:51.331130"
   },
   "games": {
     "570": {
@@ -27590,6 +27590,374 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-04T16:28:09.066462"
+    },
+    "402750": {
+      "appid": 402750,
+      "name": "Giant Machines 2017",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T16:35:31.992536"
+    },
+    "402840": {
+      "appid": 402840,
+      "name": "Crusaders of the Lost Idols",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T16:35:32.372418"
+    },
+    "402850": {
+      "appid": 402850,
+      "name": "Miner Mayhem",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T16:35:32.594988"
+    },
+    "402880": {
+      "appid": 402880,
+      "name": "Age of Barbarian Extended Cut",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T16:35:32.797376"
+    },
+    "402940": {
+      "appid": 402940,
+      "name": "Dungeons of Betrayal",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T16:35:33.317346"
+    },
+    "402980": {
+      "appid": 402980,
+      "name": "Osteya",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T16:35:33.679873"
+    },
+    "403030": {
+      "appid": 403030,
+      "name": "mdiapp+ SE",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T16:35:33.847349"
+    },
+    "403070": {
+      "appid": 403070,
+      "name": "Silver Creek Falls: Chapter 2",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T16:35:34.216367"
+    },
+    "403120": {
+      "appid": 403120,
+      "name": "THE GAME OF LIFE",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T16:35:34.738917"
+    },
+    "403180": {
+      "appid": 403180,
+      "name": "Draw a Stickman: EPIC 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T16:35:34.913786"
+    },
+    "403190": {
+      "appid": 403190,
+      "name": "Planetbase",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T16:35:35.070990"
+    },
+    "403200": {
+      "appid": 403200,
+      "name": "Legends of Dawn Reborn",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T16:35:35.232873"
+    },
+    "403230": {
+      "appid": 403230,
+      "name": "ZombieZoid® Zenith",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T16:35:35.394507"
+    },
+    "403300": {
+      "appid": 403300,
+      "name": "GravBlocks",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T16:35:35.989303"
+    },
+    "403510": {
+      "appid": 403510,
+      "name": "Fairy Tale Mysteries 2: The Beanstalk",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T16:35:37.218679"
+    },
+    "403560": {
+      "appid": 403560,
+      "name": "Eaten Alive",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T16:35:37.445854"
+    },
+    "403590": {
+      "appid": 403590,
+      "name": "Klepto",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T16:35:37.621587"
+    },
+    "403640": {
+      "appid": 403640,
+      "name": "Dishonored 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T16:35:37.817721"
+    },
+    "403680": {
+      "appid": 403680,
+      "name": "Dexterity Ball 3D™",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T16:35:38.300295"
+    },
+    "403700": {
+      "appid": 403700,
+      "name": "Zero Punctuation: Hatfall - Hatters Gonna Hat Edition",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T16:35:38.701970"
+    },
+    "403740": {
+      "appid": 403740,
+      "name": "GabeN: The Final Decision",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T16:35:38.870025"
+    },
+    "403780": {
+      "appid": 403780,
+      "name": "Color Symphony 2",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T16:35:39.073927"
+    },
+    "403830": {
+      "appid": 403830,
+      "name": "The Consuming Shadow",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T16:35:39.233680"
+    },
+    "403850": {
+      "appid": 403850,
+      "name": "Sky To Fly: Faster Than Wind",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T16:35:39.387398"
+    },
+    "403900": {
+      "appid": 403900,
+      "name": "Clergy Splode",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T16:35:39.758885"
+    },
+    "403940": {
+      "appid": 403940,
+      "name": "Dungelot: Shattered Lands",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T16:35:40.044826"
+    },
+    "404030": {
+      "appid": 404030,
+      "name": "Lucky Rabbit Reflex!",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T16:35:40.958960"
+    },
+    "404070": {
+      "appid": 404070,
+      "name": "Lords of New York",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T16:35:41.754153"
+    },
+    "404100": {
+      "appid": 404100,
+      "name": "STEEL STRIDER",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T16:35:42.101951"
+    },
+    "404170": {
+      "appid": 404170,
+      "name": "Battle Girls",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T16:35:42.303893"
+    },
+    "404180": {
+      "appid": 404180,
+      "name": "Club Life",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T16:35:42.476043"
+    },
+    "404540": {
+      "appid": 404540,
+      "name": "Nex Machina",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T16:35:45.284472"
+    },
+    "404590": {
+      "appid": 404590,
+      "name": "Vikings - Wolves of Midgard",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T16:35:45.643642"
+    },
+    "404630": {
+      "appid": 404630,
+      "name": "One Hundred Ways",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T16:35:46.132963"
+    },
+    "404640": {
+      "appid": 404640,
+      "name": "Game Tycoon 2",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T16:35:46.316592"
+    },
+    "404660": {
+      "appid": 404660,
+      "name": "Vicky Saves the Big Dumb World",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T16:35:46.534501"
+    },
+    "404690": {
+      "appid": 404690,
+      "name": "This Book Is A Dungeon",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T16:35:46.884949"
+    },
+    "404700": {
+      "appid": 404700,
+      "name": "Curvatron",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T16:35:47.095009"
+    },
+    "404850": {
+      "appid": 404850,
+      "name": "DARTHY",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T16:35:48.193764"
+    },
+    "404860": {
+      "appid": 404860,
+      "name": "Inside Me",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T16:35:48.333160"
+    },
+    "404960": {
+      "appid": 404960,
+      "name": "The Way of Life: DEFINITIVE EDITION",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T16:35:48.902852"
+    },
+    "405000": {
+      "appid": 405000,
+      "name": "UTOPIA 9 - A Volatile Vacation",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T16:35:49.091621"
+    },
+    "405010": {
+      "appid": 405010,
+      "name": "Bitardia",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T16:35:49.271822"
+    },
+    "405240": {
+      "appid": 405240,
+      "name": "Hairy Little Buggers",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T16:35:50.190431"
+    },
+    "405290": {
+      "appid": 405290,
+      "name": "Charlie Murder",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T16:35:50.392078"
+    },
+    "405440": {
+      "appid": 405440,
+      "name": "Ares Omega",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T16:35:51.011056"
     }
   }
 }

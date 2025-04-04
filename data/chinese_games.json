@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-04T16:28:09.068309"
+    "updated": "2025-04-04T16:35:51.331130"
   },
   "games": {
     "570": {
@@ -46872,6 +46872,126 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-04T16:28:09.066462"
+    },
+    "402710": {
+      "appid": 402710,
+      "name": "Osiris: New Dawn",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T16:35:31.842845"
+    },
+    "403040": {
+      "appid": 403040,
+      "name": "Driver Booster 3 for STEAM",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T16:35:34.024374"
+    },
+    "403100": {
+      "appid": 403100,
+      "name": "Rescue Team 3",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T16:35:34.563104"
+    },
+    "403120": {
+      "appid": 403120,
+      "name": "THE GAME OF LIFE",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T16:35:34.738917"
+    },
+    "403180": {
+      "appid": 403180,
+      "name": "Draw a Stickman: EPIC 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T16:35:34.913786"
+    },
+    "403290": {
+      "appid": 403290,
+      "name": "Burly Men at Sea",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T16:35:35.818540"
+    },
+    "403510": {
+      "appid": 403510,
+      "name": "Fairy Tale Mysteries 2: The Beanstalk",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T16:35:37.218679"
+    },
+    "403640": {
+      "appid": 403640,
+      "name": "Dishonored 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T16:35:37.817721"
+    },
+    "404200": {
+      "appid": 404200,
+      "name": "WARTILE",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T16:35:42.644404"
+    },
+    "404540": {
+      "appid": 404540,
+      "name": "Nex Machina",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T16:35:45.284472"
+    },
+    "404590": {
+      "appid": 404590,
+      "name": "Vikings - Wolves of Midgard",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T16:35:45.643642"
+    },
+    "404680": {
+      "appid": 404680,
+      "name": "Hob",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T16:35:46.712255"
+    },
+    "404790": {
+      "appid": 404790,
+      "name": "Godot Engine",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T16:35:47.851005"
+    },
+    "405000": {
+      "appid": 405000,
+      "name": "UTOPIA 9 - A Volatile Vacation",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T16:35:49.091621"
+    },
+    "405310": {
+      "appid": 405310,
+      "name": "LEGO® MARVEL's Avengers",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T16:35:50.605511"
     }
   }
 }
