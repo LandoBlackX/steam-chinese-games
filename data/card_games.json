@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-04T13:22:08.660709"
+    "updated": "2025-04-04T13:42:54.023091"
   },
   "games": {
     "570": {
@@ -26206,6 +26206,78 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-04-04T13:22:08.521577"
+    },
+    "393950": {
+      "appid": 393950,
+      "name": "Get Over Here",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T13:42:51.838656"
+    },
+    "393980": {
+      "appid": 393980,
+      "name": "Pretty Girls Mahjong Solitaire",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T13:42:51.960667"
+    },
+    "394030": {
+      "appid": 394030,
+      "name": "Trigonarium",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T13:42:52.238136"
+    },
+    "394260": {
+      "appid": 394260,
+      "name": "Dance Magic",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T13:42:52.872933"
+    },
+    "394280": {
+      "appid": 394280,
+      "name": "Dark Heritage: Guardians of Hope",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T13:42:53.175177"
+    },
+    "394290": {
+      "appid": 394290,
+      "name": "Tennis in the Face",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T13:42:53.302269"
+    },
+    "394310": {
+      "appid": 394310,
+      "name": "拳击俱乐部",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T13:42:53.440638"
+    },
+    "394360": {
+      "appid": 394360,
+      "name": "Hearts of Iron IV",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T13:42:53.696908"
+    },
+    "394430": {
+      "appid": 394430,
+      "name": "Dimension Drive",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T13:42:54.021171"
     }
   }
 }
