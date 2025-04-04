@@ -19,7 +19,7 @@ class SteamRateLimiter:
         self.request_timestamps = []
         self.last_response_time = 0
 
-    def can_make_request(self):
+    def can_make_request(self34):
         current_time = time.time()
         self.request_timestamps = [t for t in self.request_timestamps if current_time - t < 60]
         if len(self.request_timestamps) < self.requests_per_minute:
@@ -155,6 +155,16 @@ def save_data(data, file_path):
         log(f"保存失败: {str(e)}")
         raise
 
+def migrate_database(conn, cursor):
+    # 检查表是否存在并添加 retry_count 列
+    cursor.execute("PRAGMA table_info(apps)")
+    columns = [col[1] for col in cursor.fetchall()]
+    if "retry_count" not in columns:
+        log("检测到 apps 表缺少 retry_count 列，正在添加...")
+        cursor.execute("ALTER TABLE apps ADD COLUMN retry_count INTEGER DEFAULT 0")
+        conn.commit()
+        log("已成功添加 retry_count 列")
+
 def main():
     log("脚本启动")
     
@@ -164,15 +174,18 @@ def main():
     conn = sqlite3.connect(DB_PATH)
     cursor = conn.cursor()
     
+    # 创建表（如果不存在）
     cursor.execute('''
     CREATE TABLE IF NOT EXISTS apps (
         appid INTEGER PRIMARY KEY,
         status BOOLEAN DEFAULT FALSE,
-        scraper_status BOOLEAN DEFAULT FALSE,
-        retry_count INTEGER DEFAULT 0
+        scraper_status BOOLEAN DEFAULT FALSE
     )
     ''')
     conn.commit()
+    
+    # 迁移表结构，添加 retry_count 列
+    migrate_database(conn, cursor)
     
     test_appids = load_game_appids(chinese_data, card_data, conn, cursor)
     if not test_appids:
