@@ -177,12 +177,19 @@ def save_data(data, file_path):
 
 def main():
     log("脚本启动")
-    
     chinese_data = safe_load_json(DATA_DIR / "chinese_games.json")
     card_data = safe_load_json(DATA_DIR / "card_games.json")
     
     conn = sqlite3.connect(DB_PATH)
     cursor = conn.cursor()
+    
+    # 检查并修复表结构（关键修改）
+    cursor.execute("PRAGMA table_info(apps)")
+    columns = [column[1] for column in cursor.fetchall()]
+    if 'retry_count' not in columns:
+        log("检测到数据库缺少 retry_count 字段，正在更新表结构...")
+        cursor.execute('ALTER TABLE apps ADD COLUMN retry_count INTEGER DEFAULT 0')
+        conn.commit()
     
     cursor.execute('''
     CREATE TABLE IF NOT EXISTS apps (
