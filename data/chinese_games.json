@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-04T16:24:59.864857"
+    "updated": "2025-04-04T16:28:09.068309"
   },
   "games": {
     "570": {
@@ -46696,6 +46696,182 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-04T16:24:59.863277"
+    },
+    "399780": {
+      "appid": 399780,
+      "name": "Expand",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T16:27:51.689236"
+    },
+    "399810": {
+      "appid": 399810,
+      "name": "Call of Cthulhu®",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T16:27:52.445192"
+    },
+    "399820": {
+      "appid": 399820,
+      "name": "Kopanito All-Stars Soccer",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T16:27:52.741695"
+    },
+    "399880": {
+      "appid": 399880,
+      "name": "Amos From Outer Space",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T16:27:53.021417"
+    },
+    "399890": {
+      "appid": 399890,
+      "name": "The Secret Order 2: Masked Intent",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T16:27:53.294723"
+    },
+    "400040": {
+      "appid": 400040,
+      "name": "ShareX",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T16:27:54.421089"
+    },
+    "400080": {
+      "appid": 400080,
+      "name": "Out of Space",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T16:27:54.841712"
+    },
+    "400180": {
+      "appid": 400180,
+      "name": "Okhlos: Omega",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T16:27:55.942472"
+    },
+    "400360": {
+      "appid": 400360,
+      "name": "Adam's Venture: Origins",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T16:27:57.270303"
+    },
+    "400560": {
+      "appid": 400560,
+      "name": "WeaponizedChess",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T16:27:58.788448"
+    },
+    "400630": {
+      "appid": 400630,
+      "name": "Wuppo: Definitive Edition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T16:27:59.304491"
+    },
+    "400750": {
+      "appid": 400750,
+      "name": "Call to Arms - Gates of Hell: Ostfront",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T16:28:00.109288"
+    },
+    "400910": {
+      "appid": 400910,
+      "name": "Rabi-Ribi",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T16:28:00.818474"
+    },
+    "400940": {
+      "appid": 400940,
+      "name": "Budget Cuts",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T16:28:00.960100"
+    },
+    "401330": {
+      "appid": 401330,
+      "name": "Akuatica",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T16:28:02.510535"
+    },
+    "401680": {
+      "appid": 401680,
+      "name": "POSTAL Redux",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T16:28:03.065321"
+    },
+    "401760": {
+      "appid": 401760,
+      "name": "Drone Swarm",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T16:28:03.524792"
+    },
+    "401910": {
+      "appid": 401910,
+      "name": "Darknet",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T16:28:04.754437"
+    },
+    "402020": {
+      "appid": 402020,
+      "name": "The Park®",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T16:28:05.034528"
+    },
+    "402330": {
+      "appid": 402330,
+      "name": "Press X to Not Die",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T16:28:07.761326"
+    },
+    "402570": {
+      "appid": 402570,
+      "name": "Atlas Reactor",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T16:28:08.774936"
+    },
+    "402630": {
+      "appid": 402630,
+      "name": "The Coma: Cutting Class",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T16:28:09.066462"
     }
   }
 }

@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-04T16:24:59.864857"
+    "updated": "2025-04-04T16:28:09.068309"
   },
   "games": {
     "570": {
@@ -27126,6 +27126,470 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-04T16:24:59.863277"
+    },
+    "399640": {
+      "appid": 399640,
+      "name": "Flamebreak",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T16:27:51.027804"
+    },
+    "399670": {
+      "appid": 399670,
+      "name": "Game Corp DX",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T16:27:51.206212"
+    },
+    "399790": {
+      "appid": 399790,
+      "name": "Destiny Warriors RPG",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T16:27:52.001896"
+    },
+    "399810": {
+      "appid": 399810,
+      "name": "Call of Cthulhu®",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T16:27:52.445192"
+    },
+    "399820": {
+      "appid": 399820,
+      "name": "Kopanito All-Stars Soccer",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T16:27:52.741695"
+    },
+    "399880": {
+      "appid": 399880,
+      "name": "Amos From Outer Space",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T16:27:53.021417"
+    },
+    "399890": {
+      "appid": 399890,
+      "name": "The Secret Order 2: Masked Intent",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T16:27:53.294723"
+    },
+    "399910": {
+      "appid": 399910,
+      "name": "Ookibloks",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T16:27:53.768622"
+    },
+    "399920": {
+      "appid": 399920,
+      "name": "Blowy Fish",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T16:27:53.917969"
+    },
+    "400080": {
+      "appid": 400080,
+      "name": "Out of Space",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T16:27:54.841712"
+    },
+    "400130": {
+      "appid": 400130,
+      "name": "Freedom Poopie",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T16:27:55.334948"
+    },
+    "400160": {
+      "appid": 400160,
+      "name": "Concrete Jungle",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T16:27:55.516256"
+    },
+    "400170": {
+      "appid": 400170,
+      "name": "The Incredible Adventures of Van Helsing: Final Cut",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T16:27:55.708120"
+    },
+    "400180": {
+      "appid": 400180,
+      "name": "Okhlos: Omega",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T16:27:55.942472"
+    },
+    "400200": {
+      "appid": 400200,
+      "name": "The Mystery of a Lost Planet",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T16:27:56.124182"
+    },
+    "400240": {
+      "appid": 400240,
+      "name": "The Deer",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T16:27:56.563400"
+    },
+    "400250": {
+      "appid": 400250,
+      "name": "Heaven Island - VR MMO",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T16:27:56.708328"
+    },
+    "400280": {
+      "appid": 400280,
+      "name": "Lizard",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T16:27:56.930839"
+    },
+    "400360": {
+      "appid": 400360,
+      "name": "Adam's Venture: Origins",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T16:27:57.270303"
+    },
+    "400370": {
+      "appid": 400370,
+      "name": "Normality",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T16:27:57.430990"
+    },
+    "400380": {
+      "appid": 400380,
+      "name": "Tactical Soccer The New Season",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T16:27:57.599885"
+    },
+    "400410": {
+      "appid": 400410,
+      "name": "OASE - Other Age Second Encounter",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T16:27:57.908957"
+    },
+    "400450": {
+      "appid": 400450,
+      "name": "NeuroVoider",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T16:27:58.062003"
+    },
+    "400510": {
+      "appid": 400510,
+      "name": "The Final Take",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T16:27:58.574998"
+    },
+    "400580": {
+      "appid": 400580,
+      "name": "Black Closet",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T16:27:59.105628"
+    },
+    "400630": {
+      "appid": 400630,
+      "name": "Wuppo: Definitive Edition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T16:27:59.304491"
+    },
+    "400740": {
+      "appid": 400740,
+      "name": "VERGE:Lost chapter",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T16:27:59.936646"
+    },
+    "400750": {
+      "appid": 400750,
+      "name": "Call to Arms - Gates of Hell: Ostfront",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T16:28:00.109288"
+    },
+    "400790": {
+      "appid": 400790,
+      "name": "The Juicer",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T16:28:00.271610"
+    },
+    "400800": {
+      "appid": 400800,
+      "name": "MXGP2 - The Official Motocross Videogame",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T16:28:00.453298"
+    },
+    "400910": {
+      "appid": 400910,
+      "name": "Rabi-Ribi",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T16:28:00.818474"
+    },
+    "401120": {
+      "appid": 401120,
+      "name": "Anode",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T16:28:01.094366"
+    },
+    "401170": {
+      "appid": 401170,
+      "name": "Birth of Shadows®",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T16:28:01.254045"
+    },
+    "401190": {
+      "appid": 401190,
+      "name": "Dinosaur Hunt",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T16:28:01.534262"
+    },
+    "401290": {
+      "appid": 401290,
+      "name": "Nusakana",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T16:28:02.321073"
+    },
+    "401330": {
+      "appid": 401330,
+      "name": "Akuatica",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T16:28:02.510535"
+    },
+    "401360": {
+      "appid": 401360,
+      "name": "The Aquatic Adventure of the Last Human",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T16:28:02.658442"
+    },
+    "401680": {
+      "appid": 401680,
+      "name": "POSTAL Redux",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T16:28:03.065321"
+    },
+    "401710": {
+      "appid": 401710,
+      "name": "Flinthook",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T16:28:03.360914"
+    },
+    "401810": {
+      "appid": 401810,
+      "name": "Poi",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T16:28:04.101924"
+    },
+    "401820": {
+      "appid": 401820,
+      "name": "FATED: The Silent Oath",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T16:28:04.278035"
+    },
+    "401840": {
+      "appid": 401840,
+      "name": "ChargeShot",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T16:28:04.429807"
+    },
+    "402020": {
+      "appid": 402020,
+      "name": "The Park®",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T16:28:05.034528"
+    },
+    "402040": {
+      "appid": 402040,
+      "name": "The Guest",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T16:28:05.387437"
+    },
+    "402120": {
+      "appid": 402120,
+      "name": "Deathstate: Abyssal Edition",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T16:28:05.913998"
+    },
+    "402130": {
+      "appid": 402130,
+      "name": "FlatOut 4: Total Insanity",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T16:28:06.063481"
+    },
+    "402150": {
+      "appid": 402150,
+      "name": "String Theory",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T16:28:06.234872"
+    },
+    "402170": {
+      "appid": 402170,
+      "name": "Puzzle Ball",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T16:28:06.536194"
+    },
+    "402180": {
+      "appid": 402180,
+      "name": "Sakura Swim Club",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T16:28:06.667945"
+    },
+    "402210": {
+      "appid": 402210,
+      "name": "Airport Madness: Time Machine",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T16:28:06.961564"
+    },
+    "402220": {
+      "appid": 402220,
+      "name": "Lift It",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T16:28:07.111074"
+    },
+    "402310": {
+      "appid": 402310,
+      "name": "Overfall",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T16:28:07.621607"
+    },
+    "402330": {
+      "appid": 402330,
+      "name": "Press X to Not Die",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T16:28:07.761326"
+    },
+    "402340": {
+      "appid": 402340,
+      "name": "Blue Rider",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T16:28:07.954569"
+    },
+    "402530": {
+      "appid": 402530,
+      "name": "The Last Door: Season 2 - Collector's Edition",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T16:28:08.359045"
+    },
+    "402570": {
+      "appid": 402570,
+      "name": "Atlas Reactor",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T16:28:08.774936"
+    },
+    "402620": {
+      "appid": 402620,
+      "name": "Kindred Spirits on the Roof",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T16:28:08.936247"
+    },
+    "402630": {
+      "appid": 402630,
+      "name": "The Coma: Cutting Class",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T16:28:09.066462"
     }
   }
 }
