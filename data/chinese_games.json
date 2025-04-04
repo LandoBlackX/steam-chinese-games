@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-04T07:17:46.162068"
+    "updated": "2025-04-04T07:32:14.289483"
   },
   "games": {
     "570": {
@@ -46120,6 +46120,22 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-04T07:17:44.811031"
+    },
+    "386690": {
+      "appid": 386690,
+      "name": "Fantastic Contraption",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T07:32:12.944361"
+    },
+    "386940": {
+      "appid": 386940,
+      "name": "超级鸡马",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T07:32:14.287111"
     }
   }
 }

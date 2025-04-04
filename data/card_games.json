@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-04T07:17:46.162068"
+    "updated": "2025-04-04T07:32:14.289483"
   },
   "games": {
     "570": {
@@ -24966,6 +24966,86 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-04-04T07:17:46.160527"
+    },
+    "386620": {
+      "appid": 386620,
+      "name": "Cook, Serve, Delicious! 2!!",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T07:32:12.413415"
+    },
+    "386690": {
+      "appid": 386690,
+      "name": "Fantastic Contraption",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T07:32:12.944361"
+    },
+    "386700": {
+      "appid": 386700,
+      "name": "The Oil Blue: Steam Legacy Edition",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T07:32:13.071772"
+    },
+    "386750": {
+      "appid": 386750,
+      "name": "Cashtronauts",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T07:32:13.411644"
+    },
+    "386770": {
+      "appid": 386770,
+      "name": "Caladrius Blaze",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T07:32:13.521138"
+    },
+    "386840": {
+      "appid": 386840,
+      "name": "Sentinel 4: Dark Star",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T07:32:13.654747"
+    },
+    "386870": {
+      "appid": 386870,
+      "name": "Playing History 2 - Slave Trade",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T07:32:13.829660"
+    },
+    "386880": {
+      "appid": 386880,
+      "name": "Rake",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T07:32:13.935476"
+    },
+    "386900": {
+      "appid": 386900,
+      "name": "The Cat Machine",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T07:32:14.059280"
+    },
+    "386940": {
+      "appid": 386940,
+      "name": "超级鸡马",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T07:32:14.287111"
     }
   }
 }
