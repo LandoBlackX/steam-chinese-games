@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-04T07:45:14.186215"
+    "updated": "2025-04-04T07:58:04.982808"
   },
   "games": {
     "570": {
@@ -25110,6 +25110,46 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-04-04T07:45:13.828669"
+    },
+    "387840": {
+      "appid": 387840,
+      "name": "Alpha Runner",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T07:58:04.114052"
+    },
+    "387850": {
+      "appid": 387850,
+      "name": "Airport Madness 4",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T07:58:04.216093"
+    },
+    "387870": {
+      "appid": 387870,
+      "name": "Mold on the Pizza",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T07:58:04.481489"
+    },
+    "387880": {
+      "appid": 387880,
+      "name": "Ninjahtic Mind Tricks",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T07:58:04.620581"
+    },
+    "387930": {
+      "appid": 387930,
+      "name": "The Tape",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T07:58:04.871413"
     }
   }
 }
