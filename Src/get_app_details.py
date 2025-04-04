@@ -28,7 +28,10 @@ class SteamRateLimiter:
     def can_make_request(self):
         current_time = time.time()
         self.request_timestamps = [t for t in self.request_timestamps if current_time - t < 60]
-        return len(self.request_timestamps) < self.requests_per_minute
+        if len(self.request_timestamps) < self.requests_per_minute:
+            self.request_timestamps.append(current_time)
+            return True
+        return False
 
     def wait_for_slot(self):
         while not self.can_make_request():
@@ -53,27 +56,30 @@ def log_failed_appid(appid, reason):
         json.dump(failed_data, f, indent=2, ensure_ascii=False)
 
 def write_results_to_file(results):
+    # (1) 加载现有内容
     if output_file.exists():
         with open(output_file, 'r', encoding='utf-8') as f:
             existing_results = json.load(f)
     else:
         existing_results = {}
+
+    # (2) 更新内容
     existing_results.update(results)
-    sorted_results = {str(k): v for k, v in sorted(existing_results.items(), key=lambda item: int(item[0]))}
+
+    # (3) 按 AppID 升序排序
+    sorted_results = {str(k): v for k, v in sorted(
+        existing_results.items(),
+        key=lambda item: int(item[0])  # 按 AppID 的数值升序排序
+    )}
+
+    # (4) 写回文件
     with open(output_file, 'w', encoding='utf-8') as f:
         json.dump(sorted_results, f, ensure_ascii=False, indent=4)
-    log("Results written to output.json (sorted by AppID)")
 
-def update_status(conn, cursor, appid, app_type):
-    is_game = 1 if app_type == 'game' else 0
-    current_time = datetime.now().isoformat()
-    cursor.execute("""
-        UPDATE apps SET 
-            status = true,
-            is_game = ?,
-            last_updated = ?
-        WHERE appid = ?
-    """, (is_game, current_time, appid))
+    log("已将结果写入 output.json 并按 AppID 升序排序")
+
+def update_status(conn, cursor, appid):
+    cursor.execute("UPDATE apps SET status = true WHERE appid = ?", (appid,))
     conn.commit()
 
 def check_app(appid, rate_limiter):
@@ -90,20 +96,20 @@ def check_app(appid, rate_limiter):
         if data.get(appid_str, {}).get('success'):
             app_data = data[appid_str]['data']
             app_type = app_data.get('type', 'Unknown')
-            log(f"AppID: {appid}, Type: {app_type}, Response: {duration:.2f}s")
+            log(f"AppID: {appid}, 类型: {app_type}, 响应时间: {duration:.2f}秒")
             return appid, app_type
         else:
-            reason = f"API response: {data.get(appid_str, 'No data')}"
-            log(f"Failed AppID: {appid}, {reason}")
+            reason = f"API 返回: {data.get(appid_str, '无数据')}"
+            log(f"获取 AppID: {appid} 的详情失败，{reason}")
             log_failed_appid(appid, reason)
             return appid, None
     except requests.exceptions.RequestException as e:
         if "429" in str(e):
-            log("Rate limit hit, pausing for 5 minutes...")
+            log(f"触发 429 错误，暂停 5 分钟后重试...")
             time.sleep(300)
             return appid, None
         else:
-            log(f"Request failed for AppID: {appid}: {e}")
+            log(f"请求 AppID: {appid} 失败: {e}")
             log_failed_appid(appid, str(e))
             return appid, None
 
@@ -111,39 +117,47 @@ def main():
     conn = sqlite3.connect(db_path)
     cursor = conn.cursor()
 
+    # 创建数据库表（如果不存在）
     cursor.execute('''
     CREATE TABLE IF NOT EXISTS apps (
         appid INTEGER PRIMARY KEY,
         status BOOLEAN DEFAULT FALSE,
-        scraper_status BOOLEAN DEFAULT FALSE,
-        is_game BOOLEAN DEFAULT FALSE,
-        last_updated TEXT DEFAULT "2020-01-01T00:00:00"
+        scraper_status BOOLEAN DEFAULT FALSE
     )
     ''')
     conn.commit()
 
+    # 查询未处理的 AppID
     rows = cursor.execute("SELECT appid FROM apps WHERE status = false").fetchall()
-    appids = [row[0] for row in rows[:1]]  # Process 1 AppID per run
+    appids = [row[0] for row in rows[:1]]  # 每次处理 1 个 AppID
     if not appids:
-        log("No new AppIDs to process")
+        log("没有需要处理的新 AppID，终止执行")
         cursor.close()
         conn.close()
         return
 
-    log(f"Processing {len(appids)} AppID(s)")
+    log(f"开始处理 {len(appids)} 个 AppID")
     rate_limiter = SteamRateLimiter(requests_per_minute=200)
     results = {}
+    success_count = 0
+    failure_count = 0
 
+    # 遍历并处理每个 AppID
     for appid in appids:
         appid, app_type = check_app(appid, rate_limiter)
+        update_status(conn, cursor, appid)
         if app_type:
             results[appid] = app_type
-            update_status(conn, cursor, appid, app_type)
+            success_count += 1
+        else:
+            failure_count += 1
 
+    log(f"处理完成！成功: {success_count}, 失败: {failure_count}")
     write_results_to_file(results)
     cursor.close()
     conn.close()
-    log("Waiting 5 seconds before next run...")
+
+    log("完成 get_app_details.py，等待 5 秒后继续...")
     time.sleep(5)
 
 if __name__ == "__main__":
