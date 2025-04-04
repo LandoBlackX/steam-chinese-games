@@ -95,11 +95,16 @@ def load_game_appids(existing_chinese, existing_cards, conn, cursor):
                     existing_c = existing_chinese["games"].get(appid, {})
                     existing_card = existing_cards["games"].get(appid, {})
                     last_checked = existing_c.get("last_checked") or existing_card.get("last_checked")
-                    if not last_checked or datetime.fromisoformat(last_checked) < thirty_days_ago:
-                        appids.append(appid_int)
-            appids.sort(reverse=False)  # 按 AppID 升序排序
-            log(f"从 output.json 加载到 {len(appids)} 个待处理游戏类 AppID")
-            return appids[:100]  # 每次处理 100 个 AppID
+                    # 如果最近 30 天内已检查过，则跳过
+                    if last_checked and datetime.fromisoformat(last_checked) >= thirty_days_ago:
+                        continue
+                    appids.append(appid_int)
+            if not appids:
+                log("没有待处理的游戏类 AppID")
+                return []
+            appids.sort()  # 按 AppID 升序排序
+            log(f"从 output.json 加载到 {len(appids)} 个待处理游戏类 AppID，最大 AppID: {appids[-1]}，最小 AppID: {appids[0]}")
+            return appids[:100]
     except Exception as e:
         log(f"加载 output.json 失败: {str(e)}")
         return []
@@ -119,7 +124,7 @@ def check_game(appid, rate_limiter):
         if game_data.get("success", False):
             game_info = game_data["data"]
             langs = game_info.get("supported_languages", "") + "|" + game_info.get("languages", "")
-            chinese_keywords = ['schinese', 'tchinese', '中文', '简体', '繁体', 'Chinese', 'Simplified Chinese', 'Traditional Chinese']
+            chinese_keywords = ['schinese', 'tchinese', '中文', '简体', '繁体', 'chinese', 'simplified chinese', 'traditional chinese']
             has_chinese = any(kw in langs.lower() for kw in chinese_keywords)
             has_cards = any(cat.get("id") == 29 for cat in game_info.get("categories", []))
             log(f"游戏 {appid} => {'支持中文' if has_chinese else '无中文'} | {'有卡牌' if has_cards else '无卡牌'} | 响应时间: {duration:.2f}秒")
@@ -163,11 +168,13 @@ def main():
     conn = sqlite3.connect(DB_PATH)
     cursor = conn.cursor()
     
+    # 创建数据库表（如果不存在），增加 retry_count 字段
     cursor.execute('''
     CREATE TABLE IF NOT EXISTS apps (
         appid INTEGER PRIMARY KEY,
         status BOOLEAN DEFAULT FALSE,
-        scraper_status BOOLEAN DEFAULT FALSE
+        scraper_status BOOLEAN DEFAULT FALSE,
+        retry_count INTEGER DEFAULT 0
     )
     ''')
     conn.commit()
@@ -180,23 +187,31 @@ def main():
         return
     
     log(f"开始处理 {len(test_appids)} 个 AppID")
-
     rate_limiter = SteamRateLimiter(requests_per_minute=200)
     results = []
     success_count = 0
     failure_count = 0
+    
     for appid in test_appids:
         result = check_game(appid, rate_limiter)
         if result:
             results.append(result)
             success_count += 1
+            cursor.execute("UPDATE apps SET scraper_status = true, retry_count = 0 WHERE appid = ?", (appid,))
+            conn.commit()
         else:
             failure_count += 1
-        cursor.execute("UPDATE apps SET scraper_status = true WHERE appid = ?", (appid,))
-        conn.commit()
-
+            cursor.execute("UPDATE apps SET retry_count = retry_count + 1 WHERE appid = ?", (appid,))
+            conn.commit()
+            cursor.execute("SELECT retry_count FROM apps WHERE appid = ?", (appid,))
+            retry_count = cursor.fetchone()[0]
+            if retry_count >= 3:
+                cursor.execute("UPDATE apps SET scraper_status = true WHERE appid = ?", (appid,))
+                conn.commit()
+                log(f"AppID: {appid} 重试次数达到 3 次，标记为已处理")
+    
     log(f"处理完成！成功: {success_count}, 失败: {failure_count}")
-
+    
     updated = False
     for result in results:
         if result:
@@ -207,7 +222,7 @@ def main():
             if result["supports_cards"]:
                 card_data["games"][appid_str] = result
                 updated = True
-
+    
     if updated:
         timestamp = datetime.utcnow().isoformat()
         chinese_data["_metadata"]["updated"] = timestamp
