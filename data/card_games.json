@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-04T13:55:37.173131"
+    "updated": "2025-04-04T14:23:08.428167"
   },
   "games": {
     "570": {
@@ -26350,6 +26350,102 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-04-04T13:55:37.171368"
+    },
+    "394970": {
+      "appid": 394970,
+      "name": "DEADBOLT",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T14:23:06.353799"
+    },
+    "395100": {
+      "appid": 395100,
+      "name": "Systematic Immunity",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T14:23:06.601938"
+    },
+    "395140": {
+      "appid": 395140,
+      "name": "Miracle Fly",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T14:23:06.730369"
+    },
+    "395150": {
+      "appid": 395150,
+      "name": "Dark Storm: VR Missions",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T14:23:06.850668"
+    },
+    "395160": {
+      "appid": 395160,
+      "name": "Toby: The Secret Mine",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T14:23:06.972346"
+    },
+    "395170": {
+      "appid": 395170,
+      "name": "DISTRAINT: Deluxe Edition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T14:23:07.164598"
+    },
+    "395250": {
+      "appid": 395250,
+      "name": "The Adventures of Fatman",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T14:23:07.614911"
+    },
+    "395270": {
+      "appid": 395270,
+      "name": "A Wolf in Autumn",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T14:23:07.728564"
+    },
+    "395300": {
+      "appid": 395300,
+      "name": "Voxel Blast",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T14:23:07.875286"
+    },
+    "395350": {
+      "appid": 395350,
+      "name": "Doors",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T14:23:08.031985"
+    },
+    "395380": {
+      "appid": 395380,
+      "name": "ANKI",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T14:23:08.288603"
+    },
+    "395400": {
+      "appid": 395400,
+      "name": "Freedom Cry",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T14:23:08.426406"
     }
   }
 }
