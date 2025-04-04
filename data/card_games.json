@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-04T15:24:08.823347"
+    "updated": "2025-04-04T15:42:23.255518"
   },
   "games": {
     "570": {
@@ -26630,6 +26630,94 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-04-04T15:24:08.692387"
+    },
+    "396750": {
+      "appid": 396750,
+      "name": "EVERSPACE™",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T15:42:20.358319"
+    },
+    "396790": {
+      "appid": 396790,
+      "name": "Dracula's Legacy",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T15:42:20.518351"
+    },
+    "396800": {
+      "appid": 396800,
+      "name": "12 Labours of Hercules IV: Mother Nature (Platinum Edition)",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T15:42:20.687684"
+    },
+    "396850": {
+      "appid": 396850,
+      "name": "Chronicles of the Witches and Warlocks",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T15:42:21.009543"
+    },
+    "396860": {
+      "appid": 396860,
+      "name": "Over The Hills And Far Away",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T15:42:21.179981"
+    },
+    "396890": {
+      "appid": 396890,
+      "name": "Gridworld",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T15:42:21.673886"
+    },
+    "396900": {
+      "appid": 396900,
+      "name": "GRIP: Combat Racing",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T15:42:21.961632"
+    },
+    "397020": {
+      "appid": 397020,
+      "name": "Ironkraft - Road to Hell",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T15:42:22.342677"
+    },
+    "397040": {
+      "appid": 397040,
+      "name": "Sphere 3",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T15:42:22.540448"
+    },
+    "397060": {
+      "appid": 397060,
+      "name": "Faeria",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T15:42:22.748780"
+    },
+    "397090": {
+      "appid": 397090,
+      "name": "Wind Child",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T15:42:22.940652"
     }
   }
 }

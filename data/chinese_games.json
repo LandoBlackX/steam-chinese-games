@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-04T15:24:08.823347"
+    "updated": "2025-04-04T15:42:23.255518"
   },
   "games": {
     "570": {
@@ -46576,6 +46576,38 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-04T14:41:56.515374"
+    },
+    "396750": {
+      "appid": 396750,
+      "name": "EVERSPACE™",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T15:42:20.358319"
+    },
+    "396900": {
+      "appid": 396900,
+      "name": "GRIP: Combat Racing",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T15:42:21.961632"
+    },
+    "397040": {
+      "appid": 397040,
+      "name": "Sphere 3",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T15:42:22.540448"
+    },
+    "397060": {
+      "appid": 397060,
+      "name": "Faeria",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T15:42:22.748780"
     }
   }
 }
