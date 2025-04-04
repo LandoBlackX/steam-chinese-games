@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-04T09:35:45.716586"
+    "updated": "2025-04-04T09:48:44.948573"
   },
   "games": {
     "570": {
@@ -25462,6 +25462,62 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-04T09:35:45.714671"
+    },
+    "389540": {
+      "appid": 389540,
+      "name": "Rescue Me Heroes",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T09:48:42.749602"
+    },
+    "389650": {
+      "appid": 389650,
+      "name": "Stardust Galaxy Warriors: Stellar Climax",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T09:48:43.040504"
+    },
+    "389670": {
+      "appid": 389670,
+      "name": "Pacer",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T09:48:43.215167"
+    },
+    "389700": {
+      "appid": 389700,
+      "name": "My Bones",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T09:48:43.651492"
+    },
+    "389730": {
+      "appid": 389730,
+      "name": "TEKKEN 7",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T09:48:43.950224"
+    },
+    "389810": {
+      "appid": 389810,
+      "name": "Rubber and Lead",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T09:48:44.248937"
+    },
+    "389870": {
+      "appid": 389870,
+      "name": "Mugen Souls",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T09:48:44.398867"
     }
   }
 }

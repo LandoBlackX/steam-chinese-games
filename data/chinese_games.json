@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-04T09:35:45.716586"
+    "updated": "2025-04-04T09:48:44.948573"
   },
   "games": {
     "570": {
@@ -46232,6 +46232,30 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-04T09:35:45.714671"
+    },
+    "389670": {
+      "appid": 389670,
+      "name": "Pacer",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T09:48:43.215167"
+    },
+    "389710": {
+      "appid": 389710,
+      "name": "Catapult King",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T09:48:43.800404"
+    },
+    "389730": {
+      "appid": 389730,
+      "name": "TEKKEN 7",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T09:48:43.950224"
     }
   }
 }
