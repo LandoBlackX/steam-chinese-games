@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-04T19:55:27.164799"
+    "updated": "2025-04-04T20:03:18.063871"
   },
   "games": {
     "570": {
@@ -49384,6 +49384,310 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-04T19:55:27.003362"
+    },
+    "451980": {
+      "appid": 451980,
+      "name": "The Body VR: Journey Inside a Cell",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T20:02:41.260204"
+    },
+    "452060": {
+      "appid": 452060,
+      "name": "Caveblazers",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T20:02:41.794962"
+    },
+    "452410": {
+      "appid": 452410,
+      "name": "Damsel",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T20:02:43.100022"
+    },
+    "452440": {
+      "appid": 452440,
+      "name": "Flowers -Le volume sur printemps-",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T20:02:43.633757"
+    },
+    "452510": {
+      "appid": 452510,
+      "name": "UNDER NIGHT IN-BIRTH Exe:Late",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T20:02:44.208184"
+    },
+    "452570": {
+      "appid": 452570,
+      "name": "Battle Chef Brigade Deluxe",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T20:02:44.395426"
+    },
+    "453090": {
+      "appid": 453090,
+      "name": "Parkitect",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T20:02:46.044349"
+    },
+    "453300": {
+      "appid": 453300,
+      "name": "A Healer Only Lives Twice",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T20:02:47.088784"
+    },
+    "453480": {
+      "appid": 453480,
+      "name": "Shadowverse CCG",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T20:02:48.687216"
+    },
+    "453900": {
+      "appid": 453900,
+      "name": "Thousands of Years Later",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T20:02:53.093626"
+    },
+    "453980": {
+      "appid": 453980,
+      "name": "Airstrike HD",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T20:02:53.779414"
+    },
+    "454100": {
+      "appid": 454100,
+      "name": "Dungeon Escape",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T20:02:55.225198"
+    },
+    "454140": {
+      "appid": 454140,
+      "name": "First Person Tennis - The Real Tennis Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T20:02:55.839964"
+    },
+    "454250": {
+      "appid": 454250,
+      "name": "The Eyes of Ara",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T20:02:57.546682"
+    },
+    "454410": {
+      "appid": 454410,
+      "name": "GIGA WRECKER",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T20:02:58.953540"
+    },
+    "454420": {
+      "appid": 454420,
+      "name": "Mini Metal",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T20:02:59.159377"
+    },
+    "454480": {
+      "appid": 454480,
+      "name": "Break Through: Artificial Maze",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T20:02:59.316797"
+    },
+    "454540": {
+      "appid": 454540,
+      "name": "LuckCatchers",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T20:03:00.215463"
+    },
+    "454650": {
+      "appid": 454650,
+      "name": "DRAGON BALL XENOVERSE 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T20:03:01.643876"
+    },
+    "454670": {
+      "appid": 454670,
+      "name": "Piggy Princess",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T20:03:01.792542"
+    },
+    "454690": {
+      "appid": 454690,
+      "name": "Cyber City 2157: The Visual Novel",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T20:03:02.093017"
+    },
+    "455000": {
+      "appid": 455000,
+      "name": "The Lost",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T20:03:04.656853"
+    },
+    "455020": {
+      "appid": 455020,
+      "name": "Jackpot Poker by PokerStars",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T20:03:04.833415"
+    },
+    "455310": {
+      "appid": 455310,
+      "name": "Bloody Chronicles - New Cycle of Death Visual Novel",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T20:03:07.107127"
+    },
+    "455770": {
+      "appid": 455770,
+      "name": "YamaYama",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T20:03:09.384483"
+    },
+    "455820": {
+      "appid": 455820,
+      "name": "Omensight: Definitive Edition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T20:03:09.549802"
+    },
+    "455980": {
+      "appid": 455980,
+      "name": "审判：末日生存模拟",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T20:03:10.861660"
+    },
+    "456140": {
+      "appid": 456140,
+      "name": "波波和噩梦之箱",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T20:03:11.900504"
+    },
+    "456390": {
+      "appid": 456390,
+      "name": "Exception",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T20:03:12.865817"
+    },
+    "456670": {
+      "appid": 456670,
+      "name": "Hand of Fate 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T20:03:14.345876"
+    },
+    "456760": {
+      "appid": 456760,
+      "name": "A dragon girl looks up at the endless sky",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T20:03:14.877027"
+    },
+    "457010": {
+      "appid": 457010,
+      "name": "StarsOne",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T20:03:15.726864"
+    },
+    "457140": {
+      "appid": 457140,
+      "name": "缺氧",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T20:03:16.024186"
+    },
+    "457210": {
+      "appid": 457210,
+      "name": "SEUM: Speedrunners from Hell",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T20:03:16.264167"
+    },
+    "457250": {
+      "appid": 457250,
+      "name": "OBLITACRATER",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T20:03:16.623029"
+    },
+    "457260": {
+      "appid": 457260,
+      "name": "Omen of Sorrow",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T20:03:16.802109"
+    },
+    "457320": {
+      "appid": 457320,
+      "name": "HoloBall",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T20:03:17.004482"
+    },
+    "457380": {
+      "appid": 457380,
+      "name": "Storm VR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T20:03:17.741298"
     }
   }
 }
