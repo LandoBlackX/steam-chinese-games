@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-04T23:24:42.552283"
+    "updated": "2025-04-04T23:39:29.738011"
   },
   "games": {
     "570": {
@@ -53384,6 +53384,406 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-04T23:24:41.489011"
+    },
+    "528020": {
+      "appid": 528020,
+      "name": "Destroyer",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T23:38:58.484230"
+    },
+    "528060": {
+      "appid": 528060,
+      "name": "東周列萌志 Philosophic Love",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T23:38:58.628426"
+    },
+    "528120": {
+      "appid": 528120,
+      "name": "Darkness and Flame: Born of Fire Collector's Edition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T23:38:59.175008"
+    },
+    "528160": {
+      "appid": 528160,
+      "name": "Solstice Chronicles: MIA",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T23:38:59.293073"
+    },
+    "528230": {
+      "appid": 528230,
+      "name": "SYNTHETIK: Legion Rising",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T23:38:59.804595"
+    },
+    "528250": {
+      "appid": 528250,
+      "name": "Patchwork",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T23:38:59.927023"
+    },
+    "528260": {
+      "appid": 528260,
+      "name": "TITAN SLAYER",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T23:39:00.081197"
+    },
+    "528300": {
+      "appid": 528300,
+      "name": "Soulless: Ray Of Hope",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T23:39:00.354619"
+    },
+    "528460": {
+      "appid": 528460,
+      "name": "Rogalia",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T23:39:00.887209"
+    },
+    "528550": {
+      "appid": 528550,
+      "name": "Drunkn Bar Fight",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T23:39:01.262993"
+    },
+    "528610": {
+      "appid": 528610,
+      "name": "Double Dragon IV",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T23:39:01.644387"
+    },
+    "529160": {
+      "appid": 529160,
+      "name": "Moekuri: Adorable + Tactical SRPG",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T23:39:06.686741"
+    },
+    "529180": {
+      "appid": 529180,
+      "name": "Dark and Light",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T23:39:06.844912"
+    },
+    "529340": {
+      "appid": 529340,
+      "name": "Victoria 3",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T23:39:07.543280"
+    },
+    "529360": {
+      "appid": 529360,
+      "name": "Void Rangers",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T23:39:08.071820"
+    },
+    "529490": {
+      "appid": 529490,
+      "name": "Rogue Trooper Redux",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T23:39:10.835593"
+    },
+    "529590": {
+      "appid": 529590,
+      "name": "Please, Don't Touch Anything 3D",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T23:39:11.558722"
+    },
+    "529630": {
+      "appid": 529630,
+      "name": "The Rabbit Hole Remastered",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T23:39:11.853899"
+    },
+    "529660": {
+      "appid": 529660,
+      "name": "Mages of Mystralia",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T23:39:12.093957"
+    },
+    "529760": {
+      "appid": 529760,
+      "name": "TAIKU MANSION",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T23:39:12.711855"
+    },
+    "529910": {
+      "appid": 529910,
+      "name": "ARK Park",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T23:39:14.216131"
+    },
+    "529950": {
+      "appid": 529950,
+      "name": "12 orbits",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T23:39:14.602867"
+    },
+    "530020": {
+      "appid": 530020,
+      "name": "World to the West",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T23:39:14.992380"
+    },
+    "530040": {
+      "appid": 530040,
+      "name": "reconquest",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T23:39:15.107073"
+    },
+    "530070": {
+      "appid": 530070,
+      "name": "Train Sim World® 2020",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T23:39:15.247858"
+    },
+    "530110": {
+      "appid": 530110,
+      "name": "Tales of a Spymaster",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T23:39:15.493935"
+    },
+    "530160": {
+      "appid": 530160,
+      "name": "Eve of Destruction - REDUX VIETNAM",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T23:39:16.074618"
+    },
+    "530390": {
+      "appid": 530390,
+      "name": "Slayaway Camp",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T23:39:17.237033"
+    },
+    "530500": {
+      "appid": 530500,
+      "name": "The Rosefinch Curse（Ning's Wing 1）",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T23:39:17.450793"
+    },
+    "530510": {
+      "appid": 530510,
+      "name": "Manipulated",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T23:39:17.580761"
+    },
+    "530560": {
+      "appid": 530560,
+      "name": "STEAM HAMMER",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T23:39:18.129928"
+    },
+    "530620": {
+      "appid": 530620,
+      "name": "Resident Evil 7 Teaser: Beginning Hour",
+      "type": "demo",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T23:39:18.258727"
+    },
+    "530630": {
+      "appid": 530630,
+      "name": "Empires Apart",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T23:39:18.388164"
+    },
+    "530890": {
+      "appid": 530890,
+      "name": "Haydee",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T23:39:19.137528"
+    },
+    "530950": {
+      "appid": 530950,
+      "name": "巨塔57",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T23:39:19.485643"
+    },
+    "531180": {
+      "appid": 531180,
+      "name": "AIRHEART - Tales of broken Wings",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T23:39:20.590600"
+    },
+    "531200": {
+      "appid": 531200,
+      "name": "Beneath The Cherry Trees",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T23:39:20.861900"
+    },
+    "531510": {
+      "appid": 531510,
+      "name": "Just Shapes & Beats",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T23:39:21.416903"
+    },
+    "531520": {
+      "appid": 531520,
+      "name": "TankCraft",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T23:39:21.524342"
+    },
+    "531640": {
+      "appid": 531640,
+      "name": "Eternal Card Game",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T23:39:22.002404"
+    },
+    "531680": {
+      "appid": 531680,
+      "name": "8-Bit Invaders!",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T23:39:22.239464"
+    },
+    "531730": {
+      "appid": 531730,
+      "name": "Corona Blossom-日冕之华- vol.2  自外而来的真相",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T23:39:22.414030"
+    },
+    "531740": {
+      "appid": 531740,
+      "name": "Rubek",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T23:39:22.524844"
+    },
+    "531930": {
+      "appid": 531930,
+      "name": "Dungeon Rats",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T23:39:23.438985"
+    },
+    "532110": {
+      "appid": 532110,
+      "name": "Rusty Lake: Roots",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T23:39:24.416591"
+    },
+    "532210": {
+      "appid": 532210,
+      "name": "Life is Strange 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T23:39:24.921136"
+    },
+    "532290": {
+      "appid": 532290,
+      "name": "Dark Train",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T23:39:25.436967"
+    },
+    "532320": {
+      "appid": 532320,
+      "name": "de Blob",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T23:39:26.167875"
+    },
+    "532740": {
+      "appid": 532740,
+      "name": "Crazy Flies",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T23:39:27.641497"
+    },
+    "532790": {
+      "appid": 532790,
+      "name": "Vampire: The Masquerade® - Bloodlines™ 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T23:39:28.203012"
     }
   }
 }
