@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-04T13:42:54.023091"
+    "updated": "2025-04-04T13:55:37.173131"
   },
   "games": {
     "570": {
@@ -26278,6 +26278,78 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-04T13:42:54.021171"
+    },
+    "394490": {
+      "appid": 394490,
+      "name": "Buildanauts",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T13:55:35.169497"
+    },
+    "394540": {
+      "appid": 394540,
+      "name": "Spaceport Hope",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T13:55:35.483024"
+    },
+    "394680": {
+      "appid": 394680,
+      "name": "Mountain Crime: Requital",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T13:55:35.868338"
+    },
+    "394690": {
+      "appid": 394690,
+      "name": "Tower Unite",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T13:55:36.007464"
+    },
+    "394700": {
+      "appid": 394700,
+      "name": "Karma. Incarnation 1",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T13:55:36.156399"
+    },
+    "394760": {
+      "appid": 394760,
+      "name": "Dead Effect 2",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T13:55:36.493852"
+    },
+    "394840": {
+      "appid": 394840,
+      "name": "Mars Colony: Frontier",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T13:55:36.778586"
+    },
+    "394870": {
+      "appid": 394870,
+      "name": "Office Battle",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T13:55:37.027826"
+    },
+    "394950": {
+      "appid": 394950,
+      "name": "Mystery Castle",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T13:55:37.171368"
     }
   }
 }

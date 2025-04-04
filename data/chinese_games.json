@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-04T13:42:54.023091"
+    "updated": "2025-04-04T13:55:37.173131"
   },
   "games": {
     "570": {
@@ -46528,6 +46528,22 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-04T13:42:54.021171"
+    },
+    "394510": {
+      "appid": 394510,
+      "name": "HELLDIVERS™ Dive Harder Edition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T13:55:35.321124"
+    },
+    "394700": {
+      "appid": 394700,
+      "name": "Karma. Incarnation 1",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T13:55:36.156399"
     }
   }
 }
