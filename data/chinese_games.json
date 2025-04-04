@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-04T06:36:11.264684"
+    "updated": "2025-04-04T06:53:04.800902"
   },
   "games": {
     "570": {
@@ -46072,6 +46072,38 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-04-04T06:36:10.131599"
+    },
+    "386070": {
+      "appid": 386070,
+      "name": "Planetary Annihilation: TITANS",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T06:53:02.712116"
+    },
+    "386180": {
+      "appid": 386180,
+      "name": "创世战车",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T06:53:03.986442"
+    },
+    "386260": {
+      "appid": 386260,
+      "name": "Microcosmum: survival of cells",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T06:53:04.303131"
+    },
+    "386290": {
+      "appid": 386290,
+      "name": "Kumoon : Ballistic Physics Puzzle",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T06:53:04.632467"
     }
   }
 }
