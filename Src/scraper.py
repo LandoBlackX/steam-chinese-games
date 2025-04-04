@@ -95,11 +95,12 @@ def load_game_appids(existing_chinese, existing_cards, conn, cursor):
                     existing_c = existing_chinese["games"].get(appid, {})
                     existing_card = existing_cards["games"].get(appid, {})
                     last_checked = existing_c.get("last_checked") or existing_card.get("last_checked")
-                    if not last_checked or datetime.fromisoformat(last_checked) < thirty_days_ago:
-                        appids.append(appid_int)
-            appids.sort(reverse=False)  # 按 AppID 升序排序
+                    if last_checked and datetime.fromisoformat(last_checked) >= thirty_days_ago:
+                        continue
+                    appids.append(appid_int)
+            appids.sort(reverse=False)
             log(f"从 output.json 加载到 {len(appids)} 个待处理游戏类 AppID")
-            return appids[:199]  # 每次处理 199 个 AppID
+            return appids[:199]
     except Exception as e:
         log(f"加载 output.json 失败: {str(e)}")
         return []
@@ -167,7 +168,8 @@ def main():
     CREATE TABLE IF NOT EXISTS apps (
         appid INTEGER PRIMARY KEY,
         status BOOLEAN DEFAULT FALSE,
-        scraper_status BOOLEAN DEFAULT FALSE
+        scraper_status BOOLEAN DEFAULT FALSE,
+        retry_count INTEGER DEFAULT 0
     )
     ''')
     conn.commit()
@@ -190,10 +192,18 @@ def main():
         if result:
             results.append(result)
             success_count += 1
+            cursor.execute("UPDATE apps SET scraper_status = true, retry_count = 0 WHERE appid = ?", (appid,))
+            conn.commit()
         else:
             failure_count += 1
-        cursor.execute("UPDATE apps SET scraper_status = true WHERE appid = ?", (appid,))
-        conn.commit()
+            cursor.execute("UPDATE apps SET retry_count = retry_count + 1 WHERE appid = ?", (appid,))
+            conn.commit()
+            cursor.execute("SELECT retry_count FROM apps WHERE appid = ?", (appid,))
+            retry_count = cursor.fetchone()[0]
+            if retry_count >= 3:
+                cursor.execute("UPDATE apps SET scraper_status = true WHERE appid = ?", (appid,))
+                conn.commit()
+                log(f"AppID: {appid} 重试次数达到 3 次，标记为已处理")
 
     log(f"处理完成！成功: {success_count}, 失败: {failure_count}")
 
