@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-04T11:10:49.296304"
+    "updated": "2025-04-04T11:28:31.169806"
   },
   "games": {
     "570": {
@@ -46360,6 +46360,38 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-04T11:10:48.870507"
+    },
+    "391580": {
+      "appid": 391580,
+      "name": "Egyptian Senet",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T11:28:29.024250"
+    },
+    "391640": {
+      "appid": 391640,
+      "name": "Stage Presence",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T11:28:29.663487"
+    },
+    "391720": {
+      "appid": 391720,
+      "name": "Layers of Fear (2016)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T11:28:30.130166"
+    },
+    "391730": {
+      "appid": 391730,
+      "name": "崩溃大陆",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T11:28:30.275586"
     }
   }
 }

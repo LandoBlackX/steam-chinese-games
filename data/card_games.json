@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-04T11:10:49.296304"
+    "updated": "2025-04-04T11:28:31.169806"
   },
   "games": {
     "570": {
@@ -25862,6 +25862,94 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-04-04T11:10:49.294471"
+    },
+    "391600": {
+      "appid": 391600,
+      "name": "King Lucas",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T11:28:29.378114"
+    },
+    "391640": {
+      "appid": 391640,
+      "name": "Stage Presence",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T11:28:29.663487"
+    },
+    "391650": {
+      "appid": 391650,
+      "name": "Escape From BioStation",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T11:28:29.819450"
+    },
+    "391660": {
+      "appid": 391660,
+      "name": "Incitement 3",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T11:28:29.985045"
+    },
+    "391720": {
+      "appid": 391720,
+      "name": "Layers of Fear (2016)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T11:28:30.130166"
+    },
+    "391730": {
+      "appid": 391730,
+      "name": "崩溃大陆",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T11:28:30.275586"
+    },
+    "391740": {
+      "appid": 391740,
+      "name": "Blaster Shooter GunGuy!",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T11:28:30.440953"
+    },
+    "391820": {
+      "appid": 391820,
+      "name": "Evolution",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T11:28:30.722627"
+    },
+    "391910": {
+      "appid": 391910,
+      "name": "All Fall Down",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T11:28:30.872591"
+    },
+    "391960": {
+      "appid": 391960,
+      "name": "Super Mega Bob",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T11:28:31.009759"
+    },
+    "392000": {
+      "appid": 392000,
+      "name": "TRON RUN/r",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T11:28:31.168396"
     }
   }
 }
