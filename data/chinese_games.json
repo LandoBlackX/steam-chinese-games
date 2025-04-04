@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-04T05:44:50.788144"
+    "updated": "2025-04-04T05:57:58.776955"
   },
   "games": {
     "570": {
@@ -45704,6 +45704,166 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-04T05:44:50.785698"
+    },
+    "378540": {
+      "appid": 378540,
+      "name": "The Surge",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T05:57:43.755665"
+    },
+    "378660": {
+      "appid": 378660,
+      "name": "Blues and Bullets",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T05:57:44.590454"
+    },
+    "378690": {
+      "appid": 378690,
+      "name": "魔药奇谭",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T05:57:44.719570"
+    },
+    "378760": {
+      "appid": 378760,
+      "name": "像素星舰 - Pixel Starships",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T05:57:45.248648"
+    },
+    "379430": {
+      "appid": 379430,
+      "name": "Kingdom Come: Deliverance",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T05:57:47.011982"
+    },
+    "379520": {
+      "appid": 379520,
+      "name": "DELTAZEAL",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T05:57:47.172104"
+    },
+    "379610": {
+      "appid": 379610,
+      "name": "Animated Puzzles",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T05:57:47.572418"
+    },
+    "379720": {
+      "appid": 379720,
+      "name": "DOOM",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T05:57:47.958667"
+    },
+    "380080": {
+      "appid": 380080,
+      "name": "SONAR Steam Editions",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T05:57:49.244839"
+    },
+    "380600": {
+      "appid": 380600,
+      "name": "Fishing Planet",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T05:57:51.212041"
+    },
+    "380750": {
+      "appid": 380750,
+      "name": "Anima: Gate of Memories",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T05:57:52.017314"
+    },
+    "380950": {
+      "appid": 380950,
+      "name": "Bocce Revolution",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T05:57:52.745486"
+    },
+    "381020": {
+      "appid": 381020,
+      "name": "Sky Rogue",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T05:57:53.298062"
+    },
+    "381050": {
+      "appid": 381050,
+      "name": "The Ritual on Weylyn Island",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T05:57:53.422891"
+    },
+    "381100": {
+      "appid": 381100,
+      "name": "The Men of Yoshiwara: Kikuya",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T05:57:53.556607"
+    },
+    "381130": {
+      "appid": 381130,
+      "name": "Karma",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T05:57:53.905683"
+    },
+    "381210": {
+      "appid": 381210,
+      "name": "黎明杀机",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T05:57:54.343175"
+    },
+    "381560": {
+      "appid": 381560,
+      "name": "Epic Cards Battle(TCG)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T05:57:55.437864"
+    },
+    "381890": {
+      "appid": 381890,
+      "name": "Induction",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T05:57:56.763243"
+    },
+    "382140": {
+      "appid": 382140,
+      "name": "SKYHILL",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T05:57:58.407248"
     }
   }
 }
