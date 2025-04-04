@@ -4,7 +4,7 @@ on:
     - cron: '*/2 * * * *'  # 每 2 分钟运行一次
   workflow_dispatch:
 
-# 新增并发控制
+# 并发控制（关键修改）
 concurrency:
   group: ${{ github.workflow }}
   cancel-in-progress: true
@@ -17,6 +17,11 @@ jobs:
       contents: write
 
     steps:
+      - name: Clean old database
+        run: |
+          rm -f data/app_list.db  # 强制重建数据库
+          echo "已清理旧数据库"
+
       - name: Checkout code
         uses: actions/checkout@v4
         with:
