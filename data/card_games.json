@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-04T14:41:57.517423"
+    "updated": "2025-04-04T14:55:06.022917"
   },
   "games": {
     "570": {
@@ -26526,6 +26526,54 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-04-04T14:41:57.515606"
+    },
+    "395900": {
+      "appid": 395900,
+      "name": "Backgammon Blitz",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T14:55:04.307997"
+    },
+    "395920": {
+      "appid": 395920,
+      "name": "Playing History - The Plague",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T14:55:04.568302"
+    },
+    "395930": {
+      "appid": 395930,
+      "name": "Farm Frenzy: Heave Ho",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T14:55:04.697269"
+    },
+    "395940": {
+      "appid": 395940,
+      "name": "Scribbled Arena",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T14:55:04.833827"
+    },
+    "396090": {
+      "appid": 396090,
+      "name": "Rogue State",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T14:55:05.482425"
+    },
+    "396160": {
+      "appid": 396160,
+      "name": "Secret Of Magia",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T14:55:05.618260"
     }
   }
 }
