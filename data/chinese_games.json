@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-04T17:30:53.675965"
+    "updated": "2025-04-04T17:44:01.365055"
   },
   "games": {
     "570": {
@@ -47368,6 +47368,102 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-04T17:30:53.540238"
+    },
+    "414660": {
+      "appid": 414660,
+      "name": "Vampire Legends: The True Story of Kisilova",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T17:43:47.529868"
+    },
+    "414700": {
+      "appid": 414700,
+      "name": "Outlast 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T17:43:47.660979"
+    },
+    "414740": {
+      "appid": 414740,
+      "name": "RAID: World War II",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T17:43:48.091824"
+    },
+    "415350": {
+      "appid": 415350,
+      "name": "Shooting Stars!",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T17:43:51.064577"
+    },
+    "415590": {
+      "appid": 415590,
+      "name": "Earthfall",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T17:43:51.968451"
+    },
+    "416000": {
+      "appid": 416000,
+      "name": "Orange Season",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T17:43:55.000145"
+    },
+    "416210": {
+      "appid": 416210,
+      "name": "Block'hood",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T17:43:56.722750"
+    },
+    "416350": {
+      "appid": 416350,
+      "name": "MiniBikers",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T17:43:58.100916"
+    },
+    "416590": {
+      "appid": 416590,
+      "name": "Emily Wants To Play",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T17:43:59.517954"
+    },
+    "416600": {
+      "appid": 416600,
+      "name": "Full Metal Furies",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T17:43:59.665423"
+    },
+    "416680": {
+      "appid": 416680,
+      "name": "Zombie Night Terror",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T17:44:00.458391"
+    },
+    "416700": {
+      "appid": 416700,
+      "name": "5 Minutes Rage - Hatred Edition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T17:44:00.752575"
     }
   }
 }
