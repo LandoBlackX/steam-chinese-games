@@ -57,7 +57,7 @@ jobs:
       - name: Commit changes
         uses: EndBug/add-and-commit@v9
         with:
-          add: 'data/*.json data/*.db data/invalid_appids.log'  # 新增 .log 文件
+          add: 'data/*.json data/*.db'  # 自动包含 invalid_appids.json
           message: |
             🎮 游戏数据更新 [${{ github.run_number }}]
             统计结果：
