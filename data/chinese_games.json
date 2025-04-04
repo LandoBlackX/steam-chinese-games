@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-04T06:17:20.825980"
+    "updated": "2025-04-04T06:30:23.872061"
   },
   "games": {
     "570": {
@@ -46008,6 +46008,46 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-04-04T06:17:19.941939"
+    },
+    "385370": {
+      "appid": 385370,
+      "name": "Radiator 2: Anniversary Edition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T06:30:22.244629"
+    },
+    "385400": {
+      "appid": 385400,
+      "name": "Weapons Genius",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T06:30:22.767615"
+    },
+    "385440": {
+      "appid": 385440,
+      "name": "Buff Knight Advanced",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T06:30:23.042968"
+    },
+    "385490": {
+      "appid": 385490,
+      "name": "MiniDrivers",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T06:30:23.190511"
+    },
+    "385560": {
+      "appid": 385560,
+      "name": "Shadow Complex Remastered",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T06:30:23.464714"
     }
   }
 }

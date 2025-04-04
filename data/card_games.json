@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-04T06:17:20.825980"
+    "updated": "2025-04-04T06:30:23.872061"
   },
   "games": {
     "570": {
@@ -24670,6 +24670,94 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-04-04T06:17:20.824307"
+    },
+    "385310": {
+      "appid": 385310,
+      "name": "The Land Of Lamia",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T06:30:21.667199"
+    },
+    "385360": {
+      "appid": 385360,
+      "name": "Super Trench Attack 2",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T06:30:22.111100"
+    },
+    "385380": {
+      "appid": 385380,
+      "name": "Planet Centauri",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T06:30:22.406736"
+    },
+    "385400": {
+      "appid": 385400,
+      "name": "Weapons Genius",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T06:30:22.767615"
+    },
+    "385410": {
+      "appid": 385410,
+      "name": "The Journey: Bob's Story",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T06:30:22.909994"
+    },
+    "385440": {
+      "appid": 385440,
+      "name": "Buff Knight Advanced",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T06:30:23.042968"
+    },
+    "385490": {
+      "appid": 385490,
+      "name": "MiniDrivers",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T06:30:23.190511"
+    },
+    "385530": {
+      "appid": 385530,
+      "name": "Astro Lords",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T06:30:23.333205"
+    },
+    "385560": {
+      "appid": 385560,
+      "name": "Shadow Complex Remastered",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T06:30:23.464714"
+    },
+    "385580": {
+      "appid": 385580,
+      "name": "The Empty Inn",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T06:30:23.602443"
+    },
+    "385600": {
+      "appid": 385600,
+      "name": "Heavy Fire: Shattered Spear",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T06:30:23.870400"
     }
   }
 }
