@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-04T16:48:51.796527"
+    "updated": "2025-04-04T17:20:31.821086"
   },
   "games": {
     "570": {
@@ -28366,6 +28366,438 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-04T16:48:51.795081"
+    },
+    "408280": {
+      "appid": 408280,
+      "name": "Message Quest",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T17:20:18.306333"
+    },
+    "408400": {
+      "appid": 408400,
+      "name": "Swords and Sorcery - Underworld - Definitive Edition",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T17:20:18.548011"
+    },
+    "408410": {
+      "appid": 408410,
+      "name": "X-Morph: Defense",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T17:20:18.682635"
+    },
+    "408440": {
+      "appid": 408440,
+      "name": "Dream Factory",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T17:20:18.802650"
+    },
+    "408520": {
+      "appid": 408520,
+      "name": "FORM",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T17:20:18.937205"
+    },
+    "408640": {
+      "appid": 408640,
+      "name": "Code of Princess",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T17:20:19.074104"
+    },
+    "408650": {
+      "appid": 408650,
+      "name": "ChromaGun",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T17:20:19.193780"
+    },
+    "408750": {
+      "appid": 408750,
+      "name": "Starsphere",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T17:20:19.458071"
+    },
+    "408760": {
+      "appid": 408760,
+      "name": "Pro Cycling Manager 2016",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T17:20:19.591394"
+    },
+    "408900": {
+      "appid": 408900,
+      "name": "Unfortunate Spacemen",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T17:20:19.906397"
+    },
+    "408930": {
+      "appid": 408930,
+      "name": "ePic Character Generator",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T17:20:20.214225"
+    },
+    "409000": {
+      "appid": 409000,
+      "name": "Mystery Chronicle: One Way Heroics",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T17:20:20.622752"
+    },
+    "409040": {
+      "appid": 409040,
+      "name": "Herolike",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T17:20:20.910508"
+    },
+    "409070": {
+      "appid": 409070,
+      "name": "Fist Slash: Of Ultimate Fury",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T17:20:21.035186"
+    },
+    "409090": {
+      "appid": 409090,
+      "name": "The Big Secret of a Small Town",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T17:20:21.159560"
+    },
+    "409100": {
+      "appid": 409100,
+      "name": "The Purring Quest",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T17:20:21.298713"
+    },
+    "409160": {
+      "appid": 409160,
+      "name": "Dr. Langeskov, The Tiger, and The Terribly Cursed Emerald: A Whirlwind Heist",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T17:20:21.411724"
+    },
+    "409320": {
+      "appid": 409320,
+      "name": "Syndrome",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T17:20:22.041271"
+    },
+    "409340": {
+      "appid": 409340,
+      "name": "Perraw - FPS Clone War Alpha",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T17:20:22.204075"
+    },
+    "409380": {
+      "appid": 409380,
+      "name": "Among the Heavens",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T17:20:22.461847"
+    },
+    "409390": {
+      "appid": 409390,
+      "name": "Marble Mountain",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T17:20:22.588232"
+    },
+    "409420": {
+      "appid": 409420,
+      "name": "Knight Adventure",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T17:20:22.716314"
+    },
+    "409450": {
+      "appid": 409450,
+      "name": "The Fall of the Dungeon Guardians - Enhanced Edition",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T17:20:22.901895"
+    },
+    "409460": {
+      "appid": 409460,
+      "name": "Blackfaun",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T17:20:23.034480"
+    },
+    "409520": {
+      "appid": 409520,
+      "name": "Ginger: Beyond the Crystal",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T17:20:23.399839"
+    },
+    "409560": {
+      "appid": 409560,
+      "name": "Run Rabbit Run",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T17:20:23.522648"
+    },
+    "409600": {
+      "appid": 409600,
+      "name": "Contract With The Devil",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T17:20:23.942945"
+    },
+    "409660": {
+      "appid": 409660,
+      "name": "Angry Video Game Nerd II: ASSimilation",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T17:20:24.322669"
+    },
+    "409710": {
+      "appid": 409710,
+      "name": "生化奇兵 重制版",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T17:20:24.687840"
+    },
+    "409720": {
+      "appid": 409720,
+      "name": "生化奇兵2 重制版",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T17:20:24.813631"
+    },
+    "409730": {
+      "appid": 409730,
+      "name": "Death by Game Show",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T17:20:24.944795"
+    },
+    "409850": {
+      "appid": 409850,
+      "name": "Criminal Girls: Invite Only",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T17:20:25.324213"
+    },
+    "409870": {
+      "appid": 409870,
+      "name": "Phantom Brave PC",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T17:20:25.475651"
+    },
+    "409890": {
+      "appid": 409890,
+      "name": "Stranger of Sword City",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T17:20:25.597759"
+    },
+    "409920": {
+      "appid": 409920,
+      "name": "Brilliant Shadows - Part One of the Book of Gray Magic",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T17:20:25.874386"
+    },
+    "410110": {
+      "appid": 410110,
+      "name": "12 is Better Than 6",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T17:20:26.354400"
+    },
+    "410120": {
+      "appid": 410120,
+      "name": "AGON - The Mysterious Codex (Trilogy)",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T17:20:26.477007"
+    },
+    "410130": {
+      "appid": 410130,
+      "name": "AGON - The Lost Sword of Toledo",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T17:20:26.598587"
+    },
+    "410150": {
+      "appid": 410150,
+      "name": "Swapperoo",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T17:20:26.717697"
+    },
+    "410210": {
+      "appid": 410210,
+      "name": "Ampersand",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T17:20:26.884244"
+    },
+    "410320": {
+      "appid": 410320,
+      "name": "EARTH DEFENSE FORCE 4.1 The Shadow of New Despair",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T17:20:27.056722"
+    },
+    "410340": {
+      "appid": 410340,
+      "name": "Liftoff®: FPV Drone Racing",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T17:20:27.348677"
+    },
+    "410370": {
+      "appid": 410370,
+      "name": "Huenison",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T17:20:27.514729"
+    },
+    "410430": {
+      "appid": 410430,
+      "name": "Morphine",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T17:20:27.786133"
+    },
+    "410440": {
+      "appid": 410440,
+      "name": "Vertigo Void",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T17:20:27.922011"
+    },
+    "410470": {
+      "appid": 410470,
+      "name": "Expander",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T17:20:28.112268"
+    },
+    "410670": {
+      "appid": 410670,
+      "name": "Suits: A Business RPG",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T17:20:28.627558"
+    },
+    "410710": {
+      "appid": 410710,
+      "name": "System Shock: Enhanced Edition",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T17:20:28.745126"
+    },
+    "410820": {
+      "appid": 410820,
+      "name": "Starward Rogue",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T17:20:29.153137"
+    },
+    "410840": {
+      "appid": 410840,
+      "name": "Rock God Tycoon",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T17:20:29.453082"
+    },
+    "410890": {
+      "appid": 410890,
+      "name": "Higurashi When They Cry Hou - Ch.2 Watanagashi",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T17:20:29.750786"
+    },
+    "410900": {
+      "appid": 410900,
+      "name": "Forts",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T17:20:29.884015"
+    },
+    "411120": {
+      "appid": 411120,
+      "name": "Galaxy Admirals",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T17:20:31.047044"
+    },
+    "411300": {
+      "appid": 411300,
+      "name": "ELEX",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T17:20:31.325471"
     }
   }
 }

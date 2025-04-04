@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-04T16:48:51.796527"
+    "updated": "2025-04-04T17:20:31.821086"
   },
   "games": {
     "570": {
@@ -47144,6 +47144,126 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-04T16:48:51.795081"
+    },
+    "408410": {
+      "appid": 408410,
+      "name": "X-Morph: Defense",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T17:20:18.682635"
+    },
+    "408650": {
+      "appid": 408650,
+      "name": "ChromaGun",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T17:20:19.193780"
+    },
+    "409100": {
+      "appid": 409100,
+      "name": "The Purring Quest",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T17:20:21.298713"
+    },
+    "409290": {
+      "appid": 409290,
+      "name": "Herding Dog",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T17:20:21.900799"
+    },
+    "409320": {
+      "appid": 409320,
+      "name": "Syndrome",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T17:20:22.041271"
+    },
+    "409390": {
+      "appid": 409390,
+      "name": "Marble Mountain",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T17:20:22.588232"
+    },
+    "409710": {
+      "appid": 409710,
+      "name": "生化奇兵 重制版",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T17:20:24.687840"
+    },
+    "409720": {
+      "appid": 409720,
+      "name": "生化奇兵2 重制版",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T17:20:24.813631"
+    },
+    "410110": {
+      "appid": 410110,
+      "name": "12 is Better Than 6",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T17:20:26.354400"
+    },
+    "410470": {
+      "appid": 410470,
+      "name": "Expander",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T17:20:28.112268"
+    },
+    "410490": {
+      "appid": 410490,
+      "name": "Elements: Epic Heroes",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T17:20:28.265254"
+    },
+    "410740": {
+      "appid": 410740,
+      "name": "Flying Neko Delivery",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T17:20:28.885770"
+    },
+    "410850": {
+      "appid": 410850,
+      "name": "DRAGON QUEST HEROES™ Slime Edition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T17:20:29.600005"
+    },
+    "410900": {
+      "appid": 410900,
+      "name": "Forts",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T17:20:29.884015"
+    },
+    "411300": {
+      "appid": 411300,
+      "name": "ELEX",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T17:20:31.325471"
     }
   }
 }
