@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-04T19:42:20.639231"
+    "updated": "2025-04-04T19:55:27.164799"
   },
   "games": {
     "570": {
@@ -49104,6 +49104,286 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-04-04T19:42:20.513069"
+    },
+    "447120": {
+      "appid": 447120,
+      "name": "Where the Water Tastes Like Wine",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T19:54:48.061322"
+    },
+    "447150": {
+      "appid": 447150,
+      "name": "APE OUT",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T19:54:48.398551"
+    },
+    "447170": {
+      "appid": 447170,
+      "name": "Destiny's Princess: A War Story, A Love Story",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T19:54:48.585829"
+    },
+    "447180": {
+      "appid": 447180,
+      "name": "My Secret Pets!",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T19:54:48.771219"
+    },
+    "447190": {
+      "appid": 447190,
+      "name": "Pub Encounter",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T19:54:49.068685"
+    },
+    "447200": {
+      "appid": 447200,
+      "name": "The Men of Yoshiwara: Ohgiya",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T19:54:49.280888"
+    },
+    "447210": {
+      "appid": 447210,
+      "name": "Blink",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T19:54:49.577167"
+    },
+    "447240": {
+      "appid": 447240,
+      "name": "Zasa - An AI Story",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T19:54:49.779262"
+    },
+    "447290": {
+      "appid": 447290,
+      "name": "Redeemer: Enhanced Edition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T19:54:50.112757"
+    },
+    "447530": {
+      "appid": 447530,
+      "name": "VA-11 Hall-A: Cyberpunk Bartender Action",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T19:54:50.665088"
+    },
+    "447700": {
+      "appid": 447700,
+      "name": "Crystal Crisis",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T19:54:51.710940"
+    },
+    "447780": {
+      "appid": 447780,
+      "name": "LostWinds",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T19:54:51.879113"
+    },
+    "447800": {
+      "appid": 447800,
+      "name": "LostWinds 2: Winter of the Melodias",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T19:54:52.278969"
+    },
+    "447820": {
+      "appid": 447820,
+      "name": "Day of Infamy",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T19:54:52.482723"
+    },
+    "448320": {
+      "appid": 448320,
+      "name": "GIBZ",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T19:54:58.813963"
+    },
+    "448510": {
+      "appid": 448510,
+      "name": "Overcooked",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T19:55:00.686464"
+    },
+    "448560": {
+      "appid": 448560,
+      "name": "Mind Games",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T19:55:01.376011"
+    },
+    "448800": {
+      "appid": 448800,
+      "name": "Semispheres",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T19:55:04.493549"
+    },
+    "449060": {
+      "appid": 449060,
+      "name": "Cellar",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T19:55:07.338225"
+    },
+    "449130": {
+      "appid": 449130,
+      "name": "ENGAGE",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T19:55:08.064297"
+    },
+    "449610": {
+      "appid": 449610,
+      "name": "怪物男孩和中咒王国\t",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T19:55:13.556721"
+    },
+    "449800": {
+      "appid": 449800,
+      "name": "Attack on Titan / A.O.T. Wings of Freedom",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T19:55:15.428105"
+    },
+    "449960": {
+      "appid": 449960,
+      "name": "Book of Demons",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T19:55:16.016290"
+    },
+    "450190": {
+      "appid": 450190,
+      "name": "MAZE LORD",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T19:55:17.795892"
+    },
+    "450390": {
+      "appid": 450390,
+      "name": "The Lab",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T19:55:18.682344"
+    },
+    "450500": {
+      "appid": 450500,
+      "name": "Ace of Seafood",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T19:55:19.008565"
+    },
+    "450630": {
+      "appid": 450630,
+      "name": "Woeful Woebots",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T19:55:19.904491"
+    },
+    "450670": {
+      "appid": 450670,
+      "name": "Table Top Racing: World Tour",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T19:55:20.369849"
+    },
+    "450700": {
+      "appid": 450700,
+      "name": "The Spatials: Galactology",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T19:55:20.546955"
+    },
+    "451020": {
+      "appid": 451020,
+      "name": "Battle Chasers: Nightwar",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T19:55:22.205048"
+    },
+    "451310": {
+      "appid": 451310,
+      "name": "A Fold Apart",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T19:55:23.788277"
+    },
+    "451340": {
+      "appid": 451340,
+      "name": "Gold Mining Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T19:55:24.159687"
+    },
+    "451360": {
+      "appid": 451360,
+      "name": "Fenrisulfr Puzzle",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T19:55:24.486608"
+    },
+    "451600": {
+      "appid": 451600,
+      "name": "CounterAttack: Uprising",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T19:55:25.752765"
+    },
+    "451760": {
+      "appid": 451760,
+      "name": "Highway Blossoms - 花开公路",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T19:55:27.003362"
     }
   }
 }
