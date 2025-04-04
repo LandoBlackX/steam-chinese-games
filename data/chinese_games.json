@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-04T10:50:06.439807"
+    "updated": "2025-04-04T11:10:49.296304"
   },
   "games": {
     "570": {
@@ -46344,6 +46344,22 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-04T10:50:06.032968"
+    },
+    "391310": {
+      "appid": 391310,
+      "name": "Alien Attack",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T11:10:46.456370"
+    },
+    "391490": {
+      "appid": 391490,
+      "name": "Braveland Pirate",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T11:10:48.870507"
     }
   }
 }
