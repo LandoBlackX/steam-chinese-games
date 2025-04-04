@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-04T01:59:47.991551"
+    "updated": "2025-04-04T03:05:34.085061"
   },
   "games": {
     "570": {
@@ -19998,6 +19998,534 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-04-04T01:59:47.989889"
+    },
+    "358130": {
+      "appid": 358130,
+      "name": "奇妙探险队 Curious Expedition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T03:05:18.040760"
+    },
+    "358650": {
+      "appid": 358650,
+      "name": "Gryphon Knight Epic",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T03:05:20.981770"
+    },
+    "358750": {
+      "appid": 358750,
+      "name": "Sunrider: Liberation Day - Captain's Edition",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T03:05:21.236183"
+    },
+    "358760": {
+      "appid": 358760,
+      "name": "Selenon Rising",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T03:05:21.374272"
+    },
+    "358770": {
+      "appid": 358770,
+      "name": "The Reject Demon: Toko Chapter 0 — Prelude",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T03:05:21.510157"
+    },
+    "358830": {
+      "appid": 358830,
+      "name": "Good Robot",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T03:05:21.775964"
+    },
+    "358960": {
+      "appid": 358960,
+      "name": "Canabalt",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T03:05:22.302254"
+    },
+    "359040": {
+      "appid": 359040,
+      "name": "The Music Machine",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T03:05:22.428839"
+    },
+    "359050": {
+      "appid": 359050,
+      "name": "Shower With Your Dad Simulator 2015: Do You Still Shower With Your Dad",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T03:05:22.564250"
+    },
+    "359060": {
+      "appid": 359060,
+      "name": "Switch Galaxy Ultra",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T03:05:22.699711"
+    },
+    "359100": {
+      "appid": 359100,
+      "name": "Q.U.B.E. 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T03:05:23.112049"
+    },
+    "359140": {
+      "appid": 359140,
+      "name": "Kick Ass Commandos",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T03:05:23.238929"
+    },
+    "359230": {
+      "appid": 359230,
+      "name": "Lethis - Path of Progress",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T03:05:23.780918"
+    },
+    "359250": {
+      "appid": 359250,
+      "name": "City of Fools",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T03:05:23.916785"
+    },
+    "359260": {
+      "appid": 359260,
+      "name": "Green Moon",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T03:05:24.035142"
+    },
+    "359280": {
+      "appid": 359280,
+      "name": "Heroes of Loot",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T03:05:24.172399"
+    },
+    "359340": {
+      "appid": 359340,
+      "name": "Pixel Puzzles Mosaics",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T03:05:24.730406"
+    },
+    "359350": {
+      "appid": 359350,
+      "name": "Defunct",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T03:05:24.903618"
+    },
+    "359390": {
+      "appid": 359390,
+      "name": "Amnesia™: Memories",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T03:05:25.206351"
+    },
+    "359400": {
+      "appid": 359400,
+      "name": "Why Am I Dead At Sea",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T03:05:25.335337"
+    },
+    "359420": {
+      "appid": 359420,
+      "name": "The Journeyman Project 1: Pegasus Prime",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T03:05:25.473534"
+    },
+    "359440": {
+      "appid": 359440,
+      "name": "Artifact Adventure",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T03:05:25.657707"
+    },
+    "359510": {
+      "appid": 359510,
+      "name": "Tangle Tower",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T03:05:25.789819"
+    },
+    "359550": {
+      "appid": 359550,
+      "name": "Tom Clancy's Rainbow Six® Siege",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T03:05:25.923957"
+    },
+    "359560": {
+      "appid": 359560,
+      "name": "Shutter",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T03:05:26.058365"
+    },
+    "359580": {
+      "appid": 359580,
+      "name": "Uncanny Valley",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T03:05:26.203746"
+    },
+    "359600": {
+      "appid": 359600,
+      "name": "Assassin’s Creed® Chronicles: Russia",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T03:05:26.340325"
+    },
+    "359610": {
+      "appid": 359610,
+      "name": "Assassin’s Creed® Chronicles: India",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T03:05:26.493451"
+    },
+    "359670": {
+      "appid": 359670,
+      "name": "Vagrant Hearts 2",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T03:05:27.013403"
+    },
+    "359810": {
+      "appid": 359810,
+      "name": "Hare In The Hat",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T03:05:27.282719"
+    },
+    "359840": {
+      "appid": 359840,
+      "name": "Shift Happens",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T03:05:27.412053"
+    },
+    "359870": {
+      "appid": 359870,
+      "name": "FINAL FANTASY X/X-2 HD Remaster",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T03:05:27.540018"
+    },
+    "359900": {
+      "appid": 359900,
+      "name": "The Incredible Adventures of Van Helsing III",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T03:05:27.693077"
+    },
+    "359940": {
+      "appid": 359940,
+      "name": "Shadows Peak",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T03:05:27.950757"
+    },
+    "359960": {
+      "appid": 359960,
+      "name": "Choice Chamber",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T03:05:28.082666"
+    },
+    "359970": {
+      "appid": 359970,
+      "name": "Alpha Version.0",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T03:05:28.224283"
+    },
+    "360010": {
+      "appid": 360010,
+      "name": "Remnants Of Isolation",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T03:05:28.352824"
+    },
+    "360030": {
+      "appid": 360030,
+      "name": "XLarn",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T03:05:28.491377"
+    },
+    "360040": {
+      "appid": 360040,
+      "name": "Our Nation's Miner",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T03:05:28.635038"
+    },
+    "360150": {
+      "appid": 360150,
+      "name": "How To Survive: Third Person Standalone",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T03:05:28.771827"
+    },
+    "360170": {
+      "appid": 360170,
+      "name": "How to Survive 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T03:05:28.909681"
+    },
+    "360380": {
+      "appid": 360380,
+      "name": "Tiny Bridge: Ratventure",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T03:05:29.042042"
+    },
+    "360390": {
+      "appid": 360390,
+      "name": "Nightside",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T03:05:29.184083"
+    },
+    "360400": {
+      "appid": 360400,
+      "name": "Zombie Quarantine",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T03:05:29.317790"
+    },
+    "360430": {
+      "appid": 360430,
+      "name": "Mafia III: Definitive Edition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T03:05:29.454483"
+    },
+    "360450": {
+      "appid": 360450,
+      "name": "Kiai Resonance",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T03:05:29.577781"
+    },
+    "360510": {
+      "appid": 360510,
+      "name": "Into the Stars",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T03:05:29.710929"
+    },
+    "360550": {
+      "appid": 360550,
+      "name": "Cursed Sight",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T03:05:30.120868"
+    },
+    "360600": {
+      "appid": 360600,
+      "name": "99 Waves to Die",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T03:05:30.384111"
+    },
+    "360620": {
+      "appid": 360620,
+      "name": "Spellsworn",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T03:05:30.511886"
+    },
+    "360640": {
+      "appid": 360640,
+      "name": "12 Labours of Hercules II: The Cretan Bull",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T03:05:30.645142"
+    },
+    "360650": {
+      "appid": 360650,
+      "name": "12 Labours of Hercules III: Girl Power",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T03:05:30.778856"
+    },
+    "360730": {
+      "appid": 360730,
+      "name": "Cards and Castles",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T03:05:31.187439"
+    },
+    "360830": {
+      "appid": 360830,
+      "name": "Yooka-Laylee",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T03:05:31.457712"
+    },
+    "360840": {
+      "appid": 360840,
+      "name": "Lumini",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T03:05:31.587672"
+    },
+    "360890": {
+      "appid": 360890,
+      "name": "The Lost Valley",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T03:05:31.998999"
+    },
+    "360940": {
+      "appid": 360940,
+      "name": "The Mean Greens - Plastic Warfare",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T03:05:32.134889"
+    },
+    "360970": {
+      "appid": 360970,
+      "name": "Heaven Forest NIGHTS",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T03:05:32.265731"
+    },
+    "361040": {
+      "appid": 361040,
+      "name": "Doom & Destiny Advanced",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T03:05:32.727833"
+    },
+    "361130": {
+      "appid": 361130,
+      "name": "Card Dungeon",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T03:05:33.134061"
+    },
+    "361160": {
+      "appid": 361160,
+      "name": "Steamalot: Epoch's Journey",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T03:05:33.304689"
+    },
+    "361190": {
+      "appid": 361190,
+      "name": "Sparkle 3 Genesis",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T03:05:33.439875"
+    },
+    "361200": {
+      "appid": 361200,
+      "name": "COAST GUARD",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T03:05:33.578409"
+    },
+    "361230": {
+      "appid": 361230,
+      "name": "Super Daryl Deluxe",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T03:05:33.716317"
+    },
+    "361280": {
+      "appid": 361280,
+      "name": "Turmoil",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T03:05:33.960360"
+    },
+    "361300": {
+      "appid": 361300,
+      "name": "Mother Russia Bleeds",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T03:05:34.083114"
     }
   }
 }
