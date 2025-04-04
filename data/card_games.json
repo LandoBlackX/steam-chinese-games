@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-04T10:09:48.111294"
+    "updated": "2025-04-04T10:36:38.560722"
   },
   "games": {
     "570": {
@@ -25614,6 +25614,102 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-04-04T10:09:48.108906"
+    },
+    "390570": {
+      "appid": 390570,
+      "name": "Three Digits",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T10:36:36.318680"
+    },
+    "390610": {
+      "appid": 390610,
+      "name": "Circa Infinity",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T10:36:36.487782"
+    },
+    "390620": {
+      "appid": 390620,
+      "name": "An Alien with a Magnet",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T10:36:36.627276"
+    },
+    "390680": {
+      "appid": 390680,
+      "name": "Spacejacked",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T10:36:36.915256"
+    },
+    "390710": {
+      "appid": 390710,
+      "name": "Acceleration of SUGURI 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T10:36:37.062642"
+    },
+    "390720": {
+      "appid": 390720,
+      "name": "Anarcute",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T10:36:37.204155"
+    },
+    "390730": {
+      "appid": 390730,
+      "name": "Sora",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T10:36:37.369601"
+    },
+    "390880": {
+      "appid": 390880,
+      "name": "Redemption: Eternal Quest",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T10:36:37.633579"
+    },
+    "390920": {
+      "appid": 390920,
+      "name": "Army of Pixels",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T10:36:37.939837"
+    },
+    "390930": {
+      "appid": 390930,
+      "name": "AIPD - Artificial Intelligence Police Department",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T10:36:38.111935"
+    },
+    "390940": {
+      "appid": 390940,
+      "name": "The Musketeers: Victoria's Quest",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T10:36:38.248813"
+    },
+    "391000": {
+      "appid": 391000,
+      "name": "Farm Frenzy Collection",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T10:36:38.382352"
     }
   }
 }

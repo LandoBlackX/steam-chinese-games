@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-04T10:09:48.111294"
+    "updated": "2025-04-04T10:36:38.560722"
   },
   "games": {
     "570": {
@@ -46288,6 +46288,30 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-04T10:09:47.903139"
+    },
+    "390680": {
+      "appid": 390680,
+      "name": "Spacejacked",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T10:36:36.915256"
+    },
+    "390710": {
+      "appid": 390710,
+      "name": "Acceleration of SUGURI 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T10:36:37.062642"
+    },
+    "390730": {
+      "appid": 390730,
+      "name": "Sora",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T10:36:37.369601"
     }
   }
 }
