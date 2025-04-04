@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-04T18:34:31.844850"
+    "updated": "2025-04-04T18:42:46.301954"
   },
   "games": {
     "570": {
@@ -48024,6 +48024,198 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-04T18:34:31.129928"
+    },
+    "428080": {
+      "appid": 428080,
+      "name": "Racket: Nx",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T18:37:33.377480"
+    },
+    "428130": {
+      "appid": 428130,
+      "name": "Walk The Light",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T18:37:33.734598"
+    },
+    "428180": {
+      "appid": 428180,
+      "name": "Islet Online",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T18:37:33.993101"
+    },
+    "428200": {
+      "appid": 428200,
+      "name": "Attack Heroes",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T18:37:34.225935"
+    },
+    "428220": {
+      "appid": 428220,
+      "name": "TurnOn",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T18:37:34.434439"
+    },
+    "428550": {
+      "appid": 428550,
+      "name": "Momodora: Reverie Under The Moonlight",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T18:37:36.411312"
+    },
+    "428660": {
+      "appid": 428660,
+      "name": "Deliver Us The Moon",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T18:37:36.943563"
+    },
+    "428690": {
+      "appid": 428690,
+      "name": "Youtubers Life",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T18:37:37.061405"
+    },
+    "428750": {
+      "appid": 428750,
+      "name": "Neon Chrome",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T18:37:37.290334"
+    },
+    "428830": {
+      "appid": 428830,
+      "name": "Save the Dodos",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T18:37:37.520040"
+    },
+    "429360": {
+      "appid": 429360,
+      "name": "Lupinball",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T18:37:40.645419"
+    },
+    "429380": {
+      "appid": 429380,
+      "name": "Space Mechanic Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T18:37:40.765533"
+    },
+    "429540": {
+      "appid": 429540,
+      "name": "Prime World: Defenders 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T18:37:41.722774"
+    },
+    "429570": {
+      "appid": 429570,
+      "name": "The Walking Dead: Michonne - A Telltale Miniseries",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T18:37:41.829977"
+    },
+    "429600": {
+      "appid": 429600,
+      "name": "Fairy Tale Mysteries: The Puppet Thief",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T18:37:42.072660"
+    },
+    "429610": {
+      "appid": 429610,
+      "name": "The Emerald Maiden: Symphony of Dreams",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T18:37:42.184775"
+    },
+    "429620": {
+      "appid": 429620,
+      "name": "地城进击者",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T18:37:42.324259"
+    },
+    "429660": {
+      "appid": 429660,
+      "name": "Tales of Berseria™",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T18:37:42.510774"
+    },
+    "429680": {
+      "appid": 429680,
+      "name": "Spellweaver",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T18:37:42.640237"
+    },
+    "430070": {
+      "appid": 430070,
+      "name": "Never Again",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T18:42:44.744612"
+    },
+    "430170": {
+      "appid": 430170,
+      "name": "Babel: Choice",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T18:42:45.405793"
+    },
+    "430210": {
+      "appid": 430210,
+      "name": "Megaton Rainfall",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T18:42:45.648015"
+    },
+    "430290": {
+      "appid": 430290,
+      "name": "Shmups Skill Test",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T18:42:46.179297"
+    },
+    "430300": {
+      "appid": 430300,
+      "name": "MINUS ZERO",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T18:42:46.299815"
     }
   }
 }
