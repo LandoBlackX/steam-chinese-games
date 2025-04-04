@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-04T17:44:01.365055"
+    "updated": "2025-04-04T17:57:02.577382"
   },
   "games": {
     "570": {
@@ -47464,6 +47464,214 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-04T17:44:00.752575"
+    },
+    "416830": {
+      "appid": 416830,
+      "name": "Light Fall",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T17:56:50.430615"
+    },
+    "417110": {
+      "appid": 417110,
+      "name": "Mayjasmine Episode01 - What is God?",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T17:56:51.151803"
+    },
+    "417150": {
+      "appid": 417150,
+      "name": "Pavilion",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T17:56:51.382331"
+    },
+    "417290": {
+      "appid": 417290,
+      "name": "Ghost of a Tale",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T17:56:51.609292"
+    },
+    "417350": {
+      "appid": 417350,
+      "name": "Monkey King Saga",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T17:56:51.840243"
+    },
+    "417880": {
+      "appid": 417880,
+      "name": "Everybody's Gone to the Rapture",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T17:56:53.015409"
+    },
+    "417910": {
+      "appid": 417910,
+      "name": "Street Warriors Online",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T17:56:53.373236"
+    },
+    "418030": {
+      "appid": 418030,
+      "name": "Subsistence",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T17:56:53.982989"
+    },
+    "418180": {
+      "appid": 418180,
+      "name": "风暴之海",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T17:56:54.964939"
+    },
+    "418240": {
+      "appid": 418240,
+      "name": "Shadow Tactics: Blades of the Shogun",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T17:56:55.208136"
+    },
+    "418340": {
+      "appid": 418340,
+      "name": "RWBY: Grimm Eclipse",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T17:56:55.918863"
+    },
+    "418370": {
+      "appid": 418370,
+      "name": "Resident Evil 7 Biohazard",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T17:56:56.163447"
+    },
+    "418460": {
+      "appid": 418460,
+      "name": "Rising Storm 2: Vietnam",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T17:56:56.608610"
+    },
+    "418530": {
+      "appid": 418530,
+      "name": "Spelunky 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T17:56:56.851030"
+    },
+    "418670": {
+      "appid": 418670,
+      "name": "Pankapu",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T17:56:57.486550"
+    },
+    "418950": {
+      "appid": 418950,
+      "name": "DreadOut: Keepers of The Dark",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T17:56:57.841323"
+    },
+    "419080": {
+      "appid": 419080,
+      "name": "Bridge Constructor Stunts",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T17:56:58.199836"
+    },
+    "419480": {
+      "appid": 419480,
+      "name": "Starpoint Gemini Warlords",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T17:56:58.827705"
+    },
+    "419700": {
+      "appid": 419700,
+      "name": "AT SUNDOWN: Shots in the Dark",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T17:56:58.961667"
+    },
+    "420000": {
+      "appid": 420000,
+      "name": "Home Design 3D",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T17:56:59.441490"
+    },
+    "420040": {
+      "appid": 420040,
+      "name": "NeuroSlicers",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T17:56:59.673205"
+    },
+    "420060": {
+      "appid": 420060,
+      "name": "Candle",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T17:56:59.795287"
+    },
+    "420110": {
+      "appid": 420110,
+      "name": "NEKOPARA Vol. 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T17:57:00.149014"
+    },
+    "420370": {
+      "appid": 420370,
+      "name": "Gravity Island",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T17:57:01.633327"
+    },
+    "420530": {
+      "appid": 420530,
+      "name": "OneShot",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T17:57:02.104830"
+    },
+    "420560": {
+      "appid": 420560,
+      "name": "Firefighting Simulator - The Squad",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T17:57:02.347363"
     }
   }
 }
