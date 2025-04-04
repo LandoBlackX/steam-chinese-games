@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-04T19:32:25.617264"
+    "updated": "2025-04-04T19:42:20.639231"
   },
   "games": {
     "570": {
@@ -48848,6 +48848,262 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-04-04T19:32:24.402993"
+    },
+    "440880": {
+      "appid": 440880,
+      "name": "卢卡诺伯爵",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T19:41:40.576993"
+    },
+    "440900": {
+      "appid": 440900,
+      "name": "Conan Exiles",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T19:41:40.832030"
+    },
+    "441790": {
+      "appid": 441790,
+      "name": "Fragmented",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T19:41:44.642508"
+    },
+    "441870": {
+      "appid": 441870,
+      "name": "OutDrive",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T19:41:45.313263"
+    },
+    "443260": {
+      "appid": 443260,
+      "name": "Hero Generations: ReGen",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T19:41:51.107793"
+    },
+    "443450": {
+      "appid": 443450,
+      "name": "LASTFIGHT",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T19:41:52.622991"
+    },
+    "443810": {
+      "appid": 443810,
+      "name": "This Is the Police",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T19:41:54.885085"
+    },
+    "444180": {
+      "appid": 444180,
+      "name": "Techwars Online",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T19:41:57.583921"
+    },
+    "444200": {
+      "appid": 444200,
+      "name": "坦克世界闪电战",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T19:41:58.065983"
+    },
+    "444430": {
+      "appid": 444430,
+      "name": "Zeus vs Monsters - Math Game for kids",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T19:42:01.478696"
+    },
+    "444670": {
+      "appid": 444670,
+      "name": "Super Impossible Road",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T19:42:04.202469"
+    },
+    "444690": {
+      "appid": 444690,
+      "name": "TRAPPED",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T19:42:04.374363"
+    },
+    "444770": {
+      "appid": 444770,
+      "name": "Mimpi Dreams",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T19:42:05.300064"
+    },
+    "444940": {
+      "appid": 444940,
+      "name": "UBERMOSH:BLACK",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T19:42:06.703357"
+    },
+    "444970": {
+      "appid": 444970,
+      "name": "SPATIAL SOUND CARD",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T19:42:06.987498"
+    },
+    "445000": {
+      "appid": 445000,
+      "name": "Nova Nukers!",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T19:42:07.321389"
+    },
+    "445220": {
+      "appid": 445220,
+      "name": "Avorion",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T19:42:09.092457"
+    },
+    "445310": {
+      "appid": 445310,
+      "name": "Might and Magic: Heroes VII – Trial by Fire",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T19:42:09.443120"
+    },
+    "445720": {
+      "appid": 445720,
+      "name": "Battle Islands: Commanders",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T19:42:10.896206"
+    },
+    "445840": {
+      "appid": 445840,
+      "name": "Undead vs Plants",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T19:42:11.510056"
+    },
+    "445870": {
+      "appid": 445870,
+      "name": "Phantom Trigger",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T19:42:11.734311"
+    },
+    "445980": {
+      "appid": 445980,
+      "name": "Wizard of Legend",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T19:42:12.132466"
+    },
+    "446020": {
+      "appid": 446020,
+      "name": "Jalopy",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T19:42:12.618923"
+    },
+    "446040": {
+      "appid": 446040,
+      "name": "Blade Arcus from Shining: Battle Arena",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T19:42:12.817526"
+    },
+    "446250": {
+      "appid": 446250,
+      "name": "Silver Bullet: Prometheus",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T19:42:14.227508"
+    },
+    "446510": {
+      "appid": 446510,
+      "name": "Armed and Gelatinous: Couch Edition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T19:42:16.251644"
+    },
+    "446530": {
+      "appid": 446530,
+      "name": "最后的千纸鹤 One Last Crane",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T19:42:16.408189"
+    },
+    "446790": {
+      "appid": 446790,
+      "name": "Diluvion: Resubmerged",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T19:42:18.268727"
+    },
+    "446800": {
+      "appid": 446800,
+      "name": "Transport Fever",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T19:42:18.448282"
+    },
+    "446840": {
+      "appid": 446840,
+      "name": "Splasher",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T19:42:19.010328"
+    },
+    "447020": {
+      "appid": 447020,
+      "name": "Farming Simulator 17",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T19:42:20.320593"
+    },
+    "447040": {
+      "appid": 447040,
+      "name": "Watch_Dogs® 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T19:42:20.513069"
     }
   }
 }
