@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-03T23:59:19.081082"
+    "updated": "2025-04-04T01:59:47.991551"
   },
   "games": {
     "570": {
@@ -19470,6 +19470,534 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-03T23:59:19.078700"
+    },
+    "355310": {
+      "appid": 355310,
+      "name": "Blood Alloy: Reborn",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T01:59:32.169458"
+    },
+    "355350": {
+      "appid": 355350,
+      "name": "Reign of Bullets",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T01:59:32.291649"
+    },
+    "355370": {
+      "appid": 355370,
+      "name": "Vidar",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T01:59:32.433364"
+    },
+    "355410": {
+      "appid": 355410,
+      "name": "Radium",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T01:59:32.804832"
+    },
+    "355430": {
+      "appid": 355430,
+      "name": "//SNOWFLAKE TATTOO//",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T01:59:33.071808"
+    },
+    "355510": {
+      "appid": 355510,
+      "name": "Crazy Belts",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T01:59:33.725382"
+    },
+    "355520": {
+      "appid": 355520,
+      "name": "The Albino Hunter (Original)",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T01:59:33.870810"
+    },
+    "355530": {
+      "appid": 355530,
+      "name": "Last Word",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T01:59:34.003002"
+    },
+    "355680": {
+      "appid": 355680,
+      "name": "Overland",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T01:59:34.790883"
+    },
+    "355690": {
+      "appid": 355690,
+      "name": "Deputy Dangle",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T01:59:34.917002"
+    },
+    "355760": {
+      "appid": 355760,
+      "name": "Drizzlepath",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T01:59:35.166139"
+    },
+    "355790": {
+      "appid": 355790,
+      "name": "Styx: Shards of Darkness",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T01:59:35.295142"
+    },
+    "355800": {
+      "appid": 355800,
+      "name": "Space Run Galaxy",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T01:59:35.449294"
+    },
+    "355810": {
+      "appid": 355810,
+      "name": "Centauri Sector",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T01:59:35.585024"
+    },
+    "355860": {
+      "appid": 355860,
+      "name": "Albino Lullaby: Episode 1",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T01:59:35.901065"
+    },
+    "355910": {
+      "appid": 355910,
+      "name": "Piloteer",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T01:59:36.030949"
+    },
+    "355920": {
+      "appid": 355920,
+      "name": "Pixel Puzzles 2: Space",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T01:59:36.150595"
+    },
+    "355970": {
+      "appid": 355970,
+      "name": "Home is Where One Starts...",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T01:59:36.279195"
+    },
+    "356030": {
+      "appid": 356030,
+      "name": "The Survivor",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T01:59:36.661498"
+    },
+    "356040": {
+      "appid": 356040,
+      "name": "Sheltered",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T01:59:36.787083"
+    },
+    "356070": {
+      "appid": 356070,
+      "name": "Commander Cool 2",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T01:59:36.912854"
+    },
+    "356090": {
+      "appid": 356090,
+      "name": "Machineers - Episode 1: Tivoli Town",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T01:59:37.036051"
+    },
+    "356100": {
+      "appid": 356100,
+      "name": "Fuego!",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T01:59:37.162947"
+    },
+    "356130": {
+      "appid": 356130,
+      "name": "Heroes of Scene",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T01:59:37.412944"
+    },
+    "356170": {
+      "appid": 356170,
+      "name": "Tile Rider",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T01:59:37.663221"
+    },
+    "356190": {
+      "appid": 356190,
+      "name": "Middle-earth™: Shadow of War™",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T01:59:37.963308"
+    },
+    "356380": {
+      "appid": 356380,
+      "name": "Orbit HD",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T01:59:39.183148"
+    },
+    "356390": {
+      "appid": 356390,
+      "name": "The Slaughter: Act One",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T01:59:39.332885"
+    },
+    "356400": {
+      "appid": 356400,
+      "name": "Thumper",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T01:59:39.498361"
+    },
+    "356420": {
+      "appid": 356420,
+      "name": "Interloper",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T01:59:39.629751"
+    },
+    "356450": {
+      "appid": 356450,
+      "name": "Creature Romances: Kokonoe Kokoro",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T01:59:39.884886"
+    },
+    "356530": {
+      "appid": 356530,
+      "name": "The Confines Of The Crown",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T01:59:40.546027"
+    },
+    "356540": {
+      "appid": 356540,
+      "name": "East Tower - Takashi (East Tower Series Vol. 2)",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T01:59:40.678050"
+    },
+    "356550": {
+      "appid": 356550,
+      "name": "East Tower - Kuon (East Tower Series Vol. 3)",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T01:59:40.821741"
+    },
+    "356560": {
+      "appid": 356560,
+      "name": "East Tower - Kurenai (East Tower Series Vol. 4)",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T01:59:40.963774"
+    },
+    "356570": {
+      "appid": 356570,
+      "name": "Party Hard",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T01:59:41.108421"
+    },
+    "356650": {
+      "appid": 356650,
+      "name": "Death's Gambit: Afterlife",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T01:59:41.362789"
+    },
+    "356730": {
+      "appid": 356730,
+      "name": "The Hole Story",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T01:59:41.755857"
+    },
+    "356790": {
+      "appid": 356790,
+      "name": "Galacide",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T01:59:42.037393"
+    },
+    "356880": {
+      "appid": 356880,
+      "name": "Eron",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T01:59:42.598766"
+    },
+    "356890": {
+      "appid": 356890,
+      "name": "One More Line",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T01:59:42.734048"
+    },
+    "356910": {
+      "appid": 356910,
+      "name": "Battle Fantasia -Revised Edition-",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T01:59:42.889531"
+    },
+    "357030": {
+      "appid": 357030,
+      "name": "Excubitor",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T01:59:43.016824"
+    },
+    "357070": {
+      "appid": 357070,
+      "name": "UBERMOSH",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T01:59:43.156650"
+    },
+    "357120": {
+      "appid": 357120,
+      "name": "Big Action Mega Fight!",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T01:59:43.277976"
+    },
+    "357200": {
+      "appid": 357200,
+      "name": "500 Years Act 1",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T01:59:43.522361"
+    },
+    "357280": {
+      "appid": 357280,
+      "name": "Alter World",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T01:59:43.713736"
+    },
+    "357290": {
+      "appid": 357290,
+      "name": "Red Lake",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T01:59:43.860645"
+    },
+    "357300": {
+      "appid": 357300,
+      "name": "Snakebird",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T01:59:43.987931"
+    },
+    "357310": {
+      "appid": 357310,
+      "name": "Oriental Empires",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T01:59:44.120878"
+    },
+    "357320": {
+      "appid": 357320,
+      "name": "Break_In",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T01:59:44.257506"
+    },
+    "357340": {
+      "appid": 357340,
+      "name": "Cobalt",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T01:59:44.559323"
+    },
+    "357370": {
+      "appid": 357370,
+      "name": "Return NULL - Episode 1",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T01:59:44.692211"
+    },
+    "357480": {
+      "appid": 357480,
+      "name": "Frozen Free Fall: Snowball Fight",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T01:59:44.833272"
+    },
+    "357490": {
+      "appid": 357490,
+      "name": "Astroloco: Worst Contact",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T01:59:44.962268"
+    },
+    "357600": {
+      "appid": 357600,
+      "name": "Unium",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T01:59:45.220312"
+    },
+    "357650": {
+      "appid": 357650,
+      "name": "Project Explore",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T01:59:45.343388"
+    },
+    "357690": {
+      "appid": 357690,
+      "name": "APT",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T01:59:45.630319"
+    },
+    "357720": {
+      "appid": 357720,
+      "name": "Inside My Radio",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T01:59:45.874412"
+    },
+    "357780": {
+      "appid": 357780,
+      "name": "Defend Your Life: TD",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T01:59:46.136059"
+    },
+    "357890": {
+      "appid": 357890,
+      "name": "Vortex Attack: ボルテックスアタック",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T01:59:46.573820"
+    },
+    "357900": {
+      "appid": 357900,
+      "name": "Make it indie!",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T01:59:46.704286"
+    },
+    "358030": {
+      "appid": 358030,
+      "name": "Another Star",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T01:59:47.487821"
+    },
+    "358070": {
+      "appid": 358070,
+      "name": "Earthtongue",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T01:59:47.625353"
+    },
+    "358080": {
+      "appid": 358080,
+      "name": "No Turning Back: The Pixel Art Action-Adventure Roguelike",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T01:59:47.813079"
+    },
+    "358090": {
+      "appid": 358090,
+      "name": "D4: Dark Dreams Don’t Die -Season One-",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T01:59:47.989889"
     }
   }
 }
