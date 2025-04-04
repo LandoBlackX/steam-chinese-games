@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-04T06:30:23.872061"
+    "updated": "2025-04-04T06:36:11.264684"
   },
   "games": {
     "570": {
@@ -24758,6 +24758,62 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-04-04T06:30:23.870400"
+    },
+    "385710": {
+      "appid": 385710,
+      "name": "INK",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T06:36:09.473788"
+    },
+    "385800": {
+      "appid": 385800,
+      "name": "NEKOPARA Vol. 0",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T06:36:09.993571"
+    },
+    "385830": {
+      "appid": 385830,
+      "name": "Burgers",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T06:36:10.268206"
+    },
+    "385840": {
+      "appid": 385840,
+      "name": "The Beard in the Mirror",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T06:36:10.408633"
+    },
+    "385860": {
+      "appid": 385860,
+      "name": "Tachyon Project",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T06:36:10.700212"
+    },
+    "385900": {
+      "appid": 385900,
+      "name": "Arevan",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T06:36:10.974945"
+    },
+    "385950": {
+      "appid": 385950,
+      "name": "Infection: Humanity's Last Gasp",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T06:36:11.261616"
     }
   }
 }

@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-04T06:30:23.872061"
+    "updated": "2025-04-04T06:36:11.264684"
   },
   "games": {
     "570": {
@@ -46048,6 +46048,30 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-04T06:30:23.464714"
+    },
+    "385700": {
+      "appid": 385700,
+      "name": "Battle For The Sun",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T06:36:09.335929"
+    },
+    "385800": {
+      "appid": 385800,
+      "name": "NEKOPARA Vol. 0",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T06:36:09.993571"
+    },
+    "385810": {
+      "appid": 385810,
+      "name": "Retaliation: Enemy Mine",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T06:36:10.131599"
     }
   }
 }
