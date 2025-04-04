@@ -11,32 +11,7 @@ BASE_DIR = Path(os.environ.get('GITHUB_WORKSPACE', Path(__file__).parent.parent)
 DATA_DIR = BASE_DIR / 'data'
 DATA_DIR.mkdir(exist_ok=True, parents=True)
 DB_PATH = DATA_DIR / "app_list.db"
-# 修改文件路径定义
-INVALID_LOG_PATH = DATA_DIR / "invalid_appids.json"  # 从 .log 改为 .json
-
-# 修改记录无效 AppID 的代码（原 load_game_appids 函数中）
-if invalid_appids:
-    # 读取现有 JSON 文件
-    invalid_data = {}
-    if INVALID_LOG_PATH.exists():
-        with open(INVALID_LOG_PATH, 'r', encoding='utf-8') as f:
-            try:
-                invalid_data = json.load(f)
-            except json.JSONDecodeError:
-                log(f"警告：{INVALID_LOG_PATH} 格式错误，将覆盖")
-
-    # 添加新记录（按时间戳分组）
-    timestamp = datetime.now().isoformat()
-    invalid_data[timestamp] = {
-        "count": len(invalid_appids),
-        "appids": invalid_appids,
-        "reason": "不在数据库或已下架"
-    }
-
-    # 写回文件
-    with open(INVALID_LOG_PATH, 'w', encoding='utf-8') as f:
-        json.dump(invalid_data, f, indent=2, ensure_ascii=False)
-    log(f"发现 {len(invalid_appids)} 个无效 AppID，已记录至 {INVALID_LOG_PATH}")
+INVALID_LOG_PATH = DATA_DIR / "invalid_appids.json"  # JSON 格式的无效 AppID 记录文件
 
 class SteamRateLimiter:
     def __init__(self, requests_per_minute=200):
@@ -111,7 +86,7 @@ def load_game_appids(existing_chinese, existing_cards, conn, cursor):
             
             appids = []
             thirty_days_ago = datetime.utcnow() - timedelta(days=30)
-            invalid_appids = []
+            invalid_appids = []  # 初始化无效 AppID 列表
             
             cursor.execute("SELECT appid FROM apps")
             db_appids = set(row[0] for row in cursor.fetchall())
@@ -120,31 +95,50 @@ def load_game_appids(existing_chinese, existing_cards, conn, cursor):
                 if app_info == "game":
                     appid_int = int(appid_str)
                     
+                    # 检查 AppID 是否在数据库中
                     if appid_int not in db_appids:
                         invalid_appids.append(appid_int)
                         continue
                     
+                    # 检查是否已处理
                     cursor.execute("SELECT scraper_status FROM apps WHERE appid = ?", (appid_int,))
                     scraper_status_row = cursor.fetchone()
                     if scraper_status_row and scraper_status_row[0]:
                         continue
                     
+                    # 检查最后更新时间
                     existing_c = existing_chinese["games"].get(appid_str, {})
                     existing_card = existing_cards["games"].get(appid_str, {})
                     last_checked = existing_c.get("last_checked") or existing_card.get("last_checked")
                     if not last_checked or datetime.fromisoformat(last_checked) < thirty_days_ago:
                         appids.append(appid_int)
 
+            # 记录无效 AppID 到 JSON 文件
             if invalid_appids:
-                timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-                log_entry = f"[{timestamp}] 无效 AppID: {invalid_appids}\n"
-                with open(INVALID_LOG_PATH, 'a', encoding='utf-8') as f:
-                    f.write(log_entry)
+                invalid_data = {}
+                if INVALID_LOG_PATH.exists():
+                    with open(INVALID_LOG_PATH, 'r', encoding='utf-8') as f:
+                        try:
+                            invalid_data = json.load(f)
+                        except json.JSONDecodeError:
+                            log(f"警告：{INVALID_LOG_PATH} 格式错误，将覆盖")
+                
+                # 添加新记录
+                timestamp = datetime.now().isoformat()
+                invalid_data[timestamp] = {
+                    "count": len(invalid_appids),
+                    "appids": invalid_appids,
+                    "reason": "不在数据库或已下架"
+                }
+                
+                # 写入文件
+                with open(INVALID_LOG_PATH, 'w', encoding='utf-8') as f:
+                    json.dump(invalid_data, f, indent=2, ensure_ascii=False)
                 log(f"发现 {len(invalid_appids)} 个无效 AppID，已记录至 {INVALID_LOG_PATH}")
 
             appids.sort(reverse=False)
             log(f"从 output.json 加载到 {len(appids)} 个待处理游戏类 AppID")
-            return appids[:100]
+            return appids[:100]  # 每次处理 100 个
 
     except Exception as e:
         log(f"加载 output.json 失败: {str(e)}")
@@ -208,7 +202,7 @@ def main():
     conn = sqlite3.connect(DB_PATH)
     cursor = conn.cursor()
     
-    # 检查并修复表结构（关键修改）
+    # 检查并修复数据库表结构
     cursor.execute("PRAGMA table_info(apps)")
     columns = [column[1] for column in cursor.fetchall()]
     if 'retry_count' not in columns:
@@ -216,6 +210,7 @@ def main():
         cursor.execute('ALTER TABLE apps ADD COLUMN retry_count INTEGER DEFAULT 0')
         conn.commit()
     
+    # 创建表（如果不存在）
     cursor.execute('''
     CREATE TABLE IF NOT EXISTS apps (
         appid INTEGER PRIMARY KEY,
@@ -226,6 +221,7 @@ def main():
     ''')
     conn.commit()
     
+    # 加载待处理的 AppID
     test_appids = load_game_appids(chinese_data, card_data, conn, cursor)
     if not test_appids:
         log("没有需要处理的新 AppID，终止执行")
@@ -244,19 +240,23 @@ def main():
         if result:
             results.append(result)
             success_count += 1
+            # 标记为已处理并重置重试次数
             cursor.execute("UPDATE apps SET scraper_status = true, retry_count = 0 WHERE appid = ?", (appid,))
         else:
             failure_count += 1
+            # 增加重试次数
             cursor.execute("UPDATE apps SET retry_count = retry_count + 1 WHERE appid = ?", (appid,))
             cursor.execute("SELECT retry_count FROM apps WHERE appid = ?", (appid,))
             retry_count = cursor.fetchone()[0]
             if retry_count >= 3:
+                # 超过重试次数则标记为已处理
                 cursor.execute("UPDATE apps SET scraper_status = true WHERE appid = ?", (appid,))
                 log(f"AppID {appid} 重试次数达到 3 次，标记为已处理")
         conn.commit()
 
     log(f"处理完成！成功: {success_count}, 失败: {failure_count}")
 
+    # 更新 JSON 数据文件
     updated = False
     for result in results:
         if result:
@@ -272,13 +272,13 @@ def main():
         timestamp = datetime.utcnow().isoformat()
         chinese_data["_metadata"]["updated"] = timestamp
         card_data["_metadata"]["updated"] = timestamp
-        
         save_data(chinese_data, DATA_DIR / "chinese_games.json")
         save_data(card_data, DATA_DIR / "card_games.json")
     
     log(f"完成！累计中文游戏: {len(chinese_data['games'])}")
     log(f"完成！累计卡牌游戏: {len(card_data['games'])}")
 
+    # GitHub Actions 输出统计结果
     if os.getenv("GITHUB_ACTIONS") == "true":
         with open(os.getenv("GITHUB_OUTPUT"), 'a') as f:
             f.write(f"processed={len(test_appids)}\n")
