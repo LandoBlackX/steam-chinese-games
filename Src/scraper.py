@@ -11,7 +11,32 @@ BASE_DIR = Path(os.environ.get('GITHUB_WORKSPACE', Path(__file__).parent.parent)
 DATA_DIR = BASE_DIR / 'data'
 DATA_DIR.mkdir(exist_ok=True, parents=True)
 DB_PATH = DATA_DIR / "app_list.db"
-INVALID_LOG_PATH = DATA_DIR / "invalid_appids.log"
+# 修改文件路径定义
+INVALID_LOG_PATH = DATA_DIR / "invalid_appids.json"  # 从 .log 改为 .json
+
+# 修改记录无效 AppID 的代码（原 load_game_appids 函数中）
+if invalid_appids:
+    # 读取现有 JSON 文件
+    invalid_data = {}
+    if INVALID_LOG_PATH.exists():
+        with open(INVALID_LOG_PATH, 'r', encoding='utf-8') as f:
+            try:
+                invalid_data = json.load(f)
+            except json.JSONDecodeError:
+                log(f"警告：{INVALID_LOG_PATH} 格式错误，将覆盖")
+
+    # 添加新记录（按时间戳分组）
+    timestamp = datetime.now().isoformat()
+    invalid_data[timestamp] = {
+        "count": len(invalid_appids),
+        "appids": invalid_appids,
+        "reason": "不在数据库或已下架"
+    }
+
+    # 写回文件
+    with open(INVALID_LOG_PATH, 'w', encoding='utf-8') as f:
+        json.dump(invalid_data, f, indent=2, ensure_ascii=False)
+    log(f"发现 {len(invalid_appids)} 个无效 AppID，已记录至 {INVALID_LOG_PATH}")
 
 class SteamRateLimiter:
     def __init__(self, requests_per_minute=200):
