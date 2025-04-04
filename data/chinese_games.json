@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-04T14:23:08.428167"
+    "updated": "2025-04-04T14:41:57.517423"
   },
   "games": {
     "570": {
@@ -46552,6 +46552,30 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-04T14:23:07.164598"
+    },
+    "395520": {
+      "appid": 395520,
+      "name": "Missing Translation",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T14:41:55.933978"
+    },
+    "395570": {
+      "appid": 395570,
+      "name": "We Are The Dwarves",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T14:41:56.390606"
+    },
+    "395580": {
+      "appid": 395580,
+      "name": "Inventioneers",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T14:41:56.515374"
     }
   }
 }

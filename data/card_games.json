@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-04T14:23:08.428167"
+    "updated": "2025-04-04T14:41:57.517423"
   },
   "games": {
     "570": {
@@ -26446,6 +26446,86 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-04-04T14:23:08.426406"
+    },
+    "395420": {
+      "appid": 395420,
+      "name": "The Dwarf Run",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T14:41:54.794200"
+    },
+    "395480": {
+      "appid": 395480,
+      "name": "The Makeshifter",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T14:41:55.323308"
+    },
+    "395520": {
+      "appid": 395520,
+      "name": "Missing Translation",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T14:41:55.933978"
+    },
+    "395550": {
+      "appid": 395550,
+      "name": "Operation Hardcore",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T14:41:56.149921"
+    },
+    "395560": {
+      "appid": 395560,
+      "name": "Lost Horizon 2",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T14:41:56.272158"
+    },
+    "395570": {
+      "appid": 395570,
+      "name": "We Are The Dwarves",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T14:41:56.390606"
+    },
+    "395580": {
+      "appid": 395580,
+      "name": "Inventioneers",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T14:41:56.515374"
+    },
+    "395620": {
+      "appid": 395620,
+      "name": "Ittle Dew 2+",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T14:41:56.818955"
+    },
+    "395850": {
+      "appid": 395850,
+      "name": "Bear Simulator",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T14:41:57.393019"
+    },
+    "395860": {
+      "appid": 395860,
+      "name": "The Last Dream: Developer's Edition",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T14:41:57.515606"
     }
   }
 }
