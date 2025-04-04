@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-04T03:05:34.085061"
+    "updated": "2025-04-04T03:42:04.488138"
   },
   "games": {
     "570": {
@@ -44808,6 +44808,174 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-04T03:05:33.960360"
+    },
+    "361420": {
+      "appid": 361420,
+      "name": "ASTRONEER",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T03:41:46.611732"
+    },
+    "362380": {
+      "appid": 362380,
+      "name": "Push Me Pull You",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T03:41:51.169517"
+    },
+    "362890": {
+      "appid": 362890,
+      "name": "Black Mesa",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T03:41:53.801675"
+    },
+    "363130": {
+      "appid": 363130,
+      "name": "Toukiden: Kiwami",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T03:41:55.543285"
+    },
+    "363150": {
+      "appid": 363150,
+      "name": "三國志13",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T03:41:55.703556"
+    },
+    "363330": {
+      "appid": 363330,
+      "name": "Mind Snares: Alice's Journey",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T03:41:56.642812"
+    },
+    "363360": {
+      "appid": 363360,
+      "name": "Interstellar Rift",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T03:41:56.801661"
+    },
+    "363410": {
+      "appid": 363410,
+      "name": "Always The Same Blue Sky...",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T03:41:56.949778"
+    },
+    "363420": {
+      "appid": 363420,
+      "name": "Leap of Fate",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T03:41:57.084641"
+    },
+    "363600": {
+      "appid": 363600,
+      "name": "Holy Potatoes! A Weapon Shop?!",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T03:41:58.623913"
+    },
+    "363860": {
+      "appid": 363860,
+      "name": "MythForce",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T03:41:59.860154"
+    },
+    "363890": {
+      "appid": 363890,
+      "name": "RPG Maker MV",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T03:42:00.639464"
+    },
+    "363930": {
+      "appid": 363930,
+      "name": "Dead Age",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T03:42:01.308550"
+    },
+    "363950": {
+      "appid": 363950,
+      "name": "Windscape",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T03:42:01.581657"
+    },
+    "363960": {
+      "appid": 363960,
+      "name": "Devils & Demons",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T03:42:01.720704"
+    },
+    "363970": {
+      "appid": 363970,
+      "name": "Clicker Heroes",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T03:42:01.872332"
+    },
+    "364200": {
+      "appid": 364200,
+      "name": "Farabel",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T03:42:02.998528"
+    },
+    "364230": {
+      "appid": 364230,
+      "name": "Lucius Demake",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T03:42:03.304595"
+    },
+    "364250": {
+      "appid": 364250,
+      "name": "XIIZEAL",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T03:42:03.452034"
+    },
+    "364360": {
+      "appid": 364360,
+      "name": "全面战争：战锤",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T03:42:03.901443"
+    },
+    "364380": {
+      "appid": 364380,
+      "name": "CINEVEO - VR Cinema",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T03:42:04.174129"
     }
   }
 }
