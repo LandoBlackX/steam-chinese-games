@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-04T09:48:44.948573"
+    "updated": "2025-04-04T10:09:48.111294"
   },
   "games": {
     "570": {
@@ -46256,6 +46256,38 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-04T09:48:43.950224"
+    },
+    "390200": {
+      "appid": 390200,
+      "name": "Queen's Quest: Tower of Darkness",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T10:09:46.811552"
+    },
+    "390330": {
+      "appid": 390330,
+      "name": "Mekazoo",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T10:09:47.361485"
+    },
+    "390340": {
+      "appid": 390340,
+      "name": "Umbrella Corps",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T10:09:47.467851"
+    },
+    "390520": {
+      "appid": 390520,
+      "name": "PewDiePie: Legend of the Brofist",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T10:09:47.903139"
     }
   }
 }
