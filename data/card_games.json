@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-04T14:55:06.022917"
+    "updated": "2025-04-04T15:24:08.823347"
   },
   "games": {
     "570": {
@@ -26574,6 +26574,62 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-04-04T14:55:05.618260"
+    },
+    "396310": {
+      "appid": 396310,
+      "name": "Masochisia",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T15:24:06.671896"
+    },
+    "396320": {
+      "appid": 396320,
+      "name": "Tank Battle: 1944",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T15:24:06.802038"
+    },
+    "396350": {
+      "appid": 396350,
+      "name": "Bleed 2",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T15:24:06.951362"
+    },
+    "396360": {
+      "appid": 396360,
+      "name": "LocoSoccer Classic",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T15:24:07.098591"
+    },
+    "396530": {
+      "appid": 396530,
+      "name": "Fireflies",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T15:24:07.479547"
+    },
+    "396660": {
+      "appid": 396660,
+      "name": "Tahira: Echoes of the Astral Empire",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T15:24:08.186703"
+    },
+    "396710": {
+      "appid": 396710,
+      "name": "The Adventure Pals",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T15:24:08.692387"
     }
   }
 }
