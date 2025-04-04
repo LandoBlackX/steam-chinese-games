@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-04T17:57:02.577382"
+    "updated": "2025-04-04T18:28:18.393002"
   },
   "games": {
     "570": {
@@ -30118,6 +30118,478 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-04-04T17:57:02.575550"
+    },
+    "420670": {
+      "appid": 420670,
+      "name": "Elite vs. Freedom",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T18:28:04.102737"
+    },
+    "420740": {
+      "appid": 420740,
+      "name": "The Deed",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T18:28:04.249713"
+    },
+    "420770": {
+      "appid": 420770,
+      "name": "魔神少女",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T18:28:04.528085"
+    },
+    "420850": {
+      "appid": 420850,
+      "name": "Cosmic Leap",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T18:28:04.887241"
+    },
+    "420900": {
+      "appid": 420900,
+      "name": "Mech Anarchy",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T18:28:05.136787"
+    },
+    "420950": {
+      "appid": 420950,
+      "name": "Time Tenshi (2015)",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T18:28:05.555372"
+    },
+    "420970": {
+      "appid": 420970,
+      "name": "RoBoRumble",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T18:28:05.669783"
+    },
+    "420980": {
+      "appid": 420980,
+      "name": "Army Gals",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T18:28:05.793139"
+    },
+    "421040": {
+      "appid": 421040,
+      "name": "Plantera",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T18:28:05.913935"
+    },
+    "421050": {
+      "appid": 421050,
+      "name": "Deponia Doomsday",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T18:28:06.059067"
+    },
+    "421060": {
+      "appid": 421060,
+      "name": "Age of Steel: Recharge",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T18:28:06.338881"
+    },
+    "421120": {
+      "appid": 421120,
+      "name": "银河历险记3 (Samorost 3)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T18:28:06.467631"
+    },
+    "421140": {
+      "appid": 421140,
+      "name": "Blades of the Righteous",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T18:28:06.595937"
+    },
+    "421180": {
+      "appid": 421180,
+      "name": "Umbra: Shadow of Death",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T18:28:06.926957"
+    },
+    "421260": {
+      "appid": 421260,
+      "name": "Militia",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T18:28:07.196165"
+    },
+    "421620": {
+      "appid": 421620,
+      "name": "Dissonance: An Interactive Novelette",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T18:28:07.477792"
+    },
+    "421660": {
+      "appid": 421660,
+      "name": "Harmonia",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T18:28:07.754676"
+    },
+    "421700": {
+      "appid": 421700,
+      "name": "Sakura Santa",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T18:28:08.002592"
+    },
+    "421710": {
+      "appid": 421710,
+      "name": "Space Live - Advent of the Net Idols",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T18:28:08.145866"
+    },
+    "421740": {
+      "appid": 421740,
+      "name": "Goetia",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T18:28:08.282916"
+    },
+    "421810": {
+      "appid": 421810,
+      "name": "OH! RPG!",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T18:28:08.614336"
+    },
+    "421870": {
+      "appid": 421870,
+      "name": "Quatros Origins",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T18:28:08.856324"
+    },
+    "421880": {
+      "appid": 421880,
+      "name": "Plastiland",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T18:28:09.026642"
+    },
+    "421890": {
+      "appid": 421890,
+      "name": "Avaris 2: The Return of the Empress",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T18:28:09.216068"
+    },
+    "422100": {
+      "appid": 422100,
+      "name": "Heaven Island Life",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T18:28:09.853745"
+    },
+    "422110": {
+      "appid": 422110,
+      "name": "Wand Wars",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T18:28:10.007305"
+    },
+    "422250": {
+      "appid": 422250,
+      "name": "ShipLord",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T18:28:10.549351"
+    },
+    "422300": {
+      "appid": 422300,
+      "name": "Element",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T18:28:10.673254"
+    },
+    "422510": {
+      "appid": 422510,
+      "name": "DEMON'S TILT",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T18:28:10.931219"
+    },
+    "422610": {
+      "appid": 422610,
+      "name": "1775: Rebellion",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T18:28:11.093860"
+    },
+    "422650": {
+      "appid": 422650,
+      "name": "Megamagic: Wizards of the Neon Age",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T18:28:11.518331"
+    },
+    "422810": {
+      "appid": 422810,
+      "name": "River City Ransom: Underground",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T18:28:11.800859"
+    },
+    "422860": {
+      "appid": 422860,
+      "name": "Holodance",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T18:28:11.949604"
+    },
+    "422980": {
+      "appid": 422980,
+      "name": "Super Robot Jump Jump",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T18:28:12.805360"
+    },
+    "423220": {
+      "appid": 423220,
+      "name": "T-Kara Puzzles",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T18:28:13.188682"
+    },
+    "423230": {
+      "appid": 423230,
+      "name": "Furi",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T18:28:13.305975"
+    },
+    "423270": {
+      "appid": 423270,
+      "name": "ZHEROS",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T18:28:13.450143"
+    },
+    "423550": {
+      "appid": 423550,
+      "name": "Day D: Tower Rush",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T18:28:14.026890"
+    },
+    "423580": {
+      "appid": 423580,
+      "name": "Project Highrise",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T18:28:14.168600"
+    },
+    "423590": {
+      "appid": 423590,
+      "name": "小小英亩 / The Little Acre",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T18:28:14.295698"
+    },
+    "423610": {
+      "appid": 423610,
+      "name": "Where's My Mommy?",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T18:28:14.545848"
+    },
+    "423620": {
+      "appid": 423620,
+      "name": "HERO DEFENSE",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T18:28:14.672648"
+    },
+    "423640": {
+      "appid": 423640,
+      "name": "Maid Cafe",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T18:28:14.830928"
+    },
+    "423650": {
+      "appid": 423650,
+      "name": "Summer Fling",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T18:28:14.968599"
+    },
+    "423710": {
+      "appid": 423710,
+      "name": "Invasion: Brain Craving",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T18:28:15.234675"
+    },
+    "423720": {
+      "appid": 423720,
+      "name": "Color Chaos",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T18:28:15.361543"
+    },
+    "423730": {
+      "appid": 423730,
+      "name": "Hyper Gods",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T18:28:15.495331"
+    },
+    "423740": {
+      "appid": 423740,
+      "name": "Save Your Mother",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T18:28:15.634217"
+    },
+    "423760": {
+      "appid": 423760,
+      "name": "Hit Tank PRO",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T18:28:15.916988"
+    },
+    "423770": {
+      "appid": 423770,
+      "name": "Our Love Will Grow",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T18:28:16.070664"
+    },
+    "423800": {
+      "appid": 423800,
+      "name": "Automata Empire",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T18:28:16.581790"
+    },
+    "423810": {
+      "appid": 423810,
+      "name": "Marooners",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T18:28:16.710542"
+    },
+    "423870": {
+      "appid": 423870,
+      "name": "Astervoid 2000",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T18:28:16.851167"
+    },
+    "423900": {
+      "appid": 423900,
+      "name": "Dinocide",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T18:28:17.247130"
+    },
+    "423910": {
+      "appid": 423910,
+      "name": "Mangavania",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T18:28:17.364548"
+    },
+    "424000": {
+      "appid": 424000,
+      "name": "Project Pulsation",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T18:28:17.626378"
+    },
+    "424010": {
+      "appid": 424010,
+      "name": "Crudelis",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T18:28:17.763872"
+    },
+    "424030": {
+      "appid": 424030,
+      "name": "War of Rights",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T18:28:17.952515"
+    },
+    "424040": {
+      "appid": 424040,
+      "name": "Fragmental",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T18:28:18.072994"
     }
   }
 }
