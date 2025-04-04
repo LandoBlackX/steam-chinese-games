@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-04T11:28:31.169806"
+    "updated": "2025-04-04T11:43:04.630004"
   },
   "games": {
     "570": {
@@ -46392,6 +46392,38 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-04T11:28:30.275586"
+    },
+    "392110": {
+      "appid": 392110,
+      "name": "ENDLESS™ Space 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T11:43:03.162201"
+    },
+    "392160": {
+      "appid": 392160,
+      "name": "X4: Foundations",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T11:43:03.586246"
+    },
+    "392230": {
+      "appid": 392230,
+      "name": "Littlstar VR Cinema",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T11:43:03.861300"
+    },
+    "392280": {
+      "appid": 392280,
+      "name": "The Franz Kafka Videogame",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T11:43:04.170565"
     }
   }
 }
