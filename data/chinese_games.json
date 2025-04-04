@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-04T08:51:41.632331"
+    "updated": "2025-04-04T09:16:12.668471"
   },
   "games": {
     "570": {
@@ -46184,6 +46184,30 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-04T08:51:41.348861"
+    },
+    "388750": {
+      "appid": 388750,
+      "name": "BlazBlue: Chronophantasma Extend",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T09:16:11.161913"
+    },
+    "388800": {
+      "appid": 388800,
+      "name": "Azure Striker Gunvolt",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T09:16:11.277891"
+    },
+    "388880": {
+      "appid": 388880,
+      "name": "Oxenfree",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T09:16:11.723431"
     }
   }
 }
