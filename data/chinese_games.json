@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-04T23:39:29.738011"
+    "updated": "2025-04-04T23:52:47.546990"
   },
   "games": {
     "570": {
@@ -53784,6 +53784,342 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-04-04T23:39:28.203012"
+    },
+    "533300": {
+      "appid": 533300,
+      "name": "Zup!",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T23:52:07.753421"
+    },
+    "533470": {
+      "appid": 533470,
+      "name": "The Cube Hotel（Ning's Wing 2）",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T23:52:08.716944"
+    },
+    "533540": {
+      "appid": 533540,
+      "name": "MONMUSU",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T23:52:09.060022"
+    },
+    "533860": {
+      "appid": 533860,
+      "name": "Multimirror",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T23:52:11.324385"
+    },
+    "533950": {
+      "appid": 533950,
+      "name": "Don't open the doors!",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T23:52:11.886914"
+    },
+    "534010": {
+      "appid": 534010,
+      "name": "Defense of Egypt: Cleopatra Mission",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T23:52:12.633164"
+    },
+    "534200": {
+      "appid": 534200,
+      "name": "Ultimate Solid",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T23:52:13.157158"
+    },
+    "534220": {
+      "appid": 534220,
+      "name": "Dragon's Sin",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T23:52:13.528958"
+    },
+    "534250": {
+      "appid": 534250,
+      "name": "NTR幻想之我的藤木同学",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T23:52:14.108928"
+    },
+    "534290": {
+      "appid": 534290,
+      "name": "Cursed Castilla (Maldita Castilla EX)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T23:52:14.485654"
+    },
+    "534380": {
+      "appid": 534380,
+      "name": "消逝的光芒2: 重装上阵版",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T23:52:15.477852"
+    },
+    "534550": {
+      "appid": 534550,
+      "name": "Guacamelee! 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T23:52:16.551829"
+    },
+    "534560": {
+      "appid": 534560,
+      "name": "Ramify",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T23:52:16.764275"
+    },
+    "534780": {
+      "appid": 534780,
+      "name": "XGun-Weapon Evolution",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T23:52:17.747529"
+    },
+    "534880": {
+      "appid": 534880,
+      "name": "Super Ninja Hero VR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T23:52:18.249035"
+    },
+    "534920": {
+      "appid": 534920,
+      "name": "Relaxing VR Games: Mahjong",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T23:52:18.817661"
+    },
+    "535000": {
+      "appid": 535000,
+      "name": "EXIT",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T23:52:19.162290"
+    },
+    "535270": {
+      "appid": 535270,
+      "name": "Constricting Cubes",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T23:52:20.802862"
+    },
+    "535480": {
+      "appid": 535480,
+      "name": "Sundered®: Eldritch Edition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T23:52:22.514660"
+    },
+    "535700": {
+      "appid": 535700,
+      "name": "3D Chess",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T23:52:24.102605"
+    },
+    "535930": {
+      "appid": 535930,
+      "name": "双点医院",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T23:52:25.785216"
+    },
+    "536220": {
+      "appid": 536220,
+      "name": "The Walking Dead: A New Frontier",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T23:52:27.000220"
+    },
+    "536270": {
+      "appid": 536270,
+      "name": "Ancestors: The Humankind Odyssey",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T23:52:27.350038"
+    },
+    "536560": {
+      "appid": 536560,
+      "name": "CHAOS CODE -NEW SIGN OF CATASTROPHE-",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T23:52:29.755322"
+    },
+    "536690": {
+      "appid": 536690,
+      "name": "AENTITY",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T23:52:30.659130"
+    },
+    "536780": {
+      "appid": 536780,
+      "name": "Lost Grimoires: Stolen Kingdom",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T23:52:31.141638"
+    },
+    "536800": {
+      "appid": 536800,
+      "name": "FILE 9",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T23:52:31.324352"
+    },
+    "537110": {
+      "appid": 537110,
+      "name": "Angels of Death",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T23:52:33.009774"
+    },
+    "537130": {
+      "appid": 537130,
+      "name": "Red Spider: Vengeance",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T23:52:33.185061"
+    },
+    "537340": {
+      "appid": 537340,
+      "name": "Guts and Glory",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T23:52:34.267628"
+    },
+    "537450": {
+      "appid": 537450,
+      "name": "ReCore: Definitive Edition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T23:52:35.072678"
+    },
+    "537520": {
+      "appid": 537520,
+      "name": "对称",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T23:52:35.356424"
+    },
+    "537800": {
+      "appid": 537800,
+      "name": "轰炸机小队 / Bomber Crew",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T23:52:37.095073"
+    },
+    "537990": {
+      "appid": 537990,
+      "name": "Heroine Anthem Zero -Sacrifice-",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T23:52:37.416720"
+    },
+    "538000": {
+      "appid": 538000,
+      "name": "Hop Step Sing! Kisekiteki Shining! (HQ Edition)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T23:52:37.578673"
+    },
+    "538030": {
+      "appid": 538030,
+      "name": "异种航员2 Xenonauts 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T23:52:37.754322"
+    },
+    "538060": {
+      "appid": 538060,
+      "name": "Doodle God: 8-bit Mania - Collector's Item",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T23:52:38.347410"
+    },
+    "538100": {
+      "appid": 538100,
+      "name": "Feel The Snow",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T23:52:38.752412"
+    },
+    "538710": {
+      "appid": 538710,
+      "name": "Dead Hungry",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T23:52:42.266990"
+    },
+    "538840": {
+      "appid": 538840,
+      "name": "City Climber",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T23:52:42.885315"
+    },
+    "539340": {
+      "appid": 539340,
+      "name": "Future Unfolding",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T23:52:46.637910"
+    },
+    "539400": {
+      "appid": 539400,
+      "name": "Son of a Witch",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T23:52:46.993000"
     }
   }
 }
