@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-04T20:54:51.869876"
+    "updated": "2025-04-04T21:20:29.299758"
   },
   "games": {
     "570": {
@@ -51008,6 +51008,358 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-04-04T20:54:51.156688"
+    },
+    "486540": {
+      "appid": 486540,
+      "name": "Townsmen",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T21:19:57.299057"
+    },
+    "486690": {
+      "appid": 486690,
+      "name": "Pastelia Stories",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T21:19:58.598559"
+    },
+    "486780": {
+      "appid": 486780,
+      "name": "Fruit Ninja VR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T21:19:59.194996"
+    },
+    "486850": {
+      "appid": 486850,
+      "name": "Card of spirits",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T21:19:59.499121"
+    },
+    "486860": {
+      "appid": 486860,
+      "name": "MMORPG Tycoon 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T21:19:59.656809"
+    },
+    "487000": {
+      "appid": 487000,
+      "name": "Quest Hunter",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T21:20:00.596753"
+    },
+    "487030": {
+      "appid": 487030,
+      "name": "Beasts Battle",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T21:20:00.926177"
+    },
+    "487120": {
+      "appid": 487120,
+      "name": "Citadel: Forged with Fire",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T21:20:01.256181"
+    },
+    "487430": {
+      "appid": 487430,
+      "name": "KARAKARA",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T21:20:02.872266"
+    },
+    "487720": {
+      "appid": 487720,
+      "name": "Agony",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T21:20:04.382195"
+    },
+    "488280": {
+      "appid": 488280,
+      "name": "Gun Done",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T21:20:06.520021"
+    },
+    "488310": {
+      "appid": 488310,
+      "name": "Eleven Table Tennis",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T21:20:06.906644"
+    },
+    "488550": {
+      "appid": 488550,
+      "name": "Dream Car Builder",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T21:20:07.997304"
+    },
+    "488660": {
+      "appid": 488660,
+      "name": "Just Deserts",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T21:20:08.446761"
+    },
+    "488730": {
+      "appid": 488730,
+      "name": "God's Trigger",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T21:20:08.757627"
+    },
+    "488821": {
+      "appid": 488821,
+      "name": "Tom Clancy's Rainbow Six® Siege",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T21:20:09.451136"
+    },
+    "488822": {
+      "appid": 488822,
+      "name": "Tom Clancy's Rainbow Six® Siege",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T21:20:09.593182"
+    },
+    "488823": {
+      "appid": 488823,
+      "name": "Tom Clancy's Rainbow Six® Siege",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T21:20:09.751504"
+    },
+    "488824": {
+      "appid": 488824,
+      "name": "Tom Clancy's Rainbow Six® Siege",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T21:20:09.948096"
+    },
+    "489070": {
+      "appid": 489070,
+      "name": "Edge of Twilight – Return To Glory",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T21:20:11.577081"
+    },
+    "489110": {
+      "appid": 489110,
+      "name": "Putty Pals",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T21:20:12.050864"
+    },
+    "489160": {
+      "appid": 489160,
+      "name": "VR Shooter Guns",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T21:20:12.501979"
+    },
+    "489170": {
+      "appid": 489170,
+      "name": "Galaxy Reavers",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T21:20:12.669709"
+    },
+    "489240": {
+      "appid": 489240,
+      "name": "Exile to Death",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T21:20:12.968244"
+    },
+    "489370": {
+      "appid": 489370,
+      "name": "Quarantine",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T21:20:13.405293"
+    },
+    "489520": {
+      "appid": 489520,
+      "name": "随从大师",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T21:20:14.116318"
+    },
+    "489570": {
+      "appid": 489570,
+      "name": "Antisphere",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T21:20:14.400003"
+    },
+    "489630": {
+      "appid": 489630,
+      "name": "Warhammer 40,000: Gladius - Relics of War",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T21:20:15.031374"
+    },
+    "489830": {
+      "appid": 489830,
+      "name": "The Elder Scrolls V: Skyrim Special Edition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T21:20:16.198441"
+    },
+    "489930": {
+      "appid": 489930,
+      "name": "Adventures of Bertram Fiddle 2: A Bleaker Predicklement",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T21:20:16.549317"
+    },
+    "490110": {
+      "appid": 490110,
+      "name": "警区",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T21:20:17.376967"
+    },
+    "490230": {
+      "appid": 490230,
+      "name": "SWARMRIDERS",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T21:20:17.992643"
+    },
+    "490390": {
+      "appid": 490390,
+      "name": "神明的一天世界(God's One Day World)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T21:20:19.058173"
+    },
+    "490450": {
+      "appid": 490450,
+      "name": "Tokyo 42",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T21:20:19.409559"
+    },
+    "490890": {
+      "appid": 490890,
+      "name": "根神京姬",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T21:20:20.508780"
+    },
+    "490910": {
+      "appid": 490910,
+      "name": "Control Craft 3",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T21:20:20.652410"
+    },
+    "491000": {
+      "appid": 491000,
+      "name": "Gravity Cat",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T21:20:21.624724"
+    },
+    "491040": {
+      "appid": 491040,
+      "name": "Bot Vice",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T21:20:22.105657"
+    },
+    "491100": {
+      "appid": 491100,
+      "name": "Human, we have a problem",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T21:20:22.761399"
+    },
+    "491220": {
+      "appid": 491220,
+      "name": "南瓜先生大冒险",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T21:20:23.705906"
+    },
+    "491420": {
+      "appid": 491420,
+      "name": "the 9th day:第九日",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T21:20:25.109534"
+    },
+    "491470": {
+      "appid": 491470,
+      "name": "PRINCIPIA: Master of Science",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T21:20:25.388724"
+    },
+    "491540": {
+      "appid": 491540,
+      "name": "The Bus - 城市公交模拟",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T21:20:26.011762"
+    },
+    "491950": {
+      "appid": 491950,
+      "name": "Orwell: Keeping an Eye On You",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T21:20:28.265293"
     }
   }
 }
