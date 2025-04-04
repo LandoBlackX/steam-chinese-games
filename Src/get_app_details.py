@@ -78,11 +78,8 @@ def write_results_to_file(results):
 
     log("已将结果写入 output.json 并按 AppID 升序排序")
 
-def update_status(conn, cursor, appid, success=True):
-    if success:
-        cursor.execute("UPDATE apps SET status = true, retry_count = 0 WHERE appid = ?", (appid,))
-    else:
-        cursor.execute("UPDATE apps SET retry_count = retry_count + 1 WHERE appid = ?", (appid,))
+def update_status(conn, cursor, appid):
+    cursor.execute("UPDATE apps SET status = true WHERE appid = ?", (appid,))
     conn.commit()
 
 def check_app(appid, rate_limiter):
@@ -120,19 +117,18 @@ def main():
     conn = sqlite3.connect(db_path)
     cursor = conn.cursor()
 
-    # 创建数据库表（如果不存在），增加 retry_count 字段
+    # 创建数据库表（如果不存在）
     cursor.execute('''
     CREATE TABLE IF NOT EXISTS apps (
         appid INTEGER PRIMARY KEY,
         status BOOLEAN DEFAULT FALSE,
-        scraper_status BOOLEAN DEFAULT FALSE,
-        retry_count INTEGER DEFAULT 0
+        scraper_status BOOLEAN DEFAULT FALSE
     )
     ''')
     conn.commit()
 
-    # 查询未处理且重试次数小于 3 的 AppID
-    rows = cursor.execute("SELECT appid FROM apps WHERE status = false AND retry_count < 3").fetchall()
+    # 查询未处理的 AppID
+    rows = cursor.execute("SELECT appid FROM apps WHERE status = false").fetchall()
     appids = [row[0] for row in rows[:100]]  # 每次处理 100 个 AppID
     if not appids:
         log("没有需要处理的新 AppID，终止执行")
@@ -146,14 +142,14 @@ def main():
     success_count = 0
     failure_count = 0
 
+    # 遍历并处理每个 AppID
     for appid in appids:
         appid, app_type = check_app(appid, rate_limiter)
+        update_status(conn, cursor, appid)
         if app_type:
-            update_status(conn, cursor, appid, success=True)
             results[appid] = app_type
             success_count += 1
         else:
-            update_status(conn, cursor, appid, success=False)
             failure_count += 1
 
     log(f"处理完成！成功: {success_count}, 失败: {failure_count}")
@@ -161,8 +157,8 @@ def main():
     cursor.close()
     conn.close()
 
-    log("完成 get_app_details.py，等待 30 秒后继续...")
-    time.sleep(30)
+    log("完成 get_app_details.py，等待 5 秒后继续...")
+    time.sleep(5)
 
 if __name__ == "__main__":
     main()
