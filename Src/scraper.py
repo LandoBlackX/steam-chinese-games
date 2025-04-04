@@ -19,7 +19,7 @@ class SteamRateLimiter:
         self.request_timestamps = []
         self.last_response_time = 0
 
-    def can_make_request(self34):
+    def can_make_request(self):
         current_time = time.time()
         self.request_timestamps = [t for t in self.request_timestamps if current_time - t < 60]
         if len(self.request_timestamps) < self.requests_per_minute:
