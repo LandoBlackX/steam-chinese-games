@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-04T11:56:07.280958"
+    "updated": "2025-04-04T12:50:09.040592"
   },
   "games": {
     "570": {
@@ -26078,6 +26078,54 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-04-04T11:56:06.948878"
+    },
+    "393150": {
+      "appid": 393150,
+      "name": "The Dreamatorium of Dr. Magnus 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T12:50:07.332149"
+    },
+    "393190": {
+      "appid": 393190,
+      "name": "TSIOQUE",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T12:50:07.565868"
+    },
+    "393220": {
+      "appid": 393220,
+      "name": "Super Man Or Monster",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T12:50:07.788947"
+    },
+    "393230": {
+      "appid": 393230,
+      "name": "The Youthdrainers",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T12:50:07.915896"
+    },
+    "393240": {
+      "appid": 393240,
+      "name": "Sir! I'd Like To Report A Bug!",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T12:50:08.047313"
+    },
+    "393380": {
+      "appid": 393380,
+      "name": "Squad",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T12:50:08.763215"
     }
   }
 }

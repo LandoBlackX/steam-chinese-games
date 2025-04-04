@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-04T11:56:07.280958"
+    "updated": "2025-04-04T12:50:09.040592"
   },
   "games": {
     "570": {
@@ -46432,6 +46432,46 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-04T11:56:05.130765"
+    },
+    "393080": {
+      "appid": 393080,
+      "name": "Call of Duty®: Modern Warfare® Remastered (2017)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T12:50:07.213930"
+    },
+    "393150": {
+      "appid": 393150,
+      "name": "The Dreamatorium of Dr. Magnus 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T12:50:07.332149"
+    },
+    "393190": {
+      "appid": 393190,
+      "name": "TSIOQUE",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T12:50:07.565868"
+    },
+    "393380": {
+      "appid": 393380,
+      "name": "Squad",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T12:50:08.763215"
+    },
+    "393420": {
+      "appid": 393420,
+      "name": "Hurtworld",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T12:50:09.039240"
     }
   }
 }
