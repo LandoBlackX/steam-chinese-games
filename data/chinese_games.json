@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-04T16:35:51.331130"
+    "updated": "2025-04-04T16:48:51.796527"
   },
   "games": {
     "570": {
@@ -46992,6 +46992,158 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-04-04T16:35:50.605511"
+    },
+    "405640": {
+      "appid": 405640,
+      "name": "Pony Island",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T16:48:38.218813"
+    },
+    "405710": {
+      "appid": 405710,
+      "name": "Staxel",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T16:48:38.823687"
+    },
+    "405900": {
+      "appid": 405900,
+      "name": "Disgaea PC",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T16:48:39.995263"
+    },
+    "406150": {
+      "appid": 406150,
+      "name": "Refunct",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T16:48:41.977764"
+    },
+    "406160": {
+      "appid": 406160,
+      "name": "尘埃舰队",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T16:48:42.110138"
+    },
+    "406170": {
+      "appid": 406170,
+      "name": "Vortex: The Gateway",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T16:48:42.258016"
+    },
+    "406710": {
+      "appid": 406710,
+      "name": "Eclipse Edge of Light",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T16:48:43.681640"
+    },
+    "406850": {
+      "appid": 406850,
+      "name": "Crush Your Enemies",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T16:48:44.784014"
+    },
+    "406870": {
+      "appid": 406870,
+      "name": "Eventide: Slavic Fable",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T16:48:45.151845"
+    },
+    "406940": {
+      "appid": 406940,
+      "name": "Dub Dash",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T16:48:45.765973"
+    },
+    "407000": {
+      "appid": 407000,
+      "name": "Survival Is Not Enough",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T16:48:46.036243"
+    },
+    "407120": {
+      "appid": 407120,
+      "name": "Soccer Manager 2016",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T16:48:46.683901"
+    },
+    "407130": {
+      "appid": 407130,
+      "name": "后勤模拟器",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T16:48:46.807685"
+    },
+    "407310": {
+      "appid": 407310,
+      "name": "NEKO-NIN exHeart",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T16:48:47.611810"
+    },
+    "407530": {
+      "appid": 407530,
+      "name": "ARK: The Survival Of The Fittest",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T16:48:48.412436"
+    },
+    "407560": {
+      "appid": 407560,
+      "name": "Killing Room",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T16:48:48.555976"
+    },
+    "407720": {
+      "appid": 407720,
+      "name": "Poker Pretty Girls Battle: Texas Hold'em",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T16:48:49.381821"
+    },
+    "408000": {
+      "appid": 408000,
+      "name": "Cinderella Escape! R12",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T16:48:50.824628"
+    },
+    "408250": {
+      "appid": 408250,
+      "name": "Eagle Flight",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T16:48:51.795081"
     }
   }
 }
