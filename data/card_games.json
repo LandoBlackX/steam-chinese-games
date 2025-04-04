@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-04T21:48:34.791486"
+    "updated": "2025-04-04T22:08:36.774780"
   },
   "games": {
     "570": {
@@ -41622,6 +41622,838 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-04T21:48:34.670454"
+    },
+    "501930": {
+      "appid": 501930,
+      "name": "Sig.NULL",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T22:08:02.221412"
+    },
+    "501940": {
+      "appid": 501940,
+      "name": "Hikikomori No Chuunibyou",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T22:08:02.372262"
+    },
+    "502070": {
+      "appid": 502070,
+      "name": "Fast and Curious",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T22:08:03.554101"
+    },
+    "502090": {
+      "appid": 502090,
+      "name": "Invisible Mind",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T22:08:03.847977"
+    },
+    "502100": {
+      "appid": 502100,
+      "name": "Death's Life",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T22:08:03.962741"
+    },
+    "502120": {
+      "appid": 502120,
+      "name": "Anicon - Animal Complex - Cat's Path",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T22:08:04.112766"
+    },
+    "502140": {
+      "appid": 502140,
+      "name": "Drayt Empire",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T22:08:04.523748"
+    },
+    "502150": {
+      "appid": 502150,
+      "name": "Interstellar Logistics Inc",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T22:08:04.841602"
+    },
+    "502200": {
+      "appid": 502200,
+      "name": "Orczz",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T22:08:05.126496"
+    },
+    "502210": {
+      "appid": 502210,
+      "name": "Super Markup Man",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T22:08:05.286519"
+    },
+    "502230": {
+      "appid": 502230,
+      "name": "Monsters' Den: Book of Dread",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T22:08:05.503383"
+    },
+    "502240": {
+      "appid": 502240,
+      "name": "You Deserve",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T22:08:05.649595"
+    },
+    "502300": {
+      "appid": 502300,
+      "name": "Heartomics: Lost Count",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T22:08:06.176769"
+    },
+    "502370": {
+      "appid": 502370,
+      "name": "Warhammer 40,000: Sanctus Reach",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T22:08:06.653433"
+    },
+    "502380": {
+      "appid": 502380,
+      "name": "Tangled Up!",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T22:08:06.799779"
+    },
+    "502400": {
+      "appid": 502400,
+      "name": "Redactem",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T22:08:06.934824"
+    },
+    "502500": {
+      "appid": 502500,
+      "name": "ACE COMBAT™ 7: SKIES UNKNOWN",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T22:08:08.784698"
+    },
+    "502520": {
+      "appid": 502520,
+      "name": "Ultimate General: Civil War",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T22:08:08.946799"
+    },
+    "502530": {
+      "appid": 502530,
+      "name": "THE GREY MAN",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T22:08:09.057511"
+    },
+    "502540": {
+      "appid": 502540,
+      "name": "Cold Vengeance",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T22:08:09.207899"
+    },
+    "502600": {
+      "appid": 502600,
+      "name": "The Multidimensional Underwear Drawer",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T22:08:09.719496"
+    },
+    "502700": {
+      "appid": 502700,
+      "name": "Laser Lasso BALL",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T22:08:10.146131"
+    },
+    "502720": {
+      "appid": 502720,
+      "name": "Star Explorers",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T22:08:10.881457"
+    },
+    "502740": {
+      "appid": 502740,
+      "name": "50 years",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T22:08:11.370517"
+    },
+    "502770": {
+      "appid": 502770,
+      "name": "Voodoo Garden",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T22:08:11.756830"
+    },
+    "502800": {
+      "appid": 502800,
+      "name": "SENRAN KAGURA ESTIVAL VERSUS",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T22:08:12.176896"
+    },
+    "502820": {
+      "appid": 502820,
+      "name": "Batman™: Arkham VR",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T22:08:12.422469"
+    },
+    "502910": {
+      "appid": 502910,
+      "name": "The Return Home Remastered",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T22:08:12.728944"
+    },
+    "502940": {
+      "appid": 502940,
+      "name": "Calm Down, Stalin",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T22:08:13.072337"
+    },
+    "503090": {
+      "appid": 503090,
+      "name": "Fairy Maids",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T22:08:14.281618"
+    },
+    "503130": {
+      "appid": 503130,
+      "name": "Red is Dead - The Complex Fun Random Level Fast Strategy Game",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T22:08:14.626236"
+    },
+    "503140": {
+      "appid": 503140,
+      "name": "Dungeon Punks",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T22:08:14.800772"
+    },
+    "503150": {
+      "appid": 503150,
+      "name": "Frantic Freighter",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T22:08:14.944277"
+    },
+    "503180": {
+      "appid": 503180,
+      "name": "MiniLAW: Ministry of Law",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T22:08:15.354467"
+    },
+    "503210": {
+      "appid": 503210,
+      "name": "Sentry Knight Tactics",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T22:08:15.456992"
+    },
+    "503240": {
+      "appid": 503240,
+      "name": "Hurricane",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T22:08:15.590537"
+    },
+    "503280": {
+      "appid": 503280,
+      "name": "Marble Land",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T22:08:15.738054"
+    },
+    "503340": {
+      "appid": 503340,
+      "name": "Dig 4 Destruction",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T22:08:16.055309"
+    },
+    "503350": {
+      "appid": 503350,
+      "name": "White Noise 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T22:08:16.225762"
+    },
+    "503390": {
+      "appid": 503390,
+      "name": "Roomscale Tower",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T22:08:16.583227"
+    },
+    "503400": {
+      "appid": 503400,
+      "name": "Four Last Things",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T22:08:16.734632"
+    },
+    "503410": {
+      "appid": 503410,
+      "name": "Zombie Camp",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T22:08:16.862764"
+    },
+    "503450": {
+      "appid": 503450,
+      "name": "Space Rangers: Quest",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T22:08:17.046917"
+    },
+    "503460": {
+      "appid": 503460,
+      "name": "Security Hole",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T22:08:17.220683"
+    },
+    "503480": {
+      "appid": 503480,
+      "name": "Mahluk:Dark Demon",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T22:08:17.413217"
+    },
+    "503490": {
+      "appid": 503490,
+      "name": "Sword of Fireheart - The Awakening Element",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T22:08:17.541162"
+    },
+    "503550": {
+      "appid": 503550,
+      "name": "DYE",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T22:08:17.683438"
+    },
+    "503560": {
+      "appid": 503560,
+      "name": "911 Operator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T22:08:17.825310"
+    },
+    "503580": {
+      "appid": 503580,
+      "name": "Duck Season",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T22:08:17.999765"
+    },
+    "503620": {
+      "appid": 503620,
+      "name": "Fictorum",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T22:08:18.172030"
+    },
+    "503680": {
+      "appid": 503680,
+      "name": "The Seeker",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T22:08:18.676104"
+    },
+    "503710": {
+      "appid": 503710,
+      "name": "Void",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T22:08:19.116421"
+    },
+    "503820": {
+      "appid": 503820,
+      "name": "A Detective's Novel",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T22:08:19.826051"
+    },
+    "503830": {
+      "appid": 503830,
+      "name": "The Life Of Greather",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T22:08:19.968958"
+    },
+    "503900": {
+      "appid": 503900,
+      "name": "Candy Smash VR",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T22:08:20.239719"
+    },
+    "503940": {
+      "appid": 503940,
+      "name": "Railway Empire",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T22:08:20.391502"
+    },
+    "503950": {
+      "appid": 503950,
+      "name": "Star Tactics Redux",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T22:08:20.599395"
+    },
+    "503960": {
+      "appid": 503960,
+      "name": "Will of the Gods",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T22:08:20.852675"
+    },
+    "504000": {
+      "appid": 504000,
+      "name": "Endless Fables: The Minotaur's Curse",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T22:08:21.146077"
+    },
+    "504090": {
+      "appid": 504090,
+      "name": "3..2..1..Grenades!",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T22:08:21.607383"
+    },
+    "504110": {
+      "appid": 504110,
+      "name": "The Longest Five Minutes",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T22:08:21.988237"
+    },
+    "504130": {
+      "appid": 504130,
+      "name": "Manual Samuel - Anniversary Edition",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T22:08:22.137340"
+    },
+    "504230": {
+      "appid": 504230,
+      "name": "Celeste",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T22:08:22.431226"
+    },
+    "504310": {
+      "appid": 504310,
+      "name": "The Cooking Game",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T22:08:22.954909"
+    },
+    "504390": {
+      "appid": 504390,
+      "name": "Along the Edge",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T22:08:23.423059"
+    },
+    "504400": {
+      "appid": 504400,
+      "name": "Optika",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T22:08:23.591872"
+    },
+    "504470": {
+      "appid": 504470,
+      "name": "Salvaged",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T22:08:24.497052"
+    },
+    "504490": {
+      "appid": 504490,
+      "name": "The God's Chain",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T22:08:24.630881"
+    },
+    "504500": {
+      "appid": 504500,
+      "name": "Hover Havoc",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T22:08:24.787327"
+    },
+    "504560": {
+      "appid": 504560,
+      "name": "The Unwelcomed",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T22:08:24.924921"
+    },
+    "504670": {
+      "appid": 504670,
+      "name": "FARIA: Ghosts of the Stream",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T22:08:25.759166"
+    },
+    "504690": {
+      "appid": 504690,
+      "name": "Woven",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T22:08:25.923755"
+    },
+    "504750": {
+      "appid": 504750,
+      "name": "Lew Pulsipher's Doomstar",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T22:08:26.238265"
+    },
+    "504770": {
+      "appid": 504770,
+      "name": "Slavistan",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T22:08:26.397356"
+    },
+    "504850": {
+      "appid": 504850,
+      "name": "Castle Invasion: Throne Out",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T22:08:26.969190"
+    },
+    "504880": {
+      "appid": 504880,
+      "name": "Pixel Puzzles 2: RADical ROACH",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T22:08:27.157631"
+    },
+    "504920": {
+      "appid": 504920,
+      "name": "39 Days to Mars",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T22:08:27.294032"
+    },
+    "504980": {
+      "appid": 504980,
+      "name": "Elves Adventure",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T22:08:27.455880"
+    },
+    "505070": {
+      "appid": 505070,
+      "name": "Secrets of Me",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T22:08:27.998919"
+    },
+    "505080": {
+      "appid": 505080,
+      "name": "Gakuen Club",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T22:08:28.135921"
+    },
+    "505090": {
+      "appid": 505090,
+      "name": "The Charming Empire",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T22:08:28.306058"
+    },
+    "505110": {
+      "appid": 505110,
+      "name": "Ghost Pursuit VR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T22:08:28.508731"
+    },
+    "505170": {
+      "appid": 505170,
+      "name": "Carmageddon: Max Damage",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T22:08:28.614470"
+    },
+    "505210": {
+      "appid": 505210,
+      "name": "Neon Space 2",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T22:08:28.732165"
+    },
+    "505230": {
+      "appid": 505230,
+      "name": "Pathologic 2",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T22:08:28.866241"
+    },
+    "505270": {
+      "appid": 505270,
+      "name": "The Food Run",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T22:08:28.964223"
+    },
+    "505400": {
+      "appid": 505400,
+      "name": "Diamond Joyce and the Secret of Crystal Cave",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T22:08:29.519077"
+    },
+    "505630": {
+      "appid": 505630,
+      "name": "Let Them Come",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T22:08:30.057611"
+    },
+    "505730": {
+      "appid": 505730,
+      "name": "Holy Potatoes! We’re in Space?!",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T22:08:30.609935"
+    },
+    "505740": {
+      "appid": 505740,
+      "name": "Eximius: Seize the Frontline",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T22:08:30.846746"
+    },
+    "506090": {
+      "appid": 506090,
+      "name": "Switch - Or Die Trying",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T22:08:31.359598"
+    },
+    "506150": {
+      "appid": 506150,
+      "name": "Dragon Bros",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T22:08:31.671778"
+    },
+    "506260": {
+      "appid": 506260,
+      "name": "Cladun Returns: This Is Sengoku!",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T22:08:31.966383"
+    },
+    "506470": {
+      "appid": 506470,
+      "name": "Quip Anomaly",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T22:08:32.271986"
+    },
+    "506510": {
+      "appid": 506510,
+      "name": "Shadows of Adam",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T22:08:33.215684"
+    },
+    "506590": {
+      "appid": 506590,
+      "name": "Sky Valley",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T22:08:34.106247"
+    },
+    "506730": {
+      "appid": 506730,
+      "name": "Dinosaur Forest",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T22:08:34.876192"
+    },
+    "506760": {
+      "appid": 506760,
+      "name": "Twisty's Asylum Escapades",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T22:08:35.014714"
+    },
+    "506840": {
+      "appid": 506840,
+      "name": "The Dungeons of Castle Madness",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T22:08:35.586928"
+    },
+    "506870": {
+      "appid": 506870,
+      "name": "Unexplored",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T22:08:35.757666"
+    },
+    "506900": {
+      "appid": 506900,
+      "name": "Downward: Enhanced Edition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T22:08:35.928210"
+    },
+    "506980": {
+      "appid": 506980,
+      "name": "Drone: Remote Tactical Warfare",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T22:08:36.431242"
+    },
+    "507010": {
+      "appid": 507010,
+      "name": "Mr.President!",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T22:08:36.629794"
+    },
+    "507030": {
+      "appid": 507030,
+      "name": "Bicyclism EP",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T22:08:36.773493"
     }
   }
 }
