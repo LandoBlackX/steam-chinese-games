@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-04T21:35:37.726522"
+    "updated": "2025-04-04T21:48:34.791486"
   },
   "games": {
     "570": {
@@ -51712,6 +51712,294 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-04T21:35:36.312061"
+    },
+    "496890": {
+      "appid": 496890,
+      "name": "Replica",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T21:48:10.686478"
+    },
+    "496930": {
+      "appid": 496930,
+      "name": "Sumeru",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T21:48:10.958019"
+    },
+    "497000": {
+      "appid": 497000,
+      "name": "Cross Death  VR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T21:48:11.944011"
+    },
+    "497020": {
+      "appid": 497020,
+      "name": "Mystic Diary - Hidden Object",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T21:48:12.188978"
+    },
+    "497080": {
+      "appid": 497080,
+      "name": "Construct: Escape the System",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T21:48:12.774495"
+    },
+    "497580": {
+      "appid": 497580,
+      "name": "Agent Walker: Secret Journey",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T21:48:15.908244"
+    },
+    "497640": {
+      "appid": 497640,
+      "name": "Trick & Treat",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T21:48:16.133387"
+    },
+    "497850": {
+      "appid": 497850,
+      "name": "8-Bit Hordes",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T21:48:17.443441"
+    },
+    "498190": {
+      "appid": 498190,
+      "name": "Dragon Rage",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T21:48:18.569822"
+    },
+    "498240": {
+      "appid": 498240,
+      "name": "Batman - The Telltale Series",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T21:48:18.680184"
+    },
+    "498310": {
+      "appid": 498310,
+      "name": "RPG in a Box",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T21:48:18.905593"
+    },
+    "498470": {
+      "appid": 498470,
+      "name": "Switch 'N' Shoot - 一键异形终结者",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T21:48:20.021385"
+    },
+    "498500": {
+      "appid": 498500,
+      "name": "I Am The Hero",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T21:48:20.148202"
+    },
+    "498510": {
+      "appid": 498510,
+      "name": "DreamLand",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T21:48:20.247065"
+    },
+    "498720": {
+      "appid": 498720,
+      "name": "Inklings",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T21:48:21.312949"
+    },
+    "498740": {
+      "appid": 498740,
+      "name": "Way of Redemption",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T21:48:21.458248"
+    },
+    "499180": {
+      "appid": 499180,
+      "name": "Braid, Anniversary Edition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T21:48:22.733081"
+    },
+    "499440": {
+      "appid": 499440,
+      "name": "klocki",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T21:48:23.744483"
+    },
+    "499620": {
+      "appid": 499620,
+      "name": "Ultimate Booster Experience",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T21:48:24.540082"
+    },
+    "499660": {
+      "appid": 499660,
+      "name": "Medieval Kingdom Wars",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T21:48:24.666211"
+    },
+    "499890": {
+      "appid": 499890,
+      "name": "Aaero",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T21:48:24.901230"
+    },
+    "500670": {
+      "appid": 500670,
+      "name": "Tormentor❌Punisher",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T21:48:28.267974"
+    },
+    "500710": {
+      "appid": 500710,
+      "name": "Wild Terra Online",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T21:48:28.691720"
+    },
+    "501020": {
+      "appid": 501020,
+      "name": "Super Pixel Racers",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T21:48:30.399392"
+    },
+    "501080": {
+      "appid": 501080,
+      "name": "Fishing: Barents Sea",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T21:48:30.872846"
+    },
+    "501220": {
+      "appid": 501220,
+      "name": "Space Ribbon - Slipstream to the Extreme",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T21:48:31.544244"
+    },
+    "501300": {
+      "appid": 501300,
+      "name": "What Remains of Edith Finch",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T21:48:31.923353"
+    },
+    "501320": {
+      "appid": 501320,
+      "name": "The Shrouded Isle",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T21:48:32.315222"
+    },
+    "501400": {
+      "appid": 501400,
+      "name": "Knight Versus Demon",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T21:48:32.703464"
+    },
+    "501440": {
+      "appid": 501440,
+      "name": "Stars",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T21:48:33.051027"
+    },
+    "501600": {
+      "appid": 501600,
+      "name": "CyberLink PhotoDirector 8 Deluxe",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T21:48:33.871122"
+    },
+    "501620": {
+      "appid": 501620,
+      "name": "CyberLink PowerDirector 15 Ultimate",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T21:48:33.977458"
+    },
+    "501630": {
+      "appid": 501630,
+      "name": "CyberLink PowerDirector 15 Ultra",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T21:48:34.092980"
+    },
+    "501640": {
+      "appid": 501640,
+      "name": "CyberLink PhotoDirector 8 Ultra",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T21:48:34.204279"
+    },
+    "501840": {
+      "appid": 501840,
+      "name": "Don't Disturb",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T21:48:34.561203"
+    },
+    "501850": {
+      "appid": 501850,
+      "name": "DCR: Drive.Crash.Repeat",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T21:48:34.670454"
     }
   }
 }
