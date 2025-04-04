@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-04T22:08:36.774780"
+    "updated": "2025-04-04T22:32:43.062242"
   },
   "games": {
     "570": {
@@ -52296,6 +52296,254 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-04T22:08:35.928210"
+    },
+    "507210": {
+      "appid": 507210,
+      "name": "The Wire",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T22:32:19.315742"
+    },
+    "507270": {
+      "appid": 507270,
+      "name": "Lily´s Epic Quest",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T22:32:19.431251"
+    },
+    "508390": {
+      "appid": 508390,
+      "name": "Scrap Garden - The Day Before",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T22:32:22.448188"
+    },
+    "508440": {
+      "appid": 508440,
+      "name": "Totally Accurate Battle Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T22:32:22.709467"
+    },
+    "508650": {
+      "appid": 508650,
+      "name": "拯救世界特别小队",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T22:32:24.258724"
+    },
+    "508790": {
+      "appid": 508790,
+      "name": "平面英雄",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T22:32:25.228370"
+    },
+    "508900": {
+      "appid": 508900,
+      "name": "Zup! X",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T22:32:25.683709"
+    },
+    "509360": {
+      "appid": 509360,
+      "name": "TRESPASS - Episode 1",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T22:32:28.307460"
+    },
+    "509400": {
+      "appid": 509400,
+      "name": "Lost in Harmony",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T22:32:28.654590"
+    },
+    "509580": {
+      "appid": 509580,
+      "name": "The Lord of the Rings: Adventure Card Game - Definitive Edition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T22:32:29.734646"
+    },
+    "509600": {
+      "appid": 509600,
+      "name": "Battle Time",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T22:32:29.857980"
+    },
+    "509980": {
+      "appid": 509980,
+      "name": "BIGFOOT",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T22:32:31.834062"
+    },
+    "510130": {
+      "appid": 510130,
+      "name": "Power Link VR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T22:32:32.721485"
+    },
+    "510240": {
+      "appid": 510240,
+      "name": "forma.8",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T22:32:32.908136"
+    },
+    "510420": {
+      "appid": 510420,
+      "name": "The Hex",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T22:32:34.067950"
+    },
+    "510430": {
+      "appid": 510430,
+      "name": "Stacks On Stacks (On Stacks)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T22:32:34.180501"
+    },
+    "510540": {
+      "appid": 510540,
+      "name": "《 昨日之日》",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T22:32:34.589151"
+    },
+    "510620": {
+      "appid": 510620,
+      "name": "THOTH",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T22:32:35.091211"
+    },
+    "510630": {
+      "appid": 510630,
+      "name": "Soccer Manager 2017",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T22:32:35.206004"
+    },
+    "510650": {
+      "appid": 510650,
+      "name": "Eventide 2: The Sorcerers Mirror",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T22:32:35.329758"
+    },
+    "510740": {
+      "appid": 510740,
+      "name": "Konrad's Kittens",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T22:32:36.093613"
+    },
+    "510840": {
+      "appid": 510840,
+      "name": "Evolvation",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T22:32:36.585365"
+    },
+    "510990": {
+      "appid": 510990,
+      "name": "LooWarVR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T22:32:37.188213"
+    },
+    "511010": {
+      "appid": 511010,
+      "name": "TAIKER",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T22:32:37.308600"
+    },
+    "511090": {
+      "appid": 511090,
+      "name": "The Shape Of Heart",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T22:32:37.534155"
+    },
+    "511160": {
+      "appid": 511160,
+      "name": "Cubway",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T22:32:38.308456"
+    },
+    "511470": {
+      "appid": 511470,
+      "name": "Glass Masquerade",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T22:32:39.888593"
+    },
+    "511500": {
+      "appid": 511500,
+      "name": "Nanuleu",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T22:32:40.105255"
+    },
+    "511600": {
+      "appid": 511600,
+      "name": "Space Jones VR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T22:32:40.592908"
+    },
+    "511680": {
+      "appid": 511680,
+      "name": "Fate/EXTELLA",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T22:32:41.064135"
+    },
+    "511800": {
+      "appid": 511800,
+      "name": "ONRAID",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T22:32:41.891918"
     }
   }
 }
