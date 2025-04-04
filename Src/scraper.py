@@ -22,10 +22,7 @@ class SteamRateLimiter:
     def can_make_request(self):
         current_time = time.time()
         self.request_timestamps = [t for t in self.request_timestamps if current_time - t < 60]
-        if len(self.request_timestamps) < self.requests_per_minute:
-            self.request_timestamps.append(current_time)
-            return True
-        return False
+        return len(self.request_timestamps) < self.requests_per_minute
 
     def wait_for_slot(self):
         while not self.can_make_request():
@@ -68,41 +65,24 @@ def safe_load_json(file):
                 data.setdefault("games", {})
                 return data
     except Exception as e:
-        log(f"加载 {file} 失败: {str(e)}")
+        log(f"Failed to load {file}: {str(e)}")
     return init_data_structure()
 
 def load_game_appids(existing_chinese, existing_cards, conn, cursor):
-    output_path = DATA_DIR / "output.json"
-    if not output_path.exists():
-        log("错误：output.json 文件不存在")
-        return []
-
-    try:
-        with open(output_path, 'r', encoding='utf-8') as f:
-            data = json.load(f)
-            if not isinstance(data, dict):
-                log("错误：output.json 内容不是有效的字典")
-                return []
-            appids = []
-            thirty_days_ago = datetime.utcnow() - timedelta(days=30)
-            cursor.execute("SELECT appid FROM apps WHERE scraper_status = true")
-            processed_appids = set(row[0] for row in cursor.fetchall())
-            for appid, app_info in data.items():
-                if app_info == "game":
-                    appid_int = int(appid)
-                    if appid_int in processed_appids:
-                        continue
-                    existing_c = existing_chinese["games"].get(appid, {})
-                    existing_card = existing_cards["games"].get(appid, {})
-                    last_checked = existing_c.get("last_checked") or existing_card.get("last_checked")
-                    if not last_checked or datetime.fromisoformat(last_checked) < thirty_days_ago:
-                        appids.append(appid_int)
-            appids.sort(reverse=False)  # 按 AppID 升序排序
-            log(f"从 output.json 加载到 {len(appids)} 个待处理游戏类 AppID")
-            return appids[:199]  # 每次处理 199 个 AppID
-    except Exception as e:
-        log(f"加载 output.json 失败: {str(e)}")
-        return []
+    thirty_days_ago = (datetime.now() - timedelta(days=30)).isoformat()
+    cursor.execute("""
+        SELECT appid FROM apps 
+        WHERE 
+            status = true
+            AND is_game = true
+            AND scraper_status = false
+            AND last_updated < ?
+        ORDER BY appid
+        LIMIT 199
+    """, (thirty_days_ago,))
+    appids = [row[0] for row in cursor.fetchall()]
+    log(f"Loaded {len(appids)} game AppIDs (not updated in 30 days)")
+    return appids
 
 def check_game(appid, rate_limiter):
     url = f"https://store.steampowered.com/api/appdetails?appids={appid}&l=schinese"
@@ -119,29 +99,29 @@ def check_game(appid, rate_limiter):
         if game_data.get("success", False):
             game_info = game_data["data"]
             langs = game_info.get("supported_languages", "") + "|" + game_info.get("languages", "")
-            chinese_keywords = ['schinese', 'tchinese', '中文', '简体', '繁体', 'Chinese', 'Simplified Chinese', 'Traditional Chinese']
-            has_chinese = any(kw in langs.lower() for kw in chinese_keywords)
+            chinese_keywords = ['schinese', 'tchinese', '中文', '简体', '繁体', 'Chinese']
+            has_chinese = any(kw.lower() in langs.lower() for kw in chinese_keywords)
             has_cards = any(cat.get("id") == 29 for cat in game_info.get("categories", []))
-            log(f"游戏 {appid} => {'支持中文' if has_chinese else '无中文'} | {'有卡牌' if has_cards else '无卡牌'} | 响应时间: {duration:.2f}秒")
+            log(f"Game {appid}: {'Chinese' if has_chinese else 'No Chinese'} | {'Cards' if has_cards else 'No Cards'} | {duration:.2f}s")
             return {
                 "appid": appid,
                 "name": game_info.get("name", f"Unknown_{appid}"),
-                "type": game_info.get("type", "game"),
+                "type": "game",
                 "supports_chinese": has_chinese,
                 "supports_cards": has_cards,
                 "last_checked": datetime.utcnow().isoformat()
             }
         else:
-            log(f"获取 AppID: {appid} 的详情失败")
-            log_failed_appid(appid, "API 返回 success: false")
+            log(f"Failed AppID: {appid} (API success=false)")
+            log_failed_appid(appid, "API success=false")
             return None
     except requests.exceptions.RequestException as e:
         if "429" in str(e):
-            log(f"触发 429 错误，暂停 5 分钟后重试...")
+            log("Rate limit hit, pausing for 5 minutes...")
             time.sleep(300)
             return None
         else:
-            log(f"请求 AppID: {appid} 失败: {e}")
+            log(f"Request failed for AppID: {appid}: {e}")
             log_failed_appid(appid, str(e))
             return None
 
@@ -149,14 +129,13 @@ def save_data(data, file_path):
     try:
         with open(file_path, 'w', encoding='utf-8') as f:
             json.dump(data, f, indent=2, ensure_ascii=False)
-        log(f"数据已保存至 {file_path}")
+        log(f"Data saved to {file_path}")
     except Exception as e:
-        log(f"保存失败: {str(e)}")
+        log(f"Save failed: {str(e)}")
         raise
 
 def main():
-    log("脚本启动")
-    
+    log("Starting scraper...")
     chinese_data = safe_load_json(DATA_DIR / "chinese_games.json")
     card_data = safe_load_json(DATA_DIR / "card_games.json")
     
@@ -167,57 +146,50 @@ def main():
     CREATE TABLE IF NOT EXISTS apps (
         appid INTEGER PRIMARY KEY,
         status BOOLEAN DEFAULT FALSE,
-        scraper_status BOOLEAN DEFAULT FALSE
+        scraper_status BOOLEAN DEFAULT FALSE,
+        is_game BOOLEAN DEFAULT FALSE,
+        last_updated TEXT DEFAULT "2020-01-01T00:00:00"
     )
     ''')
     conn.commit()
     
     test_appids = load_game_appids(chinese_data, card_data, conn, cursor)
     if not test_appids:
-        log("没有需要处理的新 AppID，终止执行")
+        log("No new AppIDs to process")
         cursor.close()
         conn.close()
         return
     
-    log(f"开始处理 {len(test_appids)} 个 AppID")
-
+    log(f"Processing {len(test_appids)} AppIDs")
     rate_limiter = SteamRateLimiter(requests_per_minute=200)
-    results = []
-    success_count = 0
-    failure_count = 0
+    updated = False
+
     for appid in test_appids:
         result = check_game(appid, rate_limiter)
         if result:
-            results.append(result)
-            success_count += 1
-        else:
-            failure_count += 1
-        cursor.execute("UPDATE apps SET scraper_status = true WHERE appid = ?", (appid,))
-        conn.commit()
-
-    log(f"处理完成！成功: {success_count}, 失败: {failure_count}")
-
-    updated = False
-    for result in results:
-        if result:
-            appid_str = str(result["appid"])
             if result["supports_chinese"]:
-                chinese_data["games"][appid_str] = result
+                chinese_data["games"][str(appid)] = result
                 updated = True
             if result["supports_cards"]:
-                card_data["games"][appid_str] = result
+                card_data["games"][str(appid)] = result
                 updated = True
+            cursor.execute("""
+                UPDATE apps 
+                SET scraper_status = true, 
+                    last_updated = ?
+                WHERE appid = ?
+            """, (datetime.now().isoformat(), appid))
+            conn.commit()
 
     if updated:
         timestamp = datetime.utcnow().isoformat()
         chinese_data["_metadata"]["updated"] = timestamp
         card_data["_metadata"]["updated"] = timestamp
-        
         save_data(chinese_data, DATA_DIR / "chinese_games.json")
         save_data(card_data, DATA_DIR / "card_games.json")
     
-    log(f"完成！累计中文游戏: {len(chinese_data['games'])}")
-    log(f"完成！累计卡牌游戏: {len(card_data['games'])}")
+    log(f"Total Chinese games: {len(chinese_data['games'])}")
+    log(f"Total card games: {len(card_data['games'])}")
 
     if os.getenv("GITHUB_ACTIONS") == "true":
         with open(os.getenv("GITHUB_OUTPUT"), 'a') as f:
