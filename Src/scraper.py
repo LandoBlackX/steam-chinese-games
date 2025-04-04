@@ -99,7 +99,7 @@ def load_game_appids(existing_chinese, existing_cards, conn, cursor):
                         appids.append(appid_int)
             appids.sort(reverse=False)  # 按 AppID 升序排序
             log(f"从 output.json 加载到 {len(appids)} 个待处理游戏类 AppID")
-            return appids[:199]  # 每次处理 199 个 AppID
+            return appids[:100]  # 每次处理 100 个 AppID
     except Exception as e:
         log(f"加载 output.json 失败: {str(e)}")
         return []
