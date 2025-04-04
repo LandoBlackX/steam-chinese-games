@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-04T09:16:12.668471"
+    "updated": "2025-04-04T09:35:45.716586"
   },
   "games": {
     "570": {
@@ -46208,6 +46208,30 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-04T09:16:11.723431"
+    },
+    "389140": {
+      "appid": 389140,
+      "name": "Horizon Chase Turbo",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T09:35:43.408663"
+    },
+    "389270": {
+      "appid": 389270,
+      "name": "Through Abandoned: The Underground City",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T09:35:44.671725"
+    },
+    "389510": {
+      "appid": 389510,
+      "name": "Wild Animal Racing",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T09:35:45.714671"
     }
   }
 }
