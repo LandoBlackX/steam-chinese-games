@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-04T19:29:14.994584"
+    "updated": "2025-04-04T19:32:25.617264"
   },
   "games": {
     "570": {
@@ -48712,6 +48712,142 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-04T19:29:14.863558"
+    },
+    "438090": {
+      "appid": 438090,
+      "name": "Defend Felinearth",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T19:32:05.101294"
+    },
+    "438100": {
+      "appid": 438100,
+      "name": "VRChat",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T19:32:05.281960"
+    },
+    "438200": {
+      "appid": 438200,
+      "name": "Chrysalis",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T19:32:06.607928"
+    },
+    "438320": {
+      "appid": 438320,
+      "name": "Rush Rover",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T19:32:08.253507"
+    },
+    "438450": {
+      "appid": 438450,
+      "name": "3DF Zephyr Lite Steam Edition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T19:32:09.969660"
+    },
+    "438480": {
+      "appid": 438480,
+      "name": "Rock 'N' Roll Defense",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T19:32:10.329264"
+    },
+    "438600": {
+      "appid": 438600,
+      "name": "Soccer Manager",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T19:32:11.087690"
+    },
+    "439550": {
+      "appid": 439550,
+      "name": "'n Verlore Verstand",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T19:32:17.091329"
+    },
+    "439800": {
+      "appid": 439800,
+      "name": "Clouds & Sheep 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T19:32:18.943358"
+    },
+    "439930": {
+      "appid": 439930,
+      "name": "Control Craft 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T19:32:19.450882"
+    },
+    "440020": {
+      "appid": 440020,
+      "name": "bit Dungeon+",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T19:32:20.014812"
+    },
+    "440420": {
+      "appid": 440420,
+      "name": "True Fear: Forsaken Souls Part 1",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T19:32:21.853023"
+    },
+    "440550": {
+      "appid": 440550,
+      "name": "Atomik: RunGunJumpGun",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T19:32:22.712289"
+    },
+    "440630": {
+      "appid": 440630,
+      "name": "The Brookhaven Experiment",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T19:32:22.885710"
+    },
+    "440640": {
+      "appid": 440640,
+      "name": "Sweet F. Cake",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T19:32:23.039796"
+    },
+    "440650": {
+      "appid": 440650,
+      "name": "Niche - a genetics survival game",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T19:32:23.201895"
+    },
+    "440740": {
+      "appid": 440740,
+      "name": "Epic battles within 5 seconds!",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T19:32:24.402993"
     }
   }
 }

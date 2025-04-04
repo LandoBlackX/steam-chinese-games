@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-04T19:29:14.994584"
+    "updated": "2025-04-04T19:32:25.617264"
   },
   "games": {
     "570": {
@@ -32830,6 +32830,422 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-04-04T19:29:14.992843"
+    },
+    "438010": {
+      "appid": 438010,
+      "name": "PulseCharge",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T19:32:04.006959"
+    },
+    "438020": {
+      "appid": 438020,
+      "name": "AI: Rampage",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T19:32:04.253580"
+    },
+    "438030": {
+      "appid": 438030,
+      "name": "Dead6hot",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T19:32:04.586567"
+    },
+    "438040": {
+      "appid": 438040,
+      "name": "Shakes and Fidget",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T19:32:04.809073"
+    },
+    "438080": {
+      "appid": 438080,
+      "name": "Surfingers",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T19:32:04.944816"
+    },
+    "438090": {
+      "appid": 438090,
+      "name": "Defend Felinearth",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T19:32:05.101294"
+    },
+    "438130": {
+      "appid": 438130,
+      "name": "Root Double -Before Crime * After Days- Xtend Edition",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T19:32:05.866643"
+    },
+    "438180": {
+      "appid": 438180,
+      "name": "Super Mustache",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T19:32:06.404433"
+    },
+    "438240": {
+      "appid": 438240,
+      "name": "Corpo Tale",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T19:32:07.140773"
+    },
+    "438260": {
+      "appid": 438260,
+      "name": "Rewind",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T19:32:07.326808"
+    },
+    "438270": {
+      "appid": 438270,
+      "name": "Learn Japanese To Survive! Hiragana Battle",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T19:32:07.648293"
+    },
+    "438310": {
+      "appid": 438310,
+      "name": "SCORE",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T19:32:08.024073"
+    },
+    "438320": {
+      "appid": 438320,
+      "name": "Rush Rover",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T19:32:08.253507"
+    },
+    "438330": {
+      "appid": 438330,
+      "name": "Dungeon Runner",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T19:32:08.475847"
+    },
+    "438340": {
+      "appid": 438340,
+      "name": "Drizzlepath: Genie",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T19:32:08.710833"
+    },
+    "438430": {
+      "appid": 438430,
+      "name": "Valentino Rossi The Game",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T19:32:09.620484"
+    },
+    "438450": {
+      "appid": 438450,
+      "name": "3DF Zephyr Lite Steam Edition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T19:32:09.969660"
+    },
+    "438480": {
+      "appid": 438480,
+      "name": "Rock 'N' Roll Defense",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T19:32:10.329264"
+    },
+    "438560": {
+      "appid": 438560,
+      "name": "Mystery Case Files®: Escape from Ravenhearst™",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T19:32:10.847223"
+    },
+    "438660": {
+      "appid": 438660,
+      "name": "Jerry Rice & Nitus' Dog Football",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T19:32:11.882843"
+    },
+    "438780": {
+      "appid": 438780,
+      "name": "Terrarium Land",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T19:32:12.972174"
+    },
+    "438820": {
+      "appid": 438820,
+      "name": "Hyper Box",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T19:32:13.356209"
+    },
+    "438910": {
+      "appid": 438910,
+      "name": "Hack, Slash & Backstab",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T19:32:13.643463"
+    },
+    "438920": {
+      "appid": 438920,
+      "name": "Legends of Callasia",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T19:32:13.859036"
+    },
+    "439190": {
+      "appid": 439190,
+      "name": "Stories: The Path of Destinies",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T19:32:14.176324"
+    },
+    "439250": {
+      "appid": 439250,
+      "name": "Space Pilgrim Episode III: Delta Pavonis",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T19:32:14.296949"
+    },
+    "439310": {
+      "appid": 439310,
+      "name": "Until I Have You",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T19:32:14.690564"
+    },
+    "439420": {
+      "appid": 439420,
+      "name": "SteelLIFE",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T19:32:15.611693"
+    },
+    "439490": {
+      "appid": 439490,
+      "name": "BLUE REVOLVER",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T19:32:16.441001"
+    },
+    "439530": {
+      "appid": 439530,
+      "name": "Rock-N-Rogue: A Boo Bunny Plague Adventure",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T19:32:16.693534"
+    },
+    "439550": {
+      "appid": 439550,
+      "name": "'n Verlore Verstand",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T19:32:17.091329"
+    },
+    "439720": {
+      "appid": 439720,
+      "name": "Unending Galaxy",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T19:32:17.658441"
+    },
+    "439730": {
+      "appid": 439730,
+      "name": "XO-Planets",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T19:32:17.852837"
+    },
+    "439800": {
+      "appid": 439800,
+      "name": "Clouds & Sheep 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T19:32:18.943358"
+    },
+    "439880": {
+      "appid": 439880,
+      "name": "Heroes of Loot 2",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T19:32:19.110228"
+    },
+    "439910": {
+      "appid": 439910,
+      "name": "Risky Rescue",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T19:32:19.275161"
+    },
+    "439930": {
+      "appid": 439930,
+      "name": "Control Craft 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T19:32:19.450882"
+    },
+    "440340": {
+      "appid": 440340,
+      "name": "Banzai Escape",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T19:32:21.292776"
+    },
+    "440380": {
+      "appid": 440380,
+      "name": "Super Kitty Boing Boing",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T19:32:21.494178"
+    },
+    "440420": {
+      "appid": 440420,
+      "name": "True Fear: Forsaken Souls Part 1",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T19:32:21.853023"
+    },
+    "440450": {
+      "appid": 440450,
+      "name": "Escape: Sierra Leone",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T19:32:22.012369"
+    },
+    "440540": {
+      "appid": 440540,
+      "name": "Ara Fell: Enhanced Edition",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T19:32:22.530087"
+    },
+    "440550": {
+      "appid": 440550,
+      "name": "Atomik: RunGunJumpGun",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T19:32:22.712289"
+    },
+    "440640": {
+      "appid": 440640,
+      "name": "Sweet F. Cake",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T19:32:23.039796"
+    },
+    "440650": {
+      "appid": 440650,
+      "name": "Niche - a genetics survival game",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T19:32:23.201895"
+    },
+    "440660": {
+      "appid": 440660,
+      "name": "Void Vikings",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T19:32:23.410936"
+    },
+    "440730": {
+      "appid": 440730,
+      "name": "Survival Zombies The Inverted Evolution",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T19:32:24.231201"
+    },
+    "440750": {
+      "appid": 440750,
+      "name": "Story of a Cube",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T19:32:24.610063"
+    },
+    "440760": {
+      "appid": 440760,
+      "name": "Cube Destroyer",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T19:32:24.781762"
+    },
+    "440790": {
+      "appid": 440790,
+      "name": "Spellbind : Luppe's tale",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T19:32:25.173601"
+    },
+    "440800": {
+      "appid": 440800,
+      "name": "Trial by Viking",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T19:32:25.405247"
+    },
+    "440810": {
+      "appid": 440810,
+      "name": "1943 Megami Strike",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T19:32:25.615281"
     }
   }
 }
