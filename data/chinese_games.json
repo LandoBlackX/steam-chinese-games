@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-04T20:24:47.488093"
+    "updated": "2025-04-04T20:41:51.610020"
   },
   "games": {
     "570": {
@@ -50376,6 +50376,358 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-04T20:24:47.486954"
+    },
+    "466860": {
+      "appid": 466860,
+      "name": "上帝之城 I：监狱帝国 [City of God I - Prison Empire]",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T20:41:20.104774"
+    },
+    "466980": {
+      "appid": 466980,
+      "name": "Can't Drive This",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T20:41:21.173003"
+    },
+    "467090": {
+      "appid": 467090,
+      "name": "A Game of Changes",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T20:41:21.585091"
+    },
+    "467210": {
+      "appid": 467210,
+      "name": "Evo Explores",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T20:41:22.121030"
+    },
+    "467350": {
+      "appid": 467350,
+      "name": "Leveron Space",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T20:41:23.494040"
+    },
+    "467480": {
+      "appid": 467480,
+      "name": "C O S M",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T20:41:24.947924"
+    },
+    "467520": {
+      "appid": 467520,
+      "name": "Power & Revolution",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T20:41:25.248254"
+    },
+    "467760": {
+      "appid": 467760,
+      "name": "Trapper's Delight",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T20:41:26.865591"
+    },
+    "467850": {
+      "appid": 467850,
+      "name": "METAGAL",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T20:41:27.624381"
+    },
+    "467950": {
+      "appid": 467950,
+      "name": "Survive in Space",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T20:41:28.689302"
+    },
+    "467960": {
+      "appid": 467960,
+      "name": "归家异途",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T20:41:28.826906"
+    },
+    "468070": {
+      "appid": 468070,
+      "name": "90 Minute Fever - Online Football (Soccer) Manager",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T20:41:29.243959"
+    },
+    "468330": {
+      "appid": 468330,
+      "name": "HIVE: Altenum Wars",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T20:41:31.098211"
+    },
+    "468650": {
+      "appid": 468650,
+      "name": "Super ComboMan: Smash Edition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T20:41:32.004045"
+    },
+    "468670": {
+      "appid": 468670,
+      "name": "Speed Brawl",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T20:41:32.197263"
+    },
+    "468740": {
+      "appid": 468740,
+      "name": "Snow Fortress",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T20:41:32.531077"
+    },
+    "468820": {
+      "appid": 468820,
+      "name": "Titans of Space PLUS",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T20:41:32.960314"
+    },
+    "468920": {
+      "appid": 468920,
+      "name": "终极钓鱼模拟器",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T20:41:33.284347"
+    },
+    "469600": {
+      "appid": 469600,
+      "name": "军团战争2 / Legion TD 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T20:41:33.814608"
+    },
+    "469800": {
+      "appid": 469800,
+      "name": "Evolution Board Game",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T20:41:34.804832"
+    },
+    "470030": {
+      "appid": 470030,
+      "name": "Just Bones",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T20:41:36.073257"
+    },
+    "470210": {
+      "appid": 470210,
+      "name": "Rocketbirds 2 Evolution",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T20:41:37.133864"
+    },
+    "470220": {
+      "appid": 470220,
+      "name": "UNO",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T20:41:37.330963"
+    },
+    "470270": {
+      "appid": 470270,
+      "name": "Tribal Pass",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T20:41:37.673766"
+    },
+    "470310": {
+      "appid": 470310,
+      "name": "纷争终结者: 被遗弃的孩子们",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T20:41:38.164096"
+    },
+    "470580": {
+      "appid": 470580,
+      "name": "In The Shadows",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T20:41:39.045049"
+    },
+    "470780": {
+      "appid": 470780,
+      "name": "She Remembered Caterpillars",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T20:41:39.627775"
+    },
+    "470890": {
+      "appid": 470890,
+      "name": "WarFire",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T20:41:39.814287"
+    },
+    "471010": {
+      "appid": 471010,
+      "name": "七: 增强版",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T20:41:40.230945"
+    },
+    "471330": {
+      "appid": 471330,
+      "name": "VERSUS SQUAD",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T20:41:40.961065"
+    },
+    "471550": {
+      "appid": 471550,
+      "name": "Nine Parchments",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T20:41:41.467954"
+    },
+    "471700": {
+      "appid": 471700,
+      "name": "Greedy Guns",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T20:41:42.198494"
+    },
+    "471810": {
+      "appid": 471810,
+      "name": "Death Squared",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T20:41:42.904149"
+    },
+    "471920": {
+      "appid": 471920,
+      "name": "Pan-Pan",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T20:41:43.054881"
+    },
+    "473460": {
+      "appid": 473460,
+      "name": "回忆忘却之匣",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T20:41:44.831329"
+    },
+    "473690": {
+      "appid": 473690,
+      "name": "Absolver",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T20:41:46.431774"
+    },
+    "473750": {
+      "appid": 473750,
+      "name": "Feudums",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T20:41:46.705491"
+    },
+    "473780": {
+      "appid": 473780,
+      "name": "Splitter Critters",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T20:41:46.992058"
+    },
+    "473950": {
+      "appid": 473950,
+      "name": "Manifold Garden",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T20:41:47.978165"
+    },
+    "474020": {
+      "appid": 474020,
+      "name": "Ragnorium",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T20:41:48.451765"
+    },
+    "474750": {
+      "appid": 474750,
+      "name": "王权",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T20:41:49.798129"
+    },
+    "474960": {
+      "appid": 474960,
+      "name": "Quantum Break",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T20:41:50.765875"
+    },
+    "475090": {
+      "appid": 475090,
+      "name": "Project Remedium",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T20:41:51.461623"
+    },
+    "475150": {
+      "appid": 475150,
+      "name": "Titan Quest Anniversary Edition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T20:41:51.608775"
     }
   }
 }
