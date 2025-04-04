@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-04T22:45:51.229538"
+    "updated": "2025-04-04T22:58:41.923499"
   },
   "games": {
     "570": {
@@ -52808,6 +52808,286 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-04T22:45:50.650759"
+    },
+    "516890": {
+      "appid": 516890,
+      "name": "Alchemic Jousts",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T22:58:12.709214"
+    },
+    "517210": {
+      "appid": 517210,
+      "name": "Bad Pad",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T22:58:15.406679"
+    },
+    "517230": {
+      "appid": 517230,
+      "name": "Spinning Maze",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T22:58:15.885601"
+    },
+    "517360": {
+      "appid": 517360,
+      "name": "The Secret Order 4: Beyond Time",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T22:58:17.448372"
+    },
+    "517400": {
+      "appid": 517400,
+      "name": "VR Amazing Files: Horror Hospital",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T22:58:17.758629"
+    },
+    "517460": {
+      "appid": 517460,
+      "name": "SteamHammerVR - The Rogue Apprentice",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T22:58:17.921848"
+    },
+    "517630": {
+      "appid": 517630,
+      "name": "Just Cause 4 Reloaded",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T22:58:18.907818"
+    },
+    "517710": {
+      "appid": 517710,
+      "name": "Redout: Enhanced Edition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T22:58:19.681429"
+    },
+    "517780": {
+      "appid": 517780,
+      "name": "Ogre",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T22:58:20.261171"
+    },
+    "517970": {
+      "appid": 517970,
+      "name": "CRANGA!: Harbor Frenzy",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T22:58:21.234634"
+    },
+    "518030": {
+      "appid": 518030,
+      "name": "Aim Hero",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T22:58:21.714007"
+    },
+    "518790": {
+      "appid": 518790,
+      "name": "《猎人：荒野的召唤™》",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T22:58:24.938019"
+    },
+    "519080": {
+      "appid": 519080,
+      "name": "Soda Girls",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T22:58:25.645908"
+    },
+    "519860": {
+      "appid": 519860,
+      "name": "DUSK",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T22:58:27.117573"
+    },
+    "519870": {
+      "appid": 519870,
+      "name": "Flying Pengy",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T22:58:27.239901"
+    },
+    "519980": {
+      "appid": 519980,
+      "name": "Trains VR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T22:58:27.625360"
+    },
+    "520210": {
+      "appid": 520210,
+      "name": "DreamDesk VR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T22:58:28.559604"
+    },
+    "520440": {
+      "appid": 520440,
+      "name": "GUILTY GEAR Xrd REV 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T22:58:30.083278"
+    },
+    "520670": {
+      "appid": 520670,
+      "name": "Strikers Edge",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T22:58:31.330047"
+    },
+    "520850": {
+      "appid": 520850,
+      "name": "尘沙惑",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T22:58:32.228537"
+    },
+    "520930": {
+      "appid": 520930,
+      "name": "Pong It! VR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T22:58:32.652794"
+    },
+    "520940": {
+      "appid": 520940,
+      "name": "MX vs ATV All Out",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T22:58:32.912669"
+    },
+    "520950": {
+      "appid": 520950,
+      "name": "DRIFT CE",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T22:58:33.046229"
+    },
+    "521100": {
+      "appid": 521100,
+      "name": "MinosMaze - The Minotaur's Labyrinth",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T22:58:33.573364"
+    },
+    "521130": {
+      "appid": 521130,
+      "name": "Dots eXtreme",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T22:58:33.844456"
+    },
+    "521150": {
+      "appid": 521150,
+      "name": "Another Brick in The Mall",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T22:58:34.106650"
+    },
+    "521200": {
+      "appid": 521200,
+      "name": "Epic Battle Fantasy 3",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T22:58:34.236326"
+    },
+    "521250": {
+      "appid": 521250,
+      "name": "Blue Screen Adventures",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T22:58:34.620893"
+    },
+    "521330": {
+      "appid": 521330,
+      "name": "Skull Ball Heroes",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T22:58:35.163091"
+    },
+    "521340": {
+      "appid": 521340,
+      "name": "True or False",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T22:58:35.317085"
+    },
+    "521560": {
+      "appid": 521560,
+      "name": "The Mystery Of Woolley Mountain",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T22:58:36.576832"
+    },
+    "521620": {
+      "appid": 521620,
+      "name": "炼金术师大冒险",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T22:58:37.163915"
+    },
+    "521890": {
+      "appid": 521890,
+      "name": "Hello Neighbor",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T22:58:39.431803"
+    },
+    "521950": {
+      "appid": 521950,
+      "name": "Bullet Sorrow VR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-04T22:58:39.772528"
+    },
+    "522210": {
+      "appid": 522210,
+      "name": "连环清洁工 ",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-04T22:58:41.420770"
     }
   }
 }
