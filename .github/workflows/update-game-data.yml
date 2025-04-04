@@ -4,6 +4,11 @@ on:
     - cron: '*/2 * * * *'  # 每 2 分钟运行一次
   workflow_dispatch:
 
+# 新增并发控制
+concurrency:
+  group: ${{ github.workflow }}
+  cancel-in-progress: true
+
 jobs:
   update:
     runs-on: ubuntu-latest
