@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-05T15:36:49.738238"
+    "updated": "2025-04-05T15:42:16.526406"
   },
   "games": {
     "570": {
@@ -72152,6 +72152,398 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-04-05T15:36:49.034641"
+    },
+    "786150": {
+      "appid": 786150,
+      "name": "Pad of Time",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:41:44.374671"
+    },
+    "786420": {
+      "appid": 786420,
+      "name": "Fantastic Sea",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:41:47.066695"
+    },
+    "786470": {
+      "appid": 786470,
+      "name": "Border closure 边境封闭",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:41:47.575294"
+    },
+    "786510": {
+      "appid": 786510,
+      "name": "Oracle of Forgotten Testament",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:41:48.034474"
+    },
+    "786520": {
+      "appid": 786520,
+      "name": "SAO Utils: Beta",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:41:48.219299"
+    },
+    "786580": {
+      "appid": 786580,
+      "name": "Gleaner Heights",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T15:41:48.685823"
+    },
+    "786940": {
+      "appid": 786940,
+      "name": "Afternoon empire",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:41:51.079402"
+    },
+    "786990": {
+      "appid": 786990,
+      "name": "SpellKeeper",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:41:51.824888"
+    },
+    "787110": {
+      "appid": 787110,
+      "name": "Usotsuki Game / 谎言游戏",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:41:52.592110"
+    },
+    "787120": {
+      "appid": 787120,
+      "name": "没有明天",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:41:52.906048"
+    },
+    "787370": {
+      "appid": 787370,
+      "name": "Fable of the Sword",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:41:54.442435"
+    },
+    "787400": {
+      "appid": 787400,
+      "name": "Fantasy Versus",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T15:41:54.604973"
+    },
+    "787450": {
+      "appid": 787450,
+      "name": "KOEWOTAYORINI / 声之寄托",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:41:54.882828"
+    },
+    "787480": {
+      "appid": 787480,
+      "name": "Phoenix Wright: Ace Attorney Trilogy",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T15:41:55.307993"
+    },
+    "787550": {
+      "appid": 787550,
+      "name": "FARHOME",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:41:55.715996"
+    },
+    "787640": {
+      "appid": 787640,
+      "name": "Shoppe Keep 2 Character Creator Preview",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:41:56.226084"
+    },
+    "787690": {
+      "appid": 787690,
+      "name": "Math Hero",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:41:56.542226"
+    },
+    "787720": {
+      "appid": 787720,
+      "name": "Block'hood VR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:41:56.798117"
+    },
+    "787740": {
+      "appid": 787740,
+      "name": "Construction Simulator 2 US - Pocket Edition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:41:57.144643"
+    },
+    "787790": {
+      "appid": 787790,
+      "name": "Epic Roller Coasters",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:41:57.874014"
+    },
+    "787810": {
+      "appid": 787810,
+      "name": "痞子英雄：泰索斯遗迹",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T15:41:57.980612"
+    },
+    "787850": {
+      "appid": 787850,
+      "name": "圣女之歌ZERO 2：鳞痕誓约",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:41:58.320574"
+    },
+    "787860": {
+      "appid": 787860,
+      "name": "Farming Simulator 19",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T15:41:58.448032"
+    },
+    "787920": {
+      "appid": 787920,
+      "name": "Running Fable",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:41:58.665777"
+    },
+    "788100": {
+      "appid": 788100,
+      "name": "霓虹深渊",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T15:42:00.948327"
+    },
+    "788150": {
+      "appid": 788150,
+      "name": "Go Away My Fat",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:42:01.447021"
+    },
+    "788180": {
+      "appid": 788180,
+      "name": "City of sky",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:42:01.634966"
+    },
+    "788210": {
+      "appid": 788210,
+      "name": "The Bonfire: Forsaken Lands",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T15:42:02.049129"
+    },
+    "788330": {
+      "appid": 788330,
+      "name": "Varion",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:42:03.008666"
+    },
+    "788420": {
+      "appid": 788420,
+      "name": "Potion Explosion",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:42:03.512905"
+    },
+    "788490": {
+      "appid": 788490,
+      "name": "StackFortress",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:42:03.986394"
+    },
+    "788630": {
+      "appid": 788630,
+      "name": "Gaia Beyond",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T15:42:04.865544"
+    },
+    "788640": {
+      "appid": 788640,
+      "name": "Dungeon Stars",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:42:05.029784"
+    },
+    "788720": {
+      "appid": 788720,
+      "name": "Naturallandscape - GuilinLandscape (自然景观系列-桂林山水)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:42:05.557665"
+    },
+    "788770": {
+      "appid": 788770,
+      "name": "Meteor 60 Seconds!",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:42:06.315617"
+    },
+    "788800": {
+      "appid": 788800,
+      "name": "Magic Tower 3D",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:42:06.420142"
+    },
+    "788820": {
+      "appid": 788820,
+      "name": "Lightning War",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:42:06.689922"
+    },
+    "788890": {
+      "appid": 788890,
+      "name": "Tomato Jones - Episode 3",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:42:06.982181"
+    },
+    "788970": {
+      "appid": 788970,
+      "name": "隐藏物品游戏 - 海底两万里",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T15:42:07.962127"
+    },
+    "789050": {
+      "appid": 789050,
+      "name": "Paradise",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:42:08.209499"
+    },
+    "789220": {
+      "appid": 789220,
+      "name": "★ Fallalypse ★ Death or Cress ♝",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:42:09.044134"
+    },
+    "789740": {
+      "appid": 789740,
+      "name": "Maidens of a Hollow Dream",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:42:12.628896"
+    },
+    "789760": {
+      "appid": 789760,
+      "name": "DEAD OR SCHOOL",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:42:13.011675"
+    },
+    "789770": {
+      "appid": 789770,
+      "name": "星际角斗场",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:42:13.126870"
+    },
+    "789900": {
+      "appid": 789900,
+      "name": "My Little Riding Champion",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:42:14.156910"
+    },
+    "789920": {
+      "appid": 789920,
+      "name": "Poopdie",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:42:14.511674"
+    },
+    "789940": {
+      "appid": 789940,
+      "name": "UNYIELDER -不屈者-",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:42:14.733876"
+    },
+    "789950": {
+      "appid": 789950,
+      "name": "INFERNIUM",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:42:14.850086"
+    },
+    "790020": {
+      "appid": 790020,
+      "name": "Lightfield HYPER Edition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:42:15.406743"
     }
   }
 }
