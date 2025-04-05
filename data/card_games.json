@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-05T09:47:20.971049"
+    "updated": "2025-04-05T10:00:25.487573"
   },
   "games": {
     "570": {
@@ -60982,6 +60982,150 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-05T09:47:20.326236"
+    },
+    "673850": {
+      "appid": 673850,
+      "name": "Neofeud",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T09:59:55.142202"
+    },
+    "673880": {
+      "appid": 673880,
+      "name": "Warhammer 40,000: Mechanicus",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T09:59:55.423815"
+    },
+    "673940": {
+      "appid": 673940,
+      "name": "Dragon Glory",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T09:59:56.450952"
+    },
+    "673950": {
+      "appid": 673950,
+      "name": "Farm Together",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T09:59:56.607885"
+    },
+    "674140": {
+      "appid": 674140,
+      "name": "Bugsnax",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T09:59:57.960608"
+    },
+    "674520": {
+      "appid": 674520,
+      "name": "Fight'N Rage",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T10:00:01.566964"
+    },
+    "674750": {
+      "appid": 674750,
+      "name": "Yet Another Zombie Defense HD",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T10:00:02.617897"
+    },
+    "675010": {
+      "appid": 675010,
+      "name": "MudRunner",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T10:00:04.410493"
+    },
+    "675170": {
+      "appid": 675170,
+      "name": "303 Squadron: Battle of Britain",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T10:00:05.615188"
+    },
+    "675240": {
+      "appid": 675240,
+      "name": "Shining Song Starnova",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T10:00:06.213972"
+    },
+    "676090": {
+      "appid": 676090,
+      "name": "Legend Of Mercy 神医魔导",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T10:00:11.831014"
+    },
+    "676420": {
+      "appid": 676420,
+      "name": "SiNKR / 冰钩",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T10:00:13.711729"
+    },
+    "676630": {
+      "appid": 676630,
+      "name": "Attentat 1942",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T10:00:15.815241"
+    },
+    "677020": {
+      "appid": 677020,
+      "name": "Eventide 3: Legacy of Legends",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T10:00:19.477181"
+    },
+    "677120": {
+      "appid": 677120,
+      "name": "Heroes of Hammerwatch",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T10:00:20.191980"
+    },
+    "677160": {
+      "appid": 677160,
+      "name": "We Were Here Too",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T10:00:20.332125"
+    },
+    "677340": {
+      "appid": 677340,
+      "name": "The Colonists",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T10:00:22.122102"
+    },
+    "677730": {
+      "appid": 677730,
+      "name": "Karmasutra",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T10:00:23.806098"
     }
   }
 }
