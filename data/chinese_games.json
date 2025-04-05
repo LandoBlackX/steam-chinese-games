@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-05T10:29:25.843618"
+    "updated": "2025-04-05T10:44:00.001833"
   },
   "games": {
     "570": {
@@ -63944,6 +63944,350 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-04-05T10:29:22.418312"
+    },
+    "682340": {
+      "appid": 682340,
+      "name": "Slice&Dice",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T10:43:29.449904"
+    },
+    "682360": {
+      "appid": 682360,
+      "name": "Deadly Rescue",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T10:43:29.892610"
+    },
+    "682470": {
+      "appid": 682470,
+      "name": "真实幻象 / Behind The Truth",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T10:43:30.548428"
+    },
+    "682480": {
+      "appid": 682480,
+      "name": "恒水中学连环虐杀 / The untold story of hengshui school",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T10:43:30.799970"
+    },
+    "682490": {
+      "appid": 682490,
+      "name": "鬼山 / A Ghost Around Me",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T10:43:31.054169"
+    },
+    "682500": {
+      "appid": 682500,
+      "name": "绝望游戏 / Desperate game",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T10:43:31.188122"
+    },
+    "682510": {
+      "appid": 682510,
+      "name": "以罪之名 / In the name of sin",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T10:43:31.323301"
+    },
+    "682530": {
+      "appid": 682530,
+      "name": "MarZ: Tactical Base Defense",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T10:43:31.479723"
+    },
+    "682670": {
+      "appid": 682670,
+      "name": "初颜 - The Prototype",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T10:43:32.903873"
+    },
+    "682780": {
+      "appid": 682780,
+      "name": "Breaking Good",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T10:43:33.596073"
+    },
+    "682810": {
+      "appid": 682810,
+      "name": "GUTS",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T10:43:33.741237"
+    },
+    "682990": {
+      "appid": 682990,
+      "name": "Drug Dealer Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T10:43:35.076508"
+    },
+    "683190": {
+      "appid": 683190,
+      "name": "Cold Comfort",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T10:43:36.327472"
+    },
+    "683240": {
+      "appid": 683240,
+      "name": "Apocalypse Knights 2.0 - The Angel Awakens",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T10:43:36.920289"
+    },
+    "683320": {
+      "appid": 683320,
+      "name": "GRIS",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T10:43:37.682203"
+    },
+    "683530": {
+      "appid": 683530,
+      "name": "FreeFly Burning",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T10:43:38.683211"
+    },
+    "683680": {
+      "appid": 683680,
+      "name": "暴走熊孩",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T10:43:39.543222"
+    },
+    "683770": {
+      "appid": 683770,
+      "name": "Rover Builder",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T10:43:40.202710"
+    },
+    "683940": {
+      "appid": 683940,
+      "name": "Lawgivers",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T10:43:41.799833"
+    },
+    "684170": {
+      "appid": 684170,
+      "name": "Hexlide",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T10:43:42.885611"
+    },
+    "684250": {
+      "appid": 684250,
+      "name": "月之暗面 The Dark Side Of The Moon",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T10:43:43.418950"
+    },
+    "684260": {
+      "appid": 684260,
+      "name": "Phantom Warfare",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T10:43:43.585687"
+    },
+    "684410": {
+      "appid": 684410,
+      "name": "Bridge Constructor Portal",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T10:43:44.697861"
+    },
+    "684430": {
+      "appid": 684430,
+      "name": "JU",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T10:43:44.971275"
+    },
+    "684450": {
+      "appid": 684450,
+      "name": "Surviving the Aftermath",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T10:43:45.119009"
+    },
+    "684490": {
+      "appid": 684490,
+      "name": "MonsterS in haha Island (群妖志)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T10:43:45.528827"
+    },
+    "684530": {
+      "appid": 684530,
+      "name": "Lance A Lot: Enhanced Edition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T10:43:45.783705"
+    },
+    "684580": {
+      "appid": 684580,
+      "name": "Shoppe Keep 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T10:43:46.237900"
+    },
+    "684620": {
+      "appid": 684620,
+      "name": "JetX VR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T10:43:46.607610"
+    },
+    "684680": {
+      "appid": 684680,
+      "name": "Polygoneer",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T10:43:46.880604"
+    },
+    "685300": {
+      "appid": 685300,
+      "name": "Portrait Wizard",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T10:43:50.236975"
+    },
+    "685340": {
+      "appid": 685340,
+      "name": "Delivery from the Pain:Survival / 末日方舟:生存",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T10:43:50.687696"
+    },
+    "685680": {
+      "appid": 685680,
+      "name": "Sakura Gamer",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T10:43:51.988754"
+    },
+    "685690": {
+      "appid": 685690,
+      "name": "Guns'n'Stories: Bulletproof VR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T10:43:52.162008"
+    },
+    "685750": {
+      "appid": 685750,
+      "name": "The soldier in the mine",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T10:43:52.816595"
+    },
+    "686110": {
+      "appid": 686110,
+      "name": "Robot Heroes",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T10:43:55.156724"
+    },
+    "686200": {
+      "appid": 686200,
+      "name": "破门而入：行动小队",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T10:43:55.287050"
+    },
+    "686260": {
+      "appid": 686260,
+      "name": "Forged Battalion",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T10:43:55.568483"
+    },
+    "686360": {
+      "appid": 686360,
+      "name": "Dungeons & Treasure VR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T10:43:56.297558"
+    },
+    "686570": {
+      "appid": 686570,
+      "name": "Freedom Defender",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T10:43:57.880399"
+    },
+    "686630": {
+      "appid": 686630,
+      "name": "Bricks In The Box",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T10:43:58.448839"
+    },
+    "686810": {
+      "appid": 686810,
+      "name": "人间地狱",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T10:43:59.586021"
+    },
+    "686900": {
+      "appid": 686900,
+      "name": "Bronze Age - HD Edition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T10:43:59.885019"
     }
   }
 }

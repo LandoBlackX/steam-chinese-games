@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-05T10:29:25.843618"
+    "updated": "2025-04-05T10:44:00.001833"
   },
   "games": {
     "570": {
@@ -61334,6 +61334,126 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-05T10:29:22.273147"
+    },
+    "682450": {
+      "appid": 682450,
+      "name": "Garrison: Archangel",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T10:43:30.406120"
+    },
+    "683280": {
+      "appid": 683280,
+      "name": "Omega Quintet",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T10:43:37.238609"
+    },
+    "683320": {
+      "appid": 683320,
+      "name": "GRIS",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T10:43:37.682203"
+    },
+    "683830": {
+      "appid": 683830,
+      "name": "Weable",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T10:43:40.822699"
+    },
+    "684410": {
+      "appid": 684410,
+      "name": "Bridge Constructor Portal",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T10:43:44.697861"
+    },
+    "684580": {
+      "appid": 684580,
+      "name": "Shoppe Keep 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T10:43:46.237900"
+    },
+    "684680": {
+      "appid": 684680,
+      "name": "Polygoneer",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T10:43:46.880604"
+    },
+    "685400": {
+      "appid": 685400,
+      "name": "Skelly Selest",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T10:43:51.076088"
+    },
+    "685420": {
+      "appid": 685420,
+      "name": "Grace of Zordan",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T10:43:51.194272"
+    },
+    "685670": {
+      "appid": 685670,
+      "name": "Know by heart",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T10:43:51.857451"
+    },
+    "685680": {
+      "appid": 685680,
+      "name": "Sakura Gamer",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T10:43:51.988754"
+    },
+    "685690": {
+      "appid": 685690,
+      "name": "Guns'n'Stories: Bulletproof VR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T10:43:52.162008"
+    },
+    "686200": {
+      "appid": 686200,
+      "name": "破门而入：行动小队",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T10:43:55.287050"
+    },
+    "686680": {
+      "appid": 686680,
+      "name": "Computer Tycoon",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T10:43:58.943378"
+    },
+    "686720": {
+      "appid": 686720,
+      "name": "SaGa SCARLET GRACE: AMBITIONS™",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T10:43:59.146540"
     }
   }
 }
