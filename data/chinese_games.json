@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-05T16:30:20.508112"
+    "updated": "2025-04-05T16:47:30.634734"
   },
   "games": {
     "570": {
@@ -73688,6 +73688,422 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-04-05T16:30:20.388581"
+    },
+    "804560": {
+      "appid": 804560,
+      "name": "HiPanda",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T16:47:00.383004"
+    },
+    "804610": {
+      "appid": 804610,
+      "name": "MONMUSU * FIGHT!",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T16:47:00.716460"
+    },
+    "804620": {
+      "appid": 804620,
+      "name": "Boxing Fighter : Super punch",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T16:47:01.058295"
+    },
+    "804700": {
+      "appid": 804700,
+      "name": "The House in Fata Morgana: A Requiem for Innocence",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T16:47:01.473947"
+    },
+    "804730": {
+      "appid": 804730,
+      "name": "Third Front: WWII",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T16:47:01.609442"
+    },
+    "804780": {
+      "appid": 804780,
+      "name": "VRでレムと異世界生活-膝枕&添寝編",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T16:47:01.757837"
+    },
+    "804850": {
+      "appid": 804850,
+      "name": "Pax Nova",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T16:47:02.123253"
+    },
+    "804900": {
+      "appid": 804900,
+      "name": "Cat's Bar",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T16:47:02.677053"
+    },
+    "805270": {
+      "appid": 805270,
+      "name": "Playcraft",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T16:47:04.910441"
+    },
+    "805330": {
+      "appid": 805330,
+      "name": "AngeliaLost",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T16:47:05.187280"
+    },
+    "805380": {
+      "appid": 805380,
+      "name": "Maiden City: The Last Collateral Damage",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T16:47:05.939468"
+    },
+    "805420": {
+      "appid": 805420,
+      "name": "Stack & Crack",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T16:47:06.297941"
+    },
+    "805540": {
+      "appid": 805540,
+      "name": "Gun Road",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T16:47:07.323315"
+    },
+    "805550": {
+      "appid": 805550,
+      "name": "神力科莎：竞速 Assetto Corsa Competizione",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T16:47:07.469231"
+    },
+    "805590": {
+      "appid": 805590,
+      "name": "ARMORED HEAD",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T16:47:07.608746"
+    },
+    "805660": {
+      "appid": 805660,
+      "name": "Rad Rodgers - Radical Edition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T16:47:07.900603"
+    },
+    "805710": {
+      "appid": 805710,
+      "name": "Alien Worms Invasion",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T16:47:08.179026"
+    },
+    "805760": {
+      "appid": 805760,
+      "name": "Désiré",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T16:47:08.463897"
+    },
+    "805770": {
+      "appid": 805770,
+      "name": "我的赛车生涯/My Racing Career",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T16:47:08.596833"
+    },
+    "805850": {
+      "appid": 805850,
+      "name": "Wrecked",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T16:47:09.384873"
+    },
+    "805900": {
+      "appid": 805900,
+      "name": "Metal Division",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T16:47:10.032028"
+    },
+    "805920": {
+      "appid": 805920,
+      "name": "Seek Etyliv",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T16:47:10.194193"
+    },
+    "805940": {
+      "appid": 805940,
+      "name": "RUSSIA BATTLEGROUNDS",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T16:47:10.334833"
+    },
+    "805990": {
+      "appid": 805990,
+      "name": "看见我~See Me",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T16:47:10.831208"
+    },
+    "806020": {
+      "appid": 806020,
+      "name": "Milky Way Map",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T16:47:11.123018"
+    },
+    "806140": {
+      "appid": 806140,
+      "name": "Achievements printer",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T16:47:11.416452"
+    },
+    "806540": {
+      "appid": 806540,
+      "name": "[色即是空]Away from beauty",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T16:47:13.786054"
+    },
+    "806560": {
+      "appid": 806560,
+      "name": "VRでエミリアと異世界生活-膝枕&添寝編",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T16:47:14.106640"
+    },
+    "806740": {
+      "appid": 806740,
+      "name": "Fei Duanmu VS Kobayashi 端木斐 VS 小林正雪",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T16:47:15.146369"
+    },
+    "806850": {
+      "appid": 806850,
+      "name": "aMAZE Gears",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T16:47:16.147385"
+    },
+    "806900": {
+      "appid": 806900,
+      "name": "Them Bombs",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T16:47:16.579891"
+    },
+    "806950": {
+      "appid": 806950,
+      "name": "Victory At Sea Pacific",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T16:47:17.158529"
+    },
+    "806960": {
+      "appid": 806960,
+      "name": "Dr. Cares - Amy's Pet Clinic",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T16:47:17.299912"
+    },
+    "807070": {
+      "appid": 807070,
+      "name": "Attack of the Gigant Zombie vs Unity chan",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T16:47:18.036259"
+    },
+    "807120": {
+      "appid": 807120,
+      "name": "Iratus: Lord of the Dead",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T16:47:18.209564"
+    },
+    "807230": {
+      "appid": 807230,
+      "name": "Silenced: The House",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T16:47:18.638183"
+    },
+    "808010": {
+      "appid": 808010,
+      "name": "Critadel",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T16:47:20.742397"
+    },
+    "808770": {
+      "appid": 808770,
+      "name": "Headspun",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T16:47:23.386306"
+    },
+    "808870": {
+      "appid": 808870,
+      "name": "Multiple Views Objects 多视体",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T16:47:23.853174"
+    },
+    "808990": {
+      "appid": 808990,
+      "name": "RoboWorlD tactics",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T16:47:24.620783"
+    },
+    "809050": {
+      "appid": 809050,
+      "name": "侦探福尔摩斯: 诱捕猎人 - 隐藏物品游戏",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T16:47:25.333271"
+    },
+    "809060": {
+      "appid": 809060,
+      "name": "噩梦初醒 - REVEIL",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T16:47:25.489202"
+    },
+    "809140": {
+      "appid": 809140,
+      "name": "Cliff Empire",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T16:47:26.097193"
+    },
+    "809210": {
+      "appid": 809210,
+      "name": "LifeZ - Survival",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T16:47:26.637290"
+    },
+    "809230": {
+      "appid": 809230,
+      "name": "统一指挥2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T16:47:26.918317"
+    },
+    "809250": {
+      "appid": 809250,
+      "name": "BEKKOUAME",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T16:47:27.187421"
+    },
+    "809280": {
+      "appid": 809280,
+      "name": "Grimmwood - They Come at Night",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T16:47:27.497334"
+    },
+    "809310": {
+      "appid": 809310,
+      "name": "Sipho",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T16:47:27.647390"
+    },
+    "809380": {
+      "appid": 809380,
+      "name": "MagicCat",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T16:47:28.350818"
+    },
+    "809450": {
+      "appid": 809450,
+      "name": "❂ Hexaluga ❂ Witch Hunter's Travelling Castle ♉",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T16:47:28.902039"
+    },
+    "809550": {
+      "appid": 809550,
+      "name": "Death from Unknown: Survival",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T16:47:29.975727"
+    },
+    "809640": {
+      "appid": 809640,
+      "name": "尺子和橡皮",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T16:47:30.489800"
     }
   }
 }

@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-05T16:30:20.508112"
+    "updated": "2025-04-05T16:47:30.634734"
   },
   "games": {
     "570": {
@@ -64542,6 +64542,142 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-04-05T16:30:17.941475"
+    },
+    "804730": {
+      "appid": 804730,
+      "name": "Third Front: WWII",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T16:47:01.609442"
+    },
+    "804850": {
+      "appid": 804850,
+      "name": "Pax Nova",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T16:47:02.123253"
+    },
+    "804870": {
+      "appid": 804870,
+      "name": "Armed to the Gears",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T16:47:02.406001"
+    },
+    "805590": {
+      "appid": 805590,
+      "name": "ARMORED HEAD",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T16:47:07.608746"
+    },
+    "805660": {
+      "appid": 805660,
+      "name": "Rad Rodgers - Radical Edition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T16:47:07.900603"
+    },
+    "805940": {
+      "appid": 805940,
+      "name": "RUSSIA BATTLEGROUNDS",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T16:47:10.334833"
+    },
+    "806140": {
+      "appid": 806140,
+      "name": "Achievements printer",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T16:47:11.416452"
+    },
+    "806530": {
+      "appid": 806530,
+      "name": "Unending Dusk",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T16:47:13.621096"
+    },
+    "807120": {
+      "appid": 807120,
+      "name": "Iratus: Lord of the Dead",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T16:47:18.209564"
+    },
+    "807140": {
+      "appid": 807140,
+      "name": "Marble Run 2D",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T16:47:18.344807"
+    },
+    "808800": {
+      "appid": 808800,
+      "name": "Star Singularity",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T16:47:23.530832"
+    },
+    "809020": {
+      "appid": 809020,
+      "name": "ZeroRanger",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T16:47:25.045840"
+    },
+    "809050": {
+      "appid": 809050,
+      "name": "侦探福尔摩斯: 诱捕猎人 - 隐藏物品游戏",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T16:47:25.333271"
+    },
+    "809060": {
+      "appid": 809060,
+      "name": "噩梦初醒 - REVEIL",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T16:47:25.489202"
+    },
+    "809230": {
+      "appid": 809230,
+      "name": "统一指挥2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T16:47:26.918317"
+    },
+    "809280": {
+      "appid": 809280,
+      "name": "Grimmwood - They Come at Night",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T16:47:27.497334"
+    },
+    "809440": {
+      "appid": 809440,
+      "name": "Protolife",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T16:47:28.761639"
     }
   }
 }
