@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-05T11:19:19.352439"
+    "updated": "2025-04-05T11:32:55.603427"
   },
   "games": {
     "570": {
@@ -65040,6 +65040,454 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-04-05T11:19:19.351024"
+    },
+    "697130": {
+      "appid": 697130,
+      "name": "The 9th Gate",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T11:32:25.581690"
+    },
+    "697160": {
+      "appid": 697160,
+      "name": "Pixel To The West",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T11:32:25.853289"
+    },
+    "697320": {
+      "appid": 697320,
+      "name": "Kung Fu All-Star VR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T11:32:26.667537"
+    },
+    "697630": {
+      "appid": 697630,
+      "name": "WARMA",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T11:32:28.517181"
+    },
+    "698080": {
+      "appid": 698080,
+      "name": "Escape Dead Earth",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T11:32:32.370210"
+    },
+    "698160": {
+      "appid": 698160,
+      "name": "DinosaurIsland",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T11:32:32.926078"
+    },
+    "698340": {
+      "appid": 698340,
+      "name": "沙漠飞车 Desert Racer",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T11:32:33.505858"
+    },
+    "698450": {
+      "appid": 698450,
+      "name": "Midnight Quest",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T11:32:34.133576"
+    },
+    "698480": {
+      "appid": 698480,
+      "name": "Hippo Sports",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T11:32:34.289680"
+    },
+    "698540": {
+      "appid": 698540,
+      "name": "Dungeon Warfare 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T11:32:34.703138"
+    },
+    "698600": {
+      "appid": 698600,
+      "name": "Tooth and Claw",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T11:32:35.129499"
+    },
+    "698640": {
+      "appid": 698640,
+      "name": "Deep Sky Derelicts",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T11:32:35.559777"
+    },
+    "698670": {
+      "appid": 698670,
+      "name": "Scorn",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T11:32:36.010836"
+    },
+    "698830": {
+      "appid": 698830,
+      "name": "Puzzle Dating",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T11:32:36.844578"
+    },
+    "698870": {
+      "appid": 698870,
+      "name": "元能失控 Metaverse Keeper",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T11:32:36.987259"
+    },
+    "698880": {
+      "appid": 698880,
+      "name": "Slash/Dots.",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T11:32:37.139594"
+    },
+    "698950": {
+      "appid": 698950,
+      "name": "Chaos and the White Robot",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T11:32:37.404723"
+    },
+    "699080": {
+      "appid": 699080,
+      "name": "Jake's Love Story",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T11:32:38.359426"
+    },
+    "699130": {
+      "appid": 699130,
+      "name": "World War Z",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T11:32:38.633811"
+    },
+    "699170": {
+      "appid": 699170,
+      "name": "Fell Seal: Arbiter's Mark",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T11:32:39.049796"
+    },
+    "699180": {
+      "appid": 699180,
+      "name": "Human-powered spacecraft",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T11:32:39.183162"
+    },
+    "699540": {
+      "appid": 699540,
+      "name": "Argonus and the Gods of Stone",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T11:32:40.586218"
+    },
+    "699600": {
+      "appid": 699600,
+      "name": "PEG",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T11:32:41.198873"
+    },
+    "699670": {
+      "appid": 699670,
+      "name": "Feudal Alloy",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T11:32:41.334853"
+    },
+    "699700": {
+      "appid": 699700,
+      "name": "DYING: Reborn",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T11:32:41.606195"
+    },
+    "699710": {
+      "appid": 699710,
+      "name": "蔷花红莲：记忆的碎片",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T11:32:41.770944"
+    },
+    "699740": {
+      "appid": 699740,
+      "name": "BANNERMEN",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T11:32:42.041102"
+    },
+    "699760": {
+      "appid": 699760,
+      "name": "Triple Otakus Puzzle",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T11:32:42.174154"
+    },
+    "699780": {
+      "appid": 699780,
+      "name": "Endless Fables 2: Frozen Path",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T11:32:42.464005"
+    },
+    "699920": {
+      "appid": 699920,
+      "name": "Despotism 3k",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T11:32:43.288305"
+    },
+    "699970": {
+      "appid": 699970,
+      "name": "Breath",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T11:32:43.756482"
+    },
+    "700030": {
+      "appid": 700030,
+      "name": "Life is Feudal: MMO",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T11:32:44.162097"
+    },
+    "700160": {
+      "appid": 700160,
+      "name": "Semblance",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T11:32:44.869764"
+    },
+    "700210": {
+      "appid": 700210,
+      "name": "ONE™ Legacy",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T11:32:45.257945"
+    },
+    "700330": {
+      "appid": 700330,
+      "name": "SCP秘密实验室 / SCP: Secret Laboratory",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T11:32:45.820623"
+    },
+    "700360": {
+      "appid": 700360,
+      "name": "KnightOut",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T11:32:46.110105"
+    },
+    "700440": {
+      "appid": 700440,
+      "name": "Jellyfish",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T11:32:46.391638"
+    },
+    "700490": {
+      "appid": 700490,
+      "name": "玄龙棋MysteryChess",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T11:32:46.947075"
+    },
+    "700510": {
+      "appid": 700510,
+      "name": "岚零之风 - Wind Horizon",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T11:32:47.077488"
+    },
+    "700520": {
+      "appid": 700520,
+      "name": "Shift Quantum - A Cyber Noir Puzzle Platformer",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T11:32:47.235078"
+    },
+    "700600": {
+      "appid": 700600,
+      "name": "Evil Genius 2: World Domination",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T11:32:47.946925"
+    },
+    "700750": {
+      "appid": 700750,
+      "name": "The Battle Of Mahjong",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T11:32:48.962402"
+    },
+    "700770": {
+      "appid": 700770,
+      "name": "ZoneDriver",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T11:32:49.096089"
+    },
+    "701160": {
+      "appid": 701160,
+      "name": "王国：两位君主",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T11:32:50.746524"
+    },
+    "701380": {
+      "appid": 701380,
+      "name": "El Tango de la Muerte",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T11:32:51.568299"
+    },
+    "701420": {
+      "appid": 701420,
+      "name": "根神京姬 后篇",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T11:32:51.829332"
+    },
+    "701460": {
+      "appid": 701460,
+      "name": "Billiards",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T11:32:52.095637"
+    },
+    "701470": {
+      "appid": 701470,
+      "name": "TTV2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T11:32:52.230240"
+    },
+    "701540": {
+      "appid": 701540,
+      "name": "EVIL STAR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T11:32:52.368540"
+    },
+    "701610": {
+      "appid": 701610,
+      "name": "Dungeons of the Fallen",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T11:32:52.652250"
+    },
+    "701680": {
+      "appid": 701680,
+      "name": "The Legend of Slime",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T11:32:53.052426"
+    },
+    "701720": {
+      "appid": 701720,
+      "name": "2D Neon Cube",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T11:32:53.198022"
+    },
+    "701730": {
+      "appid": 701730,
+      "name": "Yi and the Thousand Moons",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T11:32:53.342523"
+    },
+    "701870": {
+      "appid": 701870,
+      "name": "虫后争霸 Swarm Queen",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T11:32:54.351029"
+    },
+    "701910": {
+      "appid": 701910,
+      "name": "Dawn of a Soul",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T11:32:54.917299"
+    },
+    "701930": {
+      "appid": 701930,
+      "name": "橘子班短篇集",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T11:32:55.058042"
     }
   }
 }

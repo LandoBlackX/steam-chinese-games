@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-05T11:19:19.352439"
+    "updated": "2025-04-05T11:32:55.603427"
   },
   "games": {
     "570": {
@@ -61702,6 +61702,150 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-05T11:19:17.537259"
+    },
+    "697650": {
+      "appid": 697650,
+      "name": "The 25th Ward: The Silver Case",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T11:32:28.878526"
+    },
+    "698540": {
+      "appid": 698540,
+      "name": "Dungeon Warfare 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T11:32:34.703138"
+    },
+    "698640": {
+      "appid": 698640,
+      "name": "Deep Sky Derelicts",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T11:32:35.559777"
+    },
+    "698670": {
+      "appid": 698670,
+      "name": "Scorn",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T11:32:36.010836"
+    },
+    "699170": {
+      "appid": 699170,
+      "name": "Fell Seal: Arbiter's Mark",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T11:32:39.049796"
+    },
+    "699600": {
+      "appid": 699600,
+      "name": "PEG",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T11:32:41.198873"
+    },
+    "699670": {
+      "appid": 699670,
+      "name": "Feudal Alloy",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T11:32:41.334853"
+    },
+    "699700": {
+      "appid": 699700,
+      "name": "DYING: Reborn",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T11:32:41.606195"
+    },
+    "699740": {
+      "appid": 699740,
+      "name": "BANNERMEN",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T11:32:42.041102"
+    },
+    "699780": {
+      "appid": 699780,
+      "name": "Endless Fables 2: Frozen Path",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T11:32:42.464005"
+    },
+    "699920": {
+      "appid": 699920,
+      "name": "Despotism 3k",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T11:32:43.288305"
+    },
+    "700520": {
+      "appid": 700520,
+      "name": "Shift Quantum - A Cyber Noir Puzzle Platformer",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T11:32:47.235078"
+    },
+    "700600": {
+      "appid": 700600,
+      "name": "Evil Genius 2: World Domination",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T11:32:47.946925"
+    },
+    "700740": {
+      "appid": 700740,
+      "name": "Teenage Mutant Ninja Turtles: Portal Power",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T11:32:48.836019"
+    },
+    "701380": {
+      "appid": 701380,
+      "name": "El Tango de la Muerte",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T11:32:51.568299"
+    },
+    "701470": {
+      "appid": 701470,
+      "name": "TTV2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T11:32:52.230240"
+    },
+    "701870": {
+      "appid": 701870,
+      "name": "虫后争霸 Swarm Queen",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T11:32:54.351029"
+    },
+    "701930": {
+      "appid": 701930,
+      "name": "橘子班短篇集",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T11:32:55.058042"
     }
   }
 }
