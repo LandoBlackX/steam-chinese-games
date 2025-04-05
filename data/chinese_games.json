@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-05T14:22:13.656342"
+    "updated": "2025-04-05T14:24:44.500303"
   },
   "games": {
     "570": {
@@ -68968,6 +68968,478 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-04-05T14:22:13.279650"
+    },
+    "747660": {
+      "appid": 747660,
+      "name": "Five Nights at Freddy's: Security Breach",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T14:24:16.061237"
+    },
+    "747850": {
+      "appid": 747850,
+      "name": "Warm Village 暖暖村物语",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T14:24:17.587452"
+    },
+    "747980": {
+      "appid": 747980,
+      "name": "Puzzle Blocks",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T14:24:18.136635"
+    },
+    "748020": {
+      "appid": 748020,
+      "name": "兵马俑",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T14:24:18.614184"
+    },
+    "748040": {
+      "appid": 748040,
+      "name": "State of War : Warmonger / 蓝色警戒 (Classic 2000)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T14:24:18.726168"
+    },
+    "748120": {
+      "appid": 748120,
+      "name": "Crazy Cat",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T14:24:19.290236"
+    },
+    "748150": {
+      "appid": 748150,
+      "name": "The Love Boat",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T14:24:19.517715"
+    },
+    "748300": {
+      "appid": 748300,
+      "name": "Treasure Hunter Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T14:24:19.754914"
+    },
+    "748360": {
+      "appid": 748360,
+      "name": "MY HERO ONE'S JUSTICE",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T14:24:20.241946"
+    },
+    "748370": {
+      "appid": 748370,
+      "name": "STAND OUT VR : VR Battle Royale",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T14:24:20.360680"
+    },
+    "748480": {
+      "appid": 748480,
+      "name": "我的兽耳后宫 - 解禁版",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T14:24:20.956110"
+    },
+    "748540": {
+      "appid": 748540,
+      "name": "Solitaire",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T14:24:21.322562"
+    },
+    "748780": {
+      "appid": 748780,
+      "name": "Cardinal Conclave",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T14:24:22.359596"
+    },
+    "748810": {
+      "appid": 748810,
+      "name": "Vikings On Trampolines",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T14:24:22.624817"
+    },
+    "748910": {
+      "appid": 748910,
+      "name": "SpacePig",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T14:24:23.205915"
+    },
+    "748970": {
+      "appid": 748970,
+      "name": "Zen Chess: Mate in One",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T14:24:23.554668"
+    },
+    "748980": {
+      "appid": 748980,
+      "name": "Tico",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T14:24:23.665557"
+    },
+    "749010": {
+      "appid": 749010,
+      "name": "Yatzy",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T14:24:24.020569"
+    },
+    "749200": {
+      "appid": 749200,
+      "name": "Offensive Dimensions",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T14:24:25.224897"
+    },
+    "749250": {
+      "appid": 749250,
+      "name": "7th Sector",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T14:24:25.345892"
+    },
+    "749340": {
+      "appid": 749340,
+      "name": "Chocolate makes you happy",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T14:24:25.701810"
+    },
+    "749520": {
+      "appid": 749520,
+      "name": "樱之杜†净梦者",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T14:24:26.503402"
+    },
+    "749800": {
+      "appid": 749800,
+      "name": "PixelJunk™ Monsters 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T14:24:27.893406"
+    },
+    "749840": {
+      "appid": 749840,
+      "name": "The Boogie Man",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T14:24:28.393149"
+    },
+    "749850": {
+      "appid": 749850,
+      "name": "DragonFangZ - The Rose & Dungeon of Time",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T14:24:28.575815"
+    },
+    "749870": {
+      "appid": 749870,
+      "name": "MyTD 我的塔防",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T14:24:28.893668"
+    },
+    "749880": {
+      "appid": 749880,
+      "name": "Just Jump",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T14:24:29.030438"
+    },
+    "749890": {
+      "appid": 749890,
+      "name": "The Hanged Man",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T14:24:29.245324"
+    },
+    "749960": {
+      "appid": 749960,
+      "name": "Townsmen VR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T14:24:29.884232"
+    },
+    "749980": {
+      "appid": 749980,
+      "name": "Illusion: A Tale of the Mind",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T14:24:30.137161"
+    },
+    "750130": {
+      "appid": 750130,
+      "name": "The Sinking City",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T14:24:31.270829"
+    },
+    "750210": {
+      "appid": 750210,
+      "name": "Last Anime boy: Saving loli",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T14:24:31.796219"
+    },
+    "750290": {
+      "appid": 750290,
+      "name": "Slice of Sea",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T14:24:32.217657"
+    },
+    "750440": {
+      "appid": 750440,
+      "name": "Skylight",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T14:24:32.884009"
+    },
+    "750470": {
+      "appid": 750470,
+      "name": "War Brokers",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T14:24:33.429551"
+    },
+    "750520": {
+      "appid": 750520,
+      "name": "Arcade Tycoon ™ : Simulation Game",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T14:24:33.859863"
+    },
+    "750620": {
+      "appid": 750620,
+      "name": "Naughty Elves",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T14:24:34.148406"
+    },
+    "750800": {
+      "appid": 750800,
+      "name": "Egress",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T14:24:35.360964"
+    },
+    "750850": {
+      "appid": 750850,
+      "name": "The Dream Collector",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T14:24:35.924038"
+    },
+    "750920": {
+      "appid": 750920,
+      "name": "Shadow of the Tomb Raider: Definitive Edition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T14:24:36.448551"
+    },
+    "750990": {
+      "appid": 750990,
+      "name": "NEKO-NIN exHeart +PLUS Saiha",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T14:24:36.759755"
+    },
+    "751060": {
+      "appid": 751060,
+      "name": "Ice Age Scrat's Nutty Adventure",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T14:24:36.933774"
+    },
+    "751100": {
+      "appid": 751100,
+      "name": "Nonograms Prophecy",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T14:24:37.047478"
+    },
+    "751110": {
+      "appid": 751110,
+      "name": "纵观 (OVERVIEW)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T14:24:37.331980"
+    },
+    "751320": {
+      "appid": 751320,
+      "name": "回音",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T14:24:38.630622"
+    },
+    "751340": {
+      "appid": 751340,
+      "name": "ASSAULT GUNNERS HD EDITION",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T14:24:38.913044"
+    },
+    "751440": {
+      "appid": 751440,
+      "name": "VR Kanojo / VRカノジョ",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T14:24:39.821179"
+    },
+    "751470": {
+      "appid": 751470,
+      "name": "Deadstep",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T14:24:40.115292"
+    },
+    "751500": {
+      "appid": 751500,
+      "name": "TINY METAL",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T14:24:40.487295"
+    },
+    "751550": {
+      "appid": 751550,
+      "name": "The Same Crime",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T14:24:40.863200"
+    },
+    "751630": {
+      "appid": 751630,
+      "name": "After the Fall®",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T14:24:41.270717"
+    },
+    "751640": {
+      "appid": 751640,
+      "name": "Dead Dungeon",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T14:24:41.445793"
+    },
+    "751670": {
+      "appid": 751670,
+      "name": "Cloud Chasers - Journey of Hope",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T14:24:41.604884"
+    },
+    "751690": {
+      "appid": 751690,
+      "name": "The Mammoth: A Cave Painting",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T14:24:41.943335"
+    },
+    "751780": {
+      "appid": 751780,
+      "name": "Forager",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T14:24:42.381225"
+    },
+    "751810": {
+      "appid": 751810,
+      "name": "Antimatter Drive",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T14:24:42.504262"
+    },
+    "751820": {
+      "appid": 751820,
+      "name": "Black Future '88",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T14:24:42.736895"
+    },
+    "751970": {
+      "appid": 751970,
+      "name": "Plox Neon",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T14:24:43.526235"
+    },
+    "751980": {
+      "appid": 751980,
+      "name": "Box Cats Puzzle",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T14:24:43.818876"
     }
   }
 }
