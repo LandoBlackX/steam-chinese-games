@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-05T19:53:56.274087"
+    "updated": "2025-04-05T20:19:43.656912"
   },
   "games": {
     "570": {
@@ -66062,6 +66062,110 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-05T19:53:54.964649"
+    },
+    "865680": {
+      "appid": 865680,
+      "name": "The Eternal Cylinder",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T20:19:14.638837"
+    },
+    "866010": {
+      "appid": 866010,
+      "name": "Beat Stickman: Infinity Clones",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T20:19:17.600513"
+    },
+    "866140": {
+      "appid": 866140,
+      "name": "Arise: A Simple Story",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T20:19:18.431912"
+    },
+    "866190": {
+      "appid": 866190,
+      "name": "Irony Curtain: From Matryoshka with Love",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T20:19:18.742242"
+    },
+    "866510": {
+      "appid": 866510,
+      "name": "!AnyWay!",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T20:19:20.663457"
+    },
+    "867050": {
+      "appid": 867050,
+      "name": "Endless Fables 3: Dark Moor",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T20:19:23.049744"
+    },
+    "867490": {
+      "appid": 867490,
+      "name": "Remyadry",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T20:19:25.952316"
+    },
+    "867700": {
+      "appid": 867700,
+      "name": "The Wilting Amaranth",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T20:19:27.493746"
+    },
+    "867960": {
+      "appid": 867960,
+      "name": "Remorse: The List",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T20:19:28.998087"
+    },
+    "868260": {
+      "appid": 868260,
+      "name": "Zoo Constructor",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T20:19:31.484412"
+    },
+    "868360": {
+      "appid": 868360,
+      "name": "Project Hospital",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T20:19:31.763000"
+    },
+    "869060": {
+      "appid": 869060,
+      "name": "Resort Boss: Golf",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T20:19:37.268669"
+    },
+    "869170": {
+      "appid": 869170,
+      "name": "Oneiros",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T20:19:38.193069"
     }
   }
 }

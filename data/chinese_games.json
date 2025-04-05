@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-05T19:53:56.274087"
+    "updated": "2025-04-05T20:19:43.656912"
   },
   "games": {
     "570": {
@@ -78568,6 +78568,382 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-04-05T19:53:56.272480"
+    },
+    "865680": {
+      "appid": 865680,
+      "name": "The Eternal Cylinder",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T20:19:14.638837"
+    },
+    "865800": {
+      "appid": 865800,
+      "name": "Octo Gravity",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T20:19:15.488524"
+    },
+    "865820": {
+      "appid": 865820,
+      "name": "黑蝶幻境",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T20:19:15.795624"
+    },
+    "865830": {
+      "appid": 865830,
+      "name": "灰鹰幻境",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T20:19:15.946429"
+    },
+    "865850": {
+      "appid": 865850,
+      "name": "Dehumanized",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T20:19:16.223038"
+    },
+    "865860": {
+      "appid": 865860,
+      "name": "Vein Hotel",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T20:19:16.368839"
+    },
+    "865870": {
+      "appid": 865870,
+      "name": "SpaceTone",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T20:19:16.508464"
+    },
+    "865880": {
+      "appid": 865880,
+      "name": "天岚行 - Through the Mist and Sky",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T20:19:16.687138"
+    },
+    "865930": {
+      "appid": 865930,
+      "name": "BQM - 砖块迷宫建造者",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T20:19:16.828376"
+    },
+    "865940": {
+      "appid": 865940,
+      "name": "SNK 40th ANNIVERSARY COLLECTION",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T20:19:17.167634"
+    },
+    "865980": {
+      "appid": 865980,
+      "name": "BOSSGARD",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T20:19:17.311759"
+    },
+    "866140": {
+      "appid": 866140,
+      "name": "Arise: A Simple Story",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T20:19:18.431912"
+    },
+    "866180": {
+      "appid": 866180,
+      "name": "Debris 2x1 Hentai",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T20:19:18.577415"
+    },
+    "866330": {
+      "appid": 866330,
+      "name": "Fatman Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T20:19:19.294509"
+    },
+    "866340": {
+      "appid": 866340,
+      "name": "Colonumbers",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T20:19:19.430426"
+    },
+    "866510": {
+      "appid": 866510,
+      "name": "!AnyWay!",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T20:19:20.663457"
+    },
+    "866800": {
+      "appid": 866800,
+      "name": "The Walking Dead: The Final Season",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T20:19:22.460582"
+    },
+    "867050": {
+      "appid": 867050,
+      "name": "Endless Fables 3: Dark Moor",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T20:19:23.049744"
+    },
+    "867080": {
+      "appid": 867080,
+      "name": "Stones of Yalmrith",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T20:19:23.187121"
+    },
+    "867120": {
+      "appid": 867120,
+      "name": "莉莉宫殿",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T20:19:23.453596"
+    },
+    "867140": {
+      "appid": 867140,
+      "name": "WIN THE GAME: WTF!",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T20:19:23.743246"
+    },
+    "867150": {
+      "appid": 867150,
+      "name": "InFlux Redux",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T20:19:23.932177"
+    },
+    "867180": {
+      "appid": 867180,
+      "name": "Tilesweeper",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T20:19:24.207265"
+    },
+    "867210": {
+      "appid": 867210,
+      "name": "征服之歌",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T20:19:24.366067"
+    },
+    "867290": {
+      "appid": 867290,
+      "name": "Crossroads Inn Anniversary Edition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T20:19:24.656058"
+    },
+    "867380": {
+      "appid": 867380,
+      "name": "Up Left Out",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T20:19:24.795115"
+    },
+    "867400": {
+      "appid": 867400,
+      "name": "Out of Reach: Treasure Royale",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T20:19:25.080380"
+    },
+    "867420": {
+      "appid": 867420,
+      "name": "Andor - Wrecking Dawn",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T20:19:25.210912"
+    },
+    "867490": {
+      "appid": 867490,
+      "name": "Remyadry",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T20:19:25.952316"
+    },
+    "867510": {
+      "appid": 867510,
+      "name": "PHOTON CUBE",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T20:19:26.086582"
+    },
+    "867700": {
+      "appid": 867700,
+      "name": "The Wilting Amaranth",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T20:19:27.493746"
+    },
+    "867850": {
+      "appid": 867850,
+      "name": "Turn up jeans",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T20:19:28.552728"
+    },
+    "868100": {
+      "appid": 868100,
+      "name": "小游戏世界(中国版)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T20:19:30.281235"
+    },
+    "868230": {
+      "appid": 868230,
+      "name": "Mushroom Quest",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T20:19:31.210976"
+    },
+    "868320": {
+      "appid": 868320,
+      "name": "噬元之主",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T20:19:31.620628"
+    },
+    "868360": {
+      "appid": 868360,
+      "name": "Project Hospital",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T20:19:31.763000"
+    },
+    "868770": {
+      "appid": 868770,
+      "name": "Saint Kotar: The Yellow Mask",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T20:19:35.114797"
+    },
+    "869170": {
+      "appid": 869170,
+      "name": "Oneiros",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T20:19:38.193069"
+    },
+    "869500": {
+      "appid": 869500,
+      "name": "The Book of Regrets",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T20:19:40.729751"
+    },
+    "869510": {
+      "appid": 869510,
+      "name": "召唤一些奇形怪状的东西打来打去的小游戏",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T20:19:40.894846"
+    },
+    "869540": {
+      "appid": 869540,
+      "name": "Hero Hunters - 杀手 3D 2K19",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T20:19:41.025371"
+    },
+    "869640": {
+      "appid": 869640,
+      "name": "Angry Giant",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T20:19:42.072752"
+    },
+    "869660": {
+      "appid": 869660,
+      "name": "幻世情缘",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T20:19:42.345759"
+    },
+    "869690": {
+      "appid": 869690,
+      "name": "Cat Lady - The Card Game",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T20:19:42.532769"
+    },
+    "869840": {
+      "appid": 869840,
+      "name": "羽翼的祈愿 - Feather Of Praying",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T20:19:42.965492"
+    },
+    "869870": {
+      "appid": 869870,
+      "name": "She is Mermaid",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T20:19:43.240484"
+    },
+    "869880": {
+      "appid": 869880,
+      "name": "氰化欢乐秀-末日通行证",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T20:19:43.383672"
     }
   }
 }
