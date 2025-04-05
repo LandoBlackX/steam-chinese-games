@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-05T08:41:34.873194"
+    "updated": "2025-04-05T08:54:28.727903"
   },
   "games": {
     "570": {
@@ -61824,6 +61824,334 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-05T08:41:34.600142"
+    },
+    "656800": {
+      "appid": 656800,
+      "name": "Infestus",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T08:54:04.382229"
+    },
+    "656840": {
+      "appid": 656840,
+      "name": "Death Maze",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T08:54:04.516735"
+    },
+    "656970": {
+      "appid": 656970,
+      "name": "魔法猫咪 / MagiCat",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T08:54:05.335279"
+    },
+    "657000": {
+      "appid": 657000,
+      "name": "杀戮之源 / Rising Hell",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T08:54:05.459605"
+    },
+    "657010": {
+      "appid": 657010,
+      "name": "Lucky Night: Texas Hold'em VR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T08:54:05.560807"
+    },
+    "657040": {
+      "appid": 657040,
+      "name": "The Myth Seekers: The Legacy of Vulcan",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T08:54:05.899254"
+    },
+    "657090": {
+      "appid": 657090,
+      "name": "机甲核心",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T08:54:06.744650"
+    },
+    "657240": {
+      "appid": 657240,
+      "name": "Tracks - The Train Set Game",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T08:54:07.720626"
+    },
+    "657470": {
+      "appid": 657470,
+      "name": "Take Off - The Flight Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T08:54:08.953382"
+    },
+    "657580": {
+      "appid": 657580,
+      "name": "What!? My Neighbors Are Demons!!?",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T08:54:09.633103"
+    },
+    "657790": {
+      "appid": 657790,
+      "name": "Defense of Roman Britain",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T08:54:10.497174"
+    },
+    "658260": {
+      "appid": 658260,
+      "name": "BLUE REFLECTION",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T08:54:12.027346"
+    },
+    "658470": {
+      "appid": 658470,
+      "name": "Mini Battlegrounds",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T08:54:13.341401"
+    },
+    "658500": {
+      "appid": 658500,
+      "name": "Ultra Space Battle Brawl",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T08:54:13.703250"
+    },
+    "658530": {
+      "appid": 658530,
+      "name": "灰色幻影扳机第3卷",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T08:54:13.975358"
+    },
+    "658550": {
+      "appid": 658550,
+      "name": "Zup! Zero 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T08:54:14.104769"
+    },
+    "658560": {
+      "appid": 658560,
+      "name": "Zup! 7",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T08:54:14.404957"
+    },
+    "658590": {
+      "appid": 658590,
+      "name": "She and the Light Bearer",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T08:54:14.695213"
+    },
+    "658610": {
+      "appid": 658610,
+      "name": "位面穿越者-三国传(A Bit Crosser-Three Kingdoms)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T08:54:14.942094"
+    },
+    "658630": {
+      "appid": 658630,
+      "name": "Anonymous ME",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T08:54:15.162776"
+    },
+    "658690": {
+      "appid": 658690,
+      "name": "和平之怒 / Rage In Peace",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T08:54:15.490808"
+    },
+    "658700": {
+      "appid": 658700,
+      "name": "V-Rally 4",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T08:54:15.621371"
+    },
+    "658710": {
+      "appid": 658710,
+      "name": "Pine Seekers",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T08:54:15.761607"
+    },
+    "658780": {
+      "appid": 658780,
+      "name": "Bomb Chicken",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T08:54:16.153689"
+    },
+    "658850": {
+      "appid": 658850,
+      "name": "Do Not Feed the Monkeys",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T08:54:16.770638"
+    },
+    "658870": {
+      "appid": 658870,
+      "name": "EXIT 2 - Directions",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T08:54:16.893390"
+    },
+    "658980": {
+      "appid": 658980,
+      "name": "Valnir Rok Survival RPG",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T08:54:17.401928"
+    },
+    "658990": {
+      "appid": 658990,
+      "name": "Icycle: On Thin Ice",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T08:54:17.523517"
+    },
+    "659130": {
+      "appid": 659130,
+      "name": "Shopping Tycoon",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T08:54:18.319604"
+    },
+    "659190": {
+      "appid": 659190,
+      "name": "Sorry, James",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T08:54:18.984115"
+    },
+    "659300": {
+      "appid": 659300,
+      "name": "Super Farming Boy",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T08:54:19.361193"
+    },
+    "659810": {
+      "appid": 659810,
+      "name": "bead",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T08:54:21.085270"
+    },
+    "659830": {
+      "appid": 659830,
+      "name": "The war god : The artifact",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T08:54:21.197428"
+    },
+    "659840": {
+      "appid": 659840,
+      "name": "战争机器人世界 《Warfare Robots Online》",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T08:54:21.310123"
+    },
+    "659860": {
+      "appid": 659860,
+      "name": "作业本战记（exercise book epic）",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T08:54:21.439897"
+    },
+    "659960": {
+      "appid": 659960,
+      "name": "隐世神剑传",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T08:54:22.500525"
+    },
+    "660180": {
+      "appid": 660180,
+      "name": "Seduction 誘惑",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T08:54:23.467078"
+    },
+    "660900": {
+      "appid": 660900,
+      "name": "Dark Mystery",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T08:54:26.031729"
+    },
+    "661040": {
+      "appid": 661040,
+      "name": "時間陷阱 - 隐藏物品游戏。寻物解谜。冒险游戏",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T08:54:27.135079"
+    },
+    "661190": {
+      "appid": 661190,
+      "name": "UNDEFINED",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T08:54:28.215288"
+    },
+    "661200": {
+      "appid": 661200,
+      "name": "Cymatically Muffed",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T08:54:28.470554"
     }
   }
 }

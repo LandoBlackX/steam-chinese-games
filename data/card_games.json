@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-05T08:41:34.873194"
+    "updated": "2025-04-05T08:54:28.727903"
   },
   "games": {
     "570": {
@@ -60398,6 +60398,158 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-04-05T08:41:34.753712"
+    },
+    "656880": {
+      "appid": 656880,
+      "name": "Cybercube",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T08:54:04.622548"
+    },
+    "656970": {
+      "appid": 656970,
+      "name": "魔法猫咪 / MagiCat",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T08:54:05.335279"
+    },
+    "657040": {
+      "appid": 657040,
+      "name": "The Myth Seekers: The Legacy of Vulcan",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T08:54:05.899254"
+    },
+    "657090": {
+      "appid": 657090,
+      "name": "机甲核心",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T08:54:06.744650"
+    },
+    "657200": {
+      "appid": 657200,
+      "name": "Hand Simulator",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T08:54:07.353652"
+    },
+    "657280": {
+      "appid": 657280,
+      "name": "Rytmik Studio",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T08:54:08.138051"
+    },
+    "657690": {
+      "appid": 657690,
+      "name": "The Caribbean Sail",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T08:54:10.136389"
+    },
+    "658160": {
+      "appid": 658160,
+      "name": "ClickRaid",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T08:54:11.522613"
+    },
+    "658320": {
+      "appid": 658320,
+      "name": "Oldage",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T08:54:12.280011"
+    },
+    "658530": {
+      "appid": 658530,
+      "name": "灰色幻影扳机第3卷",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T08:54:13.975358"
+    },
+    "658550": {
+      "appid": 658550,
+      "name": "Zup! Zero 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T08:54:14.104769"
+    },
+    "658560": {
+      "appid": 658560,
+      "name": "Zup! 7",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T08:54:14.404957"
+    },
+    "658620": {
+      "appid": 658620,
+      "name": "Wonderful Everyday Down the Rabbit-Hole",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T08:54:15.047297"
+    },
+    "658850": {
+      "appid": 658850,
+      "name": "Do Not Feed the Monkeys",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T08:54:16.770638"
+    },
+    "659130": {
+      "appid": 659130,
+      "name": "Shopping Tycoon",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T08:54:18.319604"
+    },
+    "659190": {
+      "appid": 659190,
+      "name": "Sorry, James",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T08:54:18.984115"
+    },
+    "659540": {
+      "appid": 659540,
+      "name": "Warsim: The Realm of Aslona",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T08:54:20.312312"
+    },
+    "660920": {
+      "appid": 660920,
+      "name": "The Warhorn",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T08:54:26.147439"
+    },
+    "661040": {
+      "appid": 661040,
+      "name": "時間陷阱 - 隐藏物品游戏。寻物解谜。冒险游戏",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T08:54:27.135079"
     }
   }
 }
