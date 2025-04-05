@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-05T06:33:07.971633"
+    "updated": "2025-04-05T06:48:50.897337"
   },
   "games": {
     "570": {
@@ -59000,6 +59000,454 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-04-05T06:33:07.630223"
+    },
+    "614150": {
+      "appid": 614150,
+      "name": "Train Harder",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T06:48:25.957162"
+    },
+    "614570": {
+      "appid": 614570,
+      "name": "Dishonored®: Death of the Outsider™",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T06:48:27.330950"
+    },
+    "614700": {
+      "appid": 614700,
+      "name": "Nightmare Grotto",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T06:48:27.783947"
+    },
+    "614860": {
+      "appid": 614860,
+      "name": "XAOC",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T06:48:28.469370"
+    },
+    "614900": {
+      "appid": 614900,
+      "name": "Devade",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T06:48:28.875853"
+    },
+    "614950": {
+      "appid": 614950,
+      "name": "Shootout on Cash Island",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T06:48:29.094054"
+    },
+    "614960": {
+      "appid": 614960,
+      "name": "NEONomicon",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T06:48:29.223342"
+    },
+    "614970": {
+      "appid": 614970,
+      "name": "Qbike: Cyberpunk Motorcycles",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T06:48:29.339724"
+    },
+    "615010": {
+      "appid": 615010,
+      "name": "Runic Rampage - Action RPG",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T06:48:29.498963"
+    },
+    "615270": {
+      "appid": 615270,
+      "name": "Star Rage VR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T06:48:30.672927"
+    },
+    "615350": {
+      "appid": 615350,
+      "name": "Scarlett Mysteries: Cursed Child",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T06:48:30.990740"
+    },
+    "615400": {
+      "appid": 615400,
+      "name": "Make It Rain: Love of Money",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T06:48:31.304667"
+    },
+    "615610": {
+      "appid": 615610,
+      "name": "Orbt XL",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T06:48:32.005625"
+    },
+    "615970": {
+      "appid": 615970,
+      "name": "Displaced",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T06:48:33.338055"
+    },
+    "616040": {
+      "appid": 616040,
+      "name": "Tales of the Tiny Planet",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T06:48:33.665749"
+    },
+    "616110": {
+      "appid": 616110,
+      "name": "SPACEPLAN",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T06:48:33.879893"
+    },
+    "616330": {
+      "appid": 616330,
+      "name": "埋葬 DIG A BOO",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T06:48:34.638450"
+    },
+    "616420": {
+      "appid": 616420,
+      "name": "Edge of Atlantis",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T06:48:34.876165"
+    },
+    "616560": {
+      "appid": 616560,
+      "name": "Ultimate Epic Battle Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T06:48:35.270164"
+    },
+    "616610": {
+      "appid": 616610,
+      "name": "GetMeBro!",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T06:48:35.543385"
+    },
+    "616700": {
+      "appid": 616700,
+      "name": "Rage of Car Force: 汽车大战动作游戏",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T06:48:36.523226"
+    },
+    "616720": {
+      "appid": 616720,
+      "name": "Live2DViewerEX",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T06:48:36.668745"
+    },
+    "616740": {
+      "appid": 616740,
+      "name": "克莉丝的炎之信仰 Cryste: the Faith of Fire Vol.1",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T06:48:36.778732"
+    },
+    "616750": {
+      "appid": 616750,
+      "name": "1943 Deadly Desert",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T06:48:36.916924"
+    },
+    "616890": {
+      "appid": 616890,
+      "name": "VR Slugger: The Toy Baseball Field",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T06:48:37.894689"
+    },
+    "617060": {
+      "appid": 617060,
+      "name": "Virush",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T06:48:38.450945"
+    },
+    "617160": {
+      "appid": 617160,
+      "name": "Home Sweet Home",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T06:48:38.564290"
+    },
+    "617290": {
+      "appid": 617290,
+      "name": "遗迹：灰烬重生",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T06:48:38.818361"
+    },
+    "617440": {
+      "appid": 617440,
+      "name": "Arcade Mayhem Juanito",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T06:48:39.407918"
+    },
+    "617480": {
+      "appid": 617480,
+      "name": "Tower of Time",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T06:48:39.624052"
+    },
+    "617550": {
+      "appid": 617550,
+      "name": "Prism",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T06:48:39.767947"
+    },
+    "617620": {
+      "appid": 617620,
+      "name": "Disturbed: Beyond Aramor",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T06:48:40.691878"
+    },
+    "617630": {
+      "appid": 617630,
+      "name": "Shadow Mist",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T06:48:40.798313"
+    },
+    "617660": {
+      "appid": 617660,
+      "name": "Dong-Jin Rice-hime（東津萌米）",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T06:48:41.130868"
+    },
+    "617670": {
+      "appid": 617670,
+      "name": "Zup! S",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T06:48:41.243483"
+    },
+    "617690": {
+      "appid": 617690,
+      "name": "无尽寒冬",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T06:48:41.466708"
+    },
+    "617750": {
+      "appid": 617750,
+      "name": "Neurowake",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T06:48:41.821540"
+    },
+    "617820": {
+      "appid": 617820,
+      "name": "7 days with Death",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T06:48:41.927628"
+    },
+    "617830": {
+      "appid": 617830,
+      "name": "SUPERHOT VR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T06:48:42.065309"
+    },
+    "618050": {
+      "appid": 618050,
+      "name": "To The Light",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T06:48:42.902307"
+    },
+    "618100": {
+      "appid": 618100,
+      "name": "Feral Blue",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T06:48:43.279023"
+    },
+    "618140": {
+      "appid": 618140,
+      "name": "Barro",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T06:48:43.410269"
+    },
+    "618210": {
+      "appid": 618210,
+      "name": "Lanternium",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T06:48:43.806196"
+    },
+    "618310": {
+      "appid": 618310,
+      "name": "AFTERGRINDER",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T06:48:44.022004"
+    },
+    "618350": {
+      "appid": 618350,
+      "name": "Personal Disco VR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T06:48:44.286874"
+    },
+    "618370": {
+      "appid": 618370,
+      "name": "Rescue Quest Gold",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T06:48:44.552030"
+    },
+    "618420": {
+      "appid": 618420,
+      "name": "【NekoGakuen】Matthiola Reverie Verse",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T06:48:44.688031"
+    },
+    "618590": {
+      "appid": 618590,
+      "name": "Zombie Buster VR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T06:48:45.701201"
+    },
+    "618600": {
+      "appid": 618600,
+      "name": "挑战立方VR(Challenge Cube VR)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T06:48:45.946021"
+    },
+    "618620": {
+      "appid": 618620,
+      "name": "Naval Armada: 战舰题材战争策略手游",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T06:48:46.161395"
+    },
+    "618650": {
+      "appid": 618650,
+      "name": "Pixel Gear",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T06:48:46.389110"
+    },
+    "618740": {
+      "appid": 618740,
+      "name": "Beat Hazard 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T06:48:46.976157"
+    },
+    "619080": {
+      "appid": 619080,
+      "name": "SOS",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T06:48:48.254967"
+    },
+    "619150": {
+      "appid": 619150,
+      "name": "while True: learn()",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T06:48:48.579176"
+    },
+    "619390": {
+      "appid": 619390,
+      "name": "Oddworld: Soulstorm Enhanced Edition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T06:48:50.157673"
+    },
+    "619470": {
+      "appid": 619470,
+      "name": "Boss Defiance - Heroic Edition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T06:48:50.545183"
     }
   }
 }
