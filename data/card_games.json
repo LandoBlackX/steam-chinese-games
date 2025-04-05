@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-05T22:12:45.480607"
+    "updated": "2025-04-05T22:33:54.364770"
   },
   "games": {
     "570": {
@@ -66854,6 +66854,102 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-05T22:12:44.705030"
+    },
+    "907250": {
+      "appid": 907250,
+      "name": "GUNGRAVE VR U.N",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T22:33:21.740309"
+    },
+    "907380": {
+      "appid": 907380,
+      "name": "The Ballad Singer",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T22:33:22.591125"
+    },
+    "907470": {
+      "appid": 907470,
+      "name": "Iris.Fall",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T22:33:23.389261"
+    },
+    "907650": {
+      "appid": 907650,
+      "name": "Stronghold: Warlords",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T22:33:24.461529"
+    },
+    "907760": {
+      "appid": 907760,
+      "name": "ARIDA: Backland's Awakening",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T22:33:25.084150"
+    },
+    "908050": {
+      "appid": 908050,
+      "name": "Summer Catchers",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T22:33:28.014099"
+    },
+    "909470": {
+      "appid": 909470,
+      "name": "Touch Type Tale ( 指尖传说 )",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T22:33:37.683822"
+    },
+    "909660": {
+      "appid": 909660,
+      "name": "《瓦格鲁斯 - 万壑之地》",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T22:33:38.636746"
+    },
+    "910490": {
+      "appid": 910490,
+      "name": "Killsquad",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T22:33:43.626815"
+    },
+    "911220": {
+      "appid": 911220,
+      "name": "Dusk Diver 酉閃町",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T22:33:48.987261"
+    },
+    "911430": {
+      "appid": 911430,
+      "name": "Good Company",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T22:33:50.925828"
+    },
+    "911510": {
+      "appid": 911510,
+      "name": "Paws and Soul",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T22:33:51.549266"
     }
   }
 }
