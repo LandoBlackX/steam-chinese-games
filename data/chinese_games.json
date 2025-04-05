@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-05T09:20:15.741940"
+    "updated": "2025-04-05T09:34:23.368252"
   },
   "games": {
     "570": {
@@ -62456,6 +62456,342 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-04-05T09:20:15.409925"
+    },
+    "665840": {
+      "appid": 665840,
+      "name": "去海边：信使",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T09:33:55.171935"
+    },
+    "665880": {
+      "appid": 665880,
+      "name": "Survivor VR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T09:33:55.326912"
+    },
+    "665900": {
+      "appid": 665900,
+      "name": "火箭星战 Star-Rocket Strike",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T09:33:55.587173"
+    },
+    "665920": {
+      "appid": 665920,
+      "name": "SHOWMAKER",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T09:33:55.750238"
+    },
+    "666010": {
+      "appid": 666010,
+      "name": "Refract",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T09:33:56.354495"
+    },
+    "666050": {
+      "appid": 666050,
+      "name": "Rescue Team 7",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T09:33:56.945979"
+    },
+    "666140": {
+      "appid": 666140,
+      "name": "波西亚时光",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T09:33:58.065408"
+    },
+    "666150": {
+      "appid": 666150,
+      "name": "Prehistoric Kingdom",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T09:33:58.202211"
+    },
+    "666220": {
+      "appid": 666220,
+      "name": "CS2D",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T09:33:58.480686"
+    },
+    "666570": {
+      "appid": 666570,
+      "name": "Infectonator 3: Apocalypse",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T09:34:00.103590"
+    },
+    "666820": {
+      "appid": 666820,
+      "name": "Skirmish Line",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T09:34:02.059700"
+    },
+    "666870": {
+      "appid": 666870,
+      "name": "凶手不是我 Perfect Crime",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T09:34:02.545854"
+    },
+    "666960": {
+      "appid": 666960,
+      "name": "Cowboy's Adventure",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T09:34:03.250542"
+    },
+    "667010": {
+      "appid": 667010,
+      "name": "Dracula: Vampires vs. Zombies",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T09:34:03.513812"
+    },
+    "667300": {
+      "appid": 667300,
+      "name": "aMAZE 3D",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T09:34:05.456533"
+    },
+    "667430": {
+      "appid": 667430,
+      "name": "A Cat's Manor",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T09:34:06.606315"
+    },
+    "667600": {
+      "appid": 667600,
+      "name": "Sky Force Reloaded",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T09:34:07.773632"
+    },
+    "667610": {
+      "appid": 667610,
+      "name": "Ancient Cities  古城",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T09:34:07.917204"
+    },
+    "667720": {
+      "appid": 667720,
+      "name": "Red Faction Guerrilla Re-Mars-tered",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T09:34:08.846775"
+    },
+    "667780": {
+      "appid": 667780,
+      "name": "Rosebaker's Icy Treats - The VR Iceman Sim",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T09:34:09.303388"
+    },
+    "667810": {
+      "appid": 667810,
+      "name": "Next Up Hero",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T09:34:09.751183"
+    },
+    "667840": {
+      "appid": 667840,
+      "name": "Dungeon Builder S",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T09:34:10.024069"
+    },
+    "667890": {
+      "appid": 667890,
+      "name": "Dead Maze",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T09:34:10.448420"
+    },
+    "667970": {
+      "appid": 667970,
+      "name": "VTOL VR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T09:34:10.999557"
+    },
+    "668280": {
+      "appid": 668280,
+      "name": "BackSlash",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T09:34:12.555238"
+    },
+    "668300": {
+      "appid": 668300,
+      "name": "Chinese Souls-Hua Garden/华夏园",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T09:34:12.811206"
+    },
+    "668360": {
+      "appid": 668360,
+      "name": "我成为天使的理由",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T09:34:13.245608"
+    },
+    "668550": {
+      "appid": 668550,
+      "name": "8道门：雅兰的来世冒险",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T09:34:14.205819"
+    },
+    "668580": {
+      "appid": 668580,
+      "name": "原子之心",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T09:34:14.610010"
+    },
+    "668590": {
+      "appid": 668590,
+      "name": "崩坏之兆：瘟疫",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T09:34:14.744827"
+    },
+    "668610": {
+      "appid": 668610,
+      "name": "Lords of War",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T09:34:15.030109"
+    },
+    "668630": {
+      "appid": 668630,
+      "name": "Tricolour Lovestory",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T09:34:15.304049"
+    },
+    "668660": {
+      "appid": 668660,
+      "name": "CUR3D Steam Edition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T09:34:15.812391"
+    },
+    "668680": {
+      "appid": 668680,
+      "name": "鬼畜大冒险 Gui Chu Da Mao Xian",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T09:34:16.088628"
+    },
+    "669000": {
+      "appid": 669000,
+      "name": "Six-ear Macaque",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T09:34:18.180229"
+    },
+    "669270": {
+      "appid": 669270,
+      "name": "Momentum Mod",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T09:34:18.586756"
+    },
+    "669320": {
+      "appid": 669320,
+      "name": "国战列国志传:春秋",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T09:34:19.029422"
+    },
+    "669330": {
+      "appid": 669330,
+      "name": "钢铁指挥官",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T09:34:19.165845"
+    },
+    "669390": {
+      "appid": 669390,
+      "name": "Lethal Laser",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T09:34:19.894125"
+    },
+    "669500": {
+      "appid": 669500,
+      "name": "姬子的觉醒",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T09:34:20.491038"
+    },
+    "669650": {
+      "appid": 669650,
+      "name": "Tiny Thief",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T09:34:21.549133"
+    },
+    "669950": {
+      "appid": 669950,
+      "name": "BDSM: Big Drunk Satanic Massacre",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T09:34:23.366462"
     }
   }
 }
