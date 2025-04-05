@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-05T11:46:02.657873"
+    "updated": "2025-04-05T11:58:59.894689"
   },
   "games": {
     "570": {
@@ -65872,6 +65872,294 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-04-05T11:46:02.656501"
+    },
+    "706920": {
+      "appid": 706920,
+      "name": "战术狂想1(Chimera of Tactics 1)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T11:58:32.539572"
+    },
+    "706960": {
+      "appid": 706960,
+      "name": "Super Slime Arena",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T11:58:32.906535"
+    },
+    "707010": {
+      "appid": 707010,
+      "name": "Will To Live Online",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T11:58:33.544828"
+    },
+    "707030": {
+      "appid": 707030,
+      "name": "POSTAL 4: No Regerts",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T11:58:33.677014"
+    },
+    "707140": {
+      "appid": 707140,
+      "name": "Chess",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T11:58:34.153657"
+    },
+    "707300": {
+      "appid": 707300,
+      "name": "初音未来 VR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T11:58:34.681792"
+    },
+    "707870": {
+      "appid": 707870,
+      "name": "Hoo-Boy",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T11:58:37.015538"
+    },
+    "707920": {
+      "appid": 707920,
+      "name": "Analemma",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T11:58:37.144527"
+    },
+    "708140": {
+      "appid": 708140,
+      "name": "TriElement",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T11:58:38.110123"
+    },
+    "708310": {
+      "appid": 708310,
+      "name": "Infinite Gravity",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T11:58:39.001286"
+    },
+    "708370": {
+      "appid": 708370,
+      "name": "Reboant Demo",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T11:58:39.328477"
+    },
+    "708820": {
+      "appid": 708820,
+      "name": "Baby Hands",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T11:58:40.867385"
+    },
+    "709050": {
+      "appid": 709050,
+      "name": "GHOUL",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T11:58:42.550108"
+    },
+    "709100": {
+      "appid": 709100,
+      "name": "Strange girl beside",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T11:58:42.765881"
+    },
+    "709470": {
+      "appid": 709470,
+      "name": "Mirrors",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T11:58:44.424578"
+    },
+    "709490": {
+      "appid": 709490,
+      "name": "Mutiny Island",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T11:58:44.542355"
+    },
+    "709720": {
+      "appid": 709720,
+      "name": "YAGZZ!",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T11:58:45.745956"
+    },
+    "709750": {
+      "appid": 709750,
+      "name": "IRO HERO",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T11:58:46.037414"
+    },
+    "709790": {
+      "appid": 709790,
+      "name": "The Red Front",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T11:58:46.270800"
+    },
+    "710030": {
+      "appid": 710030,
+      "name": "Cinderella Escape 2 Revenge",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T11:58:47.772700"
+    },
+    "710140": {
+      "appid": 710140,
+      "name": "King's Tower",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T11:58:48.502694"
+    },
+    "710170": {
+      "appid": 710170,
+      "name": "The Broken Seal",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T11:58:48.772589"
+    },
+    "710190": {
+      "appid": 710190,
+      "name": "谜题姐妹 Puzzle Sisters",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T11:58:48.886900"
+    },
+    "710280": {
+      "appid": 710280,
+      "name": "Musician",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T11:58:49.578486"
+    },
+    "710470": {
+      "appid": 710470,
+      "name": "Little Witch Academia: Chamber of Time",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T11:58:50.070994"
+    },
+    "710550": {
+      "appid": 710550,
+      "name": "Cubion",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T11:58:50.471892"
+    },
+    "710780": {
+      "appid": 710780,
+      "name": "Sky Jump",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T11:58:52.808902"
+    },
+    "710840": {
+      "appid": 710840,
+      "name": "Cicadas",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T11:58:53.114316"
+    },
+    "710920": {
+      "appid": 710920,
+      "name": "Darksiders Genesis",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T11:58:53.371550"
+    },
+    "711130": {
+      "appid": 711130,
+      "name": "God of Light: Remastered",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T11:58:54.359828"
+    },
+    "711190": {
+      "appid": 711190,
+      "name": "Color Sudoku",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T11:58:54.755594"
+    },
+    "711540": {
+      "appid": 711540,
+      "name": "Lonely Mountains: Downhill",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T11:58:57.660326"
+    },
+    "711590": {
+      "appid": 711590,
+      "name": "TFF: The Final Frontier",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T11:58:58.354566"
+    },
+    "711610": {
+      "appid": 711610,
+      "name": "Playerless: One Button Adventure",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T11:58:58.799255"
+    },
+    "711660": {
+      "appid": 711660,
+      "name": "毛线先生 (CHUCHEL)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T11:58:59.085313"
+    },
+    "711710": {
+      "appid": 711710,
+      "name": "RedEyes 赤瞳之勋",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T11:58:59.611218"
     }
   }
 }

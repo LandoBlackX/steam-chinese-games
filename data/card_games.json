@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-05T11:46:02.657873"
+    "updated": "2025-04-05T11:58:59.894689"
   },
   "games": {
     "570": {
@@ -62038,6 +62038,86 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-05T11:45:57.375141"
+    },
+    "707030": {
+      "appid": 707030,
+      "name": "POSTAL 4: No Regerts",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T11:58:33.677014"
+    },
+    "707300": {
+      "appid": 707300,
+      "name": "初音未来 VR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T11:58:34.681792"
+    },
+    "709010": {
+      "appid": 709010,
+      "name": "Offroad Transport Simulator",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T11:58:42.180955"
+    },
+    "709410": {
+      "appid": 709410,
+      "name": "AZURA",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T11:58:44.167155"
+    },
+    "710030": {
+      "appid": 710030,
+      "name": "Cinderella Escape 2 Revenge",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T11:58:47.772700"
+    },
+    "710610": {
+      "appid": 710610,
+      "name": "Don't Sink",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T11:58:50.718687"
+    },
+    "710920": {
+      "appid": 710920,
+      "name": "Darksiders Genesis",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T11:58:53.371550"
+    },
+    "711540": {
+      "appid": 711540,
+      "name": "Lonely Mountains: Downhill",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T11:58:57.660326"
+    },
+    "711660": {
+      "appid": 711660,
+      "name": "毛线先生 (CHUCHEL)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T11:58:59.085313"
+    },
+    "711750": {
+      "appid": 711750,
+      "name": "Monster Energy Supercross - The Official Videogame",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T11:58:59.893234"
     }
   }
 }
