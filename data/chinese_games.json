@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-05T05:37:05.390667"
+    "updated": "2025-04-05T05:43:38.663308"
   },
   "games": {
     "570": {
@@ -57432,6 +57432,366 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-05T05:37:05.056246"
+    },
+    "592360": {
+      "appid": 592360,
+      "name": "Violet's Dream VR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T05:43:07.982967"
+    },
+    "592380": {
+      "appid": 592380,
+      "name": "Apocalypse Cow",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T05:43:08.173723"
+    },
+    "592410": {
+      "appid": 592410,
+      "name": "Spacetours VR - Ep1 The Solar System",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T05:43:08.470524"
+    },
+    "592480": {
+      "appid": 592480,
+      "name": "骑士与单车",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T05:43:08.791106"
+    },
+    "592580": {
+      "appid": 592580,
+      "name": "PRO EVOLUTION SOCCER 2018",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T05:43:09.394269"
+    },
+    "592600": {
+      "appid": 592600,
+      "name": "PRO EVOLUTION SOCCER 2018 LITE",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T05:43:09.548769"
+    },
+    "592780": {
+      "appid": 592780,
+      "name": "Bang Bang Car",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T05:43:10.763197"
+    },
+    "593060": {
+      "appid": 593060,
+      "name": "Squishies",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T05:43:11.347358"
+    },
+    "593070": {
+      "appid": 593070,
+      "name": "Digby Extreme",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T05:43:11.492261"
+    },
+    "593150": {
+      "appid": 593150,
+      "name": "Ooblets",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T05:43:11.924479"
+    },
+    "593200": {
+      "appid": 593200,
+      "name": "The Adventures of Fei Duanmu 端木斐异闻录",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T05:43:12.096197"
+    },
+    "593240": {
+      "appid": 593240,
+      "name": "VR SUPER SPORTS",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T05:43:12.284982"
+    },
+    "593250": {
+      "appid": 593250,
+      "name": "Voxel Shot VR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T05:43:12.448072"
+    },
+    "593280": {
+      "appid": 593280,
+      "name": "Cat Quest",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T05:43:12.750729"
+    },
+    "593330": {
+      "appid": 593330,
+      "name": "Algotica Iterations",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T05:43:12.918779"
+    },
+    "593600": {
+      "appid": 593600,
+      "name": "方块方舟（PixARK）",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T05:43:13.964076"
+    },
+    "593640": {
+      "appid": 593640,
+      "name": "Papetura",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T05:43:14.251627"
+    },
+    "593680": {
+      "appid": 593680,
+      "name": "Rocking Pilot",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T05:43:14.565771"
+    },
+    "593700": {
+      "appid": 593700,
+      "name": "Tower Fortress",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T05:43:14.707346"
+    },
+    "593950": {
+      "appid": 593950,
+      "name": "世阳教你学防灾Shiyang teaches you to learn disaster prevention",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T05:43:15.584589"
+    },
+    "594220": {
+      "appid": 594220,
+      "name": "The Living Remain",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T05:43:17.562175"
+    },
+    "594260": {
+      "appid": 594260,
+      "name": "The Trial",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T05:43:17.834155"
+    },
+    "594330": {
+      "appid": 594330,
+      "name": "Visage",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T05:43:18.465347"
+    },
+    "594380": {
+      "appid": 594380,
+      "name": "Dragon Audit",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T05:43:19.169054"
+    },
+    "594490": {
+      "appid": 594490,
+      "name": "Deadly Hunter VR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T05:43:19.611811"
+    },
+    "594570": {
+      "appid": 594570,
+      "name": "全面战争：战锤2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T05:43:19.945933"
+    },
+    "594650": {
+      "appid": 594650,
+      "name": "猎杀：对决 1896",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T05:43:20.188426"
+    },
+    "594680": {
+      "appid": 594680,
+      "name": "Shuyan Saga™",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T05:43:20.675717"
+    },
+    "594950": {
+      "appid": 594950,
+      "name": "The Witches' Tea Party",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T05:43:21.641542"
+    },
+    "595140": {
+      "appid": 595140,
+      "name": "Immortal Redneck",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T05:43:23.266839"
+    },
+    "595520": {
+      "appid": 595520,
+      "name": "FINAL FANTASY XII THE ZODIAC AGE",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T05:43:25.644320"
+    },
+    "595660": {
+      "appid": 595660,
+      "name": "Lux Alliance",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T05:43:26.723724"
+    },
+    "595740": {
+      "appid": 595740,
+      "name": "戰國無雙 〜真田丸〜",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T05:43:27.371658"
+    },
+    "595770": {
+      "appid": 595770,
+      "name": "AirMech Wastelands",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T05:43:27.718820"
+    },
+    "595930": {
+      "appid": 595930,
+      "name": "Steam: Rails to Riches",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T05:43:28.407018"
+    },
+    "596000": {
+      "appid": 596000,
+      "name": "The Shattering",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T05:43:28.864272"
+    },
+    "596240": {
+      "appid": 596240,
+      "name": "Apocryph: an old-school shooter",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T05:43:29.970131"
+    },
+    "596500": {
+      "appid": 596500,
+      "name": "奇皮与诺宝",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T05:43:31.478302"
+    },
+    "596950": {
+      "appid": 596950,
+      "name": "Rat Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T05:43:34.095316"
+    },
+    "597150": {
+      "appid": 597150,
+      "name": "Hyper Knights",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T05:43:35.501769"
+    },
+    "597170": {
+      "appid": 597170,
+      "name": "Clone Drone in the Danger Zone",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T05:43:35.649112"
+    },
+    "597180": {
+      "appid": 597180,
+      "name": "旧世界 Old World",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T05:43:35.797016"
+    },
+    "597700": {
+      "appid": 597700,
+      "name": "OVIVO",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T05:43:37.561663"
+    },
+    "597760": {
+      "appid": 597760,
+      "name": "雅皮士精神",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T05:43:38.031234"
+    },
+    "597820": {
+      "appid": 597820,
+      "name": "BIOMUTANT",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T05:43:38.660367"
     }
   }
 }
