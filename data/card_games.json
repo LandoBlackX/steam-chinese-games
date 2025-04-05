@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-05T13:59:43.765481"
+    "updated": "2025-04-05T14:11:04.984168"
   },
   "games": {
     "570": {
@@ -62742,6 +62742,190 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-05T13:59:40.050260"
+    },
+    "738020": {
+      "appid": 738020,
+      "name": "ELMIA",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T14:10:34.828521"
+    },
+    "738520": {
+      "appid": 738520,
+      "name": "呼吸边缘",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T14:10:38.020269"
+    },
+    "738530": {
+      "appid": 738530,
+      "name": "New Gundam Breaker",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T14:10:38.170459"
+    },
+    "738610": {
+      "appid": 738610,
+      "name": "Train Station Simulator",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T14:10:39.214025"
+    },
+    "739080": {
+      "appid": 739080,
+      "name": "9 Monkeys of Shaolin",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T14:10:42.625500"
+    },
+    "739190": {
+      "appid": 739190,
+      "name": "AntVentor",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T14:10:43.387987"
+    },
+    "739220": {
+      "appid": 739220,
+      "name": "Ark Noir",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T14:10:43.536188"
+    },
+    "739540": {
+      "appid": 739540,
+      "name": "Break the Game",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T14:10:44.544524"
+    },
+    "739630": {
+      "appid": 739630,
+      "name": "Phasmophobia",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T14:10:44.694226"
+    },
+    "739980": {
+      "appid": 739980,
+      "name": "Let`s not stay friends",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T14:10:47.325049"
+    },
+    "740080": {
+      "appid": 740080,
+      "name": "Deadly Days",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T14:10:48.080558"
+    },
+    "740090": {
+      "appid": 740090,
+      "name": "Lost Grimoires 3: The Forgotten Well",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T14:10:48.224978"
+    },
+    "740130": {
+      "appid": 740130,
+      "name": "破晓传奇",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T14:10:48.395197"
+    },
+    "740260": {
+      "appid": 740260,
+      "name": "Crimson Imprint plus -Nonexistent Christmas-",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T14:10:49.654458"
+    },
+    "740550": {
+      "appid": 740550,
+      "name": "阿加雷斯特战记　甜蜜新婚",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T14:10:52.156291"
+    },
+    "741250": {
+      "appid": 741250,
+      "name": "The Sand Man",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T14:10:54.803893"
+    },
+    "742120": {
+      "appid": 742120,
+      "name": "DRAGON QUEST® XI: Echoes of an Elusive Age™ - Digital Edition of Light",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T14:10:58.898903"
+    },
+    "742250": {
+      "appid": 742250,
+      "name": "OPUS：灵魂之桥",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T14:10:59.666005"
+    },
+    "742300": {
+      "appid": 742300,
+      "name": "Mega Man 11",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T14:10:59.819983"
+    },
+    "742460": {
+      "appid": 742460,
+      "name": "Marble Skies",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T14:11:00.623810"
+    },
+    "742520": {
+      "appid": 742520,
+      "name": "Astrologaster",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T14:11:01.523913"
+    },
+    "742900": {
+      "appid": 742900,
+      "name": "Sleeping Dawn",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T14:11:02.112332"
+    },
+    "743380": {
+      "appid": 743380,
+      "name": "分裂 - 操纵时间，制造克隆并解决未来的网络难题！",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T14:11:04.982684"
     }
   }
 }

@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-05T13:59:43.765481"
+    "updated": "2025-04-05T14:11:04.984168"
   },
   "games": {
     "570": {
@@ -67992,6 +67992,486 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-04-05T13:59:43.335398"
+    },
+    "737870": {
+      "appid": 737870,
+      "name": "Conduct DELUXE!",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T14:10:33.696227"
+    },
+    "738020": {
+      "appid": 738020,
+      "name": "ELMIA",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T14:10:34.828521"
+    },
+    "738210": {
+      "appid": 738210,
+      "name": "Galactic Orbital Death Sport",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T14:10:36.028392"
+    },
+    "738270": {
+      "appid": 738270,
+      "name": "Ciel Fledge: A Daughter Raising Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T14:10:36.480520"
+    },
+    "738480": {
+      "appid": 738480,
+      "name": "Find Pixel",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T14:10:37.717584"
+    },
+    "738510": {
+      "appid": 738510,
+      "name": "告别回忆-无垢少女-",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T14:10:37.871160"
+    },
+    "738520": {
+      "appid": 738520,
+      "name": "呼吸边缘",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T14:10:38.020269"
+    },
+    "738530": {
+      "appid": 738530,
+      "name": "New Gundam Breaker",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T14:10:38.170459"
+    },
+    "738540": {
+      "appid": 738540,
+      "name": "Tales of Vesperia: Definitive Edition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T14:10:38.317957"
+    },
+    "738550": {
+      "appid": 738550,
+      "name": "Spike Volleyball",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T14:10:38.478807"
+    },
+    "738840": {
+      "appid": 738840,
+      "name": "Brutal Alice -The Hundred Day's War-",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T14:10:40.632603"
+    },
+    "738860": {
+      "appid": 738860,
+      "name": "Jetstream",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T14:10:40.778361"
+    },
+    "739050": {
+      "appid": 739050,
+      "name": "Deck Casters",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T14:10:42.449117"
+    },
+    "739080": {
+      "appid": 739080,
+      "name": "9 Monkeys of Shaolin",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T14:10:42.625500"
+    },
+    "739170": {
+      "appid": 739170,
+      "name": "Parker & Lane: Twisted Minds",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T14:10:43.089090"
+    },
+    "739190": {
+      "appid": 739190,
+      "name": "AntVentor",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T14:10:43.387987"
+    },
+    "739290": {
+      "appid": 739290,
+      "name": "Dark Old Sun",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T14:10:44.104623"
+    },
+    "739630": {
+      "appid": 739630,
+      "name": "Phasmophobia",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T14:10:44.694226"
+    },
+    "739650": {
+      "appid": 739650,
+      "name": "Drake Hollow",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T14:10:44.840184"
+    },
+    "739790": {
+      "appid": 739790,
+      "name": "The Beauty Cult's NECTARMANCER",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T14:10:45.747249"
+    },
+    "739800": {
+      "appid": 739800,
+      "name": "Verzaken! VR Adventure",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T14:10:45.887670"
+    },
+    "739930": {
+      "appid": 739930,
+      "name": "Mad Manuel",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T14:10:46.886685"
+    },
+    "739950": {
+      "appid": 739950,
+      "name": "Fruit Attacks VR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T14:10:47.178434"
+    },
+    "740000": {
+      "appid": 740000,
+      "name": "绝境幸存者 Escape Zombie Land",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T14:10:47.487449"
+    },
+    "740080": {
+      "appid": 740080,
+      "name": "Deadly Days",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T14:10:48.080558"
+    },
+    "740090": {
+      "appid": 740090,
+      "name": "Lost Grimoires 3: The Forgotten Well",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T14:10:48.224978"
+    },
+    "740130": {
+      "appid": 740130,
+      "name": "破晓传奇",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T14:10:48.395197"
+    },
+    "740250": {
+      "appid": 740250,
+      "name": "Neos VR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T14:10:49.505015"
+    },
+    "740260": {
+      "appid": 740260,
+      "name": "Crimson Imprint plus -Nonexistent Christmas-",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T14:10:49.654458"
+    },
+    "740550": {
+      "appid": 740550,
+      "name": "阿加雷斯特战记　甜蜜新婚",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T14:10:52.156291"
+    },
+    "740560": {
+      "appid": 740560,
+      "name": "star of lemutia",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T14:10:52.302010"
+    },
+    "740810": {
+      "appid": 740810,
+      "name": "Pleasure Puzzle:Workshop 趣拼拼：拼图工坊",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T14:10:53.371590"
+    },
+    "741140": {
+      "appid": 741140,
+      "name": "Baldr Sky",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T14:10:54.522255"
+    },
+    "741250": {
+      "appid": 741250,
+      "name": "The Sand Man",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T14:10:54.803893"
+    },
+    "741260": {
+      "appid": 741260,
+      "name": "Mobile Empire",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T14:10:55.200967"
+    },
+    "741320": {
+      "appid": 741320,
+      "name": "The Song of Terminus  終焉的迴響:護界者之歌",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T14:10:55.445689"
+    },
+    "741340": {
+      "appid": 741340,
+      "name": "Kingdom Workshop",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T14:10:55.578095"
+    },
+    "741360": {
+      "appid": 741360,
+      "name": "VR Hybrid War 2117 - VR 混合战争 2117",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T14:10:55.714659"
+    },
+    "741400": {
+      "appid": 741400,
+      "name": "Wands",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T14:10:55.998161"
+    },
+    "741500": {
+      "appid": 741500,
+      "name": "John, The Zombie",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T14:10:56.621389"
+    },
+    "741520": {
+      "appid": 741520,
+      "name": "Professor Lupo and his Horrible Pets",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T14:10:56.928720"
+    },
+    "741590": {
+      "appid": 741590,
+      "name": "Hex Commander: Fantasy Heroes",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T14:10:57.207647"
+    },
+    "741620": {
+      "appid": 741620,
+      "name": "Seal Guardian",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T14:10:57.358691"
+    },
+    "741670": {
+      "appid": 741670,
+      "name": "Easy Red",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T14:10:57.685648"
+    },
+    "741820": {
+      "appid": 741820,
+      "name": "Prey: Typhon Hunter",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T14:10:58.153484"
+    },
+    "741990": {
+      "appid": 741990,
+      "name": "Wild Animal Sports Day",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T14:10:58.458084"
+    },
+    "742030": {
+      "appid": 742030,
+      "name": "MahJong",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T14:10:58.752107"
+    },
+    "742230": {
+      "appid": 742230,
+      "name": "A Day For A Kitten",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T14:10:59.516474"
+    },
+    "742250": {
+      "appid": 742250,
+      "name": "OPUS：灵魂之桥",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T14:10:59.666005"
+    },
+    "742300": {
+      "appid": 742300,
+      "name": "Mega Man 11",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T14:10:59.819983"
+    },
+    "742360": {
+      "appid": 742360,
+      "name": "全民王者",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T14:11:00.113883"
+    },
+    "742420": {
+      "appid": 742420,
+      "name": "Saints Row",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T14:11:00.448953"
+    },
+    "742460": {
+      "appid": 742460,
+      "name": "Marble Skies",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T14:11:00.623810"
+    },
+    "742480": {
+      "appid": 742480,
+      "name": "The Big Journey",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T14:11:00.918755"
+    },
+    "742500": {
+      "appid": 742500,
+      "name": "Nonogram - Master's Legacy",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T14:11:01.194956"
+    },
+    "742630": {
+      "appid": 742630,
+      "name": "Wonky Ship",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T14:11:01.824614"
+    },
+    "743170": {
+      "appid": 743170,
+      "name": "SOULZ",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T14:11:03.603250"
+    },
+    "743330": {
+      "appid": 743330,
+      "name": "Super Hyperactive Ninja",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T14:11:04.234941"
+    },
+    "743350": {
+      "appid": 743350,
+      "name": "Slay.one",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T14:11:04.519957"
+    },
+    "743380": {
+      "appid": 743380,
+      "name": "分裂 - 操纵时间，制造克隆并解决未来的网络难题！",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T14:11:04.982684"
     }
   }
 }
