@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-05T03:59:13.922296"
+    "updated": "2025-04-05T04:30:02.004381"
   },
   "games": {
     "570": {
@@ -55680,6 +55680,382 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-05T03:59:13.084415"
+    },
+    "565860": {
+      "appid": 565860,
+      "name": "Tomato Way",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T04:29:29.530307"
+    },
+    "566160": {
+      "appid": 566160,
+      "name": "Zup! 6",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T04:29:31.070754"
+    },
+    "566170": {
+      "appid": 566170,
+      "name": "Elephant Express VR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T04:29:31.209614"
+    },
+    "566180": {
+      "appid": 566180,
+      "name": "Fractal",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T04:29:31.382736"
+    },
+    "566190": {
+      "appid": 566190,
+      "name": "The Search",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T04:29:31.578800"
+    },
+    "566270": {
+      "appid": 566270,
+      "name": "Child Of Ault",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T04:29:32.106279"
+    },
+    "566380": {
+      "appid": 566380,
+      "name": "Speedball Arena",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T04:29:32.799014"
+    },
+    "566440": {
+      "appid": 566440,
+      "name": "涅克罗蒙达：下巢战争 (Necromunda: Underhive Wars)   ",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T04:29:33.482592"
+    },
+    "566490": {
+      "appid": 566490,
+      "name": "快刀小金",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T04:29:33.667767"
+    },
+    "566780": {
+      "appid": 566780,
+      "name": "超级节拍",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T04:29:36.230837"
+    },
+    "566870": {
+      "appid": 566870,
+      "name": "VR Monster Awakens",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T04:29:36.908838"
+    },
+    "566880": {
+      "appid": 566880,
+      "name": "Henry The Hamster Handler VR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T04:29:37.064456"
+    },
+    "566970": {
+      "appid": 566970,
+      "name": "EscapeVR: Trapped Above the Clouds",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T04:29:37.820834"
+    },
+    "567030": {
+      "appid": 567030,
+      "name": "Under Leaves",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T04:29:38.311094"
+    },
+    "567630": {
+      "appid": 567630,
+      "name": "铁甲雄兵 Blood of Steel",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T04:29:41.846442"
+    },
+    "567640": {
+      "appid": 567640,
+      "name": "新枪弹辩驳V3 大家自相残杀的新学期",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T04:29:42.031451"
+    },
+    "567670": {
+      "appid": 567670,
+      "name": "Serious Sam 3 VR: BFE",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T04:29:42.306441"
+    },
+    "567840": {
+      "appid": 567840,
+      "name": "Brush Up VR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T04:29:43.401955"
+    },
+    "568070": {
+      "appid": 568070,
+      "name": "Mable & The Wood",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T04:29:44.776354"
+    },
+    "568130": {
+      "appid": 568130,
+      "name": "Gum Guy",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T04:29:45.113259"
+    },
+    "568220": {
+      "appid": 568220,
+      "name": "Lobotomy Corporation | Monster Management Simulation",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T04:29:45.734882"
+    },
+    "568310": {
+      "appid": 568310,
+      "name": "TRESPASS - Episode 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T04:29:46.224568"
+    },
+    "568320": {
+      "appid": 568320,
+      "name": "Pictopix",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T04:29:46.393429"
+    },
+    "568330": {
+      "appid": 568330,
+      "name": "(VR)西汉帝陵 The Han Dynasty Imperial Mausoleums",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T04:29:46.598887"
+    },
+    "568420": {
+      "appid": 568420,
+      "name": "Donut Distraction",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T04:29:47.077504"
+    },
+    "568490": {
+      "appid": 568490,
+      "name": "Frog Hop",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T04:29:47.757973"
+    },
+    "568570": {
+      "appid": 568570,
+      "name": "Force of Nature",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T04:29:48.224216"
+    },
+    "568750": {
+      "appid": 568750,
+      "name": "甜点恋人 / Pastry Lovers",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T04:29:49.798453"
+    },
+    "568800": {
+      "appid": 568800,
+      "name": "Summer times Afternoon",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T04:29:50.294535"
+    },
+    "568830": {
+      "appid": 568830,
+      "name": "Witch of Ice Kingdom Ⅱ",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T04:29:50.462970"
+    },
+    "568910": {
+      "appid": 568910,
+      "name": "Ambition of the Slimes (史莱姆的野望)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T04:29:50.971036"
+    },
+    "568920": {
+      "appid": 568920,
+      "name": "The Final Specimen: Arrival",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T04:29:51.143375"
+    },
+    "569010": {
+      "appid": 569010,
+      "name": "Island Racer",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T04:29:51.432035"
+    },
+    "569290": {
+      "appid": 569290,
+      "name": "Metamorfose S",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T04:29:53.007076"
+    },
+    "569480": {
+      "appid": 569480,
+      "name": "Kingdoms and Castles",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T04:29:54.524586"
+    },
+    "569610": {
+      "appid": 569610,
+      "name": "Distant Space",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T04:29:55.582866"
+    },
+    "569640": {
+      "appid": 569640,
+      "name": "ZombieFight VR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T04:29:55.889731"
+    },
+    "569770": {
+      "appid": 569770,
+      "name": "StarShip Constructor",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T04:29:56.172044"
+    },
+    "569800": {
+      "appid": 569800,
+      "name": "LEAVES - The Journey",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T04:29:56.336201"
+    },
+    "569810": {
+      "appid": 569810,
+      "name": "LEAVES - The Return",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T04:29:56.482772"
+    },
+    "570050": {
+      "appid": 570050,
+      "name": "Raiden V: Director's Cut | 雷電 V Director's Cut | 雷電V:導演剪輯版",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T04:29:57.820332"
+    },
+    "570420": {
+      "appid": 570420,
+      "name": "X Rebirth VR Edition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T04:29:59.104394"
+    },
+    "570770": {
+      "appid": 570770,
+      "name": "古剑奇谭二(GuJian2)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T04:30:00.983294"
+    },
+    "570780": {
+      "appid": 570780,
+      "name": "古剑奇谭(GuJian)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T04:30:01.196176"
+    },
+    "570790": {
+      "appid": 570790,
+      "name": "New Frontier Days ~Founding Pioneers~",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T04:30:01.368475"
+    },
+    "570820": {
+      "appid": 570820,
+      "name": "Dusty Raging Fist",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T04:30:01.686139"
+    },
+    "570840": {
+      "appid": 570840,
+      "name": "家有大貓 Nekojishi",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T04:30:01.824488"
     }
   }
 }
