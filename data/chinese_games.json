@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-05T15:42:16.526406"
+    "updated": "2025-04-05T15:45:08.399677"
   },
   "games": {
     "570": {
@@ -72544,6 +72544,422 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-04-05T15:42:15.406743"
+    },
+    "790350": {
+      "appid": 790350,
+      "name": "The Inner Friend",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:44:35.457724"
+    },
+    "790360": {
+      "appid": 790360,
+      "name": "WarriOrb",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:44:35.719736"
+    },
+    "790430": {
+      "appid": 790430,
+      "name": "Modlands",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:44:36.233470"
+    },
+    "790540": {
+      "appid": 790540,
+      "name": "THE QUIET MAN™",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T15:44:36.760385"
+    },
+    "790570": {
+      "appid": 790570,
+      "name": "Innocent VR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:44:37.109245"
+    },
+    "790600": {
+      "appid": 790600,
+      "name": "Stormbound",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T15:44:37.245807"
+    },
+    "790630": {
+      "appid": 790630,
+      "name": "BoxCat",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:44:37.581778"
+    },
+    "790710": {
+      "appid": 790710,
+      "name": "World of Warplanes",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T15:44:37.987425"
+    },
+    "790730": {
+      "appid": 790730,
+      "name": "Nero Burning ROM - All-in-One Disc Burn Solution",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:44:38.176907"
+    },
+    "790740": {
+      "appid": 790740,
+      "name": "滴答：双人冒险",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:44:38.302035"
+    },
+    "790750": {
+      "appid": 790750,
+      "name": "oVRshot",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:44:38.517881"
+    },
+    "790800": {
+      "appid": 790800,
+      "name": "Ascent Spirit",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:44:38.940477"
+    },
+    "790820": {
+      "appid": 790820,
+      "name": "战场女武神４ 最终版",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T15:44:39.350396"
+    },
+    "790850": {
+      "appid": 790850,
+      "name": "Undead Horde",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T15:44:39.831927"
+    },
+    "790860": {
+      "appid": 790860,
+      "name": "Chocolate makes you happy 3",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:44:39.948296"
+    },
+    "791200": {
+      "appid": 791200,
+      "name": "块块星球：埃齐",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:44:43.982054"
+    },
+    "791240": {
+      "appid": 791240,
+      "name": "卢默特：赤灵主宰编年史",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:44:44.224599"
+    },
+    "791290": {
+      "appid": 791290,
+      "name": "Space Ball",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:44:44.536647"
+    },
+    "791330": {
+      "appid": 791330,
+      "name": "堕落少女：焰发的玛琪娜与遗迹之城",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T15:44:44.965222"
+    },
+    "791380": {
+      "appid": 791380,
+      "name": "Way Out",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:44:45.306314"
+    },
+    "791390": {
+      "appid": 791390,
+      "name": "Mr Dirt Poor 吃土计划",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:44:45.460196"
+    },
+    "791410": {
+      "appid": 791410,
+      "name": "桌面方块人",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:44:45.735206"
+    },
+    "791470": {
+      "appid": 791470,
+      "name": "DYO",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:44:46.162966"
+    },
+    "791720": {
+      "appid": 791720,
+      "name": "Lost Satellite",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:44:47.458348"
+    },
+    "792040": {
+      "appid": 792040,
+      "name": "狄仁杰之锦蔷薇 | Detective Di: The Silk Rose Murders",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T15:44:49.804869"
+    },
+    "792080": {
+      "appid": 792080,
+      "name": "glutton man",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:44:50.271415"
+    },
+    "792100": {
+      "appid": 792100,
+      "name": "7 Billion Humans",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T15:44:50.393697"
+    },
+    "792220": {
+      "appid": 792220,
+      "name": "Paunch",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:44:51.239534"
+    },
+    "792300": {
+      "appid": 792300,
+      "name": "The Beast Inside",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:44:51.639556"
+    },
+    "792380": {
+      "appid": 792380,
+      "name": "生存日记",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:44:52.407961"
+    },
+    "792480": {
+      "appid": 792480,
+      "name": "Name The Song Quiz",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:44:52.821479"
+    },
+    "792610": {
+      "appid": 792610,
+      "name": "King of the Dwarves: Underground City Builder",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:44:53.531860"
+    },
+    "792650": {
+      "appid": 792650,
+      "name": "Super Jigsaw Puzzle",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T15:44:53.661707"
+    },
+    "792660": {
+      "appid": 792660,
+      "name": "The Operational Art of War IV",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:44:53.855003"
+    },
+    "792710": {
+      "appid": 792710,
+      "name": "Levelhead: Platformer Maker",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T15:44:54.409762"
+    },
+    "793050": {
+      "appid": 793050,
+      "name": "UNDEAD FACTORY:Zombie Pandemic",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:44:57.978912"
+    },
+    "793130": {
+      "appid": 793130,
+      "name": "Post-Apo Machines",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:44:58.764407"
+    },
+    "793170": {
+      "appid": 793170,
+      "name": "Seeking Dawn: Free to Play Edition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:44:59.147494"
+    },
+    "793180": {
+      "appid": 793180,
+      "name": "魔王村长和杂货店-Hero Village Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:44:59.331635"
+    },
+    "793190": {
+      "appid": 793190,
+      "name": "Daily OVR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:44:59.472628"
+    },
+    "793200": {
+      "appid": 793200,
+      "name": "Escape the Darkness",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:44:59.721360"
+    },
+    "793350": {
+      "appid": 793350,
+      "name": "Swarmlake",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T15:45:00.845502"
+    },
+    "793370": {
+      "appid": 793370,
+      "name": "孩子们",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:45:00.990717"
+    },
+    "793460": {
+      "appid": 793460,
+      "name": "112 Operator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:45:01.911476"
+    },
+    "793600": {
+      "appid": 793600,
+      "name": "Bully Beatdown",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:45:02.833207"
+    },
+    "793630": {
+      "appid": 793630,
+      "name": "GROOD",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:45:03.153921"
+    },
+    "793880": {
+      "appid": 793880,
+      "name": "MIRAGE",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:45:04.761467"
+    },
+    "794040": {
+      "appid": 794040,
+      "name": "The Broken Seal: Arena",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:45:05.773788"
+    },
+    "794050": {
+      "appid": 794050,
+      "name": "Drift Legends",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:45:05.890777"
+    },
+    "794180": {
+      "appid": 794180,
+      "name": "PRO FISHING SIMULATOR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:45:06.286042"
+    },
+    "794240": {
+      "appid": 794240,
+      "name": "Spinch",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T15:45:07.155730"
+    },
+    "794260": {
+      "appid": 794260,
+      "name": "Outward Definitive Edition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T15:45:07.299622"
     }
   }
 }

@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-05T15:42:16.526406"
+    "updated": "2025-04-05T15:45:08.399677"
   },
   "games": {
     "570": {
@@ -64238,6 +64238,118 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-04-05T15:42:15.942372"
+    },
+    "790540": {
+      "appid": 790540,
+      "name": "THE QUIET MAN™",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T15:44:36.760385"
+    },
+    "790600": {
+      "appid": 790600,
+      "name": "Stormbound",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T15:44:37.245807"
+    },
+    "790710": {
+      "appid": 790710,
+      "name": "World of Warplanes",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T15:44:37.987425"
+    },
+    "790820": {
+      "appid": 790820,
+      "name": "战场女武神４ 最终版",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T15:44:39.350396"
+    },
+    "790850": {
+      "appid": 790850,
+      "name": "Undead Horde",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T15:44:39.831927"
+    },
+    "791330": {
+      "appid": 791330,
+      "name": "堕落少女：焰发的玛琪娜与遗迹之城",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T15:44:44.965222"
+    },
+    "792040": {
+      "appid": 792040,
+      "name": "狄仁杰之锦蔷薇 | Detective Di: The Silk Rose Murders",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T15:44:49.804869"
+    },
+    "792100": {
+      "appid": 792100,
+      "name": "7 Billion Humans",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T15:44:50.393697"
+    },
+    "792650": {
+      "appid": 792650,
+      "name": "Super Jigsaw Puzzle",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T15:44:53.661707"
+    },
+    "792710": {
+      "appid": 792710,
+      "name": "Levelhead: Platformer Maker",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T15:44:54.409762"
+    },
+    "793350": {
+      "appid": 793350,
+      "name": "Swarmlake",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T15:45:00.845502"
+    },
+    "794240": {
+      "appid": 794240,
+      "name": "Spinch",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T15:45:07.155730"
+    },
+    "794260": {
+      "appid": 794260,
+      "name": "Outward Definitive Edition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T15:45:07.299622"
+    },
+    "794270": {
+      "appid": 794270,
+      "name": "Landinar: Into the Void",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T15:45:07.444019"
     }
   }
 }
