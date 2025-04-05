@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-05T17:00:10.822304"
+    "updated": "2025-04-05T17:23:35.048953"
   },
   "games": {
     "570": {
@@ -74504,6 +74504,398 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-04-05T17:00:10.675914"
+    },
+    "814900": {
+      "appid": 814900,
+      "name": "三国虎将传VR-Sanguo Warriors VR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T17:23:07.072575"
+    },
+    "814990": {
+      "appid": 814990,
+      "name": "Super X Chess",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T17:23:07.699371"
+    },
+    "815170": {
+      "appid": 815170,
+      "name": "Zombie World",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T17:23:09.913916"
+    },
+    "815210": {
+      "appid": 815210,
+      "name": "Tiny-Tasy Town",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T17:23:10.028951"
+    },
+    "815260": {
+      "appid": 815260,
+      "name": "帝国无敌",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T17:23:10.140213"
+    },
+    "815300": {
+      "appid": 815300,
+      "name": "幻想英雄传 卡片对决",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T17:23:10.482620"
+    },
+    "815370": {
+      "appid": 815370,
+      "name": "Green Hell",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T17:23:10.835877"
+    },
+    "815800": {
+      "appid": 815800,
+      "name": "Infecto",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T17:23:13.060689"
+    },
+    "815950": {
+      "appid": 815950,
+      "name": "Chocolate makes you happy 4",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T17:23:13.854965"
+    },
+    "816080": {
+      "appid": 816080,
+      "name": "Ultimate Select Hero / 究极勇者的选择传说",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T17:23:14.790298"
+    },
+    "816090": {
+      "appid": 816090,
+      "name": "Space Hulk: Deathwing Enhanced Edition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T17:23:14.932720"
+    },
+    "816150": {
+      "appid": 816150,
+      "name": "Hardway Party",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T17:23:15.087827"
+    },
+    "816160": {
+      "appid": 816160,
+      "name": "Score a goal 2 (Physical football)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T17:23:15.213555"
+    },
+    "816210": {
+      "appid": 816210,
+      "name": "The Balcony",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T17:23:15.964336"
+    },
+    "816280": {
+      "appid": 816280,
+      "name": "Amora",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T17:23:16.613947"
+    },
+    "816340": {
+      "appid": 816340,
+      "name": "Kingdom Rush Origins - Tower Defense",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T17:23:16.719290"
+    },
+    "816350": {
+      "appid": 816350,
+      "name": "The Flood",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T17:23:16.825588"
+    },
+    "816430": {
+      "appid": 816430,
+      "name": "Radical Relocation",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T17:23:17.363734"
+    },
+    "816490": {
+      "appid": 816490,
+      "name": "Hidden Paws",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T17:23:17.483808"
+    },
+    "816590": {
+      "appid": 816590,
+      "name": "FinalFire",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T17:23:18.233487"
+    },
+    "816600": {
+      "appid": 816600,
+      "name": "丰裕之角 不可思议之物居住的小镇",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T17:23:18.345085"
+    },
+    "816650": {
+      "appid": 816650,
+      "name": "Armor Contest",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T17:23:18.775794"
+    },
+    "816720": {
+      "appid": 816720,
+      "name": "Bugs Must Die / 异星特勤队",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T17:23:19.109898"
+    },
+    "816810": {
+      "appid": 816810,
+      "name": "Unlight:SchizoChronicle",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T17:23:19.577523"
+    },
+    "816930": {
+      "appid": 816930,
+      "name": "Production Sound / 产声",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T17:23:20.476918"
+    },
+    "817020": {
+      "appid": 817020,
+      "name": "诡门(Unholy)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T17:23:20.708619"
+    },
+    "817410": {
+      "appid": 817410,
+      "name": "SushiParty",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T17:23:22.219586"
+    },
+    "817510": {
+      "appid": 817510,
+      "name": "Golfing Over It with Alva Majo",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T17:23:22.904354"
+    },
+    "817540": {
+      "appid": 817540,
+      "name": "SpellForce 3 Soul Harvest",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T17:23:23.127636"
+    },
+    "817610": {
+      "appid": 817610,
+      "name": "Hidden Space",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T17:23:23.375896"
+    },
+    "817660": {
+      "appid": 817660,
+      "name": "Soul Smith of the Kingdom",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T17:23:23.871541"
+    },
+    "817710": {
+      "appid": 817710,
+      "name": "vridniX",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T17:23:24.088344"
+    },
+    "817800": {
+      "appid": 817800,
+      "name": "Overlook Trail",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T17:23:24.664009"
+    },
+    "817950": {
+      "appid": 817950,
+      "name": "Naturallandscape - Three Gorges (自然景观系列-长江三峡)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T17:23:25.506448"
+    },
+    "818010": {
+      "appid": 818010,
+      "name": "IAIDO",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T17:23:25.906458"
+    },
+    "818320": {
+      "appid": 818320,
+      "name": "LEGO® The Incredibles",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T17:23:27.373387"
+    },
+    "818400": {
+      "appid": 818400,
+      "name": "STARWAY VR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T17:23:28.200502"
+    },
+    "818420": {
+      "appid": 818420,
+      "name": "囧之国",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T17:23:28.455600"
+    },
+    "818440": {
+      "appid": 818440,
+      "name": "Forgotten Places: Lost Circus",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T17:23:28.709819"
+    },
+    "818520": {
+      "appid": 818520,
+      "name": "Builders of Egypt",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T17:23:29.213801"
+    },
+    "818650": {
+      "appid": 818650,
+      "name": "Evil Cogs",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T17:23:30.470304"
+    },
+    "818760": {
+      "appid": 818760,
+      "name": "Woodways",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T17:23:31.215815"
+    },
+    "818950": {
+      "appid": 818950,
+      "name": "Space Slingshot VR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T17:23:32.709915"
+    },
+    "818960": {
+      "appid": 818960,
+      "name": "TAYAL",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T17:23:32.859462"
+    },
+    "819020": {
+      "appid": 819020,
+      "name": "Zanki Zero: Last Beginning",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T17:23:33.153352"
+    },
+    "819030": {
+      "appid": 819030,
+      "name": "STEINS;GATE ELITE",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T17:23:33.302055"
+    },
+    "819040": {
+      "appid": 819040,
+      "name": "Ashi: Lake of Light",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T17:23:33.432804"
+    },
+    "819190": {
+      "appid": 819190,
+      "name": "Undead Citadel",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T17:23:34.122667"
+    },
+    "819220": {
+      "appid": 819220,
+      "name": "Yuso",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T17:23:34.378374"
     }
   }
 }

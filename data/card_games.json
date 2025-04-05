@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-05T17:00:10.822304"
+    "updated": "2025-04-05T17:23:35.048953"
   },
   "games": {
     "570": {
@@ -64846,6 +64846,86 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-05T17:00:08.019279"
+    },
+    "815370": {
+      "appid": 815370,
+      "name": "Green Hell",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T17:23:10.835877"
+    },
+    "815450": {
+      "appid": 815450,
+      "name": "Cardinal Cross",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T17:23:11.286467"
+    },
+    "816270": {
+      "appid": 816270,
+      "name": "Sounds of Verity",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T17:23:16.499799"
+    },
+    "816490": {
+      "appid": 816490,
+      "name": "Hidden Paws",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T17:23:17.483808"
+    },
+    "817020": {
+      "appid": 817020,
+      "name": "诡门(Unholy)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T17:23:20.708619"
+    },
+    "817510": {
+      "appid": 817510,
+      "name": "Golfing Over It with Alva Majo",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T17:23:22.904354"
+    },
+    "817540": {
+      "appid": 817540,
+      "name": "SpellForce 3 Soul Harvest",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T17:23:23.127636"
+    },
+    "817660": {
+      "appid": 817660,
+      "name": "Soul Smith of the Kingdom",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T17:23:23.871541"
+    },
+    "817840": {
+      "appid": 817840,
+      "name": "Max Gentlemen Sexy Business!",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T17:23:24.946828"
+    },
+    "819020": {
+      "appid": 819020,
+      "name": "Zanki Zero: Last Beginning",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T17:23:33.153352"
     }
   }
 }
