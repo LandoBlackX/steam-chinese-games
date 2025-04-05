@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-05T18:41:27.624752"
+    "updated": "2025-04-05T18:54:22.037995"
   },
   "games": {
     "570": {
@@ -76496,6 +76496,422 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-05T18:41:27.493599"
+    },
+    "841110": {
+      "appid": 841110,
+      "name": "HOLY COW! Milking Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T18:53:55.452525"
+    },
+    "841190": {
+      "appid": 841190,
+      "name": "Honey, I Joined a Cult",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T18:53:56.101365"
+    },
+    "841210": {
+      "appid": 841210,
+      "name": "WW Fantasy",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T18:53:56.364173"
+    },
+    "841600": {
+      "appid": 841600,
+      "name": "Aura of Worlds",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T18:53:58.622541"
+    },
+    "841870": {
+      "appid": 841870,
+      "name": "Guardian of Immortal Mountain(仙山守卫者)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T18:53:59.370551"
+    },
+    "842080": {
+      "appid": 842080,
+      "name": "Rabbit Valley Legend (兔子山谷传说)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T18:54:00.202485"
+    },
+    "842100": {
+      "appid": 842100,
+      "name": "Daymare: 1998",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T18:54:00.437370"
+    },
+    "842120": {
+      "appid": 842120,
+      "name": "Arca's Path VR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T18:54:00.571585"
+    },
+    "842140": {
+      "appid": 842140,
+      "name": "Kitten'd",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T18:54:00.809977"
+    },
+    "842150": {
+      "appid": 842150,
+      "name": "Wild West Saga: Idle Tycoon Clicker",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T18:54:00.930282"
+    },
+    "842180": {
+      "appid": 842180,
+      "name": "监狱模拟器 | Prison Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T18:54:01.205419"
+    },
+    "842190": {
+      "appid": 842190,
+      "name": "江湖侠客行",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T18:54:01.319418"
+    },
+    "842780": {
+      "appid": 842780,
+      "name": "NavalArt",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T18:54:04.323306"
+    },
+    "842810": {
+      "appid": 842810,
+      "name": "Märchen Forest: Mylne and the Forest Gift [Legacy ver.]",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T18:54:04.455254"
+    },
+    "842910": {
+      "appid": 842910,
+      "name": "The MISSING: J.J. Macfield and the Island of Memories",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T18:54:04.842309"
+    },
+    "842990": {
+      "appid": 842990,
+      "name": "Taco Gun",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T18:54:05.146391"
+    },
+    "843050": {
+      "appid": 843050,
+      "name": "North Stars",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T18:54:05.719460"
+    },
+    "843180": {
+      "appid": 843180,
+      "name": "Clan O'Conall and the Crown of the Stag",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T18:54:06.567878"
+    },
+    "843200": {
+      "appid": 843200,
+      "name": "Alien Hominid Invasion",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T18:54:06.842420"
+    },
+    "843360": {
+      "appid": 843360,
+      "name": "Rift Keeper",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T18:54:07.859912"
+    },
+    "843380": {
+      "appid": 843380,
+      "name": "Super Animal Royale",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T18:54:08.109194"
+    },
+    "843390": {
+      "appid": 843390,
+      "name": "Vertigo 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T18:54:08.233401"
+    },
+    "843430": {
+      "appid": 843430,
+      "name": "Righty Tighty XL",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T18:54:08.585046"
+    },
+    "843440": {
+      "appid": 843440,
+      "name": "Pivot XL",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T18:54:08.707267"
+    },
+    "843560": {
+      "appid": 843560,
+      "name": "IronCommando/钢铁突击队",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T18:54:09.208994"
+    },
+    "843580": {
+      "appid": 843580,
+      "name": "DotLine",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T18:54:09.334649"
+    },
+    "843710": {
+      "appid": 843710,
+      "name": "Déjà Vu",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T18:54:10.185633"
+    },
+    "843720": {
+      "appid": 843720,
+      "name": "Dissimilated Land",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T18:54:10.296426"
+    },
+    "843790": {
+      "appid": 843790,
+      "name": "HUMAN LIVE-HOW LONG CAN HUMAN BEINGS EXIST?人类能生存多久？挑战各种灾难，地球世界末日，冒险策略模拟经营游戏",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T18:54:10.948471"
+    },
+    "843810": {
+      "appid": 843810,
+      "name": "完美的一天",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T18:54:11.072524"
+    },
+    "844050": {
+      "appid": 844050,
+      "name": "Desert Child",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T18:54:12.841494"
+    },
+    "844160": {
+      "appid": 844160,
+      "name": "Chocolate makes you happy 5",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T18:54:13.582929"
+    },
+    "844260": {
+      "appid": 844260,
+      "name": "Rustler (Grand Theft Horse)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T18:54:14.078822"
+    },
+    "844380": {
+      "appid": 844380,
+      "name": "Cave Digger VR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T18:54:14.453961"
+    },
+    "844390": {
+      "appid": 844390,
+      "name": "Deadly Flare",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T18:54:14.585744"
+    },
+    "844520": {
+      "appid": 844520,
+      "name": "RECOIL",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T18:54:15.363132"
+    },
+    "844540": {
+      "appid": 844540,
+      "name": "The Worst Day Ever",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T18:54:15.479106"
+    },
+    "844660": {
+      "appid": 844660,
+      "name": "Heart of the Woods - 森灵之心",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T18:54:16.133817"
+    },
+    "844850": {
+      "appid": 844850,
+      "name": "Tower Hunter: Erza's Trial",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T18:54:17.166227"
+    },
+    "844860": {
+      "appid": 844860,
+      "name": "Tank Operations: European Campaign",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T18:54:17.286366"
+    },
+    "844870": {
+      "appid": 844870,
+      "name": "KurtzPel",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T18:54:17.442401"
+    },
+    "844920": {
+      "appid": 844920,
+      "name": "Fortissimo FA",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T18:54:17.931411"
+    },
+    "844930": {
+      "appid": 844930,
+      "name": "Fox Hime Zero",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T18:54:18.052886"
+    },
+    "844950": {
+      "appid": 844950,
+      "name": "Eternal Fantasy",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T18:54:18.294832"
+    },
+    "844960": {
+      "appid": 844960,
+      "name": "Pro 11 - Football Manager Game",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T18:54:18.406856"
+    },
+    "844990": {
+      "appid": 844990,
+      "name": "Drone Striker",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T18:54:18.768822"
+    },
+    "845030": {
+      "appid": 845030,
+      "name": "Evergate",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T18:54:18.900896"
+    },
+    "845070": {
+      "appid": 845070,
+      "name": "The Awesome Adventures of Captain Spirit",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T18:54:19.274449"
+    },
+    "845200": {
+      "appid": 845200,
+      "name": "❂ Hexaluga ❂ Weapon and Shield ☯",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T18:54:20.017062"
+    },
+    "845400": {
+      "appid": 845400,
+      "name": "Club Dance Party VR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T18:54:21.417782"
+    },
+    "845460": {
+      "appid": 845460,
+      "name": "Make Route",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T18:54:21.669693"
+    },
+    "845510": {
+      "appid": 845510,
+      "name": "DiyMachinery （自定义机械）",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T18:54:22.036766"
     }
   }
 }
