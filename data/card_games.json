@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-05T10:00:25.487573"
+    "updated": "2025-04-05T10:29:25.843618"
   },
   "games": {
     "570": {
@@ -61126,6 +61126,214 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-04-05T10:00:23.806098"
+    },
+    "678190": {
+      "appid": 678190,
+      "name": "King of Bali",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T10:28:56.027688"
+    },
+    "678520": {
+      "appid": 678520,
+      "name": "Gal*Gun VR",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T10:28:59.318609"
+    },
+    "678560": {
+      "appid": 678560,
+      "name": "鸿源战纪 - Tales of Hongyuan",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T10:28:59.737893"
+    },
+    "678900": {
+      "appid": 678900,
+      "name": "农夫王朝",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T10:29:01.784722"
+    },
+    "678950": {
+      "appid": 678950,
+      "name": "DRAGON BALL FighterZ",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T10:29:02.539503"
+    },
+    "678960": {
+      "appid": 678960,
+      "name": "CODE VEIN",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T10:29:02.680955"
+    },
+    "678970": {
+      "appid": 678970,
+      "name": "Modern Tales: Age of Invention",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T10:29:02.810124"
+    },
+    "679190": {
+      "appid": 679190,
+      "name": "The Hunting God",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T10:29:04.272469"
+    },
+    "679400": {
+      "appid": 679400,
+      "name": "Relik",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T10:29:05.162860"
+    },
+    "679750": {
+      "appid": 679750,
+      "name": "Catch & Release",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T10:29:08.737641"
+    },
+    "679900": {
+      "appid": 679900,
+      "name": "Swords & Souls: Neverseen",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T10:29:09.609146"
+    },
+    "680030": {
+      "appid": 680030,
+      "name": "地牢小霸王",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T10:29:10.154538"
+    },
+    "680310": {
+      "appid": 680310,
+      "name": "Poker World - Single Player",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T10:29:11.424386"
+    },
+    "680360": {
+      "appid": 680360,
+      "name": "Regions Of Ruin",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T10:29:11.935732"
+    },
+    "680390": {
+      "appid": 680390,
+      "name": "Hidden Dragon: Legend",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T10:29:12.240927"
+    },
+    "680400": {
+      "appid": 680400,
+      "name": "Light Tracer (VR & NON-VR)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T10:29:12.371188"
+    },
+    "680420": {
+      "appid": 680420,
+      "name": "OUTRIDERS",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T10:29:12.519383"
+    },
+    "680480": {
+      "appid": 680480,
+      "name": "ICY: Frostbite Edition",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T10:29:12.938224"
+    },
+    "680860": {
+      "appid": 680860,
+      "name": "Evil Labs",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T10:29:14.878761"
+    },
+    "680980": {
+      "appid": 680980,
+      "name": "头条新闻",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T10:29:15.971079"
+    },
+    "681280": {
+      "appid": 681280,
+      "name": "Descenders",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T10:29:18.256102"
+    },
+    "681330": {
+      "appid": 681330,
+      "name": "Helium Rain",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T10:29:18.515368"
+    },
+    "681530": {
+      "appid": 681530,
+      "name": "NOISZ",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T10:29:20.239432"
+    },
+    "681640": {
+      "appid": 681640,
+      "name": "World of Contraptions",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T10:29:21.217682"
+    },
+    "681660": {
+      "appid": 681660,
+      "name": "Bless Online",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T10:29:21.401961"
+    },
+    "681730": {
+      "appid": 681730,
+      "name": "Nowhere Prophet",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T10:29:22.273147"
     }
   }
 }
