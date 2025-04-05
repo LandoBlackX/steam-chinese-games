@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-05T15:34:07.507760"
+    "updated": "2025-04-05T15:36:49.738238"
   },
   "games": {
     "570": {
@@ -63934,6 +63934,158 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-05T15:34:03.147811"
+    },
+    "780280": {
+      "appid": 780280,
+      "name": "Summer Funland",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T15:36:11.470610"
+    },
+    "780290": {
+      "appid": 780290,
+      "name": "Gloomhaven",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T15:36:11.825868"
+    },
+    "780310": {
+      "appid": 780310,
+      "name": "The Riftbreaker 银河破裂者",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T15:36:12.136166"
+    },
+    "781480": {
+      "appid": 781480,
+      "name": "Tech Support: Error Unknown",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T15:36:20.385928"
+    },
+    "782140": {
+      "appid": 782140,
+      "name": "Re-Legion",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T15:36:26.844706"
+    },
+    "782330": {
+      "appid": 782330,
+      "name": "DOOM Eternal",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T15:36:28.472063"
+    },
+    "782690": {
+      "appid": 782690,
+      "name": "Gazing from beyond",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T15:36:31.604665"
+    },
+    "783120": {
+      "appid": 783120,
+      "name": "淑女同萌！",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T15:36:32.730644"
+    },
+    "783170": {
+      "appid": 783170,
+      "name": "INSOMNIA: The Ark",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T15:36:32.986544"
+    },
+    "783590": {
+      "appid": 783590,
+      "name": "Age of Gladiators II: Rome",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T15:36:37.579512"
+    },
+    "783940": {
+      "appid": 783940,
+      "name": "Forgotten Hill Mementoes",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T15:36:39.558979"
+    },
+    "784150": {
+      "appid": 784150,
+      "name": "工人与资源：苏维埃共和国 Workers & Resources: Soviet Republic",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T15:36:41.327013"
+    },
+    "784950": {
+      "appid": 784950,
+      "name": "CONFLICT OF NATIONS: WORLD WAR 3",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T15:36:41.899270"
+    },
+    "785260": {
+      "appid": 785260,
+      "name": "Team Sonic Racing",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T15:36:43.828890"
+    },
+    "785740": {
+      "appid": 785740,
+      "name": "This Is the Police 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T15:36:45.321694"
+    },
+    "785780": {
+      "appid": 785780,
+      "name": "OF MICE AND SAND -REVISED-",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T15:36:46.262713"
+    },
+    "785840": {
+      "appid": 785840,
+      "name": "Moe Jigsaw",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T15:36:46.862231"
+    },
+    "785880": {
+      "appid": 785880,
+      "name": "OVERWHELM",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T15:36:47.799172"
+    },
+    "785890": {
+      "appid": 785890,
+      "name": "Hexologic",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T15:36:48.018099"
     }
   }
 }

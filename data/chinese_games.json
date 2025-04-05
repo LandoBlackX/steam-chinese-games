@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-05T15:34:07.507760"
+    "updated": "2025-04-05T15:36:49.738238"
   },
   "games": {
     "570": {
@@ -71736,6 +71736,422 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-04-05T15:34:07.357146"
+    },
+    "780280": {
+      "appid": 780280,
+      "name": "Summer Funland",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T15:36:11.470610"
+    },
+    "780310": {
+      "appid": 780310,
+      "name": "The Riftbreaker 银河破裂者",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T15:36:12.136166"
+    },
+    "780350": {
+      "appid": 780350,
+      "name": "Unruly Heroes",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:36:12.697137"
+    },
+    "780500": {
+      "appid": 780500,
+      "name": "Suzy Cube",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:36:13.632758"
+    },
+    "780670": {
+      "appid": 780670,
+      "name": "奇幻东征",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:36:14.549629"
+    },
+    "780970": {
+      "appid": 780970,
+      "name": "Food Dream Factory 梦想的美食世界：研发美食开心制作糖果模拟经营养成",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:36:16.895526"
+    },
+    "781040": {
+      "appid": 781040,
+      "name": "MissionX Beta",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:36:17.507727"
+    },
+    "781130": {
+      "appid": 781130,
+      "name": "Creatura",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:36:18.205103"
+    },
+    "781180": {
+      "appid": 781180,
+      "name": "Technicity",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:36:18.362991"
+    },
+    "781200": {
+      "appid": 781200,
+      "name": "Beat the Rhythm VR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:36:18.524349"
+    },
+    "781480": {
+      "appid": 781480,
+      "name": "Tech Support: Error Unknown",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T15:36:20.385928"
+    },
+    "781490": {
+      "appid": 781490,
+      "name": "Lonely Trip",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:36:20.543264"
+    },
+    "781500": {
+      "appid": 781500,
+      "name": "Candy Snake Master",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:36:20.769231"
+    },
+    "781590": {
+      "appid": 781590,
+      "name": "三国游侠志",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:36:21.079879"
+    },
+    "781810": {
+      "appid": 781810,
+      "name": "Oik 4",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:36:23.435410"
+    },
+    "781820": {
+      "appid": 781820,
+      "name": "Oik Memory 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:36:23.626169"
+    },
+    "782020": {
+      "appid": 782020,
+      "name": "Endless Crusade",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:36:25.699935"
+    },
+    "782120": {
+      "appid": 782120,
+      "name": "Super Gravity Ball",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:36:26.357993"
+    },
+    "782140": {
+      "appid": 782140,
+      "name": "Re-Legion",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T15:36:26.844706"
+    },
+    "782180": {
+      "appid": 782180,
+      "name": "The way to defeat the Archfiend / 打倒魔王的方法",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:36:27.187340"
+    },
+    "782330": {
+      "appid": 782330,
+      "name": "DOOM Eternal",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T15:36:28.472063"
+    },
+    "782570": {
+      "appid": 782570,
+      "name": "无尽之路：重生",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:36:30.381408"
+    },
+    "782660": {
+      "appid": 782660,
+      "name": "Modern Tanks: 战争坦克游戏",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:36:31.288422"
+    },
+    "782670": {
+      "appid": 782670,
+      "name": "Battle Tanks: 二战传奇",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:36:31.442644"
+    },
+    "782690": {
+      "appid": 782690,
+      "name": "Gazing from beyond",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T15:36:31.604665"
+    },
+    "782940": {
+      "appid": 782940,
+      "name": "RAWMEN: Food Fighter Arena 🍜",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:36:31.940681"
+    },
+    "783120": {
+      "appid": 783120,
+      "name": "淑女同萌！",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T15:36:32.730644"
+    },
+    "783180": {
+      "appid": 783180,
+      "name": "Fairune Collection",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:36:33.173784"
+    },
+    "783240": {
+      "appid": 783240,
+      "name": "Die pig die",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:36:34.068608"
+    },
+    "783250": {
+      "appid": 783250,
+      "name": "CONTAINMENT",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:36:34.242659"
+    },
+    "783270": {
+      "appid": 783270,
+      "name": "Seek & Destroy - Steampunk Arcade",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:36:34.627488"
+    },
+    "783340": {
+      "appid": 783340,
+      "name": "FRACTER",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:36:35.364709"
+    },
+    "783420": {
+      "appid": 783420,
+      "name": "Elementium",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:36:35.893911"
+    },
+    "783440": {
+      "appid": 783440,
+      "name": "Seven Mysteries: The Last Page",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:36:36.239909"
+    },
+    "783450": {
+      "appid": 783450,
+      "name": "HYPERGUN",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:36:36.583733"
+    },
+    "783770": {
+      "appid": 783770,
+      "name": "Ironsight",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:36:38.469624"
+    },
+    "783840": {
+      "appid": 783840,
+      "name": "Lakeview Valley",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:36:38.845670"
+    },
+    "783940": {
+      "appid": 783940,
+      "name": "Forgotten Hill Mementoes",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T15:36:39.558979"
+    },
+    "784060": {
+      "appid": 784060,
+      "name": "Bitcoin Mining Empire Tycoon",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:36:40.448380"
+    },
+    "784150": {
+      "appid": 784150,
+      "name": "工人与资源：苏维埃共和国 Workers & Resources: Soviet Republic",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T15:36:41.327013"
+    },
+    "784950": {
+      "appid": 784950,
+      "name": "CONFLICT OF NATIONS: WORLD WAR 3",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T15:36:41.899270"
+    },
+    "785030": {
+      "appid": 785030,
+      "name": "Little Adventurer III",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:36:42.079150"
+    },
+    "785070": {
+      "appid": 785070,
+      "name": "Dig and Shoot",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:36:42.442413"
+    },
+    "785260": {
+      "appid": 785260,
+      "name": "Team Sonic Racing",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T15:36:43.828890"
+    },
+    "785740": {
+      "appid": 785740,
+      "name": "This Is the Police 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T15:36:45.321694"
+    },
+    "785780": {
+      "appid": 785780,
+      "name": "OF MICE AND SAND -REVISED-",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T15:36:46.262713"
+    },
+    "785790": {
+      "appid": 785790,
+      "name": "WHAT THE GOLF?",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:36:46.424278"
+    },
+    "785840": {
+      "appid": 785840,
+      "name": "Moe Jigsaw",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T15:36:46.862231"
+    },
+    "785850": {
+      "appid": 785850,
+      "name": "Valthirian Arc: Hero School Story",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:36:47.187419"
+    },
+    "785860": {
+      "appid": 785860,
+      "name": "Zombie Watch",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:36:47.369786"
+    },
+    "785890": {
+      "appid": 785890,
+      "name": "Hexologic",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T15:36:48.018099"
+    },
+    "786020": {
+      "appid": 786020,
+      "name": "Warhead",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:36:49.034641"
     }
   }
 }
