@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-05T21:24:31.037272"
+    "updated": "2025-04-05T21:38:16.760913"
   },
   "games": {
     "570": {
@@ -80576,6 +80576,406 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-04-05T21:24:30.910998"
+    },
+    "889480": {
+      "appid": 889480,
+      "name": "Virtual Virtual Reality",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T21:37:36.335101"
+    },
+    "889510": {
+      "appid": 889510,
+      "name": "SENRAN KAGURA Burst Re:Newal",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T21:37:36.709250"
+    },
+    "889680": {
+      "appid": 889680,
+      "name": "Her",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T21:37:38.200401"
+    },
+    "889720": {
+      "appid": 889720,
+      "name": "Crypto Crisis",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T21:37:39.014546"
+    },
+    "889770": {
+      "appid": 889770,
+      "name": "UnHolY DisAsTeR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T21:37:39.563315"
+    },
+    "889910": {
+      "appid": 889910,
+      "name": "Hell Pie",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T21:37:40.168563"
+    },
+    "889990": {
+      "appid": 889990,
+      "name": "RGBCELLS",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T21:37:40.767166"
+    },
+    "890030": {
+      "appid": 890030,
+      "name": "Shadow of the Tomb Raider: Definitive Edition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T21:37:41.097710"
+    },
+    "890031": {
+      "appid": 890031,
+      "name": "Shadow of the Tomb Raider: Definitive Edition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T21:37:41.266157"
+    },
+    "890032": {
+      "appid": 890032,
+      "name": "Shadow of the Tomb Raider: Definitive Edition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T21:37:41.437085"
+    },
+    "890070": {
+      "appid": 890070,
+      "name": "秋色的記憶(體驗版) / Fall...in Love (Demo)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T21:37:41.743797"
+    },
+    "890280": {
+      "appid": 890280,
+      "name": "Myha: Return to the Lost Island",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T21:37:42.717054"
+    },
+    "890680": {
+      "appid": 890680,
+      "name": "Mars Troopers - 生化奇兵2019",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T21:37:45.247877"
+    },
+    "890710": {
+      "appid": 890710,
+      "name": "Ecchi Puzzle",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T21:37:45.736325"
+    },
+    "890720": {
+      "appid": 890720,
+      "name": "In Other Waters",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T21:37:45.877342"
+    },
+    "890890": {
+      "appid": 890890,
+      "name": "绿色能源",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T21:37:47.060222"
+    },
+    "890910": {
+      "appid": 890910,
+      "name": "Kill The Monster",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T21:37:47.394974"
+    },
+    "891040": {
+      "appid": 891040,
+      "name": "台球2D - Poolians",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T21:37:48.219652"
+    },
+    "891220": {
+      "appid": 891220,
+      "name": "pla_toon",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T21:37:54.655511"
+    },
+    "891310": {
+      "appid": 891310,
+      "name": "Medical verdict",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T21:37:55.644555"
+    },
+    "891330": {
+      "appid": 891330,
+      "name": "Fast Dust",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T21:37:56.123856"
+    },
+    "891360": {
+      "appid": 891360,
+      "name": "Hellcoming",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T21:37:56.884792"
+    },
+    "891510": {
+      "appid": 891510,
+      "name": "Love's Sweet Garnish",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T21:37:58.683901"
+    },
+    "891870": {
+      "appid": 891870,
+      "name": "King of Phoenix",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T21:37:59.932544"
+    },
+    "891970": {
+      "appid": 891970,
+      "name": "Train Defense",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T21:38:00.357246"
+    },
+    "892180": {
+      "appid": 892180,
+      "name": "Powernode",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T21:38:01.382930"
+    },
+    "892210": {
+      "appid": 892210,
+      "name": "GUNGRAVE VR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T21:38:01.668005"
+    },
+    "892420": {
+      "appid": 892420,
+      "name": "懒人修仙传",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T21:38:02.065769"
+    },
+    "892460": {
+      "appid": 892460,
+      "name": "TwoPlay Mahjong(双人麻将)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T21:38:02.374259"
+    },
+    "892490": {
+      "appid": 892490,
+      "name": "Fish Catcher 飞鱼捕手",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T21:38:02.685056"
+    },
+    "892550": {
+      "appid": 892550,
+      "name": "Beauty and the Beast: Hidden Object Fairy Tale. HOG",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T21:38:02.981153"
+    },
+    "892630": {
+      "appid": 892630,
+      "name": "Mojo: Hanako",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T21:38:03.523104"
+    },
+    "892760": {
+      "appid": 892760,
+      "name": "花开之魔种",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T21:38:03.960676"
+    },
+    "892860": {
+      "appid": 892860,
+      "name": "Hot Brass",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T21:38:04.769501"
+    },
+    "892880": {
+      "appid": 892880,
+      "name": "Chocolate makes you happy 7",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T21:38:04.926154"
+    },
+    "892900": {
+      "appid": 892900,
+      "name": "Emoto",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T21:38:05.110482"
+    },
+    "892930": {
+      "appid": 892930,
+      "name": "Sonar Beat",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T21:38:05.408991"
+    },
+    "892970": {
+      "appid": 892970,
+      "name": "Valheim: 英灵神殿",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T21:38:05.726523"
+    },
+    "893010": {
+      "appid": 893010,
+      "name": "奴隶之剑",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T21:38:06.275044"
+    },
+    "893020": {
+      "appid": 893020,
+      "name": "奴隶之剑２",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T21:38:06.434711"
+    },
+    "893460": {
+      "appid": 893460,
+      "name": "NightmareBullet",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T21:38:09.189614"
+    },
+    "893470": {
+      "appid": 893470,
+      "name": "Salary Man Escape",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T21:38:09.383609"
+    },
+    "893480": {
+      "appid": 893480,
+      "name": "For the Revenge",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T21:38:09.731431"
+    },
+    "893500": {
+      "appid": 893500,
+      "name": "魅魔栖息的小岛",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T21:38:10.088522"
+    },
+    "893560": {
+      "appid": 893560,
+      "name": "Spire of Sorcery – Character Generator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T21:38:10.252814"
+    },
+    "893680": {
+      "appid": 893680,
+      "name": "Project Warlock",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T21:38:11.559184"
+    },
+    "893720": {
+      "appid": 893720,
+      "name": "One Hand Clapping",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T21:38:11.986248"
+    },
+    "893850": {
+      "appid": 893850,
+      "name": "漫长等待",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T21:38:12.878956"
+    },
+    "894020": {
+      "appid": 894020,
+      "name": "死亡之门",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T21:38:14.341447"
+    },
+    "894060": {
+      "appid": 894060,
+      "name": "Watch",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T21:38:14.600207"
     }
   }
 }
