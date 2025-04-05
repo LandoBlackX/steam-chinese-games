@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-05T21:38:16.760913"
+    "updated": "2025-04-05T21:51:20.594190"
   },
   "games": {
     "570": {
@@ -66686,6 +66686,78 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-05T21:38:14.341447"
+    },
+    "895160": {
+      "appid": 895160,
+      "name": "Autonomica",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T21:50:55.207189"
+    },
+    "895420": {
+      "appid": 895420,
+      "name": "Path of Sin: Greed",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T21:50:56.357599"
+    },
+    "895480": {
+      "appid": 895480,
+      "name": "Fates of Ort",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T21:50:56.820876"
+    },
+    "896160": {
+      "appid": 896160,
+      "name": "Evil Bank Manager",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T21:51:01.281789"
+    },
+    "896460": {
+      "appid": 896460,
+      "name": "梦境天堂",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T21:51:03.313040"
+    },
+    "896750": {
+      "appid": 896750,
+      "name": "Koral",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T21:51:04.415706"
+    },
+    "897220": {
+      "appid": 897220,
+      "name": "Summer Pockets",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T21:51:07.688924"
+    },
+    "897930": {
+      "appid": 897930,
+      "name": "Demonheart: Hunters",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T21:51:12.067890"
+    },
+    "898750": {
+      "appid": 898750,
+      "name": "超级机器人大战30",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T21:51:17.379875"
     }
   }
 }
