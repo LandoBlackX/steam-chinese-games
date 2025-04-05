@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-05T14:40:09.972206"
+    "updated": "2025-04-05T14:53:23.196980"
   },
   "games": {
     "570": {
@@ -69792,6 +69792,414 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-04-05T14:40:09.827595"
+    },
+    "757180": {
+      "appid": 757180,
+      "name": "Wolf & Rabbit",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T14:52:49.161651"
+    },
+    "757300": {
+      "appid": 757300,
+      "name": "墨池镇",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T14:52:50.935571"
+    },
+    "757310": {
+      "appid": 757310,
+      "name": "Sable",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T14:52:51.081732"
+    },
+    "757320": {
+      "appid": 757320,
+      "name": "Atomicrops",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T14:52:51.227002"
+    },
+    "757330": {
+      "appid": 757330,
+      "name": "qop 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T14:52:51.522149"
+    },
+    "757550": {
+      "appid": 757550,
+      "name": "Football Story",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T14:52:53.841581"
+    },
+    "757630": {
+      "appid": 757630,
+      "name": "Big Day",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T14:52:54.637291"
+    },
+    "757820": {
+      "appid": 757820,
+      "name": "Flowing Lights",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T14:52:56.059572"
+    },
+    "757870": {
+      "appid": 757870,
+      "name": "Australian trip",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T14:52:56.513246"
+    },
+    "758090": {
+      "appid": 758090,
+      "name": "茂伸奇谈",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T14:52:58.305298"
+    },
+    "758100": {
+      "appid": 758100,
+      "name": "E-Startup",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T14:52:58.513903"
+    },
+    "758190": {
+      "appid": 758190,
+      "name": "龙崖",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T14:52:59.324053"
+    },
+    "758270": {
+      "appid": 758270,
+      "name": "裁決者 -The White Butcher-",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T14:52:59.942933"
+    },
+    "758330": {
+      "appid": 758330,
+      "name": "Shenmue I & II",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T14:53:00.434814"
+    },
+    "758370": {
+      "appid": 758370,
+      "name": "Through the Ages",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T14:53:00.577409"
+    },
+    "758680": {
+      "appid": 758680,
+      "name": "Oddinary Highway",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T14:53:03.825489"
+    },
+    "758690": {
+      "appid": 758690,
+      "name": "Occupy Mars: The Game",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T14:53:03.959397"
+    },
+    "758880": {
+      "appid": 758880,
+      "name": "RedSun RTS",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T14:53:04.914156"
+    },
+    "759000": {
+      "appid": 759000,
+      "name": ".projekt",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T14:53:05.660986"
+    },
+    "759540": {
+      "appid": 759540,
+      "name": "Wanted Killer VR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T14:53:07.284643"
+    },
+    "759640": {
+      "appid": 759640,
+      "name": "Plug Me",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T14:53:07.737937"
+    },
+    "759740": {
+      "appid": 759740,
+      "name": "RIDE 3",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T14:53:08.074140"
+    },
+    "759920": {
+      "appid": 759920,
+      "name": "Souland",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T14:53:09.338993"
+    },
+    "759940": {
+      "appid": 759940,
+      "name": "前程似锦 Excellent Expectations",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T14:53:09.490375"
+    },
+    "759950": {
+      "appid": 759950,
+      "name": "Uizuno Blade VR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T14:53:09.645507"
+    },
+    "760000": {
+      "appid": 760000,
+      "name": "AWAKEN：Gunpowder Adventurer Day.Dream",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T14:53:09.946727"
+    },
+    "760010": {
+      "appid": 760010,
+      "name": "Flying Turkey",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T14:53:10.083603"
+    },
+    "760030": {
+      "appid": 760030,
+      "name": "Dizzy Dungeon",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T14:53:10.270410"
+    },
+    "760050": {
+      "appid": 760050,
+      "name": "Nightwolf: Survive the Megadome",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T14:53:10.413923"
+    },
+    "760060": {
+      "appid": 760060,
+      "name": "Mutant Year Zero: Road to Eden",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T14:53:10.578047"
+    },
+    "760120": {
+      "appid": 760120,
+      "name": "Your Toy",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T14:53:10.772507"
+    },
+    "760160": {
+      "appid": 760160,
+      "name": "Vampire: The Masquerade - Bloodhunt",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T14:53:10.945438"
+    },
+    "760250": {
+      "appid": 760250,
+      "name": "MUKTI",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T14:53:11.409046"
+    },
+    "760410": {
+      "appid": 760410,
+      "name": "不要害怕",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T14:53:12.612004"
+    },
+    "760520": {
+      "appid": 760520,
+      "name": "Dough",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T14:53:13.209708"
+    },
+    "760550": {
+      "appid": 760550,
+      "name": "KAKUSANKIBOU / 扩散希望",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T14:53:13.602507"
+    },
+    "760630": {
+      "appid": 760630,
+      "name": "Tennis Elbow Manager 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T14:53:14.055603"
+    },
+    "760640": {
+      "appid": 760640,
+      "name": "Tennis Elbow 4",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T14:53:14.295351"
+    },
+    "760650": {
+      "appid": 760650,
+      "name": "百炼成钢",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T14:53:14.441901"
+    },
+    "760800": {
+      "appid": 760800,
+      "name": "Cube Life: Island Survival",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T14:53:15.223770"
+    },
+    "760810": {
+      "appid": 760810,
+      "name": "Retimed",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T14:53:15.368946"
+    },
+    "760890": {
+      "appid": 760890,
+      "name": "Hello Charlotte EP3: Childhood's End",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T14:53:15.702824"
+    },
+    "761010": {
+      "appid": 761010,
+      "name": "Wave Break",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T14:53:17.259647"
+    },
+    "761090": {
+      "appid": 761090,
+      "name": "Curre",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T14:53:18.284317"
+    },
+    "761170": {
+      "appid": 761170,
+      "name": "Radical Dungeon Sweeper",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T14:53:19.494478"
+    },
+    "761350": {
+      "appid": 761350,
+      "name": "空箱",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T14:53:20.872855"
+    },
+    "761600": {
+      "appid": 761600,
+      "name": "Onimusha: Warlords",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T14:53:21.783947"
+    },
+    "761620": {
+      "appid": 761620,
+      "name": "Beholder 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T14:53:21.945611"
+    },
+    "761670": {
+      "appid": 761670,
+      "name": "灰色幻影扳机第4卷",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T14:53:22.578460"
+    },
+    "761700": {
+      "appid": 761700,
+      "name": "Your Diary +",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T14:53:22.729923"
+    },
+    "761720": {
+      "appid": 761720,
+      "name": "Can you eat by yourself",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T14:53:22.883608"
     }
   }
 }
