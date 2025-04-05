@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-05T07:40:45.113473"
+    "updated": "2025-04-05T07:53:45.855488"
   },
   "games": {
     "570": {
@@ -60776,6 +60776,430 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-05T07:40:44.856241"
+    },
+    "639470": {
+      "appid": 639470,
+      "name": "原始旅程",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T07:53:15.467908"
+    },
+    "639770": {
+      "appid": 639770,
+      "name": "UNTITLED",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T07:53:16.505658"
+    },
+    "640050": {
+      "appid": 640050,
+      "name": "Soldiers of the Universe",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T07:53:17.659262"
+    },
+    "640120": {
+      "appid": 640120,
+      "name": "Youropa",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T07:53:18.148572"
+    },
+    "640160": {
+      "appid": 640160,
+      "name": "Galactic Glitch: Prologue",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T07:53:18.410755"
+    },
+    "640380": {
+      "appid": 640380,
+      "name": "UBERMOSH Vol.5",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T07:53:20.090788"
+    },
+    "640590": {
+      "appid": 640590,
+      "name": "The LEGO® NINJAGO® Movie Video Game",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T07:53:20.445851"
+    },
+    "640700": {
+      "appid": 640700,
+      "name": "Narvas",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T07:53:20.855536"
+    },
+    "640760": {
+      "appid": 640760,
+      "name": "Code51:Mecha Arena",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T07:53:21.137546"
+    },
+    "640820": {
+      "appid": 640820,
+      "name": "Pathfinder: Kingmaker — Enhanced Plus Edition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T07:53:21.582223"
+    },
+    "640890": {
+      "appid": 640890,
+      "name": "Will Glow the Wisp",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T07:53:22.305613"
+    },
+    "641080": {
+      "appid": 641080,
+      "name": "Trials® Rising",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T07:53:23.114200"
+    },
+    "641320": {
+      "appid": 641320,
+      "name": "Cooking Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T07:53:23.286536"
+    },
+    "641780": {
+      "appid": 641780,
+      "name": "The Drone Racing League Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T07:53:23.924671"
+    },
+    "641960": {
+      "appid": 641960,
+      "name": "BOXVR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T07:53:24.837372"
+    },
+    "641990": {
+      "appid": 641990,
+      "name": "The Escapists 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T07:53:25.118799"
+    },
+    "642000": {
+      "appid": 642000,
+      "name": "Regenesis Arcade Lite",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T07:53:25.252409"
+    },
+    "642070": {
+      "appid": 642070,
+      "name": "VR Theme Park Rides",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T07:53:25.544531"
+    },
+    "642520": {
+      "appid": 642520,
+      "name": "Trio",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T07:53:26.272329"
+    },
+    "642560": {
+      "appid": 642560,
+      "name": "Art Of Gravity",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T07:53:26.414115"
+    },
+    "642610": {
+      "appid": 642610,
+      "name": "Shape of the World",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T07:53:26.988781"
+    },
+    "642830": {
+      "appid": 642830,
+      "name": "Milanoir",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T07:53:28.384249"
+    },
+    "643200": {
+      "appid": 643200,
+      "name": "Keep in Mind: Remastered",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T07:53:28.935083"
+    },
+    "643270": {
+      "appid": 643270,
+      "name": "OLDTV",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T07:53:29.368608"
+    },
+    "643590": {
+      "appid": 643590,
+      "name": "Everyday Golf VR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T07:53:29.786291"
+    },
+    "643610": {
+      "appid": 643610,
+      "name": "Mortal Blitz",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T07:53:29.993442"
+    },
+    "643810": {
+      "appid": 643810,
+      "name": "Fugl (鸟)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T07:53:30.301682"
+    },
+    "643880": {
+      "appid": 643880,
+      "name": "Strikey Sisters",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T07:53:30.878722"
+    },
+    "643930": {
+      "appid": 643930,
+      "name": "魔王3：新秩序",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T07:53:31.168282"
+    },
+    "643970": {
+      "appid": 643970,
+      "name": "Return to Planet X",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T07:53:31.755455"
+    },
+    "644150": {
+      "appid": 644150,
+      "name": "Smogpunk 湮霾之地",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T07:53:32.605954"
+    },
+    "644200": {
+      "appid": 644200,
+      "name": "亿万年的星光 Starlight of Aeons",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T07:53:32.897395"
+    },
+    "644550": {
+      "appid": 644550,
+      "name": "篱笆庄秘闻 / Mysteries of Fence",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T07:53:34.977011"
+    },
+    "644560": {
+      "appid": 644560,
+      "name": "Mirror",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T07:53:35.114365"
+    },
+    "644610": {
+      "appid": 644610,
+      "name": "Drums Hero PC",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T07:53:35.408732"
+    },
+    "644640": {
+      "appid": 644640,
+      "name": "Band of Defenders",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T07:53:35.549182"
+    },
+    "644830": {
+      "appid": 644830,
+      "name": "The Surge 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T07:53:36.661604"
+    },
+    "644930": {
+      "appid": 644930,
+      "name": "They Are Billions",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T07:53:37.206682"
+    },
+    "645090": {
+      "appid": 645090,
+      "name": "Zup! 5",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T07:53:37.360713"
+    },
+    "645260": {
+      "appid": 645260,
+      "name": "Trophy Fishing 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T07:53:38.411430"
+    },
+    "645290": {
+      "appid": 645290,
+      "name": "Mechanism",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T07:53:38.821326"
+    },
+    "645320": {
+      "appid": 645320,
+      "name": "SCARF",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T07:53:38.962247"
+    },
+    "645460": {
+      "appid": 645460,
+      "name": "Mind Maze",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T07:53:40.274147"
+    },
+    "645630": {
+      "appid": 645630,
+      "name": "Car Mechanic Simulator 2018",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T07:53:40.698301"
+    },
+    "645690": {
+      "appid": 645690,
+      "name": "Fantasia of the Wind - 风之幻想曲",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T07:53:41.009094"
+    },
+    "645720": {
+      "appid": 645720,
+      "name": "星骑：亘古时空",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T07:53:41.156284"
+    },
+    "645780": {
+      "appid": 645780,
+      "name": "Robot Pirates",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T07:53:41.610034"
+    },
+    "645860": {
+      "appid": 645860,
+      "name": "Spartan VR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T07:53:42.223508"
+    },
+    "646010": {
+      "appid": 646010,
+      "name": "Golem",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T07:53:42.794236"
+    },
+    "646050": {
+      "appid": 646050,
+      "name": "Past Cure",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T07:53:43.102760"
+    },
+    "646270": {
+      "appid": 646270,
+      "name": "60 Parsecs!",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T07:53:44.079488"
+    },
+    "646500": {
+      "appid": 646500,
+      "name": "Egypt: Old Kingdom",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T07:53:45.715504"
+    },
+    "646530": {
+      "appid": 646530,
+      "name": "Hop Step Sing! kiss×kiss×kiss (HQ Edition)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T07:53:45.854058"
     }
   }
 }
