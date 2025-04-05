@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-05T16:47:30.634734"
+    "updated": "2025-04-05T17:00:10.822304"
   },
   "games": {
     "570": {
@@ -74104,6 +74104,406 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-04-05T16:47:30.489800"
+    },
+    "809720": {
+      "appid": 809720,
+      "name": "Rescue HQ - The Tycoon",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T16:59:38.548331"
+    },
+    "809830": {
+      "appid": 809830,
+      "name": "China VS Roman",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T16:59:40.269347"
+    },
+    "809850": {
+      "appid": 809850,
+      "name": "Sudoku Zenkai / 数独全卡",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T16:59:40.661888"
+    },
+    "809870": {
+      "appid": 809870,
+      "name": "Ninjin: Clash of Carrots",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T16:59:40.850230"
+    },
+    "809890": {
+      "appid": 809890,
+      "name": "光明之響 龍奏回音",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T16:59:41.404599"
+    },
+    "810000": {
+      "appid": 810000,
+      "name": "Manaya",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T16:59:41.975324"
+    },
+    "810330": {
+      "appid": 810330,
+      "name": "Fast Food Rampage",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T16:59:43.936931"
+    },
+    "810500": {
+      "appid": 810500,
+      "name": "PowerBeatsVR - VR Fitness",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T16:59:45.199348"
+    },
+    "810510": {
+      "appid": 810510,
+      "name": "Welcome Back Daddy",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T16:59:45.353859"
+    },
+    "810590": {
+      "appid": 810590,
+      "name": "Area 86",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T16:59:45.742491"
+    },
+    "810630": {
+      "appid": 810630,
+      "name": "Paint It Black",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T16:59:46.131186"
+    },
+    "810660": {
+      "appid": 810660,
+      "name": "The Office Quest",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T16:59:46.718246"
+    },
+    "811070": {
+      "appid": 811070,
+      "name": "眼中的世界 - Conviction -",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T16:59:48.654672"
+    },
+    "811270": {
+      "appid": 811270,
+      "name": "Impulsion",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T16:59:50.180523"
+    },
+    "811480": {
+      "appid": 811480,
+      "name": "Geography Quiz",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T16:59:51.684928"
+    },
+    "811550": {
+      "appid": 811550,
+      "name": "MythBusters: The Game - Crazy Experiments Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T16:59:51.955839"
+    },
+    "811800": {
+      "appid": 811800,
+      "name": "MINT VR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T16:59:53.041809"
+    },
+    "811870": {
+      "appid": 811870,
+      "name": "Verlet Swing",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T16:59:53.338986"
+    },
+    "811880": {
+      "appid": 811880,
+      "name": "Close Combat: The Bloody First",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T16:59:53.488304"
+    },
+    "811890": {
+      "appid": 811890,
+      "name": "Perky Little Things",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T16:59:53.626273"
+    },
+    "811940": {
+      "appid": 811940,
+      "name": "Game of Drones",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T16:59:53.916077"
+    },
+    "812020": {
+      "appid": 812020,
+      "name": "Elea - Episode 1",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T16:59:54.387539"
+    },
+    "812070": {
+      "appid": 812070,
+      "name": "Project Nightmares Case 36: Henrietta Kedward",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T16:59:54.800585"
+    },
+    "812140": {
+      "appid": 812140,
+      "name": "Assassin's Creed® Odyssey",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T16:59:55.365476"
+    },
+    "812160": {
+      "appid": 812160,
+      "name": "Etherborn",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T16:59:55.520331"
+    },
+    "812550": {
+      "appid": 812550,
+      "name": "The King's Bird",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T16:59:57.015789"
+    },
+    "812940": {
+      "appid": 812940,
+      "name": "Dear Leader",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T16:59:59.690630"
+    },
+    "813110": {
+      "appid": 813110,
+      "name": "Paralines The Last paladin",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T17:00:00.636618"
+    },
+    "813230": {
+      "appid": 813230,
+      "name": "ANIMAL WELL",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T17:00:01.255786"
+    },
+    "813300": {
+      "appid": 813300,
+      "name": "CODE CRACKER 代码破译者",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T17:00:01.950523"
+    },
+    "813400": {
+      "appid": 813400,
+      "name": "在这个世界的尽头，你与我被遗忘的传说",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T17:00:02.436440"
+    },
+    "813440": {
+      "appid": 813440,
+      "name": "DrillsVR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T17:00:02.579751"
+    },
+    "813450": {
+      "appid": 813450,
+      "name": "Barbearian 《熊蛮人》",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T17:00:02.726999"
+    },
+    "813590": {
+      "appid": 813590,
+      "name": "Solas and the White Winter",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T17:00:03.427654"
+    },
+    "813630": {
+      "appid": 813630,
+      "name": "Supraland",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T17:00:03.626165"
+    },
+    "813700": {
+      "appid": 813700,
+      "name": "Sakura Sadist",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T17:00:04.049770"
+    },
+    "813780": {
+      "appid": 813780,
+      "name": "Age of Empires II: Definitive Edition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T17:00:04.515989"
+    },
+    "813930": {
+      "appid": 813930,
+      "name": "Revoke",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T17:00:04.925929"
+    },
+    "814000": {
+      "appid": 814000,
+      "name": "ONE PIECE 时光旅诗",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T17:00:05.222720"
+    },
+    "814030": {
+      "appid": 814030,
+      "name": "Queen's Quest 4: Sacred Truce",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T17:00:05.664678"
+    },
+    "814210": {
+      "appid": 814210,
+      "name": "搜索·迷城掠影/The phantom of the city",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T17:00:05.964017"
+    },
+    "814300": {
+      "appid": 814300,
+      "name": "Pigeons Attack",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T17:00:06.232467"
+    },
+    "814370": {
+      "appid": 814370,
+      "name": "怪物圣所",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T17:00:07.113497"
+    },
+    "814480": {
+      "appid": 814480,
+      "name": "Mini World: CREATA",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T17:00:07.594291"
+    },
+    "814510": {
+      "appid": 814510,
+      "name": "1248",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T17:00:07.732885"
+    },
+    "814530": {
+      "appid": 814530,
+      "name": "Death Crown",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T17:00:07.882900"
+    },
+    "814540": {
+      "appid": 814540,
+      "name": "Changed",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T17:00:08.019279"
+    },
+    "814660": {
+      "appid": 814660,
+      "name": "The Unintended Consequences of Curiosity",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T17:00:09.846473"
+    },
+    "814680": {
+      "appid": 814680,
+      "name": "Unbound: Worlds Apart",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T17:00:09.998558"
+    },
+    "814740": {
+      "appid": 814740,
+      "name": "Armored Battle Crew [World War 1] - Tank Warfare and Crew Management Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T17:00:10.675914"
     }
   }
 }

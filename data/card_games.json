@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-05T16:47:30.634734"
+    "updated": "2025-04-05T17:00:10.822304"
   },
   "games": {
     "570": {
@@ -64678,6 +64678,174 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-04-05T16:47:28.761639"
+    },
+    "809720": {
+      "appid": 809720,
+      "name": "Rescue HQ - The Tycoon",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T16:59:38.548331"
+    },
+    "809850": {
+      "appid": 809850,
+      "name": "Sudoku Zenkai / 数独全卡",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T16:59:40.661888"
+    },
+    "809890": {
+      "appid": 809890,
+      "name": "光明之響 龍奏回音",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T16:59:41.404599"
+    },
+    "810040": {
+      "appid": 810040,
+      "name": "Swords 'n Magic and Stuff",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T16:59:42.388579"
+    },
+    "810640": {
+      "appid": 810640,
+      "name": "Radiis",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T16:59:46.401982"
+    },
+    "810670": {
+      "appid": 810670,
+      "name": "NALOGI",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T16:59:46.898085"
+    },
+    "811720": {
+      "appid": 811720,
+      "name": "Outbreak: The Nightmare Chronicles",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T16:59:52.510529"
+    },
+    "812020": {
+      "appid": 812020,
+      "name": "Elea - Episode 1",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T16:59:54.387539"
+    },
+    "812040": {
+      "appid": 812040,
+      "name": "Shortest Trip to Earth",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T16:59:54.528312"
+    },
+    "812140": {
+      "appid": 812140,
+      "name": "Assassin's Creed® Odyssey",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T16:59:55.365476"
+    },
+    "812160": {
+      "appid": 812160,
+      "name": "Etherborn",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T16:59:55.520331"
+    },
+    "812840": {
+      "appid": 812840,
+      "name": "LuGame: Lunchtime Games Club!",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T16:59:58.535443"
+    },
+    "813450": {
+      "appid": 813450,
+      "name": "Barbearian 《熊蛮人》",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T17:00:02.726999"
+    },
+    "813540": {
+      "appid": 813540,
+      "name": "Scheming Through The Zombie Apocalypse: The Beginning",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T17:00:03.251398"
+    },
+    "813630": {
+      "appid": 813630,
+      "name": "Supraland",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T17:00:03.626165"
+    },
+    "813700": {
+      "appid": 813700,
+      "name": "Sakura Sadist",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T17:00:04.049770"
+    },
+    "813780": {
+      "appid": 813780,
+      "name": "Age of Empires II: Definitive Edition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T17:00:04.515989"
+    },
+    "814030": {
+      "appid": 814030,
+      "name": "Queen's Quest 4: Sacred Truce",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T17:00:05.664678"
+    },
+    "814370": {
+      "appid": 814370,
+      "name": "怪物圣所",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T17:00:07.113497"
+    },
+    "814530": {
+      "appid": 814530,
+      "name": "Death Crown",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T17:00:07.882900"
+    },
+    "814540": {
+      "appid": 814540,
+      "name": "Changed",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T17:00:08.019279"
     }
   }
 }
