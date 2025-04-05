@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-05T23:25:45.562820"
+    "updated": "2025-04-05T23:40:47.453424"
   },
   "games": {
     "570": {
@@ -67334,6 +67334,78 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-05T23:25:45.561058"
+    },
+    "929010": {
+      "appid": 929010,
+      "name": "Swag and Sorcery",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T23:40:11.699098"
+    },
+    "930210": {
+      "appid": 930210,
+      "name": "HuniePop 2: Double Date",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T23:40:20.328164"
+    },
+    "930620": {
+      "appid": 930620,
+      "name": "Music Killer",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T23:40:23.365684"
+    },
+    "930780": {
+      "appid": 930780,
+      "name": "血牌",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T23:40:24.917704"
+    },
+    "930910": {
+      "appid": 930910,
+      "name": "STEINS;GATE: Linear Bounded Phenogram",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T23:40:25.837091"
+    },
+    "931280": {
+      "appid": 931280,
+      "name": "Iron Marines",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T23:40:29.266627"
+    },
+    "933110": {
+      "appid": 933110,
+      "name": "Age of Empires III: Definitive Edition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T23:40:43.646957"
+    },
+    "933770": {
+      "appid": 933770,
+      "name": "Star Sky 3",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T23:40:47.116622"
+    },
+    "933820": {
+      "appid": 933820,
+      "name": "末日地带：与世隔绝",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T23:40:47.275408"
     }
   }
 }
