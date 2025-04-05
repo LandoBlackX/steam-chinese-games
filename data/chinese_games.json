@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-05T05:56:22.935771"
+    "updated": "2025-04-05T06:33:07.971633"
   },
   "games": {
     "570": {
@@ -58536,6 +58536,470 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-04-05T05:56:22.662074"
+    },
+    "608760": {
+      "appid": 608760,
+      "name": "Doodle Devil",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T06:32:31.958741"
+    },
+    "609110": {
+      "appid": 609110,
+      "name": "Blazing Chrome",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T06:32:33.362448"
+    },
+    "609170": {
+      "appid": 609170,
+      "name": "Drummer Talent VR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T06:32:33.766442"
+    },
+    "609320": {
+      "appid": 609320,
+      "name": "FAR: Lone Sails",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T06:32:33.974757"
+    },
+    "609420": {
+      "appid": 609420,
+      "name": "Never Give Up",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T06:32:35.146069"
+    },
+    "609490": {
+      "appid": 609490,
+      "name": "Minit",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T06:32:35.309704"
+    },
+    "609720": {
+      "appid": 609720,
+      "name": "战神：瓦尔哈拉之链",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T06:32:35.474059"
+    },
+    "609920": {
+      "appid": 609920,
+      "name": "大佬竞速 / Hotshot Racing",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T06:32:36.126633"
+    },
+    "610130": {
+      "appid": 610130,
+      "name": "UltraGoodness",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T06:32:37.162757"
+    },
+    "610190": {
+      "appid": 610190,
+      "name": "無雙☆群星大會串",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T06:32:37.517618"
+    },
+    "610250": {
+      "appid": 610250,
+      "name": "Glitch's Trip",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T06:32:37.869631"
+    },
+    "610340": {
+      "appid": 610340,
+      "name": "CyberLink ScreenRecorder 3 Deluxe",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T06:32:38.404972"
+    },
+    "610350": {
+      "appid": 610350,
+      "name": "Poker Show VR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T06:32:38.572919"
+    },
+    "610360": {
+      "appid": 610360,
+      "name": "Zup! Zero",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T06:32:38.736067"
+    },
+    "610370": {
+      "appid": 610370,
+      "name": "Desperados III",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T06:32:38.894778"
+    },
+    "610410": {
+      "appid": 610410,
+      "name": "PAWARUMI",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T06:32:39.321546"
+    },
+    "610460": {
+      "appid": 610460,
+      "name": "Rise of Balloons",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T06:32:39.476987"
+    },
+    "610840": {
+      "appid": 610840,
+      "name": "JASEM: Just Another Shooter with Electronic Music",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T06:32:42.496346"
+    },
+    "610960": {
+      "appid": 610960,
+      "name": "红石遗迹 - Red Obsidian Remnant",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T06:32:43.334156"
+    },
+    "611060": {
+      "appid": 611060,
+      "name": "ECHOPLEX",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T06:32:44.477156"
+    },
+    "611180": {
+      "appid": 611180,
+      "name": "Super Street: The Game",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T06:32:45.615709"
+    },
+    "611220": {
+      "appid": 611220,
+      "name": "Crimson Hills",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T06:32:46.191655"
+    },
+    "611620": {
+      "appid": 611620,
+      "name": "TheNightfall",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T06:32:47.423692"
+    },
+    "611660": {
+      "appid": 611660,
+      "name": "Fallout 4 VR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T06:32:47.943834"
+    },
+    "611670": {
+      "appid": 611670,
+      "name": "The Elder Scrolls V: Skyrim VR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T06:32:48.112764"
+    },
+    "611720": {
+      "appid": 611720,
+      "name": "Practisim VR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T06:32:48.730100"
+    },
+    "611790": {
+      "appid": 611790,
+      "name": "House Party",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T06:32:49.691544"
+    },
+    "611800": {
+      "appid": 611800,
+      "name": "Jidousha Shakai",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T06:32:49.857096"
+    },
+    "611810": {
+      "appid": 611810,
+      "name": "THE LAST HUNT",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T06:32:50.044547"
+    },
+    "611860": {
+      "appid": 611860,
+      "name": "Aborigenus",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T06:32:50.774315"
+    },
+    "611980": {
+      "appid": 611980,
+      "name": "Oik 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T06:32:51.291584"
+    },
+    "612020": {
+      "appid": 612020,
+      "name": "Zombidle : REMONSTERED",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T06:32:51.625872"
+    },
+    "612040": {
+      "appid": 612040,
+      "name": "海上神枪手",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T06:32:51.970475"
+    },
+    "612060": {
+      "appid": 612060,
+      "name": "Indie Dream",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T06:32:52.307363"
+    },
+    "612110": {
+      "appid": 612110,
+      "name": "Sweet fantasy",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T06:32:52.642783"
+    },
+    "612130": {
+      "appid": 612130,
+      "name": "Linkage",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T06:32:52.955876"
+    },
+    "612190": {
+      "appid": 612190,
+      "name": "Fastigium: Dead End",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T06:32:54.199702"
+    },
+    "612230": {
+      "appid": 612230,
+      "name": "现代突击坦克 (Modern Assault Tanks) 坦克游戏",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T06:32:54.658126"
+    },
+    "612390": {
+      "appid": 612390,
+      "name": "Dandara: Trials of Fear Edition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T06:32:55.710488"
+    },
+    "612400": {
+      "appid": 612400,
+      "name": "The Last Night",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T06:32:55.895773"
+    },
+    "612470": {
+      "appid": 612470,
+      "name": "Bio Inc. Redemption",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T06:32:56.236567"
+    },
+    "612510": {
+      "appid": 612510,
+      "name": "The Far Frontier",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T06:32:56.552895"
+    },
+    "612570": {
+      "appid": 612570,
+      "name": "Fort Triumph",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T06:32:57.089778"
+    },
+    "612640": {
+      "appid": 612640,
+      "name": "Dunk Lords",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T06:32:58.126320"
+    },
+    "612670": {
+      "appid": 612670,
+      "name": "Moonfall",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T06:32:58.496579"
+    },
+    "612740": {
+      "appid": 612740,
+      "name": "Bokida - Heartfelt Reunion",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T06:32:58.840088"
+    },
+    "612820": {
+      "appid": 612820,
+      "name": "Fallen Legion: Rise to Glory",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T06:32:59.614211"
+    },
+    "612880": {
+      "appid": 612880,
+      "name": "Wolfenstein II: The New Colossus",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T06:32:59.952170"
+    },
+    "612930": {
+      "appid": 612930,
+      "name": "Fight of Gods",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T06:33:00.332886"
+    },
+    "613010": {
+      "appid": 613010,
+      "name": "Secret in Story",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T06:33:00.500289"
+    },
+    "613100": {
+      "appid": 613100,
+      "name": "房产达人",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T06:33:01.266038"
+    },
+    "613470": {
+      "appid": 613470,
+      "name": "The Inner World - The Last Wind Monk",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T06:33:04.586437"
+    },
+    "613670": {
+      "appid": 613670,
+      "name": "The Chronicles of Dragon Wing - Reborn",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T06:33:05.769962"
+    },
+    "613730": {
+      "appid": 613730,
+      "name": "Need For Drink",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T06:33:05.935171"
+    },
+    "613790": {
+      "appid": 613790,
+      "name": "RED CUBE VR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T06:33:06.122008"
+    },
+    "613830": {
+      "appid": 613830,
+      "name": "CHRONO TRIGGER®",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T06:33:06.276971"
+    },
+    "614030": {
+      "appid": 614030,
+      "name": "Rhythm Rush!",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T06:33:07.467265"
+    },
+    "614050": {
+      "appid": 614050,
+      "name": "Clumsy Knight 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T06:33:07.630223"
     }
   }
 }
