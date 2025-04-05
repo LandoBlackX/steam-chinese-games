@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-05T21:51:20.594190"
+    "updated": "2025-04-05T22:12:45.480607"
   },
   "games": {
     "570": {
@@ -66758,6 +66758,102 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-05T21:51:17.379875"
+    },
+    "899390": {
+      "appid": 899390,
+      "name": "Xenon Racer",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T22:12:17.536649"
+    },
+    "899440": {
+      "appid": 899440,
+      "name": "GOD EATER 3",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T22:12:17.681050"
+    },
+    "899970": {
+      "appid": 899970,
+      "name": "NEKOPARA Extra",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T22:12:20.249071"
+    },
+    "900040": {
+      "appid": 900040,
+      "name": "ELEX II",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T22:12:20.874721"
+    },
+    "900270": {
+      "appid": 900270,
+      "name": "Reventure",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T22:12:21.379618"
+    },
+    "904380": {
+      "appid": 904380,
+      "name": "Vambrace: Cold Soul",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T22:12:29.578342"
+    },
+    "904400": {
+      "appid": 904400,
+      "name": "Cardpocalypse",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T22:12:29.853772"
+    },
+    "904750": {
+      "appid": 904750,
+      "name": "Zniw Adventure",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T22:12:31.950937"
+    },
+    "905320": {
+      "appid": 905320,
+      "name": "Shadow of the Tomb Raider: Definitive Edition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T22:12:35.664920"
+    },
+    "905340": {
+      "appid": 905340,
+      "name": "Heave Ho",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T22:12:35.914584"
+    },
+    "906510": {
+      "appid": 906510,
+      "name": "Conception PLUS: Maidens of the Twelve Stars",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T22:12:42.499191"
+    },
+    "906930": {
+      "appid": 906930,
+      "name": "LEAP",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T22:12:44.705030"
     }
   }
 }

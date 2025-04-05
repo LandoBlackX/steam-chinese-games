@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-05T21:51:20.594190"
+    "updated": "2025-04-05T22:12:45.480607"
   },
   "games": {
     "570": {
@@ -81408,6 +81408,478 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-04-05T21:51:20.592822"
+    },
+    "899310": {
+      "appid": 899310,
+      "name": "Iron Danger",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T22:12:17.134795"
+    },
+    "899390": {
+      "appid": 899390,
+      "name": "Xenon Racer",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T22:12:17.536649"
+    },
+    "899440": {
+      "appid": 899440,
+      "name": "GOD EATER 3",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T22:12:17.681050"
+    },
+    "899760": {
+      "appid": 899760,
+      "name": "Her 她",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T22:12:19.371247"
+    },
+    "899770": {
+      "appid": 899770,
+      "name": "Last Epoch",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T22:12:19.579329"
+    },
+    "899940": {
+      "appid": 899940,
+      "name": "校园恋物语|Love in School",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T22:12:19.946768"
+    },
+    "899970": {
+      "appid": 899970,
+      "name": "NEKOPARA Extra",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T22:12:20.249071"
+    },
+    "900010": {
+      "appid": 900010,
+      "name": "Meeple Station",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T22:12:20.718456"
+    },
+    "900040": {
+      "appid": 900040,
+      "name": "ELEX II",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T22:12:20.874721"
+    },
+    "900050": {
+      "appid": 900050,
+      "name": "Amber's Airline - High Hopes",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T22:12:21.003604"
+    },
+    "900270": {
+      "appid": 900270,
+      "name": "Reventure",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T22:12:21.379618"
+    },
+    "900370": {
+      "appid": 900370,
+      "name": "Stockpile",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T22:12:21.914690"
+    },
+    "900380": {
+      "appid": 900380,
+      "name": "Indian Summer",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T22:12:22.165962"
+    },
+    "900790": {
+      "appid": 900790,
+      "name": "Bunny Minesweeper",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T22:12:22.899748"
+    },
+    "903040": {
+      "appid": 903040,
+      "name": "The Castles of Burgundy",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T22:12:23.856172"
+    },
+    "903150": {
+      "appid": 903150,
+      "name": "FALL 坠落之后",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T22:12:23.988455"
+    },
+    "903630": {
+      "appid": 903630,
+      "name": "The Last Cube",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T22:12:25.475694"
+    },
+    "903680": {
+      "appid": 903680,
+      "name": "conNEcT01",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T22:12:25.738019"
+    },
+    "903710": {
+      "appid": 903710,
+      "name": "Headshot VR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T22:12:26.161902"
+    },
+    "903950": {
+      "appid": 903950,
+      "name": "Last Oasis",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T22:12:27.984811"
+    },
+    "904160": {
+      "appid": 904160,
+      "name": "Ashes",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T22:12:28.527215"
+    },
+    "904300": {
+      "appid": 904300,
+      "name": "KOPICS",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T22:12:28.788735"
+    },
+    "904310": {
+      "appid": 904310,
+      "name": "Initial 2 : New Stage",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T22:12:28.910929"
+    },
+    "904320": {
+      "appid": 904320,
+      "name": "My Holiday",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T22:12:29.040264"
+    },
+    "904360": {
+      "appid": 904360,
+      "name": "Family Man",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T22:12:29.306230"
+    },
+    "904380": {
+      "appid": 904380,
+      "name": "Vambrace: Cold Soul",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T22:12:29.578342"
+    },
+    "904400": {
+      "appid": 904400,
+      "name": "Cardpocalypse",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T22:12:29.853772"
+    },
+    "904510": {
+      "appid": 904510,
+      "name": "ARTIFICIAL",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T22:12:30.576029"
+    },
+    "904570": {
+      "appid": 904570,
+      "name": "TOK",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T22:12:31.126161"
+    },
+    "904740": {
+      "appid": 904740,
+      "name": "东方试闻广纪 ~ Perfect Memento of Touhou Question",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T22:12:31.810243"
+    },
+    "904820": {
+      "appid": 904820,
+      "name": "VR Jogger",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T22:12:32.665689"
+    },
+    "904850": {
+      "appid": 904850,
+      "name": "Fat[EX]快递模拟器",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T22:12:32.898380"
+    },
+    "904860": {
+      "appid": 904860,
+      "name": "25 Cadre of Death",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T22:12:33.004645"
+    },
+    "904900": {
+      "appid": 904900,
+      "name": "Pinup Ball - Sexy Strip Pinball",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T22:12:33.422757"
+    },
+    "904970": {
+      "appid": 904970,
+      "name": "堕魔的伊米娅（Fallen Emiya）",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T22:12:33.798221"
+    },
+    "905260": {
+      "appid": 905260,
+      "name": "Hags Castle",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T22:12:35.395784"
+    },
+    "905320": {
+      "appid": 905320,
+      "name": "Shadow of the Tomb Raider: Definitive Edition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T22:12:35.664920"
+    },
+    "905330": {
+      "appid": 905330,
+      "name": "oOo: Ascension",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T22:12:35.793156"
+    },
+    "905340": {
+      "appid": 905340,
+      "name": "Heave Ho",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T22:12:35.914584"
+    },
+    "905350": {
+      "appid": 905350,
+      "name": "Bang Bang Fruit 3",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T22:12:36.044617"
+    },
+    "905380": {
+      "appid": 905380,
+      "name": "RPG纪元",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T22:12:36.270651"
+    },
+    "905400": {
+      "appid": 905400,
+      "name": "Cyborg_Lab",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T22:12:36.542492"
+    },
+    "905440": {
+      "appid": 905440,
+      "name": "Rogue Along Way",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T22:12:36.798079"
+    },
+    "905540": {
+      "appid": 905540,
+      "name": "FRIGID",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T22:12:37.303058"
+    },
+    "905640": {
+      "appid": 905640,
+      "name": "Combat Arms: Reloaded",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T22:12:37.907230"
+    },
+    "905660": {
+      "appid": 905660,
+      "name": "纸境英雄 Papercraft",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T22:12:38.153409"
+    },
+    "905670": {
+      "appid": 905670,
+      "name": "巭孬嫑毖",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T22:12:38.281030"
+    },
+    "905690": {
+      "appid": 905690,
+      "name": "魔物讨伐团",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T22:12:38.411024"
+    },
+    "906010": {
+      "appid": 906010,
+      "name": "TAL: Arctic 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T22:12:39.774261"
+    },
+    "906030": {
+      "appid": 906030,
+      "name": "NOCE",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T22:12:39.899157"
+    },
+    "906100": {
+      "appid": 906100,
+      "name": "Observation",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T22:12:40.150880"
+    },
+    "906510": {
+      "appid": 906510,
+      "name": "Conception PLUS: Maidens of the Twelve Stars",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T22:12:42.499191"
+    },
+    "906600": {
+      "appid": 906600,
+      "name": "Gunkid 99",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T22:12:42.754091"
+    },
+    "906680": {
+      "appid": 906680,
+      "name": "僵尸快打",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T22:12:43.179116"
+    },
+    "906770": {
+      "appid": 906770,
+      "name": "TITAN SLAYER Ⅱ",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T22:12:43.708943"
+    },
+    "906870": {
+      "appid": 906870,
+      "name": "FurryFury: Smash & Roll",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T22:12:44.266959"
+    },
+    "906880": {
+      "appid": 906880,
+      "name": "goto",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T22:12:44.428150"
+    },
+    "906930": {
+      "appid": 906930,
+      "name": "LEAP",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T22:12:44.705030"
+    },
+    "907090": {
+      "appid": 907090,
+      "name": "詛咒铠甲",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T22:12:45.478903"
     }
   }
 }
