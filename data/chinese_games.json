@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-05T03:46:41.709294"
+    "updated": "2025-04-05T03:59:13.922296"
   },
   "games": {
     "570": {
@@ -55368,6 +55368,318 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-04-05T03:46:40.785195"
+    },
+    "560130": {
+      "appid": 560130,
+      "name": "Pillars of Eternity II: Deadfire",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T03:58:45.156944"
+    },
+    "560220": {
+      "appid": 560220,
+      "name": "Estiman: Game of Estimation",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T03:58:46.101672"
+    },
+    "560600": {
+      "appid": 560600,
+      "name": "PlanTechtor",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T03:58:48.214965"
+    },
+    "560920": {
+      "appid": 560920,
+      "name": "Cyberlink PowerDVD 17 Ultra",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T03:58:50.433748"
+    },
+    "561080": {
+      "appid": 561080,
+      "name": "The Price of Freedom",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T03:58:51.456863"
+    },
+    "561230": {
+      "appid": 561230,
+      "name": "Special Delivery",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T03:58:52.049867"
+    },
+    "561340": {
+      "appid": 561340,
+      "name": "Merlin adventurer store",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T03:58:52.317133"
+    },
+    "561450": {
+      "appid": 561450,
+      "name": "Mutant Fighting Cup 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T03:58:52.980395"
+    },
+    "561660": {
+      "appid": 561660,
+      "name": "Decoherence",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T03:58:53.869127"
+    },
+    "561930": {
+      "appid": 561930,
+      "name": "Sword of the Guardian",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T03:58:54.529633"
+    },
+    "562040": {
+      "appid": 562040,
+      "name": "Men of War: Assault Squad 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T03:58:54.907473"
+    },
+    "562220": {
+      "appid": 562220,
+      "name": "Zup! 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T03:58:55.552688"
+    },
+    "562350": {
+      "appid": 562350,
+      "name": "Maid Mansion (女仆洋馆)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T03:58:57.236191"
+    },
+    "562360": {
+      "appid": 562360,
+      "name": "Planes, Bullets and Vodka",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T03:58:57.370163"
+    },
+    "562410": {
+      "appid": 562410,
+      "name": "Panty Party",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T03:58:57.494978"
+    },
+    "562420": {
+      "appid": 562420,
+      "name": "Armor Clash II",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T03:58:57.666181"
+    },
+    "562450": {
+      "appid": 562450,
+      "name": "Salvage Op",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T03:58:58.023226"
+    },
+    "562470": {
+      "appid": 562470,
+      "name": "天使帝国四",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T03:58:58.307803"
+    },
+    "562480": {
+      "appid": 562480,
+      "name": "Corona Blossom-日冕之华- vol.3   跨越星际的旅行",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T03:58:58.440762"
+    },
+    "562500": {
+      "appid": 562500,
+      "name": "Warstone TD",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T03:58:58.714219"
+    },
+    "562540": {
+      "appid": 562540,
+      "name": "Cabals: Card Blitz",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T03:58:59.285382"
+    },
+    "562560": {
+      "appid": 562560,
+      "name": "Boozy Dwarf",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T03:58:59.403478"
+    },
+    "562660": {
+      "appid": 562660,
+      "name": "Pandarama: The Lost Toys",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T03:59:00.192947"
+    },
+    "562730": {
+      "appid": 562730,
+      "name": "MechDefender - Tower Defense",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T03:59:00.646396"
+    },
+    "562740": {
+      "appid": 562740,
+      "name": "Zombie Town VR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T03:59:00.769773"
+    },
+    "563150": {
+      "appid": 563150,
+      "name": "interLOGIC",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T03:59:01.478734"
+    },
+    "563190": {
+      "appid": 563190,
+      "name": "de Blob 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T03:59:01.994299"
+    },
+    "563360": {
+      "appid": 563360,
+      "name": "Market Tycoon",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T03:59:03.176388"
+    },
+    "563530": {
+      "appid": 563530,
+      "name": "Insatia",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T03:59:04.777783"
+    },
+    "563550": {
+      "appid": 563550,
+      "name": "Nevrosa: Escape",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T03:59:04.906924"
+    },
+    "563560": {
+      "appid": 563560,
+      "name": "异形丛生：虫启天降 (Alien Swarm: Reactive Drop)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T03:59:05.027469"
+    },
+    "563730": {
+      "appid": 563730,
+      "name": "The World 3:Rise of Demon",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T03:59:05.836246"
+    },
+    "563740": {
+      "appid": 563740,
+      "name": "Lemons Must Die",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T03:59:05.962048"
+    },
+    "563760": {
+      "appid": 563760,
+      "name": "VR GirlFriend",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T03:59:06.200338"
+    },
+    "563840": {
+      "appid": 563840,
+      "name": "LOST EMBER",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T03:59:06.672012"
+    },
+    "564050": {
+      "appid": 564050,
+      "name": "Bud Spencer & Terence Hill - Slaps And Beans",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T03:59:07.244592"
+    },
+    "564720": {
+      "appid": 564720,
+      "name": "Werther Quest",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T03:59:10.147571"
+    },
+    "565200": {
+      "appid": 565200,
+      "name": "Gem Monster",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T03:59:12.627595"
+    },
+    "565390": {
+      "appid": 565390,
+      "name": "Hyperun",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T03:59:13.084415"
     }
   }
 }
