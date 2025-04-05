@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-05T19:15:23.473159"
+    "updated": "2025-04-05T19:28:13.510019"
   },
   "games": {
     "570": {
@@ -77352,6 +77352,342 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-05T19:15:23.330770"
+    },
+    "850320": {
+      "appid": 850320,
+      "name": "PHOGS!",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T19:27:33.113533"
+    },
+    "850450": {
+      "appid": 850450,
+      "name": "Escape First",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T19:27:33.864241"
+    },
+    "850820": {
+      "appid": 850820,
+      "name": "祛魅·教化（祛魅1）",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T19:27:35.711810"
+    },
+    "850830": {
+      "appid": 850830,
+      "name": "Adventure in Kana Village",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T19:27:35.880155"
+    },
+    "850860": {
+      "appid": 850860,
+      "name": "决战异星",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T19:27:36.469736"
+    },
+    "850880": {
+      "appid": 850880,
+      "name": "Vegetaball",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T19:27:36.668007"
+    },
+    "850940": {
+      "appid": 850940,
+      "name": "星际移民：太空飞行放置点击游戏",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T19:27:37.290106"
+    },
+    "850980": {
+      "appid": 850980,
+      "name": "GUILTY GEAR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T19:27:37.583382"
+    },
+    "851040": {
+      "appid": 851040,
+      "name": "Darkest Mana : Master of the Table",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T19:27:37.746988"
+    },
+    "851050": {
+      "appid": 851050,
+      "name": "Paper Dolls VR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T19:27:37.930804"
+    },
+    "851100": {
+      "appid": 851100,
+      "name": "Touhou Luna Nights",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T19:27:38.212815"
+    },
+    "851730": {
+      "appid": 851730,
+      "name": "Sandmade",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T19:27:44.169167"
+    },
+    "851770": {
+      "appid": 851770,
+      "name": "Number Hunt",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T19:27:44.339670"
+    },
+    "851800": {
+      "appid": 851800,
+      "name": "G2 Fighter / 基因特工",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T19:27:44.667621"
+    },
+    "851820": {
+      "appid": 851820,
+      "name": "Boxes Inc.",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T19:27:45.251690"
+    },
+    "851850": {
+      "appid": 851850,
+      "name": "七龙珠Z 卡卡洛特",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T19:27:45.658265"
+    },
+    "851880": {
+      "appid": 851880,
+      "name": "RŌA",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T19:27:45.829598"
+    },
+    "851890": {
+      "appid": 851890,
+      "name": "Gal*Gun 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T19:27:46.053200"
+    },
+    "851930": {
+      "appid": 851930,
+      "name": "Battle Royale Tycoon",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T19:27:46.396406"
+    },
+    "851950": {
+      "appid": 851950,
+      "name": "Heroine of the Sniper",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T19:27:46.731142"
+    },
+    "852090": {
+      "appid": 852090,
+      "name": "Penko Park",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T19:27:47.384200"
+    },
+    "852220": {
+      "appid": 852220,
+      "name": "车祸现场模拟器",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T19:27:48.559853"
+    },
+    "852300": {
+      "appid": 852300,
+      "name": "Creature in the Well",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T19:27:49.242737"
+    },
+    "852340": {
+      "appid": 852340,
+      "name": "King Rabbit - Puzzle",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T19:27:49.987676"
+    },
+    "852790": {
+      "appid": 852790,
+      "name": "The Adventure of Magical Girl",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T19:27:53.643738"
+    },
+    "853050": {
+      "appid": 853050,
+      "name": "El Hijo - A Wild West Tale",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T19:27:55.278687"
+    },
+    "853220": {
+      "appid": 853220,
+      "name": "Doors & Rooms",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T19:27:56.313320"
+    },
+    "853410": {
+      "appid": 853410,
+      "name": "YAPP2: Yet Another Pushing Puzzler",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T19:27:58.096033"
+    },
+    "853450": {
+      "appid": 853450,
+      "name": "Nevergrind Online",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T19:27:58.254070"
+    },
+    "853590": {
+      "appid": 853590,
+      "name": "Goroons",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T19:27:59.605615"
+    },
+    "853620": {
+      "appid": 853620,
+      "name": "Stickman in the Portal",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T19:27:59.963649"
+    },
+    "853860": {
+      "appid": 853860,
+      "name": "aMAZE Classic",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T19:28:01.634632"
+    },
+    "853940": {
+      "appid": 853940,
+      "name": "Moonfall Ultimate",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T19:28:01.787189"
+    },
+    "854510": {
+      "appid": 854510,
+      "name": "Warlock: Tower Defence",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T19:28:04.597415"
+    },
+    "854570": {
+      "appid": 854570,
+      "name": "鬼妇：印尼民间恐怖传说",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T19:28:05.539469"
+    },
+    "855160": {
+      "appid": 855160,
+      "name": "VTree Beach Volleyball",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T19:28:09.012004"
+    },
+    "855320": {
+      "appid": 855320,
+      "name": "The 18th Floor",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T19:28:09.737876"
+    },
+    "855590": {
+      "appid": 855590,
+      "name": "Age of Cards - Ra's Chess",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T19:28:10.834591"
+    },
+    "855640": {
+      "appid": 855640,
+      "name": "My Brother Rabbit",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T19:28:11.617645"
+    },
+    "855670": {
+      "appid": 855670,
+      "name": "荒野寻踪",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T19:28:11.938646"
+    },
+    "855740": {
+      "appid": 855740,
+      "name": "Bum Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T19:28:12.882820"
+    },
+    "855770": {
+      "appid": 855770,
+      "name": "UpBoll",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T19:28:13.195015"
     }
   }
 }

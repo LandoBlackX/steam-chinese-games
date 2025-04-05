@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-05T19:15:23.473159"
+    "updated": "2025-04-05T19:28:13.510019"
   },
   "games": {
     "570": {
@@ -65710,6 +65710,94 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-05T19:15:23.330770"
+    },
+    "850320": {
+      "appid": 850320,
+      "name": "PHOGS!",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T19:27:33.113533"
+    },
+    "850450": {
+      "appid": 850450,
+      "name": "Escape First",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T19:27:33.864241"
+    },
+    "851180": {
+      "appid": 851180,
+      "name": "Blood Harvest 3",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T19:27:39.049334"
+    },
+    "851280": {
+      "appid": 851280,
+      "name": "MindSeize",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T19:27:40.441754"
+    },
+    "851850": {
+      "appid": 851850,
+      "name": "七龙珠Z 卡卡洛特",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T19:27:45.658265"
+    },
+    "851930": {
+      "appid": 851930,
+      "name": "Battle Royale Tycoon",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T19:27:46.396406"
+    },
+    "852110": {
+      "appid": 852110,
+      "name": "RetroMaze",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T19:27:47.553560"
+    },
+    "854860": {
+      "appid": 854860,
+      "name": "Cows VS Vikings",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T19:28:07.128649"
+    },
+    "855630": {
+      "appid": 855630,
+      "name": "Zeliria Sanctuary",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T19:28:11.458381"
+    },
+    "855640": {
+      "appid": 855640,
+      "name": "My Brother Rabbit",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T19:28:11.617645"
+    },
+    "855740": {
+      "appid": 855740,
+      "name": "Bum Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T19:28:12.882820"
     }
   }
 }
