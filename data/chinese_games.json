@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-05T15:25:12.813075"
+    "updated": "2025-04-05T15:31:57.677122"
   },
   "games": {
     "570": {
@@ -70976,6 +70976,414 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-05T15:25:12.130540"
+    },
+    "771420": {
+      "appid": 771420,
+      "name": "Primal Light",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:31:26.804338"
+    },
+    "771530": {
+      "appid": 771530,
+      "name": "Take That",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:31:27.448580"
+    },
+    "771560": {
+      "appid": 771560,
+      "name": "FFXV WINDOWS EDITION 4K Resolution Pack",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T15:31:28.442172"
+    },
+    "771570": {
+      "appid": 771570,
+      "name": "Zombie City",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:31:28.838105"
+    },
+    "771700": {
+      "appid": 771700,
+      "name": "Airhead",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:31:29.532879"
+    },
+    "771710": {
+      "appid": 771710,
+      "name": ".T.E.S.T: Expected Behaviour — Sci-Fi 3D Puzzle Quest",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:31:29.842663"
+    },
+    "771770": {
+      "appid": 771770,
+      "name": "Isles of Etherion: 浮岛风云",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:31:29.960928"
+    },
+    "771800": {
+      "appid": 771800,
+      "name": "Deadstick - Bush Flight Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T15:31:30.078397"
+    },
+    "771920": {
+      "appid": 771920,
+      "name": "TOGETHER VR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:31:31.207007"
+    },
+    "772230": {
+      "appid": 772230,
+      "name": "跳跃2/LeapII",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:31:33.477525"
+    },
+    "772260": {
+      "appid": 772260,
+      "name": "NitorInc.: Touhou Microgames!",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:31:33.715885"
+    },
+    "772430": {
+      "appid": 772430,
+      "name": "王国英雄III",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T15:31:35.445320"
+    },
+    "772460": {
+      "appid": 772460,
+      "name": "YangBo Adventure",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:31:35.881421"
+    },
+    "772470": {
+      "appid": 772470,
+      "name": "8-in-1 IQ Scale Bundle",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:31:36.100889"
+    },
+    "772480": {
+      "appid": 772480,
+      "name": "Super Inefficient Golf",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:31:36.228634"
+    },
+    "772540": {
+      "appid": 772540,
+      "name": "Battle Royale Trainer",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:31:36.470130"
+    },
+    "772750": {
+      "appid": 772750,
+      "name": "Wizards: Wand of Epicosity",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:31:38.409275"
+    },
+    "773180": {
+      "appid": 773180,
+      "name": "Glukhovo",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:31:39.870872"
+    },
+    "773370": {
+      "appid": 773370,
+      "name": "Exo One",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:31:40.882582"
+    },
+    "773390": {
+      "appid": 773390,
+      "name": "Aim Trainer Pro",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:31:41.174796"
+    },
+    "773430": {
+      "appid": 773430,
+      "name": "Meow Motors",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T15:31:41.434166"
+    },
+    "773440": {
+      "appid": 773440,
+      "name": "Primal Pursuit",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:31:41.566748"
+    },
+    "773460": {
+      "appid": 773460,
+      "name": "瞳：祈愿 VR / Pupil: Wandering VR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:31:41.696861"
+    },
+    "773490": {
+      "appid": 773490,
+      "name": "谜桥 / RiddleBridge",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:31:41.810676"
+    },
+    "773520": {
+      "appid": 773520,
+      "name": "Refight:Burning Engine",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:31:42.138839"
+    },
+    "773540": {
+      "appid": 773540,
+      "name": "Boss Crushers",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:31:42.380302"
+    },
+    "773580": {
+      "appid": 773580,
+      "name": "Game Dev Studio",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:31:42.692543"
+    },
+    "773670": {
+      "appid": 773670,
+      "name": "Delete",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T15:31:43.883551"
+    },
+    "773740": {
+      "appid": 773740,
+      "name": "Overpass",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:31:44.268425"
+    },
+    "773951": {
+      "appid": 773951,
+      "name": "自由人：游击战争",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T15:31:45.504123"
+    },
+    "774121": {
+      "appid": 774121,
+      "name": "Super Jet Juck",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:31:45.885828"
+    },
+    "774171": {
+      "appid": 774171,
+      "name": "Muse Dash",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:31:46.694002"
+    },
+    "774181": {
+      "appid": 774181,
+      "name": "Rhythm Doctor 节奏医生",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:31:46.850254"
+    },
+    "774231": {
+      "appid": 774231,
+      "name": "The Kremer Collection VR Museum",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:31:47.490502"
+    },
+    "774241": {
+      "appid": 774241,
+      "name": "Warhammer: Chaosbane",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T15:31:47.641847"
+    },
+    "774321": {
+      "appid": 774321,
+      "name": "STARBO - The Story of Leo Cornell",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:31:48.332359"
+    },
+    "774361": {
+      "appid": 774361,
+      "name": "Blasphemous",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T15:31:48.771056"
+    },
+    "774401": {
+      "appid": 774401,
+      "name": "Scrap Attack VR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:31:48.942448"
+    },
+    "774511": {
+      "appid": 774511,
+      "name": "Megadimension Neptunia VIIR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T15:31:50.017874"
+    },
+    "774711": {
+      "appid": 774711,
+      "name": "The Best Of MagiCats",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:31:50.984523"
+    },
+    "774791": {
+      "appid": 774791,
+      "name": "Surgeon Simulator 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:31:51.105464"
+    },
+    "774811": {
+      "appid": 774811,
+      "name": "YUMENIKKI -DREAM DIARY-",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T15:31:51.331138"
+    },
+    "774861": {
+      "appid": 774861,
+      "name": "Project Winter",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T15:31:51.473155"
+    },
+    "775500": {
+      "appid": 775500,
+      "name": "绯红结系",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:31:52.853113"
+    },
+    "775530": {
+      "appid": 775530,
+      "name": "Puzzlement",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:31:53.110169"
+    },
+    "775580": {
+      "appid": 775580,
+      "name": "ITTA",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T15:31:53.369733"
+    },
+    "775760": {
+      "appid": 775760,
+      "name": "蜜汁女孩 Juice Girl",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:31:54.240797"
+    },
+    "775800": {
+      "appid": 775800,
+      "name": "Ling",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:31:54.465783"
+    },
+    "775820": {
+      "appid": 775820,
+      "name": "Controllers Battery Indicator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:31:54.644735"
+    },
+    "775940": {
+      "appid": 775940,
+      "name": "Rise of Liberty",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:31:55.805534"
+    },
+    "776140": {
+      "appid": 776140,
+      "name": "Idol Quest VR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:31:57.118109"
     }
   }
 }
