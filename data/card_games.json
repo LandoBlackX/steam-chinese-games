@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-05T14:53:23.196980"
+    "updated": "2025-04-05T15:17:02.405839"
   },
   "games": {
     "570": {
@@ -63518,6 +63518,110 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-05T14:53:22.578460"
+    },
+    "761910": {
+      "appid": 761910,
+      "name": "Worbital",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T15:16:33.669387"
+    },
+    "762480": {
+      "appid": 762480,
+      "name": "Chinese inn",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T15:16:36.978628"
+    },
+    "762520": {
+      "appid": 762520,
+      "name": "Demon Hunter 4: Riddles of Light",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T15:16:37.574237"
+    },
+    "762610": {
+      "appid": 762610,
+      "name": "Russian Subway Dogs",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T15:16:38.239398"
+    },
+    "762650": {
+      "appid": 762650,
+      "name": "Depraved",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T15:16:38.543385"
+    },
+    "762830": {
+      "appid": 762830,
+      "name": "Telling Lies",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T15:16:39.051737"
+    },
+    "763340": {
+      "appid": 763340,
+      "name": "Brave Hand",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T15:16:42.923693"
+    },
+    "764510": {
+      "appid": 764510,
+      "name": "Phantom Signal — Sci-Fi Strategy Game",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T15:16:49.867043"
+    },
+    "764740": {
+      "appid": 764740,
+      "name": "Caviar - Endless Stress Reliever",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T15:16:51.449343"
+    },
+    "764790": {
+      "appid": 764790,
+      "name": "信使",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T15:16:51.703484"
+    },
+    "765810": {
+      "appid": 765810,
+      "name": "Mars Horizon",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T15:16:59.920592"
+    },
+    "765870": {
+      "appid": 765870,
+      "name": "Leisure Suit Larry - Wet Dreams Don't Dry",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T15:17:00.448331"
+    },
+    "765880": {
+      "appid": 765880,
+      "name": "The Occupation",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T15:17:00.617024"
     }
   }
 }
