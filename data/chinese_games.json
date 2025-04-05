@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-05T08:22:40.544316"
+    "updated": "2025-04-05T08:41:34.873194"
   },
   "games": {
     "570": {
@@ -61560,6 +61560,270 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-04-05T08:22:39.970910"
+    },
+    "652750": {
+      "appid": 652750,
+      "name": "Polygon Hero",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T08:41:06.751991"
+    },
+    "652880": {
+      "appid": 652880,
+      "name": "Samsara",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T08:41:08.223025"
+    },
+    "653060": {
+      "appid": 653060,
+      "name": "The Siege and the Sandfox",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T08:41:09.936546"
+    },
+    "653530": {
+      "appid": 653530,
+      "name": "Return of the Obra Dinn",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T08:41:11.480045"
+    },
+    "653950": {
+      "appid": 653950,
+      "name": "Your Smile Beyond Twilight:黄昏下的月台上",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T08:41:13.347639"
+    },
+    "654100": {
+      "appid": 654100,
+      "name": "Rival Megagun",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T08:41:14.929535"
+    },
+    "654110": {
+      "appid": 654110,
+      "name": "Fisher Fans VR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T08:41:15.096714"
+    },
+    "654260": {
+      "appid": 654260,
+      "name": "旧手表 - Old Watch",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T08:41:15.784853"
+    },
+    "654440": {
+      "appid": 654440,
+      "name": "Isotiles - Isometric Puzzle Game",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T08:41:16.587452"
+    },
+    "654450": {
+      "appid": 654450,
+      "name": "Exorcise The Demons",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T08:41:16.730869"
+    },
+    "654580": {
+      "appid": 654580,
+      "name": "Senalux",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T08:41:17.764010"
+    },
+    "654770": {
+      "appid": 654770,
+      "name": "Ballway",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T08:41:19.375791"
+    },
+    "654840": {
+      "appid": 654840,
+      "name": "I Want Toilet!!!!!!",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T08:41:20.130124"
+    },
+    "654900": {
+      "appid": 654900,
+      "name": "qop",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T08:41:20.795377"
+    },
+    "654960": {
+      "appid": 654960,
+      "name": "The Eldritch Zookeeper",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T08:41:21.394339"
+    },
+    "654990": {
+      "appid": 654990,
+      "name": "Dude Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T08:41:21.826682"
+    },
+    "655100": {
+      "appid": 655100,
+      "name": "Oik 3",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T08:41:22.699353"
+    },
+    "655170": {
+      "appid": 655170,
+      "name": "Telepathy Zero",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T08:41:23.102794"
+    },
+    "655250": {
+      "appid": 655250,
+      "name": "Insectophobia : Episode 1",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T08:41:23.644446"
+    },
+    "655350": {
+      "appid": 655350,
+      "name": "Astro Duel 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T08:41:24.185247"
+    },
+    "655370": {
+      "appid": 655370,
+      "name": "Train Bandit",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T08:41:24.478151"
+    },
+    "655380": {
+      "appid": 655380,
+      "name": "Dig Dog",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T08:41:24.627871"
+    },
+    "655610": {
+      "appid": 655610,
+      "name": "Horse Racing 2016",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T08:41:26.526554"
+    },
+    "655740": {
+      "appid": 655740,
+      "name": "烛火地牢2：猫咪的诅咒",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T08:41:27.871578"
+    },
+    "656200": {
+      "appid": 656200,
+      "name": "电竞俱乐部/ESports Club",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T08:41:30.843636"
+    },
+    "656260": {
+      "appid": 656260,
+      "name": "APEX Tournament",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T08:41:31.404545"
+    },
+    "656350": {
+      "appid": 656350,
+      "name": "UnderMine",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T08:41:32.216748"
+    },
+    "656400": {
+      "appid": 656400,
+      "name": "Attrition: Tactical Fronts",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T08:41:32.639632"
+    },
+    "656460": {
+      "appid": 656460,
+      "name": "Vostok Inc.",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T08:41:33.058291"
+    },
+    "656550": {
+      "appid": 656550,
+      "name": "Shadow Bug",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T08:41:33.852600"
+    },
+    "656580": {
+      "appid": 656580,
+      "name": "Claws of Furry",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T08:41:34.319683"
+    },
+    "656590": {
+      "appid": 656590,
+      "name": "Eight-Minute Empire",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T08:41:34.473015"
+    },
+    "656600": {
+      "appid": 656600,
+      "name": "Slash It Ultimate",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T08:41:34.600142"
     }
   }
 }

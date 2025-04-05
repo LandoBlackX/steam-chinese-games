@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-05T08:22:40.544316"
+    "updated": "2025-04-05T08:41:34.873194"
   },
   "games": {
     "570": {
@@ -60310,6 +60310,94 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-04-05T08:22:40.117950"
+    },
+    "653940": {
+      "appid": 653940,
+      "name": "Zafehouse Diaries 2",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T08:41:13.205135"
+    },
+    "654260": {
+      "appid": 654260,
+      "name": "旧手表 - Old Watch",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T08:41:15.784853"
+    },
+    "654900": {
+      "appid": 654900,
+      "name": "qop",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T08:41:20.795377"
+    },
+    "654990": {
+      "appid": 654990,
+      "name": "Dude Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T08:41:21.826682"
+    },
+    "655100": {
+      "appid": 655100,
+      "name": "Oik 3",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T08:41:22.699353"
+    },
+    "655730": {
+      "appid": 655730,
+      "name": "This Strange Realm Of Mine",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T08:41:27.737549"
+    },
+    "656120": {
+      "appid": 656120,
+      "name": "Fantasya Final Definitiva REMAKE",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T08:41:30.136193"
+    },
+    "656350": {
+      "appid": 656350,
+      "name": "UnderMine",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T08:41:32.216748"
+    },
+    "656590": {
+      "appid": 656590,
+      "name": "Eight-Minute Empire",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T08:41:34.473015"
+    },
+    "656600": {
+      "appid": 656600,
+      "name": "Slash It Ultimate",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T08:41:34.600142"
+    },
+    "656610": {
+      "appid": 656610,
+      "name": "Red Wake Carnage",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T08:41:34.753712"
     }
   }
 }
