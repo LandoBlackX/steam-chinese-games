@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-05T19:40:50.389189"
+    "updated": "2025-04-05T19:53:56.274087"
   },
   "games": {
     "570": {
@@ -78128,6 +78128,446 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-04-05T19:40:50.387917"
+    },
+    "860730": {
+      "appid": 860730,
+      "name": "Skinscape",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T19:53:25.685266"
+    },
+    "860860": {
+      "appid": 860860,
+      "name": "Suicide Guy: Sleepin' Deeply",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T19:53:26.688405"
+    },
+    "860890": {
+      "appid": 860890,
+      "name": "Factory Town",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T19:53:27.347248"
+    },
+    "860900": {
+      "appid": 860900,
+      "name": "Bounty Battle",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T19:53:27.481586"
+    },
+    "860910": {
+      "appid": 860910,
+      "name": "Hentai 3018",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T19:53:27.642932"
+    },
+    "860950": {
+      "appid": 860950,
+      "name": "Mark of the Ninja: Remastered",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T19:53:28.002373"
+    },
+    "861160": {
+      "appid": 861160,
+      "name": "Argos - The most difficult VR game in the world",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T19:53:29.556128"
+    },
+    "861240": {
+      "appid": 861240,
+      "name": "Paper Valley",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T19:53:30.268180"
+    },
+    "861250": {
+      "appid": 861250,
+      "name": "Cyber Shadow",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T19:53:30.408285"
+    },
+    "861270": {
+      "appid": 861270,
+      "name": "Sudoku Killer / 杀手数独",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T19:53:30.718695"
+    },
+    "861280": {
+      "appid": 861280,
+      "name": "战术狂想2(Chimera of Tactics 2)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T19:53:30.979857"
+    },
+    "861350": {
+      "appid": 861350,
+      "name": "Gym Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T19:53:31.875326"
+    },
+    "861410": {
+      "appid": 861410,
+      "name": "勇敢地下城 正义的意义",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T19:53:32.150436"
+    },
+    "861540": {
+      "appid": 861540,
+      "name": "Dicey Dungeons",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T19:53:32.964347"
+    },
+    "861590": {
+      "appid": 861590,
+      "name": "Tabletop Creator Pro",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T19:53:33.537213"
+    },
+    "861650": {
+      "appid": 861650,
+      "name": "Session: Skate Sim",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T19:53:33.681401"
+    },
+    "861930": {
+      "appid": 861930,
+      "name": "Kidz",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T19:53:35.128807"
+    },
+    "862110": {
+      "appid": 862110,
+      "name": "Super Jigsaw Puzzle: Cities",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T19:53:35.851195"
+    },
+    "862520": {
+      "appid": 862520,
+      "name": "Lucky Night: Poker Games",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T19:53:39.006466"
+    },
+    "862570": {
+      "appid": 862570,
+      "name": "Ding Dong XL",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T19:53:39.138402"
+    },
+    "862690": {
+      "appid": 862690,
+      "name": "关于我被小学女生绑架这件事",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T19:53:39.676503"
+    },
+    "862700": {
+      "appid": 862700,
+      "name": "Cubers: Arena",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T19:53:39.813166"
+    },
+    "862740": {
+      "appid": 862740,
+      "name": "OneShift",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T19:53:40.094085"
+    },
+    "863290": {
+      "appid": 863290,
+      "name": "Balance of Soccer",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T19:53:42.365083"
+    },
+    "863400": {
+      "appid": 863400,
+      "name": "Feud",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T19:53:42.964250"
+    },
+    "863490": {
+      "appid": 863490,
+      "name": "Bighead Runner",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T19:53:43.522227"
+    },
+    "863570": {
+      "appid": 863570,
+      "name": "Super Seducer 2 - Advanced Seduction Tactics",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T19:53:43.917202"
+    },
+    "863660": {
+      "appid": 863660,
+      "name": "Sea of memories",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T19:53:44.469206"
+    },
+    "863840": {
+      "appid": 863840,
+      "name": "MinerXP",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T19:53:45.441027"
+    },
+    "863870": {
+      "appid": 863870,
+      "name": "Brain 43℃",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T19:53:45.593749"
+    },
+    "863900": {
+      "appid": 863900,
+      "name": "Villager's Biography",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T19:53:45.729289"
+    },
+    "864060": {
+      "appid": 864060,
+      "name": "Marble It Up! Ultra",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T19:53:46.891640"
+    },
+    "864110": {
+      "appid": 864110,
+      "name": "Trap Defense",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T19:53:47.159106"
+    },
+    "864160": {
+      "appid": 864160,
+      "name": "BE-A Walker",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T19:53:47.583634"
+    },
+    "864170": {
+      "appid": 864170,
+      "name": "午夜兽群",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T19:53:47.707552"
+    },
+    "864300": {
+      "appid": 864300,
+      "name": "qop 3",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T19:53:48.287833"
+    },
+    "864360": {
+      "appid": 864360,
+      "name": "SAVANNA SHOT VR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T19:53:48.564012"
+    },
+    "864420": {
+      "appid": 864420,
+      "name": "Waterside Chirping 水畔空蝉",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T19:53:48.826164"
+    },
+    "864430": {
+      "appid": 864430,
+      "name": "SilverFrame(纯白星原)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T19:53:48.977547"
+    },
+    "864550": {
+      "appid": 864550,
+      "name": "Radiant One",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T19:53:49.925741"
+    },
+    "864570": {
+      "appid": 864570,
+      "name": "Chocolate makes you happy 6",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T19:53:50.071231"
+    },
+    "864600": {
+      "appid": 864600,
+      "name": "Jade's Dungeon Descent",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T19:53:50.331668"
+    },
+    "864680": {
+      "appid": 864680,
+      "name": "火星探测器大师 (Rover Mechanic Simulator)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T19:53:50.641447"
+    },
+    "864700": {
+      "appid": 864700,
+      "name": "恐龙化石猎人 古生物学家模拟器 (Dinosaur Fossil Hunter)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T19:53:50.793485"
+    },
+    "864760": {
+      "appid": 864760,
+      "name": "Limouzik",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T19:53:51.195410"
+    },
+    "864810": {
+      "appid": 864810,
+      "name": "NUMERIC",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T19:53:51.616119"
+    },
+    "865040": {
+      "appid": 865040,
+      "name": "Super Bit Blaster XL",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T19:53:52.892226"
+    },
+    "865090": {
+      "appid": 865090,
+      "name": "AHEGAL",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T19:53:53.193702"
+    },
+    "865100": {
+      "appid": 865100,
+      "name": "李教授的知识问答",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T19:53:53.333110"
+    },
+    "865150": {
+      "appid": 865150,
+      "name": "安全教育",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T19:53:53.633142"
+    },
+    "865180": {
+      "appid": 865180,
+      "name": "Reformers Intl Ver(变革者国际版)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T19:53:54.024298"
+    },
+    "865360": {
+      "appid": 865360,
+      "name": "We Were Here Together",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T19:53:54.964649"
+    },
+    "865400": {
+      "appid": 865400,
+      "name": "NoGame",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T19:53:55.387444"
+    },
+    "865610": {
+      "appid": 865610,
+      "name": "浣熊硬探",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T19:53:56.039088"
+    },
+    "865630": {
+      "appid": 865630,
+      "name": "One Hundred Times Me",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T19:53:56.272480"
     }
   }
 }
