@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-05T07:08:51.491003"
+    "updated": "2025-04-05T07:27:02.020795"
   },
   "games": {
     "570": {
@@ -59840,6 +59840,494 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-04-05T07:08:50.902644"
+    },
+    "625690": {
+      "appid": 625690,
+      "name": "归墟纪·寂夜  FINAL WORLD",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T07:26:33.652886"
+    },
+    "625730": {
+      "appid": 625730,
+      "name": "Cefore",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T07:26:34.339864"
+    },
+    "625770": {
+      "appid": 625770,
+      "name": "Smashing The Battle VR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T07:26:34.595315"
+    },
+    "625800": {
+      "appid": 625800,
+      "name": "Tomb Guard VR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T07:26:34.888076"
+    },
+    "625940": {
+      "appid": 625940,
+      "name": "Tomato Jones 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T07:26:36.121158"
+    },
+    "625960": {
+      "appid": 625960,
+      "name": "紫色晶石",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T07:26:36.248839"
+    },
+    "626610": {
+      "appid": 626610,
+      "name": "TT Isle of Man: Ride on the Edge",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T07:26:38.355882"
+    },
+    "626640": {
+      "appid": 626640,
+      "name": "Lost Lands: The Wanderer Collector's Edition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T07:26:38.634901"
+    },
+    "626680": {
+      "appid": 626680,
+      "name": "Kreedz Climbing",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T07:26:39.009861"
+    },
+    "626690": {
+      "appid": 626690,
+      "name": "Sword Art Online: Fatal Bullet",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T07:26:39.148470"
+    },
+    "627070": {
+      "appid": 627070,
+      "name": "inVokeR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T07:26:40.077114"
+    },
+    "627270": {
+      "appid": 627270,
+      "name": "Injustice™ 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T07:26:40.223969"
+    },
+    "627410": {
+      "appid": 627410,
+      "name": "BlackEye",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T07:26:40.585827"
+    },
+    "627690": {
+      "appid": 627690,
+      "name": "Idle Champions of the Forgotten Realms",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T07:26:41.644962"
+    },
+    "627890": {
+      "appid": 627890,
+      "name": "Reventa",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T07:26:41.890396"
+    },
+    "628030": {
+      "appid": 628030,
+      "name": "三國志VII with 威力加強版",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T07:26:42.535688"
+    },
+    "628040": {
+      "appid": 628040,
+      "name": "三國志VIII with 威力加強版",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T07:26:42.653590"
+    },
+    "628050": {
+      "appid": 628050,
+      "name": "三國志IX with 威力加強版",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T07:26:42.885129"
+    },
+    "628060": {
+      "appid": 628060,
+      "name": "三國志X with 威力加強版",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T07:26:43.005883"
+    },
+    "628070": {
+      "appid": 628070,
+      "name": "三國志11 with 威力加強版",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T07:26:43.137752"
+    },
+    "628080": {
+      "appid": 628080,
+      "name": "三國志12 with 威力加強版",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T07:26:43.259062"
+    },
+    "628190": {
+      "appid": 628190,
+      "name": "決戰亞爾薩/Heroes of Arzar",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T07:26:44.766720"
+    },
+    "628200": {
+      "appid": 628200,
+      "name": "The Invisible Hand",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T07:26:44.893637"
+    },
+    "628290": {
+      "appid": 628290,
+      "name": "All Walls Must Fall - A Tech-Noir Tactics Game",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T07:26:45.047314"
+    },
+    "628450": {
+      "appid": 628450,
+      "name": "Magnificent Ships: Volume 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T07:26:45.574381"
+    },
+    "628660": {
+      "appid": 628660,
+      "name": "Lode Runner Legacy",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T07:26:46.843289"
+    },
+    "628670": {
+      "appid": 628670,
+      "name": "Hellpoint",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T07:26:46.990528"
+    },
+    "628710": {
+      "appid": 628710,
+      "name": "Hell Warders",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T07:26:47.254391"
+    },
+    "628730": {
+      "appid": 628730,
+      "name": "Adolescent Santa Claus",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T07:26:47.371075"
+    },
+    "628740": {
+      "appid": 628740,
+      "name": "Mr. Saitou",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T07:26:47.693017"
+    },
+    "628750": {
+      "appid": 628750,
+      "name": "aMAZE 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T07:26:47.821409"
+    },
+    "628770": {
+      "appid": 628770,
+      "name": "纷乱深渊 - 致敬超任黄金时代的Roguelike JRPG",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T07:26:48.080890"
+    },
+    "628800": {
+      "appid": 628800,
+      "name": "Super Hydorah",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T07:26:48.210402"
+    },
+    "628890": {
+      "appid": 628890,
+      "name": "NOBUNAGA'S AMBITION: Taishi",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T07:26:48.779423"
+    },
+    "628900": {
+      "appid": 628900,
+      "name": "Terra Mystica",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T07:26:48.907494"
+    },
+    "628920": {
+      "appid": 628920,
+      "name": "Tomboys Need Love Too!",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T07:26:49.073600"
+    },
+    "629000": {
+      "appid": 629000,
+      "name": "Lydia",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T07:26:49.699370"
+    },
+    "629030": {
+      "appid": 629030,
+      "name": "Employee Recycling Center",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T07:26:49.829317"
+    },
+    "629220": {
+      "appid": 629220,
+      "name": "Rise of Insanity",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T07:26:50.717949"
+    },
+    "629230": {
+      "appid": 629230,
+      "name": "The StoryTale",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T07:26:50.848910"
+    },
+    "629440": {
+      "appid": 629440,
+      "name": "Graze Counter",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T07:26:52.320450"
+    },
+    "629520": {
+      "appid": 629520,
+      "name": "Soundpad",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T07:26:52.574468"
+    },
+    "629640": {
+      "appid": 629640,
+      "name": "Sea Battle VR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T07:26:52.981264"
+    },
+    "629650": {
+      "appid": 629650,
+      "name": "Symphonic Rain",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T07:26:53.104240"
+    },
+    "629690": {
+      "appid": 629690,
+      "name": "Vaporum",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T07:26:53.236179"
+    },
+    "629730": {
+      "appid": 629730,
+      "name": "Blade and Sorcery",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T07:26:53.525991"
+    },
+    "629760": {
+      "appid": 629760,
+      "name": "MORDHAU",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T07:26:53.650694"
+    },
+    "629820": {
+      "appid": 629820,
+      "name": "Maneater",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T07:26:54.146470"
+    },
+    "629860": {
+      "appid": 629860,
+      "name": "Spelunker Party!",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T07:26:54.497601"
+    },
+    "629960": {
+      "appid": 629960,
+      "name": "夏花的轨迹——A summer promise to forever",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T07:26:54.630277"
+    },
+    "630020": {
+      "appid": 630020,
+      "name": "The First Class VR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T07:26:54.994873"
+    },
+    "630060": {
+      "appid": 630060,
+      "name": "寇莎梅特：困世迷情 Consummate:Missing World",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T07:26:55.533921"
+    },
+    "630140": {
+      "appid": 630140,
+      "name": "Sky Clash: Lords of Clans 3D",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T07:26:56.059731"
+    },
+    "630310": {
+      "appid": 630310,
+      "name": "The Mummy Demastered",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T07:26:56.838270"
+    },
+    "630610": {
+      "appid": 630610,
+      "name": "Disneyland Adventures",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T07:26:57.971485"
+    },
+    "630830": {
+      "appid": 630830,
+      "name": "The Legacy: Forgotten Gates Collector's Edition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T07:26:58.828942"
+    },
+    "631510": {
+      "appid": 631510,
+      "name": "Devil May Cry HD Collection",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T07:27:00.441601"
+    },
+    "631540": {
+      "appid": 631540,
+      "name": "Community Inc",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T07:27:00.564305"
+    },
+    "631770": {
+      "appid": 631770,
+      "name": "Pixplode",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T07:27:01.079756"
+    },
+    "631830": {
+      "appid": 631830,
+      "name": "Sarcophag",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T07:27:01.368710"
+    },
+    "631900": {
+      "appid": 631900,
+      "name": "Airtone",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T07:27:01.639529"
     }
   }
 }
