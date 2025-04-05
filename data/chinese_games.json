@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-05T05:48:11.975943"
+    "updated": "2025-04-05T05:56:22.935771"
   },
   "games": {
     "570": {
@@ -58168,6 +58168,374 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-04-05T05:48:11.973821"
+    },
+    "602960": {
+      "appid": 602960,
+      "name": "Barotrauma 潜渊症",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T05:55:54.550931"
+    },
+    "603010": {
+      "appid": 603010,
+      "name": "Chill",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T05:55:55.058392"
+    },
+    "603100": {
+      "appid": 603100,
+      "name": "ATOMINE",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T05:55:55.760909"
+    },
+    "603190": {
+      "appid": 603190,
+      "name": "Tank Destroyer",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T05:55:56.742840"
+    },
+    "603220": {
+      "appid": 603220,
+      "name": "ROTii",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T05:55:57.026607"
+    },
+    "603260": {
+      "appid": 603260,
+      "name": "The Cat Games",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T05:55:57.771326"
+    },
+    "603280": {
+      "appid": 603280,
+      "name": "TAROTICA VOO DOO",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T05:55:57.899543"
+    },
+    "603320": {
+      "appid": 603320,
+      "name": "Age of Defense",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T05:55:58.028849"
+    },
+    "603350": {
+      "appid": 603350,
+      "name": "别剁手",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T05:55:58.599252"
+    },
+    "603390": {
+      "appid": 603390,
+      "name": "Stone Story RPG",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T05:55:59.056178"
+    },
+    "603420": {
+      "appid": 603420,
+      "name": "Caveman Warriors",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T05:55:59.362098"
+    },
+    "603850": {
+      "appid": 603850,
+      "name": "Age of History II",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T05:56:02.638299"
+    },
+    "604230": {
+      "appid": 604230,
+      "name": "Unlasting Horror",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T05:56:05.229923"
+    },
+    "604240": {
+      "appid": 604240,
+      "name": "Shotgun Farmers",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T05:56:05.362156"
+    },
+    "604450": {
+      "appid": 604450,
+      "name": "Another Adventure",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T05:56:05.897459"
+    },
+    "604500": {
+      "appid": 604500,
+      "name": "Tank Force: 在线射击游戏",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T05:56:06.190041"
+    },
+    "604510": {
+      "appid": 604510,
+      "name": "Empires in Ruins - 废墟帝国",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T05:56:06.327814"
+    },
+    "604540": {
+      "appid": 604540,
+      "name": "Empire of Sin",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T05:56:06.633619"
+    },
+    "604770": {
+      "appid": 604770,
+      "name": "Dark Prospect",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T05:56:07.275128"
+    },
+    "604780": {
+      "appid": 604780,
+      "name": "aMAZE",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T05:56:07.401822"
+    },
+    "605310": {
+      "appid": 605310,
+      "name": "Unearthing Mars VR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T05:56:09.849245"
+    },
+    "605610": {
+      "appid": 605610,
+      "name": "Dawn",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T05:56:10.370464"
+    },
+    "605740": {
+      "appid": 605740,
+      "name": "Flashing Lights - 警情，消防，急救",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T05:56:10.506077"
+    },
+    "605770": {
+      "appid": 605770,
+      "name": "Luna",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T05:56:10.636938"
+    },
+    "605830": {
+      "appid": 605830,
+      "name": "Organ Quarter",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T05:56:11.056987"
+    },
+    "605920": {
+      "appid": 605920,
+      "name": "VOLTED",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T05:56:11.502019"
+    },
+    "605990": {
+      "appid": 605990,
+      "name": "Heart's Medicine - Hospital Heat",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T05:56:11.789104"
+    },
+    "606000": {
+      "appid": 606000,
+      "name": "Die for Valhalla!",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T05:56:11.929807"
+    },
+    "606010": {
+      "appid": 606010,
+      "name": "Weelco VR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T05:56:12.054773"
+    },
+    "606150": {
+      "appid": 606150,
+      "name": "Moonlighter",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T05:56:12.637110"
+    },
+    "606180": {
+      "appid": 606180,
+      "name": "Viveport Video",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T05:56:12.891757"
+    },
+    "606280": {
+      "appid": 606280,
+      "name": "Darksiders III",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T05:56:13.304202"
+    },
+    "606480": {
+      "appid": 606480,
+      "name": "Flood of Light",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T05:56:14.148587"
+    },
+    "606510": {
+      "appid": 606510,
+      "name": "灰色幻影扳机第1卷",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T05:56:14.559555"
+    },
+    "606520": {
+      "appid": 606520,
+      "name": "灰色幻影扳机第2卷",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T05:56:14.721189"
+    },
+    "606730": {
+      "appid": 606730,
+      "name": "Sine Mora EX",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T05:56:15.583825"
+    },
+    "606800": {
+      "appid": 606800,
+      "name": "Startup Company",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T05:56:15.839652"
+    },
+    "606880": {
+      "appid": 606880,
+      "name": "GreedFall",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T05:56:16.541047"
+    },
+    "606890": {
+      "appid": 606890,
+      "name": "Masters of Anima",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T05:56:16.670178"
+    },
+    "607050": {
+      "appid": 607050,
+      "name": "战律",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T05:56:18.201045"
+    },
+    "607080": {
+      "appid": 607080,
+      "name": "Psychonauts 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T05:56:18.347958"
+    },
+    "607400": {
+      "appid": 607400,
+      "name": "Necrosphere",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T05:56:19.823500"
+    },
+    "607690": {
+      "appid": 607690,
+      "name": "SourVR Video Player Deluxe Edition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T05:56:21.032764"
+    },
+    "607880": {
+      "appid": 607880,
+      "name": "Accel World VS. Sword Art Online Deluxe Edition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T05:56:21.840359"
+    },
+    "607890": {
+      "appid": 607890,
+      "name": "Sword Art Online: Hollow Realization Deluxe Edition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T05:56:21.982148"
+    },
+    "608370": {
+      "appid": 608370,
+      "name": "Drums Hero",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T05:56:22.662074"
     }
   }
 }
