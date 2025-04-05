@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-05T13:46:52.111541"
+    "updated": "2025-04-05T13:59:43.765481"
   },
   "games": {
     "570": {
@@ -62614,6 +62614,134 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-05T13:46:50.581545"
+    },
+    "733110": {
+      "appid": 733110,
+      "name": "8-Bit Adventures 2",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T13:59:23.164745"
+    },
+    "733300": {
+      "appid": 733300,
+      "name": "My Big Sister",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T13:59:23.884121"
+    },
+    "733340": {
+      "appid": 733340,
+      "name": "Hakuoki: Edo Blossoms",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T13:59:24.016171"
+    },
+    "733460": {
+      "appid": 733460,
+      "name": "第一王权",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T13:59:24.581197"
+    },
+    "733740": {
+      "appid": 733740,
+      "name": "Sakura Cupid",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T13:59:26.541781"
+    },
+    "733800": {
+      "appid": 733800,
+      "name": "Frosty Nights",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T13:59:27.212797"
+    },
+    "734550": {
+      "appid": 734550,
+      "name": "Wheel Riders Online OBT",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T13:59:30.135865"
+    },
+    "734730": {
+      "appid": 734730,
+      "name": "Ancient Frontier: Steel Shadows",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T13:59:30.836595"
+    },
+    "734750": {
+      "appid": 734750,
+      "name": "PickCrafter",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T13:59:30.966887"
+    },
+    "734920": {
+      "appid": 734920,
+      "name": "MEANDERS",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T13:59:31.914284"
+    },
+    "735280": {
+      "appid": 735280,
+      "name": "EMERGENCY 20",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T13:59:32.877145"
+    },
+    "735350": {
+      "appid": 735350,
+      "name": "Bottle: Pilgrim Redux",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T13:59:33.295801"
+    },
+    "735580": {
+      "appid": 735580,
+      "name": "11-11 Memories Retold",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T13:59:34.806000"
+    },
+    "736570": {
+      "appid": 736570,
+      "name": "The Crooked Man",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T13:59:38.373386"
+    },
+    "736820": {
+      "appid": 736820,
+      "name": "Knights of Honor II: Sovereign",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T13:59:39.494581"
+    },
+    "736860": {
+      "appid": 736860,
+      "name": "環遊世界八十天 : 隐藏的对象游戏",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T13:59:40.050260"
     }
   }
 }

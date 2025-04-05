@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-05T13:46:52.111541"
+    "updated": "2025-04-05T13:59:43.765481"
   },
   "games": {
     "570": {
@@ -67592,6 +67592,406 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-04-05T13:46:51.987445"
+    },
+    "732050": {
+      "appid": 732050,
+      "name": "Voxel Tycoon",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T13:59:17.198730"
+    },
+    "732160": {
+      "appid": 732160,
+      "name": "The Wild Age",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T13:59:17.809533"
+    },
+    "732370": {
+      "appid": 732370,
+      "name": "Juicy Realm",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T13:59:18.796181"
+    },
+    "732400": {
+      "appid": 732400,
+      "name": "PlataGO! Super Platform Game Maker",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T13:59:19.050937"
+    },
+    "732470": {
+      "appid": 732470,
+      "name": "Battleship Lonewolf",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T13:59:19.633835"
+    },
+    "732680": {
+      "appid": 732680,
+      "name": "Gems",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T13:59:20.179908"
+    },
+    "732690": {
+      "appid": 732690,
+      "name": "FIVE NIGHTS AT FREDDY'S: HELP WANTED",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T13:59:20.318557"
+    },
+    "732930": {
+      "appid": 732930,
+      "name": "武德岭 DX: 初级小兵反击战",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T13:59:21.672433"
+    },
+    "732970": {
+      "appid": 732970,
+      "name": "Beyond Clouds",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T13:59:21.930960"
+    },
+    "733020": {
+      "appid": 733020,
+      "name": "Zen Blocks - Relaxing Puzzle Board Game",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T13:59:22.191959"
+    },
+    "733050": {
+      "appid": 733050,
+      "name": "Lines Infinite",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T13:59:22.606789"
+    },
+    "733070": {
+      "appid": 733070,
+      "name": "Sudoku Universe / 数独宇宙",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T13:59:22.870068"
+    },
+    "733210": {
+      "appid": 733210,
+      "name": "Neversong",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T13:59:23.486301"
+    },
+    "733340": {
+      "appid": 733340,
+      "name": "Hakuoki: Edo Blossoms",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T13:59:24.016171"
+    },
+    "733460": {
+      "appid": 733460,
+      "name": "第一王权",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T13:59:24.581197"
+    },
+    "733740": {
+      "appid": 733740,
+      "name": "Sakura Cupid",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T13:59:26.541781"
+    },
+    "733790": {
+      "appid": 733790,
+      "name": "Not Tonight",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T13:59:27.083169"
+    },
+    "733820": {
+      "appid": 733820,
+      "name": "Highrisers",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T13:59:27.501859"
+    },
+    "733890": {
+      "appid": 733890,
+      "name": "Magical Girl Dash 2 - Triple Prisma Attack",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T13:59:28.012827"
+    },
+    "733990": {
+      "appid": 733990,
+      "name": "I Can't Believe It's Not Gambling",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T13:59:28.287274"
+    },
+    "734440": {
+      "appid": 734440,
+      "name": "Black Moon 黑月",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T13:59:29.456152"
+    },
+    "734570": {
+      "appid": 734570,
+      "name": "Bitcoin Tycoon - Mining Simulation Game",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T13:59:30.273110"
+    },
+    "734750": {
+      "appid": 734750,
+      "name": "PickCrafter",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T13:59:30.966887"
+    },
+    "734920": {
+      "appid": 734920,
+      "name": "MEANDERS",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T13:59:31.914284"
+    },
+    "735060": {
+      "appid": 735060,
+      "name": "The Forbidden Arts",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T13:59:32.326795"
+    },
+    "735250": {
+      "appid": 735250,
+      "name": "BLACKSTONE",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T13:59:32.587219"
+    },
+    "735290": {
+      "appid": 735290,
+      "name": "Genesis Noir",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T13:59:33.024066"
+    },
+    "735470": {
+      "appid": 735470,
+      "name": "vBuilder",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T13:59:33.700039"
+    },
+    "735490": {
+      "appid": 735490,
+      "name": "烛梦灯  The Dreams of Candlelight",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T13:59:33.838457"
+    },
+    "735500": {
+      "appid": 735500,
+      "name": "Creepy Road",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T13:59:33.970802"
+    },
+    "735550": {
+      "appid": 735550,
+      "name": "Crazy Soccer: Football Stars",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T13:59:34.537056"
+    },
+    "736050": {
+      "appid": 736050,
+      "name": "Kink",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T13:59:35.467413"
+    },
+    "736190": {
+      "appid": 736190,
+      "name": "中国式家长",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T13:59:35.884570"
+    },
+    "736200": {
+      "appid": 736200,
+      "name": "Nana in the Dark",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T13:59:36.010471"
+    },
+    "736220": {
+      "appid": 736220,
+      "name": "Squad 44",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T13:59:36.146857"
+    },
+    "736250": {
+      "appid": 736250,
+      "name": "Amberskull",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T13:59:36.572044"
+    },
+    "736260": {
+      "appid": 736260,
+      "name": "Baba Is You",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T13:59:36.712661"
+    },
+    "736430": {
+      "appid": 736430,
+      "name": "Clicker bAdventure",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T13:59:37.821910"
+    },
+    "736570": {
+      "appid": 736570,
+      "name": "The Crooked Man",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T13:59:38.373386"
+    },
+    "736700": {
+      "appid": 736700,
+      "name": "Starry Makino",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T13:59:38.803576"
+    },
+    "736810": {
+      "appid": 736810,
+      "name": "The Raven Remastered",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T13:59:39.352199"
+    },
+    "736820": {
+      "appid": 736820,
+      "name": "Knights of Honor II: Sovereign",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T13:59:39.494581"
+    },
+    "736840": {
+      "appid": 736840,
+      "name": "aMAZE Double",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T13:59:39.761870"
+    },
+    "736860": {
+      "appid": 736860,
+      "name": "環遊世界八十天 : 隐藏的对象游戏",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T13:59:40.050260"
+    },
+    "736930": {
+      "appid": 736930,
+      "name": "Delicious - Moms vs Dads",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T13:59:40.475569"
+    },
+    "737520": {
+      "appid": 737520,
+      "name": "Flynn: Son of Crimson",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T13:59:42.228098"
+    },
+    "737600": {
+      "appid": 737600,
+      "name": "四十天",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T13:59:42.486697"
+    },
+    "737630": {
+      "appid": 737630,
+      "name": "Hibow",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T13:59:42.614725"
+    },
+    "737690": {
+      "appid": 737690,
+      "name": "Bernackels' Shoggoth",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T13:59:43.199349"
+    },
+    "737710": {
+      "appid": 737710,
+      "name": "Melody of Iris-虹色旋律-(Full Color ver.)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T13:59:43.335398"
     }
   }
 }
