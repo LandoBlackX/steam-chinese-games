@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-05T18:20:55.134299"
+    "updated": "2025-04-05T18:41:27.624752"
   },
   "games": {
     "570": {
@@ -65214,6 +65214,110 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-05T18:20:47.838235"
+    },
+    "836640": {
+      "appid": 836640,
+      "name": "寄居隅怪奇事件簿 Hermitage Strange Case Files",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T18:41:00.756836"
+    },
+    "836760": {
+      "appid": 836760,
+      "name": "Sorcery Saga: Curse of the Great Curry God",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T18:41:01.336813"
+    },
+    "837400": {
+      "appid": 837400,
+      "name": "Fated Kingdom",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T18:41:04.841662"
+    },
+    "837460": {
+      "appid": 837460,
+      "name": "Batbarian: Testament of the Primordials",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T18:41:05.255864"
+    },
+    "837610": {
+      "appid": 837610,
+      "name": "Mary Skelter: Nightmares",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T18:41:06.433163"
+    },
+    "838310": {
+      "appid": 838310,
+      "name": "Bloodstained: Curse of the Moon",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T18:41:09.959027"
+    },
+    "838410": {
+      "appid": 838410,
+      "name": "Tabletop Playground",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T18:41:11.268331"
+    },
+    "839670": {
+      "appid": 839670,
+      "name": "Alice's Adventures - Hidden Object. Wimmelbild",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T18:41:18.914370"
+    },
+    "839770": {
+      "appid": 839770,
+      "name": "Phoenix Point",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T18:41:19.496402"
+    },
+    "840010": {
+      "appid": 840010,
+      "name": "Garden Paws",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T18:41:21.056996"
+    },
+    "840260": {
+      "appid": 840260,
+      "name": "Endless World Idle RPG",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T18:41:23.195050"
+    },
+    "840390": {
+      "appid": 840390,
+      "name": "Spacebase Startopia",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T18:41:23.752848"
+    },
+    "840930": {
+      "appid": 840930,
+      "name": "Bing Bong XL",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T18:41:27.493599"
     }
   }
 }

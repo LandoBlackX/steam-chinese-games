@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-05T18:20:55.134299"
+    "updated": "2025-04-05T18:41:27.624752"
   },
   "games": {
     "570": {
@@ -76088,6 +76088,414 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-04-05T18:20:54.375394"
+    },
+    "836480": {
+      "appid": 836480,
+      "name": "恋爱模拟器 Love Simulation",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T18:40:59.235205"
+    },
+    "836490": {
+      "appid": 836490,
+      "name": "月夜下的紅茶杯 ~ Blacktea With Moon",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T18:40:59.372315"
+    },
+    "836590": {
+      "appid": 836590,
+      "name": "热血外传：好酷啊！小林",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T18:41:00.255094"
+    },
+    "836600": {
+      "appid": 836600,
+      "name": "Alternate Jake Hunter: DAEDALUS The Awakening of Golden Jazz",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T18:41:00.420669"
+    },
+    "836640": {
+      "appid": 836640,
+      "name": "寄居隅怪奇事件簿 Hermitage Strange Case Files",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T18:41:00.756836"
+    },
+    "836850": {
+      "appid": 836850,
+      "name": "Tiny Tanks",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T18:41:01.633663"
+    },
+    "836880": {
+      "appid": 836880,
+      "name": "The Berlin Wall",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T18:41:01.889967"
+    },
+    "836940": {
+      "appid": 836940,
+      "name": "【SCP】器関ノ彷徨 -The will of a single Tale-【DEMOver.】",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T18:41:02.026105"
+    },
+    "837210": {
+      "appid": 837210,
+      "name": "Doodle God: Genesis Secrets",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T18:41:03.242280"
+    },
+    "837350": {
+      "appid": 837350,
+      "name": "King of the Hat",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T18:41:04.419971"
+    },
+    "837460": {
+      "appid": 837460,
+      "name": "Batbarian: Testament of the Primordials",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T18:41:05.255864"
+    },
+    "837470": {
+      "appid": 837470,
+      "name": "Untitled Goose Game",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T18:41:05.383037"
+    },
+    "837510": {
+      "appid": 837510,
+      "name": "Pixel Game Maker MV / アクションゲームツクールMV",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T18:41:05.691959"
+    },
+    "837550": {
+      "appid": 837550,
+      "name": "Bouncy Butter Ball",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T18:41:06.021275"
+    },
+    "837880": {
+      "appid": 837880,
+      "name": "狂野泊车 / You Suck at Parking®",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T18:41:07.374172"
+    },
+    "838110": {
+      "appid": 838110,
+      "name": "HyperParasite 超级寄生虫",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T18:41:08.879925"
+    },
+    "838350": {
+      "appid": 838350,
+      "name": "太吾绘卷 The Scroll Of Taiwu",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T18:41:10.404759"
+    },
+    "838380": {
+      "appid": 838380,
+      "name": "DEAD OR ALIVE 6",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T18:41:10.957479"
+    },
+    "838510": {
+      "appid": 838510,
+      "name": "Find & Destroy: Tank Strategy",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T18:41:11.707007"
+    },
+    "838630": {
+      "appid": 838630,
+      "name": "Deadliest Catch: The Game",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T18:41:12.113442"
+    },
+    "839080": {
+      "appid": 839080,
+      "name": "DRAW CHILLY",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T18:41:14.444297"
+    },
+    "839130": {
+      "appid": 839130,
+      "name": "Snowball Saves Summer",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T18:41:14.740052"
+    },
+    "839250": {
+      "appid": 839250,
+      "name": "三国英雄列传 (Legendary Heros in the Three Kingdoms)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T18:41:15.693303"
+    },
+    "839280": {
+      "appid": 839280,
+      "name": "Cartonfall",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T18:41:16.000201"
+    },
+    "839300": {
+      "appid": 839300,
+      "name": "Legendary Eleven: Epic Football",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T18:41:16.140642"
+    },
+    "839370": {
+      "appid": 839370,
+      "name": "The story of Gods 七神物语",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T18:41:16.879594"
+    },
+    "839410": {
+      "appid": 839410,
+      "name": "Undead & Beyond",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T18:41:17.044221"
+    },
+    "839420": {
+      "appid": 839420,
+      "name": "Krampus is Home",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T18:41:17.181144"
+    },
+    "839450": {
+      "appid": 839450,
+      "name": "7'scarlet",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T18:41:17.506625"
+    },
+    "839500": {
+      "appid": 839500,
+      "name": "血战夹皮沟",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T18:41:17.779605"
+    },
+    "839520": {
+      "appid": 839520,
+      "name": "The Legend of Evil",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T18:41:17.920671"
+    },
+    "839590": {
+      "appid": 839590,
+      "name": "Hamster Daily",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T18:41:18.495364"
+    },
+    "839630": {
+      "appid": 839630,
+      "name": "实境求生",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T18:41:18.628260"
+    },
+    "839640": {
+      "appid": 839640,
+      "name": "那些年，我们一起收到的好人卡",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T18:41:18.781824"
+    },
+    "839670": {
+      "appid": 839670,
+      "name": "Alice's Adventures - Hidden Object. Wimmelbild",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T18:41:18.914370"
+    },
+    "839740": {
+      "appid": 839740,
+      "name": "戾谈",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T18:41:19.322638"
+    },
+    "839770": {
+      "appid": 839770,
+      "name": "Phoenix Point",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T18:41:19.496402"
+    },
+    "839910": {
+      "appid": 839910,
+      "name": "Mythgard",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T18:41:20.188324"
+    },
+    "840090": {
+      "appid": 840090,
+      "name": "Battleground Shooting Training 吃鸡枪法训练器",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T18:41:21.608751"
+    },
+    "840100": {
+      "appid": 840100,
+      "name": "Magic Scroll Tactics / マジックスクロールタクティクス / 魔法卷轴 / 魔法捲軸",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T18:41:21.771745"
+    },
+    "840130": {
+      "appid": 840130,
+      "name": "Battle Royale: Survivors 究极求生:大逃杀",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T18:41:22.038420"
+    },
+    "840140": {
+      "appid": 840140,
+      "name": "武侠乂 The Swordsmen X",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T18:41:22.226608"
+    },
+    "840260": {
+      "appid": 840260,
+      "name": "Endless World Idle RPG",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T18:41:23.195050"
+    },
+    "840390": {
+      "appid": 840390,
+      "name": "Spacebase Startopia",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T18:41:23.752848"
+    },
+    "840590": {
+      "appid": 840590,
+      "name": "ANOIX",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T18:41:24.839935"
+    },
+    "840720": {
+      "appid": 840720,
+      "name": "Sword Art Online: Lost Song",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T18:41:25.720278"
+    },
+    "840800": {
+      "appid": 840800,
+      "name": "Outlaws of the Old West",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T18:41:26.115372"
+    },
+    "840860": {
+      "appid": 840860,
+      "name": "I Pay No Rent",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T18:41:26.812437"
+    },
+    "840910": {
+      "appid": 840910,
+      "name": "Save her, from dreams",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T18:41:27.233237"
+    },
+    "840920": {
+      "appid": 840920,
+      "name": "Asimov Laws",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T18:41:27.364386"
+    },
+    "840930": {
+      "appid": 840930,
+      "name": "Bing Bong XL",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T18:41:27.493599"
     }
   }
 }
