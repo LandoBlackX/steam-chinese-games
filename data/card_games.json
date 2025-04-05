@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-05T07:53:45.855488"
+    "updated": "2025-04-05T08:22:40.544316"
   },
   "games": {
     "570": {
@@ -60110,6 +60110,206 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-05T07:53:45.715504"
+    },
+    "646570": {
+      "appid": 646570,
+      "name": "Slay the Spire",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T08:22:09.099444"
+    },
+    "647530": {
+      "appid": 647530,
+      "name": "Prime Arena",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T08:22:12.564327"
+    },
+    "647570": {
+      "appid": 647570,
+      "name": "Transference™",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T08:22:12.709463"
+    },
+    "647990": {
+      "appid": 647990,
+      "name": "Batter Up! VR",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T08:22:15.895819"
+    },
+    "648120": {
+      "appid": 648120,
+      "name": "Pixel Sketch",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T08:22:16.800822"
+    },
+    "648350": {
+      "appid": 648350,
+      "name": "侏罗纪世界：进化",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T08:22:17.507624"
+    },
+    "648430": {
+      "appid": 648430,
+      "name": "Hand of the Gods",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T08:22:18.096230"
+    },
+    "648580": {
+      "appid": 648580,
+      "name": "428: Shibuya Scramble",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T08:22:18.965078"
+    },
+    "648660": {
+      "appid": 648660,
+      "name": "Boobs vs Zombies",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T08:22:19.530304"
+    },
+    "648750": {
+      "appid": 648750,
+      "name": "Tokaido",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T08:22:19.829731"
+    },
+    "649580": {
+      "appid": 649580,
+      "name": "Twins of the Pasture",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T08:22:22.951807"
+    },
+    "649790": {
+      "appid": 649790,
+      "name": "Harvest Life",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T08:22:24.411298"
+    },
+    "649810": {
+      "appid": 649810,
+      "name": "风暴：深厚友谊的开始",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T08:22:24.578268"
+    },
+    "650220": {
+      "appid": 650220,
+      "name": "Interplanetary: Enhanced Edition",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T08:22:26.962434"
+    },
+    "650330": {
+      "appid": 650330,
+      "name": "Sanator: Scarlet Scarf",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T08:22:27.260629"
+    },
+    "650440": {
+      "appid": 650440,
+      "name": "Warbanners",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T08:22:27.774859"
+    },
+    "650570": {
+      "appid": 650570,
+      "name": "Code 7: A Story-Driven Hacking Adventure",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T08:22:28.391550"
+    },
+    "650680": {
+      "appid": 650680,
+      "name": "Golem Creation Kit",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T08:22:29.092890"
+    },
+    "650750": {
+      "appid": 650750,
+      "name": "HYPERNOVA: Escape from Hadea",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T08:22:29.910829"
+    },
+    "650940": {
+      "appid": 650940,
+      "name": "Rogue Empire: Dungeon Crawler RPG",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T08:22:31.074699"
+    },
+    "651340": {
+      "appid": 651340,
+      "name": "Shephy",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T08:22:32.720739"
+    },
+    "651500": {
+      "appid": 651500,
+      "name": "我对我们的记忆",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T08:22:33.641965"
+    },
+    "651660": {
+      "appid": 651660,
+      "name": "Halcyon 6: Starbase Commander (LIGHTSPEED EDITION)",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T08:22:34.815060"
+    },
+    "651670": {
+      "appid": 651670,
+      "name": "Star Renegades",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T08:22:34.962957"
+    },
+    "652410": {
+      "appid": 652410,
+      "name": "Brigand: Oaxaca",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T08:22:40.117950"
     }
   }
 }

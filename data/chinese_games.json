@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-05T07:53:45.855488"
+    "updated": "2025-04-05T08:22:40.544316"
   },
   "games": {
     "570": {
@@ -61200,6 +61200,366 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-04-05T07:53:45.854058"
+    },
+    "646570": {
+      "appid": 646570,
+      "name": "Slay the Spire",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T08:22:09.099444"
+    },
+    "646910": {
+      "appid": 646910,
+      "name": "The Crew™ 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T08:22:10.597742"
+    },
+    "647570": {
+      "appid": 647570,
+      "name": "Transference™",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T08:22:12.709463"
+    },
+    "647640": {
+      "appid": 647640,
+      "name": "ShockRods",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T08:22:12.951516"
+    },
+    "647830": {
+      "appid": 647830,
+      "name": "LEGO® Marvel Super Heroes 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T08:22:14.034531"
+    },
+    "648070": {
+      "appid": 648070,
+      "name": "CrisisActionVR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T08:22:16.492711"
+    },
+    "648190": {
+      "appid": 648190,
+      "name": "Aliens In The Yard",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T08:22:17.090311"
+    },
+    "648350": {
+      "appid": 648350,
+      "name": "侏罗纪世界：进化",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T08:22:17.507624"
+    },
+    "648430": {
+      "appid": 648430,
+      "name": "Hand of the Gods",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T08:22:18.096230"
+    },
+    "648440": {
+      "appid": 648440,
+      "name": "Pixel Devil and the Broken Cartridge",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T08:22:18.241843"
+    },
+    "648600": {
+      "appid": 648600,
+      "name": "FINAL FANTASY XV WINDOWS EDITION MOD ORGANIZER",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T08:22:19.104584"
+    },
+    "648750": {
+      "appid": 648750,
+      "name": "Tokaido",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T08:22:19.829731"
+    },
+    "648800": {
+      "appid": 648800,
+      "name": "Raft",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T08:22:20.148774"
+    },
+    "649170": {
+      "appid": 649170,
+      "name": "The Seasons",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T08:22:21.551414"
+    },
+    "649240": {
+      "appid": 649240,
+      "name": "RADtv",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T08:22:21.812701"
+    },
+    "649300": {
+      "appid": 649300,
+      "name": "Wisdom of War",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T08:22:21.970316"
+    },
+    "649360": {
+      "appid": 649360,
+      "name": "Yesterday",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T08:22:22.105052"
+    },
+    "649580": {
+      "appid": 649580,
+      "name": "Twins of the Pasture",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T08:22:22.951807"
+    },
+    "649630": {
+      "appid": 649630,
+      "name": "DarkMaze",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T08:22:23.361057"
+    },
+    "649790": {
+      "appid": 649790,
+      "name": "Harvest Life",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T08:22:24.411298"
+    },
+    "649810": {
+      "appid": 649810,
+      "name": "风暴：深厚友谊的开始",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T08:22:24.578268"
+    },
+    "649870": {
+      "appid": 649870,
+      "name": "NitroRage",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T08:22:24.873797"
+    },
+    "649890": {
+      "appid": 649890,
+      "name": "Caliban Below",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T08:22:25.384616"
+    },
+    "649950": {
+      "appid": 649950,
+      "name": "Ashen",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T08:22:25.529151"
+    },
+    "649960": {
+      "appid": 649960,
+      "name": "Happy Lab",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T08:22:25.674856"
+    },
+    "650000": {
+      "appid": 650000,
+      "name": "DOOM VFR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T08:22:26.138256"
+    },
+    "650070": {
+      "appid": 650070,
+      "name": "OVERTURN",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T08:22:26.432773"
+    },
+    "650090": {
+      "appid": 650090,
+      "name": "VeeR VR:VR Video and Movie Platform",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T08:22:26.561665"
+    },
+    "650110": {
+      "appid": 650110,
+      "name": "Princess Maker 3: Fairy Tales Come True",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T08:22:26.694935"
+    },
+    "650120": {
+      "appid": 650120,
+      "name": "Shots Fired",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T08:22:26.820193"
+    },
+    "650440": {
+      "appid": 650440,
+      "name": "Warbanners",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T08:22:27.774859"
+    },
+    "650600": {
+      "appid": 650600,
+      "name": "Greece Defense TD",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T08:22:28.645955"
+    },
+    "650750": {
+      "appid": 650750,
+      "name": "HYPERNOVA: Escape from Hadea",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T08:22:29.910829"
+    },
+    "650760": {
+      "appid": 650760,
+      "name": "侠客风云传前传(Tale of Wuxia:The Pre-Sequel)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T08:22:30.045798"
+    },
+    "650770": {
+      "appid": 650770,
+      "name": "Time Gun / 时间枪",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T08:22:30.175287"
+    },
+    "650780": {
+      "appid": 650780,
+      "name": "AngerForce: Reloaded",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T08:22:30.310413"
+    },
+    "650860": {
+      "appid": 650860,
+      "name": "Wrath of Loki VR Adventure",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T08:22:30.791306"
+    },
+    "651340": {
+      "appid": 651340,
+      "name": "Shephy",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T08:22:32.720739"
+    },
+    "651490": {
+      "appid": 651490,
+      "name": "昨日难留",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T08:22:33.500355"
+    },
+    "651500": {
+      "appid": 651500,
+      "name": "我对我们的记忆",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T08:22:33.641965"
+    },
+    "651560": {
+      "appid": 651560,
+      "name": "Clash of Robots",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T08:22:34.065764"
+    },
+    "651670": {
+      "appid": 651670,
+      "name": "Star Renegades",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T08:22:34.962957"
+    },
+    "652070": {
+      "appid": 652070,
+      "name": "Bump+Smack",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T08:22:36.843408"
+    },
+    "652230": {
+      "appid": 652230,
+      "name": "CrazyCar",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T08:22:38.512837"
+    },
+    "652390": {
+      "appid": 652390,
+      "name": "Mr Rabbit's Alphabet Forest Adventure",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T08:22:39.970910"
     }
   }
 }
