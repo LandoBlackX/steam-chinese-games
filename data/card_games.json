@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-05T13:33:44.624003"
+    "updated": "2025-04-05T13:46:52.111541"
   },
   "games": {
     "570": {
@@ -62446,6 +62446,174 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-05T13:33:41.890076"
+    },
+    "726830": {
+      "appid": 726830,
+      "name": "Vacation Simulator",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T13:46:22.882340"
+    },
+    "726840": {
+      "appid": 726840,
+      "name": "City Game Studio: Your Game Dev Adventure Begins",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T13:46:23.017962"
+    },
+    "726950": {
+      "appid": 726950,
+      "name": "Dark Rose Valkyrie",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T13:46:23.689463"
+    },
+    "727340": {
+      "appid": 727340,
+      "name": "Stitched HD",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T13:46:27.969839"
+    },
+    "727510": {
+      "appid": 727510,
+      "name": "Void Memory",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T13:46:28.830913"
+    },
+    "727660": {
+      "appid": 727660,
+      "name": "Eden Falling",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T13:46:29.994096"
+    },
+    "727850": {
+      "appid": 727850,
+      "name": "ELDERBORN",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T13:46:31.491311"
+    },
+    "728730": {
+      "appid": 728730,
+      "name": "Holyday City: Reloaded",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T13:46:34.865426"
+    },
+    "728740": {
+      "appid": 728740,
+      "name": "Sniper Elite V2 Remastered",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T13:46:34.977027"
+    },
+    "728880": {
+      "appid": 728880,
+      "name": "Overcooked! 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T13:46:35.418561"
+    },
+    "729030": {
+      "appid": 729030,
+      "name": "サバイバルメソッド Survival Method",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T13:46:36.158291"
+    },
+    "729660": {
+      "appid": 729660,
+      "name": "Blackout Z: Slaughterhouse Edition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T13:46:39.865162"
+    },
+    "729670": {
+      "appid": 729670,
+      "name": "LSD: Dream Emulator (Wanderlust)",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T13:46:40.049962"
+    },
+    "730050": {
+      "appid": 730050,
+      "name": "Verdant Skies",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T13:46:42.515803"
+    },
+    "730310": {
+      "appid": 730310,
+      "name": "真・三国无双８",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T13:46:44.444408"
+    },
+    "730390": {
+      "appid": 730390,
+      "name": "Raji: An Ancient Epic / 拉吉：远古传奇",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T13:46:44.558605"
+    },
+    "730410": {
+      "appid": 730410,
+      "name": "Music Band Manager",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T13:46:44.707262"
+    },
+    "730430": {
+      "appid": 730430,
+      "name": "This Is the President",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T13:46:45.007302"
+    },
+    "731040": {
+      "appid": 731040,
+      "name": "无敌号",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T13:46:47.872083"
+    },
+    "731490": {
+      "appid": 731490,
+      "name": "Crash Bandicoot™ N. Sane Trilogy",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T13:46:49.704746"
+    },
+    "731650": {
+      "appid": 731650,
+      "name": "Summer Islands",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T13:46:50.581545"
     }
   }
 }

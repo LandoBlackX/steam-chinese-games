@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-05T13:33:44.624003"
+    "updated": "2025-04-05T13:46:52.111541"
   },
   "games": {
     "570": {
@@ -67256,6 +67256,342 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-04-05T13:33:44.485756"
+    },
+    "726840": {
+      "appid": 726840,
+      "name": "City Game Studio: Your Game Dev Adventure Begins",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T13:46:23.017962"
+    },
+    "726950": {
+      "appid": 726950,
+      "name": "Dark Rose Valkyrie",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T13:46:23.689463"
+    },
+    "727010": {
+      "appid": 727010,
+      "name": "Wrath of Thor",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T13:46:23.969754"
+    },
+    "727130": {
+      "appid": 727130,
+      "name": "群星之间",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T13:46:25.351456"
+    },
+    "727180": {
+      "appid": 727180,
+      "name": "大逃亡专家 Escape Expert",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T13:46:25.982552"
+    },
+    "727450": {
+      "appid": 727450,
+      "name": "节奏狂怒",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T13:46:28.226653"
+    },
+    "727460": {
+      "appid": 727460,
+      "name": "Magic Tower",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T13:46:28.373533"
+    },
+    "727480": {
+      "appid": 727480,
+      "name": "Reach Me",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T13:46:28.557214"
+    },
+    "727730": {
+      "appid": 727730,
+      "name": "Shiver",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T13:46:30.433896"
+    },
+    "727740": {
+      "appid": 727740,
+      "name": "Raging Fists: Retribution",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T13:46:30.546036"
+    },
+    "727760": {
+      "appid": 727760,
+      "name": "Umiro",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T13:46:30.661652"
+    },
+    "727800": {
+      "appid": 727800,
+      "name": "Voxel Tank VR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T13:46:31.078563"
+    },
+    "727830": {
+      "appid": 727830,
+      "name": "Reformers",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T13:46:31.248446"
+    },
+    "727850": {
+      "appid": 727850,
+      "name": "ELDERBORN",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T13:46:31.491311"
+    },
+    "727900": {
+      "appid": 727900,
+      "name": "Maze of Gaea（Real Maze VR Simulation）",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T13:46:31.747868"
+    },
+    "728050": {
+      "appid": 728050,
+      "name": "❂ Heroes of Hexaluga ❂",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T13:46:32.510033"
+    },
+    "728530": {
+      "appid": 728530,
+      "name": "SD GUNDAM G GENERATION CROSS RAYS",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T13:46:33.878431"
+    },
+    "728620": {
+      "appid": 728620,
+      "name": "RibbonChase",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T13:46:34.226284"
+    },
+    "728730": {
+      "appid": 728730,
+      "name": "Holyday City: Reloaded",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T13:46:34.865426"
+    },
+    "728740": {
+      "appid": 728740,
+      "name": "Sniper Elite V2 Remastered",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T13:46:34.977027"
+    },
+    "728880": {
+      "appid": 728880,
+      "name": "Overcooked! 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T13:46:35.418561"
+    },
+    "729000": {
+      "appid": 729000,
+      "name": "Wytchwood",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T13:46:36.044125"
+    },
+    "729340": {
+      "appid": 729340,
+      "name": "AMON",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T13:46:38.323023"
+    },
+    "729460": {
+      "appid": 729460,
+      "name": "Distant Space 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T13:46:38.718937"
+    },
+    "729530": {
+      "appid": 729530,
+      "name": "Legends of Talia: Arcadia",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T13:46:38.975089"
+    },
+    "729660": {
+      "appid": 729660,
+      "name": "Blackout Z: Slaughterhouse Edition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T13:46:39.865162"
+    },
+    "729720": {
+      "appid": 729720,
+      "name": "Zomborg",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T13:46:40.450279"
+    },
+    "730300": {
+      "appid": 730300,
+      "name": "Super Star Panda",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T13:46:44.146508"
+    },
+    "730310": {
+      "appid": 730310,
+      "name": "真・三国无双８",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T13:46:44.444408"
+    },
+    "730390": {
+      "appid": 730390,
+      "name": "Raji: An Ancient Epic / 拉吉：远古传奇",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T13:46:44.558605"
+    },
+    "730670": {
+      "appid": 730670,
+      "name": "EXIT 3 - Painter",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T13:46:45.840226"
+    },
+    "730690": {
+      "appid": 730690,
+      "name": "EXIT 4 - Portal",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T13:46:45.970981"
+    },
+    "730840": {
+      "appid": 730840,
+      "name": "Burger Shop",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T13:46:47.145341"
+    },
+    "731040": {
+      "appid": 731040,
+      "name": "无敌号",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T13:46:47.872083"
+    },
+    "731120": {
+      "appid": 731120,
+      "name": "Three Kingdoms VR - Jade Knight (光之三國VR - 青龍騎)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T13:46:48.066043"
+    },
+    "731450": {
+      "appid": 731450,
+      "name": "DROP VR - AUDIO VISUALIZER",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T13:46:49.570818"
+    },
+    "731500": {
+      "appid": 731500,
+      "name": "Cave Brawlers",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T13:46:49.804098"
+    },
+    "731520": {
+      "appid": 731520,
+      "name": "Tooki",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T13:46:50.103402"
+    },
+    "731650": {
+      "appid": 731650,
+      "name": "Summer Islands",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T13:46:50.581545"
+    },
+    "731670": {
+      "appid": 731670,
+      "name": "ERMO",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T13:46:50.708109"
+    },
+    "731680": {
+      "appid": 731680,
+      "name": "遇见猎人",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T13:46:50.850259"
+    },
+    "731860": {
+      "appid": 731860,
+      "name": "Galactic Pocket Billiards",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T13:46:51.987445"
     }
   }
 }
