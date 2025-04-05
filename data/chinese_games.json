@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-05T04:47:15.312906"
+    "updated": "2025-04-05T04:59:56.985671"
   },
   "games": {
     "570": {
@@ -56496,6 +56496,286 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-05T04:47:15.197512"
+    },
+    "576130": {
+      "appid": 576130,
+      "name": "State of Anarchy: Master of Mayhem",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T04:59:34.558320"
+    },
+    "576280": {
+      "appid": 576280,
+      "name": "Arena Hero",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T04:59:35.033703"
+    },
+    "576500": {
+      "appid": 576500,
+      "name": "Evergarden",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T04:59:36.659725"
+    },
+    "576750": {
+      "appid": 576750,
+      "name": "Ropes And Dragons VR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T04:59:38.176364"
+    },
+    "576770": {
+      "appid": 576770,
+      "name": "低魔时代",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T04:59:38.289830"
+    },
+    "577150": {
+      "appid": 577150,
+      "name": "ICEBOX: Speedgunner",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T04:59:39.917287"
+    },
+    "577180": {
+      "appid": 577180,
+      "name": "Sin Castle",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T04:59:40.278593"
+    },
+    "577230": {
+      "appid": 577230,
+      "name": "三国志汉末霸业",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T04:59:40.527065"
+    },
+    "577280": {
+      "appid": 577280,
+      "name": "SCALPERS: Turtle & the Moonshine Gang",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T04:59:40.831576"
+    },
+    "577290": {
+      "appid": 577290,
+      "name": "Drunk or Dead",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T04:59:40.984949"
+    },
+    "577670": {
+      "appid": 577670,
+      "name": "Demolish & Build 2018",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T04:59:43.357087"
+    },
+    "577710": {
+      "appid": 577710,
+      "name": "Pirates of Everseas",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T04:59:43.610075"
+    },
+    "577730": {
+      "appid": 577730,
+      "name": "Idle Evolution",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T04:59:43.723653"
+    },
+    "578080": {
+      "appid": 578080,
+      "name": "PUBG: BATTLEGROUNDS",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T04:59:45.470361"
+    },
+    "578310": {
+      "appid": 578310,
+      "name": "BRAIN / OUT",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T04:59:45.982525"
+    },
+    "578330": {
+      "appid": 578330,
+      "name": "LEGO® City Undercover",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T04:59:46.243950"
+    },
+    "578430": {
+      "appid": 578430,
+      "name": "Puzzle Puppers",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T04:59:46.832054"
+    },
+    "578440": {
+      "appid": 578440,
+      "name": "冒险村传说（Tales of Legends）",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T04:59:46.942860"
+    },
+    "578540": {
+      "appid": 578540,
+      "name": "黄金百合 - 百合向视觉小说",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T04:59:47.174749"
+    },
+    "578650": {
+      "appid": 578650,
+      "name": "The Outer Worlds",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T04:59:47.699381"
+    },
+    "578690": {
+      "appid": 578690,
+      "name": "Dog Duty",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T04:59:48.079002"
+    },
+    "578800": {
+      "appid": 578800,
+      "name": "Phantom",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T04:59:48.511424"
+    },
+    "578850": {
+      "appid": 578850,
+      "name": "64.0",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T04:59:48.742491"
+    },
+    "578880": {
+      "appid": 578880,
+      "name": "Embrace The Fear",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T04:59:48.989315"
+    },
+    "578920": {
+      "appid": 578920,
+      "name": "Demon Lord",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T04:59:49.414088"
+    },
+    "579490": {
+      "appid": 579490,
+      "name": "RUSH: A Disney • PIXAR Adventure",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T04:59:51.540432"
+    },
+    "579840": {
+      "appid": 579840,
+      "name": "Bloody Trapland 2: Curiosity",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T04:59:52.465781"
+    },
+    "579950": {
+      "appid": 579950,
+      "name": "Marvel's Guardians of the Galaxy: The Telltale Series",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T04:59:52.929385"
+    },
+    "580040": {
+      "appid": 580040,
+      "name": "Formata",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T04:59:53.374117"
+    },
+    "580170": {
+      "appid": 580170,
+      "name": "我的可爱女儿 / My Lovely Daughter",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T04:59:53.647841"
+    },
+    "580200": {
+      "appid": 580200,
+      "name": "Yonder: The Cloud Catcher Chronicles",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T04:59:53.802144"
+    },
+    "580540": {
+      "appid": 580540,
+      "name": "MonkeyKing VR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T04:59:54.701832"
+    },
+    "580560": {
+      "appid": 580560,
+      "name": "Hero Barrier",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T04:59:54.813007"
+    },
+    "580890": {
+      "appid": 580890,
+      "name": "Arrow Heads",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T04:59:56.315237"
+    },
+    "581060": {
+      "appid": 581060,
+      "name": "Jump To Die!!",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T04:59:56.982840"
     }
   }
 }
