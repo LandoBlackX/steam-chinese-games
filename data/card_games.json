@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-05T08:54:28.727903"
+    "updated": "2025-04-05T09:20:15.741940"
   },
   "games": {
     "570": {
@@ -60550,6 +60550,182 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-05T08:54:27.135079"
+    },
+    "661280": {
+      "appid": 661280,
+      "name": "Dresden Files Cooperative Card Game",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T09:19:47.109600"
+    },
+    "661430": {
+      "appid": 661430,
+      "name": "LineWay",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T09:19:48.922129"
+    },
+    "661790": {
+      "appid": 661790,
+      "name": "Witch Hunt",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T09:19:52.212240"
+    },
+    "661940": {
+      "appid": 661940,
+      "name": "Regular Human Basketball",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T09:19:52.919772"
+    },
+    "661970": {
+      "appid": 661970,
+      "name": "SPACE BATTLE: Humanity",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T09:19:53.306833"
+    },
+    "662190": {
+      "appid": 662190,
+      "name": "The Secret Order 6: Bloodline",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T09:19:53.943710"
+    },
+    "662320": {
+      "appid": 662320,
+      "name": "METRO CONFLICT: THE ORIGIN",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T09:19:54.899364"
+    },
+    "662960": {
+      "appid": 662960,
+      "name": "兽娘秘境：异象残影(Mysteria~Occult Shadows~)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T09:19:58.704254"
+    },
+    "663090": {
+      "appid": 663090,
+      "name": "Granado Espada",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T09:19:59.435734"
+    },
+    "663130": {
+      "appid": 663130,
+      "name": "Game Tengoku CruisinMix Special",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T09:19:59.986171"
+    },
+    "664000": {
+      "appid": 664000,
+      "name": "HammerHelm",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T09:20:05.141156"
+    },
+    "664090": {
+      "appid": 664090,
+      "name": "永恒战士 VR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T09:20:06.065079"
+    },
+    "664180": {
+      "appid": 664180,
+      "name": "Draw Puzzle 画之谜",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T09:20:07.040066"
+    },
+    "664320": {
+      "appid": 664320,
+      "name": "Holy Potatoes! What the Hell?!",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T09:20:07.877922"
+    },
+    "664750": {
+      "appid": 664750,
+      "name": "Wrongworld",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T09:20:10.575523"
+    },
+    "664830": {
+      "appid": 664830,
+      "name": "Zombotron",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T09:20:11.031997"
+    },
+    "665030": {
+      "appid": 665030,
+      "name": "Zeran's Folly",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T09:20:11.424490"
+    },
+    "665090": {
+      "appid": 665090,
+      "name": "The Initial",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T09:20:11.986199"
+    },
+    "665270": {
+      "appid": 665270,
+      "name": "弹幕音乐绘 ～风雷幻奏曲～ / Barrage Musical  ~A Fantasy of Tempest~",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T09:20:13.103408"
+    },
+    "665360": {
+      "appid": 665360,
+      "name": "Comedy Night",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T09:20:13.884124"
+    },
+    "665370": {
+      "appid": 665370,
+      "name": "Mutilate-a-Doll 2",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T09:20:14.025153"
+    },
+    "665590": {
+      "appid": 665590,
+      "name": "DOG GONE GOLFING",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T09:20:15.163841"
     }
   }
 }
