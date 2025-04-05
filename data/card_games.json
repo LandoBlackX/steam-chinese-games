@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-05T15:17:02.405839"
+    "updated": "2025-04-05T15:25:12.813075"
   },
   "games": {
     "570": {
@@ -63622,6 +63622,78 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-04-05T15:17:00.617024"
+    },
+    "766280": {
+      "appid": 766280,
+      "name": "夜光",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T15:24:38.050377"
+    },
+    "766630": {
+      "appid": 766630,
+      "name": "Dust and Salt",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T15:24:40.553303"
+    },
+    "767390": {
+      "appid": 767390,
+      "name": "Dakar 18",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T15:24:46.348656"
+    },
+    "767560": {
+      "appid": 767560,
+      "name": "War Robots",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T15:24:48.021093"
+    },
+    "768520": {
+      "appid": 768520,
+      "name": "Red Solstice 2: Survivors - 红至日2：幸存者",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T15:24:53.135678"
+    },
+    "770100": {
+      "appid": 770100,
+      "name": "One Deck Dungeon",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T15:25:04.689515"
+    },
+    "770410": {
+      "appid": 770410,
+      "name": "Path to Mnemosyne",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T15:25:07.131200"
+    },
+    "770810": {
+      "appid": 770810,
+      "name": "可口的披萨，美味的披萨",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T15:25:09.078282"
+    },
+    "771240": {
+      "appid": 771240,
+      "name": "YumeCore",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T15:25:12.130540"
     }
   }
 }

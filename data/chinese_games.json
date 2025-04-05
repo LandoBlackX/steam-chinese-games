@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-05T15:17:02.405839"
+    "updated": "2025-04-05T15:25:12.813075"
   },
   "games": {
     "570": {
@@ -70592,6 +70592,390 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-04-05T15:17:01.716655"
+    },
+    "766280": {
+      "appid": 766280,
+      "name": "夜光",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T15:24:38.050377"
+    },
+    "766430": {
+      "appid": 766430,
+      "name": "Dolla World",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:24:39.174073"
+    },
+    "766560": {
+      "appid": 766560,
+      "name": "The Fruitless Flower 雾雨中的徒花",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:24:39.734473"
+    },
+    "766570": {
+      "appid": 766570,
+      "name": "Russian Fishing 4",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:24:40.025992"
+    },
+    "766600": {
+      "appid": 766600,
+      "name": "Amazing Human Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:24:40.164997"
+    },
+    "766700": {
+      "appid": 766700,
+      "name": "PearsAndGrayWitch",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:24:41.172892"
+    },
+    "766930": {
+      "appid": 766930,
+      "name": "Ignis: Duels of Wizards",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:24:42.533928"
+    },
+    "767100": {
+      "appid": 767100,
+      "name": "Super Poop",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:24:44.266016"
+    },
+    "767200": {
+      "appid": 767200,
+      "name": "Chinese Ink Painting Puzzle & Creator / 國畫拼圖創作家",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:24:45.135612"
+    },
+    "767340": {
+      "appid": 767340,
+      "name": "Minion Forest",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:24:45.988583"
+    },
+    "767360": {
+      "appid": 767360,
+      "name": "Monster League",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:24:46.138064"
+    },
+    "767400": {
+      "appid": 767400,
+      "name": "弹炸人2222",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:24:46.537372"
+    },
+    "767490": {
+      "appid": 767490,
+      "name": "最后的木头",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:24:47.531851"
+    },
+    "767560": {
+      "appid": 767560,
+      "name": "War Robots",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T15:24:48.021093"
+    },
+    "767590": {
+      "appid": 767590,
+      "name": "Raining blocks",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:24:48.190514"
+    },
+    "767690": {
+      "appid": 767690,
+      "name": "Heart of the Emberstone: Coliseum",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:24:48.788140"
+    },
+    "767910": {
+      "appid": 767910,
+      "name": "Strange Night ll",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:24:49.699010"
+    },
+    "768020": {
+      "appid": 768020,
+      "name": "The mysterious ship（诡船谜案）",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:24:50.583252"
+    },
+    "768100": {
+      "appid": 768100,
+      "name": "GizmoVR Video Player",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:24:51.039943"
+    },
+    "768110": {
+      "appid": 768110,
+      "name": "Dawn City",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:24:51.220984"
+    },
+    "768130": {
+      "appid": 768130,
+      "name": "Aiso",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:24:51.369230"
+    },
+    "768180": {
+      "appid": 768180,
+      "name": "Truck Driver",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:24:51.699205"
+    },
+    "768200": {
+      "appid": 768200,
+      "name": "小小世界: 原野求生",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:24:51.853752"
+    },
+    "768300": {
+      "appid": 768300,
+      "name": "Zhulik.exe",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:24:52.342239"
+    },
+    "768450": {
+      "appid": 768450,
+      "name": "NUTS",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:24:52.636620"
+    },
+    "768460": {
+      "appid": 768460,
+      "name": "Areia: Pathway to Dawn",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:24:52.816158"
+    },
+    "768520": {
+      "appid": 768520,
+      "name": "Red Solstice 2: Survivors - 红至日2：幸存者",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T15:24:53.135678"
+    },
+    "769080": {
+      "appid": 769080,
+      "name": "The Little War",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:24:56.519825"
+    },
+    "769550": {
+      "appid": 769550,
+      "name": "东73：洋红色童话",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:24:59.704870"
+    },
+    "769560": {
+      "appid": 769560,
+      "name": "月圆之夜",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:24:59.860613"
+    },
+    "769580": {
+      "appid": 769580,
+      "name": "Kingdom of Blades",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:25:00.074291"
+    },
+    "769590": {
+      "appid": 769590,
+      "name": "Play Cube with Uncle Billy",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:25:00.367576"
+    },
+    "769670": {
+      "appid": 769670,
+      "name": "Gecata by Movavi 5 - Game Recording Software",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:25:01.104805"
+    },
+    "769680": {
+      "appid": 769680,
+      "name": "愛神餐館2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:25:01.261025"
+    },
+    "769840": {
+      "appid": 769840,
+      "name": "Muddledash",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:25:01.748045"
+    },
+    "770200": {
+      "appid": 770200,
+      "name": "Squally",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:25:05.456268"
+    },
+    "770240": {
+      "appid": 770240,
+      "name": "PRO EVOLUTION SOCCER 2019",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:25:05.628868"
+    },
+    "770270": {
+      "appid": 770270,
+      "name": "Warbot",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:25:05.808973"
+    },
+    "770390": {
+      "appid": 770390,
+      "name": "Draugen",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:25:06.816653"
+    },
+    "770400": {
+      "appid": 770400,
+      "name": "Fairy of the treasures",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:25:06.972323"
+    },
+    "770410": {
+      "appid": 770410,
+      "name": "Path to Mnemosyne",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T15:25:07.131200"
+    },
+    "770490": {
+      "appid": 770490,
+      "name": "Death in the Water",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:25:07.443795"
+    },
+    "770630": {
+      "appid": 770630,
+      "name": "Boo! Greedy Kid",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:25:08.379948"
+    },
+    "770810": {
+      "appid": 770810,
+      "name": "可口的披萨，美味的披萨",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T15:25:09.078282"
+    },
+    "771060": {
+      "appid": 771060,
+      "name": "Iron League",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:25:10.870683"
+    },
+    "771180": {
+      "appid": 771180,
+      "name": "XZ",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:25:11.836824"
+    },
+    "771190": {
+      "appid": 771190,
+      "name": "XZ: XL",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:25:11.986950"
+    },
+    "771240": {
+      "appid": 771240,
+      "name": "YumeCore",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T15:25:12.130540"
     }
   }
 }
