@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-05T17:39:33.952994"
+    "updated": "2025-04-05T17:52:33.000367"
   },
   "games": {
     "570": {
@@ -64998,6 +64998,110 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-05T17:39:32.872474"
+    },
+    "824550": {
+      "appid": 824550,
+      "name": "SD GUNDAM 激斗同盟",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T17:52:05.274246"
+    },
+    "824600": {
+      "appid": 824600,
+      "name": "HROT",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T17:52:05.810530"
+    },
+    "824830": {
+      "appid": 824830,
+      "name": "Corpse Party: Blood Drive",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T17:52:06.942556"
+    },
+    "825310": {
+      "appid": 825310,
+      "name": "Dude Simulator 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T17:52:09.434019"
+    },
+    "825320": {
+      "appid": 825320,
+      "name": "CyberRebeat -The Fifth Domain of Warfare-",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T17:52:09.562158"
+    },
+    "825630": {
+      "appid": 825630,
+      "name": "STEINS;GATE 0",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T17:52:11.521068"
+    },
+    "826940": {
+      "appid": 826940,
+      "name": "Maid of Sker",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T17:52:17.382094"
+    },
+    "828170": {
+      "appid": 828170,
+      "name": "Pivross",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T17:52:23.698314"
+    },
+    "828580": {
+      "appid": 828580,
+      "name": "NEKO-NIN exHeart 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T17:52:26.232977"
+    },
+    "829210": {
+      "appid": 829210,
+      "name": "AIdol: Artificial Intelligence Idol",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T17:52:29.701968"
+    },
+    "829590": {
+      "appid": 829590,
+      "name": "末日觉醒 CryoFall",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T17:52:31.249121"
+    },
+    "829660": {
+      "appid": 829660,
+      "name": "No Time to Relax",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T17:52:31.667336"
+    },
+    "830370": {
+      "appid": 830370,
+      "name": "Monster Crown",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T17:52:32.820774"
     }
   }
 }

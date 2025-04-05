@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-05T17:39:33.952994"
+    "updated": "2025-04-05T17:52:33.000367"
   },
   "games": {
     "570": {
@@ -75288,6 +75288,422 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-04-05T17:39:33.427966"
+    },
+    "824270": {
+      "appid": 824270,
+      "name": "KovaaK's",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T17:52:03.053978"
+    },
+    "824280": {
+      "appid": 824280,
+      "name": "Monster Jam Steel Titans",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T17:52:03.314459"
+    },
+    "824400": {
+      "appid": 824400,
+      "name": "Havoc in heaven",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T17:52:03.705981"
+    },
+    "824420": {
+      "appid": 824420,
+      "name": "Ouch！War！/ 破音乱斗",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T17:52:03.846251"
+    },
+    "824440": {
+      "appid": 824440,
+      "name": "雪色废都 Abandoned Snowy Castle",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T17:52:04.111018"
+    },
+    "824450": {
+      "appid": 824450,
+      "name": "Blockchain Tycoon",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T17:52:04.289182"
+    },
+    "824460": {
+      "appid": 824460,
+      "name": "HELLFRONT: HONEYMOON",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T17:52:04.442500"
+    },
+    "824470": {
+      "appid": 824470,
+      "name": "My Maid Girlfriend",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T17:52:04.586727"
+    },
+    "824520": {
+      "appid": 824520,
+      "name": "Nobody Knows",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T17:52:04.727180"
+    },
+    "824550": {
+      "appid": 824550,
+      "name": "SD GUNDAM 激斗同盟",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T17:52:05.274246"
+    },
+    "824570": {
+      "appid": 824570,
+      "name": "Kine",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T17:52:05.527816"
+    },
+    "824620": {
+      "appid": 824620,
+      "name": "Jolly Battle",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T17:52:05.953358"
+    },
+    "824640": {
+      "appid": 824640,
+      "name": "The Witch's Apprentice: A Magical Mishap",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T17:52:06.242091"
+    },
+    "824760": {
+      "appid": 824760,
+      "name": "Deathtrap Dungeon Trilogy",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T17:52:06.658456"
+    },
+    "824850": {
+      "appid": 824850,
+      "name": "Some Distant Memory",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T17:52:07.320450"
+    },
+    "825310": {
+      "appid": 825310,
+      "name": "Dude Simulator 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T17:52:09.434019"
+    },
+    "825380": {
+      "appid": 825380,
+      "name": "强军",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T17:52:10.077464"
+    },
+    "825630": {
+      "appid": 825630,
+      "name": "STEINS;GATE 0",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T17:52:11.521068"
+    },
+    "826000": {
+      "appid": 826000,
+      "name": "Masked Forces 3",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T17:52:11.984261"
+    },
+    "826470": {
+      "appid": 826470,
+      "name": "Nummels",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T17:52:15.429723"
+    },
+    "826540": {
+      "appid": 826540,
+      "name": "动感音旅",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T17:52:15.698764"
+    },
+    "826600": {
+      "appid": 826600,
+      "name": "I am not a Monster: First Contact",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T17:52:16.080879"
+    },
+    "826630": {
+      "appid": 826630,
+      "name": "Iron Harvest",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T17:52:16.463834"
+    },
+    "826740": {
+      "appid": 826740,
+      "name": "Rise of the Slime",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T17:52:16.868955"
+    },
+    "826940": {
+      "appid": 826940,
+      "name": "Maid of Sker",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T17:52:17.382094"
+    },
+    "827330": {
+      "appid": 827330,
+      "name": "Skydrift Infinity",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T17:52:19.240898"
+    },
+    "827450": {
+      "appid": 827450,
+      "name": "InkSplosion",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T17:52:19.818685"
+    },
+    "827460": {
+      "appid": 827460,
+      "name": "TETRA's Escape",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T17:52:19.961642"
+    },
+    "827580": {
+      "appid": 827580,
+      "name": "A.S.H.",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T17:52:20.494396"
+    },
+    "827610": {
+      "appid": 827610,
+      "name": "Dead End Job",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T17:52:20.777389"
+    },
+    "828050": {
+      "appid": 828050,
+      "name": "The Mirror Lied",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T17:52:22.683699"
+    },
+    "828070": {
+      "appid": 828070,
+      "name": "宝藏猎人克莱儿",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T17:52:22.816471"
+    },
+    "828090": {
+      "appid": 828090,
+      "name": "TCPingInfoView",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T17:52:23.078976"
+    },
+    "828150": {
+      "appid": 828150,
+      "name": "WIN THE GAME!",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T17:52:23.396105"
+    },
+    "828240": {
+      "appid": 828240,
+      "name": "HOST",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T17:52:24.129276"
+    },
+    "828380": {
+      "appid": 828380,
+      "name": "Death Mark Vol.1 - 死印之迷雾",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T17:52:24.847826"
+    },
+    "828540": {
+      "appid": 828540,
+      "name": "Игра забытых Богов. Проснись / Game of the forgotten Gods. Wake up",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T17:52:25.794786"
+    },
+    "828570": {
+      "appid": 828570,
+      "name": "Canvas",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T17:52:26.098403"
+    },
+    "828580": {
+      "appid": 828580,
+      "name": "NEKO-NIN exHeart 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T17:52:26.232977"
+    },
+    "828740": {
+      "appid": 828740,
+      "name": "迷雾侦探",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T17:52:27.383280"
+    },
+    "828770": {
+      "appid": 828770,
+      "name": "Turbo Soccer VR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T17:52:27.678542"
+    },
+    "828900": {
+      "appid": 828900,
+      "name": "The Stillness of the Wind",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T17:52:28.364002"
+    },
+    "828910": {
+      "appid": 828910,
+      "name": "aMAZE Frozen",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T17:52:28.529140"
+    },
+    "829110": {
+      "appid": 829110,
+      "name": "LEGO® DC Super-Villains",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T17:52:29.431100"
+    },
+    "829260": {
+      "appid": 829260,
+      "name": "Morning Never Comes",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T17:52:29.908910"
+    },
+    "829280": {
+      "appid": 829280,
+      "name": "Kaze and the Wild Masks",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T17:52:30.085388"
+    },
+    "829370": {
+      "appid": 829370,
+      "name": "Nicky - The Home Alone Golf Ball",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T17:52:30.360796"
+    },
+    "829420": {
+      "appid": 829420,
+      "name": "Fun Hospital",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T17:52:30.789615"
+    },
+    "829590": {
+      "appid": 829590,
+      "name": "末日觉醒 CryoFall",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T17:52:31.249121"
+    },
+    "829660": {
+      "appid": 829660,
+      "name": "No Time to Relax",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T17:52:31.667336"
+    },
+    "829720": {
+      "appid": 829720,
+      "name": "The Nature",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T17:52:31.836624"
+    },
+    "830370": {
+      "appid": 830370,
+      "name": "Monster Crown",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T17:52:32.820774"
     }
   }
 }
