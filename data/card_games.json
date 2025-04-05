@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-05T11:32:55.603427"
+    "updated": "2025-04-05T11:46:02.657873"
   },
   "games": {
     "570": {
@@ -61846,6 +61846,198 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-05T11:32:55.058042"
+    },
+    "702050": {
+      "appid": 702050,
+      "name": "沙耶之歌",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T11:45:33.837547"
+    },
+    "702110": {
+      "appid": 702110,
+      "name": "THE LAST BLADE 2",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T11:45:34.433898"
+    },
+    "702210": {
+      "appid": 702210,
+      "name": "Princess Serena ~Raid of Demon Legion~",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T11:45:35.680047"
+    },
+    "702670": {
+      "appid": 702670,
+      "name": "Donut County",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T11:45:37.308849"
+    },
+    "702810": {
+      "appid": 702810,
+      "name": "Shooty Skies",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T11:45:37.901060"
+    },
+    "702890": {
+      "appid": 702890,
+      "name": "BlazBlue: Cross Tag Battle",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T11:45:38.207027"
+    },
+    "703080": {
+      "appid": 703080,
+      "name": "动物园之星",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T11:45:39.350652"
+    },
+    "703700": {
+      "appid": 703700,
+      "name": "我和她的世界末日",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T11:45:43.179566"
+    },
+    "703840": {
+      "appid": 703840,
+      "name": "Animal Super Squad",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T11:45:43.870853"
+    },
+    "703940": {
+      "appid": 703940,
+      "name": "Ball 2D: Soccer Online",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T11:45:44.421003"
+    },
+    "704040": {
+      "appid": 704040,
+      "name": "Castle Clicker : Idle City Tycoon",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T11:45:45.564913"
+    },
+    "704230": {
+      "appid": 704230,
+      "name": "Pro Cycling Manager 2018",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T11:45:46.552739"
+    },
+    "704270": {
+      "appid": 704270,
+      "name": "Generation Zero®",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T11:45:46.717962"
+    },
+    "704450": {
+      "appid": 704450,
+      "name": "Neverwinter Nights: Enhanced Edition",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T11:45:47.757288"
+    },
+    "704510": {
+      "appid": 704510,
+      "name": "Mercury Fallen",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T11:45:48.168999"
+    },
+    "704640": {
+      "appid": 704640,
+      "name": "Evolution of Ages: Settlements",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T11:45:48.442391"
+    },
+    "704690": {
+      "appid": 704690,
+      "name": "Elisa: Seduce the Innkeeper",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T11:45:48.986047"
+    },
+    "704910": {
+      "appid": 704910,
+      "name": "Tenta Shooter",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T11:45:49.993511"
+    },
+    "705020": {
+      "appid": 705020,
+      "name": "Bottom of the 9th",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T11:45:50.954391"
+    },
+    "705120": {
+      "appid": 705120,
+      "name": "Death Coming/死神来了",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T11:45:52.053272"
+    },
+    "705450": {
+      "appid": 705450,
+      "name": "Wunderdoktor",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T11:45:55.045923"
+    },
+    "705570": {
+      "appid": 705570,
+      "name": "Tayutama 2-you're the only one- ENG ver.",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T11:45:55.731403"
+    },
+    "705740": {
+      "appid": 705740,
+      "name": "Car Demolition Clicker",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T11:45:56.716730"
+    },
+    "705810": {
+      "appid": 705810,
+      "name": "Wuxing Master 五行师(CCG)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T11:45:57.375141"
     }
   }
 }
