@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-05T18:54:22.037995"
+    "updated": "2025-04-05T19:15:23.473159"
   },
   "games": {
     "570": {
@@ -76912,6 +76912,446 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-04-05T18:54:22.036766"
+    },
+    "845630": {
+      "appid": 845630,
+      "name": "Disdoored",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T19:14:49.167803"
+    },
+    "845820": {
+      "appid": 845820,
+      "name": "Lighter Than AR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T19:14:50.550167"
+    },
+    "845880": {
+      "appid": 845880,
+      "name": "東方紅輝心",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T19:14:51.337858"
+    },
+    "845890": {
+      "appid": 845890,
+      "name": "破月勇者",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T19:14:51.842051"
+    },
+    "845900": {
+      "appid": 845900,
+      "name": "Awake: Episode One",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T19:14:52.254087"
+    },
+    "846000": {
+      "appid": 846000,
+      "name": "Vinnie's Diary",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T19:14:53.227638"
+    },
+    "846030": {
+      "appid": 846030,
+      "name": "ΔV: Rings of Saturn",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T19:14:53.819167"
+    },
+    "846110": {
+      "appid": 846110,
+      "name": "The friends of Ringo Ishikawa",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T19:14:54.616140"
+    },
+    "846470": {
+      "appid": 846470,
+      "name": "Moss",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T19:14:56.483763"
+    },
+    "846660": {
+      "appid": 846660,
+      "name": "蝉鸣 - 轻文版",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T19:14:57.006687"
+    },
+    "846670": {
+      "appid": 846670,
+      "name": "Saint Slaughter X Days",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T19:14:57.150485"
+    },
+    "846690": {
+      "appid": 846690,
+      "name": "Lost Lands: Ice Spell Collector's Edition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T19:14:57.355485"
+    },
+    "846770": {
+      "appid": 846770,
+      "name": "DYSMANTLE",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T19:14:58.184864"
+    },
+    "846800": {
+      "appid": 846800,
+      "name": "Diner Bros",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T19:14:58.626582"
+    },
+    "846850": {
+      "appid": 846850,
+      "name": "DearCraft",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T19:14:59.079361"
+    },
+    "846870": {
+      "appid": 846870,
+      "name": "Yooka-Laylee and the Impossible Lair",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T19:14:59.239855"
+    },
+    "847360": {
+      "appid": 847360,
+      "name": "Super Lucky's Tale",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T19:15:00.789628"
+    },
+    "847550": {
+      "appid": 847550,
+      "name": "炸裂！排卵拳！对抗灭绝的反叛！",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T19:15:02.351373"
+    },
+    "847720": {
+      "appid": 847720,
+      "name": "Söldner: Secret Wars Remastered",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T19:15:04.231843"
+    },
+    "847890": {
+      "appid": 847890,
+      "name": "小黄条/YYNote",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T19:15:05.139599"
+    },
+    "848030": {
+      "appid": 848030,
+      "name": "Roundguard",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T19:15:05.856569"
+    },
+    "848120": {
+      "appid": 848120,
+      "name": "Terror World",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T19:15:06.990128"
+    },
+    "848410": {
+      "appid": 848410,
+      "name": "Detached: Non-VR Edition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T19:15:08.900843"
+    },
+    "848430": {
+      "appid": 848430,
+      "name": "Freakout: Calamity TV Show",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T19:15:09.189360"
+    },
+    "848450": {
+      "appid": 848450,
+      "name": "深海迷航：冰点之下",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T19:15:09.334924"
+    },
+    "848500": {
+      "appid": 848500,
+      "name": "Sniper Strike: Special Ops",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T19:15:10.154098"
+    },
+    "848520": {
+      "appid": 848520,
+      "name": "Super Destronaut DX",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T19:15:10.300984"
+    },
+    "848610": {
+      "appid": 848610,
+      "name": "Adult Toy Store",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T19:15:10.816429"
+    },
+    "848810": {
+      "appid": 848810,
+      "name": "Bug Splatt",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T19:15:12.602286"
+    },
+    "848960": {
+      "appid": 848960,
+      "name": "Gotcha Racing 2nd",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T19:15:13.379532"
+    },
+    "849000": {
+      "appid": 849000,
+      "name": "Open The Door",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T19:15:13.523042"
+    },
+    "849100": {
+      "appid": 849100,
+      "name": "阿拉斯加卡车司机",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T19:15:14.099907"
+    },
+    "849160": {
+      "appid": 849160,
+      "name": "Shadow of the Tomb Raider: Definitive Edition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T19:15:14.396484"
+    },
+    "849161": {
+      "appid": 849161,
+      "name": "Shadow of the Tomb Raider: Definitive Edition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T19:15:14.618351"
+    },
+    "849162": {
+      "appid": 849162,
+      "name": "Shadow of the Tomb Raider: Definitive Edition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T19:15:14.775996"
+    },
+    "849163": {
+      "appid": 849163,
+      "name": "Shadow of the Tomb Raider: Definitive Edition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T19:15:14.983621"
+    },
+    "849164": {
+      "appid": 849164,
+      "name": "Shadow of the Tomb Raider: Definitive Edition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T19:15:15.187993"
+    },
+    "849165": {
+      "appid": 849165,
+      "name": "Shadow of the Tomb Raider: Definitive Edition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T19:15:15.341199"
+    },
+    "849166": {
+      "appid": 849166,
+      "name": "Shadow of the Tomb Raider: Definitive Edition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T19:15:15.503717"
+    },
+    "849167": {
+      "appid": 849167,
+      "name": "Shadow of the Tomb Raider: Definitive Edition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T19:15:15.657881"
+    },
+    "849168": {
+      "appid": 849168,
+      "name": "Shadow of the Tomb Raider: Definitive Edition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T19:15:15.828969"
+    },
+    "849176": {
+      "appid": 849176,
+      "name": "Shadow of the Tomb Raider: Definitive Edition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T19:15:15.981978"
+    },
+    "849177": {
+      "appid": 849177,
+      "name": "Shadow of the Tomb Raider: Definitive Edition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T19:15:16.127105"
+    },
+    "849178": {
+      "appid": 849178,
+      "name": "Shadow of the Tomb Raider: Definitive Edition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T19:15:16.277023"
+    },
+    "849179": {
+      "appid": 849179,
+      "name": "Shadow of the Tomb Raider: Definitive Edition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T19:15:16.427060"
+    },
+    "849186": {
+      "appid": 849186,
+      "name": "Shadow of the Tomb Raider: Definitive Edition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T19:15:16.604649"
+    },
+    "849200": {
+      "appid": 849200,
+      "name": "Shadow of the Tomb Raider: Definitive Edition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T19:15:16.768642"
+    },
+    "849210": {
+      "appid": 849210,
+      "name": "Raccoo Venture",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T19:15:17.010675"
+    },
+    "849270": {
+      "appid": 849270,
+      "name": "Soccer Nations Battle",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T19:15:17.340643"
+    },
+    "849740": {
+      "appid": 849740,
+      "name": "小兵求爱记 (Love Esquire)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T19:15:21.019350"
+    },
+    "849790": {
+      "appid": 849790,
+      "name": "Firmament Wars",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T19:15:21.122288"
+    },
+    "850000": {
+      "appid": 850000,
+      "name": "被虐的诺艾尔 S1-7",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T19:15:22.242181"
+    },
+    "850110": {
+      "appid": 850110,
+      "name": "Number Guesser 猜数字的人",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T19:15:22.943250"
+    },
+    "850170": {
+      "appid": 850170,
+      "name": "EMERGENCY",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T19:15:23.076918"
+    },
+    "850190": {
+      "appid": 850190,
+      "name": "Goat Simulator 3",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T19:15:23.330770"
     }
   }
 }
