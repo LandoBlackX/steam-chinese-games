@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-05T05:28:23.063709"
+    "updated": "2025-04-05T05:37:05.390667"
   },
   "games": {
     "570": {
@@ -57104,6 +57104,334 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-05T05:28:19.421149"
+    },
+    "586950": {
+      "appid": 586950,
+      "name": "The Wizards - Enhanced Edition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T05:36:34.442282"
+    },
+    "587000": {
+      "appid": 587000,
+      "name": "First Strike",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T05:36:35.507622"
+    },
+    "587430": {
+      "appid": 587430,
+      "name": "I Expect You To Die",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T05:36:38.048475"
+    },
+    "587520": {
+      "appid": 587520,
+      "name": "Dungeons of Sundaria",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T05:36:39.199688"
+    },
+    "587860": {
+      "appid": 587860,
+      "name": "Tales of Escape",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T05:36:41.319177"
+    },
+    "588030": {
+      "appid": 588030,
+      "name": "Derail Valley",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T05:36:41.900873"
+    },
+    "588040": {
+      "appid": 588040,
+      "name": "WILL: A Wonderful World / WILL：美好世界",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T05:36:42.095630"
+    },
+    "588160": {
+      "appid": 588160,
+      "name": "Pizza Connection 3",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T05:36:43.234230"
+    },
+    "588440": {
+      "appid": 588440,
+      "name": "False Front",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T05:36:45.206426"
+    },
+    "588480": {
+      "appid": 588480,
+      "name": "Strikers",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T05:36:45.339072"
+    },
+    "588620": {
+      "appid": 588620,
+      "name": "Mary Le Chef - Cooking Passion",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T05:36:46.028388"
+    },
+    "588650": {
+      "appid": 588650,
+      "name": "Dead Cells",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T05:36:46.274985"
+    },
+    "588690": {
+      "appid": 588690,
+      "name": "Peace, Death!",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T05:36:46.427202"
+    },
+    "588930": {
+      "appid": 588930,
+      "name": "King 'n Knight",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T05:36:48.372223"
+    },
+    "588970": {
+      "appid": 588970,
+      "name": "Oik",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T05:36:48.828868"
+    },
+    "589040": {
+      "appid": 589040,
+      "name": "Fujii - 一个神奇的园艺冒险",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T05:36:49.178031"
+    },
+    "589290": {
+      "appid": 589290,
+      "name": "Holdfast: Nations At War",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T05:36:50.950139"
+    },
+    "589320": {
+      "appid": 589320,
+      "name": "Catch a Lover",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T05:36:51.197339"
+    },
+    "589450": {
+      "appid": 589450,
+      "name": "Where Cards Fall",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T05:36:52.115643"
+    },
+    "589500": {
+      "appid": 589500,
+      "name": "Shovel Knight: Shovel of Hope",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T05:36:53.245086"
+    },
+    "589510": {
+      "appid": 589510,
+      "name": "Shovel Knight: Specter of Torment",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T05:36:53.357075"
+    },
+    "589530": {
+      "appid": 589530,
+      "name": "Hakuoki: Kyoto Winds",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T05:36:53.485654"
+    },
+    "589670": {
+      "appid": 589670,
+      "name": "Double Kick Heroes",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T05:36:54.037470"
+    },
+    "589690": {
+      "appid": 589690,
+      "name": "Queen's Quest 3: The End of Dawn",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T05:36:54.367050"
+    },
+    "589780": {
+      "appid": 589780,
+      "name": "红弦俱乐部",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T05:36:54.874006"
+    },
+    "589940": {
+      "appid": 589940,
+      "name": "Eye of the Temple",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T05:36:55.390915"
+    },
+    "590370": {
+      "appid": 590370,
+      "name": "Tiny Troopers 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T05:36:55.972417"
+    },
+    "590380": {
+      "appid": 590380,
+      "name": "Into the Breach",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T05:36:56.090076"
+    },
+    "590590": {
+      "appid": 590590,
+      "name": "Remnants of Naezith",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T05:36:57.093354"
+    },
+    "590790": {
+      "appid": 590790,
+      "name": "Snowballer",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T05:36:58.324878"
+    },
+    "590850": {
+      "appid": 590850,
+      "name": "Night Lights",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T05:36:58.982372"
+    },
+    "590910": {
+      "appid": 590910,
+      "name": "炎黄战纪之三国烽烟",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T05:36:59.331354"
+    },
+    "590970": {
+      "appid": 590970,
+      "name": "Hollow",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T05:36:59.591485"
+    },
+    "591020": {
+      "appid": 591020,
+      "name": "山贼",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T05:36:59.834504"
+    },
+    "591420": {
+      "appid": 591420,
+      "name": "Zup! 4",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T05:37:01.028278"
+    },
+    "591460": {
+      "appid": 591460,
+      "name": "恐龙乐园",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T05:37:01.152989"
+    },
+    "591630": {
+      "appid": 591630,
+      "name": "Candleman: The Complete Journey",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T05:37:01.789931"
+    },
+    "591740": {
+      "appid": 591740,
+      "name": "Sniper Fury",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T05:37:02.350099"
+    },
+    "591750": {
+      "appid": 591750,
+      "name": "Solo",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T05:37:02.470130"
+    },
+    "591760": {
+      "appid": 591760,
+      "name": "HyperBrawl Tournament",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T05:37:02.632511"
+    },
+    "592270": {
+      "appid": 592270,
+      "name": "Neko Navy",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T05:37:05.056246"
     }
   }
 }
