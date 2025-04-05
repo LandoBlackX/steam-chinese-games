@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-05T02:39:01.289085"
+    "updated": "2025-04-05T03:21:14.487074"
   },
   "games": {
     "570": {
@@ -54672,6 +54672,326 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-05T02:38:58.256115"
+    },
+    "549860": {
+      "appid": 549860,
+      "name": "One Night Stand",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T03:20:36.747313"
+    },
+    "550010": {
+      "appid": 550010,
+      "name": "Happy Room",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T03:20:38.741970"
+    },
+    "550310": {
+      "appid": 550310,
+      "name": "Root Of Evil: The Tailor",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T03:20:40.288137"
+    },
+    "550320": {
+      "appid": 550320,
+      "name": "art of rally",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T03:20:40.629135"
+    },
+    "550590": {
+      "appid": 550590,
+      "name": "Archaica: The Path of Light",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T03:20:46.332421"
+    },
+    "550650": {
+      "appid": 550650,
+      "name": "Black Squad",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T03:20:46.810056"
+    },
+    "550840": {
+      "appid": 550840,
+      "name": "Fresh Body",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T03:20:48.012669"
+    },
+    "551110": {
+      "appid": 551110,
+      "name": "Wayout",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T03:20:49.601197"
+    },
+    "551580": {
+      "appid": 551580,
+      "name": "Goblin and Coins",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T03:20:52.554383"
+    },
+    "551680": {
+      "appid": 551680,
+      "name": "Bad birthday",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T03:20:53.333715"
+    },
+    "551720": {
+      "appid": 551720,
+      "name": "Unearthed Inc: The Lost Temple",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T03:20:53.778239"
+    },
+    "551750": {
+      "appid": 551750,
+      "name": "Survival VR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T03:20:54.078434"
+    },
+    "551860": {
+      "appid": 551860,
+      "name": "弃船逃生",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T03:20:54.712178"
+    },
+    "552060": {
+      "appid": 552060,
+      "name": "EscapeVR: The Basement",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T03:20:55.797315"
+    },
+    "552160": {
+      "appid": 552160,
+      "name": "Hade",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T03:20:57.179101"
+    },
+    "552230": {
+      "appid": 552230,
+      "name": "Doomsday Survival:Training",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T03:20:57.908081"
+    },
+    "552280": {
+      "appid": 552280,
+      "name": "游魂2-you're the only one-",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T03:20:58.372529"
+    },
+    "552300": {
+      "appid": 552300,
+      "name": "Soldier Sortie :VR Agent 006",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T03:20:58.536603"
+    },
+    "552390": {
+      "appid": 552390,
+      "name": "Druid",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T03:20:59.657161"
+    },
+    "552440": {
+      "appid": 552440,
+      "name": "The Talos Principle VR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T03:21:00.098532"
+    },
+    "552500": {
+      "appid": 552500,
+      "name": "Warhammer: Vermintide 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T03:21:00.852414"
+    },
+    "552520": {
+      "appid": 552520,
+      "name": "Far Cry® 5",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T03:21:01.036288"
+    },
+    "552620": {
+      "appid": 552620,
+      "name": "ATOM RPG: Post-apocalyptic indie game",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T03:21:02.105336"
+    },
+    "552700": {
+      "appid": 552700,
+      "name": "WORLD OF FINAL FANTASY®",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T03:21:02.809973"
+    },
+    "552960": {
+      "appid": 552960,
+      "name": "Fastigium",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T03:21:04.394108"
+    },
+    "552970": {
+      "appid": 552970,
+      "name": "Sumoman",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T03:21:04.549768"
+    },
+    "552990": {
+      "appid": 552990,
+      "name": "World of Warships",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T03:21:04.734354"
+    },
+    "553310": {
+      "appid": 553310,
+      "name": "Lethal League Blaze",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T03:21:06.419273"
+    },
+    "553340": {
+      "appid": 553340,
+      "name": "SolarGun",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T03:21:06.884808"
+    },
+    "553420": {
+      "appid": 553420,
+      "name": "TUNIC",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T03:21:07.426616"
+    },
+    "553520": {
+      "appid": 553520,
+      "name": "Trainz Railroad Simulator 2019",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T03:21:08.710859"
+    },
+    "553540": {
+      "appid": 553540,
+      "name": "Phantom Brigade",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T03:21:09.024393"
+    },
+    "553640": {
+      "appid": 553640,
+      "name": "ICEY",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T03:21:09.944244"
+    },
+    "553690": {
+      "appid": 553690,
+      "name": "Dustoff Heli Rescue 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T03:21:10.260266"
+    },
+    "553850": {
+      "appid": 553850,
+      "name": "HELLDIVERS™ 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T03:21:11.236514"
+    },
+    "554280": {
+      "appid": 554280,
+      "name": "Time Carnage VR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T03:21:12.469876"
+    },
+    "554290": {
+      "appid": 554290,
+      "name": "向日葵-天空鹅卵石",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T03:21:12.591423"
+    },
+    "554620": {
+      "appid": 554620,
+      "name": "Life is Strange: Before the Storm",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T03:21:14.043633"
+    },
+    "554640": {
+      "appid": 554640,
+      "name": "拯救大魔王2 Rescue the Great Demon 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T03:21:14.171264"
+    },
+    "554660": {
+      "appid": 554660,
+      "name": "Puzzle Poker",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T03:21:14.323833"
     }
   }
 }
