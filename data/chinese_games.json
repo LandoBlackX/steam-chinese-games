@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-05T20:19:43.656912"
+    "updated": "2025-04-05T20:34:51.736846"
   },
   "games": {
     "570": {
@@ -78944,6 +78944,374 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-04-05T20:19:43.383672"
+    },
+    "870100": {
+      "appid": 870100,
+      "name": "乌鸦 - Crows",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T20:34:19.886199"
+    },
+    "870110": {
+      "appid": 870110,
+      "name": "怪物的历史书",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T20:34:20.137437"
+    },
+    "870120": {
+      "appid": 870120,
+      "name": "The Bad Gravedigger",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T20:34:20.294843"
+    },
+    "870520": {
+      "appid": 870520,
+      "name": "太平洋之嵐6 ～ 史上最大的激戰諾曼第攻防戰! Pacific Storm 6 - Battle for Normandy",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T20:34:22.776103"
+    },
+    "870780": {
+      "appid": 870780,
+      "name": "控制 - 终极合辑 / Control Ultimate Edition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T20:34:24.474694"
+    },
+    "870820": {
+      "appid": 870820,
+      "name": "Wakaru ver. beta",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T20:34:24.864229"
+    },
+    "871140": {
+      "appid": 871140,
+      "name": "Great Old One - Arrival",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T20:34:26.592460"
+    },
+    "871170": {
+      "appid": 871170,
+      "name": "3tene",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T20:34:27.105031"
+    },
+    "871200": {
+      "appid": 871200,
+      "name": "FIGHTING EX LAYER",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T20:34:27.393816"
+    },
+    "871210": {
+      "appid": 871210,
+      "name": "Lamp Chronicle",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T20:34:27.528850"
+    },
+    "871230": {
+      "appid": 871230,
+      "name": "Dungeon Rush",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T20:34:27.882883"
+    },
+    "871280": {
+      "appid": 871280,
+      "name": "灰色幻影扳机第5卷",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T20:34:28.151528"
+    },
+    "871530": {
+      "appid": 871530,
+      "name": "Radio Commander",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T20:34:29.891828"
+    },
+    "871570": {
+      "appid": 871570,
+      "name": "忆夏之铃",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T20:34:30.486940"
+    },
+    "871810": {
+      "appid": 871810,
+      "name": "Blackout",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T20:34:31.824276"
+    },
+    "871920": {
+      "appid": 871920,
+      "name": "Mad Restaurant People",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T20:34:32.525604"
+    },
+    "871930": {
+      "appid": 871930,
+      "name": "GLADIABOTS - AI Combat Arena",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T20:34:32.673822"
+    },
+    "871980": {
+      "appid": 871980,
+      "name": "数码宝贝 绝境求生",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T20:34:33.153656"
+    },
+    "872040": {
+      "appid": 872040,
+      "name": "Hovership Havoc",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T20:34:33.578377"
+    },
+    "872200": {
+      "appid": 872200,
+      "name": "Rogue Company",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T20:34:34.436906"
+    },
+    "872410": {
+      "appid": 872410,
+      "name": "三国志14",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T20:34:36.221231"
+    },
+    "872470": {
+      "appid": 872470,
+      "name": "亡灵突变",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T20:34:36.829120"
+    },
+    "872490": {
+      "appid": 872490,
+      "name": "Blind Souls",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T20:34:37.024166"
+    },
+    "872580": {
+      "appid": 872580,
+      "name": "The Neon Boy",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T20:34:37.713982"
+    },
+    "872590": {
+      "appid": 872590,
+      "name": "探灵警探",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T20:34:37.845354"
+    },
+    "872600": {
+      "appid": 872600,
+      "name": "创史者Hist Maker",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T20:34:38.007538"
+    },
+    "872790": {
+      "appid": 872790,
+      "name": "Football Manager 2019",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T20:34:39.224222"
+    },
+    "872820": {
+      "appid": 872820,
+      "name": "Football Manager 2019 Touch",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T20:34:39.609008"
+    },
+    "873180": {
+      "appid": 873180,
+      "name": "飞跃跳台：冒险！！！ / 1000 Stages : Adventure!!!",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T20:34:41.126862"
+    },
+    "873200": {
+      "appid": 873200,
+      "name": "Teleportals. I swear it's a nice game",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T20:34:41.443683"
+    },
+    "873490": {
+      "appid": 873490,
+      "name": "不落城-Unconquered Castle",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T20:34:43.826927"
+    },
+    "873560": {
+      "appid": 873560,
+      "name": "Jack N' Jill DX",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T20:34:44.187244"
+    },
+    "873610": {
+      "appid": 873610,
+      "name": "mr.Vegan",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T20:34:44.366050"
+    },
+    "873730": {
+      "appid": 873730,
+      "name": "Under The War",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T20:34:44.893908"
+    },
+    "873840": {
+      "appid": 873840,
+      "name": "Truck & Logistics Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T20:34:45.769853"
+    },
+    "873940": {
+      "appid": 873940,
+      "name": "Crying Suns",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T20:34:46.670296"
+    },
+    "874010": {
+      "appid": 874010,
+      "name": "aMAZE Classic: Inverted",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T20:34:47.344355"
+    },
+    "874040": {
+      "appid": 874040,
+      "name": "围城里的演出/Ministry of Broadcast",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T20:34:47.910210"
+    },
+    "874130": {
+      "appid": 874130,
+      "name": "HUNTER BRICK BALL",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T20:34:48.593543"
+    },
+    "874230": {
+      "appid": 874230,
+      "name": "Antirocketh",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T20:34:49.086853"
+    },
+    "874260": {
+      "appid": 874260,
+      "name": "遗忘之城",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T20:34:49.374744"
+    },
+    "874270": {
+      "appid": 874270,
+      "name": "Sphaera",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T20:34:49.553710"
+    },
+    "874440": {
+      "appid": 874440,
+      "name": "Border Bots VR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T20:34:50.417249"
+    },
+    "874450": {
+      "appid": 874450,
+      "name": "Lunacy: Saint Rhodes",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T20:34:50.583684"
+    },
+    "874650": {
+      "appid": 874650,
+      "name": "XXX Puzzle",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T20:34:51.427387"
+    },
+    "874690": {
+      "appid": 874690,
+      "name": "Maze And Dagger",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T20:34:51.552555"
     }
   }
 }
