@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-05T21:00:40.751389"
+    "updated": "2025-04-05T21:24:31.037272"
   },
   "games": {
     "570": {
@@ -66462,6 +66462,70 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-04-05T21:00:38.799128"
+    },
+    "885140": {
+      "appid": 885140,
+      "name": "七人杀阵 - Seven Sacrifices",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T21:24:06.265953"
+    },
+    "885150": {
+      "appid": 885150,
+      "name": "Capcom Beat 'Em Up Bundle",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T21:24:06.510018"
+    },
+    "885940": {
+      "appid": 885940,
+      "name": "Meritocracy of the Oni & Blade",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T21:24:10.604553"
+    },
+    "886900": {
+      "appid": 886900,
+      "name": "大厨 Chef",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T21:24:17.198078"
+    },
+    "887060": {
+      "appid": 887060,
+      "name": "Asterix & Obelix XXL 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T21:24:17.918730"
+    },
+    "887720": {
+      "appid": 887720,
+      "name": "Devil's Hunt",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T21:24:21.244053"
+    },
+    "888530": {
+      "appid": 888530,
+      "name": "Yaga",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T21:24:25.868374"
+    },
+    "888790": {
+      "appid": 888790,
+      "name": "Sabbat of the Witch",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T21:24:27.798712"
     }
   }
 }
