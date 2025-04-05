@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-05T10:56:46.027713"
+    "updated": "2025-04-05T11:19:19.352439"
   },
   "games": {
     "570": {
@@ -64672,6 +64672,374 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-04-05T10:56:45.529507"
+    },
+    "691690": {
+      "appid": 691690,
+      "name": "Ash of Gods: Redemption",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T11:18:51.350214"
+    },
+    "691770": {
+      "appid": 691770,
+      "name": "Eiyu*Senki – The World Conquest",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T11:18:52.322279"
+    },
+    "691790": {
+      "appid": 691790,
+      "name": "Arcadian Atlas",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T11:18:52.566193"
+    },
+    "691890": {
+      "appid": 691890,
+      "name": "Machine Crisis (陨星危机)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T11:18:53.250074"
+    },
+    "692030": {
+      "appid": 692030,
+      "name": "Tennis World Tour",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T11:18:54.185566"
+    },
+    "692100": {
+      "appid": 692100,
+      "name": "Infliction",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T11:18:54.940990"
+    },
+    "692200": {
+      "appid": 692200,
+      "name": "aMAZE Dark Times",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T11:18:55.874797"
+    },
+    "692780": {
+      "appid": 692780,
+      "name": "Olorun: Theocracy",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T11:18:57.923629"
+    },
+    "692790": {
+      "appid": 692790,
+      "name": "春风 | Spring Breeze",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T11:18:58.052902"
+    },
+    "692840": {
+      "appid": 692840,
+      "name": "Underworld Ascendant",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T11:18:58.392867"
+    },
+    "692850": {
+      "appid": 692850,
+      "name": "Bloodstained: Ritual of the Night",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T11:18:58.526649"
+    },
+    "692890": {
+      "appid": 692890,
+      "name": "Roboquest (机械守护者)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T11:18:58.651358"
+    },
+    "692920": {
+      "appid": 692920,
+      "name": "XXZ",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T11:18:58.771004"
+    },
+    "692950": {
+      "appid": 692950,
+      "name": "露珠",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T11:18:59.072367"
+    },
+    "693030": {
+      "appid": 693030,
+      "name": "Neo Angle",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T11:18:59.399799"
+    },
+    "693300": {
+      "appid": 693300,
+      "name": "Unbalance",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T11:19:01.167937"
+    },
+    "693580": {
+      "appid": 693580,
+      "name": "Goblins of Elderstone",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T11:19:02.578375"
+    },
+    "693800": {
+      "appid": 693800,
+      "name": "Loco Parentis / 孤女咒怨",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T11:19:03.556845"
+    },
+    "693960": {
+      "appid": 693960,
+      "name": "狂飙：极限视界",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T11:19:04.712896"
+    },
+    "694070": {
+      "appid": 694070,
+      "name": "BadLands RoadTrip",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T11:19:05.068498"
+    },
+    "694110": {
+      "appid": 694110,
+      "name": "Build a Bridge!",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T11:19:05.187337"
+    },
+    "694280": {
+      "appid": 694280,
+      "name": "Zombie Army 4: Dead War",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T11:19:06.201256"
+    },
+    "694480": {
+      "appid": 694480,
+      "name": "DOTFI",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T11:19:07.020614"
+    },
+    "694680": {
+      "appid": 694680,
+      "name": "Santa Claws",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T11:19:07.989625"
+    },
+    "694770": {
+      "appid": 694770,
+      "name": "维斯塔利亚传说 亡国骑士与星辰巫女",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T11:19:08.489040"
+    },
+    "694830": {
+      "appid": 694830,
+      "name": "Give It Up! Plus / 永不言弃 PLUS",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T11:19:08.615497"
+    },
+    "695100": {
+      "appid": 695100,
+      "name": "Smoke and Sacrifice",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T11:19:09.516434"
+    },
+    "695110": {
+      "appid": 695110,
+      "name": "Twickles",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T11:19:09.632932"
+    },
+    "695330": {
+      "appid": 695330,
+      "name": "SEASON: A letter to the future",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T11:19:10.006118"
+    },
+    "695420": {
+      "appid": 695420,
+      "name": "Hex: Origins",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T11:19:10.247561"
+    },
+    "695510": {
+      "appid": 695510,
+      "name": "Rena And Elin",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T11:19:11.115455"
+    },
+    "695630": {
+      "appid": 695630,
+      "name": "新仙剑奇侠传 单机版",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T11:19:11.601497"
+    },
+    "695650": {
+      "appid": 695650,
+      "name": "猎人物语",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T11:19:11.730884"
+    },
+    "695760": {
+      "appid": 695760,
+      "name": "Girls and Dungeons",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T11:19:12.064475"
+    },
+    "695920": {
+      "appid": 695920,
+      "name": "Super Seducer : How to Talk to Girls",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T11:19:12.692695"
+    },
+    "695970": {
+      "appid": 695970,
+      "name": "Treadnauts",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T11:19:13.176799"
+    },
+    "696040": {
+      "appid": 696040,
+      "name": "Tactera",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T11:19:13.927085"
+    },
+    "696110": {
+      "appid": 696110,
+      "name": "Backgammon",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T11:19:14.305358"
+    },
+    "696150": {
+      "appid": 696150,
+      "name": "Electro Ride: The Neon Racing",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T11:19:14.542892"
+    },
+    "696170": {
+      "appid": 696170,
+      "name": "SENRAN KAGURA Peach Beach Splash",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T11:19:14.808835"
+    },
+    "696360": {
+      "appid": 696360,
+      "name": "仙剑奇侠传六",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T11:19:15.772151"
+    },
+    "696410": {
+      "appid": 696410,
+      "name": "Toy Generals",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T11:19:16.018728"
+    },
+    "696510": {
+      "appid": 696510,
+      "name": "Hero of Light VR: Episode 1",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T11:19:16.926030"
+    },
+    "696590": {
+      "appid": 696590,
+      "name": "XXZ: XXL",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T11:19:17.537259"
+    },
+    "696600": {
+      "appid": 696600,
+      "name": "星球之间/Between Planets",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T11:19:17.655038"
+    },
+    "697010": {
+      "appid": 697010,
+      "name": "Until None Remain: Battle Royale PC Edition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T11:19:19.351024"
     }
   }
 }

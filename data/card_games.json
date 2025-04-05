@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-05T10:56:46.027713"
+    "updated": "2025-04-05T11:19:19.352439"
   },
   "games": {
     "570": {
@@ -61574,6 +61574,134 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-04-05T10:56:45.821442"
+    },
+    "691690": {
+      "appid": 691690,
+      "name": "Ash of Gods: Redemption",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T11:18:51.350214"
+    },
+    "691830": {
+      "appid": 691830,
+      "name": "Avernum 3: Ruined World",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T11:18:52.822465"
+    },
+    "692100": {
+      "appid": 692100,
+      "name": "Infliction",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T11:18:54.940990"
+    },
+    "692840": {
+      "appid": 692840,
+      "name": "Underworld Ascendant",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T11:18:58.392867"
+    },
+    "692890": {
+      "appid": 692890,
+      "name": "Roboquest (机械守护者)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T11:18:58.651358"
+    },
+    "692930": {
+      "appid": 692930,
+      "name": "DreadEye VR",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T11:18:58.896471"
+    },
+    "693700": {
+      "appid": 693700,
+      "name": "Prime Mover",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T11:19:03.158968"
+    },
+    "694130": {
+      "appid": 694130,
+      "name": "My Free Zoo",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T11:19:05.300520"
+    },
+    "695600": {
+      "appid": 695600,
+      "name": "This Grand Life",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T11:19:11.477172"
+    },
+    "695630": {
+      "appid": 695630,
+      "name": "新仙剑奇侠传 单机版",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T11:19:11.601497"
+    },
+    "696170": {
+      "appid": 696170,
+      "name": "SENRAN KAGURA Peach Beach Splash",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T11:19:14.808835"
+    },
+    "696180": {
+      "appid": 696180,
+      "name": "Bullet Witch",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T11:19:14.932832"
+    },
+    "696360": {
+      "appid": 696360,
+      "name": "仙剑奇侠传六",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T11:19:15.772151"
+    },
+    "696370": {
+      "appid": 696370,
+      "name": "BROKE PROTOCOL",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T11:19:15.892629"
+    },
+    "696480": {
+      "appid": 696480,
+      "name": "The Norwood Suite",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T11:19:16.574781"
+    },
+    "696590": {
+      "appid": 696590,
+      "name": "XXZ: XXL",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T11:19:17.537259"
     }
   }
 }
