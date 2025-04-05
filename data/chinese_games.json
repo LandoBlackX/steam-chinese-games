@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-05T11:58:59.894689"
+    "updated": "2025-04-05T12:47:30.242282"
   },
   "games": {
     "570": {
@@ -66160,6 +66160,430 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-04-05T11:58:59.611218"
+    },
+    "711810": {
+      "appid": 711810,
+      "name": "Never Split the Party",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T12:47:00.486695"
+    },
+    "711970": {
+      "appid": 711970,
+      "name": "GALACTIC FIELD：Strategy Edition BATE2017 银河领域：策略版 BATE 2017",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T12:47:01.617378"
+    },
+    "712000": {
+      "appid": 712000,
+      "name": "Elder Chaos",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T12:47:01.906444"
+    },
+    "712060": {
+      "appid": 712060,
+      "name": "M.I.A. - Overture",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T12:47:02.186574"
+    },
+    "712090": {
+      "appid": 712090,
+      "name": "Don't Feed",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T12:47:02.604721"
+    },
+    "712100": {
+      "appid": 712100,
+      "name": "A Total War Saga: THRONES OF BRITANNIA",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T12:47:02.759867"
+    },
+    "712180": {
+      "appid": 712180,
+      "name": "Mugsters",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T12:47:03.181310"
+    },
+    "712190": {
+      "appid": 712190,
+      "name": "Genesis Alpha One Deluxe Edition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T12:47:03.318295"
+    },
+    "712240": {
+      "appid": 712240,
+      "name": "Sneaky Bears",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T12:47:03.758868"
+    },
+    "712730": {
+      "appid": 712730,
+      "name": "SIMULACRA",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T12:47:05.186389"
+    },
+    "712810": {
+      "appid": 712810,
+      "name": "Fallen Times",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T12:47:05.691654"
+    },
+    "712870": {
+      "appid": 712870,
+      "name": "Vectorium",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T12:47:05.833849"
+    },
+    "712880": {
+      "appid": 712880,
+      "name": "Chess Arena-象棋竞技场",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T12:47:05.982244"
+    },
+    "713090": {
+      "appid": 713090,
+      "name": "Zombie Bloxx",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T12:47:07.452199"
+    },
+    "713160": {
+      "appid": 713160,
+      "name": "After Death",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T12:47:07.785227"
+    },
+    "713260": {
+      "appid": 713260,
+      "name": "Beyond the Sunset 斜阳下的彼岸",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T12:47:08.500132"
+    },
+    "713530": {
+      "appid": 713530,
+      "name": "ARMORED KITTEN",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T12:47:10.583585"
+    },
+    "713740": {
+      "appid": 713740,
+      "name": "Train Your Minibot",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T12:47:11.887834"
+    },
+    "714010": {
+      "appid": 714010,
+      "name": "Aimlabs",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T12:47:13.061319"
+    },
+    "714020": {
+      "appid": 714020,
+      "name": "Idle Adventure",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T12:47:13.211089"
+    },
+    "714030": {
+      "appid": 714030,
+      "name": "StudyX - Save Game Codes & Study Any Subject",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T12:47:13.362787"
+    },
+    "714080": {
+      "appid": 714080,
+      "name": "BLACK CLOVER: QUARTET KNIGHTS",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T12:47:13.797739"
+    },
+    "714130": {
+      "appid": 714130,
+      "name": "WhiTaers",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T12:47:14.244330"
+    },
+    "714150": {
+      "appid": 714150,
+      "name": "Bombastic Cars",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T12:47:14.427892"
+    },
+    "714240": {
+      "appid": 714240,
+      "name": "SWARMRIDER OMEGA",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T12:47:14.579785"
+    },
+    "714280": {
+      "appid": 714280,
+      "name": "Time Up",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T12:47:15.013065"
+    },
+    "714510": {
+      "appid": 714510,
+      "name": "Chaos Souls",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T12:47:15.870743"
+    },
+    "714880": {
+      "appid": 714880,
+      "name": "大乱斗 Chaos Battle",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T12:47:18.174134"
+    },
+    "715010": {
+      "appid": 715010,
+      "name": "Diamo XL",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T12:47:18.778046"
+    },
+    "715020": {
+      "appid": 715020,
+      "name": "埃尔登：遗忘之旅",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T12:47:18.939018"
+    },
+    "715050": {
+      "appid": 715050,
+      "name": "The Islander",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T12:47:19.093021"
+    },
+    "715170": {
+      "appid": 715170,
+      "name": "Crush Lab",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T12:47:19.621106"
+    },
+    "715380": {
+      "appid": 715380,
+      "name": "残存之人",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T12:47:21.165821"
+    },
+    "715400": {
+      "appid": 715400,
+      "name": "冰封之焰",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T12:47:21.323144"
+    },
+    "715560": {
+      "appid": 715560,
+      "name": "Eastshade",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T12:47:22.715074"
+    },
+    "715580": {
+      "appid": 715580,
+      "name": "星空的记忆 -Wish upon a shooting star HD",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T12:47:22.856848"
+    },
+    "715650": {
+      "appid": 715650,
+      "name": "无终之旅",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T12:47:22.990841"
+    },
+    "715660": {
+      "appid": 715660,
+      "name": "信徒:献祭",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T12:47:23.122043"
+    },
+    "715680": {
+      "appid": 715680,
+      "name": "Knight vs Giant: The Broken Excalibur",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T12:47:23.425047"
+    },
+    "716000": {
+      "appid": 716000,
+      "name": "Space Dragon",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T12:47:24.470723"
+    },
+    "716060": {
+      "appid": 716060,
+      "name": "Purgatory Ashes | 炼狱灰烬",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T12:47:25.226951"
+    },
+    "716090": {
+      "appid": 716090,
+      "name": "Cottage Garden",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T12:47:25.544268"
+    },
+    "716100": {
+      "appid": 716100,
+      "name": "Bohnanza The Duel",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T12:47:25.708235"
+    },
+    "716250": {
+      "appid": 716250,
+      "name": "Eight Dragons",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T12:47:26.831811"
+    },
+    "716260": {
+      "appid": 716260,
+      "name": "Guns'n'Stories: Preface VR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T12:47:26.986291"
+    },
+    "716310": {
+      "appid": 716310,
+      "name": "Crazy Toad",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T12:47:27.136993"
+    },
+    "716340": {
+      "appid": 716340,
+      "name": "Blackberry Honey",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T12:47:27.517569"
+    },
+    "716400": {
+      "appid": 716400,
+      "name": "Battle of Red Cliffs VR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T12:47:28.375749"
+    },
+    "716500": {
+      "appid": 716500,
+      "name": "Eliza",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T12:47:28.834277"
+    },
+    "716560": {
+      "appid": 716560,
+      "name": "Trancelation",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T12:47:28.979016"
+    },
+    "716630": {
+      "appid": 716630,
+      "name": "Battlevoid: Sector Siege",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T12:47:29.284764"
+    },
+    "716640": {
+      "appid": 716640,
+      "name": "Sigma Theory: Global Cold War",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T12:47:29.430729"
+    },
+    "716760": {
+      "appid": 716760,
+      "name": "Dream Alone",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T12:47:30.240731"
     }
   }
 }
