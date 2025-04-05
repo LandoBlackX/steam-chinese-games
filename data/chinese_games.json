@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-05T17:52:33.000367"
+    "updated": "2025-04-05T18:20:55.134299"
   },
   "games": {
     "570": {
@@ -75704,6 +75704,390 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-05T17:52:32.820774"
+    },
+    "830590": {
+      "appid": 830590,
+      "name": "Holy Potatoes! A Spy Story?!",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T18:20:17.262041"
+    },
+    "830620": {
+      "appid": 830620,
+      "name": "Storm of Jigsaw Puzzles  拼图风暴",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T18:20:17.438115"
+    },
+    "830810": {
+      "appid": 830810,
+      "name": "Death Game",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T18:20:18.446934"
+    },
+    "831050": {
+      "appid": 831050,
+      "name": "Dolmen",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T18:20:19.282592"
+    },
+    "831250": {
+      "appid": 831250,
+      "name": "Maxi Pool Masters VR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T18:20:20.623039"
+    },
+    "831560": {
+      "appid": 831560,
+      "name": "WARRIORS OROCHI 4 / 無雙OROCHI 蛇魔３",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T18:20:22.295523"
+    },
+    "831570": {
+      "appid": 831570,
+      "name": "Isoland",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T18:20:22.406409"
+    },
+    "831590": {
+      "appid": 831590,
+      "name": "VRQ Test",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T18:20:22.514825"
+    },
+    "831660": {
+      "appid": 831660,
+      "name": "茂伸奇谈-Happy End-",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T18:20:22.971829"
+    },
+    "831680": {
+      "appid": 831680,
+      "name": "Hero Go",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T18:20:23.213404"
+    },
+    "831740": {
+      "appid": 831740,
+      "name": "Circles of hell",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T18:20:23.899400"
+    },
+    "831910": {
+      "appid": 831910,
+      "name": "Croc's World Construction Kit",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T18:20:24.494431"
+    },
+    "832130": {
+      "appid": 832130,
+      "name": "Negative World",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T18:20:25.055267"
+    },
+    "832140": {
+      "appid": 832140,
+      "name": "Infernal Radiation",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T18:20:25.225990"
+    },
+    "832320": {
+      "appid": 832320,
+      "name": "Mighty Switch Force! Collection",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T18:20:25.347164"
+    },
+    "832370": {
+      "appid": 832370,
+      "name": "Cubekiller",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T18:20:25.682557"
+    },
+    "832380": {
+      "appid": 832380,
+      "name": "Reignman（掌控者）",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T18:20:25.844137"
+    },
+    "832500": {
+      "appid": 832500,
+      "name": "3 Minutes to Midnight® - A Comedy Graphic Adventure",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T18:20:27.299375"
+    },
+    "832520": {
+      "appid": 832520,
+      "name": "灵文西游",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T18:20:27.665019"
+    },
+    "833170": {
+      "appid": 833170,
+      "name": "Burned Land",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T18:20:32.268210"
+    },
+    "833270": {
+      "appid": 833270,
+      "name": "Citrouille: Sweet Witches",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T18:20:33.024758"
+    },
+    "833360": {
+      "appid": 833360,
+      "name": "Star Valor",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T18:20:33.795915"
+    },
+    "833380": {
+      "appid": 833380,
+      "name": "Downtown",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T18:20:34.091095"
+    },
+    "833690": {
+      "appid": 833690,
+      "name": "Cubesc",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T18:20:37.062932"
+    },
+    "833810": {
+      "appid": 833810,
+      "name": "Extreme Formula Championship",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T18:20:38.337367"
+    },
+    "833910": {
+      "appid": 833910,
+      "name": "Overchunked",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T18:20:38.769234"
+    },
+    "833960": {
+      "appid": 833960,
+      "name": "Mr. Grayscale",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T18:20:39.817241"
+    },
+    "834030": {
+      "appid": 834030,
+      "name": "Slamdunk VR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T18:20:40.508701"
+    },
+    "834050": {
+      "appid": 834050,
+      "name": "SixGenerals | 六小将传说",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T18:20:40.801485"
+    },
+    "834150": {
+      "appid": 834150,
+      "name": "Glare1more",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T18:20:41.225779"
+    },
+    "834280": {
+      "appid": 834280,
+      "name": "Fishing Sim World®: Pro Tour",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T18:20:41.776434"
+    },
+    "834390": {
+      "appid": 834390,
+      "name": "King's Heir: Rise to the Throne",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T18:20:42.373542"
+    },
+    "834450": {
+      "appid": 834450,
+      "name": "Roarr! The Adventures of Rampage Rex",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T18:20:42.983502"
+    },
+    "834580": {
+      "appid": 834580,
+      "name": "東方逆妙乱 ~ Ephemeral Unnatural Balance",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T18:20:43.451302"
+    },
+    "834740": {
+      "appid": 834740,
+      "name": "Circle Empires",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T18:20:43.690993"
+    },
+    "834910": {
+      "appid": 834910,
+      "name": "ATLAS",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T18:20:44.651967"
+    },
+    "835040": {
+      "appid": 835040,
+      "name": "美少女夏日欢乐!",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T18:20:45.187753"
+    },
+    "835430": {
+      "appid": 835430,
+      "name": "La-Mulana 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T18:20:45.624167"
+    },
+    "835440": {
+      "appid": 835440,
+      "name": "Naturallandscape - Grand Canyon (自然景观系列-美国大峡谷)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T18:20:45.759101"
+    },
+    "835520": {
+      "appid": 835520,
+      "name": "Dodge Show",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T18:20:46.422181"
+    },
+    "835530": {
+      "appid": 835530,
+      "name": "魔物娘物语",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T18:20:46.591526"
+    },
+    "835570": {
+      "appid": 835570,
+      "name": "战意",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T18:20:46.907333"
+    },
+    "835650": {
+      "appid": 835650,
+      "name": "领主争锋",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T18:20:47.838235"
+    },
+    "835720": {
+      "appid": 835720,
+      "name": "2260 VR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T18:20:50.518543"
+    },
+    "835960": {
+      "appid": 835960,
+      "name": "塔罗斯的法则2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T18:20:51.709217"
+    },
+    "836080": {
+      "appid": 836080,
+      "name": "BARRAGE / 铁幕",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T18:20:52.181579"
+    },
+    "836330": {
+      "appid": 836330,
+      "name": "The God",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T18:20:54.249322"
+    },
+    "836340": {
+      "appid": 836340,
+      "name": "Qinoto",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T18:20:54.375394"
     }
   }
 }
