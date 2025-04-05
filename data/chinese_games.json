@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-05T03:21:14.487074"
+    "updated": "2025-04-05T03:46:41.709294"
   },
   "games": {
     "570": {
@@ -54992,6 +54992,382 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-05T03:21:14.323833"
+    },
+    "554690": {
+      "appid": 554690,
+      "name": "Rotation Phonology: Break",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T03:46:05.270623"
+    },
+    "554710": {
+      "appid": 554710,
+      "name": "Spell Cast",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T03:46:05.740501"
+    },
+    "554820": {
+      "appid": 554820,
+      "name": "VideoPad Video Editor",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T03:46:06.990574"
+    },
+    "554980": {
+      "appid": 554980,
+      "name": "LolliPop: The Best Indie Game",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T03:46:07.671858"
+    },
+    "555000": {
+      "appid": 555000,
+      "name": "GOAT OF DUTY",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T03:46:07.861874"
+    },
+    "555050": {
+      "appid": 555050,
+      "name": "Racket Fury: Table Tennis VR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T03:46:08.522295"
+    },
+    "555060": {
+      "appid": 555060,
+      "name": "Final Soccer VR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T03:46:08.738507"
+    },
+    "555150": {
+      "appid": 555150,
+      "name": "The First Tree",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T03:46:09.412730"
+    },
+    "555220": {
+      "appid": 555220,
+      "name": "返校",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T03:46:10.265491"
+    },
+    "555570": {
+      "appid": 555570,
+      "name": "Infestation: The New Z",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T03:46:12.625932"
+    },
+    "555580": {
+      "appid": 555580,
+      "name": "魔神少女 Episode 2 -願望的代價-",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T03:46:12.795118"
+    },
+    "555630": {
+      "appid": 555630,
+      "name": "A Magical High School Girl / 魔法の女子高生",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T03:46:13.304587"
+    },
+    "555710": {
+      "appid": 555710,
+      "name": "Zolg",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T03:46:14.168122"
+    },
+    "555880": {
+      "appid": 555880,
+      "name": "Sairento VR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T03:46:15.835509"
+    },
+    "555950": {
+      "appid": 555950,
+      "name": "Danganronpa Another Episode: Ultra Despair Girls",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T03:46:16.494113"
+    },
+    "555970": {
+      "appid": 555970,
+      "name": "Awaken",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T03:46:16.683759"
+    },
+    "556050": {
+      "appid": 556050,
+      "name": "Hyper Jam",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T03:46:17.069898"
+    },
+    "556230": {
+      "appid": 556230,
+      "name": "Off-Road Paradise: Trial 4x4",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T03:46:18.827798"
+    },
+    "556740": {
+      "appid": 556740,
+      "name": "罗格朗的遗产：命运之歌",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T03:46:21.974628"
+    },
+    "556750": {
+      "appid": 556750,
+      "name": "SourVR Video Player",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T03:46:22.131964"
+    },
+    "556830": {
+      "appid": 556830,
+      "name": "GemWars",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T03:46:22.948810"
+    },
+    "556840": {
+      "appid": 556840,
+      "name": "The Dome",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T03:46:23.131249"
+    },
+    "556960": {
+      "appid": 556960,
+      "name": "Lost Wing",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T03:46:24.235422"
+    },
+    "556990": {
+      "appid": 556990,
+      "name": "Rage Against The Zombies",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T03:46:24.405262"
+    },
+    "557180": {
+      "appid": 557180,
+      "name": "League of Maidens®",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T03:46:24.871582"
+    },
+    "557340": {
+      "appid": 557340,
+      "name": "我的朋友佩德罗",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T03:46:25.881388"
+    },
+    "557580": {
+      "appid": 557580,
+      "name": "Ancient Guardian",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T03:46:26.985333"
+    },
+    "557600": {
+      "appid": 557600,
+      "name": "Gorogoa",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T03:46:27.133430"
+    },
+    "557630": {
+      "appid": 557630,
+      "name": "Hello Charlotte EP2: Requiem Aeternam Deo",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T03:46:27.286331"
+    },
+    "557850": {
+      "appid": 557850,
+      "name": "Magnificent Ships: Volume 1",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T03:46:29.343259"
+    },
+    "558100": {
+      "appid": 558100,
+      "name": "Art of War: Red Tides",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T03:46:31.385392"
+    },
+    "558340": {
+      "appid": 558340,
+      "name": "Faces of Illusion: The Twin Phantoms",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T03:46:31.908655"
+    },
+    "558450": {
+      "appid": 558450,
+      "name": "Fibrillation HD",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T03:46:32.592201"
+    },
+    "558720": {
+      "appid": 558720,
+      "name": "Tribal Siege",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T03:46:33.976986"
+    },
+    "558790": {
+      "appid": 558790,
+      "name": "Queen's Quest 2: Stories of Forgotten Past",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T03:46:34.506308"
+    },
+    "558850": {
+      "appid": 558850,
+      "name": "Children of Colossus",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T03:46:34.711519"
+    },
+    "558990": {
+      "appid": 558990,
+      "name": "Opus Magnum",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T03:46:35.016865"
+    },
+    "559030": {
+      "appid": 559030,
+      "name": "Siege Saga",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T03:46:35.342252"
+    },
+    "559100": {
+      "appid": 559100,
+      "name": "Phantom Doctrine",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T03:46:35.708641"
+    },
+    "559130": {
+      "appid": 559130,
+      "name": "Inner Voices",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T03:46:35.879222"
+    },
+    "559170": {
+      "appid": 559170,
+      "name": "Ready, Aim, Splat!",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T03:46:36.411333"
+    },
+    "559210": {
+      "appid": 559210,
+      "name": "Rakuen",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T03:46:36.568030"
+    },
+    "559330": {
+      "appid": 559330,
+      "name": "A Fisherman's Tale",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T03:46:37.640137"
+    },
+    "559610": {
+      "appid": 559610,
+      "name": "Love Ribbon",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T03:46:38.553086"
+    },
+    "559650": {
+      "appid": 559650,
+      "name": "Witch It",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T03:46:39.300516"
+    },
+    "559910": {
+      "appid": 559910,
+      "name": "Terroir",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T03:46:40.413857"
+    },
+    "559930": {
+      "appid": 559930,
+      "name": "Causality",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T03:46:40.785195"
     }
   }
 }
