@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-05T12:47:30.242282"
+    "updated": "2025-04-05T13:14:16.137257"
   },
   "games": {
     "570": {
@@ -62262,6 +62262,102 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-04-05T12:47:27.683645"
+    },
+    "717610": {
+      "appid": 717610,
+      "name": "A Case of Distrust",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T13:13:44.835744"
+    },
+    "717850": {
+      "appid": 717850,
+      "name": "Sable's Grimoire",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T13:13:46.422394"
+    },
+    "718560": {
+      "appid": 718560,
+      "name": "Scythe: Digital Edition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T13:13:53.809012"
+    },
+    "718590": {
+      "appid": 718590,
+      "name": "Dark Devotion",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T13:13:53.943229"
+    },
+    "718670": {
+      "appid": 718670,
+      "name": "Cultist Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T13:13:54.376933"
+    },
+    "718790": {
+      "appid": 718790,
+      "name": "Warmonger",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T13:13:55.205529"
+    },
+    "718850": {
+      "appid": 718850,
+      "name": "Age of Wonders: Planetfall",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T13:13:55.644546"
+    },
+    "719040": {
+      "appid": 719040,
+      "name": "Wasteland 3",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T13:14:01.128524"
+    },
+    "719120": {
+      "appid": 719120,
+      "name": "O'Fox Life",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T13:14:01.811163"
+    },
+    "719730": {
+      "appid": 719730,
+      "name": "Uptasia",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T13:14:05.524853"
+    },
+    "719750": {
+      "appid": 719750,
+      "name": "PUSS!",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T13:14:05.940620"
+    },
+    "720280": {
+      "appid": 720280,
+      "name": "Fox Hime",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T13:14:08.677025"
     }
   }
 }
