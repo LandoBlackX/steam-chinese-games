@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-05T04:59:56.985671"
+    "updated": "2025-04-05T05:28:23.063709"
   },
   "games": {
     "570": {
@@ -56776,6 +56776,334 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-05T04:59:56.982840"
+    },
+    "581130": {
+      "appid": 581130,
+      "name": "钢铁华尔兹",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T05:27:57.463426"
+    },
+    "581230": {
+      "appid": 581230,
+      "name": "Soul Saber 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T05:27:58.201507"
+    },
+    "581270": {
+      "appid": 581270,
+      "name": "Old Man's Journey",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T05:27:58.314297"
+    },
+    "581300": {
+      "appid": 581300,
+      "name": "Black Mirror",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T05:27:58.564092"
+    },
+    "581320": {
+      "appid": 581320,
+      "name": "Insurgency: Sandstorm",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T05:27:58.942668"
+    },
+    "581630": {
+      "appid": 581630,
+      "name": "Sword With Sauce",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T05:28:00.246441"
+    },
+    "581660": {
+      "appid": 581660,
+      "name": "Super Meat Boy Forever",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T05:28:00.520479"
+    },
+    "582010": {
+      "appid": 582010,
+      "name": "Monster Hunter: World",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T05:28:01.843450"
+    },
+    "582160": {
+      "appid": 582160,
+      "name": "Assassin's Creed® Origins",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T05:28:02.288620"
+    },
+    "582200": {
+      "appid": 582200,
+      "name": "The Physiology of the Eye",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T05:28:02.394611"
+    },
+    "582330": {
+      "appid": 582330,
+      "name": "战士们：走向荣耀",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T05:28:03.051675"
+    },
+    "582550": {
+      "appid": 582550,
+      "name": "饥饿派画家",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T05:28:04.333735"
+    },
+    "582690": {
+      "appid": 582690,
+      "name": "Toon Shooters 2: The Freelancers",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T05:28:04.846049"
+    },
+    "582860": {
+      "appid": 582860,
+      "name": "The Rain Spirit : Code Breaker",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T05:28:05.434267"
+    },
+    "582890": {
+      "appid": 582890,
+      "name": "Estranged: The Departure",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T05:28:05.567803"
+    },
+    "582990": {
+      "appid": 582990,
+      "name": "Space Fist",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T05:28:06.049934"
+    },
+    "583040": {
+      "appid": 583040,
+      "name": "Princess Maker Refine",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T05:28:06.430919"
+    },
+    "583090": {
+      "appid": 583090,
+      "name": "SeaBed",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T05:28:06.648114"
+    },
+    "583950": {
+      "appid": 583950,
+      "name": "Artifact",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T05:28:09.451469"
+    },
+    "584220": {
+      "appid": 584220,
+      "name": "RunningDead",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T05:28:10.324996"
+    },
+    "584400": {
+      "appid": 584400,
+      "name": "Sonic Mania",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T05:28:10.696775"
+    },
+    "584890": {
+      "appid": 584890,
+      "name": "Stayin' Alive",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T05:28:11.698517"
+    },
+    "584980": {
+      "appid": 584980,
+      "name": "Late Shift",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T05:28:12.041999"
+    },
+    "585020": {
+      "appid": 585020,
+      "name": "宇宙大拍扁",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T05:28:12.321620"
+    },
+    "585080": {
+      "appid": 585080,
+      "name": "Hunting Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T05:28:12.554913"
+    },
+    "585190": {
+      "appid": 585190,
+      "name": "A Gummy's Life",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T05:28:13.166677"
+    },
+    "585310": {
+      "appid": 585310,
+      "name": "Beyond the City VR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T05:28:13.731297"
+    },
+    "585420": {
+      "appid": 585420,
+      "name": "机械制造者 Trailmakers",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T05:28:13.955722"
+    },
+    "585450": {
+      "appid": 585450,
+      "name": "Shadows: Awakening",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T05:28:14.231520"
+    },
+    "585690": {
+      "appid": 585690,
+      "name": "Minimalism",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T05:28:14.740448"
+    },
+    "585710": {
+      "appid": 585710,
+      "name": "Blazing Beaks / 神鸭特攻",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T05:28:14.852709"
+    },
+    "585840": {
+      "appid": 585840,
+      "name": "Leaving Lyndow",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T05:28:15.821280"
+    },
+    "585890": {
+      "appid": 585890,
+      "name": "Sweetest Monster",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T05:28:16.131812"
+    },
+    "585950": {
+      "appid": 585950,
+      "name": "Wayout 2: Hex",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T05:28:16.587261"
+    },
+    "586060": {
+      "appid": 586060,
+      "name": "JET HERO",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T05:28:17.279059"
+    },
+    "586080": {
+      "appid": 586080,
+      "name": "Age of Heroes (VR)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T05:28:17.396767"
+    },
+    "586100": {
+      "appid": 586100,
+      "name": "Heroes in the Sky-Origin",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T05:28:17.569754"
+    },
+    "586140": {
+      "appid": 586140,
+      "name": "BlazBlue Centralfiction",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T05:28:17.904070"
+    },
+    "586200": {
+      "appid": 586200,
+      "name": "Street Fighter 30th Anniversary Collection",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T05:28:18.363487"
+    },
+    "586310": {
+      "appid": 586310,
+      "name": "Gunman Taco Truck",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T05:28:18.951292"
+    },
+    "586350": {
+      "appid": 586350,
+      "name": "UBERMOSH:WRAITH",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T05:28:19.421149"
     }
   }
 }
