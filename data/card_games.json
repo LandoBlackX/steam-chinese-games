@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-05T09:34:23.368252"
+    "updated": "2025-04-05T09:47:20.971049"
   },
   "games": {
     "570": {
@@ -60862,6 +60862,126 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-05T09:34:23.366462"
+    },
+    "670160": {
+      "appid": 670160,
+      "name": "D'LIRIUM",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T09:46:49.465836"
+    },
+    "670930": {
+      "appid": 670930,
+      "name": "Escape Doodland",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T09:46:55.797422"
+    },
+    "671170": {
+      "appid": 671170,
+      "name": "Great eSports Manager",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T09:46:57.482570"
+    },
+    "671260": {
+      "appid": 671260,
+      "name": "GOKEN",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T09:46:58.436991"
+    },
+    "671390": {
+      "appid": 671390,
+      "name": "Metropolis: Lux Obscura",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T09:46:59.419290"
+    },
+    "672590": {
+      "appid": 672590,
+      "name": "Azure Saga: Pathfinder",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T09:47:09.896049"
+    },
+    "672630": {
+      "appid": 672630,
+      "name": "Academia : School Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T09:47:10.049410"
+    },
+    "672680": {
+      "appid": 672680,
+      "name": "Call of War: World War 2",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T09:47:10.888312"
+    },
+    "672860": {
+      "appid": 672860,
+      "name": "StellarHub",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T09:47:12.300852"
+    },
+    "673060": {
+      "appid": 673060,
+      "name": "Floor Plan: Hands-On Edition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T09:47:14.223510"
+    },
+    "673130": {
+      "appid": 673130,
+      "name": "AMID EVIL",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T09:47:14.664616"
+    },
+    "673190": {
+      "appid": 673190,
+      "name": "All-Star Fruit Racing",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T09:47:15.006677"
+    },
+    "673210": {
+      "appid": 673210,
+      "name": "Frontier Pilot Simulator",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T09:47:15.176046"
+    },
+    "673600": {
+      "appid": 673600,
+      "name": "Prison Boss VR",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T09:47:18.804710"
+    },
+    "673800": {
+      "appid": 673800,
+      "name": "Zup! XS",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T09:47:20.326236"
     }
   }
 }

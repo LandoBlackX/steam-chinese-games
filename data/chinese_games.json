@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-05T09:34:23.368252"
+    "updated": "2025-04-05T09:47:20.971049"
   },
   "games": {
     "570": {
@@ -62792,6 +62792,398 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-05T09:34:23.366462"
+    },
+    "669960": {
+      "appid": 669960,
+      "name": "The Dungeon Power",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T09:46:47.729127"
+    },
+    "670090": {
+      "appid": 670090,
+      "name": "FallenCore",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T09:46:48.685190"
+    },
+    "670160": {
+      "appid": 670160,
+      "name": "D'LIRIUM",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T09:46:49.465836"
+    },
+    "670260": {
+      "appid": 670260,
+      "name": "Solace Crafting",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T09:46:50.680350"
+    },
+    "670270": {
+      "appid": 670270,
+      "name": "Wings of Peace VR: DayBreak",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T09:46:50.836520"
+    },
+    "670290": {
+      "appid": 670290,
+      "name": "真实台球3D - Pool",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T09:46:51.184968"
+    },
+    "670320": {
+      "appid": 670320,
+      "name": "PAPA'S TIME MACHINE",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T09:46:51.330794"
+    },
+    "670490": {
+      "appid": 670490,
+      "name": "Rise of Man",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T09:46:53.065415"
+    },
+    "670510": {
+      "appid": 670510,
+      "name": "ColorBlend FX: Desaturation",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T09:46:53.408006"
+    },
+    "670610": {
+      "appid": 670610,
+      "name": "Swaps and Traps",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T09:46:53.718622"
+    },
+    "670630": {
+      "appid": 670630,
+      "name": "Slingshot Puzzle",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T09:46:54.053746"
+    },
+    "670730": {
+      "appid": 670730,
+      "name": "Sure Footing",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T09:46:54.385892"
+    },
+    "670750": {
+      "appid": 670750,
+      "name": "0°N 0°W",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T09:46:54.531735"
+    },
+    "670930": {
+      "appid": 670930,
+      "name": "Escape Doodland",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T09:46:55.797422"
+    },
+    "671090": {
+      "appid": 671090,
+      "name": "Oik Memory",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T09:46:56.670636"
+    },
+    "671180": {
+      "appid": 671180,
+      "name": "Elementals Reborn",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T09:46:57.649248"
+    },
+    "671200": {
+      "appid": 671200,
+      "name": "GAIA 2200",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T09:46:57.953650"
+    },
+    "671240": {
+      "appid": 671240,
+      "name": "七个小矮人2 / Seven boys 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T09:46:58.264259"
+    },
+    "671310": {
+      "appid": 671310,
+      "name": "Pararea--Social VR for Everyone (Beta)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T09:46:58.919481"
+    },
+    "671330": {
+      "appid": 671330,
+      "name": "Lit the Torch",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T09:46:59.094747"
+    },
+    "671390": {
+      "appid": 671390,
+      "name": "Metropolis: Lux Obscura",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T09:46:59.419290"
+    },
+    "671440": {
+      "appid": 671440,
+      "name": "Rise of Industry",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T09:46:59.578021"
+    },
+    "671510": {
+      "appid": 671510,
+      "name": "DESOLATE",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T09:47:00.589936"
+    },
+    "671650": {
+      "appid": 671650,
+      "name": "Mad Age & This Guy",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T09:47:02.098274"
+    },
+    "671800": {
+      "appid": 671800,
+      "name": "Run!ZombieFood!",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T09:47:03.447430"
+    },
+    "671860": {
+      "appid": 671860,
+      "name": "BattleBit Remastered",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T09:47:04.118024"
+    },
+    "671900": {
+      "appid": 671900,
+      "name": "Devoid of Shadows",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T09:47:04.448237"
+    },
+    "671970": {
+      "appid": 671970,
+      "name": "Junkyard Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T09:47:04.777547"
+    },
+    "671980": {
+      "appid": 671980,
+      "name": "Close Me",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T09:47:04.946135"
+    },
+    "672080": {
+      "appid": 672080,
+      "name": "Cube Creatures",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T09:47:06.096166"
+    },
+    "672140": {
+      "appid": 672140,
+      "name": "Battle For Korsun",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T09:47:06.591962"
+    },
+    "672150": {
+      "appid": 672150,
+      "name": "LOGistICAL 3: Earth",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T09:47:06.774329"
+    },
+    "672160": {
+      "appid": 672160,
+      "name": "OldMaidGirl",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T09:47:06.928260"
+    },
+    "672380": {
+      "appid": 672380,
+      "name": "Ameline and the Ultimate Burger",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T09:47:08.417088"
+    },
+    "672440": {
+      "appid": 672440,
+      "name": "BARBARIC",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T09:47:09.070383"
+    },
+    "672630": {
+      "appid": 672630,
+      "name": "Academia : School Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T09:47:10.049410"
+    },
+    "672660": {
+      "appid": 672660,
+      "name": "Army Ops",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T09:47:10.521333"
+    },
+    "672870": {
+      "appid": 672870,
+      "name": "ScreenPlay",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T09:47:12.443550"
+    },
+    "673000": {
+      "appid": 673000,
+      "name": "High Hell",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T09:47:13.562554"
+    },
+    "673060": {
+      "appid": 673060,
+      "name": "Floor Plan: Hands-On Edition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T09:47:14.223510"
+    },
+    "673070": {
+      "appid": 673070,
+      "name": "The Ranger: Lost Tribe",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T09:47:14.366073"
+    },
+    "673190": {
+      "appid": 673190,
+      "name": "All-Star Fruit Racing",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T09:47:15.006677"
+    },
+    "673260": {
+      "appid": 673260,
+      "name": "Starblast",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T09:47:16.040947"
+    },
+    "673610": {
+      "appid": 673610,
+      "name": "机场CEO",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T09:47:18.961459"
+    },
+    "673660": {
+      "appid": 673660,
+      "name": "Neon Hardcore",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T09:47:19.475093"
+    },
+    "673750": {
+      "appid": 673750,
+      "name": "Super Bunny Man",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T09:47:20.174157"
+    },
+    "673800": {
+      "appid": 673800,
+      "name": "Zup! XS",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T09:47:20.326236"
+    },
+    "673820": {
+      "appid": 673820,
+      "name": "Master of ABC",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T09:47:20.808641"
+    },
+    "673830": {
+      "appid": 673830,
+      "name": "VR STOCK CAR RACERS",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T09:47:20.969863"
     }
   }
 }
