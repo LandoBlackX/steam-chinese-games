@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-05T17:23:35.048953"
+    "updated": "2025-04-05T17:39:33.952994"
   },
   "games": {
     "570": {
@@ -64926,6 +64926,78 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-05T17:23:33.153352"
+    },
+    "820020": {
+      "appid": 820020,
+      "name": "桤木之血: 决定版 (Alder's Blood: Definitive Edition)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T17:39:08.674040"
+    },
+    "820030": {
+      "appid": 820030,
+      "name": "Picross Fairytale - nonogram: Red Riding Hood secret",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T17:39:08.816663"
+    },
+    "820610": {
+      "appid": 820610,
+      "name": "Ages of Mages: The last keeper",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T17:39:12.083689"
+    },
+    "820630": {
+      "appid": 820630,
+      "name": "Metal Wolf Chaos XD",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T17:39:12.702731"
+    },
+    "820730": {
+      "appid": 820730,
+      "name": "Adventure of a Lifetime",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T17:39:13.680581"
+    },
+    "822930": {
+      "appid": 822930,
+      "name": "Wolf Tails",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T17:39:27.234170"
+    },
+    "823610": {
+      "appid": 823610,
+      "name": "龙骑士之墓",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T17:39:31.226765"
+    },
+    "823840": {
+      "appid": 823840,
+      "name": "Macrotis: A Mother's Journey",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T17:39:32.597659"
+    },
+    "823910": {
+      "appid": 823910,
+      "name": "Last Evil",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T17:39:32.872474"
     }
   }
 }
