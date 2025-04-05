@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-05T15:58:15.787595"
+    "updated": "2025-04-05T16:30:20.508112"
   },
   "games": {
     "570": {
@@ -73368,6 +73368,326 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-04-05T15:58:15.027868"
+    },
+    "799870": {
+      "appid": 799870,
+      "name": "Neko Dungeon | 喵酱迷城 | 喵醬迷城 | ねこダンジョン",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T16:29:47.681328"
+    },
+    "800080": {
+      "appid": 800080,
+      "name": "Rising Sun - Iron Aces",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T16:29:48.850427"
+    },
+    "800130": {
+      "appid": 800130,
+      "name": "SmartBoy",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T16:29:49.130293"
+    },
+    "800170": {
+      "appid": 800170,
+      "name": "隐-Stealth",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T16:29:49.449087"
+    },
+    "800200": {
+      "appid": 800200,
+      "name": "Witching Tower VR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T16:29:49.944034"
+    },
+    "800290": {
+      "appid": 800290,
+      "name": "ViSP - Virtual Space Port",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T16:29:50.747650"
+    },
+    "800300": {
+      "appid": 800300,
+      "name": "GLIGHT",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T16:29:50.866335"
+    },
+    "801010": {
+      "appid": 801010,
+      "name": "Unsolved Stories",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T16:29:55.735670"
+    },
+    "801210": {
+      "appid": 801210,
+      "name": "Spellsword Cards: Demontide",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T16:29:57.029532"
+    },
+    "801260": {
+      "appid": 801260,
+      "name": "追忆列车　NOSTALGIC TRAIN",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T16:29:57.303833"
+    },
+    "801480": {
+      "appid": 801480,
+      "name": "Agent A - 伪装游戏",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T16:29:59.021103"
+    },
+    "801600": {
+      "appid": 801600,
+      "name": "夜雪冰娇",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T16:29:59.578020"
+    },
+    "801610": {
+      "appid": 801610,
+      "name": "Amigo Fishing",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T16:29:59.695373"
+    },
+    "801630": {
+      "appid": 801630,
+      "name": "UNDER NIGHT IN-BIRTH Exe:Late[cl-r]",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T16:29:59.861809"
+    },
+    "801750": {
+      "appid": 801750,
+      "name": "Hot Shot Burn",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T16:30:00.355349"
+    },
+    "801800": {
+      "appid": 801800,
+      "name": "原子陨落",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T16:30:00.991420"
+    },
+    "801870": {
+      "appid": 801870,
+      "name": "Ramen",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T16:30:01.257777"
+    },
+    "802130": {
+      "appid": 802130,
+      "name": "Break The Targets",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T16:30:03.571343"
+    },
+    "802210": {
+      "appid": 802210,
+      "name": "BSL Winter Games Challenge",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T16:30:04.324143"
+    },
+    "802410": {
+      "appid": 802410,
+      "name": "League of Survivors",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T16:30:05.818740"
+    },
+    "802450": {
+      "appid": 802450,
+      "name": "NAIRI: Tower of Shirin",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T16:30:05.966225"
+    },
+    "802480": {
+      "appid": 802480,
+      "name": "baby game plan 0-3",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T16:30:06.117794"
+    },
+    "802490": {
+      "appid": 802490,
+      "name": "Fabulous - Angela's Wedding Disaster",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T16:30:06.281613"
+    },
+    "802550": {
+      "appid": 802550,
+      "name": "war1:various fighters",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T16:30:06.584380"
+    },
+    "802720": {
+      "appid": 802720,
+      "name": "Give Me Your Coins",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T16:30:07.325305"
+    },
+    "802870": {
+      "appid": 802870,
+      "name": "The Ditzy Demons Are in Love With Me",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T16:30:08.066259"
+    },
+    "802880": {
+      "appid": 802880,
+      "name": "Muv-Luv (マブラヴ)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T16:30:08.186912"
+    },
+    "802890": {
+      "appid": 802890,
+      "name": "Muv-Luv Alternative (マブラヴ オルタネイティヴ)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T16:30:08.312197"
+    },
+    "802900": {
+      "appid": 802900,
+      "name": "Hollow Steps",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T16:30:08.437826"
+    },
+    "803020": {
+      "appid": 803020,
+      "name": "曼尼·帕奎奥 拳击 VR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T16:30:08.701561"
+    },
+    "803050": {
+      "appid": 803050,
+      "name": "Per Aspera",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T16:30:09.104098"
+    },
+    "803280": {
+      "appid": 803280,
+      "name": "Briquid",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T16:30:10.615340"
+    },
+    "803330": {
+      "appid": 803330,
+      "name": "Destroy All Humans!",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T16:30:11.996759"
+    },
+    "803600": {
+      "appid": 803600,
+      "name": "Disgaea 5 Complete",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T16:30:15.134906"
+    },
+    "803640": {
+      "appid": 803640,
+      "name": "Phantom Matrix",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T16:30:15.369346"
+    },
+    "803750": {
+      "appid": 803750,
+      "name": "Moon Castle",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T16:30:15.805507"
+    },
+    "803980": {
+      "appid": 803980,
+      "name": "Plane Mechanic Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T16:30:17.690687"
+    },
+    "804120": {
+      "appid": 804120,
+      "name": "Oneness",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T16:30:18.228605"
+    },
+    "804350": {
+      "appid": 804350,
+      "name": "Starman",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T16:30:19.460333"
+    },
+    "804530": {
+      "appid": 804530,
+      "name": "Cubism",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T16:30:20.388581"
     }
   }
 }

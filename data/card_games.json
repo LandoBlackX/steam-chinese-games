@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-05T15:58:15.787595"
+    "updated": "2025-04-05T16:30:20.508112"
   },
   "games": {
     "570": {
@@ -64454,6 +64454,94 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-04-05T15:58:11.647027"
+    },
+    "800180": {
+      "appid": 800180,
+      "name": "Momoiro Closet",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T16:29:49.582597"
+    },
+    "800200": {
+      "appid": 800200,
+      "name": "Witching Tower VR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T16:29:49.944034"
+    },
+    "802730": {
+      "appid": 802730,
+      "name": "Mother Simulator",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T16:30:07.523955"
+    },
+    "802870": {
+      "appid": 802870,
+      "name": "The Ditzy Demons Are in Love With Me",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T16:30:08.066259"
+    },
+    "802880": {
+      "appid": 802880,
+      "name": "Muv-Luv (マブラヴ)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T16:30:08.186912"
+    },
+    "802890": {
+      "appid": 802890,
+      "name": "Muv-Luv Alternative (マブラヴ オルタネイティヴ)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T16:30:08.312197"
+    },
+    "803040": {
+      "appid": 803040,
+      "name": "Master of the Harem Guild",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T16:30:08.959101"
+    },
+    "803050": {
+      "appid": 803050,
+      "name": "Per Aspera",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T16:30:09.104098"
+    },
+    "803150": {
+      "appid": 803150,
+      "name": "Nephise: Ascension",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T16:30:10.009898"
+    },
+    "803330": {
+      "appid": 803330,
+      "name": "Destroy All Humans!",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T16:30:11.996759"
+    },
+    "804010": {
+      "appid": 804010,
+      "name": "SteamWorld Quest: Hand of Gilgamech",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T16:30:17.941475"
     }
   }
 }
