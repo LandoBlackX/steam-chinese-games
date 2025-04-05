@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-05T13:14:16.137257"
+    "updated": "2025-04-05T13:33:44.624003"
   },
   "games": {
     "570": {
@@ -62358,6 +62358,94 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-05T13:14:08.677025"
+    },
+    "722180": {
+      "appid": 722180,
+      "name": "SURV1V3",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T13:33:14.537661"
+    },
+    "722560": {
+      "appid": 722560,
+      "name": "RAD",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T13:33:16.488795"
+    },
+    "722960": {
+      "appid": 722960,
+      "name": "CASE 2: Animatronics Survival",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T13:33:19.306859"
+    },
+    "723090": {
+      "appid": 723090,
+      "name": "Meltys Quest",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T13:33:20.165898"
+    },
+    "723270": {
+      "appid": 723270,
+      "name": "Rumu",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T13:33:21.217520"
+    },
+    "724470": {
+      "appid": 724470,
+      "name": "Lazy Galaxy",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T13:33:29.480014"
+    },
+    "724970": {
+      "appid": 724970,
+      "name": "神舞幻想 Faith of Danschant",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T13:33:33.154351"
+    },
+    "725120": {
+      "appid": 725120,
+      "name": "ADIOS Amigos: Galactic Explorers",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T13:33:34.696886"
+    },
+    "725780": {
+      "appid": 725780,
+      "name": "Play With Me: Escape Room",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T13:33:37.730848"
+    },
+    "726000": {
+      "appid": 726000,
+      "name": "No King No Kingdom",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T13:33:39.259550"
+    },
+    "726360": {
+      "appid": 726360,
+      "name": "BOOBS SAGA: Prepare To Hentai Edition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T13:33:41.890076"
     }
   }
 }
