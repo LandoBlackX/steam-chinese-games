@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-05T15:45:08.399677"
+    "updated": "2025-04-05T15:58:15.787595"
   },
   "games": {
     "570": {
@@ -64350,6 +64350,110 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-04-05T15:45:07.444019"
+    },
+    "794580": {
+      "appid": 794580,
+      "name": "SNK HEROINES Tag Team Frenzy",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T15:57:42.815373"
+    },
+    "794800": {
+      "appid": 794800,
+      "name": "Clue/Cluedo: Classic Edition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T15:57:44.878223"
+    },
+    "794960": {
+      "appid": 794960,
+      "name": "The Sojourn",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T15:57:46.321164"
+    },
+    "795100": {
+      "appid": 795100,
+      "name": "Friday the 13th: Killer Puzzle",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T15:57:46.966877"
+    },
+    "795420": {
+      "appid": 795420,
+      "name": "The Darkside Detective: A Fumble in the Dark",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T15:57:48.550246"
+    },
+    "795510": {
+      "appid": 795510,
+      "name": "Koihime Enbu RyoRaiRai",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T15:57:49.653002"
+    },
+    "795760": {
+      "appid": 795760,
+      "name": "UPPERS",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T15:57:50.637273"
+    },
+    "797400": {
+      "appid": 797400,
+      "name": "Railroad Corporation",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T15:58:02.692428"
+    },
+    "797410": {
+      "appid": 797410,
+      "name": "Headsnatchers",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T15:58:02.837912"
+    },
+    "798460": {
+      "appid": 798460,
+      "name": "Ni no Kuni Wrath of the White Witch™ Remastered",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T15:58:06.649059"
+    },
+    "798490": {
+      "appid": 798490,
+      "name": "Othercide",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T15:58:07.112090"
+    },
+    "799070": {
+      "appid": 799070,
+      "name": "Zup! 8",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T15:58:10.628590"
+    },
+    "799240": {
+      "appid": 799240,
+      "name": "My Free Farm 2",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T15:58:11.647027"
     }
   }
 }

@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-05T15:45:08.399677"
+    "updated": "2025-04-05T15:58:15.787595"
   },
   "games": {
     "570": {
@@ -72960,6 +72960,414 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-05T15:45:07.299622"
+    },
+    "794540": {
+      "appid": 794540,
+      "name": "Neo Cab",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:57:42.363463"
+    },
+    "794570": {
+      "appid": 794570,
+      "name": "XBall Champion",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:57:42.674094"
+    },
+    "794580": {
+      "appid": 794580,
+      "name": "SNK HEROINES Tag Team Frenzy",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T15:57:42.815373"
+    },
+    "794600": {
+      "appid": 794600,
+      "name": "LET IT DIE",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:57:43.088182"
+    },
+    "794630": {
+      "appid": 794630,
+      "name": "Puzzle 3D",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:57:43.446256"
+    },
+    "794780": {
+      "appid": 794780,
+      "name": "Pathogen-病原体",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:57:44.695751"
+    },
+    "794800": {
+      "appid": 794800,
+      "name": "Clue/Cluedo: Classic Edition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T15:57:44.878223"
+    },
+    "794820": {
+      "appid": 794820,
+      "name": "Knights of Pen and Paper 2: Free Edition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:57:45.008527"
+    },
+    "794840": {
+      "appid": 794840,
+      "name": "Voice Changer, AI Voices and Soundboard in Real-Time - Voicemod",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:57:45.417376"
+    },
+    "794940": {
+      "appid": 794940,
+      "name": "Hexa Turn",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:57:46.041057"
+    },
+    "794950": {
+      "appid": 794950,
+      "name": "The Frosty Leaves 寒叶下的薄冰",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:57:46.180770"
+    },
+    "794960": {
+      "appid": 794960,
+      "name": "The Sojourn",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T15:57:46.321164"
+    },
+    "795050": {
+      "appid": 795050,
+      "name": "Techno Boy",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:57:46.777158"
+    },
+    "795100": {
+      "appid": 795100,
+      "name": "Friday the 13th: Killer Puzzle",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T15:57:46.966877"
+    },
+    "795110": {
+      "appid": 795110,
+      "name": "IIN",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:57:47.099847"
+    },
+    "795160": {
+      "appid": 795160,
+      "name": "国民偶像 爱的解禁",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:57:47.622482"
+    },
+    "795420": {
+      "appid": 795420,
+      "name": "The Darkside Detective: A Fumble in the Dark",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T15:57:48.550246"
+    },
+    "795510": {
+      "appid": 795510,
+      "name": "Koihime Enbu RyoRaiRai",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T15:57:49.653002"
+    },
+    "795570": {
+      "appid": 795570,
+      "name": "Odium to the Core",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:57:50.040094"
+    },
+    "795580": {
+      "appid": 795580,
+      "name": "THE DAY Online",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:57:50.159556"
+    },
+    "795760": {
+      "appid": 795760,
+      "name": "UPPERS",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T15:57:50.637273"
+    },
+    "795990": {
+      "appid": 795990,
+      "name": "Rise - The Vieneo Province",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:57:51.995770"
+    },
+    "796030": {
+      "appid": 796030,
+      "name": "Hard Helmets",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:57:52.150505"
+    },
+    "796330": {
+      "appid": 796330,
+      "name": "Widower's Sky",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:57:54.665891"
+    },
+    "796460": {
+      "appid": 796460,
+      "name": "Individual Investor Tycoon",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:57:55.910676"
+    },
+    "796660": {
+      "appid": 796660,
+      "name": "关于如何在四个月内从天旺天盈金融平台赚取一套房 / About how he earned a suite from T-Financial Platform in four months",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:57:57.666255"
+    },
+    "796760": {
+      "appid": 796760,
+      "name": "varBlocks",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:57:57.939039"
+    },
+    "797040": {
+      "appid": 797040,
+      "name": "Reboant - Endless Dawn",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:58:00.617529"
+    },
+    "797400": {
+      "appid": 797400,
+      "name": "Railroad Corporation",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T15:58:02.692428"
+    },
+    "797410": {
+      "appid": 797410,
+      "name": "Headsnatchers",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T15:58:02.837912"
+    },
+    "797620": {
+      "appid": 797620,
+      "name": "Dissembler",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:58:04.413690"
+    },
+    "797660": {
+      "appid": 797660,
+      "name": "God Test",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:58:04.544127"
+    },
+    "797710": {
+      "appid": 797710,
+      "name": "RPGolf",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:58:04.692067"
+    },
+    "798180": {
+      "appid": 798180,
+      "name": "Space Turret Gunner 宇宙大炮手",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:58:05.141291"
+    },
+    "798190": {
+      "appid": 798190,
+      "name": "Star Clash",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:58:05.283641"
+    },
+    "798200": {
+      "appid": 798200,
+      "name": "Tomb Exploration VR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:58:05.448237"
+    },
+    "798240": {
+      "appid": 798240,
+      "name": "CRYEP",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:58:05.610442"
+    },
+    "798330": {
+      "appid": 798330,
+      "name": "Bacterium / 生命之旅",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:58:06.225963"
+    },
+    "798420": {
+      "appid": 798420,
+      "name": "专业钓鱼",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:58:06.501317"
+    },
+    "798470": {
+      "appid": 798470,
+      "name": "Idle Craft",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:58:06.790413"
+    },
+    "798480": {
+      "appid": 798480,
+      "name": "LONELINESS AFTER: Chapter 1",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:58:06.967614"
+    },
+    "798490": {
+      "appid": 798490,
+      "name": "Othercide",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T15:58:07.112090"
+    },
+    "798630": {
+      "appid": 798630,
+      "name": "Patchman vs. Blue Squares",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:58:08.082057"
+    },
+    "798790": {
+      "appid": 798790,
+      "name": "PolyCube",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:58:09.234461"
+    },
+    "798840": {
+      "appid": 798840,
+      "name": "装甲纷争:决定版",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:58:09.748094"
+    },
+    "798940": {
+      "appid": 798940,
+      "name": "勇士冲冲冲-Classic Rodeo play",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:58:10.064130"
+    },
+    "799070": {
+      "appid": 799070,
+      "name": "Zup! 8",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T15:58:10.628590"
+    },
+    "799310": {
+      "appid": 799310,
+      "name": "Dhalang MG",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:58:12.128918"
+    },
+    "799600": {
+      "appid": 799600,
+      "name": "Cosmoteer: 星舰设计师",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:58:14.416428"
+    },
+    "799610": {
+      "appid": 799610,
+      "name": "Drill Arena",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:58:14.592158"
+    },
+    "799640": {
+      "appid": 799640,
+      "name": "餐癮地城",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:58:15.027868"
     }
   }
 }
