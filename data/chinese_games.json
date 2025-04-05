@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-05T15:31:57.677122"
+    "updated": "2025-04-05T15:34:07.507760"
   },
   "games": {
     "570": {
@@ -71384,6 +71384,358 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-04-05T15:31:57.118109"
+    },
+    "776340": {
+      "appid": 776340,
+      "name": "Gay World",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T15:33:36.250542"
+    },
+    "776490": {
+      "appid": 776490,
+      "name": "永远消失的幻想乡 ～ The Disappearing of Gensokyo",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T15:33:37.657049"
+    },
+    "776510": {
+      "appid": 776510,
+      "name": "RICHCODE富豪密码",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:33:37.798703"
+    },
+    "776540": {
+      "appid": 776540,
+      "name": "aMAZE Untouchable",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:33:37.943650"
+    },
+    "776550": {
+      "appid": 776550,
+      "name": "Yuzi Lims: anime runner",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:33:38.104708"
+    },
+    "776590": {
+      "appid": 776590,
+      "name": "乱战机动队 Past Due",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:33:38.367807"
+    },
+    "776600": {
+      "appid": 776600,
+      "name": "Witch Sword",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:33:38.533740"
+    },
+    "776890": {
+      "appid": 776890,
+      "name": "Clicker: Mining Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:33:40.492209"
+    },
+    "776920": {
+      "appid": 776920,
+      "name": "3DCoat Modding Tool",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:33:40.630016"
+    },
+    "776960": {
+      "appid": 776960,
+      "name": "Mouse (Sneaking)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T15:33:40.934290"
+    },
+    "777000": {
+      "appid": 777000,
+      "name": "FreeFlight",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:33:41.201777"
+    },
+    "777200": {
+      "appid": 777200,
+      "name": "KOEWOTAYORINI SP / 声之寄托SP",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:33:42.735461"
+    },
+    "777220": {
+      "appid": 777220,
+      "name": "审判者 The Inquisitor",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:33:43.003634"
+    },
+    "777240": {
+      "appid": 777240,
+      "name": "Tren0",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:33:43.136601"
+    },
+    "777300": {
+      "appid": 777300,
+      "name": "The Placebos",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:33:43.590910"
+    },
+    "777410": {
+      "appid": 777410,
+      "name": "EarthNight",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:33:44.569295"
+    },
+    "777550": {
+      "appid": 777550,
+      "name": "King Battle",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:33:45.619160"
+    },
+    "777590": {
+      "appid": 777590,
+      "name": "众生",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:33:46.088059"
+    },
+    "777620": {
+      "appid": 777620,
+      "name": "Little fight",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:33:46.407371"
+    },
+    "777650": {
+      "appid": 777650,
+      "name": "Yet Another Research Dog",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:33:46.547048"
+    },
+    "777770": {
+      "appid": 777770,
+      "name": "WAR PARTY",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T15:33:47.256501"
+    },
+    "778050": {
+      "appid": 778050,
+      "name": "Revenge of the Headless",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:33:48.782542"
+    },
+    "778540": {
+      "appid": 778540,
+      "name": "Big Blue - Memory",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:33:52.617740"
+    },
+    "778580": {
+      "appid": 778580,
+      "name": "Trinity",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:33:53.148402"
+    },
+    "779090": {
+      "appid": 779090,
+      "name": "Umfend",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:33:57.843805"
+    },
+    "779130": {
+      "appid": 779130,
+      "name": "Virtual Fighting Championship (VFC)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:33:58.537441"
+    },
+    "779220": {
+      "appid": 779220,
+      "name": "LOA : Me And Angel",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:33:59.345334"
+    },
+    "779240": {
+      "appid": 779240,
+      "name": "Conquer",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:33:59.559910"
+    },
+    "779290": {
+      "appid": 779290,
+      "name": "Stygian: Reign of the Old Ones",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T15:34:00.039846"
+    },
+    "779300": {
+      "appid": 779300,
+      "name": "Battle of Kings",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:34:00.291814"
+    },
+    "779320": {
+      "appid": 779320,
+      "name": "Asura Valley",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:34:00.430400"
+    },
+    "779330": {
+      "appid": 779330,
+      "name": "Ninja Tycoon",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T15:34:00.588158"
+    },
+    "779340": {
+      "appid": 779340,
+      "name": "全面战争：三国",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T15:34:00.749890"
+    },
+    "779380": {
+      "appid": 779380,
+      "name": "Atmocity",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:34:01.196223"
+    },
+    "779430": {
+      "appid": 779430,
+      "name": "Full Ace Tennis Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:34:01.528692"
+    },
+    "779560": {
+      "appid": 779560,
+      "name": "公主的逃脱日常",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:34:02.248191"
+    },
+    "779610": {
+      "appid": 779610,
+      "name": "DEATH FIELD: The Battle Royale of Disaster",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:34:02.853949"
+    },
+    "779620": {
+      "appid": 779620,
+      "name": "Empty Town",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:34:02.992819"
+    },
+    "779640": {
+      "appid": 779640,
+      "name": "妄想症：Deliver Me",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T15:34:03.147811"
+    },
+    "779650": {
+      "appid": 779650,
+      "name": "Ready Player One: OASIS beta",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:34:03.297505"
+    },
+    "779790": {
+      "appid": 779790,
+      "name": "cell",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:34:04.062660"
+    },
+    "780020": {
+      "appid": 780020,
+      "name": "True Puzzle",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:34:05.687923"
+    },
+    "780100": {
+      "appid": 780100,
+      "name": "ClearMem :: Free Up Your RAM",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:34:06.136846"
+    },
+    "780230": {
+      "appid": 780230,
+      "name": "Missing Road",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T15:34:07.357146"
     }
   }
 }

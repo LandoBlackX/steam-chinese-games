@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-05T15:31:57.677122"
+    "updated": "2025-04-05T15:34:07.507760"
   },
   "games": {
     "570": {
@@ -63830,6 +63830,110 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-04-05T15:31:55.453786"
+    },
+    "776340": {
+      "appid": 776340,
+      "name": "Gay World",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T15:33:36.250542"
+    },
+    "776490": {
+      "appid": 776490,
+      "name": "永远消失的幻想乡 ～ The Disappearing of Gensokyo",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T15:33:37.657049"
+    },
+    "776960": {
+      "appid": 776960,
+      "name": "Mouse (Sneaking)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T15:33:40.934290"
+    },
+    "777160": {
+      "appid": 777160,
+      "name": "Forgotten Places: Regained Castle",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T15:33:42.304608"
+    },
+    "777770": {
+      "appid": 777770,
+      "name": "WAR PARTY",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T15:33:47.256501"
+    },
+    "778390": {
+      "appid": 778390,
+      "name": "Corpse Party: Book of Shadows",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T15:33:51.427590"
+    },
+    "778400": {
+      "appid": 778400,
+      "name": "Corpse Party: Sweet Sachiko's Hysteric Birthday Bash",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T15:33:51.577650"
+    },
+    "778610": {
+      "appid": 778610,
+      "name": "Foto Flash",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T15:33:53.933041"
+    },
+    "779290": {
+      "appid": 779290,
+      "name": "Stygian: Reign of the Old Ones",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T15:34:00.039846"
+    },
+    "779330": {
+      "appid": 779330,
+      "name": "Ninja Tycoon",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T15:34:00.588158"
+    },
+    "779340": {
+      "appid": 779340,
+      "name": "全面战争：三国",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T15:34:00.749890"
+    },
+    "779360": {
+      "appid": 779360,
+      "name": "Instant Death",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T15:34:00.997311"
+    },
+    "779640": {
+      "appid": 779640,
+      "name": "妄想症：Deliver Me",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T15:34:03.147811"
     }
   }
 }
