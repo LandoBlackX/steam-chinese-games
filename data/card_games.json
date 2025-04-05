@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-05T14:11:04.984168"
+    "updated": "2025-04-05T14:22:13.656342"
   },
   "games": {
     "570": {
@@ -62926,6 +62926,174 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-05T14:11:04.982684"
+    },
+    "743390": {
+      "appid": 743390,
+      "name": "DISTRAINT 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T14:21:39.173699"
+    },
+    "743450": {
+      "appid": 743450,
+      "name": "魔物学园：毕业舞会大作战",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T14:21:39.546499"
+    },
+    "743890": {
+      "appid": 743890,
+      "name": "Mega Man X Legacy Collection",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T14:21:42.208655"
+    },
+    "743900": {
+      "appid": 743900,
+      "name": "Mega Man X Legacy Collection 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T14:21:42.327824"
+    },
+    "744050": {
+      "appid": 744050,
+      "name": "Space Invaders Extreme",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T14:21:43.739999"
+    },
+    "744060": {
+      "appid": 744060,
+      "name": "Groove Coaster",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T14:21:44.178495"
+    },
+    "744190": {
+      "appid": 744190,
+      "name": "Rusty Lake Paradise",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T14:21:44.727146"
+    },
+    "744260": {
+      "appid": 744260,
+      "name": "宅人传说",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T14:21:45.311666"
+    },
+    "744900": {
+      "appid": 744900,
+      "name": "Dead Frontier 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T14:21:50.877907"
+    },
+    "745330": {
+      "appid": 745330,
+      "name": "StrikeForce Kitty",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T14:21:53.265677"
+    },
+    "745740": {
+      "appid": 745740,
+      "name": "Reflex",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T14:21:56.775352"
+    },
+    "745850": {
+      "appid": 745850,
+      "name": "KARAKARA2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T14:21:57.746193"
+    },
+    "745920": {
+      "appid": 745920,
+      "name": "Temtem",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T14:21:58.448204"
+    },
+    "745960": {
+      "appid": 745960,
+      "name": "A Sky Full of Stars 仰望夜空的星辰",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T14:21:59.051046"
+    },
+    "746140": {
+      "appid": 746140,
+      "name": "Walking Zombie: Shooter",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T14:22:00.626713"
+    },
+    "746400": {
+      "appid": 746400,
+      "name": "Speed Dating for Ghosts",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T14:22:05.158764"
+    },
+    "746580": {
+      "appid": 746580,
+      "name": "硬核机甲",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T14:22:06.704228"
+    },
+    "746620": {
+      "appid": 746620,
+      "name": "Bakery",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T14:22:06.988526"
+    },
+    "746840": {
+      "appid": 746840,
+      "name": "Chronicles of Magic: Divided Kingdoms",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T14:22:08.260782"
+    },
+    "747340": {
+      "appid": 747340,
+      "name": "Unforgiving - A Northern Hymn",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T14:22:12.305591"
+    },
+    "747360": {
+      "appid": 747360,
+      "name": "Gray Dawn",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T14:22:12.702465"
     }
   }
 }
