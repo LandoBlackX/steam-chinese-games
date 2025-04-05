@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-05T14:24:44.500303"
+    "updated": "2025-04-05T14:40:09.972206"
   },
   "games": {
     "570": {
@@ -63214,6 +63214,134 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-05T14:24:42.381225"
+    },
+    "752590": {
+      "appid": 752590,
+      "name": "A Plague Tale: Innocence",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T14:39:42.498649"
+    },
+    "753220": {
+      "appid": 753220,
+      "name": "Mhakna Gramura and Fairy Bell",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T14:39:45.843788"
+    },
+    "753230": {
+      "appid": 753230,
+      "name": "STAY",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T14:39:45.998788"
+    },
+    "753360": {
+      "appid": 753360,
+      "name": "VoiceActress",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T14:39:46.494330"
+    },
+    "753420": {
+      "appid": 753420,
+      "name": "Dungreed",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T14:39:47.243005"
+    },
+    "753590": {
+      "appid": 753590,
+      "name": "Hellbound",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T14:39:48.191780"
+    },
+    "753640": {
+      "appid": 753640,
+      "name": "Outer Wilds",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T14:39:48.639044"
+    },
+    "754120": {
+      "appid": 754120,
+      "name": "Ninja Stealth 3",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T14:39:51.333589"
+    },
+    "754150": {
+      "appid": 754150,
+      "name": "Rolling Line",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T14:39:51.477321"
+    },
+    "754500": {
+      "appid": 754500,
+      "name": "Plutocracy",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T14:39:53.799301"
+    },
+    "754850": {
+      "appid": 754850,
+      "name": "The Spy Who Shrunk Me",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T14:39:55.715155"
+    },
+    "755470": {
+      "appid": 755470,
+      "name": "The World Next Door",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T14:39:58.593121"
+    },
+    "755500": {
+      "appid": 755500,
+      "name": "ONE PIECE World Seeker",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T14:39:58.939954"
+    },
+    "756500": {
+      "appid": 756500,
+      "name": "Noir Chronicles: City of Crime",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T14:40:06.012919"
+    },
+    "756530": {
+      "appid": 756530,
+      "name": "TOKYO GHOUL:re [CALL to EXIST]",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T14:40:06.313942"
+    },
+    "756880": {
+      "appid": 756880,
+      "name": "NVL",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T14:40:08.655422"
     }
   }
 }
