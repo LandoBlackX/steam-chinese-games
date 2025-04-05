@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-05T20:48:03.049183"
+    "updated": "2025-04-05T21:00:40.751389"
   },
   "games": {
     "570": {
@@ -79784,6 +79784,390 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-04-05T20:48:02.796483"
+    },
+    "879510": {
+      "appid": 879510,
+      "name": "Lucy Got Problems",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T21:00:11.414781"
+    },
+    "880200": {
+      "appid": 880200,
+      "name": "J15 Jet Fighter VR (歼15舰载机)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T21:00:14.194814"
+    },
+    "880220": {
+      "appid": 880220,
+      "name": "~Azur Ring~圣女与奴隶之匣",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T21:00:14.462250"
+    },
+    "880400": {
+      "appid": 880400,
+      "name": "Lingering Fragrance",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T21:00:15.629125"
+    },
+    "880490": {
+      "appid": 880490,
+      "name": "与雾雨魔理沙一起偷重要的东西 ~ Happy Stealing with Kirisame Marisa",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T21:00:15.745713"
+    },
+    "880510": {
+      "appid": 880510,
+      "name": "Girl and Goblin",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T21:00:15.880349"
+    },
+    "880580": {
+      "appid": 880580,
+      "name": "YORG.io",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T21:00:16.244976"
+    },
+    "880620": {
+      "appid": 880620,
+      "name": "荒漠求生",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T21:00:16.827317"
+    },
+    "880830": {
+      "appid": 880830,
+      "name": "Cavesweeper",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T21:00:17.874816"
+    },
+    "880940": {
+      "appid": 880940,
+      "name": "Pummel Party",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T21:00:18.636424"
+    },
+    "880950": {
+      "appid": 880950,
+      "name": "爱上火车-Pure Station-",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T21:00:18.769495"
+    },
+    "880990": {
+      "appid": 880990,
+      "name": "School Idol",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T21:00:19.025489"
+    },
+    "881020": {
+      "appid": 881020,
+      "name": "Granblue Fantasy: Relink",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T21:00:19.165498"
+    },
+    "881040": {
+      "appid": 881040,
+      "name": "虫虫学院",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T21:00:19.295827"
+    },
+    "881060": {
+      "appid": 881060,
+      "name": "Fortune and Gloria",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T21:00:19.525047"
+    },
+    "881090": {
+      "appid": 881090,
+      "name": "Super Dodgeball Beats",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T21:00:19.639775"
+    },
+    "881100": {
+      "appid": 881100,
+      "name": "Noita",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T21:00:19.750193"
+    },
+    "881290": {
+      "appid": 881290,
+      "name": "vCoder Labs",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T21:00:20.898970"
+    },
+    "881320": {
+      "appid": 881320,
+      "name": "The LEGO Movie 2 Videogame",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T21:00:21.262211"
+    },
+    "881550": {
+      "appid": 881550,
+      "name": "Magic Synthesis",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T21:00:22.475864"
+    },
+    "881680": {
+      "appid": 881680,
+      "name": "Mouse Enhancer Pro",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T21:00:23.074448"
+    },
+    "881690": {
+      "appid": 881690,
+      "name": "The Slater",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T21:00:23.212477"
+    },
+    "882100": {
+      "appid": 882100,
+      "name": "XCOM®: Chimera Squad",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T21:00:26.144440"
+    },
+    "882250": {
+      "appid": 882250,
+      "name": "Metro Sim Hustle",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T21:00:27.762801"
+    },
+    "882590": {
+      "appid": 882590,
+      "name": "流放者传说：初踏旅程",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T21:00:28.866605"
+    },
+    "882670": {
+      "appid": 882670,
+      "name": "Nono's magic general shop",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T21:00:29.611686"
+    },
+    "882680": {
+      "appid": 882680,
+      "name": "Foreskin Fury",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T21:00:29.748462"
+    },
+    "882710": {
+      "appid": 882710,
+      "name": "东方幕华祭 红月篇",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T21:00:30.008377"
+    },
+    "882760": {
+      "appid": 882760,
+      "name": "Nom Nom Apocalypse",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T21:00:30.229263"
+    },
+    "882790": {
+      "appid": 882790,
+      "name": "天命奇御",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T21:00:30.340981"
+    },
+    "882900": {
+      "appid": 882900,
+      "name": "吕布梦工厂",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T21:00:31.090804"
+    },
+    "882910": {
+      "appid": 882910,
+      "name": "BATTLE X",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T21:00:31.236378"
+    },
+    "882940": {
+      "appid": 882940,
+      "name": "The Moment We Met",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T21:00:31.387442"
+    },
+    "882960": {
+      "appid": 882960,
+      "name": "Visitor 来访者",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T21:00:31.575930"
+    },
+    "882980": {
+      "appid": 882980,
+      "name": "Night Of the Loving Dead",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T21:00:31.731730"
+    },
+    "883070": {
+      "appid": 883070,
+      "name": "Viviette",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T21:00:32.327280"
+    },
+    "883080": {
+      "appid": 883080,
+      "name": "Ludo Online: Classic Multiplayer Dice Board Game",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T21:00:32.463531"
+    },
+    "883270": {
+      "appid": 883270,
+      "name": "Immortals(修仙志)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T21:00:33.698050"
+    },
+    "883360": {
+      "appid": 883360,
+      "name": "Beyond Blue",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T21:00:34.452926"
+    },
+    "883390": {
+      "appid": 883390,
+      "name": "Beyond the Mind",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T21:00:34.682144"
+    },
+    "883710": {
+      "appid": 883710,
+      "name": "Resident Evil 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T21:00:35.931582"
+    },
+    "883790": {
+      "appid": 883790,
+      "name": "Three life",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T21:00:36.261189"
+    },
+    "883850": {
+      "appid": 883850,
+      "name": "Dungene",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T21:00:36.729627"
+    },
+    "883860": {
+      "appid": 883860,
+      "name": "卡德里亚道具屋",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-05T21:00:37.020661"
+    },
+    "883870": {
+      "appid": 883870,
+      "name": "霎时晴荫",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T21:00:37.157544"
+    },
+    "883880": {
+      "appid": 883880,
+      "name": "Faraway: Puzzle Escape",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T21:00:37.268741"
+    },
+    "884320": {
+      "appid": 884320,
+      "name": "Love Vibe: Aria",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T21:00:39.365943"
+    },
+    "884370": {
+      "appid": 884370,
+      "name": "Hotel Transylvania Popstic",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-05T21:00:39.705914"
     }
   }
 }
