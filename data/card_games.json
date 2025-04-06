@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-06T17:23:41.870524"
+    "updated": "2025-04-06T17:39:19.298860"
   },
   "games": {
     "570": {
@@ -74998,6 +74998,54 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-06T17:23:38.364103"
+    },
+    "1301950": {
+      "appid": 1301950,
+      "name": "Time Loader",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T17:39:04.176215"
+    },
+    "1302050": {
+      "appid": 1302050,
+      "name": "Milky Way Prince – The Vampire Star",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T17:39:04.905669"
+    },
+    "1302240": {
+      "appid": 1302240,
+      "name": "Labyrinthine",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T17:39:06.194161"
+    },
+    "1303050": {
+      "appid": 1303050,
+      "name": "鲁格纳寻宝记",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T17:39:11.146534"
+    },
+    "1303660": {
+      "appid": 1303660,
+      "name": "Geometric Sniper",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T17:39:13.966605"
+    },
+    "1304340": {
+      "appid": 1304340,
+      "name": "Monster Energy Supercross - The Official Videogame 4",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T17:39:17.598881"
     }
   }
 }
