@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-06T19:42:30.368965"
+    "updated": "2025-04-06T19:55:13.673092"
   },
   "games": {
     "570": {
@@ -126584,6 +126584,454 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-04-06T19:42:30.367681"
+    },
+    "1358970": {
+      "appid": 1358970,
+      "name": "Spaceflight Factory",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T19:54:44.751279"
+    },
+    "1359090": {
+      "appid": 1359090,
+      "name": "Zero Hour",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T19:54:45.625116"
+    },
+    "1359120": {
+      "appid": 1359120,
+      "name": "The Dungeon Beneath",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T19:54:45.984386"
+    },
+    "1359270": {
+      "appid": 1359270,
+      "name": "Pirate Commander",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T19:54:46.967914"
+    },
+    "1359400": {
+      "appid": 1359400,
+      "name": "Primal Hearts",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T19:54:48.023776"
+    },
+    "1359430": {
+      "appid": 1359430,
+      "name": "Criminal Russia",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T19:54:48.301060"
+    },
+    "1359440": {
+      "appid": 1359440,
+      "name": "The Game of The Playful",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T19:54:48.424332"
+    },
+    "1359450": {
+      "appid": 1359450,
+      "name": "Choco Pixel 7",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T19:54:48.566529"
+    },
+    "1359470": {
+      "appid": 1359470,
+      "name": "Kawaii Girl 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T19:54:48.719397"
+    },
+    "1360000": {
+      "appid": 1360000,
+      "name": "The Infected",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T19:54:52.069145"
+    },
+    "1360190": {
+      "appid": 1360190,
+      "name": "曙光之诗",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T19:54:53.109089"
+    },
+    "1360360": {
+      "appid": 1360360,
+      "name": "The Moon Relax",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T19:54:54.175556"
+    },
+    "1360390": {
+      "appid": 1360390,
+      "name": "猫与众生",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T19:54:54.575044"
+    },
+    "1360480": {
+      "appid": 1360480,
+      "name": "推箱子(Push Box)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T19:54:54.956796"
+    },
+    "1360500": {
+      "appid": 1360500,
+      "name": "Warrecs 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T19:54:55.205254"
+    },
+    "1360550": {
+      "appid": 1360550,
+      "name": "Summertime Madness",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T19:54:55.737981"
+    },
+    "1360620": {
+      "appid": 1360620,
+      "name": "20,000 Miles Under the Sea",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T19:54:56.437628"
+    },
+    "1360660": {
+      "appid": 1360660,
+      "name": "Neon Blight",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T19:54:56.679117"
+    },
+    "1360670": {
+      "appid": 1360670,
+      "name": "MiniMap Kingdom",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T19:54:56.815655"
+    },
+    "1360700": {
+      "appid": 1360700,
+      "name": "DREAM TIME",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T19:54:57.051284"
+    },
+    "1360720": {
+      "appid": 1360720,
+      "name": "Aethernaut",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T19:54:57.149330"
+    },
+    "1360810": {
+      "appid": 1360810,
+      "name": "职场浮生记",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T19:54:57.654580"
+    },
+    "1360890": {
+      "appid": 1360890,
+      "name": "游戏而已",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T19:54:58.268724"
+    },
+    "1360980": {
+      "appid": 1360980,
+      "name": "Fetish Locator Week One",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T19:54:58.690625"
+    },
+    "1361000": {
+      "appid": 1361000,
+      "name": "In Silence",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T19:54:58.816900"
+    },
+    "1361100": {
+      "appid": 1361100,
+      "name": "两体",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T19:54:59.778338"
+    },
+    "1361150": {
+      "appid": 1361150,
+      "name": "Day Island",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T19:55:00.176158"
+    },
+    "1361180": {
+      "appid": 1361180,
+      "name": "双面战姬",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T19:55:00.345704"
+    },
+    "1361210": {
+      "appid": 1361210,
+      "name": "战锤40K：暗潮",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T19:55:00.744883"
+    },
+    "1361270": {
+      "appid": 1361270,
+      "name": "飞吧史莱姆",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T19:55:01.194397"
+    },
+    "1361360": {
+      "appid": 1361360,
+      "name": "JAPAN SIMULATOR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T19:55:01.593645"
+    },
+    "1361400": {
+      "appid": 1361400,
+      "name": "Moonglow Bay",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T19:55:01.878532"
+    },
+    "1361440": {
+      "appid": 1361440,
+      "name": "DuelVox",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T19:55:02.407798"
+    },
+    "1361460": {
+      "appid": 1361460,
+      "name": "星愿旅人 - Star wish traveler",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T19:55:02.529755"
+    },
+    "1361510": {
+      "appid": 1361510,
+      "name": "忍者龟：施莱德的复仇",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T19:55:03.355762"
+    },
+    "1361520": {
+      "appid": 1361520,
+      "name": "Dondar",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T19:55:03.492700"
+    },
+    "1361670": {
+      "appid": 1361670,
+      "name": "Skate City",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T19:55:04.218554"
+    },
+    "1361840": {
+      "appid": 1361840,
+      "name": "末日隧道（Tunnel of Doom）",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T19:55:05.309237"
+    },
+    "1361900": {
+      "appid": 1361900,
+      "name": "Outland Rapture",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T19:55:05.696821"
+    },
+    "1362000": {
+      "appid": 1362000,
+      "name": "Skyclimbers",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T19:55:06.301858"
+    },
+    "1362120": {
+      "appid": 1362120,
+      "name": "PIGROMANCE",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T19:55:06.805576"
+    },
+    "1362260": {
+      "appid": 1362260,
+      "name": "经天纪",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T19:55:07.185347"
+    },
+    "1362310": {
+      "appid": 1362310,
+      "name": "僵尸模拟器",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T19:55:07.711668"
+    },
+    "1362420": {
+      "appid": 1362420,
+      "name": "Siege Survival: Gloria Victis Prologue",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T19:55:08.426180"
+    },
+    "1362440": {
+      "appid": 1362440,
+      "name": "Lost in Dungeon / 地牢迷失者",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T19:55:08.691588"
+    },
+    "1362460": {
+      "appid": 1362460,
+      "name": "EMBERZONE",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T19:55:08.836969"
+    },
+    "1362470": {
+      "appid": 1362470,
+      "name": "1-Bit Astronaut",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T19:55:08.973900"
+    },
+    "1362480": {
+      "appid": 1362480,
+      "name": "战地细胞（Battlefield Cell）",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T19:55:09.100733"
+    },
+    "1362560": {
+      "appid": 1362560,
+      "name": "生死悍将",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T19:55:09.616707"
+    },
+    "1362580": {
+      "appid": 1362580,
+      "name": "Retro War",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T19:55:09.737789"
+    },
+    "1362650": {
+      "appid": 1362650,
+      "name": "Rolling Adventure",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T19:55:09.996036"
+    },
+    "1362940": {
+      "appid": 1362940,
+      "name": "武士的季节",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T19:55:11.916370"
+    },
+    "1363080": {
+      "appid": 1363080,
+      "name": "庄园领主 Manor Lords",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T19:55:12.769183"
+    },
+    "1363090": {
+      "appid": 1363090,
+      "name": "群星战纪：最终防卫线",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T19:55:12.905864"
+    },
+    "1363120": {
+      "appid": 1363120,
+      "name": "幸存者之歌 The Song of Survivors",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T19:55:13.026053"
+    },
+    "1363210": {
+      "appid": 1363210,
+      "name": "Live by the Sword: Tactics",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T19:55:13.670217"
     }
   }
 }
