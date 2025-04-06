@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-06T07:29:12.573325"
+    "updated": "2025-04-06T07:39:29.908004"
   },
   "games": {
     "570": {
@@ -94832,6 +94832,470 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-04-06T07:29:11.978628"
+    },
+    "1050690": {
+      "appid": 1050690,
+      "name": "火柴人和七色彩虹 Stickman's Rainbow",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:39:00.186550"
+    },
+    "1050900": {
+      "appid": 1050900,
+      "name": "Die Bloody Nazi Die!",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:39:01.873284"
+    },
+    "1051070": {
+      "appid": 1051070,
+      "name": "Oni Hunters",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:39:02.322789"
+    },
+    "1051310": {
+      "appid": 1051310,
+      "name": "Paper Dolls: Original / 纸人",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:39:04.484197"
+    },
+    "1051440": {
+      "appid": 1051440,
+      "name": "Ship Builder",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:39:05.346307"
+    },
+    "1051580": {
+      "appid": 1051580,
+      "name": "Skjoldur Story",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:39:06.322447"
+    },
+    "1051590": {
+      "appid": 1051590,
+      "name": "Lulu & Ennoi - Sacred Suit Girls",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:39:06.455213"
+    },
+    "1051630": {
+      "appid": 1051630,
+      "name": "Memorial Park of Hypoxia",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:39:06.806008"
+    },
+    "1051830": {
+      "appid": 1051830,
+      "name": "House of Evil 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:39:07.379620"
+    },
+    "1051870": {
+      "appid": 1051870,
+      "name": "RoboArena",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:39:07.811055"
+    },
+    "1051920": {
+      "appid": 1051920,
+      "name": "CD-RUN",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:39:08.231926"
+    },
+    "1051950": {
+      "appid": 1051950,
+      "name": "Voyage",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:39:08.556820"
+    },
+    "1051960": {
+      "appid": 1051960,
+      "name": "飞拳爆",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T07:39:08.834072"
+    },
+    "1051990": {
+      "appid": 1051990,
+      "name": "TARS",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:39:08.980163"
+    },
+    "1052090": {
+      "appid": 1052090,
+      "name": "Easy hentai puzzle",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:39:09.859743"
+    },
+    "1052100": {
+      "appid": 1052100,
+      "name": "Heart of Smoke",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:39:10.005174"
+    },
+    "1052150": {
+      "appid": 1052150,
+      "name": "WoozyHero 乌贼英雄-欢乐联机版",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:39:10.405815"
+    },
+    "1052180": {
+      "appid": 1052180,
+      "name": "心之克莱因瓶-The Bottle Of The Heart",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:39:10.546516"
+    },
+    "1052220": {
+      "appid": 1052220,
+      "name": "GlassSmash",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:39:10.832916"
+    },
+    "1052420": {
+      "appid": 1052420,
+      "name": "Badland Caravan",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:39:12.651346"
+    },
+    "1052440": {
+      "appid": 1052440,
+      "name": "黑色規則：西格瑪",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:39:12.790272"
+    },
+    "1052470": {
+      "appid": 1052470,
+      "name": "OFFICE ESCAPE",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:39:13.047023"
+    },
+    "1052480": {
+      "appid": 1052480,
+      "name": "Adecke - Cards Games Deluxe",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:39:13.181092"
+    },
+    "1052490": {
+      "appid": 1052490,
+      "name": "Instrument Bible",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:39:13.306106"
+    },
+    "1052500": {
+      "appid": 1052500,
+      "name": "御龙在天-平衡国战版",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:39:13.435511"
+    },
+    "1052640": {
+      "appid": 1052640,
+      "name": "Retrace",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:39:14.422802"
+    },
+    "1052970": {
+      "appid": 1052970,
+      "name": "Soul of Giga",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:39:16.032940"
+    },
+    "1052990": {
+      "appid": 1052990,
+      "name": "怪兽远征",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:39:16.182786"
+    },
+    "1053000": {
+      "appid": 1053000,
+      "name": "PLANES ATTACK",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:39:16.315366"
+    },
+    "1053160": {
+      "appid": 1053160,
+      "name": "Witch Ring Meister",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:39:16.900678"
+    },
+    "1053250": {
+      "appid": 1053250,
+      "name": "TOK HARDCORE",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:39:17.318642"
+    },
+    "1053330": {
+      "appid": 1053330,
+      "name": "SCRAP RUSH!!",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:39:17.754849"
+    },
+    "1053390": {
+      "appid": 1053390,
+      "name": "Kowloon High-School Chronicle",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:39:17.887853"
+    },
+    "1053750": {
+      "appid": 1053750,
+      "name": "The Red Reactor",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:39:19.835879"
+    },
+    "1053850": {
+      "appid": 1053850,
+      "name": "Last Hope Z - VR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:39:20.581197"
+    },
+    "1053970": {
+      "appid": 1053970,
+      "name": "Ecchi Puzzles",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:39:21.309310"
+    },
+    "1054180": {
+      "appid": 1054180,
+      "name": "Cheeky Beetle And The Unlikely Heroes",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:39:22.468620"
+    },
+    "1054240": {
+      "appid": 1054240,
+      "name": "Easy puzzle: Animals",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:39:22.753052"
+    },
+    "1054430": {
+      "appid": 1054430,
+      "name": "Fling to the Finish 终极拉扯",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T07:39:23.876679"
+    },
+    "1054460": {
+      "appid": 1054460,
+      "name": "Tuition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:39:24.267990"
+    },
+    "1054490": {
+      "appid": 1054490,
+      "name": "WINGSPAN (展翅翱翔)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T07:39:24.557988"
+    },
+    "1054510": {
+      "appid": 1054510,
+      "name": "Survivalist: Invisible Strain",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:39:24.830426"
+    },
+    "1054550": {
+      "appid": 1054550,
+      "name": "Phantom Rose",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T07:39:25.122896"
+    },
+    "1054580": {
+      "appid": 1054580,
+      "name": "Easy Cat Timer",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:39:25.548705"
+    },
+    "1054610": {
+      "appid": 1054610,
+      "name": "Chocolate makes you happy: Easter",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:39:25.822270"
+    },
+    "1054630": {
+      "appid": 1054630,
+      "name": "Tank battle",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:39:26.081652"
+    },
+    "1054660": {
+      "appid": 1054660,
+      "name": "Factory Balls",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:39:26.488906"
+    },
+    "1054720": {
+      "appid": 1054720,
+      "name": "DUMB FIGHT",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:39:27.049415"
+    },
+    "1054770": {
+      "appid": 1054770,
+      "name": "Gear：治愈齿轮",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:39:27.306262"
+    },
+    "1054800": {
+      "appid": 1054800,
+      "name": "变量 Variables",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:39:27.439948"
+    },
+    "1054900": {
+      "appid": 1054900,
+      "name": "DevilShaft: TheTower",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:39:27.853953"
+    },
+    "1054950": {
+      "appid": 1054950,
+      "name": "我为星狂",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:39:28.121310"
+    },
+    "1054990": {
+      "appid": 1054990,
+      "name": "Race With Ryan",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:39:28.394249"
+    },
+    "1055000": {
+      "appid": 1055000,
+      "name": "EndlessHell",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:39:28.539772"
+    },
+    "1055010": {
+      "appid": 1055010,
+      "name": "Energy Engine PC Live Wallpaper",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:39:28.670761"
+    },
+    "1055020": {
+      "appid": 1055020,
+      "name": "InfinityVR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:39:28.819738"
+    },
+    "1055140": {
+      "appid": 1055140,
+      "name": "10-4 Indirect Contact",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:39:29.473792"
+    },
+    "1055170": {
+      "appid": 1055170,
+      "name": "Sir Lovelot",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:39:29.904060"
     }
   }
 }

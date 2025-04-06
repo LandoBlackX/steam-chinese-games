@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-06T07:29:12.573325"
+    "updated": "2025-04-06T07:39:29.908004"
   },
   "games": {
     "570": {
@@ -69846,6 +69846,70 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-06T07:29:03.965342"
+    },
+    "1051200": {
+      "appid": 1051200,
+      "name": "Trover Saves the Universe",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T07:39:03.109478"
+    },
+    "1051410": {
+      "appid": 1051410,
+      "name": "Wanderlust: Travel Stories",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T07:39:05.054085"
+    },
+    "1051960": {
+      "appid": 1051960,
+      "name": "飞拳爆",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T07:39:08.834072"
+    },
+    "1054050": {
+      "appid": 1054050,
+      "name": "Hero must die. again",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T07:39:21.613819"
+    },
+    "1054430": {
+      "appid": 1054430,
+      "name": "Fling to the Finish 终极拉扯",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T07:39:23.876679"
+    },
+    "1054490": {
+      "appid": 1054490,
+      "name": "WINGSPAN (展翅翱翔)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T07:39:24.557988"
+    },
+    "1054550": {
+      "appid": 1054550,
+      "name": "Phantom Rose",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T07:39:25.122896"
+    },
+    "1054710": {
+      "appid": 1054710,
+      "name": "Driven Out",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T07:39:26.903416"
     }
   }
 }
