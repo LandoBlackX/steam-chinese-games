@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-06T12:53:06.348585"
+    "updated": "2025-04-06T13:02:52.238058"
   },
   "games": {
     "570": {
@@ -72734,6 +72734,78 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-06T12:53:01.590587"
+    },
+    "1196440": {
+      "appid": 1196440,
+      "name": "Potion Party",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T13:02:29.830234"
+    },
+    "1196470": {
+      "appid": 1196470,
+      "name": "WE ARE FOOTBALL",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T13:02:30.085184"
+    },
+    "1196590": {
+      "appid": 1196590,
+      "name": "Resident Evil Village",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T13:02:30.822179"
+    },
+    "1196690": {
+      "appid": 1196690,
+      "name": "OctaFight",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T13:02:31.377641"
+    },
+    "1198090": {
+      "appid": 1198090,
+      "name": "英雄传说：闪之轨迹Ⅳ",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T13:02:39.783260"
+    },
+    "1198450": {
+      "appid": 1198450,
+      "name": "The Secret Order 8: Return to the Buried Kingdom",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T13:02:41.692330"
+    },
+    "1198730": {
+      "appid": 1198730,
+      "name": "Hentai Police",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T13:02:43.064025"
+    },
+    "1199030": {
+      "appid": 1199030,
+      "name": "Tainted Grail: Conquest (污痕圣杯)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T13:02:44.450015"
+    },
+    "1200330": {
+      "appid": 1200330,
+      "name": "战略思维：闪电战",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T13:02:51.563812"
     }
   }
 }
