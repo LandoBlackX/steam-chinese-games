@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-06T06:42:52.816329"
+    "updated": "2025-04-06T06:47:29.618943"
   },
   "games": {
     "570": {
@@ -69334,6 +69334,70 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-04-06T06:42:52.492530"
+    },
+    "1026680": {
+      "appid": 1026680,
+      "name": "FINAL FANTASY VIII - REMASTERED",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T06:46:59.140044"
+    },
+    "1027250": {
+      "appid": 1027250,
+      "name": "The Alliance Alive HD Remastered",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T06:47:03.259497"
+    },
+    "1027620": {
+      "appid": 1027620,
+      "name": "The Language of Love",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T06:47:04.787103"
+    },
+    "1028310": {
+      "appid": 1028310,
+      "name": "司辰之书",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T06:47:09.474167"
+    },
+    "1028570": {
+      "appid": 1028570,
+      "name": "Lofi Ping Pong",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T06:47:12.181046"
+    },
+    "1029690": {
+      "appid": 1029690,
+      "name": "狙击精英5",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T06:47:20.292760"
+    },
+    "1029890": {
+      "appid": 1029890,
+      "name": "Layers of Fear 2 (2019)",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T06:47:21.753268"
+    },
+    "1031170": {
+      "appid": 1031170,
+      "name": "Elf Enchanter: Arousing Anima",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T06:47:28.950643"
     }
   }
 }
