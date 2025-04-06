@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-06T05:55:44.136763"
+    "updated": "2025-04-06T06:02:37.574956"
   },
   "games": {
     "570": {
@@ -68878,6 +68878,102 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-04-06T05:55:41.905254"
+    },
+    "1003120": {
+      "appid": 1003120,
+      "name": "Hitchhiker - A Mystery Game",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T06:02:13.884479"
+    },
+    "1003520": {
+      "appid": 1003520,
+      "name": "Hentai Crush",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T06:02:16.146815"
+    },
+    "1004240": {
+      "appid": 1004240,
+      "name": "Hentai Girl Karen",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T06:02:21.175462"
+    },
+    "1004490": {
+      "appid": 1004490,
+      "name": "胡闹装修",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T06:02:22.183312"
+    },
+    "1004610": {
+      "appid": 1004610,
+      "name": "Roombo: First Blood",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T06:02:23.301077"
+    },
+    "1004860": {
+      "appid": 1004860,
+      "name": "The Secret Order 7: Shadow Breach",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T06:02:24.680016"
+    },
+    "1005300": {
+      "appid": 1005300,
+      "name": "The Jackbox Party Pack 6",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T06:02:27.342753"
+    },
+    "1005400": {
+      "appid": 1005400,
+      "name": "Star Drift Evolution",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T06:02:28.138675"
+    },
+    "1005410": {
+      "appid": 1005410,
+      "name": "Freedom Finger",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T06:02:28.275362"
+    },
+    "1006250": {
+      "appid": 1006250,
+      "name": "Love in the Limelight",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T06:02:32.861127"
+    },
+    "1006400": {
+      "appid": 1006400,
+      "name": "Fantasia of the Wind 2 风之幻想曲 第二部",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T06:02:33.317390"
+    },
+    "1007040": {
+      "appid": 1007040,
+      "name": "EARTH DEFENSE FORCE 5",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T06:02:36.376433"
     }
   }
 }
