@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-06T03:54:01.357163"
+    "updated": "2025-04-06T04:26:03.880193"
   },
   "games": {
     "570": {
@@ -86144,6 +86144,510 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-04-06T03:54:01.355604"
+    },
+    "959860": {
+      "appid": 959860,
+      "name": "The Valiant",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T04:25:31.591896"
+    },
+    "959880": {
+      "appid": 959880,
+      "name": "Dungeon Town",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T04:25:31.850708"
+    },
+    "959890": {
+      "appid": 959890,
+      "name": "妹妹旅行",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T04:25:32.213459"
+    },
+    "960040": {
+      "appid": 960040,
+      "name": "Clash of Chefs VR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T04:25:32.929248"
+    },
+    "960090": {
+      "appid": 960090,
+      "name": "Bloons TD 6",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T04:25:33.214361"
+    },
+    "960140": {
+      "appid": 960140,
+      "name": "插花设计Ⅱ",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T04:25:33.376716"
+    },
+    "960150": {
+      "appid": 960150,
+      "name": "Rending Sky",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T04:25:33.720436"
+    },
+    "960170": {
+      "appid": 960170,
+      "name": "DJMAX RESPECT V",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T04:25:33.928988"
+    },
+    "960360": {
+      "appid": 960360,
+      "name": "Yuzi Lims: Hentai",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T04:25:35.510519"
+    },
+    "960420": {
+      "appid": 960420,
+      "name": "Hello Neighbor: Hide and Seek",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T04:25:35.706535"
+    },
+    "960690": {
+      "appid": 960690,
+      "name": "伊甸之路",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T04:25:37.320078"
+    },
+    "960730": {
+      "appid": 960730,
+      "name": "告别回忆～从今以后～",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T04:25:37.896680"
+    },
+    "960740": {
+      "appid": 960740,
+      "name": "Girls' civilization",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T04:25:38.044426"
+    },
+    "960800": {
+      "appid": 960800,
+      "name": "Second World: Air War S",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T04:25:38.165019"
+    },
+    "960820": {
+      "appid": 960820,
+      "name": "Data mining 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T04:25:38.298392"
+    },
+    "960900": {
+      "appid": 960900,
+      "name": "Lornsword Winter Chronicle",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T04:25:38.448318"
+    },
+    "960910": {
+      "appid": 960910,
+      "name": "暴雨",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T04:25:38.697499"
+    },
+    "960980": {
+      "appid": 960980,
+      "name": "Apsulov: End of Gods",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T04:25:39.252569"
+    },
+    "960990": {
+      "appid": 960990,
+      "name": "超凡双生",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T04:25:39.402999"
+    },
+    "961200": {
+      "appid": 961200,
+      "name": "Predecessor",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T04:25:40.917928"
+    },
+    "961230": {
+      "appid": 961230,
+      "name": "Backgammon, Chess & Checkers",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T04:25:41.476115"
+    },
+    "961420": {
+      "appid": 961420,
+      "name": "Vile",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T04:25:42.205832"
+    },
+    "961490": {
+      "appid": 961490,
+      "name": "Travis Strikes Again: No More Heroes Complete Edition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T04:25:42.516265"
+    },
+    "961510": {
+      "appid": 961510,
+      "name": "MarisaLand Legacy",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T04:25:42.655348"
+    },
+    "961700": {
+      "appid": 961700,
+      "name": "NekoCharm",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T04:25:44.391804"
+    },
+    "961750": {
+      "appid": 961750,
+      "name": "Rope Racer O'Neon",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T04:25:44.660840"
+    },
+    "961920": {
+      "appid": 961920,
+      "name": "Romantic Journey",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T04:25:45.359819"
+    },
+    "961960": {
+      "appid": 961960,
+      "name": "Varenje: Collector`s Edition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T04:25:45.493342"
+    },
+    "962090": {
+      "appid": 962090,
+      "name": "Common'hood",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T04:25:45.982173"
+    },
+    "962130": {
+      "appid": 962130,
+      "name": "Grounded",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T04:25:46.106377"
+    },
+    "962270": {
+      "appid": 962270,
+      "name": "Time Virus",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T04:25:47.292344"
+    },
+    "962290": {
+      "appid": 962290,
+      "name": "天罡星宿海 The sea of TianGang XinSu",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T04:25:47.549646"
+    },
+    "962340": {
+      "appid": 962340,
+      "name": "Wallenda",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T04:25:47.856869"
+    },
+    "962360": {
+      "appid": 962360,
+      "name": "WeLOVE",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T04:25:47.986158"
+    },
+    "962390": {
+      "appid": 962390,
+      "name": "S.A.I.A.'s Awakening: A Robothorium Visual Novel",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T04:25:48.422937"
+    },
+    "962490": {
+      "appid": 962490,
+      "name": "机能女孩-Energy Girl",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T04:25:48.719095"
+    },
+    "962510": {
+      "appid": 962510,
+      "name": "The Darkest Woods 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T04:25:48.879345"
+    },
+    "962580": {
+      "appid": 962580,
+      "name": "Summer in Mara",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T04:25:49.041397"
+    },
+    "962630": {
+      "appid": 962630,
+      "name": "Transient: Extended Edition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T04:25:49.303399"
+    },
+    "962650": {
+      "appid": 962650,
+      "name": "Paroniria 梦缚",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T04:25:49.433877"
+    },
+    "962950": {
+      "appid": 962950,
+      "name": "执行人 Executor",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T04:25:50.377258"
+    },
+    "962970": {
+      "appid": 962970,
+      "name": "My 1/6 Lover",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T04:25:50.541927"
+    },
+    "963020": {
+      "appid": 963020,
+      "name": "Ponkle",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T04:25:50.815290"
+    },
+    "963210": {
+      "appid": 963210,
+      "name": "Another Sight - Hodge's Journey",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T04:25:51.803047"
+    },
+    "963490": {
+      "appid": 963490,
+      "name": "Abyss Manager",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T04:25:53.486590"
+    },
+    "963690": {
+      "appid": 963690,
+      "name": "Hentai Girl Hime",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T04:25:54.500734"
+    },
+    "963830": {
+      "appid": 963830,
+      "name": "A Flappy Bird in Real Life",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T04:25:55.257069"
+    },
+    "963870": {
+      "appid": 963870,
+      "name": "Valor & Victory",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T04:25:55.539370"
+    },
+    "963930": {
+      "appid": 963930,
+      "name": "Contractors",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T04:25:56.218929"
+    },
+    "963960": {
+      "appid": 963960,
+      "name": "NEONARCADE: adventure puzzle muse",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T04:25:56.474095"
+    },
+    "964020": {
+      "appid": 964020,
+      "name": "建立自己的王国",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T04:25:56.784796"
+    },
+    "964170": {
+      "appid": 964170,
+      "name": "PomboTroll",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T04:25:58.392171"
+    },
+    "964210": {
+      "appid": 964210,
+      "name": "Mr Husky",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T04:25:58.681822"
+    },
+    "964240": {
+      "appid": 964240,
+      "name": "夜之归途 Night Homing",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T04:25:59.096708"
+    },
+    "964350": {
+      "appid": 964350,
+      "name": "At Home Alone",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T04:25:59.557509"
+    },
+    "964440": {
+      "appid": 964440,
+      "name": "Hell is Others",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T04:25:59.966864"
+    },
+    "964460": {
+      "appid": 964460,
+      "name": "VR Rome",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T04:26:00.252342"
+    },
+    "964570": {
+      "appid": 964570,
+      "name": "DCL - The Game",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T04:26:00.536822"
+    },
+    "964620": {
+      "appid": 964620,
+      "name": "Shakes on a Plane",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T04:26:00.689893"
+    },
+    "964800": {
+      "appid": 964800,
+      "name": "Prodeus",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T04:26:01.660108"
+    },
+    "964920": {
+      "appid": 964920,
+      "name": "Space Tycoon | 星际大亨",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T04:26:02.211080"
+    },
+    "965080": {
+      "appid": 965080,
+      "name": "江湖求生 Ganghood Survival",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T04:26:03.204215"
+    },
+    "965120": {
+      "appid": 965120,
+      "name": "能量冲击 Energy Shock",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T04:26:03.507397"
     }
   }
 }
