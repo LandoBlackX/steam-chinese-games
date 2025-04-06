@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-06T23:43:17.444564"
+    "updated": "2025-04-06T23:56:13.785263"
   },
   "games": {
     "570": {
@@ -132968,6 +132968,478 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-04-06T23:43:17.442667"
+    },
+    "1424190": {
+      "appid": 1424190,
+      "name": "Curious Alice",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T23:55:43.571527"
+    },
+    "1424330": {
+      "appid": 1424330,
+      "name": "摇摆狗狗",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T23:55:44.322900"
+    },
+    "1424420": {
+      "appid": 1424420,
+      "name": "Warchief",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T23:55:44.949746"
+    },
+    "1424570": {
+      "appid": 1424570,
+      "name": "Delta0",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T23:55:45.692757"
+    },
+    "1424590": {
+      "appid": 1424590,
+      "name": "墨武群侠(Tale of MoWu)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T23:55:45.815234"
+    },
+    "1424600": {
+      "appid": 1424600,
+      "name": "凡尔纳：幻想之形",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T23:55:45.952357"
+    },
+    "1424610": {
+      "appid": 1424610,
+      "name": "自西徂东",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T23:55:46.095428"
+    },
+    "1424640": {
+      "appid": 1424640,
+      "name": "余烬",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T23:55:46.353150"
+    },
+    "1424660": {
+      "appid": 1424660,
+      "name": "9-nine-雪色雪花雪之痕",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T23:55:46.692611"
+    },
+    "1424720": {
+      "appid": 1424720,
+      "name": "墨心：波云诡船",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T23:55:47.518356"
+    },
+    "1424860": {
+      "appid": 1424860,
+      "name": "哔哔砰砰大作战",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T23:55:48.432698"
+    },
+    "1424870": {
+      "appid": 1424870,
+      "name": "流浪小猫单身狗",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T23:55:48.608213"
+    },
+    "1424890": {
+      "appid": 1424890,
+      "name": "天仙变",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T23:55:48.770451"
+    },
+    "1424980": {
+      "appid": 1424980,
+      "name": "The Solitaire Conspiracy",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T23:55:49.428524"
+    },
+    "1425000": {
+      "appid": 1425000,
+      "name": "无尽爱丽丝",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T23:55:49.591954"
+    },
+    "1425130": {
+      "appid": 1425130,
+      "name": "Forgotten Hill First Steps",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T23:55:50.849640"
+    },
+    "1425180": {
+      "appid": 1425180,
+      "name": "Vessels of Decay",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T23:55:51.453860"
+    },
+    "1425220": {
+      "appid": 1425220,
+      "name": "Farm Mechanic Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T23:55:51.744007"
+    },
+    "1425250": {
+      "appid": 1425250,
+      "name": "重力场",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T23:55:52.083818"
+    },
+    "1425280": {
+      "appid": 1425280,
+      "name": "Tantal",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T23:55:52.581277"
+    },
+    "1425350": {
+      "appid": 1425350,
+      "name": "Botany Manor",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T23:55:53.134180"
+    },
+    "1425370": {
+      "appid": 1425370,
+      "name": "Razenroth 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T23:55:53.376419"
+    },
+    "1425380": {
+      "appid": 1425380,
+      "name": "10mg :)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T23:55:53.542921"
+    },
+    "1425620": {
+      "appid": 1425620,
+      "name": "赤蛮奇的头头大冒险 ~ Sekibanki Head Adventure",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T23:55:54.597447"
+    },
+    "1425730": {
+      "appid": 1425730,
+      "name": "Gal*Gun Returns",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T23:55:55.563436"
+    },
+    "1425770": {
+      "appid": 1425770,
+      "name": "再苟一步 One More Step",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T23:55:56.009394"
+    },
+    "1425780": {
+      "appid": 1425780,
+      "name": "Fishkeeper",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T23:55:56.135212"
+    },
+    "1425790": {
+      "appid": 1425790,
+      "name": "刺沙",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T23:55:56.257152"
+    },
+    "1425980": {
+      "appid": 1425980,
+      "name": "Stone Simulator – Just Be a Rock",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T23:55:56.832404"
+    },
+    "1426060": {
+      "appid": 1426060,
+      "name": "永恒沉眠：统治者降临 Permanent Sleep: The dominant has come",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T23:55:57.377776"
+    },
+    "1426090": {
+      "appid": 1426090,
+      "name": "病娇姐姐的「性爱」囚禁 ",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T23:55:57.514828"
+    },
+    "1426110": {
+      "appid": 1426110,
+      "name": "Love n Dream: Virtual Happiness",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T23:55:57.918335"
+    },
+    "1426120": {
+      "appid": 1426120,
+      "name": "Re:DESTINY",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T23:55:58.055269"
+    },
+    "1426210": {
+      "appid": 1426210,
+      "name": "双人成行",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T23:55:58.584795"
+    },
+    "1426310": {
+      "appid": 1426310,
+      "name": "Dee-6: Dice Defenders",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T23:55:59.042038"
+    },
+    "1426450": {
+      "appid": 1426450,
+      "name": "黑暗时代：背水一战 ",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T23:56:00.130951"
+    },
+    "1426490": {
+      "appid": 1426490,
+      "name": "失落史诗 LOST EPIC",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T23:56:00.580636"
+    },
+    "1426500": {
+      "appid": 1426500,
+      "name": "重启",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T23:56:00.723147"
+    },
+    "1426530": {
+      "appid": 1426530,
+      "name": "Sid Classic",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T23:56:00.863773"
+    },
+    "1426570": {
+      "appid": 1426570,
+      "name": "51号太空站",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T23:56:01.372567"
+    },
+    "1426870": {
+      "appid": 1426870,
+      "name": "Dune Mechanic : Survive The Steampunk Era",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T23:56:01.801772"
+    },
+    "1426900": {
+      "appid": 1426900,
+      "name": "Dread Nautical",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T23:56:02.068030"
+    },
+    "1426950": {
+      "appid": 1426950,
+      "name": "Heart of Dungeon",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T23:56:02.368719"
+    },
+    "1426980": {
+      "appid": 1426980,
+      "name": "Hidden Memory - Nature",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T23:56:02.515263"
+    },
+    "1427080": {
+      "appid": 1427080,
+      "name": "Cinema Manager",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T23:56:03.060827"
+    },
+    "1427100": {
+      "appid": 1427100,
+      "name": "吃鱼3D",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T23:56:03.191166"
+    },
+    "1427140": {
+      "appid": 1427140,
+      "name": "Among School Girls",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T23:56:03.641913"
+    },
+    "1427680": {
+      "appid": 1427680,
+      "name": "Magia X",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T23:56:06.394346"
+    },
+    "1427710": {
+      "appid": 1427710,
+      "name": "空瓶子",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T23:56:06.657461"
+    },
+    "1427760": {
+      "appid": 1427760,
+      "name": "RoboSquare",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T23:56:06.911654"
+    },
+    "1427810": {
+      "appid": 1427810,
+      "name": "求闻手账 ～ Gensokyo Recollection",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T23:56:07.300551"
+    },
+    "1427880": {
+      "appid": 1427880,
+      "name": "Beat Me! - Puppetonia Tournament",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T23:56:07.595853"
+    },
+    "1427890": {
+      "appid": 1427890,
+      "name": "Blaston",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T23:56:07.712089"
+    },
+    "1428090": {
+      "appid": 1428090,
+      "name": "KreatureKind",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T23:56:09.933787"
+    },
+    "1428100": {
+      "appid": 1428100,
+      "name": "Instruments of Destruction",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T23:56:10.061798"
+    },
+    "1428150": {
+      "appid": 1428150,
+      "name": "SAVAGE",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T23:56:10.488976"
+    },
+    "1428270": {
+      "appid": 1428270,
+      "name": "Good puzzle: Animals",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T23:56:10.956257"
+    },
+    "1428460": {
+      "appid": 1428460,
+      "name": "陶瓷娃娃",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T23:56:12.489103"
+    },
+    "1428520": {
+      "appid": 1428520,
+      "name": "Mech Engineer",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T23:56:12.950576"
     }
   }
 }

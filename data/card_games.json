@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-06T23:43:17.444564"
+    "updated": "2025-04-06T23:56:13.785263"
   },
   "games": {
     "570": {
@@ -76742,6 +76742,78 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-06T23:43:06.200279"
+    },
+    "1424300": {
+      "appid": 1424300,
+      "name": "Jester / King",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T23:55:44.174586"
+    },
+    "1424330": {
+      "appid": 1424330,
+      "name": "摇摆狗狗",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T23:55:44.322900"
+    },
+    "1424710": {
+      "appid": 1424710,
+      "name": "Geneforge 1 - Mutagen",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T23:55:47.374362"
+    },
+    "1424860": {
+      "appid": 1424860,
+      "name": "哔哔砰砰大作战",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T23:55:48.432698"
+    },
+    "1425250": {
+      "appid": 1425250,
+      "name": "重力场",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T23:55:52.083818"
+    },
+    "1426010": {
+      "appid": 1426010,
+      "name": "STASIS: BONE TOTEM",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T23:55:57.098072"
+    },
+    "1426210": {
+      "appid": 1426210,
+      "name": "双人成行",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T23:55:58.584795"
+    },
+    "1426450": {
+      "appid": 1426450,
+      "name": "黑暗时代：背水一战 ",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T23:56:00.130951"
+    },
+    "1427680": {
+      "appid": 1427680,
+      "name": "Magia X",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T23:56:06.394346"
     }
   }
 }
