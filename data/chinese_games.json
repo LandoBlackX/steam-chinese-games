@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-06T19:29:13.555562"
+    "updated": "2025-04-06T19:42:30.368965"
   },
   "games": {
     "570": {
@@ -126104,6 +126104,486 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-04-06T19:29:13.300676"
+    },
+    "1354100": {
+      "appid": 1354100,
+      "name": "A Lozenge",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T19:41:58.793798"
+    },
+    "1354230": {
+      "appid": 1354230,
+      "name": "Love Tavern",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T19:41:58.924111"
+    },
+    "1354240": {
+      "appid": 1354240,
+      "name": "Hunting Moon vol.2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T19:41:59.055295"
+    },
+    "1354260": {
+      "appid": 1354260,
+      "name": "Brave Escape",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T19:41:59.266101"
+    },
+    "1354300": {
+      "appid": 1354300,
+      "name": "Club Soccer Director 2021",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T19:41:59.524048"
+    },
+    "1354540": {
+      "appid": 1354540,
+      "name": "Arcaxer",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T19:42:00.524402"
+    },
+    "1354570": {
+      "appid": 1354570,
+      "name": "迷宫骑士",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T19:42:00.665052"
+    },
+    "1354770": {
+      "appid": 1354770,
+      "name": "Cubox",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T19:42:01.585951"
+    },
+    "1354830": {
+      "appid": 1354830,
+      "name": "Cat Cafe Manager",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T19:42:01.899116"
+    },
+    "1354910": {
+      "appid": 1354910,
+      "name": "3D找茬",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T19:42:02.187667"
+    },
+    "1355020": {
+      "appid": 1355020,
+      "name": "Human Or Virus",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T19:42:03.355104"
+    },
+    "1355060": {
+      "appid": 1355060,
+      "name": "Supermarket Manager",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T19:42:03.631119"
+    },
+    "1355090": {
+      "appid": 1355090,
+      "name": "异星铁路",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T19:42:04.114829"
+    },
+    "1355140": {
+      "appid": 1355140,
+      "name": "Police Chase",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T19:42:04.640581"
+    },
+    "1355310": {
+      "appid": 1355310,
+      "name": "Nightmare Puppeteer",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T19:42:05.779597"
+    },
+    "1355400": {
+      "appid": 1355400,
+      "name": "The Line",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T19:42:06.368842"
+    },
+    "1355440": {
+      "appid": 1355440,
+      "name": "开局一把剑",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T19:42:06.953479"
+    },
+    "1355720": {
+      "appid": 1355720,
+      "name": "Henosis™",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T19:42:09.520537"
+    },
+    "1355810": {
+      "appid": 1355810,
+      "name": "Hentai beautiful girls 4",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T19:42:10.029489"
+    },
+    "1355820": {
+      "appid": 1355820,
+      "name": "大话江湖",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T19:42:10.570079"
+    },
+    "1355830": {
+      "appid": 1355830,
+      "name": "Return to Earth 2130",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T19:42:11.371237"
+    },
+    "1355880": {
+      "appid": 1355880,
+      "name": "SpermDash精疲力尽",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T19:42:11.948112"
+    },
+    "1355970": {
+      "appid": 1355970,
+      "name": "Jungle House",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T19:42:12.620610"
+    },
+    "1356040": {
+      "appid": 1356040,
+      "name": "Ampersat",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T19:42:13.301112"
+    },
+    "1356070": {
+      "appid": 1356070,
+      "name": "模拟练枪",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T19:42:13.524218"
+    },
+    "1356080": {
+      "appid": 1356080,
+      "name": "Hot-air VR Balloon trip over Russian Primorye",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T19:42:13.672276"
+    },
+    "1356110": {
+      "appid": 1356110,
+      "name": "EaseUS Todo Backup Home",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T19:42:13.778476"
+    },
+    "1356280": {
+      "appid": 1356280,
+      "name": "奇塔利亚童话",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T19:42:15.030447"
+    },
+    "1356300": {
+      "appid": 1356300,
+      "name": "Butterfly 3. Funny Twins.",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T19:42:15.210070"
+    },
+    "1356360": {
+      "appid": 1356360,
+      "name": "Exploaris: Vermis story",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T19:42:15.319678"
+    },
+    "1356460": {
+      "appid": 1356460,
+      "name": "Commander '85 Prologue",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T19:42:15.734714"
+    },
+    "1356530": {
+      "appid": 1356530,
+      "name": "神秘酒店 : 寻物",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T19:42:16.020261"
+    },
+    "1356640": {
+      "appid": 1356640,
+      "name": "魔法猫咖与英雄们",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T19:42:16.430210"
+    },
+    "1356670": {
+      "appid": 1356670,
+      "name": "天穗之咲稻姬",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T19:42:16.541826"
+    },
+    "1356810": {
+      "appid": 1356810,
+      "name": "帝王牌局：古国纷争",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T19:42:17.199944"
+    },
+    "1356940": {
+      "appid": 1356940,
+      "name": "Cloud Rack",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T19:42:17.796967"
+    },
+    "1357020": {
+      "appid": 1357020,
+      "name": "完美电路 Electric Circuit",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T19:42:18.946359"
+    },
+    "1357210": {
+      "appid": 1357210,
+      "name": "银河文明IV",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T19:42:19.658796"
+    },
+    "1357430": {
+      "appid": 1357430,
+      "name": "Rocket Rumble",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T19:42:20.981260"
+    },
+    "1357520": {
+      "appid": 1357520,
+      "name": "Asterrunner",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T19:42:21.230655"
+    },
+    "1357610": {
+      "appid": 1357610,
+      "name": "Desktop Farm",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T19:42:21.977557"
+    },
+    "1357840": {
+      "appid": 1357840,
+      "name": "Salthe",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T19:42:23.320173"
+    },
+    "1357860": {
+      "appid": 1357860,
+      "name": "战场的赋格曲",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T19:42:23.437031"
+    },
+    "1357890": {
+      "appid": 1357890,
+      "name": "海岛之子",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T19:42:23.691687"
+    },
+    "1357960": {
+      "appid": 1357960,
+      "name": "The Dragon Sword / 蒼墨龍吟",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T19:42:24.010166"
+    },
+    "1357990": {
+      "appid": 1357990,
+      "name": "Unfolded : Camellia Tales",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T19:42:24.140116"
+    },
+    "1358020": {
+      "appid": 1358020,
+      "name": "41 Hours",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T19:42:24.724473"
+    },
+    "1358120": {
+      "appid": 1358120,
+      "name": "Paws on the Sand: Lionessy Sins",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T19:42:25.614755"
+    },
+    "1358140": {
+      "appid": 1358140,
+      "name": "Cooking Simulator VR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T19:42:25.857383"
+    },
+    "1358440": {
+      "appid": 1358440,
+      "name": "Halver",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T19:42:27.139680"
+    },
+    "1358530": {
+      "appid": 1358530,
+      "name": "Saint Kotar",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T19:42:27.632144"
+    },
+    "1358540": {
+      "appid": 1358540,
+      "name": "Pink Gum",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T19:42:27.799054"
+    },
+    "1358660": {
+      "appid": 1358660,
+      "name": "Re:Awaken",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T19:42:28.849498"
+    },
+    "1358700": {
+      "appid": 1358700,
+      "name": "STRANGER OF PARADISE FINAL FANTASY ORIGIN",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T19:42:28.969089"
+    },
+    "1358710": {
+      "appid": 1358710,
+      "name": "Battle Cry of Freedom",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T19:42:29.105512"
+    },
+    "1358770": {
+      "appid": 1358770,
+      "name": "下坠之塔",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T19:42:29.459287"
+    },
+    "1358790": {
+      "appid": 1358790,
+      "name": "Tipston Salvage",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T19:42:29.544377"
+    },
+    "1358810": {
+      "appid": 1358810,
+      "name": "Metal Force: 战争机器",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T19:42:30.017058"
+    },
+    "1358840": {
+      "appid": 1358840,
+      "name": "Flat Eye",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T19:42:30.221166"
+    },
+    "1358900": {
+      "appid": 1358900,
+      "name": "Annihilation",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T19:42:30.367681"
     }
   }
 }

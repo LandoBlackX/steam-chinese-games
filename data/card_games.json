@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-06T19:29:13.555562"
+    "updated": "2025-04-06T19:42:30.368965"
   },
   "games": {
     "570": {
@@ -75798,6 +75798,86 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-06T19:29:10.764503"
+    },
+    "1354230": {
+      "appid": 1354230,
+      "name": "Love Tavern",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T19:41:58.924111"
+    },
+    "1354910": {
+      "appid": 1354910,
+      "name": "3D找茬",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T19:42:02.187667"
+    },
+    "1355090": {
+      "appid": 1355090,
+      "name": "异星铁路",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T19:42:04.114829"
+    },
+    "1355780": {
+      "appid": 1355780,
+      "name": "碎裂 Crushed",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T19:42:09.786371"
+    },
+    "1356670": {
+      "appid": 1356670,
+      "name": "天穗之咲稻姬",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T19:42:16.541826"
+    },
+    "1357830": {
+      "appid": 1357830,
+      "name": "Arcana: Heat and Cold. Season 1",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T19:42:23.174075"
+    },
+    "1357840": {
+      "appid": 1357840,
+      "name": "Salthe",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T19:42:23.320173"
+    },
+    "1357860": {
+      "appid": 1357860,
+      "name": "战场的赋格曲",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T19:42:23.437031"
+    },
+    "1358530": {
+      "appid": 1358530,
+      "name": "Saint Kotar",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T19:42:27.632144"
+    },
+    "1358700": {
+      "appid": 1358700,
+      "name": "STRANGER OF PARADISE FINAL FANTASY ORIGIN",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T19:42:28.969089"
     }
   }
 }
