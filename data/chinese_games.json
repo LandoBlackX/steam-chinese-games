@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-06T23:15:27.198180"
+    "updated": "2025-04-06T23:30:29.197779"
   },
   "games": {
     "570": {
@@ -131928,6 +131928,518 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-04-06T23:15:26.836195"
+    },
+    "1414400": {
+      "appid": 1414400,
+      "name": "Unnatural Disaster",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T23:29:59.944568"
+    },
+    "1414430": {
+      "appid": 1414430,
+      "name": "梦神计划：序章",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T23:30:00.189580"
+    },
+    "1414480": {
+      "appid": 1414480,
+      "name": "Zof",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T23:30:00.682739"
+    },
+    "1414490": {
+      "appid": 1414490,
+      "name": "Kasmo",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T23:30:00.951182"
+    },
+    "1414650": {
+      "appid": 1414650,
+      "name": "伊甸门：生命边界 / EDENGATE: The Edge of Life",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T23:30:02.503331"
+    },
+    "1414660": {
+      "appid": 1414660,
+      "name": "Luxury GIRLS",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T23:30:02.652369"
+    },
+    "1414710": {
+      "appid": 1414710,
+      "name": "Arc Wizards 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T23:30:03.187514"
+    },
+    "1414720": {
+      "appid": 1414720,
+      "name": "桌面猛男",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T23:30:03.448084"
+    },
+    "1414800": {
+      "appid": 1414800,
+      "name": "Wet steps",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T23:30:04.142267"
+    },
+    "1414840": {
+      "appid": 1414840,
+      "name": "Zombie Rush - Heroes",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T23:30:04.257815"
+    },
+    "1414910": {
+      "appid": 1414910,
+      "name": "苍色之光与魔剑锻造师",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T23:30:04.738065"
+    },
+    "1415230": {
+      "appid": 1415230,
+      "name": "For The Stars",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T23:30:07.291791"
+    },
+    "1415280": {
+      "appid": 1415280,
+      "name": "Faerie Afterlight",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T23:30:07.722165"
+    },
+    "1415330": {
+      "appid": 1415330,
+      "name": "Spellario - Fantasy Clicker",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T23:30:08.232484"
+    },
+    "1415410": {
+      "appid": 1415410,
+      "name": "Farm Manager 2021: Prologue",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T23:30:08.899379"
+    },
+    "1415570": {
+      "appid": 1415570,
+      "name": "Tell Me Your Story",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T23:30:09.570727"
+    },
+    "1415580": {
+      "appid": 1415580,
+      "name": "Heart World",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T23:30:09.737502"
+    },
+    "1415600": {
+      "appid": 1415600,
+      "name": "Frequency: Chernobyl",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T23:30:09.999958"
+    },
+    "1415750": {
+      "appid": 1415750,
+      "name": "Gravity_Kid",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T23:30:10.541697"
+    },
+    "1416050": {
+      "appid": 1416050,
+      "name": "Shovel Knight Dig",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T23:30:11.680120"
+    },
+    "1416120": {
+      "appid": 1416120,
+      "name": "装甲战线",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T23:30:12.063717"
+    },
+    "1416140": {
+      "appid": 1416140,
+      "name": "神叨叨",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T23:30:12.324687"
+    },
+    "1416160": {
+      "appid": 1416160,
+      "name": "安堂的心理咨询室：杯中之心〈ANDOU：Pulse of cup〉",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T23:30:12.595718"
+    },
+    "1416190": {
+      "appid": 1416190,
+      "name": "Fatiao发条：自动化工具",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T23:30:12.868814"
+    },
+    "1416210": {
+      "appid": 1416210,
+      "name": "丝袜测评师",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T23:30:13.124208"
+    },
+    "1416220": {
+      "appid": 1416220,
+      "name": "Second Person: Secret Laboratory",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T23:30:13.243104"
+    },
+    "1416230": {
+      "appid": 1416230,
+      "name": "Panzer Knights",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T23:30:13.388596"
+    },
+    "1416240": {
+      "appid": 1416240,
+      "name": "夜永 Eternal Love",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T23:30:13.521616"
+    },
+    "1416260": {
+      "appid": 1416260,
+      "name": "SpellForce 3 Versus Edition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T23:30:13.638162"
+    },
+    "1416360": {
+      "appid": 1416360,
+      "name": "Dissident: Frostland Escape",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T23:30:14.258511"
+    },
+    "1416480": {
+      "appid": 1416480,
+      "name": "Daycare Manager",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T23:30:14.927490"
+    },
+    "1416600": {
+      "appid": 1416600,
+      "name": "Evil Ritual - Horror Escape",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T23:30:15.190629"
+    },
+    "1416770": {
+      "appid": 1416770,
+      "name": "Modulo",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T23:30:16.114825"
+    },
+    "1416800": {
+      "appid": 1416800,
+      "name": "Heroes Raid",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T23:30:16.393438"
+    },
+    "1416920": {
+      "appid": 1416920,
+      "name": "中国式网游",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T23:30:16.948692"
+    },
+    "1416930": {
+      "appid": 1416930,
+      "name": "Infected Prison",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T23:30:17.070230"
+    },
+    "1416960": {
+      "appid": 1416960,
+      "name": "Everafter Falls",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T23:30:17.313286"
+    },
+    "1416980": {
+      "appid": 1416980,
+      "name": "Reimu's Weird little adventure",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T23:30:17.615327"
+    },
+    "1417200": {
+      "appid": 1417200,
+      "name": "Hentai Students: Love Puzzle",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T23:30:18.932100"
+    },
+    "1417250": {
+      "appid": 1417250,
+      "name": "三国21点",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T23:30:19.322475"
+    },
+    "1417270": {
+      "appid": 1417270,
+      "name": "Mind-Blowing Girls",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T23:30:19.466272"
+    },
+    "1417340": {
+      "appid": 1417340,
+      "name": "狼人在线",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T23:30:20.024293"
+    },
+    "1417500": {
+      "appid": 1417500,
+      "name": "Planet Station",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T23:30:20.912488"
+    },
+    "1417770": {
+      "appid": 1417770,
+      "name": "原始行星：終戰天使",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T23:30:22.915482"
+    },
+    "1417880": {
+      "appid": 1417880,
+      "name": "冬季余烬",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T23:30:23.187237"
+    },
+    "1417890": {
+      "appid": 1417890,
+      "name": "凯蒂梦游喵喵仙境",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T23:30:23.326790"
+    },
+    "1417930": {
+      "appid": 1417930,
+      "name": "Lorn's Lure",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T23:30:23.480083"
+    },
+    "1417940": {
+      "appid": 1417940,
+      "name": "捕鱼炸翻天",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T23:30:23.598699"
+    },
+    "1417960": {
+      "appid": 1417960,
+      "name": "Timeline Traveler",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T23:30:23.879737"
+    },
+    "1418020": {
+      "appid": 1418020,
+      "name": "Tavern of Gods",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T23:30:24.261470"
+    },
+    "1418160": {
+      "appid": 1418160,
+      "name": "Happy Quest",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T23:30:24.681455"
+    },
+    "1418320": {
+      "appid": 1418320,
+      "name": "Puerto Viejo",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T23:30:25.459485"
+    },
+    "1418330": {
+      "appid": 1418330,
+      "name": "Sweet Halloween",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T23:30:25.589679"
+    },
+    "1418360": {
+      "appid": 1418360,
+      "name": "Lonesome Village",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T23:30:25.889164"
+    },
+    "1418380": {
+      "appid": 1418380,
+      "name": "Forester Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T23:30:26.003267"
+    },
+    "1418390": {
+      "appid": 1418390,
+      "name": "Antipaint",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T23:30:26.160746"
+    },
+    "1418420": {
+      "appid": 1418420,
+      "name": "THIEF DOG",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T23:30:26.285345"
+    },
+    "1418430": {
+      "appid": 1418430,
+      "name": "Zombie Bar Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T23:30:26.405168"
+    },
+    "1418650": {
+      "appid": 1418650,
+      "name": "Shooting Type",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T23:30:27.511336"
+    },
+    "1418670": {
+      "appid": 1418670,
+      "name": "火海求生",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T23:30:27.647382"
+    },
+    "1418680": {
+      "appid": 1418680,
+      "name": "Pretty Girls Mahjong Solitaire [BLUE]",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T23:30:27.775774"
+    },
+    "1418790": {
+      "appid": 1418790,
+      "name": "Movavi Video Converter 2024",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T23:30:28.312521"
+    },
+    "1418830": {
+      "appid": 1418830,
+      "name": "再会了，黄金时代",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T23:30:28.584375"
+    },
+    "1418990": {
+      "appid": 1418990,
+      "name": "Unicorns on Unicycles",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T23:30:28.803421"
     }
   }
 }

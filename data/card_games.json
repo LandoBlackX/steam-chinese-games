@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-06T23:15:27.198180"
+    "updated": "2025-04-06T23:30:29.197779"
   },
   "games": {
     "570": {
@@ -76662,6 +76662,38 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-04-06T23:15:26.444825"
+    },
+    "1414650": {
+      "appid": 1414650,
+      "name": "伊甸门：生命边界 / EDENGATE: The Edge of Life",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T23:30:02.503331"
+    },
+    "1415140": {
+      "appid": 1415140,
+      "name": "Kandidatos Kart",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T23:30:06.778259"
+    },
+    "1416230": {
+      "appid": 1416230,
+      "name": "Panzer Knights",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T23:30:13.388596"
+    },
+    "1418760": {
+      "appid": 1418760,
+      "name": "Claire's Quest: GOLD",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T23:30:28.189418"
     }
   }
 }
