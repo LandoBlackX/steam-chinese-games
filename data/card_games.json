@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-06T22:22:50.060466"
+    "updated": "2025-04-06T22:39:31.350105"
   },
   "games": {
     "570": {
@@ -76398,6 +76398,86 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-06T22:22:46.976115"
+    },
+    "1399670": {
+      "appid": 1399670,
+      "name": "Instant Farmer - Logic Puzzle",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T22:39:01.631877"
+    },
+    "1399840": {
+      "appid": 1399840,
+      "name": "Neptunia Virtual Stars",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T22:39:03.432628"
+    },
+    "1399930": {
+      "appid": 1399930,
+      "name": "Furry Shades of Gay",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T22:39:04.276883"
+    },
+    "1400970": {
+      "appid": 1400970,
+      "name": "The Elder Scrolls Online - Blackwood",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T22:39:11.929438"
+    },
+    "1402320": {
+      "appid": 1402320,
+      "name": "《荣誉勋章™：超越巅峰》",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T22:39:18.958358"
+    },
+    "1403020": {
+      "appid": 1403020,
+      "name": "SCP Strategy",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T22:39:22.072048"
+    },
+    "1403310": {
+      "appid": 1403310,
+      "name": "花园模拟器：繁花似梦",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T22:39:23.714425"
+    },
+    "1403440": {
+      "appid": 1403440,
+      "name": "Broken Roads",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T22:39:24.255555"
+    },
+    "1404090": {
+      "appid": 1404090,
+      "name": "Trivia Tricks",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T22:39:28.147535"
+    },
+    "1404660": {
+      "appid": 1404660,
+      "name": "Psych",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T22:39:31.053768"
     }
   }
 }
