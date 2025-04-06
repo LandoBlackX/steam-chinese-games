@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-06T18:09:14.091119"
+    "updated": "2025-04-06T18:12:59.548037"
   },
   "games": {
     "570": {
@@ -75182,6 +75182,46 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-06T18:09:02.585824"
+    },
+    "1316560": {
+      "appid": 1316560,
+      "name": "Otaku's Rage: Waifu Strikes Back",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T18:12:35.530123"
+    },
+    "1316680": {
+      "appid": 1316680,
+      "name": "VLADiK BRUTAL",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T18:12:35.942327"
+    },
+    "1316760": {
+      "appid": 1316760,
+      "name": "Suicide Guy VR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T18:12:36.539080"
+    },
+    "1316910": {
+      "appid": 1316910,
+      "name": "现尝好滋味！超级猴子球1&2重制版",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T18:12:37.346725"
+    },
+    "1322100": {
+      "appid": 1322100,
+      "name": "Battle Bands: Rock & Roll Deckbuilder",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T18:12:55.595469"
     }
   }
 }

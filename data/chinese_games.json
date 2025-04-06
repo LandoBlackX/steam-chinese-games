@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-06T18:09:14.091119"
+    "updated": "2025-04-06T18:12:59.548037"
   },
   "games": {
     "570": {
@@ -122712,6 +122712,446 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-04-06T18:09:13.670260"
+    },
+    "1315900": {
+      "appid": 1315900,
+      "name": "3d Maze In Space",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T18:12:31.337714"
+    },
+    "1315940": {
+      "appid": 1315940,
+      "name": "Gravity Oddity",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T18:12:32.006672"
+    },
+    "1315980": {
+      "appid": 1315980,
+      "name": "罐舱逃生指南 Tin Can",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T18:12:32.157116"
+    },
+    "1316230": {
+      "appid": 1316230,
+      "name": "Force of Nature 2: Ghost Keeper",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T18:12:33.883064"
+    },
+    "1316680": {
+      "appid": 1316680,
+      "name": "VLADiK BRUTAL",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T18:12:35.942327"
+    },
+    "1316720": {
+      "appid": 1316720,
+      "name": "THE 8IGHT",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T18:12:36.244874"
+    },
+    "1316760": {
+      "appid": 1316760,
+      "name": "Suicide Guy VR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T18:12:36.539080"
+    },
+    "1316800": {
+      "appid": 1316800,
+      "name": "Destropolis",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T18:12:36.819566"
+    },
+    "1316910": {
+      "appid": 1316910,
+      "name": "现尝好滋味！超级猴子球1&2重制版",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T18:12:37.346725"
+    },
+    "1316970": {
+      "appid": 1316970,
+      "name": "遗落幻境",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T18:12:37.631145"
+    },
+    "1318060": {
+      "appid": 1318060,
+      "name": "LIMEN: MoonCity",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T18:12:39.768961"
+    },
+    "1318090": {
+      "appid": 1318090,
+      "name": "Vertigo Remastered",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T18:12:39.929441"
+    },
+    "1318150": {
+      "appid": 1318150,
+      "name": "约拍女神2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T18:12:40.546535"
+    },
+    "1318420": {
+      "appid": 1318420,
+      "name": "Summer in Mara Prologue",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T18:12:41.610872"
+    },
+    "1318530": {
+      "appid": 1318530,
+      "name": "我的 Mud 游戏",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T18:12:42.166002"
+    },
+    "1318550": {
+      "appid": 1318550,
+      "name": "Ardein.Fall",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T18:12:42.319442"
+    },
+    "1318560": {
+      "appid": 1318560,
+      "name": "畜牧业",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T18:12:42.452934"
+    },
+    "1318690": {
+      "appid": 1318690,
+      "name": "异形工厂（Shapez）",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T18:12:42.751383"
+    },
+    "1318740": {
+      "appid": 1318740,
+      "name": "Farlanders",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T18:12:43.199137"
+    },
+    "1318790": {
+      "appid": 1318790,
+      "name": "BROK the InvestiGator - Prologue",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T18:12:43.456446"
+    },
+    "1319060": {
+      "appid": 1319060,
+      "name": "Deadly Maze",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T18:12:44.673107"
+    },
+    "1319210": {
+      "appid": 1319210,
+      "name": "Little Chick",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T18:12:45.110278"
+    },
+    "1319270": {
+      "appid": 1319270,
+      "name": "Our Beautiful Earth",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T18:12:45.406441"
+    },
+    "1319290": {
+      "appid": 1319290,
+      "name": "Damn, what was yesterday?",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T18:12:45.539922"
+    },
+    "1319320": {
+      "appid": 1319320,
+      "name": "Pangman",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T18:12:45.787667"
+    },
+    "1319460": {
+      "appid": 1319460,
+      "name": "Fashion Police Squad",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T18:12:46.314967"
+    },
+    "1320060": {
+      "appid": 1320060,
+      "name": "魔力依存症 与魔王酱的生活",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T18:12:48.408854"
+    },
+    "1320100": {
+      "appid": 1320100,
+      "name": "浣熊通缉犯 (Wanted Raccoon)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T18:12:48.548495"
+    },
+    "1320170": {
+      "appid": 1320170,
+      "name": "Lifeguard Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T18:12:49.113677"
+    },
+    "1320230": {
+      "appid": 1320230,
+      "name": "Curved Space",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T18:12:49.268513"
+    },
+    "1320440": {
+      "appid": 1320440,
+      "name": "World of Towers",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T18:12:49.960582"
+    },
+    "1320530": {
+      "appid": 1320530,
+      "name": "Magnecord",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T18:12:50.764736"
+    },
+    "1320550": {
+      "appid": 1320550,
+      "name": "The Call of Karen",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T18:12:50.889651"
+    },
+    "1320830": {
+      "appid": 1320830,
+      "name": "Электричка",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T18:12:51.299034"
+    },
+    "1320990": {
+      "appid": 1320990,
+      "name": "Horror Adventure VR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T18:12:51.720440"
+    },
+    "1321070": {
+      "appid": 1321070,
+      "name": "终结降临 - Death Come True - ",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T18:12:52.309046"
+    },
+    "1321110": {
+      "appid": 1321110,
+      "name": "MonsterTerritory",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T18:12:52.565068"
+    },
+    "1321120": {
+      "appid": 1321120,
+      "name": "末路调色板",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T18:12:52.701127"
+    },
+    "1321160": {
+      "appid": 1321160,
+      "name": "Wuppo: Breft Festival (Forever)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T18:12:52.917085"
+    },
+    "1321220": {
+      "appid": 1321220,
+      "name": "Real Farm – Gold Edition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T18:12:53.055434"
+    },
+    "1321230": {
+      "appid": 1321230,
+      "name": "杀戮的天使 Episode.Eddie",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T18:12:53.178681"
+    },
+    "1321440": {
+      "appid": 1321440,
+      "name": "Cassette Beasts 磁带妖怪",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T18:12:53.716636"
+    },
+    "1321450": {
+      "appid": 1321450,
+      "name": "American Theft 80s",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T18:12:53.847054"
+    },
+    "1321680": {
+      "appid": 1321680,
+      "name": "Hello Neighbor 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T18:12:54.516025"
+    },
+    "1322090": {
+      "appid": 1322090,
+      "name": "Taken Away",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T18:12:55.459964"
+    },
+    "1322180": {
+      "appid": 1322180,
+      "name": "DriftZ",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T18:12:55.881758"
+    },
+    "1322270": {
+      "appid": 1322270,
+      "name": "HARTS ISLAND",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T18:12:56.157125"
+    },
+    "1322290": {
+      "appid": 1322290,
+      "name": "阿尔涅事件簿",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T18:12:56.426659"
+    },
+    "1322300": {
+      "appid": 1322300,
+      "name": "Tsugunohi / 翌日",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T18:12:56.563762"
+    },
+    "1322310": {
+      "appid": 1322310,
+      "name": "Guilty Hell 纯白女神与亡者之都",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T18:12:56.700619"
+    },
+    "1322520": {
+      "appid": 1322520,
+      "name": "救赎之门",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T18:12:57.165022"
+    },
+    "1322600": {
+      "appid": 1322600,
+      "name": "Pizza Bike Rider",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T18:12:57.681855"
+    },
+    "1323080": {
+      "appid": 1323080,
+      "name": "Colour Flux",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T18:12:58.617354"
+    },
+    "1323140": {
+      "appid": 1323140,
+      "name": "忍者",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T18:12:58.735160"
+    },
+    "1323200": {
+      "appid": 1323200,
+      "name": "Hurry Up!",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T18:12:58.984374"
     }
   }
 }
