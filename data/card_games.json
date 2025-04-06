@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-06T10:21:44.218202"
+    "updated": "2025-04-06T10:39:08.217890"
   },
   "games": {
     "570": {
@@ -71478,6 +71478,102 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-06T10:21:40.508221"
+    },
+    "1135810": {
+      "appid": 1135810,
+      "name": "Vault of the Void / 虚空穹牢",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T10:38:41.633999"
+    },
+    "1135830": {
+      "appid": 1135830,
+      "name": "炼金术士柯蕾特：精华炼成物语",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T10:38:41.756328"
+    },
+    "1136370": {
+      "appid": 1136370,
+      "name": "Bear and Breakfast",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T10:38:44.399625"
+    },
+    "1136910": {
+      "appid": 1136910,
+      "name": "Lily's Handmaid",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T10:38:46.773889"
+    },
+    "1137300": {
+      "appid": 1137300,
+      "name": "Sherlock Holmes Chapter One",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T10:38:49.707172"
+    },
+    "1137750": {
+      "appid": 1137750,
+      "name": "Farmer's Life",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T10:38:52.899469"
+    },
+    "1138100": {
+      "appid": 1138100,
+      "name": "东方异文石 - 爱亚利亚黎明：再造",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T10:38:55.125636"
+    },
+    "1138650": {
+      "appid": 1138650,
+      "name": "塔楼公主",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T10:38:58.549461"
+    },
+    "1138660": {
+      "appid": 1138660,
+      "name": "黑书",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T10:38:59.344573"
+    },
+    "1139280": {
+      "appid": 1139280,
+      "name": "诈欺娇娃",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T10:39:03.007923"
+    },
+    "1139900": {
+      "appid": 1139900,
+      "name": "Ghostrunner - 幽灵行者",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T10:39:05.817913"
+    },
+    "1140170": {
+      "appid": 1140170,
+      "name": "Arietta of Spirits",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T10:39:08.215257"
     }
   }
 }
