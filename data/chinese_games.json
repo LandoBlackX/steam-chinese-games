@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-06T05:42:42.832342"
+    "updated": "2025-04-06T05:55:44.136763"
   },
   "games": {
     "570": {
@@ -89608,6 +89608,558 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-04-06T05:42:42.707588"
+    },
+    "996710": {
+      "appid": 996710,
+      "name": "天火(TianHuo)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:55:16.441094"
+    },
+    "996770": {
+      "appid": 996770,
+      "name": "Moving Out",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:55:16.861806"
+    },
+    "997010": {
+      "appid": 997010,
+      "name": "Police Simulator: Patrol Officers",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:55:18.006728"
+    },
+    "997050": {
+      "appid": 997050,
+      "name": "Hentai Like a Boss",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:55:18.414959"
+    },
+    "997090": {
+      "appid": 997090,
+      "name": "旗舰",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:55:18.818429"
+    },
+    "997270": {
+      "appid": 997270,
+      "name": "傲皇忆剑诀",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:55:19.546452"
+    },
+    "997290": {
+      "appid": 997290,
+      "name": "Hypergalaxy Squad",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:55:19.816897"
+    },
+    "997640": {
+      "appid": 997640,
+      "name": "Pixel Life",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:55:21.282220"
+    },
+    "997700": {
+      "appid": 997700,
+      "name": "瓶中精灵 - Fairy in a Jar",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:55:21.668618"
+    },
+    "997950": {
+      "appid": 997950,
+      "name": "Folding Edge",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:55:22.882181"
+    },
+    "998010": {
+      "appid": 998010,
+      "name": "Chroma Deluxe : Sexy Hentai Girls",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:55:23.022249"
+    },
+    "998020": {
+      "appid": 998020,
+      "name": "Unearthing Mars 2: The Ancient War",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:55:23.154581"
+    },
+    "998150": {
+      "appid": 998150,
+      "name": "荒野大蛮神",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:55:23.283836"
+    },
+    "998220": {
+      "appid": 998220,
+      "name": "The Dungeon of Lulu Farea",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:55:23.487146"
+    },
+    "998270": {
+      "appid": 998270,
+      "name": "The Other: Airi's Adventure",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:55:23.684140"
+    },
+    "998300": {
+      "appid": 998300,
+      "name": "欢乐块队",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:55:23.811755"
+    },
+    "998400": {
+      "appid": 998400,
+      "name": "Trans-Siberian Railway Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:55:24.090612"
+    },
+    "998730": {
+      "appid": 998730,
+      "name": "Hail To The King",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:55:25.162463"
+    },
+    "998740": {
+      "appid": 998740,
+      "name": "苦痛之环 Ring of Pain",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T05:55:25.317285"
+    },
+    "998790": {
+      "appid": 998790,
+      "name": "Piczle Lines DX+α",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:55:25.727090"
+    },
+    "998830": {
+      "appid": 998830,
+      "name": "The Last Roman Village",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:55:26.002369"
+    },
+    "998930": {
+      "appid": 998930,
+      "name": "Seek Girl",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T05:55:26.433775"
+    },
+    "999020": {
+      "appid": 999020,
+      "name": "Mega Man Zero/ZX Legacy Collection",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T05:55:26.857157"
+    },
+    "999030": {
+      "appid": 999030,
+      "name": "Gamepad Massage",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:55:26.990910"
+    },
+    "999220": {
+      "appid": 999220,
+      "name": "Amnesia: Rebirth",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:55:27.669679"
+    },
+    "999340": {
+      "appid": 999340,
+      "name": "Nature Hunter",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:55:28.627471"
+    },
+    "999360": {
+      "appid": 999360,
+      "name": "soul room",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:55:28.893940"
+    },
+    "999660": {
+      "appid": 999660,
+      "name": "SAMURAI SHODOWN NEOGEO COLLECTION",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:55:29.935528"
+    },
+    "999830": {
+      "appid": 999830,
+      "name": "Becalm",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:55:30.454484"
+    },
+    "999930": {
+      "appid": 999930,
+      "name": "Fantasy Sino-Japanese War 幻想甲午",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:55:31.184262"
+    },
+    "1000010": {
+      "appid": 1000010,
+      "name": "不思议的皇冠",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T05:55:31.466338"
+    },
+    "1000040": {
+      "appid": 1000040,
+      "name": "细胞战争",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:55:31.892310"
+    },
+    "1000050": {
+      "appid": 1000050,
+      "name": "我的一个多重人格朋友",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:55:32.033006"
+    },
+    "1000080": {
+      "appid": 1000080,
+      "name": "神明在上",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T05:55:32.172175"
+    },
+    "1000100": {
+      "appid": 1000100,
+      "name": "干支セトラ　陽ノ卷｜干支etc.　陽之卷",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:55:32.306630"
+    },
+    "1000110": {
+      "appid": 1000110,
+      "name": "Jumping Master(跳跳大咖)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:55:32.450834"
+    },
+    "1000280": {
+      "appid": 1000280,
+      "name": "起源之塔2-虫巢",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:55:32.744187"
+    },
+    "1000310": {
+      "appid": 1000310,
+      "name": "人气动漫大乱斗",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:55:32.867170"
+    },
+    "1000360": {
+      "appid": 1000360,
+      "name": "Hellish Quart",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T05:55:33.005794"
+    },
+    "1000410": {
+      "appid": 1000410,
+      "name": "WRATH: Aeon of Ruin",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:55:33.302282"
+    },
+    "1000440": {
+      "appid": 1000440,
+      "name": "东方雪莲华 ～ Abyss Soul Lotus.",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:55:33.441531"
+    },
+    "1000460": {
+      "appid": 1000460,
+      "name": "Arsonist",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:55:33.562994"
+    },
+    "1000500": {
+      "appid": 1000500,
+      "name": "The Undisputables : Online Multiplayer Shooter",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:55:33.960385"
+    },
+    "1000550": {
+      "appid": 1000550,
+      "name": "Love Hentai: Endgame",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:55:34.350508"
+    },
+    "1000700": {
+      "appid": 1000700,
+      "name": "Insomnis",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:55:34.895410"
+    },
+    "1000760": {
+      "appid": 1000760,
+      "name": "放弃",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:55:35.252809"
+    },
+    "1000800": {
+      "appid": 1000800,
+      "name": "Beetle Elf",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:55:35.653171"
+    },
+    "1000980": {
+      "appid": 1000980,
+      "name": "Kill Tiger",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:55:36.554415"
+    },
+    "1001010": {
+      "appid": 1001010,
+      "name": "雪·疑 Sknow",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:55:36.812113"
+    },
+    "1001040": {
+      "appid": 1001040,
+      "name": "Glorious Companions",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:55:36.946185"
+    },
+    "1001070": {
+      "appid": 1001070,
+      "name": "Koi",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:55:37.086221"
+    },
+    "1001100": {
+      "appid": 1001100,
+      "name": "Kooring VR Wonderland:Mecadino's Attack",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:55:37.216568"
+    },
+    "1001120": {
+      "appid": 1001120,
+      "name": "Shadow Of the Groundhog",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:55:37.339726"
+    },
+    "1001160": {
+      "appid": 1001160,
+      "name": "Modus Sonum",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:55:37.593680"
+    },
+    "1001180": {
+      "appid": 1001180,
+      "name": "Cross The Red Line",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:55:37.724051"
+    },
+    "1001270": {
+      "appid": 1001270,
+      "name": "Kebab Chefs! - Restaurant Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:55:38.405880"
+    },
+    "1001450": {
+      "appid": 1001450,
+      "name": "The Town",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:55:38.964059"
+    },
+    "1001590": {
+      "appid": 1001590,
+      "name": "Grab Lab",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:55:39.896709"
+    },
+    "1001800": {
+      "appid": 1001800,
+      "name": "酷派忍者 / KUNAI",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:55:40.821871"
+    },
+    "1001880": {
+      "appid": 1001880,
+      "name": "aMAZE Valentine",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:55:41.226013"
+    },
+    "1001930": {
+      "appid": 1001930,
+      "name": "Tau Cubis",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:55:41.497667"
+    },
+    "1001970": {
+      "appid": 1001970,
+      "name": "Rhythmy",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:55:41.773000"
+    },
+    "1002000": {
+      "appid": 1002000,
+      "name": "SPITLINGS",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:55:42.182435"
+    },
+    "1002010": {
+      "appid": 1002010,
+      "name": "CYBER.one: Racing For Souls",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:55:42.304359"
+    },
+    "1002030": {
+      "appid": 1002030,
+      "name": "Hentai beautiful girls",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:55:42.434635"
+    },
+    "1002210": {
+      "appid": 1002210,
+      "name": "孤岛(Isolated Island)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:55:43.097261"
+    },
+    "1002230": {
+      "appid": 1002230,
+      "name": "War of Three Kingdoms",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:55:43.223546"
+    },
+    "1002260": {
+      "appid": 1002260,
+      "name": "Ruffy and the Riverside",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:55:43.353108"
+    },
+    "1002290": {
+      "appid": 1002290,
+      "name": "某1种青春",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:55:43.746346"
     }
   }
 }

@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-06T05:42:42.832342"
+    "updated": "2025-04-06T05:55:44.136763"
   },
   "games": {
     "570": {
@@ -68798,6 +68798,86 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-04-06T05:42:42.830686"
+    },
+    "998740": {
+      "appid": 998740,
+      "name": "苦痛之环 Ring of Pain",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T05:55:25.317285"
+    },
+    "998930": {
+      "appid": 998930,
+      "name": "Seek Girl",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T05:55:26.433775"
+    },
+    "999020": {
+      "appid": 999020,
+      "name": "Mega Man Zero/ZX Legacy Collection",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T05:55:26.857157"
+    },
+    "1000010": {
+      "appid": 1000010,
+      "name": "不思议的皇冠",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T05:55:31.466338"
+    },
+    "1000030": {
+      "appid": 1000030,
+      "name": "Cook, Serve, Delicious! 3?!",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T05:55:31.747886"
+    },
+    "1000080": {
+      "appid": 1000080,
+      "name": "神明在上",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T05:55:32.172175"
+    },
+    "1000360": {
+      "appid": 1000360,
+      "name": "Hellish Quart",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T05:55:33.005794"
+    },
+    "1000470": {
+      "appid": 1000470,
+      "name": "Drawngeon: Dungeons of Ink and Paper",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T05:55:33.695051"
+    },
+    "1000770": {
+      "appid": 1000770,
+      "name": "Urban Tale",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T05:55:35.388426"
+    },
+    "1001980": {
+      "appid": 1001980,
+      "name": "Archeo: Shinar",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T05:55:41.905254"
     }
   }
 }
