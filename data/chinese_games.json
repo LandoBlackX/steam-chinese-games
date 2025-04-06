@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-06T03:37:46.799898"
+    "updated": "2025-04-06T03:54:01.357163"
   },
   "games": {
     "570": {
@@ -85760,6 +85760,390 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-04-06T03:37:46.620447"
+    },
+    "954740": {
+      "appid": 954740,
+      "name": "Terminator: Resistance",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T03:53:35.245881"
+    },
+    "954850": {
+      "appid": 954850,
+      "name": "Kerbal Space Program 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T03:53:35.731728"
+    },
+    "955030": {
+      "appid": 955030,
+      "name": "Metamorph",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T03:53:37.369646"
+    },
+    "955050": {
+      "appid": 955050,
+      "name": "光明记忆",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T03:53:37.511988"
+    },
+    "955070": {
+      "appid": 955070,
+      "name": "Forex Trading Master: Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T03:53:37.769568"
+    },
+    "955120": {
+      "appid": 955120,
+      "name": "SCUOS",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T03:53:38.115999"
+    },
+    "955170": {
+      "appid": 955170,
+      "name": "铁道物语：陆王（Railway Saga:Land King）",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T03:53:38.248969"
+    },
+    "955300": {
+      "appid": 955300,
+      "name": "ShotKill",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T03:53:39.022139"
+    },
+    "955320": {
+      "appid": 955320,
+      "name": "Dark Fantasy: Jigsaw Puzzle",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T03:53:39.163921"
+    },
+    "955400": {
+      "appid": 955400,
+      "name": "束缚之契",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T03:53:39.769764"
+    },
+    "955500": {
+      "appid": 955500,
+      "name": "MagnetoBotty",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T03:53:40.189871"
+    },
+    "955600": {
+      "appid": 955600,
+      "name": "Noble In Exile / 落魄之家",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T03:53:41.093545"
+    },
+    "955740": {
+      "appid": 955740,
+      "name": "Mini Healer",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T03:53:41.858777"
+    },
+    "955870": {
+      "appid": 955870,
+      "name": "战巡大作战",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T03:53:42.599399"
+    },
+    "955890": {
+      "appid": 955890,
+      "name": "War Platform",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T03:53:42.777074"
+    },
+    "955900": {
+      "appid": 955900,
+      "name": "了不起的修仙模拟器",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T03:53:42.921297"
+    },
+    "956010": {
+      "appid": 956010,
+      "name": "Hexanome",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T03:53:43.543877"
+    },
+    "956030": {
+      "appid": 956030,
+      "name": "Creaks",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T03:53:43.681552"
+    },
+    "956140": {
+      "appid": 956140,
+      "name": "Lifeslide",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T03:53:44.182280"
+    },
+    "956360": {
+      "appid": 956360,
+      "name": "Badminton Warrior (羽毛球勇士 中国新年版)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T03:53:45.359668"
+    },
+    "956430": {
+      "appid": 956430,
+      "name": "Steampunk Graveyard",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T03:53:45.879851"
+    },
+    "956580": {
+      "appid": 956580,
+      "name": "9Dragons : Kung Fu Arena",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T03:53:47.126097"
+    },
+    "956680": {
+      "appid": 956680,
+      "name": "M.A.S.S. Builder",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T03:53:47.640845"
+    },
+    "956820": {
+      "appid": 956820,
+      "name": "Antumbra - Vile Shards",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T03:53:47.763508"
+    },
+    "957050": {
+      "appid": 957050,
+      "name": "Ultra Off-Road 2019: Alaska",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T03:53:48.137529"
+    },
+    "957140": {
+      "appid": 957140,
+      "name": "新世勇者传 Newera Heroes' Chronicle",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T03:53:48.662844"
+    },
+    "957150": {
+      "appid": 957150,
+      "name": "冷月清辉照天涯(KUNG FU LEGEND)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T03:53:48.783917"
+    },
+    "957410": {
+      "appid": 957410,
+      "name": "King of Queendoms",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T03:53:49.549034"
+    },
+    "957490": {
+      "appid": 957490,
+      "name": "My Cabin And I",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T03:53:49.927350"
+    },
+    "957660": {
+      "appid": 957660,
+      "name": "喵星总动员 | Catizens",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T03:53:50.310138"
+    },
+    "957710": {
+      "appid": 957710,
+      "name": "The Waylanders",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T03:53:50.573565"
+    },
+    "957960": {
+      "appid": 957960,
+      "name": "Inkulinati 神笔谈兵",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T03:53:52.075014"
+    },
+    "958090": {
+      "appid": 958090,
+      "name": "School of the Dead: Anastasia",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T03:53:52.394763"
+    },
+    "958110": {
+      "appid": 958110,
+      "name": "尸毒来袭 - Zombie Virus Attack",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T03:53:52.523824"
+    },
+    "958130": {
+      "appid": 958130,
+      "name": "NEET simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T03:53:52.647603"
+    },
+    "958280": {
+      "appid": 958280,
+      "name": "宣夜",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T03:53:53.426379"
+    },
+    "958320": {
+      "appid": 958320,
+      "name": "A Front Too Far: Normandy",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T03:53:53.917947"
+    },
+    "958400": {
+      "appid": 958400,
+      "name": "Project CARS 3",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T03:53:54.184401"
+    },
+    "958480": {
+      "appid": 958480,
+      "name": "Seed of the Dead",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T03:53:54.443896"
+    },
+    "958720": {
+      "appid": 958720,
+      "name": "Second Chance",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T03:53:55.686498"
+    },
+    "958900": {
+      "appid": 958900,
+      "name": "BATTLE X Arcade",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T03:53:56.562780"
+    },
+    "959000": {
+      "appid": 959000,
+      "name": "Edna & Harvey: The Breakout - Anniversary Edition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T03:53:57.335285"
+    },
+    "959150": {
+      "appid": 959150,
+      "name": "创造历史：第一次世界大战",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T03:53:58.107741"
+    },
+    "959260": {
+      "appid": 959260,
+      "name": "Aspect",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T03:53:58.861977"
+    },
+    "959340": {
+      "appid": 959340,
+      "name": "Deconstruction Lab",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T03:53:59.115482"
+    },
+    "959410": {
+      "appid": 959410,
+      "name": "The Endless Empty",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T03:53:59.657559"
+    },
+    "959520": {
+      "appid": 959520,
+      "name": "Fantasy Blacksmith",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T03:54:00.029228"
+    },
+    "959800": {
+      "appid": 959800,
+      "name": "TIRELESS: Prepare For The Adrenaline",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T03:54:01.355604"
     }
   }
 }

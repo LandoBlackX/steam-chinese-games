@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-06T03:37:46.799898"
+    "updated": "2025-04-06T03:54:01.357163"
   },
   "games": {
     "570": {
@@ -67894,6 +67894,102 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-06T03:37:45.201299"
+    },
+    "954610": {
+      "appid": 954610,
+      "name": "Onii-chan Asobo",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T03:53:34.482689"
+    },
+    "954650": {
+      "appid": 954650,
+      "name": "Druidstone: The Secret of the Menhir Forest",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T03:53:34.745915"
+    },
+    "954740": {
+      "appid": 954740,
+      "name": "Terminator: Resistance",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T03:53:35.245881"
+    },
+    "955320": {
+      "appid": 955320,
+      "name": "Dark Fantasy: Jigsaw Puzzle",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T03:53:39.163921"
+    },
+    "955560": {
+      "appid": 955560,
+      "name": "Evenicle",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T03:53:40.689227"
+    },
+    "955900": {
+      "appid": 955900,
+      "name": "了不起的修仙模拟器",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T03:53:42.921297"
+    },
+    "956030": {
+      "appid": 956030,
+      "name": "Creaks",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T03:53:43.681552"
+    },
+    "956060": {
+      "appid": 956060,
+      "name": "Mittelborg: City of Mages",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T03:53:43.800554"
+    },
+    "956600": {
+      "appid": 956600,
+      "name": "Magebuster: Amorous Augury",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T03:53:47.387499"
+    },
+    "957960": {
+      "appid": 957960,
+      "name": "Inkulinati 神笔谈兵",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T03:53:52.075014"
+    },
+    "958400": {
+      "appid": 958400,
+      "name": "Project CARS 3",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T03:53:54.184401"
+    },
+    "959520": {
+      "appid": 959520,
+      "name": "Fantasy Blacksmith",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T03:54:00.029228"
     }
   }
 }
