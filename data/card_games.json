@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-06T07:57:16.903677"
+    "updated": "2025-04-06T08:00:37.093511"
   },
   "games": {
     "570": {
@@ -70294,6 +70294,94 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-06T07:57:14.848456"
+    },
+    "1073320": {
+      "appid": 1073320,
+      "name": "星陨传说：流浪者的故事 Meteorfall: Krumit's Tale",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T08:00:14.433985"
+    },
+    "1073810": {
+      "appid": 1073810,
+      "name": "Shapik: The Moon Quest",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T08:00:17.640797"
+    },
+    "1074030": {
+      "appid": 1074030,
+      "name": "Melon Journey: Bittersweet Memories",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T08:00:19.357446"
+    },
+    "1074070": {
+      "appid": 1074070,
+      "name": "尘末(Dust to the End)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T08:00:19.699812"
+    },
+    "1074080": {
+      "appid": 1074080,
+      "name": "SENRAN KAGURA Peach Ball",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T08:00:19.826569"
+    },
+    "1074190": {
+      "appid": 1074190,
+      "name": "龙魂：学院奇闻",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T08:00:20.333790"
+    },
+    "1075200": {
+      "appid": 1075200,
+      "name": "TOHU",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T08:00:25.939653"
+    },
+    "1076750": {
+      "appid": 1076750,
+      "name": "梦幻引擎：游牧城市",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T08:00:31.838256"
+    },
+    "1076920": {
+      "appid": 1076920,
+      "name": "Generals & Rulers",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T08:00:32.473420"
+    },
+    "1077410": {
+      "appid": 1077410,
+      "name": "Hentai Sweet Girls",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T08:00:35.063638"
+    },
+    "1077520": {
+      "appid": 1077520,
+      "name": "The Light Remake",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T08:00:35.897941"
     }
   }
 }
