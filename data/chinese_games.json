@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-06T17:52:29.362659"
+    "updated": "2025-04-06T18:09:14.091119"
   },
   "games": {
     "570": {
@@ -122280,6 +122280,438 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-04-06T17:52:28.897486"
+    },
+    "1309780": {
+      "appid": 1309780,
+      "name": "现代水面作战",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T18:08:40.638950"
+    },
+    "1309820": {
+      "appid": 1309820,
+      "name": "Remains",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T18:08:40.771139"
+    },
+    "1309860": {
+      "appid": 1309860,
+      "name": "Family Mysteries 3: Criminal Mindset",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T18:08:41.072756"
+    },
+    "1309950": {
+      "appid": 1309950,
+      "name": "太阳之子",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T18:08:41.939043"
+    },
+    "1309990": {
+      "appid": 1309990,
+      "name": "生物实验室",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T18:08:42.212870"
+    },
+    "1310210": {
+      "appid": 1310210,
+      "name": "OMICRON: Coronavirus Battlegrounds",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T18:08:43.157293"
+    },
+    "1310350": {
+      "appid": 1310350,
+      "name": "Loco Road",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T18:08:44.031848"
+    },
+    "1310410": {
+      "appid": 1310410,
+      "name": "Alone in the Dark",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T18:08:44.309262"
+    },
+    "1310520": {
+      "appid": 1310520,
+      "name": "Occupy Mars: Prologue (2020)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T18:08:44.989555"
+    },
+    "1310840": {
+      "appid": 1310840,
+      "name": "å¨ç»ï¼Drawingï¼",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T18:08:46.473444"
+    },
+    "1310990": {
+      "appid": 1310990,
+      "name": "美少女万华镜 -理与迷宫的少女-",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T18:08:47.152041"
+    },
+    "1311070": {
+      "appid": 1311070,
+      "name": "格雷克大冒险：阿祖尔的回忆",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T18:08:47.288008"
+    },
+    "1311210": {
+      "appid": 1311210,
+      "name": "Virus Madness - Dungeons of your Body",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T18:08:48.180785"
+    },
+    "1311440": {
+      "appid": 1311440,
+      "name": "看白海豚的好日子 A Perfect Day for White Dolphin",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T18:08:49.421753"
+    },
+    "1311540": {
+      "appid": 1311540,
+      "name": "The Wake: Mourning Father, Mourning Mother",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T18:08:49.849063"
+    },
+    "1311700": {
+      "appid": 1311700,
+      "name": "汉武大帝传-经典策略战棋",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T18:08:51.608135"
+    },
+    "1311780": {
+      "appid": 1311780,
+      "name": "Jackalope",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T18:08:52.325357"
+    },
+    "1311830": {
+      "appid": 1311830,
+      "name": "Music Ball",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T18:08:52.618837"
+    },
+    "1312070": {
+      "appid": 1312070,
+      "name": "Pink Island",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T18:08:53.728968"
+    },
+    "1312210": {
+      "appid": 1312210,
+      "name": "Autumn-Chess",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T18:08:54.457169"
+    },
+    "1312660": {
+      "appid": 1312660,
+      "name": "Be My Mom - maternity simulator, take care of your child",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T18:08:56.590161"
+    },
+    "1312780": {
+      "appid": 1312780,
+      "name": "Rainbow Hills",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T18:08:57.035283"
+    },
+    "1312900": {
+      "appid": 1312900,
+      "name": "深暗森林 Deep Dark Forest",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T18:08:57.297606"
+    },
+    "1312950": {
+      "appid": 1312950,
+      "name": "World End Echo",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T18:08:57.439784"
+    },
+    "1312960": {
+      "appid": 1312960,
+      "name": "特级厨师",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T18:08:57.567921"
+    },
+    "1313090": {
+      "appid": 1313090,
+      "name": "WWII: Rising",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T18:08:57.991618"
+    },
+    "1313140": {
+      "appid": 1313140,
+      "name": "咩咩启示录",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T18:08:58.437822"
+    },
+    "1313230": {
+      "appid": 1313230,
+      "name": "Beautiful Light",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T18:08:58.990212"
+    },
+    "1313310": {
+      "appid": 1313310,
+      "name": "Election Year Knockout",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T18:08:59.329684"
+    },
+    "1313860": {
+      "appid": 1313860,
+      "name": "EA SPORTS™ FIFA 21",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T18:09:01.759341"
+    },
+    "1313870": {
+      "appid": 1313870,
+      "name": "Orc's Civil War",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T18:09:01.879743"
+    },
+    "1313940": {
+      "appid": 1313940,
+      "name": "My Holiday 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T18:09:02.152007"
+    },
+    "1314000": {
+      "appid": 1314000,
+      "name": "Achilles: Legends Untold",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T18:09:02.585824"
+    },
+    "1314010": {
+      "appid": 1314010,
+      "name": "深入敵境 Behind Enemy Line",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T18:09:02.711762"
+    },
+    "1314040": {
+      "appid": 1314040,
+      "name": "Wteruna",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T18:09:02.842711"
+    },
+    "1314160": {
+      "appid": 1314160,
+      "name": "Rover Mechanic Simulator: Training Day",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T18:09:03.289100"
+    },
+    "1314170": {
+      "appid": 1314170,
+      "name": "地牢勇者",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T18:09:03.447297"
+    },
+    "1314500": {
+      "appid": 1314500,
+      "name": "Improbable Soccer",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T18:09:04.739744"
+    },
+    "1314540": {
+      "appid": 1314540,
+      "name": "Feylin",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T18:09:04.864959"
+    },
+    "1314590": {
+      "appid": 1314590,
+      "name": "X-Fitness",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T18:09:04.986250"
+    },
+    "1314630": {
+      "appid": 1314630,
+      "name": "反派千金：母女丼",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T18:09:05.466997"
+    },
+    "1314670": {
+      "appid": 1314670,
+      "name": "Minesweeper X",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T18:09:05.611420"
+    },
+    "1314680": {
+      "appid": 1314680,
+      "name": "Defensive Attacks",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T18:09:05.739282"
+    },
+    "1314770": {
+      "appid": 1314770,
+      "name": "三国：归途",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T18:09:06.013234"
+    },
+    "1315120": {
+      "appid": 1315120,
+      "name": "Field Hospital: Dr. Taylor's Story",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T18:09:07.678481"
+    },
+    "1315130": {
+      "appid": 1315130,
+      "name": "不返",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T18:09:07.882640"
+    },
+    "1315160": {
+      "appid": 1315160,
+      "name": "鸢之歌-Singing Iris",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T18:09:08.037015"
+    },
+    "1315210": {
+      "appid": 1315210,
+      "name": "Ikai",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T18:09:08.780542"
+    },
+    "1315270": {
+      "appid": 1315270,
+      "name": "撒尿战争",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T18:09:11.793724"
+    },
+    "1315360": {
+      "appid": 1315360,
+      "name": "勇闯恶魔岛",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T18:09:12.099363"
+    },
+    "1315410": {
+      "appid": 1315410,
+      "name": "Mini Maker: Make A Thing",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T18:09:12.364355"
+    },
+    "1315610": {
+      "appid": 1315610,
+      "name": "Source of Madness",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T18:09:12.485252"
+    },
+    "1315620": {
+      "appid": 1315620,
+      "name": "飞鸟·海砂",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T18:09:12.669061"
+    },
+    "1315710": {
+      "appid": 1315710,
+      "name": "Move 'n' Bloom",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T18:09:13.670260"
     }
   }
 }

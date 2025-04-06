@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-06T17:52:29.362659"
+    "updated": "2025-04-06T18:09:14.091119"
   },
   "games": {
     "570": {
@@ -75110,6 +75110,78 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-06T17:52:28.592376"
+    },
+    "1309820": {
+      "appid": 1309820,
+      "name": "Remains",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T18:08:40.771139"
+    },
+    "1309860": {
+      "appid": 1309860,
+      "name": "Family Mysteries 3: Criminal Mindset",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T18:08:41.072756"
+    },
+    "1310330": {
+      "appid": 1310330,
+      "name": "Goodbye Volcano High",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T18:08:43.786310"
+    },
+    "1310410": {
+      "appid": 1310410,
+      "name": "Alone in the Dark",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T18:08:44.309262"
+    },
+    "1310910": {
+      "appid": 1310910,
+      "name": "Sexual Void",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T18:08:46.735217"
+    },
+    "1310990": {
+      "appid": 1310990,
+      "name": "美少女万华镜 -理与迷宫的少女-",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T18:08:47.152041"
+    },
+    "1311070": {
+      "appid": 1311070,
+      "name": "格雷克大冒险：阿祖尔的回忆",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T18:08:47.288008"
+    },
+    "1313140": {
+      "appid": 1313140,
+      "name": "咩咩启示录",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T18:08:58.437822"
+    },
+    "1314000": {
+      "appid": 1314000,
+      "name": "Achilles: Legends Untold",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T18:09:02.585824"
     }
   }
 }
