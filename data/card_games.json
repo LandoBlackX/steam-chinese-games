@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-06T16:46:56.058670"
+    "updated": "2025-04-06T16:59:35.058781"
   },
   "games": {
     "570": {
@@ -74830,6 +74830,86 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-04-06T16:46:53.933295"
+    },
+    "1291370": {
+      "appid": 1291370,
+      "name": "Lotion samurai",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T16:59:06.029861"
+    },
+    "1291860": {
+      "appid": 1291860,
+      "name": "粗暴的正义：'84 年 - Rough Justice '84",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T16:59:09.029182"
+    },
+    "1292630": {
+      "appid": 1292630,
+      "name": "3on3 FreeStyle: Rebound",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T16:59:14.324022"
+    },
+    "1293170": {
+      "appid": 1293170,
+      "name": "BZZZT",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T16:59:18.020316"
+    },
+    "1293180": {
+      "appid": 1293180,
+      "name": "SuchArt: 艺术家模拟器",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T16:59:18.167192"
+    },
+    "1293230": {
+      "appid": 1293230,
+      "name": "House of Detention",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T16:59:18.592701"
+    },
+    "1293460": {
+      "appid": 1293460,
+      "name": "诸神灰烬：抉择",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T16:59:20.568065"
+    },
+    "1294810": {
+      "appid": 1294810,
+      "name": "Redfall",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T16:59:29.953338"
+    },
+    "1295270": {
+      "appid": 1295270,
+      "name": "SaGa Frontier Remastered",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T16:59:32.784986"
+    },
+    "1295510": {
+      "appid": 1295510,
+      "name": "勇者斗恶龙XI S 寻觅逝去的时光 - Definitive Edition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T16:59:34.245022"
     }
   }
 }

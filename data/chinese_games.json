@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-06T16:46:56.058670"
+    "updated": "2025-04-06T16:59:35.058781"
   },
   "games": {
     "570": {
@@ -120296,6 +120296,510 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-04-06T16:46:55.852538"
+    },
+    "1290980": {
+      "appid": 1290980,
+      "name": "再来一次",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T16:59:02.036982"
+    },
+    "1291010": {
+      "appid": 1291010,
+      "name": "小兵大战 - Warpips",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T16:59:02.338548"
+    },
+    "1291070": {
+      "appid": 1291070,
+      "name": "GDevelop",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T16:59:03.195046"
+    },
+    "1291140": {
+      "appid": 1291140,
+      "name": "重生 Rebirth",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T16:59:03.835348"
+    },
+    "1291170": {
+      "appid": 1291170,
+      "name": "Terrordrome - Reign of the Legends",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T16:59:04.194029"
+    },
+    "1291210": {
+      "appid": 1291210,
+      "name": "正义执行 Justice.exe",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T16:59:04.370415"
+    },
+    "1291230": {
+      "appid": 1291230,
+      "name": "Heaven vs Hell",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T16:59:04.846402"
+    },
+    "1291250": {
+      "appid": 1291250,
+      "name": "故鄉戰爭 HOMETOWN WAR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T16:59:05.187369"
+    },
+    "1291310": {
+      "appid": 1291310,
+      "name": "MINE",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T16:59:05.607665"
+    },
+    "1291340": {
+      "appid": 1291340,
+      "name": "城镇叠叠乐",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T16:59:05.872253"
+    },
+    "1291660": {
+      "appid": 1291660,
+      "name": "Deeply Dark: Found Footage",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T16:59:07.268968"
+    },
+    "1291670": {
+      "appid": 1291670,
+      "name": "Hentai Girls 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T16:59:07.428418"
+    },
+    "1291810": {
+      "appid": 1291810,
+      "name": "DEANSWAR GAME",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T16:59:08.707358"
+    },
+    "1291860": {
+      "appid": 1291860,
+      "name": "粗暴的正义：'84 年 - Rough Justice '84",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T16:59:09.029182"
+    },
+    "1292040": {
+      "appid": 1292040,
+      "name": "STRIDE",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T16:59:09.826619"
+    },
+    "1292280": {
+      "appid": 1292280,
+      "name": "Hentai beautiful girls 3",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T16:59:12.037010"
+    },
+    "1292500": {
+      "appid": 1292500,
+      "name": "丰饶之岛",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T16:59:13.292591"
+    },
+    "1292510": {
+      "appid": 1292510,
+      "name": "Everstorm: Extraction Royale",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T16:59:13.438331"
+    },
+    "1292560": {
+      "appid": 1292560,
+      "name": "Bikini Alert",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T16:59:13.897579"
+    },
+    "1292630": {
+      "appid": 1292630,
+      "name": "3on3 FreeStyle: Rebound",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T16:59:14.324022"
+    },
+    "1292750": {
+      "appid": 1292750,
+      "name": "狩月—绝望的我与魅魔",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T16:59:15.166994"
+    },
+    "1292760": {
+      "appid": 1292760,
+      "name": "Black Dog Bar",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T16:59:15.304353"
+    },
+    "1292770": {
+      "appid": 1292770,
+      "name": "灰色幻影扳机第7卷",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T16:59:15.510322"
+    },
+    "1292880": {
+      "appid": 1292880,
+      "name": "零号刺客",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T16:59:15.837349"
+    },
+    "1292940": {
+      "appid": 1292940,
+      "name": "Cube Escape Collection",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T16:59:16.296170"
+    },
+    "1292980": {
+      "appid": 1292980,
+      "name": "Professor Lupo: Ocean",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T16:59:16.764376"
+    },
+    "1293040": {
+      "appid": 1293040,
+      "name": "风中之烛",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T16:59:17.088399"
+    },
+    "1293160": {
+      "appid": 1293160,
+      "name": "The Medium",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T16:59:17.839046"
+    },
+    "1293170": {
+      "appid": 1293170,
+      "name": "BZZZT",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T16:59:18.020316"
+    },
+    "1293180": {
+      "appid": 1293180,
+      "name": "SuchArt: 艺术家模拟器",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T16:59:18.167192"
+    },
+    "1293220": {
+      "appid": 1293220,
+      "name": "Kaleidocraft",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T16:59:18.442023"
+    },
+    "1293230": {
+      "appid": 1293230,
+      "name": "House of Detention",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T16:59:18.592701"
+    },
+    "1293250": {
+      "appid": 1293250,
+      "name": "回到2001买房子",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T16:59:18.775148"
+    },
+    "1293300": {
+      "appid": 1293300,
+      "name": "太空战猫",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T16:59:19.254465"
+    },
+    "1293420": {
+      "appid": 1293420,
+      "name": "Roller Drama",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T16:59:19.783655"
+    },
+    "1293440": {
+      "appid": 1293440,
+      "name": "Dark Renaissance",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T16:59:20.250470"
+    },
+    "1293460": {
+      "appid": 1293460,
+      "name": "诸神灰烬：抉择",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T16:59:20.568065"
+    },
+    "1293660": {
+      "appid": 1293660,
+      "name": "Gemini: Binary Conflict",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T16:59:21.877667"
+    },
+    "1293730": {
+      "appid": 1293730,
+      "name": "Broken Pieces",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T16:59:22.327131"
+    },
+    "1293820": {
+      "appid": 1293820,
+      "name": "你和她和她的恋爱。",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T16:59:22.733409"
+    },
+    "1293860": {
+      "appid": 1293860,
+      "name": "The Riftbreaker 银河破裂者：序章",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T16:59:23.063811"
+    },
+    "1293910": {
+      "appid": 1293910,
+      "name": "只读记忆：神经潜入者",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T16:59:23.473566"
+    },
+    "1293920": {
+      "appid": 1293920,
+      "name": "3D Hentai Checkers",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T16:59:23.617906"
+    },
+    "1294060": {
+      "appid": 1294060,
+      "name": "铁道少女:梦想轨迹 2.0 Railway To Dream",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T16:59:25.167865"
+    },
+    "1294110": {
+      "appid": 1294110,
+      "name": "深林",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T16:59:25.315696"
+    },
+    "1294170": {
+      "appid": 1294170,
+      "name": "TCSTRIKERS3",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T16:59:25.866111"
+    },
+    "1294280": {
+      "appid": 1294280,
+      "name": "Game Of Puzzles: Dinosaurs",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T16:59:26.449722"
+    },
+    "1294340": {
+      "appid": 1294340,
+      "name": "Wonhon: A Vengeful Spirit",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T16:59:27.023039"
+    },
+    "1294380": {
+      "appid": 1294380,
+      "name": "魔王：和平缔造者",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T16:59:27.499840"
+    },
+    "1294590": {
+      "appid": 1294590,
+      "name": "洛秋 Fall Autumn",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T16:59:28.105325"
+    },
+    "1294620": {
+      "appid": 1294620,
+      "name": "CrocApoca!! 和鳄鱼少女共度世界末日",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T16:59:28.235578"
+    },
+    "1294720": {
+      "appid": 1294720,
+      "name": "Balloon Blast",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T16:59:28.850312"
+    },
+    "1294760": {
+      "appid": 1294760,
+      "name": "HARD BULLET",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T16:59:29.324827"
+    },
+    "1294810": {
+      "appid": 1294810,
+      "name": "Redfall",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T16:59:29.953338"
+    },
+    "1294880": {
+      "appid": 1294880,
+      "name": "盲目命运：江户之夜 / Blind Fate: Edo No Yami",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T16:59:30.256486"
+    },
+    "1295000": {
+      "appid": 1295000,
+      "name": "The Last Shot",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T16:59:31.141133"
+    },
+    "1295210": {
+      "appid": 1295210,
+      "name": "Snack clearing",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T16:59:31.877393"
+    },
+    "1295230": {
+      "appid": 1295230,
+      "name": "三国志猛将传",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T16:59:32.164836"
+    },
+    "1295320": {
+      "appid": 1295320,
+      "name": "Can of Wormholes",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T16:59:33.198855"
+    },
+    "1295420": {
+      "appid": 1295420,
+      "name": "混沌派对",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T16:59:33.498692"
+    },
+    "1295500": {
+      "appid": 1295500,
+      "name": "战锤40,000：战区",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T16:59:34.092954"
+    },
+    "1295510": {
+      "appid": 1295510,
+      "name": "勇者斗恶龙XI S 寻觅逝去的时光 - Definitive Edition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T16:59:34.245022"
+    },
+    "1295660": {
+      "appid": 1295660,
+      "name": "席德·梅尔的文明VII",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T16:59:34.861374"
     }
   }
 }
