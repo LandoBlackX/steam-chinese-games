@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-06T14:38:38.873799"
+    "updated": "2025-04-06T14:51:44.893244"
   },
   "games": {
     "570": {
@@ -114576,6 +114576,566 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-06T14:38:38.872467"
+    },
+    "1237870": {
+      "appid": 1237870,
+      "name": "Boss Rush: Mythology",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T14:51:09.385542"
+    },
+    "1237890": {
+      "appid": 1237890,
+      "name": "Goomanuvr",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T14:51:09.707397"
+    },
+    "1237950": {
+      "appid": 1237950,
+      "name": "《STAR WARS™ 前线™ II",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T14:51:10.033760"
+    },
+    "1237970": {
+      "appid": 1237970,
+      "name": "Titanfall® 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T14:51:10.230271"
+    },
+    "1237980": {
+      "appid": 1237980,
+      "name": "星际大战 战地风云™ ",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T14:51:10.394937"
+    },
+    "1238130": {
+      "appid": 1238130,
+      "name": "禁忌",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T14:51:11.489983"
+    },
+    "1238190": {
+      "appid": 1238190,
+      "name": "Ant Colony: Wild Forest",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T14:51:11.814862"
+    },
+    "1238330": {
+      "appid": 1238330,
+      "name": "Frontline: Panzer Blitzkrieg!",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T14:51:12.546104"
+    },
+    "1238470": {
+      "appid": 1238470,
+      "name": "加油-与你同在",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T14:51:13.608985"
+    },
+    "1238490": {
+      "appid": 1238490,
+      "name": "MoonRun",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T14:51:13.959546"
+    },
+    "1238520": {
+      "appid": 1238520,
+      "name": "夏空的蒲公英",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T14:51:14.119545"
+    },
+    "1238680": {
+      "appid": 1238680,
+      "name": "巧克甜恋",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T14:51:15.210269"
+    },
+    "1238730": {
+      "appid": 1238730,
+      "name": "Flowers -Le volume sur automne-",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T14:51:15.695520"
+    },
+    "1238780": {
+      "appid": 1238780,
+      "name": "Shark In Aquarium",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T14:51:15.842322"
+    },
+    "1238810": {
+      "appid": 1238810,
+      "name": "《战地风云 5》",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T14:51:16.006149"
+    },
+    "1238820": {
+      "appid": 1238820,
+      "name": "《Battlefield 3™》",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T14:51:16.164960"
+    },
+    "1238840": {
+      "appid": 1238840,
+      "name": "Battlefield™ 1",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T14:51:16.329162"
+    },
+    "1238860": {
+      "appid": 1238860,
+      "name": "《Battlefield 4》™",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T14:51:16.496707"
+    },
+    "1238880": {
+      "appid": 1238880,
+      "name": "《Battlefield™ Hardline》终极版",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T14:51:16.665987"
+    },
+    "1239020": {
+      "appid": 1239020,
+      "name": "TOGETHER BnB",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T14:51:17.854278"
+    },
+    "1239050": {
+      "appid": 1239050,
+      "name": "Mists of Aiden",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T14:51:18.211867"
+    },
+    "1239080": {
+      "appid": 1239080,
+      "name": "破门而入2：北方特遣队",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T14:51:18.366633"
+    },
+    "1239140": {
+      "appid": 1239140,
+      "name": "Cube",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T14:51:18.690098"
+    },
+    "1239260": {
+      "appid": 1239260,
+      "name": "Barro F",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T14:51:19.061145"
+    },
+    "1239300": {
+      "appid": 1239300,
+      "name": "Gravewood High",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T14:51:19.603160"
+    },
+    "1239320": {
+      "appid": 1239320,
+      "name": "动物收容所",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T14:51:19.791604"
+    },
+    "1239580": {
+      "appid": 1239580,
+      "name": "Fap Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T14:51:20.766658"
+    },
+    "1239600": {
+      "appid": 1239600,
+      "name": "Pathseeker",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T14:51:21.075772"
+    },
+    "1239690": {
+      "appid": 1239690,
+      "name": "Retrowave",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T14:51:21.437029"
+    },
+    "1239800": {
+      "appid": 1239800,
+      "name": "Cannon Jump",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T14:51:22.316577"
+    },
+    "1239870": {
+      "appid": 1239870,
+      "name": "Memory Player",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T14:51:22.475689"
+    },
+    "1239930": {
+      "appid": 1239930,
+      "name": "龟行天下：环球音乐游戏",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T14:51:23.051779"
+    },
+    "1239970": {
+      "appid": 1239970,
+      "name": "蛋黄人生",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T14:51:23.640007"
+    },
+    "1239980": {
+      "appid": 1239980,
+      "name": "Luciform",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T14:51:23.796532"
+    },
+    "1240160": {
+      "appid": 1240160,
+      "name": "红楼梦幻战⭐202020",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T14:51:25.571361"
+    },
+    "1240210": {
+      "appid": 1240210,
+      "name": "There Is No Game: Wrong Dimension",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T14:51:25.893585"
+    },
+    "1240240": {
+      "appid": 1240240,
+      "name": "Legendary Knight - 傳奇騎士",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T14:51:26.419955"
+    },
+    "1240270": {
+      "appid": 1240270,
+      "name": "The Botanist",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T14:51:26.592338"
+    },
+    "1240290": {
+      "appid": 1240290,
+      "name": "Infestation: Battle Royale",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T14:51:26.800993"
+    },
+    "1240440": {
+      "appid": 1240440,
+      "name": "Halo Infinite",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T14:51:27.364377"
+    },
+    "1240450": {
+      "appid": 1240450,
+      "name": "Garden Witch Life",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T14:51:27.520123"
+    },
+    "1240460": {
+      "appid": 1240460,
+      "name": "科技狂潮",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T14:51:27.692485"
+    },
+    "1240480": {
+      "appid": 1240480,
+      "name": "花园魔三国",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T14:51:27.992342"
+    },
+    "1240530": {
+      "appid": 1240530,
+      "name": "地牢无双",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T14:51:28.329720"
+    },
+    "1240550": {
+      "appid": 1240550,
+      "name": "Until the Last Plane",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T14:51:28.522790"
+    },
+    "1240590": {
+      "appid": 1240590,
+      "name": "Sir Whoopass™: Immortal Death",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T14:51:28.716858"
+    },
+    "1240610": {
+      "appid": 1240610,
+      "name": "武林鸡侠传",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T14:51:29.165507"
+    },
+    "1240630": {
+      "appid": 1240630,
+      "name": "Hex of Steel",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T14:51:29.594365"
+    },
+    "1240770": {
+      "appid": 1240770,
+      "name": "Scorched Islands",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T14:51:30.297158"
+    },
+    "1240790": {
+      "appid": 1240790,
+      "name": "Legacy of Sin: The Father Sacrifice",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T14:51:30.468419"
+    },
+    "1240840": {
+      "appid": 1240840,
+      "name": "皮影京剧-锁麟囊",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T14:51:30.774948"
+    },
+    "1240910": {
+      "appid": 1240910,
+      "name": "已下架",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T14:51:31.105293"
+    },
+    "1241100": {
+      "appid": 1241100,
+      "name": "POLYGON",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T14:51:31.917768"
+    },
+    "1241180": {
+      "appid": 1241180,
+      "name": "降神战役 -A Story of the usurpers-",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T14:51:32.595199"
+    },
+    "1241370": {
+      "appid": 1241370,
+      "name": "FierceWind Decay",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T14:51:33.075180"
+    },
+    "1241780": {
+      "appid": 1241780,
+      "name": "CatDog Puzzle",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T14:51:36.071795"
+    },
+    "1242670": {
+      "appid": 1242670,
+      "name": "RollingSky",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T14:51:37.208387"
+    },
+    "1242710": {
+      "appid": 1242710,
+      "name": "Simplode Suite",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T14:51:37.430152"
+    },
+    "1242730": {
+      "appid": 1242730,
+      "name": "双子树 TwinTrees",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T14:51:37.620575"
+    },
+    "1242980": {
+      "appid": 1242980,
+      "name": "KeyWe",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T14:51:38.728308"
+    },
+    "1243130": {
+      "appid": 1243130,
+      "name": "Nimbatus - Drone Creator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T14:51:39.968197"
+    },
+    "1243140": {
+      "appid": 1243140,
+      "name": "Hellpoint: The Thespian Feast",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T14:51:40.121619"
+    },
+    "1243160": {
+      "appid": 1243160,
+      "name": "银河捣蛋鬼",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T14:51:40.525689"
+    },
+    "1243200": {
+      "appid": 1243200,
+      "name": "STUFFED",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T14:51:40.698941"
+    },
+    "1243220": {
+      "appid": 1243220,
+      "name": "Picklock",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T14:51:40.895542"
+    },
+    "1243520": {
+      "appid": 1243520,
+      "name": "KUR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T14:51:42.798824"
+    },
+    "1243560": {
+      "appid": 1243560,
+      "name": "蒸汽波世界",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T14:51:43.620580"
+    },
+    "1243580": {
+      "appid": 1243580,
+      "name": "Stalker",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T14:51:43.789654"
+    },
+    "1243690": {
+      "appid": 1243690,
+      "name": "Gods Will Fall",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T14:51:44.526569"
+    },
+    "1243700": {
+      "appid": 1243700,
+      "name": "长安夜明",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T14:51:44.736352"
     }
   }
 }
