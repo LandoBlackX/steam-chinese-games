@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-06T19:55:13.673092"
+    "updated": "2025-04-06T20:22:56.301515"
   },
   "games": {
     "570": {
@@ -75950,6 +75950,62 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-04-06T19:55:04.385067"
+    },
+    "1363840": {
+      "appid": 1363840,
+      "name": "Saviors of Sapphire Wings / Stranger of Sword City Revisited",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T20:22:30.188325"
+    },
+    "1363850": {
+      "appid": 1363850,
+      "name": "不可能",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T20:22:30.350249"
+    },
+    "1364100": {
+      "appid": 1364100,
+      "name": "Lacuna – 黑暗科幻冒险",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T20:22:31.835311"
+    },
+    "1364210": {
+      "appid": 1364210,
+      "name": "City Bus Manager",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T20:22:32.829207"
+    },
+    "1364780": {
+      "appid": 1364780,
+      "name": "Street Fighter 6",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T20:22:37.070899"
+    },
+    "1366810": {
+      "appid": 1366810,
+      "name": "AccrO",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T20:22:48.179843"
+    },
+    "1367300": {
+      "appid": 1367300,
+      "name": "刀锋战神",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T20:22:51.418010"
     }
   }
 }
