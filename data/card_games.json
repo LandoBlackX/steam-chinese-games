@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-06T22:52:35.238261"
+    "updated": "2025-04-06T23:15:27.198180"
   },
   "games": {
     "570": {
@@ -76558,6 +76558,110 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-06T22:52:34.802512"
+    },
+    "1409830": {
+      "appid": 1409830,
+      "name": "英灵殿之子 Sons of Valhalla",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T23:14:56.945695"
+    },
+    "1410360": {
+      "appid": 1410360,
+      "name": "Euclyca",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T23:15:01.019976"
+    },
+    "1410640": {
+      "appid": 1410640,
+      "name": "Syberia: The World Before",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T23:15:03.729050"
+    },
+    "1410710": {
+      "appid": 1410710,
+      "name": "Democracy 4",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T23:15:04.320603"
+    },
+    "1411740": {
+      "appid": 1411740,
+      "name": "城市规划大师",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T23:15:10.805944"
+    },
+    "1413370": {
+      "appid": 1413370,
+      "name": "Power to the People",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T23:15:21.013746"
+    },
+    "1413480": {
+      "appid": 1413480,
+      "name": "真・女神转生III NOCTURNE HD REMASTER",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T23:15:21.440109"
+    },
+    "1413580": {
+      "appid": 1413580,
+      "name": "龙女：烈焰之令",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T23:15:22.214849"
+    },
+    "1413970": {
+      "appid": 1413970,
+      "name": "兽耳少女才不会背叛呢",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T23:15:24.568167"
+    },
+    "1413980": {
+      "appid": 1413980,
+      "name": "魔王的冒险者小镇",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T23:15:24.681420"
+    },
+    "1414000": {
+      "appid": 1414000,
+      "name": "堕落之城莱蒂达亚",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T23:15:24.927656"
+    },
+    "1414180": {
+      "appid": 1414180,
+      "name": "母胎单身",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T23:15:25.972536"
+    },
+    "1414250": {
+      "appid": 1414250,
+      "name": "CORPSE FACTORY",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T23:15:26.444825"
     }
   }
 }

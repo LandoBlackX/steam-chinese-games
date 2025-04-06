@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-06T22:52:35.238261"
+    "updated": "2025-04-06T23:15:27.198180"
   },
   "games": {
     "570": {
@@ -131504,6 +131504,430 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-04-06T22:52:35.096637"
+    },
+    "1409830": {
+      "appid": 1409830,
+      "name": "英灵殿之子 Sons of Valhalla",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T23:14:56.945695"
+    },
+    "1409840": {
+      "appid": 1409840,
+      "name": "阿兹特克：最后的太阳",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T23:14:57.091843"
+    },
+    "1409910": {
+      "appid": 1409910,
+      "name": "Mr. Magic",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T23:14:57.211629"
+    },
+    "1410370": {
+      "appid": 1410370,
+      "name": "非常魔王(Beelzebub)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T23:15:01.150516"
+    },
+    "1410380": {
+      "appid": 1410380,
+      "name": "星尘战区 Stardust Theater",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T23:15:01.349015"
+    },
+    "1410640": {
+      "appid": 1410640,
+      "name": "Syberia: The World Before",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T23:15:03.729050"
+    },
+    "1410700": {
+      "appid": 1410700,
+      "name": "UpWakeNing",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T23:15:04.149772"
+    },
+    "1410710": {
+      "appid": 1410710,
+      "name": "Democracy 4",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T23:15:04.320603"
+    },
+    "1410770": {
+      "appid": 1410770,
+      "name": "五重塔",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T23:15:04.723016"
+    },
+    "1410830": {
+      "appid": 1410830,
+      "name": "Curse That Magic Cat!",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T23:15:05.299482"
+    },
+    "1410840": {
+      "appid": 1410840,
+      "name": "Crystal Call",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T23:15:05.426570"
+    },
+    "1410850": {
+      "appid": 1410850,
+      "name": "Space Smack!",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T23:15:05.557599"
+    },
+    "1410860": {
+      "appid": 1410860,
+      "name": "Puzzle Box Palace",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T23:15:05.690096"
+    },
+    "1410870": {
+      "appid": 1410870,
+      "name": "Trikaya",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T23:15:05.858982"
+    },
+    "1410980": {
+      "appid": 1410980,
+      "name": "卵之键",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T23:15:05.994971"
+    },
+    "1411000": {
+      "appid": 1411000,
+      "name": "Bean Climb",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T23:15:06.385958"
+    },
+    "1411010": {
+      "appid": 1411010,
+      "name": "方舟军团 Ark Legion",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T23:15:06.511122"
+    },
+    "1411020": {
+      "appid": 1411020,
+      "name": "Perennial Order",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T23:15:06.671534"
+    },
+    "1411330": {
+      "appid": 1411330,
+      "name": "谁说奶妈不能拯救世界！",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T23:15:08.070563"
+    },
+    "1411380": {
+      "appid": 1411380,
+      "name": "大洪水的故事",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T23:15:08.547203"
+    },
+    "1411410": {
+      "appid": 1411410,
+      "name": "Paddle Combat",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T23:15:08.910843"
+    },
+    "1411480": {
+      "appid": 1411480,
+      "name": "MicroFactory",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T23:15:09.630974"
+    },
+    "1411660": {
+      "appid": 1411660,
+      "name": "BITROOM",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T23:15:10.284425"
+    },
+    "1411740": {
+      "appid": 1411740,
+      "name": "城市规划大师",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T23:15:10.805944"
+    },
+    "1411920": {
+      "appid": 1411920,
+      "name": "Get Ogre It",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T23:15:12.371416"
+    },
+    "1411970": {
+      "appid": 1411970,
+      "name": "Avian Knights",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T23:15:12.674066"
+    },
+    "1412010": {
+      "appid": 1412010,
+      "name": "Trust Me, Not Her",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T23:15:12.937211"
+    },
+    "1412120": {
+      "appid": 1412120,
+      "name": "闪亮的夏天",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T23:15:13.649770"
+    },
+    "1412170": {
+      "appid": 1412170,
+      "name": "Janosik",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T23:15:13.916847"
+    },
+    "1412260": {
+      "appid": 1412260,
+      "name": "Kombo King",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T23:15:14.709941"
+    },
+    "1412370": {
+      "appid": 1412370,
+      "name": "东方修仙传",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T23:15:14.975525"
+    },
+    "1412390": {
+      "appid": 1412390,
+      "name": "马戏团之夜",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T23:15:15.212864"
+    },
+    "1412420": {
+      "appid": 1412420,
+      "name": "迷雾竞技场 Mist Arena",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T23:15:15.446749"
+    },
+    "1412850": {
+      "appid": 1412850,
+      "name": "Spacelines from the Far Out",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T23:15:17.891730"
+    },
+    "1412960": {
+      "appid": 1412960,
+      "name": "都市丛零",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T23:15:18.679632"
+    },
+    "1413070": {
+      "appid": 1413070,
+      "name": "Hentai! Zombie! Defense!",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T23:15:19.682017"
+    },
+    "1413250": {
+      "appid": 1413250,
+      "name": "Republic of Jungle",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T23:15:20.234077"
+    },
+    "1413310": {
+      "appid": 1413310,
+      "name": "幻刃录",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T23:15:20.755382"
+    },
+    "1413370": {
+      "appid": 1413370,
+      "name": "Power to the People",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T23:15:21.013746"
+    },
+    "1413480": {
+      "appid": 1413480,
+      "name": "真・女神转生III NOCTURNE HD REMASTER",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T23:15:21.440109"
+    },
+    "1413550": {
+      "appid": 1413550,
+      "name": "赛博侦探：艾尔塔特",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T23:15:21.821315"
+    },
+    "1413570": {
+      "appid": 1413570,
+      "name": "十二星座",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T23:15:22.071802"
+    },
+    "1413580": {
+      "appid": 1413580,
+      "name": "龙女：烈焰之令",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T23:15:22.214849"
+    },
+    "1413660": {
+      "appid": 1413660,
+      "name": "Elderand",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T23:15:22.998445"
+    },
+    "1413820": {
+      "appid": 1413820,
+      "name": "Balloon Saga",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T23:15:23.642260"
+    },
+    "1413960": {
+      "appid": 1413960,
+      "name": "Chevalier Historie",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T23:15:24.308846"
+    },
+    "1413970": {
+      "appid": 1413970,
+      "name": "兽耳少女才不会背叛呢",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T23:15:24.568167"
+    },
+    "1413980": {
+      "appid": 1413980,
+      "name": "魔王的冒险者小镇",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T23:15:24.681420"
+    },
+    "1413990": {
+      "appid": 1413990,
+      "name": "黑暗之心",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T23:15:24.803769"
+    },
+    "1414000": {
+      "appid": 1414000,
+      "name": "堕落之城莱蒂达亚",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T23:15:24.927656"
+    },
+    "1414180": {
+      "appid": 1414180,
+      "name": "母胎单身",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T23:15:25.972536"
+    },
+    "1414270": {
+      "appid": 1414270,
+      "name": "Hexdoku",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T23:15:26.565797"
+    },
+    "1414290": {
+      "appid": 1414290,
+      "name": "VR Maze",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T23:15:26.836195"
     }
   }
 }
