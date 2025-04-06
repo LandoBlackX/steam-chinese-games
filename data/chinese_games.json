@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-06T09:40:30.424167"
+    "updated": "2025-04-06T09:53:21.371982"
   },
   "games": {
     "570": {
@@ -101592,6 +101592,438 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-04-06T09:40:30.131512"
+    },
+    "1116770": {
+      "appid": 1116770,
+      "name": "Shovel Knight Showdown",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T09:52:55.235281"
+    },
+    "1116780": {
+      "appid": 1116780,
+      "name": "Shovel Knight: King of Cards",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T09:52:55.505020"
+    },
+    "1116870": {
+      "appid": 1116870,
+      "name": "Duel Girl",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T09:52:56.251655"
+    },
+    "1116880": {
+      "appid": 1116880,
+      "name": "伊格利亚战记",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T09:52:56.422057"
+    },
+    "1117040": {
+      "appid": 1117040,
+      "name": "武道戰姬 - 女僕(武道戦姫 - メイド / Budo Girl War - Maid)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T09:52:57.617322"
+    },
+    "1117090": {
+      "appid": 1117090,
+      "name": "Purple Place - Classic Games",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T09:52:57.736776"
+    },
+    "1117150": {
+      "appid": 1117150,
+      "name": "GarbageClassification",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T09:52:57.992705"
+    },
+    "1117220": {
+      "appid": 1117220,
+      "name": "WizardCraft Colonies",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T09:52:58.531724"
+    },
+    "1117630": {
+      "appid": 1117630,
+      "name": "I got a cat maid",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T09:53:00.635928"
+    },
+    "1117670": {
+      "appid": 1117670,
+      "name": "GONNER2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T09:53:00.995050"
+    },
+    "1117930": {
+      "appid": 1117930,
+      "name": "惊奇剑士",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T09:53:02.344969"
+    },
+    "1118040": {
+      "appid": 1118040,
+      "name": "The Last King Prologue",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T09:53:03.058008"
+    },
+    "1118050": {
+      "appid": 1118050,
+      "name": "Terminal squad: Sentinel",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T09:53:03.189910"
+    },
+    "1118070": {
+      "appid": 1118070,
+      "name": "1976 - Back to midway",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T09:53:03.317208"
+    },
+    "1118100": {
+      "appid": 1118100,
+      "name": "曲阿小将 Minor Leader",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T09:53:03.433673"
+    },
+    "1118110": {
+      "appid": 1118110,
+      "name": "Coal Mining Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T09:53:03.549145"
+    },
+    "1118240": {
+      "appid": 1118240,
+      "name": "Lake",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T09:53:03.908650"
+    },
+    "1118310": {
+      "appid": 1118310,
+      "name": "RetroArch",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T09:53:04.083323"
+    },
+    "1118520": {
+      "appid": 1118520,
+      "name": "Paralives",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T09:53:05.329251"
+    },
+    "1118740": {
+      "appid": 1118740,
+      "name": "残酷乐队生涯",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T09:53:06.881749"
+    },
+    "1118790": {
+      "appid": 1118790,
+      "name": "VQD : Platformer Adventures",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T09:53:07.025990"
+    },
+    "1118820": {
+      "appid": 1118820,
+      "name": "天使般的毁灭者",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T09:53:07.188972"
+    },
+    "1118880": {
+      "appid": 1118880,
+      "name": "Rituals in the Dark",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T09:53:07.821533"
+    },
+    "1119010": {
+      "appid": 1119010,
+      "name": "暴走仙掌人 (Flippin Kaktus)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T09:53:08.643087"
+    },
+    "1119090": {
+      "appid": 1119090,
+      "name": "ISLAND",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T09:53:08.988054"
+    },
+    "1119100": {
+      "appid": 1119100,
+      "name": "Hentai Vampire",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T09:53:09.116497"
+    },
+    "1119630": {
+      "appid": 1119630,
+      "name": "DarkFairyTales SleepingBeauty",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T09:53:10.419691"
+    },
+    "1119640": {
+      "appid": 1119640,
+      "name": "Hentai MatchUp",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T09:53:10.591013"
+    },
+    "1119700": {
+      "appid": 1119700,
+      "name": "四海旅人",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T09:53:10.982979"
+    },
+    "1119730": {
+      "appid": 1119730,
+      "name": "Ranch Simulator: Build, Hunt, Farm",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T09:53:11.239580"
+    },
+    "1119760": {
+      "appid": 1119760,
+      "name": "Rainbow Jigsaw 彩虹拼图",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T09:53:11.500281"
+    },
+    "1119840": {
+      "appid": 1119840,
+      "name": "Sands of Aura",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T09:53:12.420194"
+    },
+    "1119970": {
+      "appid": 1119970,
+      "name": "妖师",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T09:53:12.774708"
+    },
+    "1119980": {
+      "appid": 1119980,
+      "name": "In Sound Mind",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T09:53:12.899540"
+    },
+    "1120050": {
+      "appid": 1120050,
+      "name": "Hyacinthus",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T09:53:13.054795"
+    },
+    "1120210": {
+      "appid": 1120210,
+      "name": "Make War",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T09:53:13.441077"
+    },
+    "1120220": {
+      "appid": 1120220,
+      "name": "Soyuz Constructors",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T09:53:13.579365"
+    },
+    "1120320": {
+      "appid": 1120320,
+      "name": "盖房模拟器",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T09:53:14.141089"
+    },
+    "1120330": {
+      "appid": 1120330,
+      "name": "Sky of Tides",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T09:53:14.283025"
+    },
+    "1120360": {
+      "appid": 1120360,
+      "name": "一个人在家时II",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T09:53:14.536570"
+    },
+    "1120370": {
+      "appid": 1120370,
+      "name": "場外人生",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T09:53:14.662826"
+    },
+    "1120480": {
+      "appid": 1120480,
+      "name": "The Anacrusis",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T09:53:15.362847"
+    },
+    "1120560": {
+      "appid": 1120560,
+      "name": "Sense - 不祥的预感: A Cyberpunk Ghost Story",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T09:53:15.491821"
+    },
+    "1120790": {
+      "appid": 1120790,
+      "name": "军团战争：罗马",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T09:53:16.694282"
+    },
+    "1120810": {
+      "appid": 1120810,
+      "name": "斩妖行",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T09:53:16.924418"
+    },
+    "1120900": {
+      "appid": 1120900,
+      "name": "Hoodo",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T09:53:17.387826"
+    },
+    "1120920": {
+      "appid": 1120920,
+      "name": "ELON on MARS",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T09:53:17.522305"
+    },
+    "1120940": {
+      "appid": 1120940,
+      "name": "Forgotten Passages",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T09:53:17.628467"
+    },
+    "1120950": {
+      "appid": 1120950,
+      "name": "Chameleon Run Deluxe Edition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T09:53:17.757599"
+    },
+    "1121220": {
+      "appid": 1121220,
+      "name": "Seas of Fortune",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T09:53:19.377188"
+    },
+    "1121230": {
+      "appid": 1121230,
+      "name": "Bomb Bowling",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T09:53:19.526666"
+    },
+    "1121320": {
+      "appid": 1121320,
+      "name": "Chains of Fury",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T09:53:20.318740"
+    },
+    "1121420": {
+      "appid": 1121420,
+      "name": "Kingdom Under Fire: The Crusaders",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T09:53:20.696453"
+    },
+    "1121530": {
+      "appid": 1121530,
+      "name": "Globesweeper: Hex Puzzler",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T09:53:21.215769"
     }
   }
 }

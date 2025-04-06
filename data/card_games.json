@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-06T09:40:30.424167"
+    "updated": "2025-04-06T09:53:21.371982"
   },
   "games": {
     "570": {
@@ -71086,6 +71086,86 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-06T09:40:29.962796"
+    },
+    "1116780": {
+      "appid": 1116780,
+      "name": "Shovel Knight: King of Cards",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T09:52:55.505020"
+    },
+    "1117380": {
+      "appid": 1117380,
+      "name": "Project Cappuccino",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T09:52:59.437000"
+    },
+    "1117630": {
+      "appid": 1117630,
+      "name": "I got a cat maid",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T09:53:00.635928"
+    },
+    "1118200": {
+      "appid": 1118200,
+      "name": "People Playground",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T09:53:03.662236"
+    },
+    "1118880": {
+      "appid": 1118880,
+      "name": "Rituals in the Dark",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T09:53:07.821533"
+    },
+    "1119600": {
+      "appid": 1119600,
+      "name": "Help Will Come Tomorrow",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T09:53:10.179092"
+    },
+    "1119980": {
+      "appid": 1119980,
+      "name": "In Sound Mind",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T09:53:12.899540"
+    },
+    "1120480": {
+      "appid": 1120480,
+      "name": "The Anacrusis",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T09:53:15.362847"
+    },
+    "1120810": {
+      "appid": 1120810,
+      "name": "斩妖行",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T09:53:16.924418"
+    },
+    "1121300": {
+      "appid": 1121300,
+      "name": "Mizuchi 白蛇心傳",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T09:53:20.037148"
     }
   }
 }
