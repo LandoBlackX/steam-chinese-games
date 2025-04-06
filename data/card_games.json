@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-06T05:12:51.519278"
+    "updated": "2025-04-06T05:23:02.846486"
   },
   "games": {
     "570": {
@@ -68502,6 +68502,94 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-06T05:12:50.487606"
+    },
+    "981020": {
+      "appid": 981020,
+      "name": "Clea",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T05:22:39.719459"
+    },
+    "981750": {
+      "appid": 981750,
+      "name": "Crystar",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T05:22:43.908011"
+    },
+    "981770": {
+      "appid": 981770,
+      "name": "SENRAN KAGURA Reflexions",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T05:22:44.040025"
+    },
+    "981890": {
+      "appid": 981890,
+      "name": "2020东京奥运 官方授权游戏",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T05:22:44.664753"
+    },
+    "982270": {
+      "appid": 982270,
+      "name": "Dealer's Life",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T05:22:46.764766"
+    },
+    "982290": {
+      "appid": 982290,
+      "name": "Airborne Kingdom",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T05:22:46.875722"
+    },
+    "983150": {
+      "appid": 983150,
+      "name": "樱之杜†净梦者 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T05:22:51.688038"
+    },
+    "983380": {
+      "appid": 983380,
+      "name": "Car Manufacture",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T05:22:53.476117"
+    },
+    "984560": {
+      "appid": 984560,
+      "name": "HEARTBEAT",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T05:22:58.072169"
+    },
+    "984800": {
+      "appid": 984800,
+      "name": "Automachef",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T05:22:59.228320"
+    },
+    "985080": {
+      "appid": 985080,
+      "name": "食用系少女 Food Girls",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T05:23:00.951509"
     }
   }
 }

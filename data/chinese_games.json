@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-06T05:12:51.519278"
+    "updated": "2025-04-06T05:23:02.846486"
   },
   "games": {
     "570": {
@@ -88136,6 +88136,414 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-06T05:12:50.487606"
+    },
+    "980630": {
+      "appid": 980630,
+      "name": "Mission Evilguy",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:22:37.320939"
+    },
+    "980640": {
+      "appid": 980640,
+      "name": "Empire of Ember",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:22:37.602411"
+    },
+    "980760": {
+      "appid": 980760,
+      "name": "GoodColor",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:22:38.188369"
+    },
+    "980880": {
+      "appid": 980880,
+      "name": "Twinfold",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:22:39.032528"
+    },
+    "981020": {
+      "appid": 981020,
+      "name": "Clea",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T05:22:39.719459"
+    },
+    "981090": {
+      "appid": 981090,
+      "name": "Outbreak Story",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:22:40.316809"
+    },
+    "981130": {
+      "appid": 981130,
+      "name": "Lucky Skiing",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:22:40.704330"
+    },
+    "981260": {
+      "appid": 981260,
+      "name": "Love In Drawing",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:22:41.051798"
+    },
+    "981270": {
+      "appid": 981270,
+      "name": "Runa's School Story",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:22:41.173398"
+    },
+    "981430": {
+      "appid": 981430,
+      "name": "高殿战记",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:22:42.112520"
+    },
+    "981450": {
+      "appid": 981450,
+      "name": "GeminiArms",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:22:42.338319"
+    },
+    "981600": {
+      "appid": 981600,
+      "name": "Eternium",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:22:43.102353"
+    },
+    "981750": {
+      "appid": 981750,
+      "name": "Crystar",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T05:22:43.908011"
+    },
+    "981770": {
+      "appid": 981770,
+      "name": "SENRAN KAGURA Reflexions",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T05:22:44.040025"
+    },
+    "981790": {
+      "appid": 981790,
+      "name": "Halloween Girl",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:22:44.162026"
+    },
+    "981890": {
+      "appid": 981890,
+      "name": "2020东京奥运 官方授权游戏",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T05:22:44.664753"
+    },
+    "981990": {
+      "appid": 981990,
+      "name": "Don't Shoot Rabbit / 不要射中兔子",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:22:45.268778"
+    },
+    "982290": {
+      "appid": 982290,
+      "name": "Airborne Kingdom",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T05:22:46.875722"
+    },
+    "982300": {
+      "appid": 982300,
+      "name": "商店传说",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:22:46.985584"
+    },
+    "982350": {
+      "appid": 982350,
+      "name": "狂热恋情",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:22:47.230571"
+    },
+    "982380": {
+      "appid": 982380,
+      "name": "Gods and Kings",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:22:47.476696"
+    },
+    "982400": {
+      "appid": 982400,
+      "name": "赫炎的印加诺克 Fullvoice ReBORN",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:22:47.704476"
+    },
+    "982540": {
+      "appid": 982540,
+      "name": "Hyss",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:22:48.461276"
+    },
+    "982580": {
+      "appid": 982580,
+      "name": "女巫与六便士 the sibyl and sixpence",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:22:48.599310"
+    },
+    "982670": {
+      "appid": 982670,
+      "name": "Clan N",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:22:48.747916"
+    },
+    "982720": {
+      "appid": 982720,
+      "name": "Paradise Lost",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:22:49.363411"
+    },
+    "982850": {
+      "appid": 982850,
+      "name": "Tess Elated",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:22:50.235010"
+    },
+    "983040": {
+      "appid": 983040,
+      "name": "Koboomballs",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:22:50.767024"
+    },
+    "983050": {
+      "appid": 983050,
+      "name": "Sticky Apps :: Monitor Ping",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:22:50.896984"
+    },
+    "983150": {
+      "appid": 983150,
+      "name": "樱之杜†净梦者 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T05:22:51.688038"
+    },
+    "983170": {
+      "appid": 983170,
+      "name": "Infinite Chili Sauce  无尽的辣酱",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:22:52.165913"
+    },
+    "983280": {
+      "appid": 983280,
+      "name": "Chocolate makes you happy: New Year",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:22:52.637445"
+    },
+    "983330": {
+      "appid": 983330,
+      "name": "Colourful Maze",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:22:52.982411"
+    },
+    "983350": {
+      "appid": 983350,
+      "name": "Sea Salt",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:22:53.259324"
+    },
+    "983380": {
+      "appid": 983380,
+      "name": "Car Manufacture",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T05:22:53.476117"
+    },
+    "983780": {
+      "appid": 983780,
+      "name": "XSprite",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:22:54.635302"
+    },
+    "983820": {
+      "appid": 983820,
+      "name": "RainWidget",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:22:54.862589"
+    },
+    "983870": {
+      "appid": 983870,
+      "name": "FOUNDRY",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:22:55.188746"
+    },
+    "983920": {
+      "appid": 983920,
+      "name": "Space Takeover",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:22:55.399858"
+    },
+    "983970": {
+      "appid": 983970,
+      "name": "Haven",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:22:55.510378"
+    },
+    "983980": {
+      "appid": 983980,
+      "name": "Euclidean Skies",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:22:55.625268"
+    },
+    "984110": {
+      "appid": 984110,
+      "name": "SYNTHETIK: Arena",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:22:56.418375"
+    },
+    "984470": {
+      "appid": 984470,
+      "name": "Big Dipper",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:22:57.502870"
+    },
+    "984720": {
+      "appid": 984720,
+      "name": "Hentai Summer",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:22:58.743348"
+    },
+    "984790": {
+      "appid": 984790,
+      "name": "It'sRoachTime!",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:22:59.096245"
+    },
+    "984800": {
+      "appid": 984800,
+      "name": "Automachef",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T05:22:59.228320"
+    },
+    "985020": {
+      "appid": 985020,
+      "name": "Three Kingdoms：Ancient battlefield | 三国古战略",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:23:00.555538"
+    },
+    "985080": {
+      "appid": 985080,
+      "name": "食用系少女 Food Girls",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T05:23:00.951509"
+    },
+    "985260": {
+      "appid": 985260,
+      "name": "The Morrigan",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:23:01.491557"
+    },
+    "985400": {
+      "appid": 985400,
+      "name": "玛蕾与黑海迷宫",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:23:01.995221"
+    },
+    "985430": {
+      "appid": 985430,
+      "name": "灾难实验室",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:23:02.255686"
     }
   }
 }
