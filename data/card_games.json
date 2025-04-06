@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-06T10:19:18.470376"
+    "updated": "2025-04-06T10:21:44.218202"
   },
   "games": {
     "570": {
@@ -71422,6 +71422,62 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-06T10:19:17.380720"
+    },
+    "1131410": {
+      "appid": 1131410,
+      "name": "Sable's Grimoire: Man And Elf",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T10:21:13.717750"
+    },
+    "1132180": {
+      "appid": 1132180,
+      "name": "Persephone",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T10:21:21.416687"
+    },
+    "1132970": {
+      "appid": 1132970,
+      "name": "Time To Stop Time",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T10:21:27.476640"
+    },
+    "1133060": {
+      "appid": 1133060,
+      "name": "Anarchy: Wolf's law",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T10:21:28.494160"
+    },
+    "1133770": {
+      "appid": 1133770,
+      "name": "巫婆万圣节",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T10:21:33.769618"
+    },
+    "1133930": {
+      "appid": 1133930,
+      "name": "Forgotten Hill Disillusion",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T10:21:34.715067"
+    },
+    "1134700": {
+      "appid": 1134700,
+      "name": "荒野之地2: 新大陆 / Wild Terra 2: New Lands",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T10:21:40.508221"
     }
   }
 }
