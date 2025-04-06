@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-06T20:51:43.705820"
+    "updated": "2025-04-06T21:13:31.583881"
   },
   "games": {
     "570": {
@@ -76118,6 +76118,62 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-06T20:51:35.411889"
+    },
+    "1376760": {
+      "appid": 1376760,
+      "name": "Life of Delta 小丁历险记",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T21:13:03.932997"
+    },
+    "1377360": {
+      "appid": 1377360,
+      "name": "Vampires' Melody",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T21:13:08.560067"
+    },
+    "1378070": {
+      "appid": 1378070,
+      "name": "Drawn to Life: Two Realms - 描绘生命：双界",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T21:13:12.911927"
+    },
+    "1378890": {
+      "appid": 1378890,
+      "name": "Indoorlands",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T21:13:18.263248"
+    },
+    "1379870": {
+      "appid": 1379870,
+      "name": "Tribal Hunter",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T21:13:22.625884"
+    },
+    "1380220": {
+      "appid": 1380220,
+      "name": "星辰沙海",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T21:13:24.934371"
+    },
+    "1380410": {
+      "appid": 1380410,
+      "name": "Puzzle Quest 3",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T21:13:26.658284"
     }
   }
 }

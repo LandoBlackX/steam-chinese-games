@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-06T20:51:43.705820"
+    "updated": "2025-04-06T21:13:31.583881"
   },
   "games": {
     "570": {
@@ -128304,6 +128304,478 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-04-06T20:51:42.927672"
+    },
+    "1376630": {
+      "appid": 1376630,
+      "name": "SecretMission_ProduceForPresident",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:13:03.117629"
+    },
+    "1376690": {
+      "appid": 1376690,
+      "name": "蜀山幻剑录 Sword of Shushan",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:13:03.532124"
+    },
+    "1376760": {
+      "appid": 1376760,
+      "name": "Life of Delta 小丁历险记",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T21:13:03.932997"
+    },
+    "1376870": {
+      "appid": 1376870,
+      "name": "Realm of Alters",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:13:04.906879"
+    },
+    "1376880": {
+      "appid": 1376880,
+      "name": "Ultimate Hunting®",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:13:05.025002"
+    },
+    "1376910": {
+      "appid": 1376910,
+      "name": "超级猫猫哥",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:13:05.374641"
+    },
+    "1376950": {
+      "appid": 1376950,
+      "name": "Fantasy Friends",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:13:05.773264"
+    },
+    "1377150": {
+      "appid": 1377150,
+      "name": "Operation: Tango - Friend Pass",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:13:07.161283"
+    },
+    "1377360": {
+      "appid": 1377360,
+      "name": "Vampires' Melody",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T21:13:08.560067"
+    },
+    "1377380": {
+      "appid": 1377380,
+      "name": "Night of the Dead",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:13:08.845352"
+    },
+    "1377430": {
+      "appid": 1377430,
+      "name": "剑之梦语",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:13:09.352078"
+    },
+    "1377450": {
+      "appid": 1377450,
+      "name": "圣歌德嘉的晚钟",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:13:09.472309"
+    },
+    "1377540": {
+      "appid": 1377540,
+      "name": "维京之路",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:13:09.593998"
+    },
+    "1377550": {
+      "appid": 1377550,
+      "name": "~在魔界当女仆~恶魔天使与勇者的秘密喫茶店",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:13:09.715747"
+    },
+    "1377580": {
+      "appid": 1377580,
+      "name": "Soulworker (灵魂行者)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:13:10.099661"
+    },
+    "1377700": {
+      "appid": 1377700,
+      "name": "Empyreal",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:13:10.838375"
+    },
+    "1378020": {
+      "appid": 1378020,
+      "name": "马拉维拉岛的奇禽异兽 / Beasts of Maravilla Island",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:13:12.513246"
+    },
+    "1378040": {
+      "appid": 1378040,
+      "name": "魔导士蒂亚与不可思议的大图书馆",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:13:12.631025"
+    },
+    "1378070": {
+      "appid": 1378070,
+      "name": "Drawn to Life: Two Realms - 描绘生命：双界",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T21:13:12.911927"
+    },
+    "1378100": {
+      "appid": 1378100,
+      "name": "Treasures of the Roman Empire",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:13:13.196410"
+    },
+    "1378180": {
+      "appid": 1378180,
+      "name": "《恶灵的诅咒：鬼宅轶事》",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:13:13.461757"
+    },
+    "1378200": {
+      "appid": 1378200,
+      "name": "Rooftop Renegade",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:13:13.593219"
+    },
+    "1378250": {
+      "appid": 1378250,
+      "name": "Px Art",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:13:13.753326"
+    },
+    "1378320": {
+      "appid": 1378320,
+      "name": "Killstreak",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:13:14.540732"
+    },
+    "1378330": {
+      "appid": 1378330,
+      "name": "Speedgunner Ultra",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:13:14.679847"
+    },
+    "1378350": {
+      "appid": 1378350,
+      "name": "《Drifting : Weight of Feathers》",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:13:14.810233"
+    },
+    "1378370": {
+      "appid": 1378370,
+      "name": "Fallen Knight",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:13:15.230997"
+    },
+    "1378390": {
+      "appid": 1378390,
+      "name": "Endurance - space action",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:13:15.757177"
+    },
+    "1378500": {
+      "appid": 1378500,
+      "name": "Knights of Legends",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:13:16.133979"
+    },
+    "1378570": {
+      "appid": 1378570,
+      "name": "Crazy Music Tennis",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:13:16.258162"
+    },
+    "1378690": {
+      "appid": 1378690,
+      "name": "Combat Cobras",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:13:16.766410"
+    },
+    "1378800": {
+      "appid": 1378800,
+      "name": "劲爆51飞行队（Squad 51 vs. the Flying Saucers）",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:13:17.471322"
+    },
+    "1378890": {
+      "appid": 1378890,
+      "name": "Indoorlands",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T21:13:18.263248"
+    },
+    "1379040": {
+      "appid": 1379040,
+      "name": "Pixel Ninja",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:13:18.786149"
+    },
+    "1379110": {
+      "appid": 1379110,
+      "name": "Anime Feet",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:13:19.082110"
+    },
+    "1379130": {
+      "appid": 1379130,
+      "name": "League of Angels-Heaven's Fury",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:13:19.299990"
+    },
+    "1379150": {
+      "appid": 1379150,
+      "name": "Kebab House",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:13:19.442088"
+    },
+    "1379450": {
+      "appid": 1379450,
+      "name": "Turtle vs. Portal",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:13:20.661649"
+    },
+    "1379600": {
+      "appid": 1379600,
+      "name": "Pandemic Train",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:13:21.679837"
+    },
+    "1379680": {
+      "appid": 1379680,
+      "name": "PoliPlanet",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:13:22.340379"
+    },
+    "1379830": {
+      "appid": 1379830,
+      "name": "Cyber Crush 2069",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:13:22.461848"
+    },
+    "1379870": {
+      "appid": 1379870,
+      "name": "Tribal Hunter",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T21:13:22.625884"
+    },
+    "1379900": {
+      "appid": 1379900,
+      "name": "四国志 ～酒池肉面战记～",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:13:22.881592"
+    },
+    "1379930": {
+      "appid": 1379930,
+      "name": "Power & Revolution 2020 Edition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:13:23.034830"
+    },
+    "1379940": {
+      "appid": 1379940,
+      "name": "Dinky Dungeon",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:13:23.151795"
+    },
+    "1379960": {
+      "appid": 1379960,
+      "name": "网格之力 - 女神的面具",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:13:23.349488"
+    },
+    "1380060": {
+      "appid": 1380060,
+      "name": "Urban Trial Tricky™ Deluxe Edition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:13:23.878364"
+    },
+    "1380070": {
+      "appid": 1380070,
+      "name": "Slaves of Rome",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:13:24.004493"
+    },
+    "1380200": {
+      "appid": 1380200,
+      "name": "chemistris",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:13:24.799449"
+    },
+    "1380220": {
+      "appid": 1380220,
+      "name": "星辰沙海",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T21:13:24.934371"
+    },
+    "1380230": {
+      "appid": 1380230,
+      "name": "Monocity",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:13:25.049621"
+    },
+    "1380410": {
+      "appid": 1380410,
+      "name": "Puzzle Quest 3",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T21:13:26.658284"
+    },
+    "1380420": {
+      "appid": 1380420,
+      "name": "成长物语：永恒树之歌 / Grow: Song of the Evertree",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:13:26.794118"
+    },
+    "1380650": {
+      "appid": 1380650,
+      "name": "Draft of Darkness",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:13:28.183678"
+    },
+    "1380840": {
+      "appid": 1380840,
+      "name": "August of August",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:13:29.614337"
+    },
+    "1380890": {
+      "appid": 1380890,
+      "name": "方块给爷爬",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:13:30.129781"
+    },
+    "1380910": {
+      "appid": 1380910,
+      "name": "Stardeus",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:13:30.444349"
+    },
+    "1380970": {
+      "appid": 1380970,
+      "name": "Sklime - A Difficult Climbing Adventure",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:13:30.695853"
+    },
+    "1381200": {
+      "appid": 1381200,
+      "name": "Anime Desktop Girls",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:13:31.582679"
     }
   }
 }
