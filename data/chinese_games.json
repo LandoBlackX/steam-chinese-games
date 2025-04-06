@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-06T06:02:37.574956"
+    "updated": "2025-04-06T06:17:18.739016"
   },
   "games": {
     "570": {
@@ -90696,6 +90696,374 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-06T06:02:36.376433"
+    },
+    "1007350": {
+      "appid": 1007350,
+      "name": "Mirror Maker",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T06:16:54.845142"
+    },
+    "1007400": {
+      "appid": 1007400,
+      "name": "Alien Shooter 2- 传奇",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T06:16:55.438487"
+    },
+    "1007430": {
+      "appid": 1007430,
+      "name": "SixCubes",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T06:16:55.686618"
+    },
+    "1007490": {
+      "appid": 1007490,
+      "name": "Gladiator: Blades of Fury",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T06:16:56.075492"
+    },
+    "1007740": {
+      "appid": 1007740,
+      "name": "Refight:The Last Warship",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T06:16:56.791083"
+    },
+    "1007800": {
+      "appid": 1007800,
+      "name": "单身日记：新鲜人篇",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T06:16:57.091865"
+    },
+    "1007810": {
+      "appid": 1007810,
+      "name": "重明鸟 Bright Bird",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T06:16:57.248292"
+    },
+    "1007840": {
+      "appid": 1007840,
+      "name": "Wanking Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T06:16:57.696336"
+    },
+    "1007870": {
+      "appid": 1007870,
+      "name": "B画少说",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T06:16:57.798142"
+    },
+    "1007880": {
+      "appid": 1007880,
+      "name": "I am Ball",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T06:16:57.911039"
+    },
+    "1007930": {
+      "appid": 1007930,
+      "name": "Space Digger",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T06:16:58.176187"
+    },
+    "1007980": {
+      "appid": 1007980,
+      "name": "Santa in search of toys",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T06:16:58.821664"
+    },
+    "1008060": {
+      "appid": 1008060,
+      "name": "The HARDEST BrickBreaker",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T06:16:59.491920"
+    },
+    "1008250": {
+      "appid": 1008250,
+      "name": "ProMV-Music-Video-Maker",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T06:17:00.510689"
+    },
+    "1008340": {
+      "appid": 1008340,
+      "name": "Insect Worlds",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T06:17:00.972093"
+    },
+    "1008510": {
+      "appid": 1008510,
+      "name": "Who Is This Man",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T06:17:01.603799"
+    },
+    "1008520": {
+      "appid": 1008520,
+      "name": "Mahjong Strip Solitaire: Harem Guild",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T06:17:01.724331"
+    },
+    "1008710": {
+      "appid": 1008710,
+      "name": "Wet Girl",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T06:17:02.716965"
+    },
+    "1008830": {
+      "appid": 1008830,
+      "name": "孙悟空大战机器金刚 / Sun Wukong VS Robot",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T06:17:03.294189"
+    },
+    "1008850": {
+      "appid": 1008850,
+      "name": "Bounty Hunter",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T06:17:03.431808"
+    },
+    "1008910": {
+      "appid": 1008910,
+      "name": "心塞男孩 Sadboy",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T06:17:03.870887"
+    },
+    "1008920": {
+      "appid": 1008920,
+      "name": "Photographs",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T06:17:03.975470"
+    },
+    "1009040": {
+      "appid": 1009040,
+      "name": "Last Days Motel",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T06:17:04.601916"
+    },
+    "1009180": {
+      "appid": 1009180,
+      "name": "Block of Rum",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T06:17:04.931501"
+    },
+    "1009190": {
+      "appid": 1009190,
+      "name": "燃烧的彩虹：绣球和你都会接住之姐姐中了老龄化病毒，  而看起来天然糊涂蛋的妹妹该如何对决拥有专属BGM的『ShiTi·孙咲川』＆『TanKe·桥碧萝』＆『人间毒药·菜菜子』  ★还有人支持艺术吗★   Burning Rainbow！",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T06:17:05.032581"
+    },
+    "1009200": {
+      "appid": 1009200,
+      "name": "💥Tanks on the Eastern Front💥",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T06:17:05.129169"
+    },
+    "1009290": {
+      "appid": 1009290,
+      "name": "刀剑神域 彼岸游境",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T06:17:05.695813"
+    },
+    "1009560": {
+      "appid": 1009560,
+      "name": "The Tenants",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T06:17:06.906616"
+    },
+    "1009950": {
+      "appid": 1009950,
+      "name": "Once10",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T06:17:08.972957"
+    },
+    "1009990": {
+      "appid": 1009990,
+      "name": "SCP022",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T06:17:09.186722"
+    },
+    "1010230": {
+      "appid": 1010230,
+      "name": "Bleep Bloop",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T06:17:10.048227"
+    },
+    "1010480": {
+      "appid": 1010480,
+      "name": "TRE HUN: Unity-Chan x Action",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T06:17:11.332743"
+    },
+    "1010490": {
+      "appid": 1010490,
+      "name": "Spot Girls Difference",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T06:17:11.438565"
+    },
+    "1010540": {
+      "appid": 1010540,
+      "name": "Ancient Anathema",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T06:17:11.679603"
+    },
+    "1010560": {
+      "appid": 1010560,
+      "name": "Here I Come",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T06:17:11.787193"
+    },
+    "1010600": {
+      "appid": 1010600,
+      "name": "The Princess, the Stray Cat, and Matters of the Heart",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T06:17:12.020957"
+    },
+    "1010800": {
+      "appid": 1010800,
+      "name": "Wallpaper Maker （造物主视频桌面）",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T06:17:12.996644"
+    },
+    "1010860": {
+      "appid": 1010860,
+      "name": "Hide and Seek",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T06:17:13.515041"
+    },
+    "1010870": {
+      "appid": 1010870,
+      "name": "最后的47小时 - The Last 47 Hours",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T06:17:13.638178"
+    },
+    "1010890": {
+      "appid": 1010890,
+      "name": "Touhou Fantasia / 东方梦想曲",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T06:17:13.749901"
+    },
+    "1011030": {
+      "appid": 1011030,
+      "name": "HENTAI MINESWEEPER",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T06:17:14.711764"
+    },
+    "1011190": {
+      "appid": 1011190,
+      "name": "SIMULACRA 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T06:17:15.508218"
+    },
+    "1011270": {
+      "appid": 1011270,
+      "name": "Bleeding Hunt VR Chap.1",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T06:17:15.998005"
+    },
+    "1011370": {
+      "appid": 1011370,
+      "name": "Outliver: Redemption",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T06:17:16.555913"
+    },
+    "1011590": {
+      "appid": 1011590,
+      "name": "Night is Coming",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T06:17:17.565151"
+    },
+    "1011670": {
+      "appid": 1011670,
+      "name": "Totally Reliable Delivery Service",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T06:17:18.274820"
     }
   }
 }

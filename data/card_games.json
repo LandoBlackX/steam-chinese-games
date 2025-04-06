@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-06T06:02:37.574956"
+    "updated": "2025-04-06T06:17:18.739016"
   },
   "games": {
     "570": {
@@ -68974,6 +68974,70 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-06T06:02:36.376433"
+    },
+    "1007350": {
+      "appid": 1007350,
+      "name": "Mirror Maker",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T06:16:54.845142"
+    },
+    "1007400": {
+      "appid": 1007400,
+      "name": "Alien Shooter 2- 传奇",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T06:16:55.438487"
+    },
+    "1008710": {
+      "appid": 1008710,
+      "name": "Wet Girl",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T06:17:02.716965"
+    },
+    "1009450": {
+      "appid": 1009450,
+      "name": "Sankaku Renai: Love Triangle Trouble",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T06:17:06.683036"
+    },
+    "1009560": {
+      "appid": 1009560,
+      "name": "The Tenants",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T06:17:06.906616"
+    },
+    "1010600": {
+      "appid": 1010600,
+      "name": "The Princess, the Stray Cat, and Matters of the Heart",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T06:17:12.020957"
+    },
+    "1011070": {
+      "appid": 1011070,
+      "name": "Nomads of the Fallen Star",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T06:17:14.843301"
+    },
+    "1011420": {
+      "appid": 1011420,
+      "name": "Bus Mechanic Simulator",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T06:17:16.793876"
     }
   }
 }
