@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-06T16:01:28.327252"
+    "updated": "2025-04-06T16:29:02.542978"
   },
   "games": {
     "570": {
@@ -119240,6 +119240,526 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-04-06T16:01:28.325810"
+    },
+    "1282100": {
+      "appid": 1282100,
+      "name": "遗迹2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T16:28:32.726648"
+    },
+    "1282150": {
+      "appid": 1282150,
+      "name": "海绵宝宝 : The Cosmic Shake",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T16:28:33.407985"
+    },
+    "1282180": {
+      "appid": 1282180,
+      "name": "Drawing Machine",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T16:28:33.665431"
+    },
+    "1282210": {
+      "appid": 1282210,
+      "name": "DEEMO -Reborn-",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T16:28:34.260804"
+    },
+    "1282240": {
+      "appid": 1282240,
+      "name": "泡泡三国",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T16:28:34.775092"
+    },
+    "1282270": {
+      "appid": 1282270,
+      "name": "Strinova",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T16:28:34.904068"
+    },
+    "1282370": {
+      "appid": 1282370,
+      "name": "GraFi Easter",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T16:28:35.293343"
+    },
+    "1282410": {
+      "appid": 1282410,
+      "name": "Hard West 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T16:28:35.739846"
+    },
+    "1282440": {
+      "appid": 1282440,
+      "name": "三生之树3ZENTREE - 3D NODE BASED INFORMATION SYSTEM",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T16:28:35.866690"
+    },
+    "1282500": {
+      "appid": 1282500,
+      "name": "Prisme 7",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T16:28:35.994032"
+    },
+    "1282540": {
+      "appid": 1282540,
+      "name": "功夫传说",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T16:28:36.262450"
+    },
+    "1282590": {
+      "appid": 1282590,
+      "name": "Train Sim World® 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T16:28:36.874859"
+    },
+    "1282730": {
+      "appid": 1282730,
+      "name": "循环勇士",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T16:28:38.366297"
+    },
+    "1282760": {
+      "appid": 1282760,
+      "name": "Mad Streets",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T16:28:38.625736"
+    },
+    "1283070": {
+      "appid": 1283070,
+      "name": "3D Jigsaw Puzzle Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T16:28:40.277358"
+    },
+    "1283110": {
+      "appid": 1283110,
+      "name": "Start Heart Thief | 出发吧！偷心盗贼 | 出撃 ルビー | 出擊 偷心盜賊",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T16:28:40.533517"
+    },
+    "1283190": {
+      "appid": 1283190,
+      "name": "Neighbours back From Hell",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T16:28:41.118018"
+    },
+    "1283210": {
+      "appid": 1283210,
+      "name": "渡劫 x 魔女 ~ Team up with A Magician！",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T16:28:41.263092"
+    },
+    "1283230": {
+      "appid": 1283230,
+      "name": "验尸模拟器",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T16:28:41.517444"
+    },
+    "1283240": {
+      "appid": 1283240,
+      "name": "Center2048",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T16:28:41.669536"
+    },
+    "1283250": {
+      "appid": 1283250,
+      "name": "音频派对游戏组",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T16:28:41.803060"
+    },
+    "1283260": {
+      "appid": 1283260,
+      "name": "Coof Attack",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T16:28:41.972670"
+    },
+    "1283270": {
+      "appid": 1283270,
+      "name": "胆小鬼 Coward",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T16:28:42.109460"
+    },
+    "1283280": {
+      "appid": 1283280,
+      "name": "Insexsity",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T16:28:42.234951"
+    },
+    "1283330": {
+      "appid": 1283330,
+      "name": "我的风帆我的洋",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T16:28:42.368874"
+    },
+    "1283350": {
+      "appid": 1283350,
+      "name": "我是熊孩子",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T16:28:42.501146"
+    },
+    "1283360": {
+      "appid": 1283360,
+      "name": "Geki Yaba Runner",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T16:28:42.641684"
+    },
+    "1283400": {
+      "appid": 1283400,
+      "name": "Steelrising 钢之崛起 ",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T16:28:43.089166"
+    },
+    "1283410": {
+      "appid": 1283410,
+      "name": "Tails of Iron",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T16:28:43.235388"
+    },
+    "1283500": {
+      "appid": 1283500,
+      "name": "Euphoria: Supreme Mechanics",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T16:28:43.849201"
+    },
+    "1283700": {
+      "appid": 1283700,
+      "name": "SUPERVIVE",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T16:28:45.526844"
+    },
+    "1283740": {
+      "appid": 1283740,
+      "name": "Dangerous Lands 2 - Evil Ascension",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T16:28:45.836613"
+    },
+    "1283880": {
+      "appid": 1283880,
+      "name": "pilapa BOOM",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T16:28:47.333180"
+    },
+    "1283960": {
+      "appid": 1283960,
+      "name": "东方幻灵录 ~ Touhou Hakanai Cards",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T16:28:47.890168"
+    },
+    "1283970": {
+      "appid": 1283970,
+      "name": "YoloMouse - Game Cursor Changer",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T16:28:48.040385"
+    },
+    "1284130": {
+      "appid": 1284130,
+      "name": "Sclash",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T16:28:49.079463"
+    },
+    "1284190": {
+      "appid": 1284190,
+      "name": "The Planet Crafter",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T16:28:49.790871"
+    },
+    "1284390": {
+      "appid": 1284390,
+      "name": "The Elven Educator ~another ver~",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T16:28:51.081820"
+    },
+    "1284410": {
+      "appid": 1284410,
+      "name": "巫师之昆特牌",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T16:28:51.207850"
+    },
+    "1284630": {
+      "appid": 1284630,
+      "name": "送小鸡回家 sendchickenhome",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T16:28:52.220745"
+    },
+    "1284700": {
+      "appid": 1284700,
+      "name": "Panic Timing (惊恐计时)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T16:28:52.504899"
+    },
+    "1284820": {
+      "appid": 1284820,
+      "name": "Desktop Kanojo",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T16:28:53.346198"
+    },
+    "1284850": {
+      "appid": 1284850,
+      "name": "Batu Ta Batu",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T16:28:53.532060"
+    },
+    "1284860": {
+      "appid": 1284860,
+      "name": "ER Pandemic Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T16:28:53.657500"
+    },
+    "1284870": {
+      "appid": 1284870,
+      "name": "Ultreïa",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T16:28:53.790643"
+    },
+    "1284950": {
+      "appid": 1284950,
+      "name": "Witcheye",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T16:28:53.938910"
+    },
+    "1285000": {
+      "appid": 1285000,
+      "name": "Stayhome Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T16:28:54.075350"
+    },
+    "1285020": {
+      "appid": 1285020,
+      "name": "Flipon",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T16:28:54.356429"
+    },
+    "1285050": {
+      "appid": 1285050,
+      "name": "Noah's Ark",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T16:28:54.635954"
+    },
+    "1285080": {
+      "appid": 1285080,
+      "name": "Gordian Rooms 1: A curious heritage",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T16:28:55.071036"
+    },
+    "1285090": {
+      "appid": 1285090,
+      "name": "无限",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T16:28:55.207650"
+    },
+    "1285190": {
+      "appid": 1285190,
+      "name": "Borderlands 4",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T16:28:55.985606"
+    },
+    "1285270": {
+      "appid": 1285270,
+      "name": "Farm Your Friends",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T16:28:56.541109"
+    },
+    "1285310": {
+      "appid": 1285310,
+      "name": "OLD SKOOL RACER",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T16:28:56.671323"
+    },
+    "1285350": {
+      "appid": 1285350,
+      "name": "Easy puzzle: Landscape",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T16:28:56.887230"
+    },
+    "1285360": {
+      "appid": 1285360,
+      "name": "Alien Hominid HD",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T16:28:57.020401"
+    },
+    "1285410": {
+      "appid": 1285410,
+      "name": "World Of Mana",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T16:28:57.300324"
+    },
+    "1285430": {
+      "appid": 1285430,
+      "name": "The Link",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T16:28:57.431377"
+    },
+    "1285450": {
+      "appid": 1285450,
+      "name": "生化工厂/Biochemical factory",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T16:28:57.706922"
+    },
+    "1285500": {
+      "appid": 1285500,
+      "name": "血潭江湖百里荣",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T16:28:57.826981"
+    },
+    "1285530": {
+      "appid": 1285530,
+      "name": "Eagles Expedition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T16:28:58.272255"
+    },
+    "1285560": {
+      "appid": 1285560,
+      "name": "Three kingdoms story: Conussia",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T16:28:58.409529"
+    },
+    "1285670": {
+      "appid": 1285670,
+      "name": "Post Void",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T16:28:59.348059"
+    },
+    "1286030": {
+      "appid": 1286030,
+      "name": "Mad Bulldozer",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T16:29:01.768044"
+    },
+    "1286160": {
+      "appid": 1286160,
+      "name": "Mosquitoes and zombies",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T16:29:02.155745"
     }
   }
 }
