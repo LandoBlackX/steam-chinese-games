@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-06T12:46:24.636170"
+    "updated": "2025-04-06T12:53:06.348585"
   },
   "games": {
     "570": {
@@ -72654,6 +72654,86 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-04-06T12:46:21.885332"
+    },
+    "1190970": {
+      "appid": 1190970,
+      "name": "房产达人 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T12:52:41.019266"
+    },
+    "1191120": {
+      "appid": 1191120,
+      "name": "青春叙曲 Growing Up",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T12:52:42.513473"
+    },
+    "1192610": {
+      "appid": 1192610,
+      "name": "ANIME REDEMPTION",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T12:52:50.009798"
+    },
+    "1192640": {
+      "appid": 1192640,
+      "name": "Mosaique Neko Waifus",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T12:52:50.254902"
+    },
+    "1193090": {
+      "appid": 1193090,
+      "name": "Bus World",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T12:52:52.651174"
+    },
+    "1193590": {
+      "appid": 1193590,
+      "name": "Abomi Nation",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T12:52:55.814530"
+    },
+    "1194050": {
+      "appid": 1194050,
+      "name": "Orange Cast: Sci-Fi Space Action Game",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T12:52:57.892327"
+    },
+    "1194590": {
+      "appid": 1194590,
+      "name": "Star Dynasties",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T12:53:00.323012"
+    },
+    "1194630": {
+      "appid": 1194630,
+      "name": "The Dark Pictures Anthology: Little Hope",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T12:53:00.871349"
+    },
+    "1194700": {
+      "appid": 1194700,
+      "name": "House Flipper VR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T12:53:01.590587"
     }
   }
 }
