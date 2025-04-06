@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-06T13:09:01.892231"
+    "updated": "2025-04-06T13:30:41.742989"
   },
   "games": {
     "570": {
@@ -72974,6 +72974,102 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-04-06T13:08:59.442709"
+    },
+    "1209770": {
+      "appid": 1209770,
+      "name": "子夜之章:历史的终局～MidNights of Desperado～",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T13:30:14.026920"
+    },
+    "1210110": {
+      "appid": 1210110,
+      "name": "Midnight Ride",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T13:30:16.297181"
+    },
+    "1210150": {
+      "appid": 1210150,
+      "name": "Ageless",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T13:30:16.442620"
+    },
+    "1210230": {
+      "appid": 1210230,
+      "name": "Suits: Absolute Power",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T13:30:16.721479"
+    },
+    "1211020": {
+      "appid": 1211020,
+      "name": "晃晃人生 / Wobbly Life",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T13:30:22.314018"
+    },
+    "1211360": {
+      "appid": 1211360,
+      "name": "NEOMORPH",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T13:30:24.667077"
+    },
+    "1211830": {
+      "appid": 1211830,
+      "name": "深渊探索者",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T13:30:27.646307"
+    },
+    "1212020": {
+      "appid": 1212020,
+      "name": "Void's Calling ep.1",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T13:30:28.676487"
+    },
+    "1212620": {
+      "appid": 1212620,
+      "name": "Pretty Neko",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T13:30:33.471647"
+    },
+    "1213230": {
+      "appid": 1213230,
+      "name": "整蛊白云",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T13:30:37.829993"
+    },
+    "1213700": {
+      "appid": 1213700,
+      "name": "Spirit of the North",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T13:30:40.388476"
+    },
+    "1213750": {
+      "appid": 1213750,
+      "name": "螃蟹大战",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T13:30:40.828485"
     }
   }
 }
