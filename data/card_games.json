@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-06T17:39:19.298860"
+    "updated": "2025-04-06T17:52:29.362659"
   },
   "games": {
     "570": {
@@ -75046,6 +75046,70 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-04-06T17:39:17.598881"
+    },
+    "1306720": {
+      "appid": 1306720,
+      "name": "Mayhem Brawler",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T17:52:09.819471"
+    },
+    "1306770": {
+      "appid": 1306770,
+      "name": "废土帝国：人类复兴",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T17:52:10.286130"
+    },
+    "1307090": {
+      "appid": 1307090,
+      "name": "Barro Racing",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T17:52:12.341566"
+    },
+    "1307670": {
+      "appid": 1307670,
+      "name": "The Unexpected Quest",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T17:52:16.506365"
+    },
+    "1307690": {
+      "appid": 1307690,
+      "name": "最暗黑的故事 / The Darkest Tales",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T17:52:16.683345"
+    },
+    "1307710": {
+      "appid": 1307710,
+      "name": "GRID Legends",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T17:52:16.837593"
+    },
+    "1309080": {
+      "appid": 1309080,
+      "name": "INFINITE GUITARS",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T17:52:25.909482"
+    },
+    "1309620": {
+      "appid": 1309620,
+      "name": "Bears In Space",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T17:52:28.592376"
     }
   }
 }
