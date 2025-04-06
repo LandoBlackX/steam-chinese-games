@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-06T19:16:36.172975"
+    "updated": "2025-04-06T19:29:13.555562"
   },
   "games": {
     "570": {
@@ -75710,6 +75710,94 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-06T19:16:26.405885"
+    },
+    "1349030": {
+      "appid": 1349030,
+      "name": "无辜的女孩",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T19:28:45.384420"
+    },
+    "1349040": {
+      "appid": 1349040,
+      "name": "毛茸茸的爱 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T19:28:45.534679"
+    },
+    "1349120": {
+      "appid": 1349120,
+      "name": "球球少女/Pinball Girls",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T19:28:46.195614"
+    },
+    "1350650": {
+      "appid": 1350650,
+      "name": "《新生也疯狂》第1季",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T19:28:56.400773"
+    },
+    "1351080": {
+      "appid": 1351080,
+      "name": "Pharaoh™: A New Era",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T19:28:58.272776"
+    },
+    "1351210": {
+      "appid": 1351210,
+      "name": "戈德",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T19:28:59.088171"
+    },
+    "1351370": {
+      "appid": 1351370,
+      "name": "Sakura Knight 3",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T19:29:00.309265"
+    },
+    "1351630": {
+      "appid": 1351630,
+      "name": "Ys IX: Monstrum Nox",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T19:29:01.737077"
+    },
+    "1352200": {
+      "appid": 1352200,
+      "name": "Detective From The Crypt",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T19:29:04.656089"
+    },
+    "1352930": {
+      "appid": 1352930,
+      "name": "勇敢的哈克",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T19:29:08.851243"
+    },
+    "1353300": {
+      "appid": 1353300,
+      "name": "闲置猎手",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T19:29:10.764503"
     }
   }
 }

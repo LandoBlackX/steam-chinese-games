@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-06T19:16:36.172975"
+    "updated": "2025-04-06T19:29:13.555562"
   },
   "games": {
     "570": {
@@ -125680,6 +125680,430 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-04-06T19:16:35.646551"
+    },
+    "1349030": {
+      "appid": 1349030,
+      "name": "无辜的女孩",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T19:28:45.384420"
+    },
+    "1349040": {
+      "appid": 1349040,
+      "name": "毛茸茸的爱 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T19:28:45.534679"
+    },
+    "1349120": {
+      "appid": 1349120,
+      "name": "球球少女/Pinball Girls",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T19:28:46.195614"
+    },
+    "1349140": {
+      "appid": 1349140,
+      "name": "大宋食货志",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T19:28:46.580047"
+    },
+    "1349290": {
+      "appid": 1349290,
+      "name": "BAFF F",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T19:28:47.185803"
+    },
+    "1349300": {
+      "appid": 1349300,
+      "name": "Yakuza Empire",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T19:28:47.409712"
+    },
+    "1349310": {
+      "appid": 1349310,
+      "name": "白檀小町",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T19:28:47.668677"
+    },
+    "1349460": {
+      "appid": 1349460,
+      "name": "Bravers",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T19:28:48.627175"
+    },
+    "1349540": {
+      "appid": 1349540,
+      "name": "DPS IDLE",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T19:28:48.741274"
+    },
+    "1349600": {
+      "appid": 1349600,
+      "name": "Slavania",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T19:28:48.918411"
+    },
+    "1349830": {
+      "appid": 1349830,
+      "name": "RONIN: Two Souls CHAPTER 1",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T19:28:50.529737"
+    },
+    "1349850": {
+      "appid": 1349850,
+      "name": "Failed Adventurer",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T19:28:50.674400"
+    },
+    "1349890": {
+      "appid": 1349890,
+      "name": "最后一个地球人",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T19:28:50.976813"
+    },
+    "1350200": {
+      "appid": 1350200,
+      "name": "IMMORTALITY",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T19:28:53.563522"
+    },
+    "1350350": {
+      "appid": 1350350,
+      "name": "Touhou Gensokyo Visitor",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T19:28:54.328187"
+    },
+    "1350500": {
+      "appid": 1350500,
+      "name": "Last Memory",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T19:28:55.170132"
+    },
+    "1350650": {
+      "appid": 1350650,
+      "name": "《新生也疯狂》第1季",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T19:28:56.400773"
+    },
+    "1350720": {
+      "appid": 1350720,
+      "name": "PaperKlay",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T19:28:56.920133"
+    },
+    "1350840": {
+      "appid": 1350840,
+      "name": "牧野之歌",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T19:28:57.435107"
+    },
+    "1350860": {
+      "appid": 1350860,
+      "name": "归途",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T19:28:57.766245"
+    },
+    "1351000": {
+      "appid": 1351000,
+      "name": "舍伍德侠盗团 ",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T19:28:58.051914"
+    },
+    "1351210": {
+      "appid": 1351210,
+      "name": "戈德",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T19:28:59.088171"
+    },
+    "1351220": {
+      "appid": 1351220,
+      "name": "Escape Room VR: Inner Voices",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T19:28:59.216150"
+    },
+    "1351240": {
+      "appid": 1351240,
+      "name": "出租生涯：模拟城市驾驶",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T19:28:59.355637"
+    },
+    "1351290": {
+      "appid": 1351290,
+      "name": "AccidentHouse",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T19:28:59.671327"
+    },
+    "1351360": {
+      "appid": 1351360,
+      "name": "DevLife",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T19:29:00.217936"
+    },
+    "1351370": {
+      "appid": 1351370,
+      "name": "Sakura Knight 3",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T19:29:00.309265"
+    },
+    "1351480": {
+      "appid": 1351480,
+      "name": "Barely Racing",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T19:29:00.959716"
+    },
+    "1351500": {
+      "appid": 1351500,
+      "name": "SimPocalypse",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T19:29:01.093769"
+    },
+    "1351720": {
+      "appid": 1351720,
+      "name": "Sharks of Mars: Prologue",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T19:29:02.255283"
+    },
+    "1351980": {
+      "appid": 1351980,
+      "name": "2945VR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T19:29:03.711440"
+    },
+    "1352080": {
+      "appid": 1352080,
+      "name": "传奇大乱斗",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T19:29:03.936712"
+    },
+    "1352120": {
+      "appid": 1352120,
+      "name": "黑塔战记",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T19:29:04.094898"
+    },
+    "1352140": {
+      "appid": 1352140,
+      "name": "虚拟主播模拟器",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T19:29:04.394462"
+    },
+    "1352230": {
+      "appid": 1352230,
+      "name": "1917 : The Prologue",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T19:29:04.799947"
+    },
+    "1352290": {
+      "appid": 1352290,
+      "name": "Anime Squad",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T19:29:05.161313"
+    },
+    "1352470": {
+      "appid": 1352470,
+      "name": "Carrot Heart",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T19:29:05.988067"
+    },
+    "1352750": {
+      "appid": 1352750,
+      "name": "Comic&Picture Shelf漫画浏览器",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T19:29:07.799285"
+    },
+    "1352770": {
+      "appid": 1352770,
+      "name": "策魂三国",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T19:29:08.069287"
+    },
+    "1352850": {
+      "appid": 1352850,
+      "name": "Citystate II",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T19:29:08.316848"
+    },
+    "1352890": {
+      "appid": 1352890,
+      "name": "Seekers Alliance",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T19:29:08.610203"
+    },
+    "1352910": {
+      "appid": 1352910,
+      "name": "春与修罗",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T19:29:08.757448"
+    },
+    "1352930": {
+      "appid": 1352930,
+      "name": "勇敢的哈克",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T19:29:08.851243"
+    },
+    "1353030": {
+      "appid": 1353030,
+      "name": "Eloquence",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T19:29:08.981876"
+    },
+    "1353250": {
+      "appid": 1353250,
+      "name": "Infected zone 感染之地",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T19:29:10.491367"
+    },
+    "1353270": {
+      "appid": 1353270,
+      "name": "Five Dates",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T19:29:10.628845"
+    },
+    "1353300": {
+      "appid": 1353300,
+      "name": "闲置猎手",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T19:29:10.764503"
+    },
+    "1353560": {
+      "appid": 1353560,
+      "name": "Beauty Shooter",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T19:29:11.743954"
+    },
+    "1353680": {
+      "appid": 1353680,
+      "name": "三国吕布传说(Legend of Lv Bu of the Three Kingdoms)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T19:29:12.346307"
+    },
+    "1353710": {
+      "appid": 1353710,
+      "name": "BitFlipClock-桌面翻页时钟",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T19:29:12.593446"
+    },
+    "1353730": {
+      "appid": 1353730,
+      "name": "送外卖模拟器 Delivery Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T19:29:12.715726"
+    },
+    "1353910": {
+      "appid": 1353910,
+      "name": "Ankh Tower: Protect The Fortress With Dark Magic",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T19:29:13.169546"
+    },
+    "1353920": {
+      "appid": 1353920,
+      "name": "李雷和韩梅梅",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T19:29:13.300676"
     }
   }
 }
