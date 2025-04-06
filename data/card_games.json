@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-06T10:52:10.020568"
+    "updated": "2025-04-06T11:11:19.311486"
   },
   "games": {
     "570": {
@@ -71782,6 +71782,126 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-06T10:52:09.710822"
+    },
+    "1148760": {
+      "appid": 1148760,
+      "name": "I Was a Teenage Exocolonist",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T11:10:50.545676"
+    },
+    "1149440": {
+      "appid": 1149440,
+      "name": "Dragon Marked For Death",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T11:10:54.745805"
+    },
+    "1149550": {
+      "appid": 1149550,
+      "name": "Utawarerumono: Mask of Deception",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T11:10:55.981786"
+    },
+    "1149620": {
+      "appid": 1149620,
+      "name": "加油站大亨",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T11:10:56.550500"
+    },
+    "1150080": {
+      "appid": 1150080,
+      "name": "碧蓝航线 交汇的航迹",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T11:10:59.258229"
+    },
+    "1150090": {
+      "appid": 1150090,
+      "name": "学习工厂 (Learning Factory)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T11:10:59.422543"
+    },
+    "1150460": {
+      "appid": 1150460,
+      "name": "Summer Paws",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T11:11:01.688742"
+    },
+    "1150640": {
+      "appid": 1150640,
+      "name": "Yu-Gi-Oh! Legacy of the Duelist : Link Evolution",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T11:11:02.993499"
+    },
+    "1150720": {
+      "appid": 1150720,
+      "name": "Monster Girl Club Bifrost",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T11:11:03.680770"
+    },
+    "1150890": {
+      "appid": 1150890,
+      "name": "The Bunker 69",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T11:11:04.963133"
+    },
+    "1150950": {
+      "appid": 1150950,
+      "name": "Timelie",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T11:11:05.383644"
+    },
+    "1151120": {
+      "appid": 1151120,
+      "name": "Arrest of a stone Buddha",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T11:11:06.574059"
+    },
+    "1151440": {
+      "appid": 1151440,
+      "name": "Utawarerumono: Mask of Truth",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T11:11:09.005490"
+    },
+    "1151450": {
+      "appid": 1151450,
+      "name": "Utawarerumono: Prelude to the Fallen",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T11:11:09.170996"
+    },
+    "1152090": {
+      "appid": 1152090,
+      "name": "Elmarion: Dragon time",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T11:11:13.989182"
     }
   }
 }
