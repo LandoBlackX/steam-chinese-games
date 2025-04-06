@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-06T23:30:29.197779"
+    "updated": "2025-04-06T23:43:17.444564"
   },
   "games": {
     "570": {
@@ -76694,6 +76694,54 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-04-06T23:30:28.189418"
+    },
+    "1420290": {
+      "appid": 1420290,
+      "name": "No More Heroes",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T23:42:53.204499"
+    },
+    "1420300": {
+      "appid": 1420300,
+      "name": "No More Heroes 2: Desperate Struggle",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T23:42:53.321087"
+    },
+    "1421250": {
+      "appid": 1421250,
+      "name": "Tiny Bunny",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T23:42:58.954060"
+    },
+    "1422420": {
+      "appid": 1422420,
+      "name": "Dodgeball Academia",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T23:43:05.661561"
+    },
+    "1422430": {
+      "appid": 1422430,
+      "name": "Next Space Rebels",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T23:43:06.062708"
+    },
+    "1422440": {
+      "appid": 1422440,
+      "name": "灾厄堡垒 Cataclismo",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T23:43:06.200279"
     }
   }
 }
