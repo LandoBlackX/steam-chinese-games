@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-06T09:53:21.371982"
+    "updated": "2025-04-06T10:11:44.213480"
   },
   "games": {
     "570": {
@@ -102024,6 +102024,534 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-04-06T09:53:21.215769"
+    },
+    "1121560": {
+      "appid": 1121560,
+      "name": "莱莎的炼金工房 ～常暗女王与秘密藏身处～",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T10:11:11.429833"
+    },
+    "1121640": {
+      "appid": 1121640,
+      "name": "漂泊牧歌 (The Wandering Village)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T10:11:12.317938"
+    },
+    "1121650": {
+      "appid": 1121650,
+      "name": "黑域生机",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T10:11:12.575175"
+    },
+    "1121670": {
+      "appid": 1121670,
+      "name": "Excavator Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T10:11:12.875074"
+    },
+    "1121760": {
+      "appid": 1121760,
+      "name": "Survival Ascension",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T10:11:13.836989"
+    },
+    "1121780": {
+      "appid": 1121780,
+      "name": "星位继承者",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T10:11:14.507574"
+    },
+    "1121980": {
+      "appid": 1121980,
+      "name": "看不见的爱",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T10:11:15.658212"
+    },
+    "1122040": {
+      "appid": 1122040,
+      "name": "Kaede the Eliminator / Eliminator 小枫",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T10:11:15.799155"
+    },
+    "1122050": {
+      "appid": 1122050,
+      "name": "幻想乡萃夜祭",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T10:11:15.970926"
+    },
+    "1122090": {
+      "appid": 1122090,
+      "name": "DanceGirl-Swimwear",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T10:11:16.198689"
+    },
+    "1122100": {
+      "appid": 1122100,
+      "name": "吉拉夫与安妮卡/Giraffe and Annika",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T10:11:16.391140"
+    },
+    "1122110": {
+      "appid": 1122110,
+      "name": "CENTRALIA",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T10:11:16.746561"
+    },
+    "1122150": {
+      "appid": 1122150,
+      "name": "ELEA",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T10:11:17.052562"
+    },
+    "1122160": {
+      "appid": 1122160,
+      "name": "On Air",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T10:11:17.310080"
+    },
+    "1122170": {
+      "appid": 1122170,
+      "name": "Mech Hunter",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T10:11:17.462007"
+    },
+    "1122180": {
+      "appid": 1122180,
+      "name": "Curse of Anabelle",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T10:11:17.915300"
+    },
+    "1122230": {
+      "appid": 1122230,
+      "name": "骑士与亡命之徒",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T10:11:18.402247"
+    },
+    "1122290": {
+      "appid": 1122290,
+      "name": "Nyanco Project",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T10:11:19.648374"
+    },
+    "1122340": {
+      "appid": 1122340,
+      "name": "Chef Life: A Restaurant Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T10:11:20.148379"
+    },
+    "1122680": {
+      "appid": 1122680,
+      "name": "The Artful Escape",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T10:11:21.160028"
+    },
+    "1122690": {
+      "appid": 1122690,
+      "name": "Last Stop",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T10:11:21.317901"
+    },
+    "1122700": {
+      "appid": 1122700,
+      "name": "Hindsight",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T10:11:21.481460"
+    },
+    "1122720": {
+      "appid": 1122720,
+      "name": "Sayonara Wild Hearts",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T10:11:21.857853"
+    },
+    "1122730": {
+      "appid": 1122730,
+      "name": "Magna Fortuna",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T10:11:21.984759"
+    },
+    "1122740": {
+      "appid": 1122740,
+      "name": "To the Hell",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T10:11:22.165873"
+    },
+    "1122750": {
+      "appid": 1122750,
+      "name": "异化之恶〇Abnormal Treatment",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T10:11:22.294862"
+    },
+    "1122810": {
+      "appid": 1122810,
+      "name": "DarkSpace 暗宇战纪",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T10:11:23.066887"
+    },
+    "1122860": {
+      "appid": 1122860,
+      "name": "Stop it - Driving Simulation",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T10:11:23.556217"
+    },
+    "1122980": {
+      "appid": 1122980,
+      "name": "Hentai Shojo",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T10:11:24.645382"
+    },
+    "1123050": {
+      "appid": 1123050,
+      "name": "GRIME",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T10:11:25.354089"
+    },
+    "1123070": {
+      "appid": 1123070,
+      "name": "REFLASER",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T10:11:25.630040"
+    },
+    "1123080": {
+      "appid": 1123080,
+      "name": "FadeZone 消逝之地",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T10:11:25.801701"
+    },
+    "1123140": {
+      "appid": 1123140,
+      "name": "母女成为性宠玩物",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T10:11:26.197573"
+    },
+    "1123190": {
+      "appid": 1123190,
+      "name": "育种村",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T10:11:26.829297"
+    },
+    "1123340": {
+      "appid": 1123340,
+      "name": "Run! Bunny 绿绿小先生",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T10:11:27.716204"
+    },
+    "1123400": {
+      "appid": 1123400,
+      "name": "放逐之地：牢笼",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T10:11:28.002474"
+    },
+    "1123450": {
+      "appid": 1123450,
+      "name": "Chicory: A Colorful Tale",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T10:11:28.268010"
+    },
+    "1123460": {
+      "appid": 1123460,
+      "name": "Fateline(命运线)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T10:11:28.445169"
+    },
+    "1123520": {
+      "appid": 1123520,
+      "name": "Mithral Gun:Biomechanical",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T10:11:28.898471"
+    },
+    "1123550": {
+      "appid": 1123550,
+      "name": "Desire Gambling House/欲望赌馆",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T10:11:29.050883"
+    },
+    "1123730": {
+      "appid": 1123730,
+      "name": "ROD",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T10:11:29.955368"
+    },
+    "1123770": {
+      "appid": 1123770,
+      "name": "Curse of the Dead Gods",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T10:11:30.098106"
+    },
+    "1123830": {
+      "appid": 1123830,
+      "name": "Farm Manager 2021",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T10:11:30.532900"
+    },
+    "1124050": {
+      "appid": 1124050,
+      "name": "Ogre Tale",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T10:11:31.522890"
+    },
+    "1124060": {
+      "appid": 1124060,
+      "name": "Touhou Shoujo Tale of Beautiful Memories / 東方少女綺想譚",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T10:11:31.688687"
+    },
+    "1124080": {
+      "appid": 1124080,
+      "name": "勇者赶时间 Brave's Rage",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T10:11:31.971676"
+    },
+    "1124090": {
+      "appid": 1124090,
+      "name": "告死天使之言 Death angel",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T10:11:32.110271"
+    },
+    "1124160": {
+      "appid": 1124160,
+      "name": "VR Giants",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T10:11:32.518443"
+    },
+    "1124180": {
+      "appid": 1124180,
+      "name": "铁路调度模拟器",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T10:11:32.799873"
+    },
+    "1124260": {
+      "appid": 1124260,
+      "name": "Snowtopia: Ski Resort Builder",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T10:11:33.244476"
+    },
+    "1124300": {
+      "appid": 1124300,
+      "name": "人类",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T10:11:33.651051"
+    },
+    "1124520": {
+      "appid": 1124520,
+      "name": "Laranga",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T10:11:35.103738"
+    },
+    "1124560": {
+      "appid": 1124560,
+      "name": "堕落天使 Fallen Angel",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T10:11:35.516880"
+    },
+    "1124660": {
+      "appid": 1124660,
+      "name": "STORM AREA 51: AYY LMAO EDITION",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T10:11:36.162896"
+    },
+    "1124740": {
+      "appid": 1124740,
+      "name": "破碎法术",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T10:11:36.772145"
+    },
+    "1124790": {
+      "appid": 1124790,
+      "name": "Hentai LightUp",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T10:11:36.946457"
+    },
+    "1124810": {
+      "appid": 1124810,
+      "name": "Tower of the Alchemist",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T10:11:37.225193"
+    },
+    "1124830": {
+      "appid": 1124830,
+      "name": "东方华彩乱战",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T10:11:37.381780"
+    },
+    "1124850": {
+      "appid": 1124850,
+      "name": "閃電對決Lightning Wings II",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T10:11:37.504326"
+    },
+    "1125030": {
+      "appid": 1125030,
+      "name": "Hentai Ninja Garden",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T10:11:38.711363"
+    },
+    "1125250": {
+      "appid": 1125250,
+      "name": "Hentai Petting Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T10:11:39.287367"
+    },
+    "1125390": {
+      "appid": 1125390,
+      "name": "Atrio: The Dark Wild",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T10:11:40.254305"
+    },
+    "1125480": {
+      "appid": 1125480,
+      "name": "初恋日记 - School Years",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T10:11:40.732447"
+    },
+    "1125600": {
+      "appid": 1125600,
+      "name": "TAG WAR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T10:11:41.277955"
+    },
+    "1125700": {
+      "appid": 1125700,
+      "name": "无尽虚空",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T10:11:41.976088"
+    },
+    "1125890": {
+      "appid": 1125890,
+      "name": "派对策划师",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T10:11:43.515846"
     }
   }
 }

@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-06T09:53:21.371982"
+    "updated": "2025-04-06T10:11:44.213480"
   },
   "games": {
     "570": {
@@ -71166,6 +71166,150 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-04-06T09:53:20.037148"
+    },
+    "1121640": {
+      "appid": 1121640,
+      "name": "漂泊牧歌 (The Wandering Village)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T10:11:12.317938"
+    },
+    "1121780": {
+      "appid": 1121780,
+      "name": "星位继承者",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T10:11:14.507574"
+    },
+    "1122120": {
+      "appid": 1122120,
+      "name": "STATIONflow",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T10:11:16.882474"
+    },
+    "1122340": {
+      "appid": 1122340,
+      "name": "Chef Life: A Restaurant Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T10:11:20.148379"
+    },
+    "1122680": {
+      "appid": 1122680,
+      "name": "The Artful Escape",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T10:11:21.160028"
+    },
+    "1122690": {
+      "appid": 1122690,
+      "name": "Last Stop",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T10:11:21.317901"
+    },
+    "1122700": {
+      "appid": 1122700,
+      "name": "Hindsight",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T10:11:21.481460"
+    },
+    "1122720": {
+      "appid": 1122720,
+      "name": "Sayonara Wild Hearts",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T10:11:21.857853"
+    },
+    "1123050": {
+      "appid": 1123050,
+      "name": "GRIME",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T10:11:25.354089"
+    },
+    "1123770": {
+      "appid": 1123770,
+      "name": "Curse of the Dead Gods",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T10:11:30.098106"
+    },
+    "1123830": {
+      "appid": 1123830,
+      "name": "Farm Manager 2021",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T10:11:30.532900"
+    },
+    "1124050": {
+      "appid": 1124050,
+      "name": "Ogre Tale",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T10:11:31.522890"
+    },
+    "1124180": {
+      "appid": 1124180,
+      "name": "铁路调度模拟器",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T10:11:32.799873"
+    },
+    "1124300": {
+      "appid": 1124300,
+      "name": "人类",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T10:11:33.651051"
+    },
+    "1124660": {
+      "appid": 1124660,
+      "name": "STORM AREA 51: AYY LMAO EDITION",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T10:11:36.162896"
+    },
+    "1125110": {
+      "appid": 1125110,
+      "name": "Obsurity",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T10:11:38.848066"
+    },
+    "1125480": {
+      "appid": 1125480,
+      "name": "初恋日记 - School Years",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T10:11:40.732447"
+    },
+    "1125910": {
+      "appid": 1125910,
+      "name": "Crowns and Pawns: Kingdom of Deceit",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T10:11:43.665407"
     }
   }
 }
