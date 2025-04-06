@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-06T13:06:53.371514"
+    "updated": "2025-04-06T13:09:01.892231"
   },
   "games": {
     "570": {
@@ -72918,6 +72918,62 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-06T13:06:47.072369"
+    },
+    "1205430": {
+      "appid": 1205430,
+      "name": "The Elder Scrolls Online - Greymoor",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T13:08:42.021352"
+    },
+    "1205450": {
+      "appid": 1205450,
+      "name": "Turnip Boy Commits Tax Evasion",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T13:08:42.157325"
+    },
+    "1205950": {
+      "appid": 1205950,
+      "name": "Seeds of Chaos",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T13:08:44.110459"
+    },
+    "1205960": {
+      "appid": 1205960,
+      "name": "My Cute Fuhrer",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T13:08:44.261048"
+    },
+    "1206060": {
+      "appid": 1206060,
+      "name": "Happy Game",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T13:08:45.203425"
+    },
+    "1206430": {
+      "appid": 1206430,
+      "name": "The Unfinished Swan",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T13:08:47.748526"
+    },
+    "1208770": {
+      "appid": 1208770,
+      "name": "Saber Fight VR",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T13:08:59.442709"
     }
   }
 }
