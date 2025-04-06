@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-06T14:22:33.279270"
+    "updated": "2025-04-06T14:24:07.893225"
   },
   "games": {
     "570": {
@@ -113624,6 +113624,558 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-04-06T14:22:33.161155"
+    },
+    "1227860": {
+      "appid": 1227860,
+      "name": "Plastris",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T14:23:36.080525"
+    },
+    "1227890": {
+      "appid": 1227890,
+      "name": "夏日狂想曲：乡间的难忘回忆",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T14:23:36.182864"
+    },
+    "1227930": {
+      "appid": 1227930,
+      "name": "佣兵之旅",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T14:23:36.513517"
+    },
+    "1228320": {
+      "appid": 1228320,
+      "name": "Dungeon Looter",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T14:23:36.799083"
+    },
+    "1228410": {
+      "appid": 1228410,
+      "name": "WATCH / 透视",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T14:23:37.260794"
+    },
+    "1228440": {
+      "appid": 1228440,
+      "name": "海上霸主：航空母舰之旅",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T14:23:37.587454"
+    },
+    "1228450": {
+      "appid": 1228450,
+      "name": "Speed And Survive Ball, 速度与幸存之球",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T14:23:37.690870"
+    },
+    "1228500": {
+      "appid": 1228500,
+      "name": "1428: Shadows over Silesia",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T14:23:38.329577"
+    },
+    "1228570": {
+      "appid": 1228570,
+      "name": "Gamer Shop Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T14:23:38.849766"
+    },
+    "1228700": {
+      "appid": 1228700,
+      "name": "GodOrEvil.1",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T14:23:39.635934"
+    },
+    "1228880": {
+      "appid": 1228880,
+      "name": "Crisp Cube",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T14:23:40.709422"
+    },
+    "1228970": {
+      "appid": 1228970,
+      "name": "Elemental Abyss 元素之渊",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T14:23:41.383102"
+    },
+    "1229020": {
+      "appid": 1229020,
+      "name": "Kona II: Brume",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T14:23:41.683530"
+    },
+    "1229060": {
+      "appid": 1229060,
+      "name": "地城谜踪",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T14:23:41.931621"
+    },
+    "1229090": {
+      "appid": 1229090,
+      "name": "黄昏印记",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T14:23:42.206020"
+    },
+    "1229240": {
+      "appid": 1229240,
+      "name": "宿命残响（Chained Echoes）",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T14:23:42.602977"
+    },
+    "1229260": {
+      "appid": 1229260,
+      "name": "魔物娘与不可思议的冒险～力量宝珠与回归之塔～",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T14:23:42.908813"
+    },
+    "1229270": {
+      "appid": 1229270,
+      "name": "Onirike",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T14:23:43.052152"
+    },
+    "1229380": {
+      "appid": 1229380,
+      "name": "Everhood",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T14:23:43.475301"
+    },
+    "1229390": {
+      "appid": 1229390,
+      "name": "TOMOMI",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T14:23:43.607606"
+    },
+    "1229420": {
+      "appid": 1229420,
+      "name": "Company of Crime",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T14:23:43.793113"
+    },
+    "1229450": {
+      "appid": 1229450,
+      "name": "Yuhha: Stolen Treasure",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T14:23:43.934420"
+    },
+    "1229460": {
+      "appid": 1229460,
+      "name": "骰子遗产",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T14:23:44.055803"
+    },
+    "1229520": {
+      "appid": 1229520,
+      "name": "中华街风云",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T14:23:44.562907"
+    },
+    "1229580": {
+      "appid": 1229580,
+      "name": "Disc Room",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T14:23:45.041550"
+    },
+    "1229590": {
+      "appid": 1229590,
+      "name": "Choco Pixel 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T14:23:45.204549"
+    },
+    "1229650": {
+      "appid": 1229650,
+      "name": "Shitty Cactus",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T14:23:45.455406"
+    },
+    "1229880": {
+      "appid": 1229880,
+      "name": "Koumajou Remilia: Scarlet Symphony",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T14:23:46.011614"
+    },
+    "1229890": {
+      "appid": 1229890,
+      "name": "Koumajou Remilia Ⅱ: Stranger's Requiem",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T14:23:46.135450"
+    },
+    "1229900": {
+      "appid": 1229900,
+      "name": "ARIA CHRONICLE",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T14:23:46.315767"
+    },
+    "1229960": {
+      "appid": 1229960,
+      "name": "黑暗深渊",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T14:23:46.744259"
+    },
+    "1230120": {
+      "appid": 1230120,
+      "name": "Scan Your Heart \"愛情限時批\"",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T14:23:47.605164"
+    },
+    "1230140": {
+      "appid": 1230140,
+      "name": "ATRI -My Dear Moments-",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T14:23:47.707554"
+    },
+    "1230170": {
+      "appid": 1230170,
+      "name": "枪匠模拟器：序章",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T14:23:48.077928"
+    },
+    "1230400": {
+      "appid": 1230400,
+      "name": "Bets on Pets",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T14:23:48.965893"
+    },
+    "1230490": {
+      "appid": 1230490,
+      "name": "BOGs: Earth vs Sea",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T14:23:49.229066"
+    },
+    "1230530": {
+      "appid": 1230530,
+      "name": "尘封大陆",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T14:23:49.599715"
+    },
+    "1230800": {
+      "appid": 1230800,
+      "name": "Beach Buggy Racing 2: Island Adventure",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T14:23:51.405316"
+    },
+    "1230980": {
+      "appid": 1230980,
+      "name": "云巅",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T14:23:53.403485"
+    },
+    "1230990": {
+      "appid": 1230990,
+      "name": "Banzai Escape 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T14:23:53.917438"
+    },
+    "1231000": {
+      "appid": 1231000,
+      "name": "Witchsword Remake",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T14:23:54.298046"
+    },
+    "1231120": {
+      "appid": 1231120,
+      "name": "Staying Together",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T14:23:55.196747"
+    },
+    "1231410": {
+      "appid": 1231410,
+      "name": "Gravity Pro",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T14:23:56.519334"
+    },
+    "1231440": {
+      "appid": 1231440,
+      "name": "驱灵",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T14:23:56.649467"
+    },
+    "1231460": {
+      "appid": 1231460,
+      "name": "糖果灾难 Candy Disaster",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T14:23:56.932415"
+    },
+    "1231520": {
+      "appid": 1231520,
+      "name": "Farmtale",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T14:23:57.214722"
+    },
+    "1231560": {
+      "appid": 1231560,
+      "name": "Aurelia",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T14:23:57.482398"
+    },
+    "1231720": {
+      "appid": 1231720,
+      "name": "Freedom Isn't Free 资本之乱",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T14:23:58.321089"
+    },
+    "1231840": {
+      "appid": 1231840,
+      "name": "Climber: Sky is the Limit",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T14:23:59.716332"
+    },
+    "1231880": {
+      "appid": 1231880,
+      "name": "Haiku, the Robot",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T14:23:59.909402"
+    },
+    "1231900": {
+      "appid": 1231900,
+      "name": "Porsche Hall of Legends VR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T14:24:00.014454"
+    },
+    "1231940": {
+      "appid": 1231940,
+      "name": "卡纳洛克：神战",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T14:24:00.409238"
+    },
+    "1231950": {
+      "appid": 1231950,
+      "name": "The Innsmouth Case",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T14:24:00.524257"
+    },
+    "1231990": {
+      "appid": 1231990,
+      "name": "格式塔：蒸汽与煤渣",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T14:24:00.787757"
+    },
+    "1232010": {
+      "appid": 1232010,
+      "name": "Radical Rabbit Stew",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T14:24:00.898883"
+    },
+    "1232130": {
+      "appid": 1232130,
+      "name": "BEAR, VODKA, STALINGRAD!🐻",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T14:24:01.453145"
+    },
+    "1232150": {
+      "appid": 1232150,
+      "name": "高尔夫小游记",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T14:24:01.837454"
+    },
+    "1232180": {
+      "appid": 1232180,
+      "name": "咲谈人生",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T14:24:01.969873"
+    },
+    "1232290": {
+      "appid": 1232290,
+      "name": "绿洲守护者",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T14:24:02.576231"
+    },
+    "1232420": {
+      "appid": 1232420,
+      "name": "王者世界",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T14:24:03.039846"
+    },
+    "1232450": {
+      "appid": 1232450,
+      "name": "来上大学吧！",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T14:24:03.189728"
+    },
+    "1232460": {
+      "appid": 1232460,
+      "name": "美俏女剑士　起源",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T14:24:03.367646"
+    },
+    "1232500": {
+      "appid": 1232500,
+      "name": "超级徒步旅行模拟器 2020",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T14:24:03.778563"
+    },
+    "1232570": {
+      "appid": 1232570,
+      "name": "Paper Beast",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T14:24:04.228926"
+    },
+    "1232580": {
+      "appid": 1232580,
+      "name": "Knock on the Coffin Lid",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T14:24:04.388792"
+    },
+    "1232640": {
+      "appid": 1232640,
+      "name": "草泥马足球 全明星",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T14:24:04.871611"
+    },
+    "1232800": {
+      "appid": 1232800,
+      "name": "Connection Haunted",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T14:24:05.543821"
+    },
+    "1233070": {
+      "appid": 1233070,
+      "name": "海天岛传说",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T14:24:07.194177"
+    },
+    "1233200": {
+      "appid": 1233200,
+      "name": "小狗新娘～欢迎光临尾巴摇摇～",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T14:24:07.718800"
     }
   }
 }
