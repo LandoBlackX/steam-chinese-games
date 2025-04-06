@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-06T21:30:14.454650"
+    "updated": "2025-04-06T21:43:05.131254"
   },
   "games": {
     "570": {
@@ -129240,6 +129240,486 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-06T21:30:13.923464"
+    },
+    "1385820": {
+      "appid": 1385820,
+      "name": "Ninja Kunoichi",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:42:35.612673"
+    },
+    "1385830": {
+      "appid": 1385830,
+      "name": "MagicalGirl Mimi",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:42:35.772185"
+    },
+    "1385840": {
+      "appid": 1385840,
+      "name": "Cube Worlds Survival",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:42:36.052599"
+    },
+    "1385880": {
+      "appid": 1385880,
+      "name": "五五午时书",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:42:36.243830"
+    },
+    "1385910": {
+      "appid": 1385910,
+      "name": "魔王救世剑",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:42:36.531331"
+    },
+    "1386040": {
+      "appid": 1386040,
+      "name": "Jelly Brawl: Classic",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:42:38.408972"
+    },
+    "1386200": {
+      "appid": 1386200,
+      "name": "Sex Lesson",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:42:39.925409"
+    },
+    "1386300": {
+      "appid": 1386300,
+      "name": "Animal Trainer",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:42:40.700277"
+    },
+    "1386500": {
+      "appid": 1386500,
+      "name": "Cyan",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:42:42.172662"
+    },
+    "1386530": {
+      "appid": 1386530,
+      "name": "VR Travelling in the Roman Empire (VR Rome Time machine travel in history)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:42:42.763621"
+    },
+    "1386620": {
+      "appid": 1386620,
+      "name": "Anuchard",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:42:43.358830"
+    },
+    "1386650": {
+      "appid": 1386650,
+      "name": "Zcrew(Z字特遣队)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:42:43.789932"
+    },
+    "1386710": {
+      "appid": 1386710,
+      "name": "The HeartBeat",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:42:44.644317"
+    },
+    "1386730": {
+      "appid": 1386730,
+      "name": "Wordle 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T21:42:44.959000"
+    },
+    "1386780": {
+      "appid": 1386780,
+      "name": "City of Gangsters",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:42:45.432861"
+    },
+    "1386790": {
+      "appid": 1386790,
+      "name": "Gordian Rooms: A curious heritage Prologue",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:42:45.565216"
+    },
+    "1386830": {
+      "appid": 1386830,
+      "name": "Daffodil Yellow: A few poems from an insect collector",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:42:45.862132"
+    },
+    "1386870": {
+      "appid": 1386870,
+      "name": "Wraith: The Oblivion - Afterlife",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:42:46.224725"
+    },
+    "1386890": {
+      "appid": 1386890,
+      "name": "Hyper Dash",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:42:46.430947"
+    },
+    "1386900": {
+      "appid": 1386900,
+      "name": "Observer: System Redux",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:42:46.598019"
+    },
+    "1387030": {
+      "appid": 1387030,
+      "name": "Sly Slime",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:42:47.821432"
+    },
+    "1387290": {
+      "appid": 1387290,
+      "name": "翔平的实况直播成人频道",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T21:42:49.256378"
+    },
+    "1387320": {
+      "appid": 1387320,
+      "name": "Left Dex",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:42:49.506239"
+    },
+    "1387350": {
+      "appid": 1387350,
+      "name": "剑为君舞 百夜缀",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:42:49.634014"
+    },
+    "1387430": {
+      "appid": 1387430,
+      "name": "前往天堂To Heaven",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:42:49.947334"
+    },
+    "1387480": {
+      "appid": 1387480,
+      "name": "老农种树",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:42:50.355802"
+    },
+    "1387500": {
+      "appid": 1387500,
+      "name": "越野车机械师模拟器",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:42:50.471559"
+    },
+    "1387580": {
+      "appid": 1387580,
+      "name": "AbsentedAge: 亡灵少女的方格世界",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:42:50.979008"
+    },
+    "1387590": {
+      "appid": 1387590,
+      "name": "列传：革新战争",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:42:51.147211"
+    },
+    "1387910": {
+      "appid": 1387910,
+      "name": "BOOM Bound",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:42:52.387511"
+    },
+    "1388010": {
+      "appid": 1388010,
+      "name": "Easy puzzle: Animals 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:42:52.968252"
+    },
+    "1388030": {
+      "appid": 1388030,
+      "name": "Bocce VR Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:42:53.087959"
+    },
+    "1388130": {
+      "appid": 1388130,
+      "name": "Religion inc God Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:42:53.316574"
+    },
+    "1388150": {
+      "appid": 1388150,
+      "name": "Dispersion",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:42:53.555306"
+    },
+    "1388170": {
+      "appid": 1388170,
+      "name": "Rise Against the Invaders",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:42:53.882286"
+    },
+    "1388230": {
+      "appid": 1388230,
+      "name": "DANMAKAI: Red Forbidden Fruit",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T21:42:54.116953"
+    },
+    "1388320": {
+      "appid": 1388320,
+      "name": "老板，游戏凉了！- Game Company Simulator: back to 2000",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:42:54.716398"
+    },
+    "1388370": {
+      "appid": 1388370,
+      "name": "英雄装甲连",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:42:55.153385"
+    },
+    "1388390": {
+      "appid": 1388390,
+      "name": "Impossible Maze",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:42:55.358412"
+    },
+    "1388490": {
+      "appid": 1388490,
+      "name": "资本模拟器",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:42:55.914395"
+    },
+    "1388570": {
+      "appid": 1388570,
+      "name": "诱惑",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:42:56.517919"
+    },
+    "1388580": {
+      "appid": 1388580,
+      "name": "萌宠大赢家 / Blooming Business: Casino",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T21:42:56.689431"
+    },
+    "1388590": {
+      "appid": 1388590,
+      "name": "人中之龙６　生命诗篇。",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T21:42:56.809786"
+    },
+    "1388860": {
+      "appid": 1388860,
+      "name": "UNMEMORY",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:42:58.156905"
+    },
+    "1388870": {
+      "appid": 1388870,
+      "name": "Arcade Paradise",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T21:42:58.351987"
+    },
+    "1388880": {
+      "appid": 1388880,
+      "name": "Doki Doki Literature Club Plus!",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:42:58.476189"
+    },
+    "1389020": {
+      "appid": 1389020,
+      "name": "The Cleaner",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:42:59.395384"
+    },
+    "1389070": {
+      "appid": 1389070,
+      "name": "HOLY QURAN VR EXPERİENCE",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:42:59.778497"
+    },
+    "1389200": {
+      "appid": 1389200,
+      "name": "Cramped Room of Death",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:43:00.821616"
+    },
+    "1389360": {
+      "appid": 1389360,
+      "name": "机甲武装",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:43:01.364648"
+    },
+    "1389380": {
+      "appid": 1389380,
+      "name": "故乡的记忆：味缘篇",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:43:01.481515"
+    },
+    "1389550": {
+      "appid": 1389550,
+      "name": "精神检验师",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:43:02.396421"
+    },
+    "1389560": {
+      "appid": 1389560,
+      "name": "Paint Girl",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:43:02.531533"
+    },
+    "1389610": {
+      "appid": 1389610,
+      "name": "Hell Road VR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:43:02.808860"
+    },
+    "1389650": {
+      "appid": 1389650,
+      "name": "Escape Hospital-脫出 失憶病棟",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:43:03.083631"
+    },
+    "1389730": {
+      "appid": 1389730,
+      "name": "Abiko The Miko",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:43:03.661081"
+    },
+    "1389740": {
+      "appid": 1389740,
+      "name": "Accel Magician Mimi",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:43:03.792973"
+    },
+    "1389820": {
+      "appid": 1389820,
+      "name": "Animal Rescue",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:43:04.256639"
+    },
+    "1389840": {
+      "appid": 1389840,
+      "name": "Hotel: A Resort Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:43:04.507019"
+    },
+    "1389900": {
+      "appid": 1389900,
+      "name": "大鹏 - The Roc",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:43:05.013401"
     }
   }
 }
