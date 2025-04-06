@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-06T08:45:30.346947"
+    "updated": "2025-04-06T08:58:10.962851"
   },
   "games": {
     "570": {
@@ -100168,6 +100168,486 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-04-06T08:45:30.345429"
+    },
+    "1102190": {
+      "appid": 1102190,
+      "name": "Monster Train",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T08:57:42.736711"
+    },
+    "1102210": {
+      "appid": 1102210,
+      "name": "The Legend of Viccess",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T08:57:43.069115"
+    },
+    "1102260": {
+      "appid": 1102260,
+      "name": "RANK RUNNER",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T08:57:43.462099"
+    },
+    "1102490": {
+      "appid": 1102490,
+      "name": "The Tree",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T08:57:44.554363"
+    },
+    "1102500": {
+      "appid": 1102500,
+      "name": "A Glider's Journey",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T08:57:44.828447"
+    },
+    "1102580": {
+      "appid": 1102580,
+      "name": "Traffix",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T08:57:45.184108"
+    },
+    "1102650": {
+      "appid": 1102650,
+      "name": "霓虹城骑士",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T08:57:45.333419"
+    },
+    "1102880": {
+      "appid": 1102880,
+      "name": "Kawaii Deathu Desu",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T08:57:46.690965"
+    },
+    "1102930": {
+      "appid": 1102930,
+      "name": "KoboldKare",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T08:57:46.937050"
+    },
+    "1102980": {
+      "appid": 1102980,
+      "name": "英雄群侠传",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T08:57:47.159416"
+    },
+    "1103010": {
+      "appid": 1103010,
+      "name": "混沌扳机(ChaosTrigger)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T08:57:47.564935"
+    },
+    "1103100": {
+      "appid": 1103100,
+      "name": "1000 days to escape",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T08:57:48.467785"
+    },
+    "1103120": {
+      "appid": 1103120,
+      "name": "Dune Sea",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T08:57:48.594986"
+    },
+    "1103330": {
+      "appid": 1103330,
+      "name": "Card story",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T08:57:50.684678"
+    },
+    "1103510": {
+      "appid": 1103510,
+      "name": "异世江湖录(JiangHu Record  Of Another World)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T08:57:51.818707"
+    },
+    "1103520": {
+      "appid": 1103520,
+      "name": "Foodie Bear",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T08:57:51.935907"
+    },
+    "1103570": {
+      "appid": 1103570,
+      "name": "龍鳳客棧",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T08:57:52.553781"
+    },
+    "1103590": {
+      "appid": 1103590,
+      "name": "蹩脚的炼金术师(Incompetent Alchemist)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T08:57:52.666128"
+    },
+    "1103610": {
+      "appid": 1103610,
+      "name": "Sailor Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T08:57:52.776130"
+    },
+    "1103620": {
+      "appid": 1103620,
+      "name": "青岚血枫",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T08:57:52.890587"
+    },
+    "1103630": {
+      "appid": 1103630,
+      "name": "Event Horizon - Frontier",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T08:57:53.014105"
+    },
+    "1103650": {
+      "appid": 1103650,
+      "name": "Commando Dog",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T08:57:53.238384"
+    },
+    "1103730": {
+      "appid": 1103730,
+      "name": "Shing!",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T08:57:53.634606"
+    },
+    "1103820": {
+      "appid": 1103820,
+      "name": "伊尔多之围攻",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T08:57:54.519263"
+    },
+    "1103860": {
+      "appid": 1103860,
+      "name": "The Wizards - Dark Times: Brotherhood",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T08:57:54.669703"
+    },
+    "1104030": {
+      "appid": 1104030,
+      "name": "Vermin Hunter",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T08:57:56.192330"
+    },
+    "1104050": {
+      "appid": 1104050,
+      "name": "Deep Diving VR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T08:57:56.466452"
+    },
+    "1104210": {
+      "appid": 1104210,
+      "name": "Voxel Fly",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T08:57:57.199630"
+    },
+    "1104250": {
+      "appid": 1104250,
+      "name": "Poly Mole",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T08:57:57.586404"
+    },
+    "1104280": {
+      "appid": 1104280,
+      "name": "The Slormancer",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T08:57:57.836199"
+    },
+    "1104320": {
+      "appid": 1104320,
+      "name": "The Treasure of the Dragon",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T08:57:57.946915"
+    },
+    "1104330": {
+      "appid": 1104330,
+      "name": "Founders' Fortune",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T08:57:58.066512"
+    },
+    "1104340": {
+      "appid": 1104340,
+      "name": "努力工作吧 梦魔酱！",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T08:57:58.202104"
+    },
+    "1104380": {
+      "appid": 1104380,
+      "name": "The Room VR: A Dark Matter",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T08:57:58.323302"
+    },
+    "1104400": {
+      "appid": 1104400,
+      "name": "我们的大学",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T08:57:58.434426"
+    },
+    "1104630": {
+      "appid": 1104630,
+      "name": "PixoCities",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T08:57:59.833996"
+    },
+    "1104660": {
+      "appid": 1104660,
+      "name": "MO:Astray",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T08:57:59.966898"
+    },
+    "1104670": {
+      "appid": 1104670,
+      "name": "BAFF 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T08:58:00.100959"
+    },
+    "1104690": {
+      "appid": 1104690,
+      "name": "国王万岁(国王别饿死)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T08:58:00.232338"
+    },
+    "1104790": {
+      "appid": 1104790,
+      "name": "Pixel Force 像素特攻队",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T08:58:00.479500"
+    },
+    "1105040": {
+      "appid": 1105040,
+      "name": "我炼金超牛",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T08:58:01.791874"
+    },
+    "1105110": {
+      "appid": 1105110,
+      "name": "OXXO",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T08:58:02.114899"
+    },
+    "1105210": {
+      "appid": 1105210,
+      "name": "MonsterCastle - 怪物城堡",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T08:58:02.621837"
+    },
+    "1105330": {
+      "appid": 1105330,
+      "name": "Dark Moon",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T08:58:03.083097"
+    },
+    "1105410": {
+      "appid": 1105410,
+      "name": "Shine's Adventures 2 (Zombie Attack)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T08:58:03.261057"
+    },
+    "1105420": {
+      "appid": 1105420,
+      "name": "Game of Thrones Winter is Coming",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T08:58:03.366861"
+    },
+    "1105500": {
+      "appid": 1105500,
+      "name": "人中之龙４　继承传说者",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T08:58:04.367876"
+    },
+    "1105510": {
+      "appid": 1105510,
+      "name": "人中之龙５　实现梦想者",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T08:58:04.483922"
+    },
+    "1105620": {
+      "appid": 1105620,
+      "name": "Exertus",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T08:58:05.376979"
+    },
+    "1105670": {
+      "appid": 1105670,
+      "name": "最后的咒语",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T08:58:05.820847"
+    },
+    "1105730": {
+      "appid": 1105730,
+      "name": "HANGMAN",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T08:58:06.062436"
+    },
+    "1105970": {
+      "appid": 1105970,
+      "name": "不死/IMMORTAL",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T08:58:06.970622"
+    },
+    "1106060": {
+      "appid": 1106060,
+      "name": "Attack it! Devil legion",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T08:58:07.313647"
+    },
+    "1106660": {
+      "appid": 1106660,
+      "name": "Fire And Thunder",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T08:58:08.284953"
+    },
+    "1106690": {
+      "appid": 1106690,
+      "name": "巫师超凡者 Legend of the wizard",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T08:58:08.690109"
+    },
+    "1106710": {
+      "appid": 1106710,
+      "name": "On The Verge II",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T08:58:08.945053"
+    },
+    "1106840": {
+      "appid": 1106840,
+      "name": "Hydroneer",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T08:58:09.853846"
+    },
+    "1106860": {
+      "appid": 1106860,
+      "name": "AHEGAL SEASONS",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T08:58:09.974501"
+    },
+    "1106920": {
+      "appid": 1106920,
+      "name": "Nyanco",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T08:58:10.322237"
+    },
+    "1106940": {
+      "appid": 1106940,
+      "name": "How to Raise a Wolf Girl",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T08:58:10.585675"
     }
   }
 }

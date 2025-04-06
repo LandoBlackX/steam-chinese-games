@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-06T08:45:30.346947"
+    "updated": "2025-04-06T08:58:10.962851"
   },
   "games": {
     "570": {
@@ -70862,6 +70862,78 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-06T08:45:30.052978"
+    },
+    "1102190": {
+      "appid": 1102190,
+      "name": "Monster Train",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T08:57:42.736711"
+    },
+    "1102880": {
+      "appid": 1102880,
+      "name": "Kawaii Deathu Desu",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T08:57:46.690965"
+    },
+    "1103100": {
+      "appid": 1103100,
+      "name": "1000 days to escape",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T08:57:48.467785"
+    },
+    "1103490": {
+      "appid": 1103490,
+      "name": "Sweet Dream Succubus - Nightmare Edition",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T08:57:51.681640"
+    },
+    "1104660": {
+      "appid": 1104660,
+      "name": "MO:Astray",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T08:57:59.966898"
+    },
+    "1105670": {
+      "appid": 1105670,
+      "name": "最后的咒语",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T08:58:05.820847"
+    },
+    "1106840": {
+      "appid": 1106840,
+      "name": "Hydroneer",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T08:58:09.853846"
+    },
+    "1106860": {
+      "appid": 1106860,
+      "name": "AHEGAL SEASONS",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T08:58:09.974501"
+    },
+    "1106940": {
+      "appid": 1106940,
+      "name": "How to Raise a Wolf Girl",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T08:58:10.585675"
     }
   }
 }
