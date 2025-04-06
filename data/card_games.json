@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-06T11:40:30.749389"
+    "updated": "2025-04-06T11:53:43.576837"
   },
   "games": {
     "570": {
@@ -72222,6 +72222,54 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-06T11:40:28.881426"
+    },
+    "1167140": {
+      "appid": 1167140,
+      "name": "征服的荣耀：围城",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T11:53:10.033888"
+    },
+    "1167170": {
+      "appid": 1167170,
+      "name": "Guilty Parade",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T11:53:10.745365"
+    },
+    "1167450": {
+      "appid": 1167450,
+      "name": "DAEMON X MACHINA",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T11:53:13.054809"
+    },
+    "1168660": {
+      "appid": 1168660,
+      "name": "Barro 2020",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T11:53:24.369243"
+    },
+    "1170340": {
+      "appid": 1170340,
+      "name": "Hentai Jigsaw Puzzle 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T11:53:35.196319"
+    },
+    "1171310": {
+      "appid": 1171310,
+      "name": "Valakas Story",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T11:53:41.889301"
     }
   }
 }
