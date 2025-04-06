@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-06T18:20:40.005386"
+    "updated": "2025-04-06T18:35:20.417545"
   },
   "games": {
     "570": {
@@ -75358,6 +75358,86 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-04-06T18:20:37.153456"
+    },
+    "1330560": {
+      "appid": 1330560,
+      "name": "Hairdresser Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T18:34:54.232679"
+    },
+    "1330890": {
+      "appid": 1330890,
+      "name": "Crystal Caves HD",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T18:34:56.959450"
+    },
+    "1332010": {
+      "appid": 1332010,
+      "name": "Stray",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T18:35:04.615116"
+    },
+    "1332720": {
+      "appid": 1332720,
+      "name": "Thief Simulator 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T18:35:08.857003"
+    },
+    "1332990": {
+      "appid": 1332990,
+      "name": "The Hayseed Knight",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T18:35:10.605580"
+    },
+    "1333200": {
+      "appid": 1333200,
+      "name": "努努之歌：英雄联盟外传",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T18:35:12.211262"
+    },
+    "1333560": {
+      "appid": 1333560,
+      "name": "Timestamps: Unconditional Love",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T18:35:14.820245"
+    },
+    "1333910": {
+      "appid": 1333910,
+      "name": "Sizeable",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T18:35:16.590966"
+    },
+    "1334000": {
+      "appid": 1334000,
+      "name": "Wordle",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T18:35:17.422021"
+    },
+    "1334010": {
+      "appid": 1334010,
+      "name": "Last Room",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T18:35:17.555860"
     }
   }
 }
