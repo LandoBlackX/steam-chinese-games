@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-06T14:24:07.893225"
+    "updated": "2025-04-06T14:38:38.873799"
   },
   "games": {
     "570": {
@@ -114176,6 +114176,406 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-04-06T14:24:07.718800"
+    },
+    "1233240": {
+      "appid": 1233240,
+      "name": "墨游记 Inkball adventures",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T14:38:09.023322"
+    },
+    "1233250": {
+      "appid": 1233250,
+      "name": "Abracadabrew",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T14:38:09.163291"
+    },
+    "1233260": {
+      "appid": 1233260,
+      "name": "FAIRY TAIL",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T14:38:09.619945"
+    },
+    "1233270": {
+      "appid": 1233270,
+      "name": "一生推不如一生恋",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T14:38:09.836112"
+    },
+    "1233300": {
+      "appid": 1233300,
+      "name": "Rush & Command",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T14:38:09.963272"
+    },
+    "1233410": {
+      "appid": 1233410,
+      "name": "MicroWorks / 微机派对",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T14:38:10.477725"
+    },
+    "1233540": {
+      "appid": 1233540,
+      "name": "Buddy父母的相遇过程",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T14:38:11.516455"
+    },
+    "1233570": {
+      "appid": 1233570,
+      "name": "《镜之边缘：Catalyst》",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T14:38:11.766837"
+    },
+    "1233590": {
+      "appid": 1233590,
+      "name": "Warhammer Age of Sigmar: Storm Ground",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T14:38:12.062295"
+    },
+    "1233710": {
+      "appid": 1233710,
+      "name": "精灵饲养牧場",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T14:38:13.160678"
+    },
+    "1233800": {
+      "appid": 1233800,
+      "name": "Kandagawa Jet Girls",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T14:38:14.442768"
+    },
+    "1233880": {
+      "appid": 1233880,
+      "name": "魔界战记DISGAEA４Return",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T14:38:15.184484"
+    },
+    "1233900": {
+      "appid": 1233900,
+      "name": "Lustful Valley",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T14:38:15.323257"
+    },
+    "1234120": {
+      "appid": 1234120,
+      "name": "AeternoBlade",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T14:38:16.529083"
+    },
+    "1234180": {
+      "appid": 1234180,
+      "name": "达萨隆之月",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T14:38:16.840951"
+    },
+    "1234320": {
+      "appid": 1234320,
+      "name": "Kingless Land",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T14:38:18.047938"
+    },
+    "1234330": {
+      "appid": 1234330,
+      "name": "INTO THE BACKROOMS",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T14:38:18.173863"
+    },
+    "1234430": {
+      "appid": 1234430,
+      "name": "Ad Infinitum",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T14:38:18.918483"
+    },
+    "1234550": {
+      "appid": 1234550,
+      "name": "Quest Rooms",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T14:38:19.747916"
+    },
+    "1234690": {
+      "appid": 1234690,
+      "name": "熊孩子联盟 Gotcha",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T14:38:20.930042"
+    },
+    "1234840": {
+      "appid": 1234840,
+      "name": "Bone Marrow",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T14:38:21.843272"
+    },
+    "1234870": {
+      "appid": 1234870,
+      "name": "PsyHotel Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T14:38:22.252262"
+    },
+    "1234940": {
+      "appid": 1234940,
+      "name": "Astronarch",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T14:38:23.081052"
+    },
+    "1235100": {
+      "appid": 1235100,
+      "name": "Rolling Hills: Make Sushi, Make Friends",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T14:38:23.840433"
+    },
+    "1235110": {
+      "appid": 1235110,
+      "name": "Rising Star 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T14:38:23.971231"
+    },
+    "1235140": {
+      "appid": 1235140,
+      "name": "人中之龙7　光与暗的去向　国际版",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T14:38:24.390924"
+    },
+    "1235440": {
+      "appid": 1235440,
+      "name": "长星 Long Star",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T14:38:25.635905"
+    },
+    "1235450": {
+      "appid": 1235450,
+      "name": "寻宝浪客：念",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T14:38:25.777493"
+    },
+    "1235470": {
+      "appid": 1235470,
+      "name": "Lotus Knight",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T14:38:26.202552"
+    },
+    "1235510": {
+      "appid": 1235510,
+      "name": "æ´ç©ºï¼æªæ¥çå®æ",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T14:38:26.498540"
+    },
+    "1235830": {
+      "appid": 1235830,
+      "name": "黑水绮谭",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T14:38:27.581478"
+    },
+    "1236000": {
+      "appid": 1236000,
+      "name": "Armoured Onslaught",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T14:38:28.335494"
+    },
+    "1236170": {
+      "appid": 1236170,
+      "name": "The Fold: Ingression",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T14:38:29.347842"
+    },
+    "1236250": {
+      "appid": 1236250,
+      "name": "Cult达人极限攀岩",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T14:38:29.855187"
+    },
+    "1236400": {
+      "appid": 1236400,
+      "name": "Hentai hentai",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T14:38:30.396929"
+    },
+    "1236490": {
+      "appid": 1236490,
+      "name": "Bamerang",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T14:38:31.081802"
+    },
+    "1236700": {
+      "appid": 1236700,
+      "name": "Goddess of Hentai",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T14:38:32.018823"
+    },
+    "1236780": {
+      "appid": 1236780,
+      "name": "秋叶脱物语: Hellbound & Debriefed",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T14:38:32.589547"
+    },
+    "1236930": {
+      "appid": 1236930,
+      "name": "Outliver: Tribulation",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T14:38:33.680921"
+    },
+    "1237210": {
+      "appid": 1237210,
+      "name": "EMPTY",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T14:38:35.448311"
+    },
+    "1237220": {
+      "appid": 1237220,
+      "name": "Hentai Thigh",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T14:38:35.580902"
+    },
+    "1237250": {
+      "appid": 1237250,
+      "name": "Cloudscape",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T14:38:35.836400"
+    },
+    "1237310": {
+      "appid": 1237310,
+      "name": "Rocket Shipment",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T14:38:36.113038"
+    },
+    "1237320": {
+      "appid": 1237320,
+      "name": "索尼克 未知边境",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T14:38:36.246276"
+    },
+    "1237330": {
+      "appid": 1237330,
+      "name": "GraFi Valentine",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T14:38:36.376005"
+    },
+    "1237490": {
+      "appid": 1237490,
+      "name": "Redneck Ed: Astro Monsters Show",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T14:38:37.123558"
+    },
+    "1237610": {
+      "appid": 1237610,
+      "name": "The Catch: Carp & Coarse Fishing",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T14:38:38.193420"
+    },
+    "1237660": {
+      "appid": 1237660,
+      "name": "终回〇Murder Reservation",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T14:38:38.311509"
+    },
+    "1237670": {
+      "appid": 1237670,
+      "name": "Anti Air",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T14:38:38.443195"
+    },
+    "1237730": {
+      "appid": 1237730,
+      "name": "Catlateral Damage: Remeowstered",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T14:38:38.872467"
     }
   }
 }
