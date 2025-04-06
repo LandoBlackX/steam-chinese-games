@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-06T13:43:48.447056"
+    "updated": "2025-04-06T13:55:27.765005"
   },
   "games": {
     "570": {
@@ -112632,6 +112632,510 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-06T13:43:47.149258"
+    },
+    "1218520": {
+      "appid": 1218520,
+      "name": "Neko Neko",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T13:54:58.173121"
+    },
+    "1218550": {
+      "appid": 1218550,
+      "name": "Hassle 1977",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T13:54:58.744257"
+    },
+    "1218640": {
+      "appid": 1218640,
+      "name": "Draco Knight",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T13:54:59.586070"
+    },
+    "1218680": {
+      "appid": 1218680,
+      "name": "Beatdown Brawler",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T13:55:00.067766"
+    },
+    "1218710": {
+      "appid": 1218710,
+      "name": "逃离死亡堡",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T13:55:00.212888"
+    },
+    "1218780": {
+      "appid": 1218780,
+      "name": "Little Shop of Junk",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T13:55:01.069930"
+    },
+    "1218900": {
+      "appid": 1218900,
+      "name": "Zup! Z",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T13:55:02.078987"
+    },
+    "1219000": {
+      "appid": 1219000,
+      "name": "Pastel: Blind Karma",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T13:55:02.718874"
+    },
+    "1219310": {
+      "appid": 1219310,
+      "name": "欢乐逗病毒TD",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T13:55:05.101396"
+    },
+    "1219340": {
+      "appid": 1219340,
+      "name": "Lisistrata - RPG/Visual Novel",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T13:55:05.333647"
+    },
+    "1219480": {
+      "appid": 1219480,
+      "name": "Poly Squad",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T13:55:05.982039"
+    },
+    "1219550": {
+      "appid": 1219550,
+      "name": "DORAIJIN",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T13:55:06.904353"
+    },
+    "1219590": {
+      "appid": 1219590,
+      "name": "HEAT REBORN 火线任务",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T13:55:07.342691"
+    },
+    "1219610": {
+      "appid": 1219610,
+      "name": "Courage and Honor",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T13:55:07.601865"
+    },
+    "1219800": {
+      "appid": 1219800,
+      "name": "Galactic Thunderdome",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T13:55:08.609645"
+    },
+    "1219810": {
+      "appid": 1219810,
+      "name": "恆夜世界的魔法少女 Magia Knabino in the Eternal Night",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T13:55:08.764097"
+    },
+    "1219820": {
+      "appid": 1219820,
+      "name": "Pyramid Defense",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T13:55:08.907975"
+    },
+    "1219950": {
+      "appid": 1219950,
+      "name": "Evil Democracy: 1932",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T13:55:09.592968"
+    },
+    "1220010": {
+      "appid": 1220010,
+      "name": "归家异途2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T13:55:10.796362"
+    },
+    "1220080": {
+      "appid": 1220080,
+      "name": "Racing Bike Fight (Corona Virus Lockdown Special)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T13:55:11.388651"
+    },
+    "1220100": {
+      "appid": 1220100,
+      "name": "触手巧匠",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T13:55:11.514178"
+    },
+    "1220140": {
+      "appid": 1220140,
+      "name": "Cartel Tycoon",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T13:55:11.935313"
+    },
+    "1220150": {
+      "appid": 1220150,
+      "name": "Blue Fire",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T13:55:12.080179"
+    },
+    "1220170": {
+      "appid": 1220170,
+      "name": "Eville 埃维尔村",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T13:55:12.377346"
+    },
+    "1220190": {
+      "appid": 1220190,
+      "name": "Hentai Darts",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T13:55:12.497263"
+    },
+    "1220370": {
+      "appid": 1220370,
+      "name": "Ever Forward",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T13:55:13.186115"
+    },
+    "1220650": {
+      "appid": 1220650,
+      "name": "My Forest Home!",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T13:55:14.702336"
+    },
+    "1220670": {
+      "appid": 1220670,
+      "name": "艾恩洛亚：炼金起源之章",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T13:55:14.801932"
+    },
+    "1220840": {
+      "appid": 1220840,
+      "name": "退休模拟器Retirement Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T13:55:15.538652"
+    },
+    "1220880": {
+      "appid": 1220880,
+      "name": "陆大迹神Ⅱ",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T13:55:15.809857"
+    },
+    "1220890": {
+      "appid": 1220890,
+      "name": "Ghone is gone",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T13:55:15.941424"
+    },
+    "1220920": {
+      "appid": 1220920,
+      "name": "ERO Girl Painter",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T13:55:16.333422"
+    },
+    "1221030": {
+      "appid": 1221030,
+      "name": "ClickCells:  Winter Lady",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T13:55:16.988957"
+    },
+    "1221050": {
+      "appid": 1221050,
+      "name": "极限低模桌宠",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T13:55:17.095535"
+    },
+    "1221080": {
+      "appid": 1221080,
+      "name": "Strip 4: Classmate Study",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T13:55:17.359099"
+    },
+    "1221240": {
+      "appid": 1221240,
+      "name": "Tavern Cards",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T13:55:17.664417"
+    },
+    "1221250": {
+      "appid": 1221250,
+      "name": "诺科",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T13:55:17.884649"
+    },
+    "1221260": {
+      "appid": 1221260,
+      "name": "Pope Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T13:55:18.000296"
+    },
+    "1221310": {
+      "appid": 1221310,
+      "name": "Kickrexing",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T13:55:18.373774"
+    },
+    "1221400": {
+      "appid": 1221400,
+      "name": "相信我，兄弟",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T13:55:18.901754"
+    },
+    "1221420": {
+      "appid": 1221420,
+      "name": "零怨 The curse of the dead",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T13:55:19.072742"
+    },
+    "1221430": {
+      "appid": 1221430,
+      "name": "美好的生活",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T13:55:19.245337"
+    },
+    "1221440": {
+      "appid": 1221440,
+      "name": "受苦之旅",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T13:55:19.381691"
+    },
+    "1221480": {
+      "appid": 1221480,
+      "name": "Big Hops",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T13:55:19.703751"
+    },
+    "1221510": {
+      "appid": 1221510,
+      "name": "IMM Defense 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T13:55:19.819713"
+    },
+    "1221540": {
+      "appid": 1221540,
+      "name": "大家一起观颜察色。",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T13:55:20.107817"
+    },
+    "1221620": {
+      "appid": 1221620,
+      "name": "平妖奇谭 Kungfu & Monster",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T13:55:20.590571"
+    },
+    "1221650": {
+      "appid": 1221650,
+      "name": "Boulder Dash Deluxe",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T13:55:21.035847"
+    },
+    "1221800": {
+      "appid": 1221800,
+      "name": "Anime Artist 2: Lovely Danya",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T13:55:21.798586"
+    },
+    "1221990": {
+      "appid": 1221990,
+      "name": "Chronicle: Unit Eight",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T13:55:23.014994"
+    },
+    "1222040": {
+      "appid": 1222040,
+      "name": "Offroad Mania",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T13:55:23.577212"
+    },
+    "1222050": {
+      "appid": 1222050,
+      "name": "幻想讨幻经 | Touhou Mechanical Scrollery",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T13:55:23.699344"
+    },
+    "1222090": {
+      "appid": 1222090,
+      "name": "Nevaeh",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T13:55:24.181989"
+    },
+    "1222140": {
+      "appid": 1222140,
+      "name": "底特律：化身为人",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T13:55:24.432710"
+    },
+    "1222160": {
+      "appid": 1222160,
+      "name": "毛笔模拟器",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T13:55:24.753231"
+    },
+    "1222180": {
+      "appid": 1222180,
+      "name": "复古漂移",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T13:55:25.030523"
+    },
+    "1222210": {
+      "appid": 1222210,
+      "name": "超逼真的攻城模拟器",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T13:55:25.301961"
+    },
+    "1222270": {
+      "appid": 1222270,
+      "name": "Gunbrick: Reloaded",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T13:55:26.374635"
+    },
+    "1222290": {
+      "appid": 1222290,
+      "name": "Heist Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T13:55:26.635837"
+    },
+    "1222300": {
+      "appid": 1222300,
+      "name": "Into The Flames",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T13:55:26.811359"
+    },
+    "1222330": {
+      "appid": 1222330,
+      "name": "Hentai puzzle Simple",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T13:55:26.943002"
+    },
+    "1222340": {
+      "appid": 1222340,
+      "name": "Sockventure",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T13:55:27.053558"
+    },
+    "1222370": {
+      "appid": 1222370,
+      "name": "涅克罗蒙达：赏金猎人",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T13:55:27.355274"
     }
   }
 }
