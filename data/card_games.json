@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-06T07:52:05.920613"
+    "updated": "2025-04-06T07:55:00.788910"
   },
   "games": {
     "570": {
@@ -70094,6 +70094,94 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-04-06T07:52:00.733468"
+    },
+    "1064130": {
+      "appid": 1064130,
+      "name": "Sakura MMO 3",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T07:54:32.676417"
+    },
+    "1064200": {
+      "appid": 1064200,
+      "name": "Brewer",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T07:54:33.580711"
+    },
+    "1065180": {
+      "appid": 1065180,
+      "name": "Azure Striker Gunvolt 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T07:54:40.269748"
+    },
+    "1065260": {
+      "appid": 1065260,
+      "name": "幻走空中竞速",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T07:54:40.923827"
+    },
+    "1065310": {
+      "appid": 1065310,
+      "name": "暗邪西部",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T07:54:41.467242"
+    },
+    "1065940": {
+      "appid": 1065940,
+      "name": "懵懂少女惠子",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T07:54:45.501609"
+    },
+    "1066030": {
+      "appid": 1066030,
+      "name": "Heroland",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T07:54:46.208343"
+    },
+    "1066630": {
+      "appid": 1066630,
+      "name": "樱花裁决",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T07:54:49.910455"
+    },
+    "1067540": {
+      "appid": 1067540,
+      "name": "洛基：北欧怪奇之旅",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T07:54:55.702367"
+    },
+    "1067720": {
+      "appid": 1067720,
+      "name": "Hellsinker.",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T07:54:56.490522"
+    },
+    "1068360": {
+      "appid": 1068360,
+      "name": "Fearmonium",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T07:54:59.667563"
     }
   }
 }
