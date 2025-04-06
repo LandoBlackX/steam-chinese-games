@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-06T15:31:17.164411"
+    "updated": "2025-04-06T15:33:23.709956"
   },
   "games": {
     "570": {
@@ -116544,6 +116544,534 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-04-06T15:31:16.155484"
+    },
+    "1259370": {
+      "appid": 1259370,
+      "name": "Worm Jazz",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:32:54.956056"
+    },
+    "1259390": {
+      "appid": 1259390,
+      "name": "Military Service",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:32:55.261037"
+    },
+    "1259420": {
+      "appid": 1259420,
+      "name": "Days Gone",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:32:55.419074"
+    },
+    "1259610": {
+      "appid": 1259610,
+      "name": "Virus Buster",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:32:57.429915"
+    },
+    "1259640": {
+      "appid": 1259640,
+      "name": "Tiny Room Stories: Town Mystery",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T15:32:57.584183"
+    },
+    "1259740": {
+      "appid": 1259740,
+      "name": "Escape Dungeon-莎莉丝 地牢脱出 ",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:32:57.875942"
+    },
+    "1259760": {
+      "appid": 1259760,
+      "name": "The Sacred Acorn",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:32:58.017257"
+    },
+    "1259790": {
+      "appid": 1259790,
+      "name": "魔法气泡™ 特趣思™ 俄罗斯方块™ 2 ",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:32:58.158124"
+    },
+    "1259840": {
+      "appid": 1259840,
+      "name": "The House of Da Vinci 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T15:32:58.591653"
+    },
+    "1259860": {
+      "appid": 1259860,
+      "name": "GraFi St.Patrick",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:32:58.736750"
+    },
+    "1259980": {
+      "appid": 1259980,
+      "name": "RIDE 4",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T15:32:59.463903"
+    },
+    "1260220": {
+      "appid": 1260220,
+      "name": "Hentai Two Girls",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:33:00.726420"
+    },
+    "1260240": {
+      "appid": 1260240,
+      "name": "30 days of plague",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:33:00.870747"
+    },
+    "1260320": {
+      "appid": 1260320,
+      "name": "猛兽派对",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:33:01.472845"
+    },
+    "1260330": {
+      "appid": 1260330,
+      "name": "我和妹妹被锁在家里 - Prologue",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:33:01.601526"
+    },
+    "1260450": {
+      "appid": 1260450,
+      "name": "Escaping Atlantis",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:33:02.610784"
+    },
+    "1260490": {
+      "appid": 1260490,
+      "name": "Astro-g",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:33:02.900317"
+    },
+    "1260520": {
+      "appid": 1260520,
+      "name": "Patrick's Parabox",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:33:03.036801"
+    },
+    "1260540": {
+      "appid": 1260540,
+      "name": "China Simulator | 中國模擬器",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:33:03.164623"
+    },
+    "1260590": {
+      "appid": 1260590,
+      "name": "冥狱战术 (Hadean Tactics)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T15:33:03.866154"
+    },
+    "1260620": {
+      "appid": 1260620,
+      "name": "Hentai Fantasy",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:33:04.007619"
+    },
+    "1260800": {
+      "appid": 1260800,
+      "name": "Rocking Legend",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:33:05.602083"
+    },
+    "1260810": {
+      "appid": 1260810,
+      "name": "东方华彩乱战2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:33:05.825778"
+    },
+    "1261000": {
+      "appid": 1261000,
+      "name": "Spoon Simulator 2020",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:33:07.543107"
+    },
+    "1261040": {
+      "appid": 1261040,
+      "name": "Streamer Life Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:33:07.952654"
+    },
+    "1261060": {
+      "appid": 1261060,
+      "name": "Cosmic Journey PC Live Wallpaper",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:33:08.102892"
+    },
+    "1261090": {
+      "appid": 1261090,
+      "name": "Hentai Karada",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:33:08.244892"
+    },
+    "1261130": {
+      "appid": 1261130,
+      "name": "Shoot Them 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:33:08.398575"
+    },
+    "1261170": {
+      "appid": 1261170,
+      "name": "HANGMAN II",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:33:08.533441"
+    },
+    "1261180": {
+      "appid": 1261180,
+      "name": "Rebirth Online",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:33:08.660861"
+    },
+    "1261200": {
+      "appid": 1261200,
+      "name": "王牌社团",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:33:08.801187"
+    },
+    "1261220": {
+      "appid": 1261220,
+      "name": "山的桃源乡，海的乌托邦",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:33:08.941654"
+    },
+    "1261360": {
+      "appid": 1261360,
+      "name": "Anitons",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:33:09.538483"
+    },
+    "1261370": {
+      "appid": 1261370,
+      "name": "WILDLANDS",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:33:09.675031"
+    },
+    "1261530": {
+      "appid": 1261530,
+      "name": "Ponpu",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:33:10.419486"
+    },
+    "1261960": {
+      "appid": 1261960,
+      "name": "STRIKERS 1945",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:33:12.490535"
+    },
+    "1261970": {
+      "appid": 1261970,
+      "name": "GUNBIRD",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:33:12.644661"
+    },
+    "1261980": {
+      "appid": 1261980,
+      "name": "Samurai Aces",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:33:12.786883"
+    },
+    "1262060": {
+      "appid": 1262060,
+      "name": "戰鬥公羊",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T15:33:13.258749"
+    },
+    "1262070": {
+      "appid": 1262070,
+      "name": "Arc Defence",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:33:13.414290"
+    },
+    "1262080": {
+      "appid": 1262080,
+      "name": "Black blood",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:33:13.542486"
+    },
+    "1262140": {
+      "appid": 1262140,
+      "name": "Rangok Skies",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:33:14.130678"
+    },
+    "1262240": {
+      "appid": 1262240,
+      "name": "植物大战僵尸™: 和睦小镇保卫战",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:33:14.686921"
+    },
+    "1262350": {
+      "appid": 1262350,
+      "name": "SIGNALIS",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:33:14.965661"
+    },
+    "1262460": {
+      "appid": 1262460,
+      "name": "Zompiercer",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:33:15.379685"
+    },
+    "1262540": {
+      "appid": 1262540,
+      "name": "Need for Speed™",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T15:33:15.966586"
+    },
+    "1262560": {
+      "appid": 1262560,
+      "name": "Need for Speed™ Most Wanted",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T15:33:16.132673"
+    },
+    "1262580": {
+      "appid": 1262580,
+      "name": "Need for Speed™ Payback",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:33:16.307243"
+    },
+    "1262600": {
+      "appid": 1262600,
+      "name": "Need for Speed™ Rivals",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T15:33:16.443936"
+    },
+    "1262720": {
+      "appid": 1262720,
+      "name": "Ruin Raiders",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:33:16.715241"
+    },
+    "1262780": {
+      "appid": 1262780,
+      "name": "Polary",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:33:17.307186"
+    },
+    "1262790": {
+      "appid": 1262790,
+      "name": "Crazy Projectile",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:33:17.456295"
+    },
+    "1262910": {
+      "appid": 1262910,
+      "name": "Heart's Medicine - Doctor's Oath",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:33:18.392966"
+    },
+    "1262920": {
+      "appid": 1262920,
+      "name": "Horned Knight",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:33:18.568346"
+    },
+    "1263070": {
+      "appid": 1263070,
+      "name": "迷雾征程",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:33:19.206709"
+    },
+    "1263100": {
+      "appid": 1263100,
+      "name": "Last Kids on Earth and the Staff of Doom",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:33:19.573473"
+    },
+    "1263160": {
+      "appid": 1263160,
+      "name": "Oppai Muse",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T15:33:20.153212"
+    },
+    "1263200": {
+      "appid": 1263200,
+      "name": "Smashing Spirits: 巴西首位拳击手",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:33:20.429027"
+    },
+    "1263220": {
+      "appid": 1263220,
+      "name": "尸灾-生还者（重置版）",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:33:20.696327"
+    },
+    "1263350": {
+      "appid": 1263350,
+      "name": "The Company Man",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:33:21.130179"
+    },
+    "1263370": {
+      "appid": 1263370,
+      "name": "Seek Girl:Fog Ⅰ",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:33:21.272878"
+    },
+    "1263450": {
+      "appid": 1263450,
+      "name": "蔚蓝月下",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:33:21.535836"
+    },
+    "1263550": {
+      "appid": 1263550,
+      "name": "Combat Arms: the Classic",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:33:22.368898"
+    },
+    "1263620": {
+      "appid": 1263620,
+      "name": "Yacht Mechanic Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:33:22.816756"
+    },
+    "1263630": {
+      "appid": 1263630,
+      "name": "Maggie's Movies - Second Shot",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:33:22.964003"
+    },
+    "1263720": {
+      "appid": 1263720,
+      "name": "长天 VR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:33:23.545875"
     }
   }
 }
