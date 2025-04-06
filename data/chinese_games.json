@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-06T06:47:29.618943"
+    "updated": "2025-04-06T06:51:05.489676"
   },
   "games": {
     "570": {
@@ -92840,6 +92840,390 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-04-06T06:47:28.644745"
+    },
+    "1031270": {
+      "appid": 1031270,
+      "name": "农场生活",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T06:50:41.236688"
+    },
+    "1031290": {
+      "appid": 1031290,
+      "name": "Grove flowers",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T06:50:41.521599"
+    },
+    "1031460": {
+      "appid": 1031460,
+      "name": "Sail Forth",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T06:50:42.773420"
+    },
+    "1031470": {
+      "appid": 1031470,
+      "name": "Beasty Karts",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T06:50:42.909391"
+    },
+    "1031480": {
+      "appid": 1031480,
+      "name": "东方幕华祭 春雪篇",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T06:50:43.040824"
+    },
+    "1031540": {
+      "appid": 1031540,
+      "name": "aMAZE Lunar",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T06:50:43.157144"
+    },
+    "1031610": {
+      "appid": 1031610,
+      "name": "Up Square",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T06:50:43.707936"
+    },
+    "1031730": {
+      "appid": 1031730,
+      "name": "Battlefall: State of Conflict",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T06:50:44.477974"
+    },
+    "1031790": {
+      "appid": 1031790,
+      "name": "Eternower",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T06:50:44.697638"
+    },
+    "1032170": {
+      "appid": 1032170,
+      "name": "Robo Instructus",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T06:50:46.490387"
+    },
+    "1032240": {
+      "appid": 1032240,
+      "name": "Line Loops - Logic Puzzles",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T06:50:46.970270"
+    },
+    "1032360": {
+      "appid": 1032360,
+      "name": "The Burned Ground",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T06:50:47.521419"
+    },
+    "1032510": {
+      "appid": 1032510,
+      "name": "平衡滚动",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T06:50:48.095225"
+    },
+    "1032590": {
+      "appid": 1032590,
+      "name": "秘馆疑踪 / Heaven Dust",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T06:50:48.801407"
+    },
+    "1032670": {
+      "appid": 1032670,
+      "name": "FOCUS on YOU",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T06:50:49.161363"
+    },
+    "1032740": {
+      "appid": 1032740,
+      "name": "浮游都市的建成方法",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T06:50:49.650239"
+    },
+    "1032790": {
+      "appid": 1032790,
+      "name": "冒险公社",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T06:50:50.001459"
+    },
+    "1032830": {
+      "appid": 1032830,
+      "name": "Eldervale",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T06:50:50.120201"
+    },
+    "1032980": {
+      "appid": 1032980,
+      "name": "Wild Life",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T06:50:50.221691"
+    },
+    "1033140": {
+      "appid": 1033140,
+      "name": "Church Era",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T06:50:51.361204"
+    },
+    "1033220": {
+      "appid": 1033220,
+      "name": "The Amazing Shrinking Giraffe",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T06:50:51.723834"
+    },
+    "1033240": {
+      "appid": 1033240,
+      "name": "Nystagmus",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T06:50:51.961584"
+    },
+    "1033420": {
+      "appid": 1033420,
+      "name": "9-nine-天色天歌天籁音",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T06:50:52.864828"
+    },
+    "1033450": {
+      "appid": 1033450,
+      "name": "Treasure chest Corps-結界を維持するため、魔物を退治した",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T06:50:52.991436"
+    },
+    "1033600": {
+      "appid": 1033600,
+      "name": "Cannon Fire: Bloody Sea",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T06:50:53.542271"
+    },
+    "1033640": {
+      "appid": 1033640,
+      "name": "SYNAPTIC DRIVE",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T06:50:54.212451"
+    },
+    "1033660": {
+      "appid": 1033660,
+      "name": "Destruction",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T06:50:54.346995"
+    },
+    "1033670": {
+      "appid": 1033670,
+      "name": "Defoliation",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T06:50:54.480253"
+    },
+    "1033950": {
+      "appid": 1033950,
+      "name": "哀歌",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T06:50:55.655057"
+    },
+    "1034040": {
+      "appid": 1034040,
+      "name": "缘，薄暮之声",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T06:50:56.121186"
+    },
+    "1034150": {
+      "appid": 1034150,
+      "name": "琉璃编年史",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T06:50:56.678615"
+    },
+    "1034230": {
+      "appid": 1034230,
+      "name": "***",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T06:50:57.137920"
+    },
+    "1034440": {
+      "appid": 1034440,
+      "name": "Roach Killer",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T06:50:58.495905"
+    },
+    "1034860": {
+      "appid": 1034860,
+      "name": "冒險奇譚高畫質重製版",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T06:50:59.894352"
+    },
+    "1034900": {
+      "appid": 1034900,
+      "name": "Blaster Master Zero",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T06:51:00.266900"
+    },
+    "1034910": {
+      "appid": 1034910,
+      "name": "Blaster Master Zero 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T06:51:00.416080"
+    },
+    "1035120": {
+      "appid": 1035120,
+      "name": "Lust from Beyond",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T06:51:01.503538"
+    },
+    "1035190": {
+      "appid": 1035190,
+      "name": "Zombies In The Forest",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T06:51:01.733938"
+    },
+    "1035340": {
+      "appid": 1035340,
+      "name": "眼睛（眼球）结构研究",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T06:51:02.881094"
+    },
+    "1035510": {
+      "appid": 1035510,
+      "name": "Ultimate Zombie Defense",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T06:51:03.637039"
+    },
+    "1035530": {
+      "appid": 1035530,
+      "name": "Disobedient Sheep",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T06:51:03.741946"
+    },
+    "1035560": {
+      "appid": 1035560,
+      "name": "Struggling",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T06:51:03.983033"
+    },
+    "1035610": {
+      "appid": 1035610,
+      "name": "Hentai Mosaique Vip Room",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T06:51:04.317660"
+    },
+    "1035690": {
+      "appid": 1035690,
+      "name": "天空之城大冒险",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T06:51:04.559524"
+    },
+    "1035730": {
+      "appid": 1035730,
+      "name": "渊噬",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T06:51:04.779967"
+    },
+    "1035750": {
+      "appid": 1035750,
+      "name": "文字獄",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T06:51:04.885722"
+    },
+    "1035760": {
+      "appid": 1035760,
+      "name": "微光之镜",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T06:51:04.998194"
+    },
+    "1035780": {
+      "appid": 1035780,
+      "name": "Pecker",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T06:51:05.258280"
     }
   }
 }

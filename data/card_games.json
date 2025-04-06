@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-06T06:47:29.618943"
+    "updated": "2025-04-06T06:51:05.489676"
   },
   "games": {
     "570": {
@@ -69398,6 +69398,134 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-04-06T06:47:28.950643"
+    },
+    "1031440": {
+      "appid": 1031440,
+      "name": "东京时笼",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T06:50:42.648205"
+    },
+    "1031460": {
+      "appid": 1031460,
+      "name": "Sail Forth",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T06:50:42.773420"
+    },
+    "1031480": {
+      "appid": 1031480,
+      "name": "东方幕华祭 春雪篇",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T06:50:43.040824"
+    },
+    "1032590": {
+      "appid": 1032590,
+      "name": "秘馆疑踪 / Heaven Dust",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T06:50:48.801407"
+    },
+    "1032790": {
+      "appid": 1032790,
+      "name": "冒险公社",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T06:50:50.001459"
+    },
+    "1033080": {
+      "appid": 1033080,
+      "name": "书信人生",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T06:50:50.656152"
+    },
+    "1033420": {
+      "appid": 1033420,
+      "name": "9-nine-天色天歌天籁音",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T06:50:52.864828"
+    },
+    "1034160": {
+      "appid": 1034160,
+      "name": "Extreme Racing on Highway",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T06:50:56.798354"
+    },
+    "1034540": {
+      "appid": 1034540,
+      "name": "Lorenzo il Magnifico",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T06:50:58.701064"
+    },
+    "1034700": {
+      "appid": 1034700,
+      "name": "GRAY",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T06:50:59.156257"
+    },
+    "1034900": {
+      "appid": 1034900,
+      "name": "Blaster Master Zero",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T06:51:00.266900"
+    },
+    "1034910": {
+      "appid": 1034910,
+      "name": "Blaster Master Zero 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T06:51:00.416080"
+    },
+    "1035560": {
+      "appid": 1035560,
+      "name": "Struggling",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T06:51:03.983033"
+    },
+    "1035610": {
+      "appid": 1035610,
+      "name": "Hentai Mosaique Vip Room",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T06:51:04.317660"
+    },
+    "1035660": {
+      "appid": 1035660,
+      "name": "Chromosome Evil",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T06:51:04.443118"
+    },
+    "1035760": {
+      "appid": 1035760,
+      "name": "微光之镜",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T06:51:04.998194"
     }
   }
 }
