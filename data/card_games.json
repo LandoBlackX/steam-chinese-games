@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-06T18:12:59.548037"
+    "updated": "2025-04-06T18:20:40.005386"
   },
   "games": {
     "570": {
@@ -75222,6 +75222,142 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-04-06T18:12:55.595469"
+    },
+    "1323470": {
+      "appid": 1323470,
+      "name": "GetsuFumaDen: Undying Moon",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T18:20:05.804931"
+    },
+    "1323900": {
+      "appid": 1323900,
+      "name": "Scrapnaut",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T18:20:08.317800"
+    },
+    "1324270": {
+      "appid": 1324270,
+      "name": "Space Station Tycoon",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T18:20:10.624044"
+    },
+    "1324340": {
+      "appid": 1324340,
+      "name": "来自深渊 朝向黑暗的双星",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T18:20:10.900074"
+    },
+    "1324780": {
+      "appid": 1324780,
+      "name": "Easy Red 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T18:20:13.705878"
+    },
+    "1325200": {
+      "appid": 1325200,
+      "name": "仁王２ Complete Edition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T18:20:15.217148"
+    },
+    "1325380": {
+      "appid": 1325380,
+      "name": "Live Empire",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T18:20:16.450608"
+    },
+    "1325900": {
+      "appid": 1325900,
+      "name": "Demon Turf: 魅影飞蝠",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T18:20:18.360568"
+    },
+    "1326000": {
+      "appid": 1326000,
+      "name": "Sakura Succubus 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T18:20:18.987960"
+    },
+    "1327920": {
+      "appid": 1327920,
+      "name": "Maestro VR",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T18:20:25.868275"
+    },
+    "1328530": {
+      "appid": 1328530,
+      "name": "Quantum Protocol",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T18:20:28.003533"
+    },
+    "1328660": {
+      "appid": 1328660,
+      "name": "《极品飞车：热力追踪》重制版",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T18:20:28.980340"
+    },
+    "1328670": {
+      "appid": 1328670,
+      "name": "《质量效应》传奇版",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T18:20:29.123409"
+    },
+    "1328900": {
+      "appid": 1328900,
+      "name": "忘却的尤克特拉希尔",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T18:20:31.133703"
+    },
+    "1329500": {
+      "appid": 1329500,
+      "name": "蜘蛛侠客 (SpiderHeck)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T18:20:36.482687"
+    },
+    "1329510": {
+      "appid": 1329510,
+      "name": "Big Farm Story",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T18:20:36.633674"
+    },
+    "1329600": {
+      "appid": 1329600,
+      "name": "Karting",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T18:20:37.153456"
     }
   }
 }
