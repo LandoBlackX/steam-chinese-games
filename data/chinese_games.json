@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-06T06:32:19.128413"
+    "updated": "2025-04-06T06:42:52.816329"
   },
   "games": {
     "570": {
@@ -92056,6 +92056,414 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-04-06T06:32:19.127000"
+    },
+    "1021260": {
+      "appid": 1021260,
+      "name": "Chocolate makes you happy: St.Patrick's Day",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T06:42:21.414230"
+    },
+    "1021670": {
+      "appid": 1021670,
+      "name": "机退怪兽",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T06:42:22.326776"
+    },
+    "1021690": {
+      "appid": 1021690,
+      "name": "Game Studio Simulator（我要做游戏）",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T06:42:22.702196"
+    },
+    "1021770": {
+      "appid": 1021770,
+      "name": "丸霸无双",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T06:42:22.968573"
+    },
+    "1021800": {
+      "appid": 1021800,
+      "name": "妙连千军",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T06:42:23.285032"
+    },
+    "1021850": {
+      "appid": 1021850,
+      "name": "Blood Memery|血色记忆",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T06:42:23.855459"
+    },
+    "1022010": {
+      "appid": 1022010,
+      "name": "Oliver's Adventures in the Fairyland",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T06:42:25.073984"
+    },
+    "1022450": {
+      "appid": 1022450,
+      "name": "War Selection",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T06:42:27.559170"
+    },
+    "1022480": {
+      "appid": 1022480,
+      "name": "KAMIKO",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T06:42:27.763602"
+    },
+    "1022530": {
+      "appid": 1022530,
+      "name": "SUBARACITY",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T06:42:27.917291"
+    },
+    "1022650": {
+      "appid": 1022650,
+      "name": "LeonWaan MineSweeper",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T06:42:29.006942"
+    },
+    "1022710": {
+      "appid": 1022710,
+      "name": "Conglomerate 451",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T06:42:29.179873"
+    },
+    "1022770": {
+      "appid": 1022770,
+      "name": "Beyond Enemy Lines: Operation Arctic Hawk",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T06:42:29.346081"
+    },
+    "1022780": {
+      "appid": 1022780,
+      "name": "Animal Fight Club",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T06:42:29.500913"
+    },
+    "1023100": {
+      "appid": 1023100,
+      "name": "VCuber",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T06:42:31.415159"
+    },
+    "1023140": {
+      "appid": 1023140,
+      "name": "Artificiality-人造物-",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T06:42:31.873202"
+    },
+    "1023250": {
+      "appid": 1023250,
+      "name": "因缘",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T06:42:32.343093"
+    },
+    "1023390": {
+      "appid": 1023390,
+      "name": "People",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T06:42:33.738761"
+    },
+    "1023550": {
+      "appid": 1023550,
+      "name": "Rogue Star Rescue",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T06:42:34.366572"
+    },
+    "1023570": {
+      "appid": 1023570,
+      "name": "PUZZLE: ANIMALS",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T06:42:34.631376"
+    },
+    "1023690": {
+      "appid": 1023690,
+      "name": "Nurse Love Syndrome",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T06:42:35.793067"
+    },
+    "1023700": {
+      "appid": 1023700,
+      "name": "Palais de Reine",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T06:42:35.959839"
+    },
+    "1023740": {
+      "appid": 1023740,
+      "name": "7 Sexy Sins",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T06:42:36.463027"
+    },
+    "1023760": {
+      "appid": 1023760,
+      "name": "Creation and Conquest：The Future War",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T06:42:36.738334"
+    },
+    "1023790": {
+      "appid": 1023790,
+      "name": "Rick Henderson",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T06:42:36.882595"
+    },
+    "1023860": {
+      "appid": 1023860,
+      "name": "GORSD",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T06:42:37.178899"
+    },
+    "1024120": {
+      "appid": 1024120,
+      "name": "Túatha Echoes: The Village",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T06:42:38.418431"
+    },
+    "1024160": {
+      "appid": 1024160,
+      "name": "Lord Winklebottom Investigates",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T06:42:38.731092"
+    },
+    "1024430": {
+      "appid": 1024430,
+      "name": "Super Arcade Soccer",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T06:42:39.633819"
+    },
+    "1024460": {
+      "appid": 1024460,
+      "name": "Destructive Physics - Destruction Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T06:42:39.899839"
+    },
+    "1024480": {
+      "appid": 1024480,
+      "name": "Immortal Realms: Vampire Wars",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T06:42:40.354273"
+    },
+    "1024490": {
+      "appid": 1024490,
+      "name": "Super Jigsaw Puzzle: Anime Reloaded",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T06:42:40.475970"
+    },
+    "1024530": {
+      "appid": 1024530,
+      "name": "Art by Numbers",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T06:42:40.806443"
+    },
+    "1024630": {
+      "appid": 1024630,
+      "name": "Fighters Legacy",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T06:42:41.563562"
+    },
+    "1024650": {
+      "appid": 1024650,
+      "name": "Port Royale 4",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T06:42:41.906249"
+    },
+    "1024780": {
+      "appid": 1024780,
+      "name": "Capture the planet: Cute War",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T06:42:42.622985"
+    },
+    "1024860": {
+      "appid": 1024860,
+      "name": "BFGE (Bartender Flair Game)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T06:42:43.357521"
+    },
+    "1024970": {
+      "appid": 1024970,
+      "name": "Quantum Legend - VR Experience",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T06:42:43.819409"
+    },
+    "1024990": {
+      "appid": 1024990,
+      "name": "WORDER",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T06:42:44.197762"
+    },
+    "1025000": {
+      "appid": 1025000,
+      "name": "宇宙边际",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T06:42:44.337666"
+    },
+    "1025070": {
+      "appid": 1025070,
+      "name": "淑女同萌！-New Division-",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T06:42:44.750657"
+    },
+    "1025130": {
+      "appid": 1025130,
+      "name": "Oik Memory 3",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T06:42:44.887505"
+    },
+    "1025140": {
+      "appid": 1025140,
+      "name": "LAMUNATION! -international-",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T06:42:45.064359"
+    },
+    "1025250": {
+      "appid": 1025250,
+      "name": "Shadow Corridor",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T06:42:45.828097"
+    },
+    "1025330": {
+      "appid": 1025330,
+      "name": "Full Pitch",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T06:42:46.223514"
+    },
+    "1025410": {
+      "appid": 1025410,
+      "name": "Metamorphosis",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T06:42:46.657058"
+    },
+    "1025440": {
+      "appid": 1025440,
+      "name": "Fantasy General II",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T06:42:47.198896"
+    },
+    "1025480": {
+      "appid": 1025480,
+      "name": "1-Bit Revival: The Residuals of Null",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T06:42:47.586638"
+    },
+    "1025960": {
+      "appid": 1025960,
+      "name": "深埋之星",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T06:42:50.311554"
+    },
+    "1026100": {
+      "appid": 1026100,
+      "name": "Stranded Sails - Prologue",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T06:42:50.895794"
+    },
+    "1026110": {
+      "appid": 1026110,
+      "name": "Racing Classics: Drag Race Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T06:42:51.018941"
     }
   }
 }

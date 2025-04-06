@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-06T06:32:19.128413"
+    "updated": "2025-04-06T06:42:52.816329"
   },
   "games": {
     "570": {
@@ -69246,6 +69246,94 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-06T06:32:18.547227"
+    },
+    "1021210": {
+      "appid": 1021210,
+      "name": "Cyber Knights: Flashpoint",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T06:42:20.802186"
+    },
+    "1021770": {
+      "appid": 1021770,
+      "name": "丸霸无双",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T06:42:22.968573"
+    },
+    "1022710": {
+      "appid": 1022710,
+      "name": "Conglomerate 451",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T06:42:29.179873"
+    },
+    "1024480": {
+      "appid": 1024480,
+      "name": "Immortal Realms: Vampire Wars",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T06:42:40.354273"
+    },
+    "1024650": {
+      "appid": 1024650,
+      "name": "Port Royale 4",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T06:42:41.906249"
+    },
+    "1025070": {
+      "appid": 1025070,
+      "name": "淑女同萌！-New Division-",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T06:42:44.750657"
+    },
+    "1025440": {
+      "appid": 1025440,
+      "name": "Fantasy General II",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T06:42:47.198896"
+    },
+    "1025600": {
+      "appid": 1025600,
+      "name": "Battle Realms: Zen Edition",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T06:42:48.674869"
+    },
+    "1025960": {
+      "appid": 1025960,
+      "name": "深埋之星",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T06:42:50.311554"
+    },
+    "1026160": {
+      "appid": 1026160,
+      "name": "Misadventures of Laura Silver",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T06:42:51.324545"
+    },
+    "1026420": {
+      "appid": 1026420,
+      "name": "WARSAW",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T06:42:52.492530"
     }
   }
 }
