@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-06T06:17:18.739016"
+    "updated": "2025-04-06T06:22:32.613186"
   },
   "games": {
     "570": {
@@ -69038,6 +69038,110 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-04-06T06:17:16.793876"
+    },
+    "1012030": {
+      "appid": 1012030,
+      "name": "蒸汽之都的少女侦探",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T06:22:04.821329"
+    },
+    "1012630": {
+      "appid": 1012630,
+      "name": "Epido",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T06:22:12.507376"
+    },
+    "1012790": {
+      "appid": 1012790,
+      "name": "Into the Radius VR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T06:22:13.556369"
+    },
+    "1012840": {
+      "appid": 1012840,
+      "name": "Moons of Madness",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T06:22:14.156748"
+    },
+    "1012880": {
+      "appid": 1012880,
+      "name": "60 Seconds! Reatomized",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T06:22:14.810394"
+    },
+    "1013140": {
+      "appid": 1013140,
+      "name": "Outcast - A New Beginning",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T06:22:16.034175"
+    },
+    "1013320": {
+      "appid": 1013320,
+      "name": "火之石 『Firestone』放置幻想王国英雄管理RPG",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T06:22:17.183481"
+    },
+    "1013750": {
+      "appid": 1013750,
+      "name": "Legal Dungeon",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T06:22:19.415601"
+    },
+    "1014050": {
+      "appid": 1014050,
+      "name": "Hockey Manager 20|20",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T06:22:21.345278"
+    },
+    "1015080": {
+      "appid": 1015080,
+      "name": "吸血鬼 & 怪物陷阱 - 隱藏的對象遊戲 - 隐藏的图画",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T06:22:27.228159"
+    },
+    "1015090": {
+      "appid": 1015090,
+      "name": "Last Day of Rome",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T06:22:27.342152"
+    },
+    "1015790": {
+      "appid": 1015790,
+      "name": "外道勇者一行",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T06:22:30.714674"
+    },
+    "1016180": {
+      "appid": 1016180,
+      "name": "暴走恐龙 Terror of Hemasaurus",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T06:22:32.053287"
     }
   }
 }
