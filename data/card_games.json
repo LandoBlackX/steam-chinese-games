@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-06T18:54:57.291100"
+    "updated": "2025-04-06T19:16:36.172975"
   },
   "games": {
     "570": {
@@ -75654,6 +75654,62 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-06T18:54:55.634298"
+    },
+    "1345740": {
+      "appid": 1345740,
+      "name": "恋爱绮谭~不存在的夏天~",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T19:16:08.184006"
+    },
+    "1345760": {
+      "appid": 1345760,
+      "name": "Matchpoint - Tennis Championships",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T19:16:08.630631"
+    },
+    "1345890": {
+      "appid": 1345890,
+      "name": "火星孤征",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T19:16:10.496774"
+    },
+    "1346010": {
+      "appid": 1346010,
+      "name": "RiMS Racing",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T19:16:11.727874"
+    },
+    "1346020": {
+      "appid": 1346020,
+      "name": "战律 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T19:16:12.069603"
+    },
+    "1347030": {
+      "appid": 1347030,
+      "name": "THE CORRIDOR",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T19:16:23.232720"
+    },
+    "1347430": {
+      "appid": 1347430,
+      "name": "Cute Honey",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T19:16:26.405885"
     }
   }
 }
