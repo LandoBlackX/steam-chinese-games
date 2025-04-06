@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-06T07:41:48.254275"
+    "updated": "2025-04-06T07:52:05.920613"
   },
   "games": {
     "570": {
@@ -95800,6 +95800,502 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-06T07:41:48.252812"
+    },
+    "1059990": {
+      "appid": 1059990,
+      "name": "Trombone Champ",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T07:51:30.321382"
+    },
+    "1060180": {
+      "appid": 1060180,
+      "name": "赛博司机",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:51:31.947070"
+    },
+    "1060210": {
+      "appid": 1060210,
+      "name": "Disaster Report 4: Summer Memories",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T07:51:32.218602"
+    },
+    "1060220": {
+      "appid": 1060220,
+      "name": "Langrisser I & II",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T07:51:32.379343"
+    },
+    "1060240": {
+      "appid": 1060240,
+      "name": "Rumia in the darkness",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:51:32.688728"
+    },
+    "1060670": {
+      "appid": 1060670,
+      "name": "Taboos: Cracks",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:51:36.905839"
+    },
+    "1060810": {
+      "appid": 1060810,
+      "name": "深渊领域",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:51:37.465067"
+    },
+    "1061010": {
+      "appid": 1061010,
+      "name": "深海：即刻抉择",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:51:39.106426"
+    },
+    "1061090": {
+      "appid": 1061090,
+      "name": "Jump King",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:51:39.234160"
+    },
+    "1061180": {
+      "appid": 1061180,
+      "name": "Crumble",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T07:51:39.915602"
+    },
+    "1061220": {
+      "appid": 1061220,
+      "name": "Discontinue",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:51:40.360186"
+    },
+    "1061250": {
+      "appid": 1061250,
+      "name": "时间旅者(TimeWalker)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:51:40.624743"
+    },
+    "1061400": {
+      "appid": 1061400,
+      "name": "YYDS成神之路",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:51:41.715122"
+    },
+    "1061550": {
+      "appid": 1061550,
+      "name": "Sneak In: a sphere matcher game",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:51:43.216447"
+    },
+    "1061610": {
+      "appid": 1061610,
+      "name": "Tenderfoot Tactics",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:51:43.721738"
+    },
+    "1061670": {
+      "appid": 1061670,
+      "name": "Heroes of the Multiverse",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:51:44.494419"
+    },
+    "1061730": {
+      "appid": 1061730,
+      "name": "现尝好滋味！超级猴子球",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:51:45.231079"
+    },
+    "1061820": {
+      "appid": 1061820,
+      "name": "XMusicVisualizer",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:51:45.708187"
+    },
+    "1061830": {
+      "appid": 1061830,
+      "name": "RainLock",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:51:45.853558"
+    },
+    "1061880": {
+      "appid": 1061880,
+      "name": "Conan Chop Chop",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T07:51:46.195847"
+    },
+    "1061910": {
+      "appid": 1061910,
+      "name": "Metal: Hellsinger",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:51:46.468864"
+    },
+    "1061990": {
+      "appid": 1061990,
+      "name": "RelicMerge",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:51:47.385497"
+    },
+    "1062040": {
+      "appid": 1062040,
+      "name": "Dragon Star Varnir",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T07:51:47.816564"
+    },
+    "1062070": {
+      "appid": 1062070,
+      "name": "Tex-Mechs",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:51:48.344210"
+    },
+    "1062080": {
+      "appid": 1062080,
+      "name": "Goofballs",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:51:48.482326"
+    },
+    "1062090": {
+      "appid": 1062090,
+      "name": "海狸浮生记 Timberborn",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:51:48.610574"
+    },
+    "1062110": {
+      "appid": 1062110,
+      "name": "UNSIGHTED",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:51:48.962219"
+    },
+    "1062140": {
+      "appid": 1062140,
+      "name": "Garden Story",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T07:51:49.463332"
+    },
+    "1062160": {
+      "appid": 1062160,
+      "name": "Poly Bridge 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:51:49.588336"
+    },
+    "1062200": {
+      "appid": 1062200,
+      "name": "大时代：三国立志",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:51:49.714814"
+    },
+    "1062260": {
+      "appid": 1062260,
+      "name": "末法仙路",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:51:50.305063"
+    },
+    "1062340": {
+      "appid": 1062340,
+      "name": "KATANA KAMI: A Way of the Samurai Story",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T07:51:50.710342"
+    },
+    "1062520": {
+      "appid": 1062520,
+      "name": "Dinkum(金垦小镇)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:51:52.346451"
+    },
+    "1062540": {
+      "appid": 1062540,
+      "name": "PUZZLETIME: Lovely Girls",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:51:52.685020"
+    },
+    "1062810": {
+      "appid": 1062810,
+      "name": "Inkbound",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T07:51:53.866359"
+    },
+    "1062830": {
+      "appid": 1062830,
+      "name": "灭火先锋 / Embr",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:51:54.001807"
+    },
+    "1063020": {
+      "appid": 1063020,
+      "name": "元素战争2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:51:54.685566"
+    },
+    "1063030": {
+      "appid": 1063030,
+      "name": "Monaco 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:51:54.939951"
+    },
+    "1063040": {
+      "appid": 1063040,
+      "name": "Ben 10: Power Trip",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:51:55.083421"
+    },
+    "1063070": {
+      "appid": 1063070,
+      "name": "Body Discovery",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:51:55.707722"
+    },
+    "1063130": {
+      "appid": 1063130,
+      "name": "H Chan",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:51:56.602680"
+    },
+    "1063140": {
+      "appid": 1063140,
+      "name": "Under Spire 尖塔自走棋",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:51:56.751016"
+    },
+    "1063160": {
+      "appid": 1063160,
+      "name": "The Legends of Class one 嗨哥一班大冒险",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:51:56.949936"
+    },
+    "1063170": {
+      "appid": 1063170,
+      "name": "Beyond the Dawn 晨曦下の终点",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:51:57.113181"
+    },
+    "1063180": {
+      "appid": 1063180,
+      "name": "Flowerless Gardenia 白花未咲",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:51:57.256433"
+    },
+    "1063190": {
+      "appid": 1063190,
+      "name": "绽于枝垂樱下~Flowering Across the Hakugyokurou",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:51:57.401204"
+    },
+    "1063230": {
+      "appid": 1063230,
+      "name": "6120",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:51:57.684740"
+    },
+    "1063310": {
+      "appid": 1063310,
+      "name": "Vane",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:51:58.148114"
+    },
+    "1063330": {
+      "appid": 1063330,
+      "name": "麻神消消乐",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:51:58.317475"
+    },
+    "1063340": {
+      "appid": 1063340,
+      "name": "灵幻先生 : 致敬一代僵尸道长！The Exorcist",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:51:58.476320"
+    },
+    "1063380": {
+      "appid": 1063380,
+      "name": "Hentai Oppai",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:51:58.789695"
+    },
+    "1063420": {
+      "appid": 1063420,
+      "name": "虚空航船",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T07:51:59.020298"
+    },
+    "1063490": {
+      "appid": 1063490,
+      "name": "Still There",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T07:51:59.461158"
+    },
+    "1063500": {
+      "appid": 1063500,
+      "name": "Shield of Shalwend",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:51:59.590507"
+    },
+    "1063510": {
+      "appid": 1063510,
+      "name": "Unsweet",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:51:59.758500"
+    },
+    "1063560": {
+      "appid": 1063560,
+      "name": "12 HOURS",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:52:00.383366"
+    },
+    "1063660": {
+      "appid": 1063660,
+      "name": "Bendy and the Dark Revival",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:52:00.999130"
+    },
+    "1063820": {
+      "appid": 1063820,
+      "name": "疯狂西部/INSANE WEST",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:52:02.632068"
+    },
+    "1063860": {
+      "appid": 1063860,
+      "name": "HENTAI 帮助澳大利亚",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:52:03.207512"
+    },
+    "1063910": {
+      "appid": 1063910,
+      "name": "四圣传说之黑暗森林",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:52:03.614948"
+    },
+    "1063980": {
+      "appid": 1063980,
+      "name": "Hell Architect",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:52:04.489631"
+    },
+    "1064070": {
+      "appid": 1064070,
+      "name": "OddBallers",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:52:05.627498"
     }
   }
 }
