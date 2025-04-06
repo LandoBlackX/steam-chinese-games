@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-06T08:00:37.093511"
+    "updated": "2025-04-06T08:14:56.001008"
   },
   "games": {
     "570": {
@@ -70382,6 +70382,62 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-06T08:00:35.897941"
+    },
+    "1078350": {
+      "appid": 1078350,
+      "name": "仙肴圣餐",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T08:14:28.513791"
+    },
+    "1078510": {
+      "appid": 1078510,
+      "name": "Alluris",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T08:14:30.394193"
+    },
+    "1079310": {
+      "appid": 1079310,
+      "name": "Elemental Girls",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T08:14:34.718935"
+    },
+    "1080020": {
+      "appid": 1080020,
+      "name": "电工模拟器",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T08:14:39.685355"
+    },
+    "1080750": {
+      "appid": 1080750,
+      "name": "Mutazione",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T08:14:43.285825"
+    },
+    "1082430": {
+      "appid": 1082430,
+      "name": "历历在目",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T08:14:53.592861"
+    },
+    "1082680": {
+      "appid": 1082680,
+      "name": "The Walking Dead Onslaught",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T08:14:55.278828"
     }
   }
 }
