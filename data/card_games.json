@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-06T08:58:10.962851"
+    "updated": "2025-04-06T09:25:34.675844"
   },
   "games": {
     "570": {
@@ -70934,6 +70934,78 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-06T08:58:10.585675"
+    },
+    "1107370": {
+      "appid": 1107370,
+      "name": "Demoniaca: Everlasting Night",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T09:25:05.575977"
+    },
+    "1108000": {
+      "appid": 1108000,
+      "name": "寂静村的孩子们 Children of Silentown",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T09:25:10.408945"
+    },
+    "1108370": {
+      "appid": 1108370,
+      "name": "Ratropolis",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T09:25:12.927654"
+    },
+    "1108590": {
+      "appid": 1108590,
+      "name": "上古之魂",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T09:25:13.857375"
+    },
+    "1109130": {
+      "appid": 1109130,
+      "name": "逝去的回忆3：四叶草之梦",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T09:25:16.448729"
+    },
+    "1109360": {
+      "appid": 1109360,
+      "name": "Hentai Mosaique Fix-IT Shoppe",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T09:25:17.749614"
+    },
+    "1110910": {
+      "appid": 1110910,
+      "name": "Mortal Shell",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T09:25:26.106857"
+    },
+    "1111030": {
+      "appid": 1111030,
+      "name": "Hentai Bad Girls",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T09:25:26.453881"
+    },
+    "1111840": {
+      "appid": 1111840,
+      "name": "Urban Explorer",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T09:25:31.705390"
     }
   }
 }

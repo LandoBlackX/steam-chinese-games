@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-06T08:58:10.962851"
+    "updated": "2025-04-06T09:25:34.675844"
   },
   "games": {
     "570": {
@@ -100648,6 +100648,462 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-06T08:58:10.585675"
+    },
+    "1107050": {
+      "appid": 1107050,
+      "name": "人工智能 阿尔法猫-AI Alpha Cat",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T09:25:02.992273"
+    },
+    "1107190": {
+      "appid": 1107190,
+      "name": "The Fragment",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T09:25:04.089397"
+    },
+    "1107300": {
+      "appid": 1107300,
+      "name": "Down in Bermuda",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T09:25:04.717665"
+    },
+    "1107370": {
+      "appid": 1107370,
+      "name": "Demoniaca: Everlasting Night",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T09:25:05.575977"
+    },
+    "1107510": {
+      "appid": 1107510,
+      "name": "Favo!+",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T09:25:06.742439"
+    },
+    "1107620": {
+      "appid": 1107620,
+      "name": "Mystery Island - Hidden Object Games",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T09:25:07.350185"
+    },
+    "1107720": {
+      "appid": 1107720,
+      "name": "Spider Solitaire F",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T09:25:08.655975"
+    },
+    "1107790": {
+      "appid": 1107790,
+      "name": "The Complex",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T09:25:09.170361"
+    },
+    "1107820": {
+      "appid": 1107820,
+      "name": "Pushy and Pully in Blockland",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T09:25:09.494963"
+    },
+    "1108000": {
+      "appid": 1108000,
+      "name": "寂静村的孩子们 Children of Silentown",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T09:25:10.408945"
+    },
+    "1108270": {
+      "appid": 1108270,
+      "name": "Nova: Space Armada",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T09:25:12.363280"
+    },
+    "1108320": {
+      "appid": 1108320,
+      "name": "妄想破绽 Broken Delusion",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T09:25:12.649537"
+    },
+    "1108370": {
+      "appid": 1108370,
+      "name": "Ratropolis",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T09:25:12.927654"
+    },
+    "1108390": {
+      "appid": 1108390,
+      "name": "Cartonfall: Fortress - Defend Cardboard Castle",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T09:25:13.186081"
+    },
+    "1108560": {
+      "appid": 1108560,
+      "name": "罪業狂襲FrenzyRetribution",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T09:25:13.709148"
+    },
+    "1108590": {
+      "appid": 1108590,
+      "name": "上古之魂",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T09:25:13.857375"
+    },
+    "1108600": {
+      "appid": 1108600,
+      "name": " 终末之月",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T09:25:13.974823"
+    },
+    "1108940": {
+      "appid": 1108940,
+      "name": "异星传奇/Strange Planet",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T09:25:15.438770"
+    },
+    "1109040": {
+      "appid": 1109040,
+      "name": "FISTS OF INVOKERS",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T09:25:15.704286"
+    },
+    "1109070": {
+      "appid": 1109070,
+      "name": "接头 / Contact Point",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T09:25:15.843196"
+    },
+    "1109110": {
+      "appid": 1109110,
+      "name": "Ghost Land",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T09:25:16.295280"
+    },
+    "1109130": {
+      "appid": 1109130,
+      "name": "逝去的回忆3：四叶草之梦",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T09:25:16.448729"
+    },
+    "1109160": {
+      "appid": 1109160,
+      "name": "Giants Uprising",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T09:25:16.621607"
+    },
+    "1109170": {
+      "appid": 1109170,
+      "name": "Happy Grumps",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T09:25:16.758540"
+    },
+    "1109300": {
+      "appid": 1109300,
+      "name": "Volt Patrol - Stealth Driving",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T09:25:17.181003"
+    },
+    "1109360": {
+      "appid": 1109360,
+      "name": "Hentai Mosaique Fix-IT Shoppe",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T09:25:17.749614"
+    },
+    "1109460": {
+      "appid": 1109460,
+      "name": "这里没有格林达姆",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T09:25:18.246472"
+    },
+    "1109570": {
+      "appid": 1109570,
+      "name": "《文字游戏》",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T09:25:18.823876"
+    },
+    "1109680": {
+      "appid": 1109680,
+      "name": "Regiments",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T09:25:19.231756"
+    },
+    "1109740": {
+      "appid": 1109740,
+      "name": "Kakuro",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T09:25:19.815147"
+    },
+    "1109820": {
+      "appid": 1109820,
+      "name": "Pile Up! Box by Box",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T09:25:20.218299"
+    },
+    "1110050": {
+      "appid": 1110050,
+      "name": "Evan's Remains",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T09:25:21.713253"
+    },
+    "1110350": {
+      "appid": 1110350,
+      "name": "fishman",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T09:25:23.003771"
+    },
+    "1110430": {
+      "appid": 1110430,
+      "name": "Lapso",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T09:25:23.546155"
+    },
+    "1110490": {
+      "appid": 1110490,
+      "name": "LAB Defence",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T09:25:23.936912"
+    },
+    "1110650": {
+      "appid": 1110650,
+      "name": "别以为你是开发者我就不敢打你",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T09:25:24.767067"
+    },
+    "1110690": {
+      "appid": 1110690,
+      "name": "Banter Schooldays!!三〇一室无一人",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T09:25:25.057551"
+    },
+    "1110720": {
+      "appid": 1110720,
+      "name": "我与我行将离去的小友。",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T09:25:25.232234"
+    },
+    "1110770": {
+      "appid": 1110770,
+      "name": "About Love, Hate And The Other Ones 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T09:25:25.379357"
+    },
+    "1110890": {
+      "appid": 1110890,
+      "name": "MY WOLF - Desktop Wild Pet",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T09:25:25.955864"
+    },
+    "1110910": {
+      "appid": 1110910,
+      "name": "Mortal Shell",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T09:25:26.106857"
+    },
+    "1111040": {
+      "appid": 1111040,
+      "name": "Global Aviation Dream",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T09:25:26.600778"
+    },
+    "1111080": {
+      "appid": 1111080,
+      "name": "吃香",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T09:25:26.759237"
+    },
+    "1111090": {
+      "appid": 1111090,
+      "name": "Alpha Lyrae Discovery",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T09:25:26.904983"
+    },
+    "1111200": {
+      "appid": 1111200,
+      "name": "Car Soccer World Cup",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T09:25:27.878736"
+    },
+    "1111290": {
+      "appid": 1111290,
+      "name": "Moscow Rush",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T09:25:28.699209"
+    },
+    "1111370": {
+      "appid": 1111370,
+      "name": "A Summer's End 夏天的一天 — 香港 1986",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T09:25:29.256548"
+    },
+    "1111420": {
+      "appid": 1111420,
+      "name": "Infinite Skyline Superflight",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T09:25:29.870659"
+    },
+    "1111450": {
+      "appid": 1111450,
+      "name": "青羽",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T09:25:30.007099"
+    },
+    "1111460": {
+      "appid": 1111460,
+      "name": "小白兔电商",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T09:25:30.149838"
+    },
+    "1111600": {
+      "appid": 1111600,
+      "name": "Klang 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T09:25:30.569374"
+    },
+    "1111620": {
+      "appid": 1111620,
+      "name": "Gloomy Eyes VR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T09:25:30.695185"
+    },
+    "1111650": {
+      "appid": 1111650,
+      "name": "快到碗里来",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T09:25:30.836040"
+    },
+    "1111760": {
+      "appid": 1111760,
+      "name": "World of Guns: VR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T09:25:31.262584"
+    },
+    "1111810": {
+      "appid": 1111810,
+      "name": "Sex Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T09:25:31.383053"
+    },
+    "1111960": {
+      "appid": 1111960,
+      "name": "Tsuro通路——造路游戏 VR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T09:25:32.771310"
+    },
+    "1112250": {
+      "appid": 1112250,
+      "name": "Umbraseal",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T09:25:34.537395"
     }
   }
 }
