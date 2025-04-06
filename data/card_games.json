@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-06T15:13:52.017327"
+    "updated": "2025-04-06T15:19:33.726351"
   },
   "games": {
     "570": {
@@ -73942,6 +73942,102 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-04-06T15:13:51.359925"
+    },
+    "1249780": {
+      "appid": 1249780,
+      "name": "铁血迪斯科",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T15:19:05.191404"
+    },
+    "1249800": {
+      "appid": 1249800,
+      "name": "轩辕剑柒",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T15:19:05.321819"
+    },
+    "1250220": {
+      "appid": 1250220,
+      "name": "Fallen Region",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T15:19:08.477388"
+    },
+    "1250760": {
+      "appid": 1250760,
+      "name": "海沙风云 Far Away",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T15:19:11.781449"
+    },
+    "1250790": {
+      "appid": 1250790,
+      "name": "Crafting Idle Clicker",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T15:19:12.051239"
+    },
+    "1251300": {
+      "appid": 1251300,
+      "name": "Last Floor",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T15:19:14.927469"
+    },
+    "1252330": {
+      "appid": 1252330,
+      "name": "DEATHLOOP",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T15:19:22.695954"
+    },
+    "1252560": {
+      "appid": 1252560,
+      "name": "Love Breakout",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T15:19:24.331660"
+    },
+    "1252710": {
+      "appid": 1252710,
+      "name": "卡牌浩劫",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T15:19:25.190419"
+    },
+    "1253610": {
+      "appid": 1253610,
+      "name": "Knights of Braveland",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T15:19:29.873795"
+    },
+    "1253920": {
+      "appid": 1253920,
+      "name": "Rogue Legacy 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T15:19:32.429599"
+    },
+    "1254120": {
+      "appid": 1254120,
+      "name": "神佑释放",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T15:19:33.059327"
     }
   }
 }
