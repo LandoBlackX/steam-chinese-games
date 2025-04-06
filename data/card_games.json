@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-06T21:56:07.425938"
+    "updated": "2025-04-06T22:22:50.060466"
   },
   "games": {
     "570": {
@@ -76342,6 +76342,62 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-04-06T21:56:03.766772"
+    },
+    "1394810": {
+      "appid": 1394810,
+      "name": "Colossus Down",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T22:22:20.578414"
+    },
+    "1395560": {
+      "appid": 1395560,
+      "name": "Kandidatos",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T22:22:25.471651"
+    },
+    "1396980": {
+      "appid": 1396980,
+      "name": "无口安瓶",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T22:22:32.186297"
+    },
+    "1397920": {
+      "appid": 1397920,
+      "name": "Mr.Mine",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T22:22:38.876996"
+    },
+    "1398070": {
+      "appid": 1398070,
+      "name": "The Book of Bondmaids",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T22:22:39.680899"
+    },
+    "1398740": {
+      "appid": 1398740,
+      "name": "回溯依存",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T22:22:45.008255"
+    },
+    "1399080": {
+      "appid": 1399080,
+      "name": "神领编年史 The DioField Chronicle",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T22:22:46.976115"
     }
   }
 }
