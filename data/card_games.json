@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-06T09:25:34.675844"
+    "updated": "2025-04-06T09:40:30.424167"
   },
   "games": {
     "570": {
@@ -71006,6 +71006,86 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-04-06T09:25:31.705390"
+    },
+    "1113000": {
+      "appid": 1113000,
+      "name": "女神异闻录４ 黄金版",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T09:40:03.597313"
+    },
+    "1113560": {
+      "appid": 1113560,
+      "name": "NieR Replicant™ ver.1.22474487139...",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T09:40:07.464136"
+    },
+    "1113680": {
+      "appid": 1113680,
+      "name": "Hentai Girl Division",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T09:40:08.772117"
+    },
+    "1113780": {
+      "appid": 1113780,
+      "name": "Uncharted Tides: Port Royal",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T09:40:09.739424"
+    },
+    "1115050": {
+      "appid": 1115050,
+      "name": "蜗的元宇宙",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T09:40:19.795839"
+    },
+    "1115690": {
+      "appid": 1115690,
+      "name": "Yes, Your Grace",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T09:40:22.812986"
+    },
+    "1116170": {
+      "appid": 1116170,
+      "name": "CyberCorp",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T09:40:25.488670"
+    },
+    "1116210": {
+      "appid": 1116210,
+      "name": "Our world has not decayed",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T09:40:26.205006"
+    },
+    "1116230": {
+      "appid": 1116230,
+      "name": "The Story of Henry Bishop",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T09:40:26.430867"
+    },
+    "1116580": {
+      "appid": 1116580,
+      "name": "我的阴暗面",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T09:40:29.962796"
     }
   }
 }
