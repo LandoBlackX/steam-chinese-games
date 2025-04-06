@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-06T07:15:13.186712"
+    "updated": "2025-04-06T07:29:12.573325"
   },
   "games": {
     "570": {
@@ -69774,6 +69774,78 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-06T07:15:10.925631"
+    },
+    "1046660": {
+      "appid": 1046660,
+      "name": "Charterstone: Digital Edition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T07:28:41.136969"
+    },
+    "1047010": {
+      "appid": 1047010,
+      "name": "Synergia",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T07:28:44.142895"
+    },
+    "1047440": {
+      "appid": 1047440,
+      "name": "DATE A LIVE: Rio Reincarnation",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T07:28:46.740737"
+    },
+    "1047870": {
+      "appid": 1047870,
+      "name": "Something Ate My Alien",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T07:28:50.523896"
+    },
+    "1048100": {
+      "appid": 1048100,
+      "name": "Peekaboo",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T07:28:52.328237"
+    },
+    "1049100": {
+      "appid": 1049100,
+      "name": "泡沫冬景",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T07:29:00.838563"
+    },
+    "1049280": {
+      "appid": 1049280,
+      "name": "朝圣者 (Pilgrims)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T07:29:01.761023"
+    },
+    "1049410": {
+      "appid": 1049410,
+      "name": "超阈限空间 Superliminal",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T07:29:03.087480"
+    },
+    "1049590": {
+      "appid": 1049590,
+      "name": "永恒轮回",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T07:29:03.965342"
     }
   }
 }
