@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-06T15:41:43.081939"
+    "updated": "2025-04-06T15:44:20.319210"
   },
   "games": {
     "570": {
@@ -117624,6 +117624,542 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-04-06T15:41:42.781022"
+    },
+    "1268370": {
+      "appid": 1268370,
+      "name": "holedown",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:43:48.965476"
+    },
+    "1268420": {
+      "appid": 1268420,
+      "name": "Britannia",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:43:49.741471"
+    },
+    "1268590": {
+      "appid": 1268590,
+      "name": "Millennia",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:43:50.554943"
+    },
+    "1268750": {
+      "appid": 1268750,
+      "name": "Starship Troopers: Extermination",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:43:51.315750"
+    },
+    "1268790": {
+      "appid": 1268790,
+      "name": "Dark Fracture",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:43:51.442044"
+    },
+    "1268870": {
+      "appid": 1268870,
+      "name": "邻桌女同学",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:43:52.182782"
+    },
+    "1268880": {
+      "appid": 1268880,
+      "name": "方圈 Square Circle",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:43:52.324027"
+    },
+    "1268960": {
+      "appid": 1268960,
+      "name": "pureya",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T15:43:52.657524"
+    },
+    "1268990": {
+      "appid": 1268990,
+      "name": "Amber Time [RPG]",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:43:52.803236"
+    },
+    "1269020": {
+      "appid": 1269020,
+      "name": "No Plan B",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:43:52.943167"
+    },
+    "1269050": {
+      "appid": 1269050,
+      "name": "告死天使的审判 Death Angel Trial",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:43:53.277808"
+    },
+    "1269110": {
+      "appid": 1269110,
+      "name": "勇者的十日人生",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:43:53.578224"
+    },
+    "1269150": {
+      "appid": 1269150,
+      "name": "飞拳爆 · 第一冲击",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:43:53.881186"
+    },
+    "1269190": {
+      "appid": 1269190,
+      "name": "Arko",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:43:54.159943"
+    },
+    "1269260": {
+      "appid": 1269260,
+      "name": "Artifact Foundry",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:43:54.755437"
+    },
+    "1269300": {
+      "appid": 1269300,
+      "name": "时空错乱之旅",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:43:54.896732"
+    },
+    "1269370": {
+      "appid": 1269370,
+      "name": "171",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:43:55.324612"
+    },
+    "1269500": {
+      "appid": 1269500,
+      "name": "Crowalt: Traces of the Lost Colony",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:43:55.973902"
+    },
+    "1269520": {
+      "appid": 1269520,
+      "name": "Let Me Out",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:43:56.295484"
+    },
+    "1269620": {
+      "appid": 1269620,
+      "name": "Puzzle - STONE BLOCKS",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:43:57.019350"
+    },
+    "1269630": {
+      "appid": 1269630,
+      "name": "Western Sigil",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:43:57.138753"
+    },
+    "1269700": {
+      "appid": 1269700,
+      "name": "4 Minutes to the Apocalypse",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:43:57.829943"
+    },
+    "1269710": {
+      "appid": 1269710,
+      "name": "海岸桃源：文明之种",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:43:57.984276"
+    },
+    "1269810": {
+      "appid": 1269810,
+      "name": "库贝尔的枷锁",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:43:58.376795"
+    },
+    "1269820": {
+      "appid": 1269820,
+      "name": "少女异闻录",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:43:58.523692"
+    },
+    "1270010": {
+      "appid": 1270010,
+      "name": "Gone: Survival",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T15:43:59.749787"
+    },
+    "1270100": {
+      "appid": 1270100,
+      "name": "兵法：战国篇",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:44:00.679936"
+    },
+    "1270420": {
+      "appid": 1270420,
+      "name": "Box Nation [] Lets Go Build and Fight",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:44:02.559573"
+    },
+    "1270460": {
+      "appid": 1270460,
+      "name": "TOSS!🍌",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:44:02.840175"
+    },
+    "1270580": {
+      "appid": 1270580,
+      "name": "超灵秘法社",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:44:03.431921"
+    },
+    "1270670": {
+      "appid": 1270670,
+      "name": "Touhou Double Focus -文与椛的弹丸取材纪行-",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:44:03.953784"
+    },
+    "1270680": {
+      "appid": 1270680,
+      "name": "WHALIEN - Unexpected Guests",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:44:04.125523"
+    },
+    "1270720": {
+      "appid": 1270720,
+      "name": "DreamWorks 小马精灵 乐琪的大冒险",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:44:04.262246"
+    },
+    "1270840": {
+      "appid": 1270840,
+      "name": "New King",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:44:04.994032"
+    },
+    "1270870": {
+      "appid": 1270870,
+      "name": "Gray platformer",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:44:05.283306"
+    },
+    "1270970": {
+      "appid": 1270970,
+      "name": "爆裂星球Online",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:44:05.820737"
+    },
+    "1270980": {
+      "appid": 1270980,
+      "name": "三国志天下布武",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:44:05.964410"
+    },
+    "1271090": {
+      "appid": 1271090,
+      "name": "Let's Cook Together",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:44:06.640280"
+    },
+    "1271110": {
+      "appid": 1271110,
+      "name": "大救特救",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:44:06.926391"
+    },
+    "1271190": {
+      "appid": 1271190,
+      "name": "女王的荣耀  / Queen's Glory",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:44:07.279029"
+    },
+    "1271300": {
+      "appid": 1271300,
+      "name": "探案法：侦探大赛",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T15:44:07.829062"
+    },
+    "1271520": {
+      "appid": 1271520,
+      "name": "音速战机",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:44:09.594561"
+    },
+    "1271620": {
+      "appid": 1271620,
+      "name": "Umihara Kawase BaZooKa!",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:44:10.403094"
+    },
+    "1271630": {
+      "appid": 1271630,
+      "name": "Hentai 出来!",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:44:10.543796"
+    },
+    "1271690": {
+      "appid": 1271690,
+      "name": "Zombie Derby: Pixel Survival",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:44:10.696701"
+    },
+    "1271700": {
+      "appid": 1271700,
+      "name": "HOT WHEELS UNLEASHED™",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T15:44:10.892649"
+    },
+    "1271710": {
+      "appid": 1271710,
+      "name": "LEWDAPOCALYPSE Hentai Evil",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T15:44:11.033157"
+    },
+    "1271740": {
+      "appid": 1271740,
+      "name": "剑与魔法：见习冒险者莉露的大冒险",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:44:11.196257"
+    },
+    "1271750": {
+      "appid": 1271750,
+      "name": "Unferat",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T15:44:11.377864"
+    },
+    "1271850": {
+      "appid": 1271850,
+      "name": "Grand Casino Tycoon",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T15:44:11.910283"
+    },
+    "1272010": {
+      "appid": 1272010,
+      "name": "驱逐舰：U型艇猎手 - Destroyer: The U-Boat Hunter",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T15:44:13.336539"
+    },
+    "1272080": {
+      "appid": 1272080,
+      "name": "PAYDAY3 (收获日3)  ",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T15:44:14.637995"
+    },
+    "1272120": {
+      "appid": 1272120,
+      "name": "Darkanoid",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:44:15.478724"
+    },
+    "1272140": {
+      "appid": 1272140,
+      "name": "Floor is...What!?",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:44:15.824859"
+    },
+    "1272160": {
+      "appid": 1272160,
+      "name": "The Life and Suffering of Sir Brante",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T15:44:16.146163"
+    },
+    "1272320": {
+      "appid": 1272320,
+      "name": "要战便战",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T15:44:17.159564"
+    },
+    "1272330": {
+      "appid": 1272330,
+      "name": "Easy puzzle: Bridges",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:44:17.333221"
+    },
+    "1272360": {
+      "appid": 1272360,
+      "name": "VRDJ",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:44:17.594161"
+    },
+    "1272450": {
+      "appid": 1272450,
+      "name": "Mahjong Deluxe",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:44:17.897489"
+    },
+    "1272470": {
+      "appid": 1272470,
+      "name": "异星之上：碎片",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:44:18.218936"
+    },
+    "1272550": {
+      "appid": 1272550,
+      "name": "PHANTOM GALAXIES™",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:44:18.838905"
+    },
+    "1272580": {
+      "appid": 1272580,
+      "name": "Nine Witches: Family Disruption",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:44:19.039247"
+    },
+    "1272660": {
+      "appid": 1272660,
+      "name": "Gan's Matchstick Men：Deadly Rhythm",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:44:19.178215"
+    },
+    "1272680": {
+      "appid": 1272680,
+      "name": "Umihara Kawase Fresh!",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:44:19.344759"
+    },
+    "1272780": {
+      "appid": 1272780,
+      "name": "CarGo!",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:44:19.911451"
+    },
+    "1272830": {
+      "appid": 1272830,
+      "name": "方块投影",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:44:20.176111"
+    },
+    "1272840": {
+      "appid": 1272840,
+      "name": "田园记",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T15:44:20.317853"
     }
   }
 }
