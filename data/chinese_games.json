@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-06T22:39:31.350105"
+    "updated": "2025-04-06T22:52:35.238261"
   },
   "games": {
     "570": {
@@ -131064,6 +131064,446 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-06T22:39:31.053768"
+    },
+    "1404850": {
+      "appid": 1404850,
+      "name": "幸运房东",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T22:52:05.771634"
+    },
+    "1405050": {
+      "appid": 1405050,
+      "name": "忍卷",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T22:52:07.311807"
+    },
+    "1405170": {
+      "appid": 1405170,
+      "name": "VR historical journey to the age of Crusaders: Medieval Jerusalem, Saracen Cities, Arabic Culture, East Land",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T22:52:07.827061"
+    },
+    "1405260": {
+      "appid": 1405260,
+      "name": "Rebellion",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T22:52:08.483562"
+    },
+    "1405470": {
+      "appid": 1405470,
+      "name": "夏色泡影",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T22:52:09.468754"
+    },
+    "1405500": {
+      "appid": 1405500,
+      "name": "黄昏的天使",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T22:52:09.916331"
+    },
+    "1405660": {
+      "appid": 1405660,
+      "name": "Shoot Shoot My Waifu",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T22:52:10.194001"
+    },
+    "1405810": {
+      "appid": 1405810,
+      "name": "Party Maker Farm Fest",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T22:52:11.020285"
+    },
+    "1405960": {
+      "appid": 1405960,
+      "name": "VR Travelling in 18th-19th Century Europe",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T22:52:11.423678"
+    },
+    "1405970": {
+      "appid": 1405970,
+      "name": "Once upon a time in the Gold Rush VR: shoot and ride",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T22:52:11.578171"
+    },
+    "1405980": {
+      "appid": 1405980,
+      "name": "Astronomy Lab on PC: Relativity, Lunar Landing, Space Flight, and Interstellar Travelling",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T22:52:11.709559"
+    },
+    "1406000": {
+      "appid": 1406000,
+      "name": "BigChick",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T22:52:11.989109"
+    },
+    "1406020": {
+      "appid": 1406020,
+      "name": "Sakura Succubus 3",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T22:52:12.117144"
+    },
+    "1406080": {
+      "appid": 1406080,
+      "name": "Arc Wizards",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T22:52:12.563454"
+    },
+    "1406200": {
+      "appid": 1406200,
+      "name": "In My Shadow",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T22:52:13.584066"
+    },
+    "1406340": {
+      "appid": 1406340,
+      "name": "Black Maou and Rainbow Kingdom",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T22:52:14.288650"
+    },
+    "1406570": {
+      "appid": 1406570,
+      "name": "Sokoban (Boxman) Classic",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T22:52:14.922439"
+    },
+    "1406810": {
+      "appid": 1406810,
+      "name": "After Us",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T22:52:16.617150"
+    },
+    "1406850": {
+      "appid": 1406850,
+      "name": "廖添丁：绝代凶贼之末日",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T22:52:16.764305"
+    },
+    "1406860": {
+      "appid": 1406860,
+      "name": "勇闯地下城 Crossing Dungeon",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T22:52:16.907323"
+    },
+    "1406990": {
+      "appid": 1406990,
+      "name": "NEKOPARA Vol. 4",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T22:52:17.543936"
+    },
+    "1407080": {
+      "appid": 1407080,
+      "name": "Fisti-Fluffs",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T22:52:18.193479"
+    },
+    "1407180": {
+      "appid": 1407180,
+      "name": "Lawgivers II",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T22:52:19.024071"
+    },
+    "1407200": {
+      "appid": 1407200,
+      "name": "World of Tanks",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T22:52:19.336840"
+    },
+    "1407300": {
+      "appid": 1407300,
+      "name": "Hirilun",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T22:52:19.764662"
+    },
+    "1407420": {
+      "appid": 1407420,
+      "name": "Milo and the Magpies",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T22:52:20.058987"
+    },
+    "1407450": {
+      "appid": 1407450,
+      "name": "大江湖之苍龙与白鸟",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T22:52:20.345780"
+    },
+    "1407530": {
+      "appid": 1407530,
+      "name": "剑决",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T22:52:20.759724"
+    },
+    "1407540": {
+      "appid": 1407540,
+      "name": "Flying Things",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T22:52:20.895162"
+    },
+    "1407860": {
+      "appid": 1407860,
+      "name": "Space Travel Idle",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T22:52:21.953811"
+    },
+    "1407890": {
+      "appid": 1407890,
+      "name": "hexurb",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T22:52:22.296094"
+    },
+    "1407920": {
+      "appid": 1407920,
+      "name": "Bloat",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T22:52:22.437037"
+    },
+    "1408080": {
+      "appid": 1408080,
+      "name": "Minigame Madness",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T22:52:23.381720"
+    },
+    "1408150": {
+      "appid": 1408150,
+      "name": "魔法召唤大冒险",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T22:52:24.049630"
+    },
+    "1408220": {
+      "appid": 1408220,
+      "name": "破坏效应",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T22:52:24.485202"
+    },
+    "1408230": {
+      "appid": 1408230,
+      "name": "Walkabout Mini Golf VR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T22:52:24.689490"
+    },
+    "1408310": {
+      "appid": 1408310,
+      "name": "怪物传奇/Monster Legend",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T22:52:25.101646"
+    },
+    "1408370": {
+      "appid": 1408370,
+      "name": "人类VS怪物(Human vs Monster)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T22:52:25.367221"
+    },
+    "1408530": {
+      "appid": 1408530,
+      "name": "数独星空",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T22:52:26.871153"
+    },
+    "1408590": {
+      "appid": 1408590,
+      "name": "沿着陨石：游戏书 X 战略游戏",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T22:52:27.506198"
+    },
+    "1408610": {
+      "appid": 1408610,
+      "name": "荒野的召唤：垂钓者™",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T22:52:27.654912"
+    },
+    "1408720": {
+      "appid": 1408720,
+      "name": "Krunker",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T22:52:28.221564"
+    },
+    "1408930": {
+      "appid": 1408930,
+      "name": "好吃的柯基",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T22:52:29.232287"
+    },
+    "1409180": {
+      "appid": 1409180,
+      "name": "Of Mice and Moggies",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T22:52:30.069279"
+    },
+    "1409320": {
+      "appid": 1409320,
+      "name": "VR Travelling towards World War III Scenario: Post Nuclear War Earth Fantasy",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T22:52:31.025019"
+    },
+    "1409330": {
+      "appid": 1409330,
+      "name": "VR Travelling back to our childhoods: VR 1980s",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T22:52:31.154468"
+    },
+    "1409340": {
+      "appid": 1409340,
+      "name": "Pray in VR Medieval Christian Churches",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T22:52:31.289142"
+    },
+    "1409470": {
+      "appid": 1409470,
+      "name": "Encounter the Light / 邂逅光明",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T22:52:32.087784"
+    },
+    "1409510": {
+      "appid": 1409510,
+      "name": "Survival Simulator 生存模拟器",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T22:52:32.240635"
+    },
+    "1409600": {
+      "appid": 1409600,
+      "name": "回纹平台跳跃",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T22:52:33.092754"
+    },
+    "1409670": {
+      "appid": 1409670,
+      "name": "《光明记忆：无限》光线追踪 基准测试软件",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T22:52:33.803337"
+    },
+    "1409710": {
+      "appid": 1409710,
+      "name": "Escape from Tatris",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T22:52:34.218582"
+    },
+    "1409770": {
+      "appid": 1409770,
+      "name": "Cat's Kiss 猫研社",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T22:52:34.802512"
+    },
+    "1409780": {
+      "appid": 1409780,
+      "name": "我的城市与军队",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T22:52:34.959472"
+    },
+    "1409810": {
+      "appid": 1409810,
+      "name": "月之泪 ～ Tears of Luna",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T22:52:35.096637"
     }
   }
 }

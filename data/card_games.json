@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-06T22:39:31.350105"
+    "updated": "2025-04-06T22:52:35.238261"
   },
   "games": {
     "570": {
@@ -76478,6 +76478,86 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-06T22:39:31.053768"
+    },
+    "1404850": {
+      "appid": 1404850,
+      "name": "幸运房东",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T22:52:05.771634"
+    },
+    "1405470": {
+      "appid": 1405470,
+      "name": "夏色泡影",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T22:52:09.468754"
+    },
+    "1406020": {
+      "appid": 1406020,
+      "name": "Sakura Succubus 3",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T22:52:12.117144"
+    },
+    "1406990": {
+      "appid": 1406990,
+      "name": "NEKOPARA Vol. 4",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T22:52:17.543936"
+    },
+    "1407090": {
+      "appid": 1407090,
+      "name": "Muv-Luv Unlimited: The Day After - Episode 01",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T22:52:18.336418"
+    },
+    "1407100": {
+      "appid": 1407100,
+      "name": "Muv-Luv Unlimited: The Day After - Episode 00",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T22:52:18.484687"
+    },
+    "1407200": {
+      "appid": 1407200,
+      "name": "World of Tanks",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T22:52:19.336840"
+    },
+    "1408260": {
+      "appid": 1408260,
+      "name": "Hentai vs Evil: Back 4 Waifus",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T22:52:24.822118"
+    },
+    "1409730": {
+      "appid": 1409730,
+      "name": "Hero of Not Our Time",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T22:52:34.370494"
+    },
+    "1409770": {
+      "appid": 1409770,
+      "name": "Cat's Kiss 猫研社",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T22:52:34.802512"
     }
   }
 }
