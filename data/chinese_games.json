@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-06T01:38:45.809447"
+    "updated": "2025-04-06T02:58:02.771625"
   },
   "games": {
     "570": {
@@ -84888,6 +84888,462 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-04-06T01:38:45.807845"
+    },
+    "944710": {
+      "appid": 944710,
+      "name": "TurnTack",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T02:57:30.078828"
+    },
+    "944740": {
+      "appid": 944740,
+      "name": "三国虎将传VR2-Sanguo Warriors VR2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T02:57:30.647945"
+    },
+    "944810": {
+      "appid": 944810,
+      "name": "Dr. Cares - Family Practice",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T02:57:31.198049"
+    },
+    "944920": {
+      "appid": 944920,
+      "name": "魔境奇缘：文字大冒险",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T02:57:32.193508"
+    },
+    "945340": {
+      "appid": 945340,
+      "name": "Ravva and the Cyclops Curse",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T02:57:33.690554"
+    },
+    "945360": {
+      "appid": 945360,
+      "name": "Among Us",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T02:57:33.896767"
+    },
+    "945460": {
+      "appid": 945460,
+      "name": "Zombie Builder Defense",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T02:57:34.467751"
+    },
+    "945500": {
+      "appid": 945500,
+      "name": "Steel Dungeon 钢铁地牢",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T02:57:34.875029"
+    },
+    "945620": {
+      "appid": 945620,
+      "name": "Tadpole Swimmer",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T02:57:36.675910"
+    },
+    "945630": {
+      "appid": 945630,
+      "name": "MagiCats Worlds",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T02:57:36.832836"
+    },
+    "945710": {
+      "appid": 945710,
+      "name": "DreadOut 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T02:57:37.168296"
+    },
+    "945740": {
+      "appid": 945740,
+      "name": "Buildings Have Feelings Too!",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T02:57:37.565509"
+    },
+    "945770": {
+      "appid": 945770,
+      "name": "Dark Envoy",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T02:57:37.760778"
+    },
+    "945820": {
+      "appid": 945820,
+      "name": "Spotter",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T02:57:38.131820"
+    },
+    "946030": {
+      "appid": 946030,
+      "name": "Axiom Verge 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T02:57:40.251374"
+    },
+    "946050": {
+      "appid": 946050,
+      "name": "Soda Dungeon 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T02:57:40.576825"
+    },
+    "946160": {
+      "appid": 946160,
+      "name": "Existence = !Existence;",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T02:57:41.512018"
+    },
+    "946170": {
+      "appid": 946170,
+      "name": "Papper Balls",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T02:57:41.665157"
+    },
+    "946210": {
+      "appid": 946210,
+      "name": "Secret Girl",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T02:57:41.837560"
+    },
+    "946240": {
+      "appid": 946240,
+      "name": "Xobox - circle and cross",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T02:57:42.000279"
+    },
+    "946340": {
+      "appid": 946340,
+      "name": "LOST CAVE",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T02:57:42.548096"
+    },
+    "946600": {
+      "appid": 946600,
+      "name": "Girl with a big SWORD",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T02:57:44.311562"
+    },
+    "946650": {
+      "appid": 946650,
+      "name": "Streets of Red : Devil's Dare Deluxe",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T02:57:44.594703"
+    },
+    "946720": {
+      "appid": 946720,
+      "name": "To The Rescue!",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T02:57:45.847759"
+    },
+    "946780": {
+      "appid": 946780,
+      "name": "MOMO.EXE 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T02:57:46.223080"
+    },
+    "946800": {
+      "appid": 946800,
+      "name": "Hentai 2+2=4",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T02:57:46.575853"
+    },
+    "946860": {
+      "appid": 946860,
+      "name": "Stamp Boy / 跳跳小子",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T02:57:46.922336"
+    },
+    "946920": {
+      "appid": 946920,
+      "name": "PARANOID",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T02:57:47.263774"
+    },
+    "946980": {
+      "appid": 946980,
+      "name": "Awakening of Dragon",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T02:57:47.588065"
+    },
+    "946990": {
+      "appid": 946990,
+      "name": "Secret Government",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T02:57:47.736407"
+    },
+    "947040": {
+      "appid": 947040,
+      "name": "I'm not alright",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T02:57:47.885503"
+    },
+    "947120": {
+      "appid": 947120,
+      "name": "Where The Water Tastes Like Wine: Fireside Chats",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T02:57:48.804631"
+    },
+    "947240": {
+      "appid": 947240,
+      "name": "神遊敦煌-莫高窟第61窟",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T02:57:49.104765"
+    },
+    "947290": {
+      "appid": 947290,
+      "name": "Arkane Rush",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T02:57:49.852211"
+    },
+    "947300": {
+      "appid": 947300,
+      "name": "Grim Nights",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T02:57:50.001732"
+    },
+    "947390": {
+      "appid": 947390,
+      "name": "Doodle Farm",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T02:57:50.163535"
+    },
+    "947470": {
+      "appid": 947470,
+      "name": "Optica",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T02:57:50.743754"
+    },
+    "947600": {
+      "appid": 947600,
+      "name": "Eroico",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T02:57:51.680611"
+    },
+    "948000": {
+      "appid": 948000,
+      "name": "Bright Red Skies",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T02:57:52.671121"
+    },
+    "948020": {
+      "appid": 948020,
+      "name": "Mojo 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T02:57:52.818191"
+    },
+    "948120": {
+      "appid": 948120,
+      "name": "The Mummy Pharaoh",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T02:57:53.468679"
+    },
+    "948200": {
+      "appid": 948200,
+      "name": "Mini Golf Buddies",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T02:57:53.633203"
+    },
+    "948320": {
+      "appid": 948320,
+      "name": "Dragon Simulator Multiplayer",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T02:57:54.247100"
+    },
+    "948350": {
+      "appid": 948350,
+      "name": "Royal Booty Quest",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T02:57:54.761330"
+    },
+    "948630": {
+      "appid": 948630,
+      "name": "Hentai MineSweeper",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T02:57:56.073784"
+    },
+    "948740": {
+      "appid": 948740,
+      "name": "AI: The Somnium Files",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T02:57:56.827743"
+    },
+    "948770": {
+      "appid": 948770,
+      "name": "魔塔2018",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T02:57:56.973949"
+    },
+    "948830": {
+      "appid": 948830,
+      "name": "寄甡  Symbiotic Love",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T02:57:57.567364"
+    },
+    "948840": {
+      "appid": 948840,
+      "name": "死亡投票_Death Voting Game",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T02:57:57.738952"
+    },
+    "948880": {
+      "appid": 948880,
+      "name": "Arena Renovation",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T02:57:57.875416"
+    },
+    "948960": {
+      "appid": 948960,
+      "name": "Morphies Law: Remorphed",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T02:57:58.176817"
+    },
+    "948990": {
+      "appid": 948990,
+      "name": "Grottesco Absurdus",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T02:57:58.437802"
+    },
+    "949030": {
+      "appid": 949030,
+      "name": "aMAZE Halloween",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T02:57:58.762148"
+    },
+    "949050": {
+      "appid": 949050,
+      "name": "Virtual Villagers Origins 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T02:57:58.897311"
+    },
+    "949230": {
+      "appid": 949230,
+      "name": "Cities: Skylines II",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T02:58:00.439842"
+    },
+    "949290": {
+      "appid": 949290,
+      "name": "Winkeltje: The Little Shop",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T02:58:00.624667"
+    },
+    "949480": {
+      "appid": 949480,
+      "name": "BROK the InvestiGator 鳄鱼侦探布罗格",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T02:58:01.541787"
     }
   }
 }

@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-06T01:38:45.809447"
+    "updated": "2025-04-06T02:58:02.771625"
   },
   "games": {
     "570": {
@@ -67646,6 +67646,110 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-06T01:38:45.257786"
+    },
+    "944920": {
+      "appid": 944920,
+      "name": "魔境奇缘：文字大冒险",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T02:57:32.193508"
+    },
+    "945160": {
+      "appid": 945160,
+      "name": "Angelo and Deemon: One Hell of a Quest",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T02:57:32.899079"
+    },
+    "945710": {
+      "appid": 945710,
+      "name": "DreadOut 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T02:57:37.168296"
+    },
+    "945770": {
+      "appid": 945770,
+      "name": "Dark Envoy",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T02:57:37.760778"
+    },
+    "946010": {
+      "appid": 946010,
+      "name": "Tasty Planet Forever",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T02:57:40.095439"
+    },
+    "946610": {
+      "appid": 946610,
+      "name": "Pocket Rogues",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T02:57:44.450618"
+    },
+    "948640": {
+      "appid": 948640,
+      "name": "Wizardry: Labyrinth of Lost Souls",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T02:57:56.216466"
+    },
+    "948740": {
+      "appid": 948740,
+      "name": "AI: The Somnium Files",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T02:57:56.827743"
+    },
+    "948900": {
+      "appid": 948900,
+      "name": "macdows 95",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T02:57:58.037717"
+    },
+    "949200": {
+      "appid": 949200,
+      "name": "Ambition: A Minuet in Power",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T02:58:00.203735"
+    },
+    "949290": {
+      "appid": 949290,
+      "name": "Winkeltje: The Little Shop",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T02:58:00.624667"
+    },
+    "949480": {
+      "appid": 949480,
+      "name": "BROK the InvestiGator 鳄鱼侦探布罗格",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T02:58:01.541787"
+    },
+    "949600": {
+      "appid": 949600,
+      "name": "Intergalactic Fishing",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T02:58:02.276802"
     }
   }
 }
