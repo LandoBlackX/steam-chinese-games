@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-06T20:38:41.436331"
+    "updated": "2025-04-06T20:51:43.705820"
   },
   "games": {
     "570": {
@@ -127944,6 +127944,366 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-04-06T20:38:41.434889"
+    },
+    "1372530": {
+      "appid": 1372530,
+      "name": "飞飞公司 Fly Corp",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T20:51:13.279329"
+    },
+    "1372660": {
+      "appid": 1372660,
+      "name": "神奇魔法师",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T20:51:14.605794"
+    },
+    "1372810": {
+      "appid": 1372810,
+      "name": "Teamfight Manager",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T20:51:15.480093"
+    },
+    "1372830": {
+      "appid": 1372830,
+      "name": "Fantasy Tavern Sextet -Vol.1 New World Days-",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T20:51:15.772499"
+    },
+    "1373020": {
+      "appid": 1373020,
+      "name": "狐の假期",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T20:51:16.620222"
+    },
+    "1373090": {
+      "appid": 1373090,
+      "name": "Yes, Your Grace: Snowfall",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T20:51:16.991503"
+    },
+    "1373180": {
+      "appid": 1373180,
+      "name": "海洋酒店☆海猫亭",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T20:51:17.517981"
+    },
+    "1373320": {
+      "appid": 1373320,
+      "name": "I'a I'a Cofflhu Fhtagnyaa",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T20:51:18.771375"
+    },
+    "1373410": {
+      "appid": 1373410,
+      "name": "Data mining X",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T20:51:19.759301"
+    },
+    "1373430": {
+      "appid": 1373430,
+      "name": "Leisure Suit Larry - Wet Dreams Dry Twice",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T20:51:20.007911"
+    },
+    "1373470": {
+      "appid": 1373470,
+      "name": "Magical Strings",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T20:51:20.366426"
+    },
+    "1373600": {
+      "appid": 1373600,
+      "name": "Day of the Dead: Solitaire Collection",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T20:51:21.408103"
+    },
+    "1373960": {
+      "appid": 1373960,
+      "name": "印蒂卡",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T20:51:25.296563"
+    },
+    "1374230": {
+      "appid": 1374230,
+      "name": "Flame Keeper",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T20:51:26.922078"
+    },
+    "1374290": {
+      "appid": 1374290,
+      "name": "Palindrome Syndrome: Escape Room",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T20:51:27.437803"
+    },
+    "1374330": {
+      "appid": 1374330,
+      "name": "VR Time Travelling in Medieval Towns and Islands: Magellan's Life in ancient Europe, the Great Exploration Age, and A.D.1500 Time Machine",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T20:51:27.746915"
+    },
+    "1374350": {
+      "appid": 1374350,
+      "name": "小小部队：全球行动",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T20:51:27.887804"
+    },
+    "1374430": {
+      "appid": 1374430,
+      "name": "三国模拟器 Three Kingdoms Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T20:51:28.674860"
+    },
+    "1374440": {
+      "appid": 1374440,
+      "name": "Medieval Archery Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T20:51:28.782421"
+    },
+    "1374460": {
+      "appid": 1374460,
+      "name": "心锁",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T20:51:28.896214"
+    },
+    "1374480": {
+      "appid": 1374480,
+      "name": "爱人 Lover",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T20:51:29.211800"
+    },
+    "1374580": {
+      "appid": 1374580,
+      "name": "Dirge",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T20:51:29.493366"
+    },
+    "1374590": {
+      "appid": 1374590,
+      "name": "恶狼之舞 Monsterwolf",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T20:51:29.637469"
+    },
+    "1374640": {
+      "appid": 1374640,
+      "name": "Hive Mind",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T20:51:30.079480"
+    },
+    "1374840": {
+      "appid": 1374840,
+      "name": "Dark Deity",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T20:51:30.958994"
+    },
+    "1374920": {
+      "appid": 1374920,
+      "name": "StoryArcana",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T20:51:31.666188"
+    },
+    "1374930": {
+      "appid": 1374930,
+      "name": "Black Geyser: Couriers of Darkness",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T20:51:31.809321"
+    },
+    "1374970": {
+      "appid": 1374970,
+      "name": "Moonscars",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T20:51:32.344342"
+    },
+    "1375230": {
+      "appid": 1375230,
+      "name": "长生派对",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T20:51:34.216665"
+    },
+    "1375280": {
+      "appid": 1375280,
+      "name": "CosmoDrive:Infinity",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T20:51:34.809192"
+    },
+    "1375290": {
+      "appid": 1375290,
+      "name": "Working Zombies Steam Edition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T20:51:34.932825"
+    },
+    "1375300": {
+      "appid": 1375300,
+      "name": "POLAR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T20:51:35.077231"
+    },
+    "1375400": {
+      "appid": 1375400,
+      "name": "经典回归 魔界村",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T20:51:35.411889"
+    },
+    "1375420": {
+      "appid": 1375420,
+      "name": "Messier111",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T20:51:35.566852"
+    },
+    "1375530": {
+      "appid": 1375530,
+      "name": "Exo One: Prologue",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T20:51:36.727511"
+    },
+    "1375790": {
+      "appid": 1375790,
+      "name": "Kakurenbo Neko",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T20:51:38.695209"
+    },
+    "1375870": {
+      "appid": 1375870,
+      "name": "川建国同志想要连任/Comrade Trump's Re-election",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T20:51:39.481475"
+    },
+    "1375900": {
+      "appid": 1375900,
+      "name": "血色矿脉",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T20:51:39.877101"
+    },
+    "1375920": {
+      "appid": 1375920,
+      "name": "Ghost Beat",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T20:51:39.999101"
+    },
+    "1375970": {
+      "appid": 1375970,
+      "name": "Korean Adventures in Russia",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T20:51:40.619024"
+    },
+    "1376020": {
+      "appid": 1376020,
+      "name": "BattleMaster",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T20:51:40.923534"
+    },
+    "1376200": {
+      "appid": 1376200,
+      "name": "黑暗世界：因与果",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T20:51:42.173676"
+    },
+    "1376270": {
+      "appid": 1376270,
+      "name": "小小愿景",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T20:51:42.432647"
+    },
+    "1376290": {
+      "appid": 1376290,
+      "name": "JET SET CORPS",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T20:51:42.561225"
+    },
+    "1376340": {
+      "appid": 1376340,
+      "name": "This is My Dungeon",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T20:51:42.927672"
     }
   }
 }

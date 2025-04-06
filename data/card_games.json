@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-06T20:38:41.436331"
+    "updated": "2025-04-06T20:51:43.705820"
   },
   "games": {
     "570": {
@@ -76078,6 +76078,46 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-06T20:38:40.167632"
+    },
+    "1372530": {
+      "appid": 1372530,
+      "name": "飞飞公司 Fly Corp",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T20:51:13.279329"
+    },
+    "1373320": {
+      "appid": 1373320,
+      "name": "I'a I'a Cofflhu Fhtagnyaa",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T20:51:18.771375"
+    },
+    "1373510": {
+      "appid": 1373510,
+      "name": "BloodRayne: Terminal Cut",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T20:51:20.635019"
+    },
+    "1373550": {
+      "appid": 1373550,
+      "name": "BloodRayne 2: Terminal Cut",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T20:51:20.889119"
+    },
+    "1375400": {
+      "appid": 1375400,
+      "name": "经典回归 魔界村",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T20:51:35.411889"
     }
   }
 }
