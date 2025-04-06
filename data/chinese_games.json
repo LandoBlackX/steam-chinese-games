@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-06T16:29:02.542978"
+    "updated": "2025-04-06T16:46:56.058670"
   },
   "games": {
     "570": {
@@ -119760,6 +119760,542 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-04-06T16:29:02.155745"
+    },
+    "1286210": {
+      "appid": 1286210,
+      "name": "The Battle of Angels",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T16:46:03.682507"
+    },
+    "1286220": {
+      "appid": 1286220,
+      "name": "Sea Power : Naval Combat in the Missile Age",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T16:46:03.959121"
+    },
+    "1286280": {
+      "appid": 1286280,
+      "name": "弃海",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T16:46:04.110766"
+    },
+    "1286320": {
+      "appid": 1286320,
+      "name": "Exoprimal",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T16:46:04.726090"
+    },
+    "1286330": {
+      "appid": 1286330,
+      "name": "WhiteLily 2：梦醒少女",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T16:46:05.205898"
+    },
+    "1286340": {
+      "appid": 1286340,
+      "name": "日常女友",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T16:46:05.550510"
+    },
+    "1286350": {
+      "appid": 1286350,
+      "name": "BPM: 枪林弹雨",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T16:46:05.814395"
+    },
+    "1286360": {
+      "appid": 1286360,
+      "name": "让我们学习韩语 - 词汇",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T16:46:06.125710"
+    },
+    "1286480": {
+      "appid": 1286480,
+      "name": "Fantasy General II: Prologue",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T16:46:07.222199"
+    },
+    "1286560": {
+      "appid": 1286560,
+      "name": "BROTHER!!! Save him! - Hardcore Platformer",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T16:46:07.469634"
+    },
+    "1286570": {
+      "appid": 1286570,
+      "name": "极限流体动态壁纸",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T16:46:07.613674"
+    },
+    "1286580": {
+      "appid": 1286580,
+      "name": "同舟共济",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T16:46:07.877578"
+    },
+    "1286600": {
+      "appid": 1286600,
+      "name": "Devilish Girl",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T16:46:08.154153"
+    },
+    "1286680": {
+      "appid": 1286680,
+      "name": "小缇娜的奇幻之地",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T16:46:08.784260"
+    },
+    "1286690": {
+      "appid": 1286690,
+      "name": "《木星卫星：机甲 - 序章》",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T16:46:08.930498"
+    },
+    "1286720": {
+      "appid": 1286720,
+      "name": "War of Ashird",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T16:46:09.515377"
+    },
+    "1286880": {
+      "appid": 1286880,
+      "name": "船舶墓地模拟器",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T16:46:11.095053"
+    },
+    "1286990": {
+      "appid": 1286990,
+      "name": "战壕惊魂",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T16:46:11.986160"
+    },
+    "1287000": {
+      "appid": 1287000,
+      "name": "COVID: The Outbreak",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T16:46:12.155092"
+    },
+    "1287030": {
+      "appid": 1287030,
+      "name": "泡泡龙4伙伴 头骨怪与创意工坊",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T16:46:12.334948"
+    },
+    "1287130": {
+      "appid": 1287130,
+      "name": "监狱岛的女看守",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T16:46:13.018499"
+    },
+    "1287140": {
+      "appid": 1287140,
+      "name": "Sonia and the Hypnotic City",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T16:46:13.170476"
+    },
+    "1287220": {
+      "appid": 1287220,
+      "name": "末世英雄",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T16:46:14.146985"
+    },
+    "1287230": {
+      "appid": 1287230,
+      "name": "悟梦图 Dreaming Atlas",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T16:46:14.312731"
+    },
+    "1287250": {
+      "appid": 1287250,
+      "name": "! Wild Russia !",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T16:46:14.542726"
+    },
+    "1287310": {
+      "appid": 1287310,
+      "name": "Juiced!",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T16:46:14.955228"
+    },
+    "1287370": {
+      "appid": 1287370,
+      "name": "Colorful Snake",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T16:46:15.096759"
+    },
+    "1287530": {
+      "appid": 1287530,
+      "name": "Lords and Villeins",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T16:46:16.022557"
+    },
+    "1287540": {
+      "appid": 1287540,
+      "name": "Dino Hazard: Chronos Blackout",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T16:46:16.231359"
+    },
+    "1287710": {
+      "appid": 1287710,
+      "name": "Rary",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T16:46:22.263798"
+    },
+    "1287840": {
+      "appid": 1287840,
+      "name": "Disciples: Liberation",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T16:46:23.281057"
+    },
+    "1288040": {
+      "appid": 1288040,
+      "name": "Helicopter Simulator 2020",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T16:46:24.737055"
+    },
+    "1288310": {
+      "appid": 1288310,
+      "name": "烟火",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T16:46:25.761392"
+    },
+    "1288320": {
+      "appid": 1288320,
+      "name": "Way of the Hunter",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T16:46:26.013954"
+    },
+    "1288400": {
+      "appid": 1288400,
+      "name": "Tale Of A Wolf",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T16:46:27.846776"
+    },
+    "1288410": {
+      "appid": 1288410,
+      "name": "Outshine",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T16:46:28.011615"
+    },
+    "1288420": {
+      "appid": 1288420,
+      "name": "The Secret of Retropolis",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T16:46:28.188662"
+    },
+    "1288540": {
+      "appid": 1288540,
+      "name": "木星卫星：机甲",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T16:46:28.633889"
+    },
+    "1288550": {
+      "appid": 1288550,
+      "name": "Extreme Social Distancing",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T16:46:28.870045"
+    },
+    "1288560": {
+      "appid": 1288560,
+      "name": "My Dear Prince",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T16:46:29.024367"
+    },
+    "1288610": {
+      "appid": 1288610,
+      "name": "暴走枪姬 Wildcat Gun Machine",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T16:46:29.553201"
+    },
+    "1288640": {
+      "appid": 1288640,
+      "name": "未元神话Myth of Future Dimension",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T16:46:29.705336"
+    },
+    "1288760": {
+      "appid": 1288760,
+      "name": "老铁，我啤酒呢?",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T16:46:30.374666"
+    },
+    "1288830": {
+      "appid": 1288830,
+      "name": "[NTRPG] Wife Punishment 妻子的惩罚!!~风情客栈的公交车~",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T16:46:30.821666"
+    },
+    "1288960": {
+      "appid": 1288960,
+      "name": "驱逐之剑(SwordBoy)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T16:46:31.737372"
+    },
+    "1289010": {
+      "appid": 1289010,
+      "name": "Haypi Monster 3",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T16:46:31.868932"
+    },
+    "1289100": {
+      "appid": 1289100,
+      "name": "[NTRPG] Xiu Lu Ji 修绿记",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T16:46:32.328601"
+    },
+    "1289120": {
+      "appid": 1289120,
+      "name": "A.I-记忆女神",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T16:46:32.506380"
+    },
+    "1289260": {
+      "appid": 1289260,
+      "name": "就这消消乐",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T16:46:33.144559"
+    },
+    "1289320": {
+      "appid": 1289320,
+      "name": "MvsM",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T16:46:33.786487"
+    },
+    "1289380": {
+      "appid": 1289380,
+      "name": "避难所2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T16:46:34.251523"
+    },
+    "1289470": {
+      "appid": 1289470,
+      "name": "Break Robots VR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T16:46:34.562644"
+    },
+    "1289480": {
+      "appid": 1289480,
+      "name": "千手英雄",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T16:46:34.724535"
+    },
+    "1289830": {
+      "appid": 1289830,
+      "name": "迅风的米斯特汀 Windy Mystletainn",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T16:46:36.927703"
+    },
+    "1289960": {
+      "appid": 1289960,
+      "name": "Core Awaken ~Jilelen and LittleSnow~",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T16:46:37.515370"
+    },
+    "1289990": {
+      "appid": 1289990,
+      "name": "Alan's Automaton Workshop",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T16:46:37.689280"
+    },
+    "1290000": {
+      "appid": 1290000,
+      "name": "冲就完事模拟器",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T16:46:37.871315"
+    },
+    "1290060": {
+      "appid": 1290060,
+      "name": "ANNO RIN",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T16:46:38.309452"
+    },
+    "1290070": {
+      "appid": 1290070,
+      "name": "Hot And Lovely 3",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T16:46:38.600197"
+    },
+    "1290170": {
+      "appid": 1290170,
+      "name": "Titan Chaser",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T16:46:39.744534"
+    },
+    "1290330": {
+      "appid": 1290330,
+      "name": "Time Wasters",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T16:46:41.157202"
+    },
+    "1290650": {
+      "appid": 1290650,
+      "name": "危机之后：暴风雪",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T16:46:50.070173"
+    },
+    "1290720": {
+      "appid": 1290720,
+      "name": "Calm Girls",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T16:46:54.191731"
+    },
+    "1290770": {
+      "appid": 1290770,
+      "name": "Mushroom Savior",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T16:46:54.688036"
+    },
+    "1290830": {
+      "appid": 1290830,
+      "name": "逃出图书馆(Escape from Library)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T16:46:55.543769"
+    },
+    "1290850": {
+      "appid": 1290850,
+      "name": "Kingdom of Corrupts",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T16:46:55.710554"
+    },
+    "1290880": {
+      "appid": 1290880,
+      "name": "Coloring Game: Girls",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T16:46:55.852538"
     }
   }
 }
