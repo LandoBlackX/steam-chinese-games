@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-06T18:35:20.417545"
+    "updated": "2025-04-06T18:42:09.271114"
   },
   "games": {
     "570": {
@@ -75438,6 +75438,110 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-06T18:35:17.555860"
+    },
+    "1334590": {
+      "appid": 1334590,
+      "name": "毛茸茸的爱",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T18:41:39.439983"
+    },
+    "1334700": {
+      "appid": 1334700,
+      "name": "tomorrow won't come for those without ██████",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T18:41:40.436247"
+    },
+    "1335230": {
+      "appid": 1335230,
+      "name": "堇的天空",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T18:41:42.911469"
+    },
+    "1335790": {
+      "appid": 1335790,
+      "name": "Operation: Tango",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T18:41:46.802200"
+    },
+    "1336120": {
+      "appid": 1336120,
+      "name": "Bridge Constructor: The Walking Dead",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T18:41:48.826109"
+    },
+    "1336160": {
+      "appid": 1336160,
+      "name": "Chupa Chupa VR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T18:41:49.292173"
+    },
+    "1336490": {
+      "appid": 1336490,
+      "name": "风暴之城 Against the Storm",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T18:41:51.262925"
+    },
+    "1336980": {
+      "appid": 1336980,
+      "name": "信長之野望･新生",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T18:41:54.012645"
+    },
+    "1337590": {
+      "appid": 1337590,
+      "name": "Sexena: Arena Tales",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T18:41:56.723263"
+    },
+    "1337760": {
+      "appid": 1337760,
+      "name": "杏林物语",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T18:41:57.827336"
+    },
+    "1337890": {
+      "appid": 1337890,
+      "name": "Choice of Life: Middle Ages",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T18:41:58.875910"
+    },
+    "1338580": {
+      "appid": 1338580,
+      "name": "像素哥3",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T18:42:03.049768"
+    },
+    "1338840": {
+      "appid": 1338840,
+      "name": "Death in the Water 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T18:42:04.412604"
     }
   }
 }

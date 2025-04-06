@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-06T18:35:20.417545"
+    "updated": "2025-04-06T18:42:09.271114"
   },
   "games": {
     "570": {
@@ -124152,6 +124152,534 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-04-06T18:35:20.415765"
+    },
+    "1334560": {
+      "appid": 1334560,
+      "name": "山羊避难所",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T18:41:39.017557"
+    },
+    "1334580": {
+      "appid": 1334580,
+      "name": "十月夜游戏",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T18:41:39.294538"
+    },
+    "1334590": {
+      "appid": 1334590,
+      "name": "毛茸茸的爱",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T18:41:39.439983"
+    },
+    "1334730": {
+      "appid": 1334730,
+      "name": "Dread Templar",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T18:41:40.571324"
+    },
+    "1334840": {
+      "appid": 1334840,
+      "name": "GOHOME",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T18:41:41.439038"
+    },
+    "1334910": {
+      "appid": 1334910,
+      "name": "Space Slurpies",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T18:41:41.719011"
+    },
+    "1335200": {
+      "appid": 1335200,
+      "name": "Action对魔忍",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T18:41:42.743925"
+    },
+    "1335230": {
+      "appid": 1335230,
+      "name": "堇的天空",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T18:41:42.911469"
+    },
+    "1335240": {
+      "appid": 1335240,
+      "name": "放置勇者：远征/Idle Heroes:Odyssey",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T18:41:43.067436"
+    },
+    "1335300": {
+      "appid": 1335300,
+      "name": "野球拳",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T18:41:43.678187"
+    },
+    "1335360": {
+      "appid": 1335360,
+      "name": "大厨老陈",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T18:41:44.102586"
+    },
+    "1335510": {
+      "appid": 1335510,
+      "name": "密室逃生游戏 陌生的房间",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T18:41:45.262587"
+    },
+    "1335560": {
+      "appid": 1335560,
+      "name": "非现实生活",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T18:41:45.696554"
+    },
+    "1335780": {
+      "appid": 1335780,
+      "name": "Flight Attendant Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T18:41:46.671591"
+    },
+    "1335790": {
+      "appid": 1335790,
+      "name": "Operation: Tango",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T18:41:46.802200"
+    },
+    "1335830": {
+      "appid": 1335830,
+      "name": "Len's Island",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T18:41:47.233052"
+    },
+    "1335940": {
+      "appid": 1335940,
+      "name": "满头大汗了吧，击球手！",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T18:41:47.832361"
+    },
+    "1335970": {
+      "appid": 1335970,
+      "name": "Greedy Maze",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T18:41:47.967336"
+    },
+    "1336120": {
+      "appid": 1336120,
+      "name": "Bridge Constructor: The Walking Dead",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T18:41:48.826109"
+    },
+    "1336130": {
+      "appid": 1336130,
+      "name": "Inside the Box",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T18:41:48.983140"
+    },
+    "1336160": {
+      "appid": 1336160,
+      "name": "Chupa Chupa VR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T18:41:49.292173"
+    },
+    "1336180": {
+      "appid": 1336180,
+      "name": "岛群时代 Floodland",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T18:41:49.584739"
+    },
+    "1336290": {
+      "appid": 1336290,
+      "name": "ARTHA",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T18:41:50.023847"
+    },
+    "1336380": {
+      "appid": 1336380,
+      "name": "疾速摩爪",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T18:41:50.318285"
+    },
+    "1336420": {
+      "appid": 1336420,
+      "name": "Breaking Lockdown",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T18:41:50.588786"
+    },
+    "1336450": {
+      "appid": 1336450,
+      "name": "Poco In",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T18:41:50.997965"
+    },
+    "1336460": {
+      "appid": 1336460,
+      "name": "Moirs",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T18:41:51.130172"
+    },
+    "1336490": {
+      "appid": 1336490,
+      "name": "风暴之城 Against the Storm",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T18:41:51.262925"
+    },
+    "1336560": {
+      "appid": 1336560,
+      "name": "Hashiriya Drifter-Online Drift Racing Multiplayer (DRIFT/DRAG/RACING)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T18:41:51.392567"
+    },
+    "1336830": {
+      "appid": 1336830,
+      "name": "东方钱股票店~Touhou MONEY STOCKS SHOPS~",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T18:41:52.884532"
+    },
+    "1336880": {
+      "appid": 1336880,
+      "name": "Kebab Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T18:41:53.167449"
+    },
+    "1336940": {
+      "appid": 1336940,
+      "name": "Beast Master",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T18:41:53.412517"
+    },
+    "1336960": {
+      "appid": 1336960,
+      "name": "Keyboard Piano-ist",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T18:41:53.691230"
+    },
+    "1336980": {
+      "appid": 1336980,
+      "name": "信長之野望･新生",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T18:41:54.012645"
+    },
+    "1337000": {
+      "appid": 1337000,
+      "name": "Bugvasion TD",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T18:41:54.143843"
+    },
+    "1337010": {
+      "appid": 1337010,
+      "name": "Alba: A Wildlife Adventure",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T18:41:54.287738"
+    },
+    "1337020": {
+      "appid": 1337020,
+      "name": "最后一面",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T18:41:54.429657"
+    },
+    "1337030": {
+      "appid": 1337030,
+      "name": "En-Train",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T18:41:54.584028"
+    },
+    "1337250": {
+      "appid": 1337250,
+      "name": "ARCANE DUEL 術法亂鬥",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T18:41:55.578525"
+    },
+    "1337520": {
+      "appid": 1337520,
+      "name": "雨中冒险: 回归",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T18:41:56.418177"
+    },
+    "1337530": {
+      "appid": 1337530,
+      "name": "Maskmaker",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T18:41:56.541878"
+    },
+    "1337760": {
+      "appid": 1337760,
+      "name": "杏林物语",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T18:41:57.827336"
+    },
+    "1337780": {
+      "appid": 1337780,
+      "name": "卡牌游戏",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T18:41:57.978264"
+    },
+    "1337810": {
+      "appid": 1337810,
+      "name": "指间堡垒",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T18:41:58.109033"
+    },
+    "1337890": {
+      "appid": 1337890,
+      "name": "Choice of Life: Middle Ages",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T18:41:58.875910"
+    },
+    "1337920": {
+      "appid": 1337920,
+      "name": "连环清道夫 (Serial Cleaners)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T18:41:59.130609"
+    },
+    "1337930": {
+      "appid": 1337930,
+      "name": "都广丹青录",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T18:41:59.271957"
+    },
+    "1337970": {
+      "appid": 1337970,
+      "name": "CatTuber",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T18:41:59.397297"
+    },
+    "1338020": {
+      "appid": 1338020,
+      "name": "Super Glitter Rush",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T18:41:59.698770"
+    },
+    "1338030": {
+      "appid": 1338030,
+      "name": "电视台模拟国 Entertainment Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T18:41:59.823325"
+    },
+    "1338100": {
+      "appid": 1338100,
+      "name": "Teratopia",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T18:42:00.132118"
+    },
+    "1338160": {
+      "appid": 1338160,
+      "name": " 怪物塔",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T18:42:00.548231"
+    },
+    "1338460": {
+      "appid": 1338460,
+      "name": "Jiangshi x Daoshi",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T18:42:02.324759"
+    },
+    "1338490": {
+      "appid": 1338490,
+      "name": "AFTERBLAST",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T18:42:02.457638"
+    },
+    "1338560": {
+      "appid": 1338560,
+      "name": "Kingdom of Bees",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T18:42:02.742129"
+    },
+    "1338580": {
+      "appid": 1338580,
+      "name": "像素哥3",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T18:42:03.049768"
+    },
+    "1338770": {
+      "appid": 1338770,
+      "name": "狙击手：幽灵战士契约 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T18:42:03.841182"
+    },
+    "1338830": {
+      "appid": 1338830,
+      "name": "最后的大法师 光明之旅(Last Archmage Journey of Light)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T18:42:04.260277"
+    },
+    "1338840": {
+      "appid": 1338840,
+      "name": "Death in the Water 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T18:42:04.412604"
+    },
+    "1339000": {
+      "appid": 1339000,
+      "name": "Aquarium Designer",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T18:42:05.504009"
+    },
+    "1339110": {
+      "appid": 1339110,
+      "name": "The Maze: Humanity",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T18:42:05.951067"
+    },
+    "1339260": {
+      "appid": 1339260,
+      "name": "末代侠客",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T18:42:06.693956"
+    },
+    "1339410": {
+      "appid": 1339410,
+      "name": "雾之本境S",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T18:42:07.809991"
+    },
+    "1339450": {
+      "appid": 1339450,
+      "name": "Choco Pixel 6",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T18:42:08.160632"
+    },
+    "1339460": {
+      "appid": 1339460,
+      "name": "Dinosaur Fossil Hunter: Prologue",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T18:42:08.292890"
+    },
+    "1339490": {
+      "appid": 1339490,
+      "name": "American Camper Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T18:42:08.422387"
     }
   }
 }
