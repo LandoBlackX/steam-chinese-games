@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-06T15:57:06.372370"
+    "updated": "2025-04-06T16:01:28.327252"
   },
   "games": {
     "570": {
@@ -74494,6 +74494,110 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-06T15:57:04.072240"
+    },
+    "1277400": {
+      "appid": 1277400,
+      "name": "Monster Hunter Stories 2: Wings of Ruin",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T16:00:55.150380"
+    },
+    "1277500": {
+      "appid": 1277500,
+      "name": "Skeletal Avenger",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T16:00:55.420545"
+    },
+    "1277510": {
+      "appid": 1277510,
+      "name": "Re:从零开始的异世界生活　虚假的王选候补",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T16:00:55.722857"
+    },
+    "1277930": {
+      "appid": 1277930,
+      "name": "Riddle Joker",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T16:00:58.560839"
+    },
+    "1277940": {
+      "appid": 1277940,
+      "name": "金辉恋曲四重奏",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T16:00:58.784533"
+    },
+    "1278190": {
+      "appid": 1278190,
+      "name": "Jumpala",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T16:01:00.488620"
+    },
+    "1279260": {
+      "appid": 1279260,
+      "name": "烂漫向导蕾莉",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T16:01:05.583204"
+    },
+    "1279270": {
+      "appid": 1279270,
+      "name": "7 Girls War：女英雄们的堕落",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T16:01:05.712577"
+    },
+    "1279280": {
+      "appid": 1279280,
+      "name": "Welcome to the Adventurer Inn!",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T16:01:05.959297"
+    },
+    "1279630": {
+      "appid": 1279630,
+      "name": "Vampire: The Masquerade - Shadows of New York",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T16:01:09.113461"
+    },
+    "1280260": {
+      "appid": 1280260,
+      "name": "Overgrown: Genesis",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T16:01:11.669064"
+    },
+    "1280770": {
+      "appid": 1280770,
+      "name": "Redmatch 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T16:01:15.777866"
+    },
+    "1280930": {
+      "appid": 1280930,
+      "name": "星界战士",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T16:01:16.915980"
     }
   }
 }
