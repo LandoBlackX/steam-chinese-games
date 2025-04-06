@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-06T11:59:21.851495"
+    "updated": "2025-04-06T12:17:34.461192"
   },
   "games": {
     "570": {
@@ -72422,6 +72422,70 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-04-06T11:59:19.291975"
+    },
+    "1175830": {
+      "appid": 1175830,
+      "name": "圣剑传说 Legend of Mana",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T12:17:08.698888"
+    },
+    "1176110": {
+      "appid": 1176110,
+      "name": "AudioTheory Guitars",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T12:17:11.563065"
+    },
+    "1176470": {
+      "appid": 1176470,
+      "name": "地球不屈 Terra Invicta",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T12:17:12.561590"
+    },
+    "1178230": {
+      "appid": 1178230,
+      "name": "The Wild Case",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T12:17:23.805975"
+    },
+    "1178400": {
+      "appid": 1178400,
+      "name": "Pro Cycling Manager 2020",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T12:17:25.258986"
+    },
+    "1178790": {
+      "appid": 1178790,
+      "name": "千变的迷宫 风来的希炼 命运之塔与命运之骰",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T12:17:27.292013"
+    },
+    "1179080": {
+      "appid": 1179080,
+      "name": "FAITH: The Unholy Trinity",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T12:17:28.347614"
+    },
+    "1179210": {
+      "appid": 1179210,
+      "name": "Kill It With Fire",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T12:17:29.241334"
     }
   }
 }
