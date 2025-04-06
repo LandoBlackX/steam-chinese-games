@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-06T06:22:32.613186"
+    "updated": "2025-04-06T06:32:19.128413"
   },
   "games": {
     "570": {
@@ -91568,6 +91568,494 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-04-06T06:22:32.516359"
+    },
+    "1016600": {
+      "appid": 1016600,
+      "name": "斩妖Raksasi",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T06:31:50.984367"
+    },
+    "1016610": {
+      "appid": 1016610,
+      "name": "Four-color Fantasy",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T06:31:51.163353"
+    },
+    "1016690": {
+      "appid": 1016690,
+      "name": "DUST-UP 人偶格斗",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T06:31:51.736422"
+    },
+    "1016730": {
+      "appid": 1016730,
+      "name": "Deck of Ashes",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T06:31:52.172128"
+    },
+    "1016740": {
+      "appid": 1016740,
+      "name": "God Monster",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T06:31:52.303696"
+    },
+    "1016750": {
+      "appid": 1016750,
+      "name": "TRACKER《追踪者》",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T06:31:52.443207"
+    },
+    "1016790": {
+      "appid": 1016790,
+      "name": "West of Dead",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T06:31:52.832841"
+    },
+    "1016800": {
+      "appid": 1016800,
+      "name": "Chernobylite Complete Edition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T06:31:52.991286"
+    },
+    "1016920": {
+      "appid": 1016920,
+      "name": "Unrailed!",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T06:31:54.184654"
+    },
+    "1016930": {
+      "appid": 1016930,
+      "name": "The Great Perhaps",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T06:31:54.388179"
+    },
+    "1016940": {
+      "appid": 1016940,
+      "name": "The Otterman Empire",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T06:31:54.607453"
+    },
+    "1016950": {
+      "appid": 1016950,
+      "name": "Blood Bowl 3",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T06:31:54.883293"
+    },
+    "1016960": {
+      "appid": 1016960,
+      "name": "Super Neptunia RPG",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T06:31:55.047753"
+    },
+    "1017060": {
+      "appid": 1017060,
+      "name": "Planet Evolution PC Live Wallpaper",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T06:31:55.717719"
+    },
+    "1017160": {
+      "appid": 1017160,
+      "name": "Gearshifters",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T06:31:56.206695"
+    },
+    "1017340": {
+      "appid": 1017340,
+      "name": "FitnessVR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T06:31:56.767181"
+    },
+    "1017350": {
+      "appid": 1017350,
+      "name": "aMAZE St.Patrick",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T06:31:56.917776"
+    },
+    "1017380": {
+      "appid": 1017380,
+      "name": "天空傳説",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T06:31:57.319377"
+    },
+    "1017410": {
+      "appid": 1017410,
+      "name": "原石计划",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T06:31:57.458964"
+    },
+    "1017820": {
+      "appid": 1017820,
+      "name": "Cybershift",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T06:32:00.167755"
+    },
+    "1017900": {
+      "appid": 1017900,
+      "name": "Age of Empires: Definitive Edition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T06:32:00.426617"
+    },
+    "1017940": {
+      "appid": 1017940,
+      "name": "King of Texas",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T06:32:00.594501"
+    },
+    "1018040": {
+      "appid": 1018040,
+      "name": "Dirty Education",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T06:32:01.326197"
+    },
+    "1018060": {
+      "appid": 1018060,
+      "name": "The Mercenary Rise",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T06:32:01.456058"
+    },
+    "1018170": {
+      "appid": 1018170,
+      "name": "光之迷城 / Dawn of the Lost Castle",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T06:32:02.400874"
+    },
+    "1018610": {
+      "appid": 1018610,
+      "name": "Dawn Break -Origin-",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T06:32:03.499515"
+    },
+    "1018680": {
+      "appid": 1018680,
+      "name": "Screenbits - Screen Recorder",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T06:32:03.759759"
+    },
+    "1018800": {
+      "appid": 1018800,
+      "name": "非常普通的鹿 DEEEER Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T06:32:04.754353"
+    },
+    "1018830": {
+      "appid": 1018830,
+      "name": "元素塔防2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T06:32:05.160601"
+    },
+    "1018850": {
+      "appid": 1018850,
+      "name": "Smile For Me",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T06:32:05.298502"
+    },
+    "1018930": {
+      "appid": 1018930,
+      "name": "【SCP】器関ノ彷徨 -The will of a single Tale- 第１部",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T06:32:05.935174"
+    },
+    "1018960": {
+      "appid": 1018960,
+      "name": "Thugs Law",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T06:32:06.068679"
+    },
+    "1019050": {
+      "appid": 1019050,
+      "name": "Primal Threat",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T06:32:06.754630"
+    },
+    "1019180": {
+      "appid": 1019180,
+      "name": "恐龙大冒险",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T06:32:07.699435"
+    },
+    "1019230": {
+      "appid": 1019230,
+      "name": "Mr.Hack Jack: Robot Detective",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T06:32:07.968982"
+    },
+    "1019310": {
+      "appid": 1019310,
+      "name": "VirtuaVerse",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T06:32:08.510632"
+    },
+    "1019450": {
+      "appid": 1019450,
+      "name": "餐桌物语 / Table Manners",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T06:32:09.065622"
+    },
+    "1019550": {
+      "appid": 1019550,
+      "name": "Thief Simulator VR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T06:32:09.334479"
+    },
+    "1019630": {
+      "appid": 1019630,
+      "name": "ECCHI NEKO GIRLS PUZZLE",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T06:32:09.870408"
+    },
+    "1019920": {
+      "appid": 1019920,
+      "name": "幻想乡守护者",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T06:32:11.583283"
+    },
+    "1020010": {
+      "appid": 1020010,
+      "name": "Fantasy Island",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T06:32:11.843863"
+    },
+    "1020020": {
+      "appid": 1020020,
+      "name": "Dimension Two",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T06:32:11.975832"
+    },
+    "1020050": {
+      "appid": 1020050,
+      "name": "Startup Valley Adventure",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T06:32:12.273176"
+    },
+    "1020270": {
+      "appid": 1020270,
+      "name": "Demon Hunter 5: Ascendance",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T06:32:13.076137"
+    },
+    "1020360": {
+      "appid": 1020360,
+      "name": "魔杖战争 Wand Wars: Rise",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T06:32:13.718876"
+    },
+    "1020390": {
+      "appid": 1020390,
+      "name": "Beat Blaster",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T06:32:13.851818"
+    },
+    "1020440": {
+      "appid": 1020440,
+      "name": "Doodle Creatures",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T06:32:14.245279"
+    },
+    "1020540": {
+      "appid": 1020540,
+      "name": "CONTRA: ROGUE CORPS",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T06:32:15.230522"
+    },
+    "1020640": {
+      "appid": 1020640,
+      "name": "R.I.C.A",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T06:32:16.158952"
+    },
+    "1020730": {
+      "appid": 1020730,
+      "name": "Dark Bestiary",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T06:32:16.722908"
+    },
+    "1020790": {
+      "appid": 1020790,
+      "name": "NARUTO X BORUTO 火影忍者 终极风暴羁绊",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T06:32:17.018777"
+    },
+    "1020820": {
+      "appid": 1020820,
+      "name": "KumaKuma Manga Editor",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T06:32:17.323447"
+    },
+    "1020830": {
+      "appid": 1020830,
+      "name": "Something is wrong/有毛病",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T06:32:17.469323"
+    },
+    "1020840": {
+      "appid": 1020840,
+      "name": "豆腐脑模拟器 Tofu Pudding Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T06:32:17.592804"
+    },
+    "1020910": {
+      "appid": 1020910,
+      "name": "Sefirot Shards",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T06:32:17.722140"
+    },
+    "1020930": {
+      "appid": 1020930,
+      "name": "在末日前夕等待放晴",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T06:32:17.847030"
+    },
+    "1020940": {
+      "appid": 1020940,
+      "name": "Owyn's Adventure",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T06:32:17.983058"
+    },
+    "1021070": {
+      "appid": 1021070,
+      "name": "Spaceland: Sci-Fi Indie Tactics",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T06:32:18.408478"
+    },
+    "1021100": {
+      "appid": 1021100,
+      "name": "Aircraft Carrier Survival",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T06:32:18.547227"
+    },
+    "1021120": {
+      "appid": 1021120,
+      "name": "PraeBot",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T06:32:18.683146"
+    },
+    "1021130": {
+      "appid": 1021130,
+      "name": "Trucking",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T06:32:19.127000"
     }
   }
 }

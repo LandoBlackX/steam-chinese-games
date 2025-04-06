@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-06T06:22:32.613186"
+    "updated": "2025-04-06T06:32:19.128413"
   },
   "games": {
     "570": {
@@ -69142,6 +69142,110 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-06T06:22:32.053287"
+    },
+    "1016720": {
+      "appid": 1016720,
+      "name": "Save Koch",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T06:31:52.015644"
+    },
+    "1016730": {
+      "appid": 1016730,
+      "name": "Deck of Ashes",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T06:31:52.172128"
+    },
+    "1016800": {
+      "appid": 1016800,
+      "name": "Chernobylite Complete Edition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T06:31:52.991286"
+    },
+    "1016920": {
+      "appid": 1016920,
+      "name": "Unrailed!",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T06:31:54.184654"
+    },
+    "1016950": {
+      "appid": 1016950,
+      "name": "Blood Bowl 3",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T06:31:54.883293"
+    },
+    "1016960": {
+      "appid": 1016960,
+      "name": "Super Neptunia RPG",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T06:31:55.047753"
+    },
+    "1017900": {
+      "appid": 1017900,
+      "name": "Age of Empires: Definitive Edition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T06:32:00.426617"
+    },
+    "1018850": {
+      "appid": 1018850,
+      "name": "Smile For Me",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T06:32:05.298502"
+    },
+    "1019590": {
+      "appid": 1019590,
+      "name": "Lovely Planet 2: April Skies",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T06:32:09.731802"
+    },
+    "1020270": {
+      "appid": 1020270,
+      "name": "Demon Hunter 5: Ascendance",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T06:32:13.076137"
+    },
+    "1020800": {
+      "appid": 1020800,
+      "name": "CAR TUNE: Project",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T06:32:17.182453"
+    },
+    "1021070": {
+      "appid": 1021070,
+      "name": "Spaceland: Sci-Fi Indie Tactics",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T06:32:18.408478"
+    },
+    "1021100": {
+      "appid": 1021100,
+      "name": "Aircraft Carrier Survival",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T06:32:18.547227"
     }
   }
 }
