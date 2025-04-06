@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-06T10:39:08.217890"
+    "updated": "2025-04-06T10:50:16.970328"
   },
   "games": {
     "570": {
@@ -104000,6 +104000,534 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-06T10:39:08.215257"
+    },
+    "1140350": {
+      "appid": 1140350,
+      "name": "Shuttlecock-H: Covered Rematch",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T10:49:47.570310"
+    },
+    "1140410": {
+      "appid": 1140410,
+      "name": "Sex City",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T10:49:48.340833"
+    },
+    "1140440": {
+      "appid": 1140440,
+      "name": "警察模拟器",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T10:49:48.603599"
+    },
+    "1140490": {
+      "appid": 1140490,
+      "name": "The Fog",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T10:49:48.874162"
+    },
+    "1140570": {
+      "appid": 1140570,
+      "name": "A Street Cat's Tale",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T10:49:49.793246"
+    },
+    "1140610": {
+      "appid": 1140610,
+      "name": "死亡直播间",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T10:49:50.088083"
+    },
+    "1140620": {
+      "appid": 1140620,
+      "name": "CosmicBreak Universal",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T10:49:50.268955"
+    },
+    "1140630": {
+      "appid": 1140630,
+      "name": "Red Wings: Aces of the Sky",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T10:49:50.378155"
+    },
+    "1140700": {
+      "appid": 1140700,
+      "name": "GodOrEvil.Beta",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T10:49:50.504348"
+    },
+    "1140740": {
+      "appid": 1140740,
+      "name": "Chroma: Bloom And Blight",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T10:49:50.913332"
+    },
+    "1140890": {
+      "appid": 1140890,
+      "name": "Morbid: The Seven Acolytes",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T10:49:51.923129"
+    },
+    "1141020": {
+      "appid": 1141020,
+      "name": "Adventure Escape Mysteries",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T10:49:52.861037"
+    },
+    "1141050": {
+      "appid": 1141050,
+      "name": "Nour: Play with Your Food",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T10:49:53.428204"
+    },
+    "1141070": {
+      "appid": 1141070,
+      "name": "UFO : Brawlers from Beyond",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T10:49:53.804518"
+    },
+    "1141100": {
+      "appid": 1141100,
+      "name": "莉莉传说",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T10:49:53.923973"
+    },
+    "1141120": {
+      "appid": 1141120,
+      "name": "Scarlet Hood and the Wicked Wood",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T10:49:54.049803"
+    },
+    "1141130": {
+      "appid": 1141130,
+      "name": "混乱大冒险",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T10:49:54.180414"
+    },
+    "1141260": {
+      "appid": 1141260,
+      "name": "1000 Deaths 千重命陨",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T10:49:55.468394"
+    },
+    "1141340": {
+      "appid": 1141340,
+      "name": "WildIsland",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T10:49:56.396280"
+    },
+    "1141570": {
+      "appid": 1141570,
+      "name": "天空炮手",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T10:49:57.678891"
+    },
+    "1141580": {
+      "appid": 1141580,
+      "name": "Taiji",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T10:49:57.835159"
+    },
+    "1141650": {
+      "appid": 1141650,
+      "name": "人群模拟器",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T10:49:58.240869"
+    },
+    "1141690": {
+      "appid": 1141690,
+      "name": "Raiders of Chanyu",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T10:49:58.521610"
+    },
+    "1141750": {
+      "appid": 1141750,
+      "name": "缸中之脑：谎言（Brain in a vat lies）",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T10:49:58.953257"
+    },
+    "1141760": {
+      "appid": 1141760,
+      "name": "西游志：山海战纪",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T10:49:59.066609"
+    },
+    "1141930": {
+      "appid": 1141930,
+      "name": "Mondly: Learn Languages in VR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T10:50:00.127830"
+    },
+    "1141970": {
+      "appid": 1141970,
+      "name": "YARBAY",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T10:50:00.668212"
+    },
+    "1142020": {
+      "appid": 1142020,
+      "name": "Parcel Mania: Free Multiplayer Madness",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T10:50:01.002133"
+    },
+    "1142040": {
+      "appid": 1142040,
+      "name": "For Stella",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T10:50:01.252307"
+    },
+    "1142050": {
+      "appid": 1142050,
+      "name": "Deadhaus Sonata",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T10:50:01.419141"
+    },
+    "1142080": {
+      "appid": 1142080,
+      "name": "Pawnbarian",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T10:50:01.667400"
+    },
+    "1142100": {
+      "appid": 1142100,
+      "name": "WWE 2K竞技场",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T10:50:01.948657"
+    },
+    "1142240": {
+      "appid": 1142240,
+      "name": "ODA",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T10:50:02.710479"
+    },
+    "1142270": {
+      "appid": 1142270,
+      "name": "萌妹兽耳娘激情咖啡",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T10:50:02.847643"
+    },
+    "1142390": {
+      "appid": 1142390,
+      "name": "Remothered: Broken Porcelain",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T10:50:03.709895"
+    },
+    "1142510": {
+      "appid": 1142510,
+      "name": "保卫黄瓜VR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T10:50:04.871142"
+    },
+    "1142570": {
+      "appid": 1142570,
+      "name": "We Stay Behind",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T10:50:05.258029"
+    },
+    "1142710": {
+      "appid": 1142710,
+      "name": "全面战争：战锤3",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T10:50:05.580002"
+    },
+    "1142740": {
+      "appid": 1142740,
+      "name": "逃离地狱边缘",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T10:50:05.829297"
+    },
+    "1142750": {
+      "appid": 1142750,
+      "name": "BAFF 3",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T10:50:05.948263"
+    },
+    "1142810": {
+      "appid": 1142810,
+      "name": "吐司球",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T10:50:06.208835"
+    },
+    "1142830": {
+      "appid": 1142830,
+      "name": "9-nine-春色春恋春熙风",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T10:50:06.547130"
+    },
+    "1142850": {
+      "appid": 1142850,
+      "name": "Darkness Rollercoaster - Ultimate Shooter Edition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T10:50:06.698803"
+    },
+    "1142860": {
+      "appid": 1142860,
+      "name": "机甲雄心：巡天者",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T10:50:06.836903"
+    },
+    "1142870": {
+      "appid": 1142870,
+      "name": "Hentai Fight Club",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T10:50:06.993439"
+    },
+    "1143070": {
+      "appid": 1143070,
+      "name": "沙漠王朝",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T10:50:07.279581"
+    },
+    "1143570": {
+      "appid": 1143570,
+      "name": "VolticPistol",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T10:50:09.652815"
+    },
+    "1143680": {
+      "appid": 1143680,
+      "name": "AVA",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T10:50:09.983448"
+    },
+    "1143710": {
+      "appid": 1143710,
+      "name": "Тёмное отражение (Dark Reflection)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T10:50:10.154247"
+    },
+    "1143740": {
+      "appid": 1143740,
+      "name": "PUZZLETIME: Castle Party",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T10:50:10.435414"
+    },
+    "1143810": {
+      "appid": 1143810,
+      "name": "云端掠影 (Black Skylands)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T10:50:11.070874"
+    },
+    "1143860": {
+      "appid": 1143860,
+      "name": "Zombie Admin",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T10:50:11.207780"
+    },
+    "1144000": {
+      "appid": 1144000,
+      "name": "Spock in the Dama Kingdom",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T10:50:11.691798"
+    },
+    "1144020": {
+      "appid": 1144020,
+      "name": "GolfTopia",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T10:50:11.834674"
+    },
+    "1144200": {
+      "appid": 1144200,
+      "name": "Ready or Not",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T10:50:13.731772"
+    },
+    "1144240": {
+      "appid": 1144240,
+      "name": "翻车鱼冒险",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T10:50:13.895017"
+    },
+    "1144270": {
+      "appid": 1144270,
+      "name": "救赎抉择Resurrection",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T10:50:14.277490"
+    },
+    "1144300": {
+      "appid": 1144300,
+      "name": "悠久之翼-前篇",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T10:50:14.757748"
+    },
+    "1144330": {
+      "appid": 1144330,
+      "name": "魔理沙的奇异魔法道具店",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T10:50:14.873400"
+    },
+    "1144350": {
+      "appid": 1144350,
+      "name": "饥饿之塔",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T10:50:15.031198"
+    },
+    "1144380": {
+      "appid": 1144380,
+      "name": "玛斯卡的面具",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T10:50:15.345000"
+    },
+    "1144400": {
+      "appid": 1144400,
+      "name": "千恋＊万花",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T10:50:15.476258"
+    },
+    "1144440": {
+      "appid": 1144440,
+      "name": "UnderParty",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T10:50:15.601128"
+    },
+    "1144460": {
+      "appid": 1144460,
+      "name": "音动万华镜世界/SoundArt",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T10:50:15.840484"
+    },
+    "1144520": {
+      "appid": 1144520,
+      "name": "Air",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T10:50:16.248777"
+    },
+    "1144550": {
+      "appid": 1144550,
+      "name": "Bride for the Princess",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T10:50:16.385901"
     }
   }
 }
