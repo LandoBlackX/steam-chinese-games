@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-06T21:13:31.583881"
+    "updated": "2025-04-06T21:30:14.454650"
   },
   "games": {
     "570": {
@@ -128776,6 +128776,470 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-04-06T21:13:31.582679"
+    },
+    "1381270": {
+      "appid": 1381270,
+      "name": "休止符 StopSign",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:29:42.529043"
+    },
+    "1381290": {
+      "appid": 1381290,
+      "name": "Viking Fight",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:29:42.880444"
+    },
+    "1381530": {
+      "appid": 1381530,
+      "name": "麦斯历险记",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:29:45.966855"
+    },
+    "1381610": {
+      "appid": 1381610,
+      "name": "AEON BLOOD",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:29:46.532242"
+    },
+    "1381690": {
+      "appid": 1381690,
+      "name": "Sainthum 圣颂",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:29:47.248470"
+    },
+    "1381850": {
+      "appid": 1381850,
+      "name": "战略思维：为自由而战",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:29:47.654708"
+    },
+    "1381880": {
+      "appid": 1381880,
+      "name": "The Square Key",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:29:47.812540"
+    },
+    "1382070": {
+      "appid": 1382070,
+      "name": "Viewfinder",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:29:48.619891"
+    },
+    "1382190": {
+      "appid": 1382190,
+      "name": "Killer in the cabin",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:29:49.313966"
+    },
+    "1382330": {
+      "appid": 1382330,
+      "name": "Persona® 5 Strikers",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T21:29:50.092171"
+    },
+    "1382370": {
+      "appid": 1382370,
+      "name": "ProjectTeo",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:29:50.539139"
+    },
+    "1382390": {
+      "appid": 1382390,
+      "name": "Dirty Land",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:29:50.839358"
+    },
+    "1382530": {
+      "appid": 1382530,
+      "name": "催眠！骚货女上司",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:29:51.363332"
+    },
+    "1382670": {
+      "appid": 1382670,
+      "name": "FIRE  TRUMP - Air Combat VR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:29:51.690777"
+    },
+    "1382730": {
+      "appid": 1382730,
+      "name": "Midnight Scenes: The Goodbye Note",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:29:52.036255"
+    },
+    "1382870": {
+      "appid": 1382870,
+      "name": "世界战争学院",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:29:53.784750"
+    },
+    "1382910": {
+      "appid": 1382910,
+      "name": "Hell Architect: Prologue",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:29:54.103665"
+    },
+    "1383060": {
+      "appid": 1383060,
+      "name": "eyeDASH",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:29:55.746290"
+    },
+    "1383150": {
+      "appid": 1383150,
+      "name": "Final Factory",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:29:56.245795"
+    },
+    "1383170": {
+      "appid": 1383170,
+      "name": "100 RUB: Operation Global Denomination",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:29:56.518943"
+    },
+    "1383220": {
+      "appid": 1383220,
+      "name": "Space Crisis",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:29:56.784454"
+    },
+    "1383250": {
+      "appid": 1383250,
+      "name": "Please Fix The Road",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T21:29:56.929798"
+    },
+    "1383280": {
+      "appid": 1383280,
+      "name": "Josh Journey: Darkness Totems",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:29:57.236514"
+    },
+    "1383410": {
+      "appid": 1383410,
+      "name": "Gravitaze: One",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:29:58.146227"
+    },
+    "1383450": {
+      "appid": 1383450,
+      "name": "心境 VR / Mind VR Exploration",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:29:58.277447"
+    },
+    "1383500": {
+      "appid": 1383500,
+      "name": "客栈江湖-Vagabond Inn",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:29:58.712189"
+    },
+    "1383510": {
+      "appid": 1383510,
+      "name": "Dark Stone: The Lightseeker",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:29:58.849181"
+    },
+    "1383570": {
+      "appid": 1383570,
+      "name": "Ballex²: The Hanging Gardens",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:29:59.076666"
+    },
+    "1383630": {
+      "appid": 1383630,
+      "name": "Antarctica 88",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:29:59.492341"
+    },
+    "1383670": {
+      "appid": 1383670,
+      "name": "KING GOD DOMAIN",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:30:00.023875"
+    },
+    "1383680": {
+      "appid": 1383680,
+      "name": "转生魅魔迷宫历险记",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:30:00.157788"
+    },
+    "1383690": {
+      "appid": 1383690,
+      "name": "A Wake Inn",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:30:00.293207"
+    },
+    "1383740": {
+      "appid": 1383740,
+      "name": "My Cute Commissar",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T21:30:00.713009"
+    },
+    "1383930": {
+      "appid": 1383930,
+      "name": "Swordian Hero",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:30:02.014593"
+    },
+    "1383970": {
+      "appid": 1383970,
+      "name": "Captain Sabertooth and the Magic Diamond",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:30:02.226466"
+    },
+    "1384060": {
+      "appid": 1384060,
+      "name": "BattleJuice Alchemist",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:30:03.184250"
+    },
+    "1384130": {
+      "appid": 1384130,
+      "name": "Yolka",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:30:03.624589"
+    },
+    "1384160": {
+      "appid": 1384160,
+      "name": "GUILTY GEAR -STRIVE-",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:30:04.011513"
+    },
+    "1384170": {
+      "appid": 1384170,
+      "name": "天虹书店 Tian Hong Bookstore",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:30:04.175276"
+    },
+    "1384180": {
+      "appid": 1384180,
+      "name": "流亡云端",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:30:04.382269"
+    },
+    "1384380": {
+      "appid": 1384380,
+      "name": "大家一起观颜察色。2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:30:05.179419"
+    },
+    "1384390": {
+      "appid": 1384390,
+      "name": "Photo Studio",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:30:05.327324"
+    },
+    "1384510": {
+      "appid": 1384510,
+      "name": "异界浮尘录",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:30:06.375037"
+    },
+    "1384620": {
+      "appid": 1384620,
+      "name": "Ninja Hanrei",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:30:07.198160"
+    },
+    "1384630": {
+      "appid": 1384630,
+      "name": "SWORD x HIME",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:30:07.331502"
+    },
+    "1384660": {
+      "appid": 1384660,
+      "name": "杆够准！",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:30:07.459316"
+    },
+    "1384890": {
+      "appid": 1384890,
+      "name": "Flag Collection",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:30:09.207785"
+    },
+    "1384960": {
+      "appid": 1384960,
+      "name": "Unit 404",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:30:09.586655"
+    },
+    "1384990": {
+      "appid": 1384990,
+      "name": "魔法考核冒险",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:30:09.861914"
+    },
+    "1385100": {
+      "appid": 1385100,
+      "name": "孤山难越 Insurmountable",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:30:10.313384"
+    },
+    "1385190": {
+      "appid": 1385190,
+      "name": "After The War",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:30:10.716893"
+    },
+    "1385210": {
+      "appid": 1385210,
+      "name": "爆炸少女",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:30:10.876731"
+    },
+    "1385290": {
+      "appid": 1385290,
+      "name": "披萨店模拟器",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:30:11.268469"
+    },
+    "1385380": {
+      "appid": 1385380,
+      "name": "Across the Obelisk",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:30:12.000836"
+    },
+    "1385620": {
+      "appid": 1385620,
+      "name": "模特姐妹",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:30:12.942312"
+    },
+    "1385670": {
+      "appid": 1385670,
+      "name": "The Mutineer",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:30:13.353949"
+    },
+    "1385700": {
+      "appid": 1385700,
+      "name": "True Hate",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:30:13.783211"
+    },
+    "1385730": {
+      "appid": 1385730,
+      "name": "拼图猫娘3",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T21:30:13.923464"
     }
   }
 }

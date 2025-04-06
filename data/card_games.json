@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-06T21:13:31.583881"
+    "updated": "2025-04-06T21:30:14.454650"
   },
   "games": {
     "570": {
@@ -76174,6 +76174,46 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-06T21:13:26.658284"
+    },
+    "1382330": {
+      "appid": 1382330,
+      "name": "Persona® 5 Strikers",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T21:29:50.092171"
+    },
+    "1383250": {
+      "appid": 1383250,
+      "name": "Please Fix The Road",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T21:29:56.929798"
+    },
+    "1383740": {
+      "appid": 1383740,
+      "name": "My Cute Commissar",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T21:30:00.713009"
+    },
+    "1384330": {
+      "appid": 1384330,
+      "name": "Princess Daphne and the Orcs",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T21:30:04.911397"
+    },
+    "1385730": {
+      "appid": 1385730,
+      "name": "拼图猫娘3",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T21:30:13.923464"
     }
   }
 }
