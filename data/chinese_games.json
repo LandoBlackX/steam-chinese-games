@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-06T02:58:02.771625"
+    "updated": "2025-04-06T03:37:46.799898"
   },
   "games": {
     "570": {
@@ -85344,6 +85344,422 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-06T02:58:01.541787"
+    },
+    "949800": {
+      "appid": 949800,
+      "name": "Skyland: Heart of the Mountain",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T03:37:10.547815"
+    },
+    "949890": {
+      "appid": 949890,
+      "name": "除灵（物理）案件０１",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T03:37:11.825966"
+    },
+    "949970": {
+      "appid": 949970,
+      "name": "Reborn In Wild City 迷城重生",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T03:37:12.514241"
+    },
+    "950050": {
+      "appid": 950050,
+      "name": "Starlink: Battle for Atlas",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T03:37:12.914344"
+    },
+    "950100": {
+      "appid": 950100,
+      "name": "PRO EVOLUTION SOCCER 2019 LITE",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T03:37:13.083383"
+    },
+    "950160": {
+      "appid": 950160,
+      "name": "Miracle Circus",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T03:37:13.696776"
+    },
+    "950360": {
+      "appid": 950360,
+      "name": "Quest room: Hanon",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T03:37:15.604239"
+    },
+    "950370": {
+      "appid": 950370,
+      "name": "Tactics & Strategy Master 2:Princess of Holy Light（圣光战姬）",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T03:37:15.752508"
+    },
+    "950400": {
+      "appid": 950400,
+      "name": "Blame Him",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T03:37:16.082832"
+    },
+    "950460": {
+      "appid": 950460,
+      "name": "Paradise Cleaning!",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T03:37:16.350411"
+    },
+    "950530": {
+      "appid": 950530,
+      "name": "Mojo 2: Mia",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T03:37:16.775834"
+    },
+    "950700": {
+      "appid": 950700,
+      "name": "VICCP",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T03:37:17.647090"
+    },
+    "950810": {
+      "appid": 950810,
+      "name": "SquareWorld Unpixeled",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T03:37:18.498271"
+    },
+    "950990": {
+      "appid": 950990,
+      "name": "Business Magnate",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T03:37:19.721030"
+    },
+    "951000": {
+      "appid": 951000,
+      "name": "女裝神社",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T03:37:19.929406"
+    },
+    "951050": {
+      "appid": 951050,
+      "name": "Another Hardcore Game",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T03:37:20.702689"
+    },
+    "951130": {
+      "appid": 951130,
+      "name": "心之檻",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T03:37:21.443680"
+    },
+    "951160": {
+      "appid": 951160,
+      "name": "JUMP UP",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T03:37:21.637247"
+    },
+    "951420": {
+      "appid": 951420,
+      "name": "Refraction",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T03:37:24.668097"
+    },
+    "951430": {
+      "appid": 951430,
+      "name": "Dead Age 2: The Zombie Survival RPG",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T03:37:24.821395"
+    },
+    "951440": {
+      "appid": 951440,
+      "name": "Volcanoids",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T03:37:25.007393"
+    },
+    "951570": {
+      "appid": 951570,
+      "name": "Deadness",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T03:37:26.050123"
+    },
+    "951620": {
+      "appid": 951620,
+      "name": "Bygone Dreams",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T03:37:26.234208"
+    },
+    "951700": {
+      "appid": 951700,
+      "name": "Super Jigsaw Puzzle: Space",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T03:37:26.881611"
+    },
+    "951750": {
+      "appid": 951750,
+      "name": "I Am Dead",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T03:37:27.161095"
+    },
+    "951820": {
+      "appid": 951820,
+      "name": "Captain Bones: 海盗之旅",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T03:37:28.117799"
+    },
+    "951940": {
+      "appid": 951940,
+      "name": "Almost There: The Platformer",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T03:37:29.558234"
+    },
+    "952040": {
+      "appid": 952040,
+      "name": "同步音律喵赛克",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T03:37:30.649502"
+    },
+    "952060": {
+      "appid": 952060,
+      "name": "Resident Evil 3",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T03:37:31.040213"
+    },
+    "952070": {
+      "appid": 952070,
+      "name": "RESIDENT EVIL RESISTANCE",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T03:37:31.252931"
+    },
+    "952120": {
+      "appid": 952120,
+      "name": "阿达三国志2019  竖版 Three Kingdoms 2019",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T03:37:31.676065"
+    },
+    "952230": {
+      "appid": 952230,
+      "name": "5 Star Miami Resort",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T03:37:32.331295"
+    },
+    "952240": {
+      "appid": 952240,
+      "name": "柴油朋克：战争巨兽",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T03:37:32.546984"
+    },
+    "952400": {
+      "appid": 952400,
+      "name": "Oculto",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T03:37:34.214058"
+    },
+    "952420": {
+      "appid": 952420,
+      "name": "山桂贰",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T03:37:34.384397"
+    },
+    "952430": {
+      "appid": 952430,
+      "name": "Zenkit",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T03:37:34.594017"
+    },
+    "952730": {
+      "appid": 952730,
+      "name": "18层",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T03:37:36.289287"
+    },
+    "952850": {
+      "appid": 952850,
+      "name": "败家仔 Last Wish",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T03:37:36.462334"
+    },
+    "952860": {
+      "appid": 952860,
+      "name": "河洛群侠传 (Ho Tu Lo Shu ： The Books of Dragon)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T03:37:36.665309"
+    },
+    "953270": {
+      "appid": 953270,
+      "name": "Dominatrix Simulator: Threshold",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T03:37:40.038754"
+    },
+    "953310": {
+      "appid": 953310,
+      "name": "Trajes Fatais: Suits of Fate",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T03:37:40.532778"
+    },
+    "953490": {
+      "appid": 953490,
+      "name": "红怪",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T03:37:41.893815"
+    },
+    "953570": {
+      "appid": 953570,
+      "name": "White Dove 白雀",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T03:37:42.320092"
+    },
+    "953580": {
+      "appid": 953580,
+      "name": "旅游巴士模拟",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T03:37:42.475161"
+    },
+    "953690": {
+      "appid": 953690,
+      "name": "Doom & Destiny Worlds",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T03:37:42.760080"
+    },
+    "953700": {
+      "appid": 953700,
+      "name": "I'm an adventurer",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T03:37:42.891613"
+    },
+    "953740": {
+      "appid": 953740,
+      "name": "尸如潮水",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T03:37:43.020659"
+    },
+    "953790": {
+      "appid": 953790,
+      "name": "无敌荒野/Unbeatable wilderness",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T03:37:43.400486"
+    },
+    "953870": {
+      "appid": 953870,
+      "name": "Space Robinson: Hardcore Roguelike Action",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T03:37:43.920104"
+    },
+    "953880": {
+      "appid": 953880,
+      "name": "First Class Trouble",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T03:37:44.089273"
+    },
+    "954080": {
+      "appid": 954080,
+      "name": "Memorrha",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T03:37:45.201299"
+    },
+    "954350": {
+      "appid": 954350,
+      "name": "NOLO HOME",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T03:37:46.620447"
     }
   }
 }
