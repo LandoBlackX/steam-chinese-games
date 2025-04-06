@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-06T20:22:56.301515"
+    "updated": "2025-04-06T20:38:41.436331"
   },
   "games": {
     "570": {
@@ -76006,6 +76006,78 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-06T20:22:51.418010"
+    },
+    "1368130": {
+      "appid": 1368130,
+      "name": "狂想乐园",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T20:38:10.562806"
+    },
+    "1369340": {
+      "appid": 1369340,
+      "name": "Cats Organized Neatly",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T20:38:17.397246"
+    },
+    "1369520": {
+      "appid": 1369520,
+      "name": "Strangeland",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T20:38:19.241790"
+    },
+    "1369690": {
+      "appid": 1369690,
+      "name": "King's Orders",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T20:38:20.291891"
+    },
+    "1370050": {
+      "appid": 1370050,
+      "name": "黄泉之路",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T20:38:23.008606"
+    },
+    "1370170": {
+      "appid": 1370170,
+      "name": "Diorama Builder",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T20:38:23.708427"
+    },
+    "1371720": {
+      "appid": 1371720,
+      "name": "Card Shark",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T20:38:36.084706"
+    },
+    "1372110": {
+      "appid": 1372110,
+      "name": "JOJO的奇妙冒险 群星之战 重制版",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T20:38:39.011811"
+    },
+    "1372300": {
+      "appid": 1372300,
+      "name": "祝姫",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T20:38:40.167632"
     }
   }
 }
