@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-06T12:34:27.115342"
+    "updated": "2025-04-06T12:46:24.636170"
   },
   "games": {
     "570": {
@@ -72598,6 +72598,62 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-04-06T12:34:25.528802"
+    },
+    "1186270": {
+      "appid": 1186270,
+      "name": "Nosferatu Lilinor",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T12:45:53.065204"
+    },
+    "1186460": {
+      "appid": 1186460,
+      "name": "侠道游歌",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T12:45:54.579622"
+    },
+    "1186640": {
+      "appid": 1186640,
+      "name": "南瓜杰克",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T12:45:56.401991"
+    },
+    "1188930": {
+      "appid": 1188930,
+      "name": "超时空方舟",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T12:46:13.553847"
+    },
+    "1189070": {
+      "appid": 1189070,
+      "name": "史莱姆六重奏",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T12:46:15.178558"
+    },
+    "1190000": {
+      "appid": 1190000,
+      "name": "Car Mechanic Simulator 2021",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T12:46:21.550814"
+    },
+    "1190110": {
+      "appid": 1190110,
+      "name": "H-SNIPER: Middle East",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T12:46:21.885332"
     }
   }
 }
