@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-06T05:23:02.846486"
+    "updated": "2025-04-06T05:28:01.986572"
   },
   "games": {
     "570": {
@@ -68590,6 +68590,94 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-06T05:23:00.951509"
+    },
+    "985760": {
+      "appid": 985760,
+      "name": "3D Custom Lady Maker",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T05:27:28.579978"
+    },
+    "986280": {
+      "appid": 986280,
+      "name": "Lingua Fleur: Lily",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T05:27:31.998289"
+    },
+    "986350": {
+      "appid": 986350,
+      "name": "Nemezis: Mysterious Journey III",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T05:27:32.496552"
+    },
+    "986800": {
+      "appid": 986800,
+      "name": "AVICII Invector",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T05:27:35.185445"
+    },
+    "987720": {
+      "appid": 987720,
+      "name": "ONINAKI",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T05:27:41.695629"
+    },
+    "987840": {
+      "appid": 987840,
+      "name": "Expeditions: Rome",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T05:27:42.906427"
+    },
+    "989550": {
+      "appid": 989550,
+      "name": "Million Arthur: Arcana Blood",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T05:27:53.109386"
+    },
+    "989580": {
+      "appid": 989580,
+      "name": "Kamimachi Site - Dating story",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T05:27:53.331351"
+    },
+    "989690": {
+      "appid": 989690,
+      "name": "Conan Unconquered",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T05:27:53.876455"
+    },
+    "990050": {
+      "appid": 990050,
+      "name": "Death end re;Quest",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T05:27:55.843562"
+    },
+    "990630": {
+      "appid": 990630,
+      "name": "The Last Campfire",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T05:27:59.195598"
     }
   }
 }

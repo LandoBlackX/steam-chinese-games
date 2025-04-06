@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-06T05:23:02.846486"
+    "updated": "2025-04-06T05:28:01.986572"
   },
   "games": {
     "570": {
@@ -88544,6 +88544,518 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-04-06T05:23:02.255686"
+    },
+    "985650": {
+      "appid": 985650,
+      "name": "Olaguna Chronicles 命运启示录-阿尔巴雷克战纪-",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:27:26.611413"
+    },
+    "985680": {
+      "appid": 985680,
+      "name": "过关攒将",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:27:27.762623"
+    },
+    "985740": {
+      "appid": 985740,
+      "name": "同居指南 | Cohabitation Guide",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:27:28.410634"
+    },
+    "985770": {
+      "appid": 985770,
+      "name": "Artillery Globe",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:27:28.740431"
+    },
+    "985780": {
+      "appid": 985780,
+      "name": "斧女侠小婕",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:27:28.899840"
+    },
+    "985800": {
+      "appid": 985800,
+      "name": "BATTLLOON - バトルーン",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:27:29.052862"
+    },
+    "985810": {
+      "appid": 985810,
+      "name": "GrandChase",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:27:29.214514"
+    },
+    "985830": {
+      "appid": 985830,
+      "name": "SUCCUBUS",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:27:29.401086"
+    },
+    "985890": {
+      "appid": 985890,
+      "name": "怒之铁拳4",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:27:29.919700"
+    },
+    "985900": {
+      "appid": 985900,
+      "name": "双子星：盛气凌人",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:27:30.111792"
+    },
+    "985940": {
+      "appid": 985940,
+      "name": "Beat Me!",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:27:30.433719"
+    },
+    "986020": {
+      "appid": 986020,
+      "name": "女忍者牡丹",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:27:30.934534"
+    },
+    "986040": {
+      "appid": 986040,
+      "name": "亡灵法师",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:27:31.109485"
+    },
+    "986130": {
+      "appid": 986130,
+      "name": "Shadows of Doubt - 凶影疑云",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:27:31.669652"
+    },
+    "986220": {
+      "appid": 986220,
+      "name": "失落之岛",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:27:31.831600"
+    },
+    "986280": {
+      "appid": 986280,
+      "name": "Lingua Fleur: Lily",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T05:27:31.998289"
+    },
+    "986310": {
+      "appid": 986310,
+      "name": "再编译",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:27:32.161666"
+    },
+    "986350": {
+      "appid": 986350,
+      "name": "Nemezis: Mysterious Journey III",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T05:27:32.496552"
+    },
+    "986520": {
+      "appid": 986520,
+      "name": "Ultra Strangeness",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:27:33.323082"
+    },
+    "986680": {
+      "appid": 986680,
+      "name": "PAGUI打鬼",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:27:33.972299"
+    },
+    "986760": {
+      "appid": 986760,
+      "name": "Paradise Checkers VR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:27:34.485586"
+    },
+    "986770": {
+      "appid": 986770,
+      "name": "16 Planes:Return",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:27:34.650405"
+    },
+    "986800": {
+      "appid": 986800,
+      "name": "AVICII Invector",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T05:27:35.185445"
+    },
+    "986820": {
+      "appid": 986820,
+      "name": "Lost Lands: Mistakes of the Past Collector's Edition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:27:35.575378"
+    },
+    "986830": {
+      "appid": 986830,
+      "name": "The Legacy: The Tree of Might Collector's Edition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:27:35.756462"
+    },
+    "986930": {
+      "appid": 986930,
+      "name": "Perchang",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:27:36.248789"
+    },
+    "986990": {
+      "appid": 986990,
+      "name": "aMAZE Christmas",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:27:36.557020"
+    },
+    "987350": {
+      "appid": 987350,
+      "name": "PlanetSide Arena",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:27:39.413642"
+    },
+    "987480": {
+      "appid": 987480,
+      "name": "花落冬陽 Snowdreams -lost in winter-",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:27:40.092719"
+    },
+    "987570": {
+      "appid": 987570,
+      "name": "Chain Reaction : Sexy Hentai Girls",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:27:40.459349"
+    },
+    "987580": {
+      "appid": 987580,
+      "name": "Reach 50 : Sexy Hentai Girls",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:27:40.626895"
+    },
+    "987590": {
+      "appid": 987590,
+      "name": "Dots Pop : Sexy Hentai Girls",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:27:40.812299"
+    },
+    "987670": {
+      "appid": 987670,
+      "name": "Chocolat Rush",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:27:41.365882"
+    },
+    "987710": {
+      "appid": 987710,
+      "name": "BLASK",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:27:41.533398"
+    },
+    "987810": {
+      "appid": 987810,
+      "name": "Ayre",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:27:42.587636"
+    },
+    "987840": {
+      "appid": 987840,
+      "name": "Expeditions: Rome",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T05:27:42.906427"
+    },
+    "987880": {
+      "appid": 987880,
+      "name": "Moo Moo Move",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:27:43.243222"
+    },
+    "987980": {
+      "appid": 987980,
+      "name": "王者战车",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:27:43.914745"
+    },
+    "988070": {
+      "appid": 988070,
+      "name": "All Of ZHEM",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:27:44.249433"
+    },
+    "988100": {
+      "appid": 988100,
+      "name": "Super Phantom Cat",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:27:44.758391"
+    },
+    "988240": {
+      "appid": 988240,
+      "name": "Urban Trial Playground",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:27:45.095216"
+    },
+    "988930": {
+      "appid": 988930,
+      "name": "Alveole",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:27:47.911243"
+    },
+    "988960": {
+      "appid": 988960,
+      "name": "Silenced",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:27:48.292341"
+    },
+    "989030": {
+      "appid": 989030,
+      "name": "幻灵真探",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:27:48.790757"
+    },
+    "989160": {
+      "appid": 989160,
+      "name": "Throne Quest Deluxe",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:27:50.431428"
+    },
+    "989240": {
+      "appid": 989240,
+      "name": "Parallel World",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:27:50.951122"
+    },
+    "989430": {
+      "appid": 989430,
+      "name": "随风而逝 Story About Times",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:27:52.447931"
+    },
+    "989440": {
+      "appid": 989440,
+      "name": "幻影深渊",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:27:52.619625"
+    },
+    "989450": {
+      "appid": 989450,
+      "name": "时之回廊/Corridor of time",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:27:52.788550"
+    },
+    "989580": {
+      "appid": 989580,
+      "name": "Kamimachi Site - Dating story",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T05:27:53.331351"
+    },
+    "989690": {
+      "appid": 989690,
+      "name": "Conan Unconquered",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T05:27:53.876455"
+    },
+    "989710": {
+      "appid": 989710,
+      "name": "夕鬼 零 Yuoni: Rises",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:27:54.053140"
+    },
+    "989770": {
+      "appid": 989770,
+      "name": "Biker Garage: Mechanic Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:27:54.646697"
+    },
+    "990030": {
+      "appid": 990030,
+      "name": "Deep Diving Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:27:55.640086"
+    },
+    "990050": {
+      "appid": 990050,
+      "name": "Death end re;Quest",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T05:27:55.843562"
+    },
+    "990080": {
+      "appid": 990080,
+      "name": "霍格沃茨之遗",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:27:56.171905"
+    },
+    "990360": {
+      "appid": 990360,
+      "name": "SKYHILL: Black Mist",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:27:58.142462"
+    },
+    "990380": {
+      "appid": 990380,
+      "name": "METAL EDEN",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:27:58.308990"
+    },
+    "990410": {
+      "appid": 990410,
+      "name": "Slashvival: Action RPG Roguelite",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:27:58.854845"
+    },
+    "990630": {
+      "appid": 990630,
+      "name": "The Last Campfire",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T05:27:59.195598"
+    },
+    "990770": {
+      "appid": 990770,
+      "name": "Divided Kingdoms",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:28:00.130218"
+    },
+    "990900": {
+      "appid": 990900,
+      "name": "Neon Noodles",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:28:00.870787"
+    },
+    "990920": {
+      "appid": 990920,
+      "name": "沉浮",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:28:01.044357"
+    },
+    "990940": {
+      "appid": 990940,
+      "name": "Full Of Love",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:28:01.265019"
     }
   }
 }
