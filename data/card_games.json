@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-06T04:48:20.303844"
+    "updated": "2025-04-06T05:01:23.010064"
   },
   "games": {
     "570": {
@@ -68230,6 +68230,110 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-04-06T04:48:20.302417"
+    },
+    "970570": {
+      "appid": 970570,
+      "name": "CHAOS;CHILD",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T05:00:52.634813"
+    },
+    "970830": {
+      "appid": 970830,
+      "name": "纳赫鲁博王国地下城：混沌护符",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T05:00:55.357713"
+    },
+    "970960": {
+      "appid": 970960,
+      "name": "Rebel Cops",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T05:00:56.812325"
+    },
+    "971030": {
+      "appid": 971030,
+      "name": "SkateBIRD",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T05:00:57.348833"
+    },
+    "971620": {
+      "appid": 971620,
+      "name": "Puyo Puyo Champions",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T05:01:01.779723"
+    },
+    "972160": {
+      "appid": 972160,
+      "name": "The Witch's Love Diary",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T05:01:04.187292"
+    },
+    "972660": {
+      "appid": 972660,
+      "name": "《Spiritfarer®》Farewell版",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T05:01:06.814161"
+    },
+    "973060": {
+      "appid": 973060,
+      "name": "恶魔迷宫 2 |Evil Maze 2 | 惡魔迷宮 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T05:01:09.072811"
+    },
+    "973220": {
+      "appid": 973220,
+      "name": "SiNKR 2 / 冰钩 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T05:01:10.100096"
+    },
+    "973760": {
+      "appid": 973760,
+      "name": "Thronebreaker: The Witcher Tales",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T05:01:13.218150"
+    },
+    "975120": {
+      "appid": 975120,
+      "name": "~necromancy~Emily's Escape",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T05:01:19.809507"
+    },
+    "975470": {
+      "appid": 975470,
+      "name": "Silver Chains",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T05:01:22.022929"
+    },
+    "975510": {
+      "appid": 975510,
+      "name": "Panzer Paladin",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T05:01:22.327811"
     }
   }
 }
