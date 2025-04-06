@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-06T08:25:08.430567"
+    "updated": "2025-04-06T08:26:35.880779"
   },
   "games": {
     "570": {
@@ -98984,6 +98984,574 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-06T08:25:08.005963"
+    },
+    "1092980": {
+      "appid": 1092980,
+      "name": "Mountain Taxi Driver",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T08:26:04.532346"
+    },
+    "1093290": {
+      "appid": 1093290,
+      "name": "The Wild at Heart",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T08:26:06.022252"
+    },
+    "1093320": {
+      "appid": 1093320,
+      "name": "Devil's Deck",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T08:26:06.484646"
+    },
+    "1093360": {
+      "appid": 1093360,
+      "name": "Ghost Parade",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T08:26:06.904999"
+    },
+    "1093500": {
+      "appid": 1093500,
+      "name": "Vegetarian Alliance | 素食联盟 |Вегетарианский Альянс",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T08:26:07.379550"
+    },
+    "1093520": {
+      "appid": 1093520,
+      "name": "Un Pas Fragile",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T08:26:07.504194"
+    },
+    "1093760": {
+      "appid": 1093760,
+      "name": "Shogun's Empire: Hex Commander",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T08:26:08.328010"
+    },
+    "1093870": {
+      "appid": 1093870,
+      "name": "Block",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T08:26:09.651349"
+    },
+    "1093880": {
+      "appid": 1093880,
+      "name": "酷鱼动态壁纸",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T08:26:09.783177"
+    },
+    "1093900": {
+      "appid": 1093900,
+      "name": "神谋",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T08:26:10.037452"
+    },
+    "1093910": {
+      "appid": 1093910,
+      "name": "Tales of the Black Forest",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T08:26:10.159786"
+    },
+    "1094000": {
+      "appid": 1094000,
+      "name": "Survive on Raft",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T08:26:10.554554"
+    },
+    "1094010": {
+      "appid": 1094010,
+      "name": "火柴人联盟2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T08:26:10.675365"
+    },
+    "1094020": {
+      "appid": 1094020,
+      "name": "天下往事 Journey of the world",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T08:26:10.798456"
+    },
+    "1094060": {
+      "appid": 1094060,
+      "name": "Escape First 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T08:26:11.463989"
+    },
+    "1094110": {
+      "appid": 1094110,
+      "name": "WEJAM",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T08:26:12.007756"
+    },
+    "1094290": {
+      "appid": 1094290,
+      "name": "幻想异乡曲 Butterfly~Rin",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T08:26:12.798785"
+    },
+    "1094320": {
+      "appid": 1094320,
+      "name": "莫比乌斯之环-不属于任何人的交响悲歌-MOBIUS & ELEGY BELONGS TO NOBODY",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T08:26:12.932359"
+    },
+    "1094420": {
+      "appid": 1094420,
+      "name": "梅雨之日",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T08:26:13.672839"
+    },
+    "1094520": {
+      "appid": 1094520,
+      "name": "部落与弯刀",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T08:26:14.367086"
+    },
+    "1094530": {
+      "appid": 1094530,
+      "name": "爱丽娅的明日盛典！",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T08:26:14.494946"
+    },
+    "1094540": {
+      "appid": 1094540,
+      "name": "夏娃战记",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T08:26:14.635155"
+    },
+    "1094660": {
+      "appid": 1094660,
+      "name": "EBOLA",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T08:26:15.669844"
+    },
+    "1094680": {
+      "appid": 1094680,
+      "name": "Hidden Through Time 2: Discovery",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T08:26:15.797697"
+    },
+    "1094720": {
+      "appid": 1094720,
+      "name": "Clive 'N' Wrench",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T08:26:16.057554"
+    },
+    "1094730": {
+      "appid": 1094730,
+      "name": "Black Legend",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T08:26:16.210779"
+    },
+    "1094820": {
+      "appid": 1094820,
+      "name": "徒花異譚 / Adabana Odd Tales",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T08:26:16.606089"
+    },
+    "1094870": {
+      "appid": 1094870,
+      "name": "Acron: Attack of the Squirrels!",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T08:26:16.757937"
+    },
+    "1094920": {
+      "appid": 1094920,
+      "name": "彼岸晴空",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T08:26:17.006203"
+    },
+    "1094930": {
+      "appid": 1094930,
+      "name": "Ninja Girl and the Mysterious Army of Urban Legend Monsters! ~Hunt of the Headless Horseman~",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T08:26:17.136183"
+    },
+    "1095070": {
+      "appid": 1095070,
+      "name": "Sideral",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T08:26:17.669359"
+    },
+    "1095120": {
+      "appid": 1095120,
+      "name": "Helheim Hassle",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T08:26:18.084859"
+    },
+    "1095260": {
+      "appid": 1095260,
+      "name": "密闭之城 1.0",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T08:26:18.487139"
+    },
+    "1095290": {
+      "appid": 1095290,
+      "name": "丧灵激汤",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T08:26:18.755997"
+    },
+    "1095540": {
+      "appid": 1095540,
+      "name": "原体",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T08:26:20.547544"
+    },
+    "1095610": {
+      "appid": 1095610,
+      "name": "Just N",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T08:26:21.085000"
+    },
+    "1095760": {
+      "appid": 1095760,
+      "name": "大巫 Great Witcher",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T08:26:21.886189"
+    },
+    "1095790": {
+      "appid": 1095790,
+      "name": "恋爱总动员/Love Date",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T08:26:22.013037"
+    },
+    "1095810": {
+      "appid": 1095810,
+      "name": "WhiteBird 白鸟",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T08:26:22.133700"
+    },
+    "1096010": {
+      "appid": 1096010,
+      "name": "Hentai Sudoku",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T08:26:23.342533"
+    },
+    "1096060": {
+      "appid": 1096060,
+      "name": "Teenage Blob",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T08:26:23.473049"
+    },
+    "1096120": {
+      "appid": 1096120,
+      "name": "Fallen valiant-Loopy",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T08:26:23.864171"
+    },
+    "1096180": {
+      "appid": 1096180,
+      "name": "Ato",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T08:26:24.251213"
+    },
+    "1096290": {
+      "appid": 1096290,
+      "name": "Real Man Got 100 |  是男人上100层",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T08:26:24.919811"
+    },
+    "1096300": {
+      "appid": 1096300,
+      "name": "九霄缳神记 JIU XIAO",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T08:26:25.049035"
+    },
+    "1096330": {
+      "appid": 1096330,
+      "name": "兽耳攻略 - TFK Faculty",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T08:26:25.297263"
+    },
+    "1096340": {
+      "appid": 1096340,
+      "name": "NOXIAM -miserable sinners-",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T08:26:25.428095"
+    },
+    "1096410": {
+      "appid": 1096410,
+      "name": "Vampire: The Masquerade - Coteries of New York",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T08:26:25.730032"
+    },
+    "1096530": {
+      "appid": 1096530,
+      "name": "Solasta: Crown of the Magister",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T08:26:26.407761"
+    },
+    "1096540": {
+      "appid": 1096540,
+      "name": "XMagicTyping",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T08:26:26.530838"
+    },
+    "1096550": {
+      "appid": 1096550,
+      "name": "桌面萌娘2:魔法引擎",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T08:26:26.653036"
+    },
+    "1096560": {
+      "appid": 1096560,
+      "name": "Windy Kingdom",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T08:26:26.783410"
+    },
+    "1096570": {
+      "appid": 1096570,
+      "name": "SONG OF HORROR COMPLETE EDITION",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T08:26:26.912530"
+    },
+    "1096720": {
+      "appid": 1096720,
+      "name": "CATGIRL LOVER",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T08:26:28.148294"
+    },
+    "1096730": {
+      "appid": 1096730,
+      "name": "巨乳丰臀BBA骑士团",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T08:26:28.274150"
+    },
+    "1096760": {
+      "appid": 1096760,
+      "name": "Dadlympics",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T08:26:28.519349"
+    },
+    "1096900": {
+      "appid": 1096900,
+      "name": "RPG Maker MZ",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T08:26:31.218355"
+    },
+    "1096990": {
+      "appid": 1096990,
+      "name": "Nothing Good Can Come Of This",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T08:26:32.160798"
+    },
+    "1097000": {
+      "appid": 1097000,
+      "name": "Orpheus's Dream",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T08:26:32.284519"
+    },
+    "1097050": {
+      "appid": 1097050,
+      "name": "绝地反击-The Fight Of Escaper",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T08:26:32.421753"
+    },
+    "1097100": {
+      "appid": 1097100,
+      "name": "Please, Touch The Artwork",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T08:26:32.683513"
+    },
+    "1097110": {
+      "appid": 1097110,
+      "name": "Willy Morgan and the Curse of Bone Town",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T08:26:32.816167"
+    },
+    "1097130": {
+      "appid": 1097130,
+      "name": "Circuit Superstars",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T08:26:33.074317"
+    },
+    "1097150": {
+      "appid": 1097150,
+      "name": "糖豆人",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T08:26:33.201925"
+    },
+    "1097200": {
+      "appid": 1097200,
+      "name": "Twelve Minutes",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T08:26:33.749647"
+    },
+    "1097340": {
+      "appid": 1097340,
+      "name": "Night & Day",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T08:26:34.802997"
+    },
+    "1097350": {
+      "appid": 1097350,
+      "name": "诡野西部: 决定版",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T08:26:35.001511"
+    },
+    "1097370": {
+      "appid": 1097370,
+      "name": "圣骑士莉雅丝",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T08:26:35.131312"
+    },
+    "1097420": {
+      "appid": 1097420,
+      "name": "No-brainer Heroes 挂机吧！勇者",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T08:26:35.389512"
+    },
+    "1097430": {
+      "appid": 1097430,
+      "name": "依盖之书",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T08:26:35.511951"
+    },
+    "1097480": {
+      "appid": 1097480,
+      "name": "Iragon 18+",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T08:26:35.879228"
     }
   }
 }
