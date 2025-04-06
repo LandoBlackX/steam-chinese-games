@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-06T14:51:44.893244"
+    "updated": "2025-04-06T15:13:52.017327"
   },
   "games": {
     "570": {
@@ -73854,6 +73854,94 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-04-06T14:51:42.967274"
+    },
+    "1243890": {
+      "appid": 1243890,
+      "name": "Sword of the Necromancer",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T15:13:19.546890"
+    },
+    "1244260": {
+      "appid": 1244260,
+      "name": "The Fairy's Song",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T15:13:21.468352"
+    },
+    "1244630": {
+      "appid": 1244630,
+      "name": "House Builder",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T15:13:23.785592"
+    },
+    "1244800": {
+      "appid": 1244800,
+      "name": "焕然异星 Terraformers",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T15:13:24.340494"
+    },
+    "1244950": {
+      "appid": 1244950,
+      "name": "Battletoads",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T15:13:25.275817"
+    },
+    "1245430": {
+      "appid": 1245430,
+      "name": "金色的光芒",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T15:13:27.869164"
+    },
+    "1245540": {
+      "appid": 1245540,
+      "name": "东方夜光幻梦 ~ Touhou Endless Dream",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T15:13:28.665067"
+    },
+    "1247100": {
+      "appid": 1247100,
+      "name": "SpellMaster: The Saga",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T15:13:37.102795"
+    },
+    "1247190": {
+      "appid": 1247190,
+      "name": "Family Mysteries 2: Echoes of Tomorrow",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T15:13:37.713286"
+    },
+    "1248130": {
+      "appid": 1248130,
+      "name": "Farming Simulator 22",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T15:13:43.457894"
+    },
+    "1249260": {
+      "appid": 1249260,
+      "name": "Birth ME Code",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T15:13:51.359925"
     }
   }
 }

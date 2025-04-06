@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-06T14:51:44.893244"
+    "updated": "2025-04-06T15:13:52.017327"
   },
   "games": {
     "570": {
@@ -115136,6 +115136,486 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-04-06T14:51:44.736352"
+    },
+    "1243830": {
+      "appid": 1243830,
+      "name": "胡闹厨房 全都好吃",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:13:18.944540"
+    },
+    "1243880": {
+      "appid": 1243880,
+      "name": "Evil Inside",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:13:19.261157"
+    },
+    "1243960": {
+      "appid": 1243960,
+      "name": "Unspottable",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:13:20.053396"
+    },
+    "1244090": {
+      "appid": 1244090,
+      "name": "Sea of Stars 星之海",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:13:20.668421"
+    },
+    "1244210": {
+      "appid": 1244210,
+      "name": "Fragile Box",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:13:21.323666"
+    },
+    "1244260": {
+      "appid": 1244260,
+      "name": "The Fairy's Song",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T15:13:21.468352"
+    },
+    "1244370": {
+      "appid": 1244370,
+      "name": "Electronic Squash",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:13:21.780433"
+    },
+    "1244380": {
+      "appid": 1244380,
+      "name": "Pirates? Pirates!",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:13:21.935501"
+    },
+    "1244460": {
+      "appid": 1244460,
+      "name": "侏罗纪世界：进化 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:13:22.689000"
+    },
+    "1244630": {
+      "appid": 1244630,
+      "name": "House Builder",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T15:13:23.785592"
+    },
+    "1244760": {
+      "appid": 1244760,
+      "name": "美少女格斗学院",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:13:23.959797"
+    },
+    "1244800": {
+      "appid": 1244800,
+      "name": "焕然异星 Terraformers",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T15:13:24.340494"
+    },
+    "1244910": {
+      "appid": 1244910,
+      "name": "My Supermarket",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:13:24.943059"
+    },
+    "1244950": {
+      "appid": 1244950,
+      "name": "Battletoads",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T15:13:25.275817"
+    },
+    "1245250": {
+      "appid": 1245250,
+      "name": "盛世繁荣：皇冠之重",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:13:26.728230"
+    },
+    "1245430": {
+      "appid": 1245430,
+      "name": "金色的光芒",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T15:13:27.869164"
+    },
+    "1245480": {
+      "appid": 1245480,
+      "name": "奇异贤伴 爱达之歌",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:13:28.373046"
+    },
+    "1245540": {
+      "appid": 1245540,
+      "name": "东方夜光幻梦 ~ Touhou Endless Dream",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T15:13:28.665067"
+    },
+    "1245560": {
+      "appid": 1245560,
+      "name": "Roots of Pacha",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:13:28.980914"
+    },
+    "1245640": {
+      "appid": 1245640,
+      "name": "The Book of Distance",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:13:29.672714"
+    },
+    "1245910": {
+      "appid": 1245910,
+      "name": "Hentai Most Wanted",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:13:31.236271"
+    },
+    "1246020": {
+      "appid": 1246020,
+      "name": "NOeSIS01_诉说谎言记忆物语",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:13:31.948708"
+    },
+    "1246060": {
+      "appid": 1246060,
+      "name": "三国梦之队",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:13:32.389450"
+    },
+    "1246230": {
+      "appid": 1246230,
+      "name": "Boom Blaster",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:13:33.574096"
+    },
+    "1246460": {
+      "appid": 1246460,
+      "name": "去死吧蝙蝠",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:13:34.380008"
+    },
+    "1246780": {
+      "appid": 1246780,
+      "name": "Hentai: Memory leak II",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:13:35.677139"
+    },
+    "1246870": {
+      "appid": 1246870,
+      "name": "Harvest Moon: One World",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:13:35.843880"
+    },
+    "1247100": {
+      "appid": 1247100,
+      "name": "SpellMaster: The Saga",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T15:13:37.102795"
+    },
+    "1247190": {
+      "appid": 1247190,
+      "name": "Family Mysteries 2: Echoes of Tomorrow",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T15:13:37.713286"
+    },
+    "1247360": {
+      "appid": 1247360,
+      "name": "Grand Mountain Adventure: Wonderlands",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:13:39.115238"
+    },
+    "1247570": {
+      "appid": 1247570,
+      "name": "Expedition Zero",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:13:40.059850"
+    },
+    "1247640": {
+      "appid": 1247640,
+      "name": "Dwarf Shop",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:13:40.356379"
+    },
+    "1247740": {
+      "appid": 1247740,
+      "name": "Your Story",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:13:40.961801"
+    },
+    "1247860": {
+      "appid": 1247860,
+      "name": "藏梦 Hidden Dream",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:13:41.309409"
+    },
+    "1247880": {
+      "appid": 1247880,
+      "name": "听见我的心 Listen to My Heart",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:13:41.632088"
+    },
+    "1247920": {
+      "appid": 1247920,
+      "name": "被遺棄的雙子 Gemini of the abandoned",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:13:41.942763"
+    },
+    "1247930": {
+      "appid": 1247930,
+      "name": "Lesbian Voyeur Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:13:42.101654"
+    },
+    "1248060": {
+      "appid": 1248060,
+      "name": "Realpolitiks II",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:13:42.804360"
+    },
+    "1248080": {
+      "appid": 1248080,
+      "name": "CYGNI: All Guns Blazing",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:13:42.961079"
+    },
+    "1248120": {
+      "appid": 1248120,
+      "name": "高等动物 - 1v4",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:13:43.275192"
+    },
+    "1248130": {
+      "appid": 1248130,
+      "name": "Farming Simulator 22",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T15:13:43.457894"
+    },
+    "1248220": {
+      "appid": 1248220,
+      "name": "无上道",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:13:43.911772"
+    },
+    "1248240": {
+      "appid": 1248240,
+      "name": "PLUGMAX",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:13:44.220575"
+    },
+    "1248350": {
+      "appid": 1248350,
+      "name": "Nyanco Channel",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:13:44.535333"
+    },
+    "1248450": {
+      "appid": 1248450,
+      "name": "Totemlands",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:13:45.415735"
+    },
+    "1248510": {
+      "appid": 1248510,
+      "name": "Performer",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:13:45.922401"
+    },
+    "1248550": {
+      "appid": 1248550,
+      "name": "Breaking Gates",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:13:46.384013"
+    },
+    "1248710": {
+      "appid": 1248710,
+      "name": "ENEFN",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:13:47.203060"
+    },
+    "1248730": {
+      "appid": 1248730,
+      "name": "RATTUS",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:13:47.386307"
+    },
+    "1248800": {
+      "appid": 1248800,
+      "name": "地表法则：先遣者",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:13:48.024915"
+    },
+    "1248810": {
+      "appid": 1248810,
+      "name": "离校日 The School Leaving Day",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:13:48.187309"
+    },
+    "1248820": {
+      "appid": 1248820,
+      "name": "逝去的回忆3外传",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:13:48.331212"
+    },
+    "1249010": {
+      "appid": 1249010,
+      "name": "迷失岛3 宇宙的尘埃",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:13:49.506140"
+    },
+    "1249040": {
+      "appid": 1249040,
+      "name": "American Arcadia",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:13:49.714036"
+    },
+    "1249060": {
+      "appid": 1249060,
+      "name": "我的公司996",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:13:49.902006"
+    },
+    "1249070": {
+      "appid": 1249070,
+      "name": "AeternoBlade II: Infinity",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:13:50.101003"
+    },
+    "1249080": {
+      "appid": 1249080,
+      "name": "琳 ， 画在方块上的少女故事",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:13:50.256786"
+    },
+    "1249110": {
+      "appid": 1249110,
+      "name": "Skully",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:13:50.577240"
+    },
+    "1249130": {
+      "appid": 1249130,
+      "name": "王国英雄：失落传说1",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:13:50.748776"
+    },
+    "1249170": {
+      "appid": 1249170,
+      "name": "Mine Dungeon",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:13:51.036054"
     }
   }
 }
