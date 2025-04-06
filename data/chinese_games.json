@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-06T21:43:05.131254"
+    "updated": "2025-04-06T21:56:07.425938"
   },
   "games": {
     "570": {
@@ -129720,6 +129720,446 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-04-06T21:43:05.013401"
+    },
+    "1390020": {
+      "appid": 1390020,
+      "name": "活体三国",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:55:38.364166"
+    },
+    "1390190": {
+      "appid": 1390190,
+      "name": "APICO",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T21:55:39.969817"
+    },
+    "1390350": {
+      "appid": 1390350,
+      "name": "Webbed",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:55:40.531310"
+    },
+    "1390410": {
+      "appid": 1390410,
+      "name": "Midnight Fight Express",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:55:41.076038"
+    },
+    "1390560": {
+      "appid": 1390560,
+      "name": "Jumping Platform Minigame",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:55:41.765775"
+    },
+    "1390600": {
+      "appid": 1390600,
+      "name": "社长,战斗时问到! 魔兽战争",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T21:55:42.087310"
+    },
+    "1390650": {
+      "appid": 1390650,
+      "name": "Alien Abduction Experience",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:55:42.328245"
+    },
+    "1390670": {
+      "appid": 1390670,
+      "name": "Escape from Naraka",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:55:42.498703"
+    },
+    "1390690": {
+      "appid": 1390690,
+      "name": "机械异界",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:55:42.628512"
+    },
+    "1390700": {
+      "appid": 1390700,
+      "name": "疯狂宠物秀",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:55:42.769827"
+    },
+    "1390740": {
+      "appid": 1390740,
+      "name": "Yogurt!",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:55:42.913859"
+    },
+    "1390760": {
+      "appid": 1390760,
+      "name": "Nanzou: The Divine Court",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:55:43.033635"
+    },
+    "1390830": {
+      "appid": 1390830,
+      "name": "Flower Challenge",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:55:43.307595"
+    },
+    "1391050": {
+      "appid": 1391050,
+      "name": "Kraken Smash: Volleyball",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:55:44.736134"
+    },
+    "1391130": {
+      "appid": 1391130,
+      "name": "Asteroad",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:55:45.161235"
+    },
+    "1391200": {
+      "appid": 1391200,
+      "name": "Pixel With Your Friends",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:55:45.306260"
+    },
+    "1391280": {
+      "appid": 1391280,
+      "name": "3D Hentai Chess",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:55:45.573258"
+    },
+    "1391350": {
+      "appid": 1391350,
+      "name": "愉快的暑假",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:55:45.857484"
+    },
+    "1391450": {
+      "appid": 1391450,
+      "name": "案件００：食人小男孩",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:55:46.523797"
+    },
+    "1391610": {
+      "appid": 1391610,
+      "name": "Drifters Don't Brake",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:55:47.636532"
+    },
+    "1391630": {
+      "appid": 1391630,
+      "name": "Breeders",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:55:47.920620"
+    },
+    "1391960": {
+      "appid": 1391960,
+      "name": "Star Island",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:55:49.521438"
+    },
+    "1391990": {
+      "appid": 1391990,
+      "name": "Berries Challenge",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:55:49.648837"
+    },
+    "1392060": {
+      "appid": 1392060,
+      "name": "Erzurum",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T21:55:50.126541"
+    },
+    "1392130": {
+      "appid": 1392130,
+      "name": "Game Of Puzzles: Slavic Mythology",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:55:50.507258"
+    },
+    "1392340": {
+      "appid": 1392340,
+      "name": "Shop Tycoon: Prepare your wallet",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T21:55:51.613621"
+    },
+    "1392390": {
+      "appid": 1392390,
+      "name": "罗刹天圣扎兰达拉~湿婆之仪式",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:55:51.762516"
+    },
+    "1392410": {
+      "appid": 1392410,
+      "name": "Seeking Revenge",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:55:51.895643"
+    },
+    "1392430": {
+      "appid": 1392430,
+      "name": "わんこの恩返し",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:55:52.033981"
+    },
+    "1392460": {
+      "appid": 1392460,
+      "name": "誅神計畫",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:55:52.329996"
+    },
+    "1392520": {
+      "appid": 1392520,
+      "name": "Life of trophy",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:55:52.920857"
+    },
+    "1392540": {
+      "appid": 1392540,
+      "name": "缄默星空 Silent Space",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:55:53.133635"
+    },
+    "1392590": {
+      "appid": 1392590,
+      "name": "VIETNAM WAR PLATOON 越战排 (AI WAR Game)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:55:53.572179"
+    },
+    "1392690": {
+      "appid": 1392690,
+      "name": "Gravitational",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:55:54.289597"
+    },
+    "1392780": {
+      "appid": 1392780,
+      "name": "The Companion",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:55:54.979731"
+    },
+    "1392820": {
+      "appid": 1392820,
+      "name": "Milk inside a bag of milk inside a bag of milk",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:55:55.254313"
+    },
+    "1392860": {
+      "appid": 1392860,
+      "name": "小小梦魇3",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:55:55.432754"
+    },
+    "1392960": {
+      "appid": 1392960,
+      "name": "牧场物语 橄榄镇与希望的大地",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T21:55:55.709477"
+    },
+    "1393320": {
+      "appid": 1393320,
+      "name": "蛛丝诡迹",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:55:57.128529"
+    },
+    "1393350": {
+      "appid": 1393350,
+      "name": "摇曳女孩",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T21:55:57.431564"
+    },
+    "1393410": {
+      "appid": 1393410,
+      "name": "Seek Girl V",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:55:58.091638"
+    },
+    "1393420": {
+      "appid": 1393420,
+      "name": "常世之塔",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:55:58.247811"
+    },
+    "1393480": {
+      "appid": 1393480,
+      "name": "Union",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:55:58.785076"
+    },
+    "1393630": {
+      "appid": 1393630,
+      "name": "XGAMEX",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:56:00.194596"
+    },
+    "1393750": {
+      "appid": 1393750,
+      "name": "海洋之心",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:56:01.210984"
+    },
+    "1393780": {
+      "appid": 1393780,
+      "name": "OVR Locomotion Effect : Anti-VR Sickness",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:56:01.492091"
+    },
+    "1394130": {
+      "appid": 1394130,
+      "name": "Breach Wanderers",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:56:03.937085"
+    },
+    "1394250": {
+      "appid": 1394250,
+      "name": "Ryewood Town",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:56:04.615361"
+    },
+    "1394330": {
+      "appid": 1394330,
+      "name": "乱世奇谋Stratagem in troubled times",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:56:05.077781"
+    },
+    "1394370": {
+      "appid": 1394370,
+      "name": "Super Symbol Boys",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:56:05.430020"
+    },
+    "1394440": {
+      "appid": 1394440,
+      "name": "GAME OVER",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:56:05.942434"
+    },
+    "1394470": {
+      "appid": 1394470,
+      "name": "Umami Grove",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:56:06.201703"
+    },
+    "1394480": {
+      "appid": 1394480,
+      "name": "Rocco's Island: Ring to End the Pain",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:56:06.375083"
+    },
+    "1394500": {
+      "appid": 1394500,
+      "name": "Frontline: World War II",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:56:06.610005"
+    },
+    "1394580": {
+      "appid": 1394580,
+      "name": "鹿易想要活到世界尽头",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T21:56:07.424580"
     }
   }
 }

@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-06T21:43:05.131254"
+    "updated": "2025-04-06T21:56:07.425938"
   },
   "games": {
     "570": {
@@ -76262,6 +76262,86 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-06T21:42:58.351987"
+    },
+    "1390190": {
+      "appid": 1390190,
+      "name": "APICO",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T21:55:39.969817"
+    },
+    "1390600": {
+      "appid": 1390600,
+      "name": "社长,战斗时问到! 魔兽战争",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T21:55:42.087310"
+    },
+    "1392060": {
+      "appid": 1392060,
+      "name": "Erzurum",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T21:55:50.126541"
+    },
+    "1392340": {
+      "appid": 1392340,
+      "name": "Shop Tycoon: Prepare your wallet",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T21:55:51.613621"
+    },
+    "1392960": {
+      "appid": 1392960,
+      "name": "牧场物语 橄榄镇与希望的大地",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T21:55:55.709477"
+    },
+    "1393350": {
+      "appid": 1393350,
+      "name": "摇曳女孩",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T21:55:57.431564"
+    },
+    "1393370": {
+      "appid": 1393370,
+      "name": "Actraiser Renaissance",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T21:55:57.736498"
+    },
+    "1393500": {
+      "appid": 1393500,
+      "name": "Time Break Chronicles",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T21:55:59.089786"
+    },
+    "1393820": {
+      "appid": 1393820,
+      "name": "Prodigal",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T21:56:01.966109"
+    },
+    "1394100": {
+      "appid": 1394100,
+      "name": "S.H.E.L.T.E.R. - An Apocalyptic Tale",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T21:56:03.766772"
     }
   }
 }
