@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-06T07:39:29.908004"
+    "updated": "2025-04-06T07:41:48.254275"
   },
   "games": {
     "570": {
@@ -69910,6 +69910,94 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-04-06T07:39:26.903416"
+    },
+    "1055310": {
+      "appid": 1055310,
+      "name": "The Myth Seekers 2: The Sunken City",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T07:41:19.546180"
+    },
+    "1055990": {
+      "appid": 1055990,
+      "name": "Erannorth Reborn",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T07:41:24.254651"
+    },
+    "1056510": {
+      "appid": 1056510,
+      "name": "Root Letter Last Answer",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T07:41:27.963665"
+    },
+    "1056610": {
+      "appid": 1056610,
+      "name": "Heal",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T07:41:28.668209"
+    },
+    "1057800": {
+      "appid": 1057800,
+      "name": "软盘骑士",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T07:41:34.866355"
+    },
+    "1058130": {
+      "appid": 1058130,
+      "name": "Queen's Wish: The Conqueror",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T07:41:36.108154"
+    },
+    "1058350": {
+      "appid": 1058350,
+      "name": "Nyasha Land of Elves",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T07:41:37.652276"
+    },
+    "1058530": {
+      "appid": 1058530,
+      "name": "H-Rescue",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T07:41:39.107811"
+    },
+    "1059150": {
+      "appid": 1059150,
+      "name": "Ritual: Crown of Horns",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T07:41:43.907581"
+    },
+    "1059230": {
+      "appid": 1059230,
+      "name": "When I Was Young",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T07:41:44.404259"
+    },
+    "1059980": {
+      "appid": 1059980,
+      "name": "吾王保卫战 Just King",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T07:41:48.252812"
     }
   }
 }

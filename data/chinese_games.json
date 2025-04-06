@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-06T07:39:29.908004"
+    "updated": "2025-04-06T07:41:48.254275"
   },
   "games": {
     "570": {
@@ -95296,6 +95296,510 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-04-06T07:39:29.904060"
+    },
+    "1055210": {
+      "appid": 1055210,
+      "name": "逆行竞技场",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:41:18.952639"
+    },
+    "1055310": {
+      "appid": 1055310,
+      "name": "The Myth Seekers 2: The Sunken City",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T07:41:19.546180"
+    },
+    "1055420": {
+      "appid": 1055420,
+      "name": "The Highscore",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:41:20.268635"
+    },
+    "1055590": {
+      "appid": 1055590,
+      "name": "Shuttlecock-H",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:41:21.173918"
+    },
+    "1055660": {
+      "appid": 1055660,
+      "name": "十日",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:41:21.658123"
+    },
+    "1055760": {
+      "appid": 1055760,
+      "name": "Prince Maker美少年梦工厂3：重生",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:41:22.127493"
+    },
+    "1055890": {
+      "appid": 1055890,
+      "name": "Game Of Puzzles: Nature",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:41:23.292248"
+    },
+    "1056040": {
+      "appid": 1056040,
+      "name": "Maidesktop",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:41:24.590984"
+    },
+    "1056060": {
+      "appid": 1056060,
+      "name": "Eon",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:41:25.053572"
+    },
+    "1056070": {
+      "appid": 1056070,
+      "name": "Instinct Rush 本能冲撞",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:41:25.173479"
+    },
+    "1056490": {
+      "appid": 1056490,
+      "name": "The World is Your Weapon",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:41:27.779389"
+    },
+    "1056510": {
+      "appid": 1056510,
+      "name": "Root Letter Last Answer",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T07:41:27.963665"
+    },
+    "1056590": {
+      "appid": 1056590,
+      "name": "梦乡 The Dreamcatcher",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:41:28.521859"
+    },
+    "1056610": {
+      "appid": 1056610,
+      "name": "Heal",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T07:41:28.668209"
+    },
+    "1056690": {
+      "appid": 1056690,
+      "name": "Drink More Glurp",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:41:29.423839"
+    },
+    "1056750": {
+      "appid": 1056750,
+      "name": "雪拉和三神器",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:41:29.933849"
+    },
+    "1056840": {
+      "appid": 1056840,
+      "name": "Arcanium: Rise of Akhan",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:41:30.068751"
+    },
+    "1056960": {
+      "appid": 1056960,
+      "name": "Wolfenstein: Youngblood",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:41:30.296534"
+    },
+    "1056970": {
+      "appid": 1056970,
+      "name": "Wolfenstein: Cyberpilot",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:41:30.422891"
+    },
+    "1057090": {
+      "appid": 1057090,
+      "name": "Ori and the Will of the Wisps",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:41:30.697340"
+    },
+    "1057180": {
+      "appid": 1057180,
+      "name": "Border Officer",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:41:31.204131"
+    },
+    "1057220": {
+      "appid": 1057220,
+      "name": "MIDI RANGER",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:41:31.444710"
+    },
+    "1057500": {
+      "appid": 1057500,
+      "name": "Sim 4K VR MediaPlayer",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:41:32.276594"
+    },
+    "1057570": {
+      "appid": 1057570,
+      "name": "Handyman",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:41:32.629459"
+    },
+    "1057580": {
+      "appid": 1057580,
+      "name": "Shopkeeper Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:41:32.736711"
+    },
+    "1057590": {
+      "appid": 1057590,
+      "name": "Debt Collector Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:41:32.871537"
+    },
+    "1057600": {
+      "appid": 1057600,
+      "name": "私酿大师",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:41:32.997599"
+    },
+    "1057610": {
+      "appid": 1057610,
+      "name": "Bus Controller Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:41:33.110495"
+    },
+    "1057630": {
+      "appid": 1057630,
+      "name": "Restaurant Renovator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:41:33.228510"
+    },
+    "1057680": {
+      "appid": 1057680,
+      "name": "人间 The Lost We Lost",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:41:33.486526"
+    },
+    "1057710": {
+      "appid": 1057710,
+      "name": "Funny Bunny: Adventures",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:41:33.754708"
+    },
+    "1057750": {
+      "appid": 1057750,
+      "name": "The Suicide of Rachel Foster",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:41:34.246467"
+    },
+    "1057780": {
+      "appid": 1057780,
+      "name": "Jump Off The Bridge",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:41:34.582574"
+    },
+    "1057800": {
+      "appid": 1057800,
+      "name": "软盘骑士",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T07:41:34.866355"
+    },
+    "1058000": {
+      "appid": 1058000,
+      "name": "Rain's love memory-雨的恋记",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:41:35.432634"
+    },
+    "1058060": {
+      "appid": 1058060,
+      "name": "公主大人才不会认输呢！",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:41:35.820639"
+    },
+    "1058140": {
+      "appid": 1058140,
+      "name": "Yumeutsutsu Re:Master",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:41:36.235277"
+    },
+    "1058270": {
+      "appid": 1058270,
+      "name": "客栈传说",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:41:36.842771"
+    },
+    "1058280": {
+      "appid": 1058280,
+      "name": "Speed Limit",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:41:37.003404"
+    },
+    "1058290": {
+      "appid": 1058290,
+      "name": "Mortido",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:41:37.110062"
+    },
+    "1058320": {
+      "appid": 1058320,
+      "name": "Toki",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:41:37.244052"
+    },
+    "1058400": {
+      "appid": 1058400,
+      "name": "四之石",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:41:38.022569"
+    },
+    "1058450": {
+      "appid": 1058450,
+      "name": "MY HERO ONE'S JUSTICE 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:41:38.468620"
+    },
+    "1058600": {
+      "appid": 1058600,
+      "name": "VeLM",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:41:39.774991"
+    },
+    "1058650": {
+      "appid": 1058650,
+      "name": "Beyond The Wire",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:41:40.161124"
+    },
+    "1058710": {
+      "appid": 1058710,
+      "name": "中世纪君主",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:41:40.684140"
+    },
+    "1058720": {
+      "appid": 1058720,
+      "name": "纸上谈兵",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:41:40.797568"
+    },
+    "1058750": {
+      "appid": 1058750,
+      "name": "无奇刀 Wookie's Blade",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:41:41.183078"
+    },
+    "1058770": {
+      "appid": 1058770,
+      "name": "我来自江湖 From Jianghu",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:41:41.765051"
+    },
+    "1058830": {
+      "appid": 1058830,
+      "name": "Spin Rhythm XD",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:41:42.094838"
+    },
+    "1059090": {
+      "appid": 1059090,
+      "name": "The Underground Watcher/地下监察员",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:41:43.512245"
+    },
+    "1059110": {
+      "appid": 1059110,
+      "name": "超级巴基球",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:41:43.649546"
+    },
+    "1059220": {
+      "appid": 1059220,
+      "name": "'83",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:41:44.264998"
+    },
+    "1059260": {
+      "appid": 1059260,
+      "name": "Data mining 0",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:41:44.655097"
+    },
+    "1059500": {
+      "appid": 1059500,
+      "name": "PUZZLE: OCEAN",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:41:46.162040"
+    },
+    "1059690": {
+      "appid": 1059690,
+      "name": "Make Route: Escape the police",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:41:46.796882"
+    },
+    "1059740": {
+      "appid": 1059740,
+      "name": "神枪手大战僵尸",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:41:47.100325"
+    },
+    "1059850": {
+      "appid": 1059850,
+      "name": "空梦",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:41:47.607983"
+    },
+    "1059860": {
+      "appid": 1059860,
+      "name": "打击者打字游戏集（Striker A Type Game Pack）",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:41:47.729955"
+    },
+    "1059880": {
+      "appid": 1059880,
+      "name": "Devious Dungeon",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:41:47.875271"
+    },
+    "1059890": {
+      "appid": 1059890,
+      "name": "Devious Dungeon 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:41:48.006528"
+    },
+    "1059900": {
+      "appid": 1059900,
+      "name": "Tribe: Primitive Builder",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:41:48.123662"
+    },
+    "1059980": {
+      "appid": 1059980,
+      "name": "吾王保卫战 Just King",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T07:41:48.252812"
     }
   }
 }
