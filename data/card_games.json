@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-06T11:11:19.311486"
+    "updated": "2025-04-06T11:12:26.632951"
   },
   "games": {
     "570": {
@@ -71902,6 +71902,78 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-06T11:11:13.989182"
+    },
+    "1153210": {
+      "appid": 1153210,
+      "name": "Bartender Hustle",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T11:12:05.023225"
+    },
+    "1153430": {
+      "appid": 1153430,
+      "name": "Love wish",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T11:12:06.099172"
+    },
+    "1154040": {
+      "appid": 1154040,
+      "name": "SpellForce 3 Fallen God",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T11:12:09.557751"
+    },
+    "1154110": {
+      "appid": 1154110,
+      "name": "Steamy Sextet",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T11:12:09.909446"
+    },
+    "1154810": {
+      "appid": 1154810,
+      "name": "Going Under",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T11:12:13.542929"
+    },
+    "1155650": {
+      "appid": 1155650,
+      "name": "Shady Knight",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T11:12:17.541897"
+    },
+    "1155880": {
+      "appid": 1155880,
+      "name": "The Bonfire 2: Uncharted Shores",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T11:12:19.072172"
+    },
+    "1156590": {
+      "appid": 1156590,
+      "name": "Morels: The Hunt",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T11:12:23.093460"
+    },
+    "1156990": {
+      "appid": 1156990,
+      "name": "重返蓝鲸岛 -Return to Shironagasu Island-",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T11:12:25.222998"
     }
   }
 }
