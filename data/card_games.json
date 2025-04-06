@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-06T15:19:33.726351"
+    "updated": "2025-04-06T15:31:17.164411"
   },
   "games": {
     "570": {
@@ -74038,6 +74038,62 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-06T15:19:33.059327"
+    },
+    "1254670": {
+      "appid": 1254670,
+      "name": "Night Reverie 午夜幻想曲",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T15:30:47.710668"
+    },
+    "1257200": {
+      "appid": 1257200,
+      "name": "False Myth",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T15:31:02.001624"
+    },
+    "1257360": {
+      "appid": 1257360,
+      "name": "Bloodstained: Curse of the Moon 2",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T15:31:03.354208"
+    },
+    "1257410": {
+      "appid": 1257410,
+      "name": "盒子里的猫咪（Cat in the Box）",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T15:31:03.716725"
+    },
+    "1257860": {
+      "appid": 1257860,
+      "name": "Clea 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T15:31:06.670544"
+    },
+    "1258080": {
+      "appid": 1258080,
+      "name": "传奇商店",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T15:31:09.194351"
+    },
+    "1258480": {
+      "appid": 1258480,
+      "name": "隐藏的图画 - 阿拉丁 - 寻物解谜 中文版",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T15:31:11.634809"
     }
   }
 }
