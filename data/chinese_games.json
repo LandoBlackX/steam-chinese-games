@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-06T11:53:43.576837"
+    "updated": "2025-04-06T11:59:21.851495"
   },
   "games": {
     "570": {
@@ -107560,6 +107560,526 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-06T11:53:41.889301"
+    },
+    "1171660": {
+      "appid": 1171660,
+      "name": "The Ambassador: Fractured Timelines",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T11:58:49.490814"
+    },
+    "1171690": {
+      "appid": 1171690,
+      "name": "Wayfinder",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T11:58:49.674972"
+    },
+    "1171700": {
+      "appid": 1171700,
+      "name": "Karma - A Visual Novel About A Dystopia.",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T11:58:49.841229"
+    },
+    "1171810": {
+      "appid": 1171810,
+      "name": "Immortal Girl",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T11:58:50.756167"
+    },
+    "1171870": {
+      "appid": 1171870,
+      "name": "魂之大陆 Soultia",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T11:58:51.365017"
+    },
+    "1171880": {
+      "appid": 1171880,
+      "name": "ALPHA",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T11:58:51.520239"
+    },
+    "1171980": {
+      "appid": 1171980,
+      "name": "Neverlooted Dungeon",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T11:58:52.012599"
+    },
+    "1172050": {
+      "appid": 1172050,
+      "name": "COCKHEAD",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T11:58:52.631065"
+    },
+    "1172060": {
+      "appid": 1172060,
+      "name": "Rest In Pieces",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T11:58:52.785970"
+    },
+    "1172190": {
+      "appid": 1172190,
+      "name": "Chinatown Detective Agency",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T11:58:54.026001"
+    },
+    "1172310": {
+      "appid": 1172310,
+      "name": "Mona Lisa: Beyond The Glass",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T11:58:54.626436"
+    },
+    "1172370": {
+      "appid": 1172370,
+      "name": "DJ Beats - Waifus",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T11:58:55.127291"
+    },
+    "1172380": {
+      "appid": 1172380,
+      "name": "《星球大战 绝地：陨落的武士团™》",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T11:58:55.301543"
+    },
+    "1172390": {
+      "appid": 1172390,
+      "name": "Anime Tanks Arena",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T11:58:55.445588"
+    },
+    "1172450": {
+      "appid": 1172450,
+      "name": "Carto",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T11:58:56.091184"
+    },
+    "1172620": {
+      "appid": 1172620,
+      "name": "Sea of Thieves: 2025 Edition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T11:58:57.278368"
+    },
+    "1172650": {
+      "appid": 1172650,
+      "name": "INDUSTRIA",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T11:58:57.613566"
+    },
+    "1172660": {
+      "appid": 1172660,
+      "name": "GraFi Halloween",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T11:58:57.781451"
+    },
+    "1172680": {
+      "appid": 1172680,
+      "name": "细胞之心：重生",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T11:58:57.928806"
+    },
+    "1172710": {
+      "appid": 1172710,
+      "name": "Dune: Awakening",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T11:58:58.073956"
+    },
+    "1172780": {
+      "appid": 1172780,
+      "name": "Fences 5",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T11:58:58.873045"
+    },
+    "1172820": {
+      "appid": 1172820,
+      "name": "第二次机会",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T11:58:59.605300"
+    },
+    "1172900": {
+      "appid": 1172900,
+      "name": "FULFILLMENT",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T11:59:00.051387"
+    },
+    "1172940": {
+      "appid": 1172940,
+      "name": "Cockwork Industries Complete",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T11:59:00.504373"
+    },
+    "1172980": {
+      "appid": 1172980,
+      "name": "绮罗四时谭",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T11:59:00.650244"
+    },
+    "1173010": {
+      "appid": 1173010,
+      "name": "夏末盛开的花",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T11:59:00.806066"
+    },
+    "1173150": {
+      "appid": 1173150,
+      "name": "Goosebumps Dead of Night",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T11:59:01.955524"
+    },
+    "1173170": {
+      "appid": 1173170,
+      "name": "Magicians Legacy",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T11:59:02.102318"
+    },
+    "1173200": {
+      "appid": 1173200,
+      "name": "Metal Unit",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T11:59:02.261559"
+    },
+    "1173250": {
+      "appid": 1173250,
+      "name": "DE:VOID",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T11:59:02.864445"
+    },
+    "1173340": {
+      "appid": 1173340,
+      "name": "War Trains",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T11:59:03.765326"
+    },
+    "1173350": {
+      "appid": 1173350,
+      "name": "HENTAI CLIMBER",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T11:59:03.936000"
+    },
+    "1173400": {
+      "appid": 1173400,
+      "name": "Futa Fix Dick Dine and Dash",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T11:59:04.397434"
+    },
+    "1173410": {
+      "appid": 1173410,
+      "name": "My Breast Friend Sally",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T11:59:04.563314"
+    },
+    "1173510": {
+      "appid": 1173510,
+      "name": "XSOverlay",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T11:59:05.064796"
+    },
+    "1173740": {
+      "appid": 1173740,
+      "name": "Woodle Tree 2: Deluxe+",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T11:59:06.209973"
+    },
+    "1173770": {
+      "appid": 1173770,
+      "name": "FINAL FANTASY",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T11:59:06.378309"
+    },
+    "1173780": {
+      "appid": 1173780,
+      "name": "FINAL FANTASY II",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T11:59:06.559547"
+    },
+    "1173790": {
+      "appid": 1173790,
+      "name": "FINAL FANTASY III",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T11:59:06.722050"
+    },
+    "1173800": {
+      "appid": 1173800,
+      "name": "FINAL FANTASY IV",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T11:59:06.887505"
+    },
+    "1173810": {
+      "appid": 1173810,
+      "name": "FINAL FANTASY V",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T11:59:07.046551"
+    },
+    "1173820": {
+      "appid": 1173820,
+      "name": "FINAL FANTASY VI",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T11:59:07.194329"
+    },
+    "1173830": {
+      "appid": 1173830,
+      "name": "Coloring Game: Pixel",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T11:59:07.351203"
+    },
+    "1173940": {
+      "appid": 1173940,
+      "name": "弹幕音乐绘 ~ 基础教学篇 ~",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T11:59:07.967792"
+    },
+    "1173980": {
+      "appid": 1173980,
+      "name": "暗影之路",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T11:59:08.271373"
+    },
+    "1174100": {
+      "appid": 1174100,
+      "name": "Hentai Girl Beat",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T11:59:09.107551"
+    },
+    "1174170": {
+      "appid": 1174170,
+      "name": "Earthshine",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T11:59:09.445733"
+    },
+    "1174180": {
+      "appid": 1174180,
+      "name": "Red Dead Redemption 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T11:59:09.589802"
+    },
+    "1174390": {
+      "appid": 1174390,
+      "name": "ANNIE:Last Hope / 安妮：最后的希望",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T11:59:10.867248"
+    },
+    "1174440": {
+      "appid": 1174440,
+      "name": "一个区域",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T11:59:11.487373"
+    },
+    "1174500": {
+      "appid": 1174500,
+      "name": "Yuletide Legends: Who Framed Santa Claus",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T11:59:12.127088"
+    },
+    "1174690": {
+      "appid": 1174690,
+      "name": "love wish 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T11:59:13.482613"
+    },
+    "1174810": {
+      "appid": 1174810,
+      "name": "Curse of the dungeon",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T11:59:14.116209"
+    },
+    "1175080": {
+      "appid": 1175080,
+      "name": "Easy Bug Manager",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T11:59:16.742239"
+    },
+    "1175100": {
+      "appid": 1175100,
+      "name": "单词训练营 | Word Training Camp",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T11:59:16.896499"
+    },
+    "1175120": {
+      "appid": 1175120,
+      "name": "群星战纪：遗失的星辰",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T11:59:17.049302"
+    },
+    "1175180": {
+      "appid": 1175180,
+      "name": "妈妈，别走",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T11:59:17.816050"
+    },
+    "1175200": {
+      "appid": 1175200,
+      "name": "Forbidden Ingress",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T11:59:18.131689"
+    },
+    "1175240": {
+      "appid": 1175240,
+      "name": "出门",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T11:59:18.433286"
+    },
+    "1175250": {
+      "appid": 1175250,
+      "name": "Finders Reapers",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T11:59:18.643271"
+    },
+    "1175320": {
+      "appid": 1175320,
+      "name": "黑暗之岛",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T11:59:18.789007"
+    },
+    "1175390": {
+      "appid": 1175390,
+      "name": "极限动态壁纸",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T11:59:19.585858"
+    },
+    "1175460": {
+      "appid": 1175460,
+      "name": "轮回塔 (Revita)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T11:59:20.444928"
+    },
+    "1175470": {
+      "appid": 1175470,
+      "name": "Shine's Adventures 6 (Go! Girls)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T11:59:20.594809"
+    },
+    "1175540": {
+      "appid": 1175540,
+      "name": "Cyberless: Online",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T11:59:21.393684"
     }
   }
 }
