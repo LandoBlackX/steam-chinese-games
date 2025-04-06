@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-06T11:27:09.046208"
+    "updated": "2025-04-06T11:40:30.749389"
   },
   "games": {
     "570": {
@@ -106600,6 +106600,526 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-06T11:27:09.044772"
+    },
+    "1162080": {
+      "appid": 1162080,
+      "name": "东周拟战",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T11:40:02.263434"
+    },
+    "1162130": {
+      "appid": 1162130,
+      "name": "Windbound",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T11:40:02.768064"
+    },
+    "1162280": {
+      "appid": 1162280,
+      "name": "Eternal Hope",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T11:40:03.446776"
+    },
+    "1162290": {
+      "appid": 1162290,
+      "name": "Easy hentai puzzle 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T11:40:03.578574"
+    },
+    "1162320": {
+      "appid": 1162320,
+      "name": "AVA: Dark History",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T11:40:03.993541"
+    },
+    "1162390": {
+      "appid": 1162390,
+      "name": "Floody",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T11:40:04.729733"
+    },
+    "1162480": {
+      "appid": 1162480,
+      "name": "DIMENSION REIGN - ROGUELIKE DECKBUILDER",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T11:40:05.393833"
+    },
+    "1162520": {
+      "appid": 1162520,
+      "name": "大富翁10 (RichMan 10)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T11:40:05.508236"
+    },
+    "1162580": {
+      "appid": 1162580,
+      "name": "Three Little Bears",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T11:40:06.014257"
+    },
+    "1162650": {
+      "appid": 1162650,
+      "name": "剑为君舞",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T11:40:06.648780"
+    },
+    "1162680": {
+      "appid": 1162680,
+      "name": "[Chilla's Art] Stigmatized Property | 事故物件",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T11:40:06.899292"
+    },
+    "1162700": {
+      "appid": 1162700,
+      "name": "Midnight Protocol",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T11:40:07.158660"
+    },
+    "1162760": {
+      "appid": 1162760,
+      "name": "MMY: Otherworld Mystery",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T11:40:07.549397"
+    },
+    "1162900": {
+      "appid": 1162900,
+      "name": "Iron Blood VR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T11:40:08.052316"
+    },
+    "1163040": {
+      "appid": 1163040,
+      "name": "亿万富翁之路",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T11:40:08.946107"
+    },
+    "1163070": {
+      "appid": 1163070,
+      "name": "爆灾雷钢雷王号",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T11:40:09.207307"
+    },
+    "1163100": {
+      "appid": 1163100,
+      "name": "我是院长 - 模拟经营医院游戏",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T11:40:09.879227"
+    },
+    "1163130": {
+      "appid": 1163130,
+      "name": "Oasis VR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T11:40:09.975745"
+    },
+    "1163170": {
+      "appid": 1163170,
+      "name": "音乐桌面",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T11:40:10.337260"
+    },
+    "1163340": {
+      "appid": 1163340,
+      "name": "航母对决：太平洋海战 (Carrier Battles 4 Guadalcanal)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T11:40:10.872581"
+    },
+    "1163500": {
+      "appid": 1163500,
+      "name": "Warp Drive",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T11:40:11.541825"
+    },
+    "1163550": {
+      "appid": 1163550,
+      "name": "队长小翼 新秀崛起",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T11:40:11.707667"
+    },
+    "1163560": {
+      "appid": 1163560,
+      "name": "SuperEpic: The Entertainment War",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T11:40:11.842572"
+    },
+    "1163590": {
+      "appid": 1163590,
+      "name": "Bullet Girls Phantasia",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T11:40:12.158564"
+    },
+    "1163600": {
+      "appid": 1163600,
+      "name": "迷宫 Life",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T11:40:12.363382"
+    },
+    "1163740": {
+      "appid": 1163740,
+      "name": "Card Hog",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T11:40:13.050875"
+    },
+    "1163930": {
+      "appid": 1163930,
+      "name": "Dragon Forge",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T11:40:13.950461"
+    },
+    "1164000": {
+      "appid": 1164000,
+      "name": "六阶谜题 six-step mystery",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T11:40:14.349970"
+    },
+    "1164010": {
+      "appid": 1164010,
+      "name": "鼠标光标",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T11:40:14.446957"
+    },
+    "1164050": {
+      "appid": 1164050,
+      "name": "往事 - When the Past Was Around",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T11:40:14.868968"
+    },
+    "1164060": {
+      "appid": 1164060,
+      "name": "The Last Show of Mr. Chardish",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T11:40:15.000198"
+    },
+    "1164100": {
+      "appid": 1164100,
+      "name": "A Random Maze 某个迷宫",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T11:40:15.106158"
+    },
+    "1164250": {
+      "appid": 1164250,
+      "name": "胶佬模拟器",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T11:40:15.267089"
+    },
+    "1164350": {
+      "appid": 1164350,
+      "name": "Anime Otaku Girl 二次元宅女",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T11:40:16.145518"
+    },
+    "1164440": {
+      "appid": 1164440,
+      "name": "Extreme Offroad Monster Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T11:40:16.488895"
+    },
+    "1164460": {
+      "appid": 1164460,
+      "name": "二进制恋人",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T11:40:16.663037"
+    },
+    "1164930": {
+      "appid": 1164930,
+      "name": "Lustful Survival",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T11:40:18.794372"
+    },
+    "1164940": {
+      "appid": 1164940,
+      "name": "海参2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T11:40:18.953527"
+    },
+    "1164990": {
+      "appid": 1164990,
+      "name": "Skin Witch",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T11:40:19.250751"
+    },
+    "1165000": {
+      "appid": 1165000,
+      "name": "Chameleon Gallery",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T11:40:19.369144"
+    },
+    "1165140": {
+      "appid": 1165140,
+      "name": "Picross Love",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T11:40:20.062616"
+    },
+    "1165390": {
+      "appid": 1165390,
+      "name": "伏龙 天元竞擂",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T11:40:20.939408"
+    },
+    "1165400": {
+      "appid": 1165400,
+      "name": "Stellar Commanders",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T11:40:21.157938"
+    },
+    "1165450": {
+      "appid": 1165450,
+      "name": "OCO",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T11:40:21.533628"
+    },
+    "1165460": {
+      "appid": 1165460,
+      "name": "Unlit",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T11:40:21.658309"
+    },
+    "1165470": {
+      "appid": 1165470,
+      "name": "TombStar",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T11:40:21.764331"
+    },
+    "1165520": {
+      "appid": 1165520,
+      "name": "黎明生机:启示录-Survival:Revelation",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T11:40:22.120204"
+    },
+    "1165530": {
+      "appid": 1165530,
+      "name": "Offroad Truck Simulator: Heavy Duty Challenge®",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T11:40:22.248537"
+    },
+    "1165620": {
+      "appid": 1165620,
+      "name": "Meliora’s Detective Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T11:40:23.230509"
+    },
+    "1165740": {
+      "appid": 1165740,
+      "name": "Match Solitaire",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T11:40:23.744581"
+    },
+    "1165820": {
+      "appid": 1165820,
+      "name": "Super Rebellion",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T11:40:24.242712"
+    },
+    "1165840": {
+      "appid": 1165840,
+      "name": "The Strange Story Of Brian Fisher: Chapter 1",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T11:40:24.524768"
+    },
+    "1165860": {
+      "appid": 1165860,
+      "name": "6.0",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T11:40:24.759742"
+    },
+    "1166070": {
+      "appid": 1166070,
+      "name": "凯旋行动",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T11:40:25.792468"
+    },
+    "1166100": {
+      "appid": 1166100,
+      "name": "Danger Course VR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T11:40:26.087578"
+    },
+    "1166140": {
+      "appid": 1166140,
+      "name": "禁忌艺术",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T11:40:26.668735"
+    },
+    "1166230": {
+      "appid": 1166230,
+      "name": "1812: Napoleon Wars",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T11:40:26.836104"
+    },
+    "1166290": {
+      "appid": 1166290,
+      "name": "死亡与税赋",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T11:40:27.235810"
+    },
+    "1166310": {
+      "appid": 1166310,
+      "name": "从前有个三国",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T11:40:27.330521"
+    },
+    "1166320": {
+      "appid": 1166320,
+      "name": "Hentai Shiri",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T11:40:27.469499"
+    },
+    "1166480": {
+      "appid": 1166480,
+      "name": "Towers of Minimalism",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T11:40:28.118381"
+    },
+    "1166490": {
+      "appid": 1166490,
+      "name": "动态桌面",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T11:40:28.253118"
+    },
+    "1166580": {
+      "appid": 1166580,
+      "name": "Best Plumber",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T11:40:28.881426"
+    },
+    "1166660": {
+      "appid": 1166660,
+      "name": "Restaurant Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T11:40:29.143843"
+    },
+    "1166740": {
+      "appid": 1166740,
+      "name": "Centralia: Homecoming",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T11:40:29.893279"
     }
   }
 }

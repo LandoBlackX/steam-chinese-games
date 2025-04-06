@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-06T11:27:09.046208"
+    "updated": "2025-04-06T11:40:30.749389"
   },
   "games": {
     "570": {
@@ -72166,6 +72166,62 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-06T11:27:09.044772"
+    },
+    "1162680": {
+      "appid": 1162680,
+      "name": "[Chilla's Art] Stigmatized Property | 事故物件",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T11:40:06.899292"
+    },
+    "1162700": {
+      "appid": 1162700,
+      "name": "Midnight Protocol",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T11:40:07.158660"
+    },
+    "1163590": {
+      "appid": 1163590,
+      "name": "Bullet Girls Phantasia",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T11:40:12.158564"
+    },
+    "1163600": {
+      "appid": 1163600,
+      "name": "迷宫 Life",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T11:40:12.363382"
+    },
+    "1163740": {
+      "appid": 1163740,
+      "name": "Card Hog",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T11:40:13.050875"
+    },
+    "1166290": {
+      "appid": 1166290,
+      "name": "死亡与税赋",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T11:40:27.235810"
+    },
+    "1166580": {
+      "appid": 1166580,
+      "name": "Best Plumber",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T11:40:28.881426"
     }
   }
 }
