@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-06T16:59:35.058781"
+    "updated": "2025-04-06T17:23:41.870524"
   },
   "games": {
     "570": {
@@ -74910,6 +74910,94 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-06T16:59:34.245022"
+    },
+    "1296260": {
+      "appid": 1296260,
+      "name": "Sakura Knight 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T17:23:16.672016"
+    },
+    "1296610": {
+      "appid": 1296610,
+      "name": "哥布林弹球 Peglin",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T17:23:19.805815"
+    },
+    "1296770": {
+      "appid": 1296770,
+      "name": "Her New Memory - Hentai Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T17:23:20.596162"
+    },
+    "1297330": {
+      "appid": 1297330,
+      "name": "奥利亚",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T17:23:23.943799"
+    },
+    "1297900": {
+      "appid": 1297900,
+      "name": "Gothic 1 Remake",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T17:23:26.874484"
+    },
+    "1298080": {
+      "appid": 1298080,
+      "name": "Almost My Floor",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T17:23:27.949619"
+    },
+    "1298480": {
+      "appid": 1298480,
+      "name": "Kardboard Kings: Card Shop Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T17:23:30.837596"
+    },
+    "1299120": {
+      "appid": 1299120,
+      "name": "拼图猫娘2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T17:23:34.711119"
+    },
+    "1299480": {
+      "appid": 1299480,
+      "name": "The Fabled Woods",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T17:23:37.059925"
+    },
+    "1299620": {
+      "appid": 1299620,
+      "name": "Fabled Lands",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T17:23:37.820072"
+    },
+    "1299690": {
+      "appid": 1299690,
+      "name": "哥里：可爱大灭绝 (Gori: Cuddly Carnage)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T17:23:38.364103"
     }
   }
 }
