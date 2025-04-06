@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-06T08:21:51.008433"
+    "updated": "2025-04-06T08:25:08.430567"
   },
   "games": {
     "570": {
@@ -70542,6 +70542,102 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-04-06T08:21:49.598819"
+    },
+    "1088750": {
+      "appid": 1088750,
+      "name": "Soda Story - Brewing Tycoon",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T08:24:44.468912"
+    },
+    "1088790": {
+      "appid": 1088790,
+      "name": "Rebel Inc: Escalation",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T08:24:44.720700"
+    },
+    "1089630": {
+      "appid": 1089630,
+      "name": "奇迹一刻 Surmount",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T08:24:49.059182"
+    },
+    "1089660": {
+      "appid": 1089660,
+      "name": "Queen's Quest 5: Symphony of Death",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T08:24:49.292507"
+    },
+    "1090630": {
+      "appid": 1090630,
+      "name": "Granblue Fantasy: Versus",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T08:24:55.090684"
+    },
+    "1091920": {
+      "appid": 1091920,
+      "name": "Plantera 2: Golden Acorn",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T08:25:02.786393"
+    },
+    "1091950": {
+      "appid": 1091950,
+      "name": "Naughty Girl",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T08:25:03.080452"
+    },
+    "1091980": {
+      "appid": 1091980,
+      "name": "The Bard's Tale IV: Director's Cut",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T08:25:03.475213"
+    },
+    "1092000": {
+      "appid": 1092000,
+      "name": "Naked Story",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T08:25:03.585941"
+    },
+    "1092140": {
+      "appid": 1092140,
+      "name": "Exit From",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T08:25:04.325598"
+    },
+    "1092660": {
+      "appid": 1092660,
+      "name": "Blair Witch",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T08:25:06.840179"
+    },
+    "1092790": {
+      "appid": 1092790,
+      "name": "邪恶冥刻",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T08:25:08.005963"
     }
   }
 }
