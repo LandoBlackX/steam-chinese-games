@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-06T07:12:41.284203"
+    "updated": "2025-04-06T07:15:13.186712"
   },
   "games": {
     "570": {
@@ -93824,6 +93824,606 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-04-06T07:12:40.753741"
+    },
+    "1041140": {
+      "appid": 1041140,
+      "name": "Chill II",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:14:43.495352"
+    },
+    "1041320": {
+      "appid": 1041320,
+      "name": "王国纪元",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:14:44.100037"
+    },
+    "1041400": {
+      "appid": 1041400,
+      "name": "格斗天使",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:14:44.749838"
+    },
+    "1041450": {
+      "appid": 1041450,
+      "name": "RRRR2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:14:44.925257"
+    },
+    "1041470": {
+      "appid": 1041470,
+      "name": "三魂VR/The Spirits Within",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:14:45.230605"
+    },
+    "1041670": {
+      "appid": 1041670,
+      "name": "Money Bath VR / 札束風呂VR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:14:46.399827"
+    },
+    "1041710": {
+      "appid": 1041710,
+      "name": "模拟帝国",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:14:46.660440"
+    },
+    "1041720": {
+      "appid": 1041720,
+      "name": "Kingdoms of Amalur: Re-Reckoning",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T07:14:46.801384"
+    },
+    "1041760": {
+      "appid": 1041760,
+      "name": "Brother & Sister",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:14:46.935650"
+    },
+    "1041840": {
+      "appid": 1041840,
+      "name": "格斗天使SE",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:14:47.374501"
+    },
+    "1041920": {
+      "appid": 1041920,
+      "name": "If Found...",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T07:14:47.641867"
+    },
+    "1042020": {
+      "appid": 1042020,
+      "name": "生命之槛",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:14:48.270157"
+    },
+    "1042150": {
+      "appid": 1042150,
+      "name": "Data mining 7",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:14:49.328208"
+    },
+    "1042160": {
+      "appid": 1042160,
+      "name": "The Islander: Town Architect",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:14:49.488587"
+    },
+    "1042170": {
+      "appid": 1042170,
+      "name": "Summon of Asmodeus",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T07:14:49.631555"
+    },
+    "1042210": {
+      "appid": 1042210,
+      "name": "Guts And Goals",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:14:49.803076"
+    },
+    "1042290": {
+      "appid": 1042290,
+      "name": "Duckumentary",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:14:50.098000"
+    },
+    "1042380": {
+      "appid": 1042380,
+      "name": "酿造物语 (Hundred Days - Winemaking Simulator)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T07:14:50.790945"
+    },
+    "1042490": {
+      "appid": 1042490,
+      "name": "海之呼唤",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:14:51.059818"
+    },
+    "1042550": {
+      "appid": 1042550,
+      "name": "Digimon Story Cyber Sleuth: Complete Edition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T07:14:51.533762"
+    },
+    "1042560": {
+      "appid": 1042560,
+      "name": "城堡传说：魔王觉醒",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:14:51.671328"
+    },
+    "1042590": {
+      "appid": 1042590,
+      "name": "新巨商",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:14:51.963101"
+    },
+    "1042600": {
+      "appid": 1042600,
+      "name": "女魔王梅丽莎的冒险",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:14:52.104197"
+    },
+    "1042670": {
+      "appid": 1042670,
+      "name": "Orangeblood《橙色的血液》",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:14:52.364968"
+    },
+    "1042750": {
+      "appid": 1042750,
+      "name": "Night shot",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:14:52.490357"
+    },
+    "1042780": {
+      "appid": 1042780,
+      "name": "Pine",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:14:52.629287"
+    },
+    "1042800": {
+      "appid": 1042800,
+      "name": "Warhammer 40,000: Inquisitor - Prophecy",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:14:52.781781"
+    },
+    "1042860": {
+      "appid": 1042860,
+      "name": "黄金战魂",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:14:53.054963"
+    },
+    "1042920": {
+      "appid": 1042920,
+      "name": "失魂者",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T07:14:53.364541"
+    },
+    "1042980": {
+      "appid": 1042980,
+      "name": "Zen Chess: Mate in Two",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:14:53.809601"
+    },
+    "1042990": {
+      "appid": 1042990,
+      "name": "Zen Chess: Mate in Three",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:14:53.946938"
+    },
+    "1043000": {
+      "appid": 1043000,
+      "name": "Zen Chess: Mate in Four",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:14:54.075981"
+    },
+    "1043030": {
+      "appid": 1043030,
+      "name": "长天",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:14:54.350319"
+    },
+    "1043150": {
+      "appid": 1043150,
+      "name": "Danger Gazers",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:14:55.222731"
+    },
+    "1043260": {
+      "appid": 1043260,
+      "name": "角斗士公会经理",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:14:56.231315"
+    },
+    "1043350": {
+      "appid": 1043350,
+      "name": "1406",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:14:56.560680"
+    },
+    "1043370": {
+      "appid": 1043370,
+      "name": "SABAT Fight Arena",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:14:56.839538"
+    },
+    "1043390": {
+      "appid": 1043390,
+      "name": "FlowScape",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:14:57.110170"
+    },
+    "1043470": {
+      "appid": 1043470,
+      "name": "弹幕那个恶人",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:14:57.656940"
+    },
+    "1043510": {
+      "appid": 1043510,
+      "name": "Hotdog Man",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:14:58.116171"
+    },
+    "1043710": {
+      "appid": 1043710,
+      "name": "Unlanded",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:14:59.138399"
+    },
+    "1043760": {
+      "appid": 1043760,
+      "name": "涅槃之路",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:14:59.290695"
+    },
+    "1043870": {
+      "appid": 1043870,
+      "name": "Dark Forest",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:15:00.248968"
+    },
+    "1044110": {
+      "appid": 1044110,
+      "name": "Reforged TD - Tower Defense",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:15:01.339352"
+    },
+    "1044120": {
+      "appid": 1044120,
+      "name": "Changes",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:15:01.466039"
+    },
+    "1044130": {
+      "appid": 1044130,
+      "name": "不惑英雄传(puzzled heroes)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:15:01.597352"
+    },
+    "1044170": {
+      "appid": 1044170,
+      "name": "Lord of the click",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:15:01.741639"
+    },
+    "1044180": {
+      "appid": 1044180,
+      "name": "星球",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:15:01.869325"
+    },
+    "1044210": {
+      "appid": 1044210,
+      "name": "Mahjong Solitaire Refresh",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:15:02.003798"
+    },
+    "1044220": {
+      "appid": 1044220,
+      "name": "Oik Reloaded",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:15:02.145837"
+    },
+    "1044330": {
+      "appid": 1044330,
+      "name": "Legend of Traveller",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:15:02.457705"
+    },
+    "1044410": {
+      "appid": 1044410,
+      "name": "Little Gods of the Abyss",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:15:02.886865"
+    },
+    "1044450": {
+      "appid": 1044450,
+      "name": "Hentai Waifu",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T07:15:03.025961"
+    },
+    "1044490": {
+      "appid": 1044490,
+      "name": "The Expression Amrilato",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:15:03.560053"
+    },
+    "1044620": {
+      "appid": 1044620,
+      "name": "苍之彼方的四重奏",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T07:15:03.998179"
+    },
+    "1044720": {
+      "appid": 1044720,
+      "name": "Farthest Frontier",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:15:04.696700"
+    },
+    "1044760": {
+      "appid": 1044760,
+      "name": "Garden Of Mooj",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:15:05.266363"
+    },
+    "1044770": {
+      "appid": 1044770,
+      "name": "Goddess of Math 数学女神",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:15:05.395316"
+    },
+    "1044790": {
+      "appid": 1044790,
+      "name": "Gado Fight",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:15:05.560148"
+    },
+    "1044870": {
+      "appid": 1044870,
+      "name": "Zero-based World-从零开始",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:15:06.159299"
+    },
+    "1044900": {
+      "appid": 1044900,
+      "name": "圣山ShenShan",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:15:06.291996"
+    },
+    "1044930": {
+      "appid": 1044930,
+      "name": "恋爱公寓（My Girl：Love Story）",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:15:06.571927"
+    },
+    "1044980": {
+      "appid": 1044980,
+      "name": "机甲大师",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T07:15:06.848102"
+    },
+    "1045080": {
+      "appid": 1045080,
+      "name": "Curious Cases",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:15:07.614164"
+    },
+    "1045110": {
+      "appid": 1045110,
+      "name": "Space Ops VR: Reloaded",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:15:07.759039"
+    },
+    "1045120": {
+      "appid": 1045120,
+      "name": "Brunch Club",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:15:07.891221"
+    },
+    "1045180": {
+      "appid": 1045180,
+      "name": "Shattered - Tale of the Forgotten King",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:15:08.448531"
+    },
+    "1045580": {
+      "appid": 1045580,
+      "name": "Deleveled",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T07:15:10.091600"
+    },
+    "1045610": {
+      "appid": 1045610,
+      "name": "Startup Panic",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:15:10.346376"
+    },
+    "1045620": {
+      "appid": 1045620,
+      "name": "露露亚的炼金工房 ～亚兰德之炼金术士4～",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:15:10.504394"
+    },
+    "1045670": {
+      "appid": 1045670,
+      "name": "Adventure Dream Team",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:15:10.777182"
+    },
+    "1045720": {
+      "appid": 1045720,
+      "name": "The Coma 2: Vicious Sisters",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T07:15:10.925631"
+    },
+    "1045750": {
+      "appid": 1045750,
+      "name": "",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:15:11.338528"
+    },
+    "1045920": {
+      "appid": 1045920,
+      "name": "Hentai beautiful girls 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:15:12.022933"
+    },
+    "1046030": {
+      "appid": 1046030,
+      "name": "ISLANDERS",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T07:15:12.327424"
     }
   }
 }
