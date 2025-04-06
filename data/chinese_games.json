@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-06T05:28:01.986572"
+    "updated": "2025-04-06T05:42:42.832342"
   },
   "games": {
     "570": {
@@ -89056,6 +89056,558 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-04-06T05:28:01.265019"
+    },
+    "991170": {
+      "appid": 991170,
+      "name": "废品大亨",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:42:14.523097"
+    },
+    "991230": {
+      "appid": 991230,
+      "name": "Highway of death",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:42:14.772794"
+    },
+    "991450": {
+      "appid": 991450,
+      "name": "Wild Ranger: Gun X Dragon",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:42:16.353097"
+    },
+    "991500": {
+      "appid": 991500,
+      "name": "Make A Jigsaw Puzzle",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:42:16.928902"
+    },
+    "991560": {
+      "appid": 991560,
+      "name": "ONE PUNCH MAN: A HERO NOBODY KNOWS",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:42:17.595784"
+    },
+    "991600": {
+      "appid": 991600,
+      "name": "Rabbit Burn",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T05:42:17.722969"
+    },
+    "991680": {
+      "appid": 991680,
+      "name": "炎之陨落 The Fallen of The Blaze Empire",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:42:18.392290"
+    },
+    "991700": {
+      "appid": 991700,
+      "name": "噬魂围猎",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:42:18.533223"
+    },
+    "991710": {
+      "appid": 991710,
+      "name": "GunboundM",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:42:18.769796"
+    },
+    "991780": {
+      "appid": 991780,
+      "name": "探灵笔记/拾遗记-1V5(Notes of Soul)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:42:19.215570"
+    },
+    "991800": {
+      "appid": 991800,
+      "name": "Puzzle game for kids",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:42:19.443062"
+    },
+    "991810": {
+      "appid": 991810,
+      "name": "战略思维：太平洋",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T05:42:19.573320"
+    },
+    "991860": {
+      "appid": 991860,
+      "name": "IMAZE.EXE 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:42:19.700735"
+    },
+    "992050": {
+      "appid": 992050,
+      "name": "Oik 5",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:42:20.342092"
+    },
+    "992210": {
+      "appid": 992210,
+      "name": "Waves of the Atlantide",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:42:20.955774"
+    },
+    "992300": {
+      "appid": 992300,
+      "name": "嗜血印 Bloody Spell",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T05:42:21.446992"
+    },
+    "992330": {
+      "appid": 992330,
+      "name": "Nightmare (Incubo)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:42:21.925723"
+    },
+    "992360": {
+      "appid": 992360,
+      "name": "Otiiz's adventure - Sushi Champ",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:42:22.050638"
+    },
+    "992560": {
+      "appid": 992560,
+      "name": "快乐蓝熊HappyBlueBear",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:42:22.866249"
+    },
+    "992600": {
+      "appid": 992600,
+      "name": "Snake Path",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:42:22.995053"
+    },
+    "992610": {
+      "appid": 992610,
+      "name": "Let's Create! Pottery VR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:42:23.114119"
+    },
+    "992620": {
+      "appid": 992620,
+      "name": "妖怪俱乐部 Demon Club",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:42:23.229450"
+    },
+    "992640": {
+      "appid": 992640,
+      "name": "Pagan: Absent Gods",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:42:23.359303"
+    },
+    "992700": {
+      "appid": 992700,
+      "name": "Lighter",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:42:23.806720"
+    },
+    "992740": {
+      "appid": 992740,
+      "name": "祈風 Inorikaze",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:42:24.272331"
+    },
+    "992750": {
+      "appid": 992750,
+      "name": "社稷终于幻想 ~ A Finality with Sheji",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:42:24.449094"
+    },
+    "992840": {
+      "appid": 992840,
+      "name": "Car Wash Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:42:24.673236"
+    },
+    "993030": {
+      "appid": 993030,
+      "name": "Rebots",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:42:26.202535"
+    },
+    "993090": {
+      "appid": 993090,
+      "name": "Lossless Scaling",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:42:26.316260"
+    },
+    "993110": {
+      "appid": 993110,
+      "name": "Skinwalker Hunt",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T05:42:26.458392"
+    },
+    "993210": {
+      "appid": 993210,
+      "name": "图标型自动战斗棋",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:42:26.816403"
+    },
+    "993250": {
+      "appid": 993250,
+      "name": "盖天",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:42:27.140736"
+    },
+    "993400": {
+      "appid": 993400,
+      "name": "Finding summer",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:42:28.136367"
+    },
+    "993630": {
+      "appid": 993630,
+      "name": "Data mining 4",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:42:29.089599"
+    },
+    "993680": {
+      "appid": 993680,
+      "name": "东方驾考模拟器|Chinese Driving License Test",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:42:29.464641"
+    },
+    "993740": {
+      "appid": 993740,
+      "name": "Hentai Mosaique Puzzle",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T05:42:29.741551"
+    },
+    "993860": {
+      "appid": 993860,
+      "name": "圈圈工坊 OO.Inc",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:42:30.823352"
+    },
+    "993990": {
+      "appid": 993990,
+      "name": "Hunger Apartment （蚀狱）",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:42:31.197539"
+    },
+    "994020": {
+      "appid": 994020,
+      "name": "Tempest of the Heavens and Earth",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:42:31.355108"
+    },
+    "994140": {
+      "appid": 994140,
+      "name": "Lightmatter",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T05:42:31.721510"
+    },
+    "994180": {
+      "appid": 994180,
+      "name": "Tennis Fighters",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:42:32.129384"
+    },
+    "994200": {
+      "appid": 994200,
+      "name": "天际起源 The Ark of Horizon",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:42:32.416307"
+    },
+    "994220": {
+      "appid": 994220,
+      "name": "无尽宇宙:Neoverse",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:42:32.544950"
+    },
+    "994250": {
+      "appid": 994250,
+      "name": "肥肥大作战 fat battle",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:42:32.797473"
+    },
+    "994270": {
+      "appid": 994270,
+      "name": "Where Birds 鸟儿在哪里",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:42:33.037212"
+    },
+    "994280": {
+      "appid": 994280,
+      "name": "古剑奇谭三(Gujian3)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:42:33.176918"
+    },
+    "994290": {
+      "appid": 994290,
+      "name": "Five Day Great Escape 五日大逃亡",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:42:33.350402"
+    },
+    "994340": {
+      "appid": 994340,
+      "name": "Cat and Ghostly Road",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T05:42:33.992523"
+    },
+    "994500": {
+      "appid": 994500,
+      "name": "Sky Racket",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:42:34.525785"
+    },
+    "994560": {
+      "appid": 994560,
+      "name": "Metal Revolution / 金属对决",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:42:34.778255"
+    },
+    "994730": {
+      "appid": 994730,
+      "name": "圣女战旗",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:42:35.494481"
+    },
+    "994750": {
+      "appid": 994750,
+      "name": "景行 | Encourage",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:42:35.622114"
+    },
+    "994910": {
+      "appid": 994910,
+      "name": "Poker Master",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:42:36.320223"
+    },
+    "994930": {
+      "appid": 994930,
+      "name": "Soccer Manager 2019",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:42:36.455416"
+    },
+    "995240": {
+      "appid": 995240,
+      "name": "RemiLore: Lost Girl in the Lands of Lore",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T05:42:37.847854"
+    },
+    "995270": {
+      "appid": 995270,
+      "name": "DeMagnete VR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:42:37.990563"
+    },
+    "995280": {
+      "appid": 995280,
+      "name": "Stary",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:42:38.099933"
+    },
+    "995330": {
+      "appid": 995330,
+      "name": "干支セトラ　陰ノ卷｜干支etc.　陰之卷",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:42:38.350854"
+    },
+    "995460": {
+      "appid": 995460,
+      "name": "Miracle Snack Shop",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T05:42:38.814194"
+    },
+    "995660": {
+      "appid": 995660,
+      "name": "XLaunchpad",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:42:39.436233"
+    },
+    "995680": {
+      "appid": 995680,
+      "name": "Truck Mechanic: Dangerous Paths",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T05:42:39.585965"
+    },
+    "995790": {
+      "appid": 995790,
+      "name": "Dark Sauce",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:42:39.957382"
+    },
+    "995980": {
+      "appid": 995980,
+      "name": "Fae Tactics",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:42:40.844598"
+    },
+    "996000": {
+      "appid": 996000,
+      "name": "Dark Data",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:42:41.103711"
+    },
+    "996080": {
+      "appid": 996080,
+      "name": "King's League II",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:42:41.364447"
+    },
+    "996160": {
+      "appid": 996160,
+      "name": "Quest for the Golden Duck",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:42:41.712496"
+    },
+    "996170": {
+      "appid": 996170,
+      "name": "Mage VR -Mini Version-",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:42:41.835333"
+    },
+    "996380": {
+      "appid": 996380,
+      "name": "Smartphone Tycoon",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:42:42.360585"
+    },
+    "996550": {
+      "appid": 996550,
+      "name": "持猫少女凯蒂/Kaidi, armed with a cat",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T05:42:42.707588"
     }
   }
 }

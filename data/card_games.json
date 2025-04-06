@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-06T05:28:01.986572"
+    "updated": "2025-04-06T05:42:42.832342"
   },
   "games": {
     "570": {
@@ -68678,6 +68678,126 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-06T05:27:59.195598"
+    },
+    "991270": {
+      "appid": 991270,
+      "name": "The Legend of Heroes: Trails of Cold Steel III",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T05:42:15.652030"
+    },
+    "991600": {
+      "appid": 991600,
+      "name": "Rabbit Burn",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T05:42:17.722969"
+    },
+    "991810": {
+      "appid": 991810,
+      "name": "战略思维：太平洋",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T05:42:19.573320"
+    },
+    "992300": {
+      "appid": 992300,
+      "name": "嗜血印 Bloody Spell",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T05:42:21.446992"
+    },
+    "992730": {
+      "appid": 992730,
+      "name": "Neckbreak",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T05:42:24.143418"
+    },
+    "993110": {
+      "appid": 993110,
+      "name": "Skinwalker Hunt",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T05:42:26.458392"
+    },
+    "993690": {
+      "appid": 993690,
+      "name": "Transport Services",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T05:42:29.591113"
+    },
+    "993740": {
+      "appid": 993740,
+      "name": "Hentai Mosaique Puzzle",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T05:42:29.741551"
+    },
+    "993790": {
+      "appid": 993790,
+      "name": "Ancient Enemy",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T05:42:30.502230"
+    },
+    "994140": {
+      "appid": 994140,
+      "name": "Lightmatter",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T05:42:31.721510"
+    },
+    "994340": {
+      "appid": 994340,
+      "name": "Cat and Ghostly Road",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T05:42:33.992523"
+    },
+    "995240": {
+      "appid": 995240,
+      "name": "RemiLore: Lost Girl in the Lands of Lore",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T05:42:37.847854"
+    },
+    "995460": {
+      "appid": 995460,
+      "name": "Miracle Snack Shop",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T05:42:38.814194"
+    },
+    "995680": {
+      "appid": 995680,
+      "name": "Truck Mechanic: Dangerous Paths",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T05:42:39.585965"
+    },
+    "996580": {
+      "appid": 996580,
+      "name": "Spyro™ Reignited Trilogy",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T05:42:42.830686"
     }
   }
 }
