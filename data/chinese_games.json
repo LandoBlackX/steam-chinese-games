@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-06T10:11:44.213480"
+    "updated": "2025-04-06T10:19:18.470376"
   },
   "games": {
     "570": {
@@ -102552,6 +102552,502 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-04-06T10:11:43.515846"
+    },
+    "1126040": {
+      "appid": 1126040,
+      "name": "Volhv: Memoir of the Witch Doctor",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T10:18:43.782562"
+    },
+    "1126090": {
+      "appid": 1126090,
+      "name": "Booby And The Booby Trap",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T10:18:44.483861"
+    },
+    "1126130": {
+      "appid": 1126130,
+      "name": "The Pillar",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T10:18:45.222578"
+    },
+    "1126210": {
+      "appid": 1126210,
+      "name": "the machine that BREATHES",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T10:18:45.801213"
+    },
+    "1126230": {
+      "appid": 1126230,
+      "name": "电筒侠",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T10:18:46.127838"
+    },
+    "1126270": {
+      "appid": 1126270,
+      "name": "Neon Tail",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T10:18:46.666356"
+    },
+    "1126290": {
+      "appid": 1126290,
+      "name": "Lost",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T10:18:46.839625"
+    },
+    "1126310": {
+      "appid": 1126310,
+      "name": "风信楼",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T10:18:47.153866"
+    },
+    "1126430": {
+      "appid": 1126430,
+      "name": "香江之龙，Dragon of Hongkong",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T10:18:47.926089"
+    },
+    "1126600": {
+      "appid": 1126600,
+      "name": "Before I Forget",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T10:18:49.372419"
+    },
+    "1126640": {
+      "appid": 1126640,
+      "name": "The Forgotten",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T10:18:49.575001"
+    },
+    "1126700": {
+      "appid": 1126700,
+      "name": "shapeWar",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T10:18:49.912100"
+    },
+    "1126750": {
+      "appid": 1126750,
+      "name": "爆钻小英雄 钻头乐园",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T10:18:50.303209"
+    },
+    "1126760": {
+      "appid": 1126760,
+      "name": "Whiteverse: No Country for Old Men",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T10:18:50.493022"
+    },
+    "1126870": {
+      "appid": 1126870,
+      "name": "Get Bento!",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T10:18:51.477273"
+    },
+    "1126890": {
+      "appid": 1126890,
+      "name": "Urban Cards / 都市卡牌",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T10:18:51.823072"
+    },
+    "1127140": {
+      "appid": 1127140,
+      "name": "初开在平安夜之花 -The Flower on Christmas Eve-",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T10:18:53.626889"
+    },
+    "1127170": {
+      "appid": 1127170,
+      "name": "DreamFly",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T10:18:53.773987"
+    },
+    "1127250": {
+      "appid": 1127250,
+      "name": "Deadly Maze: Phase 1",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T10:18:54.635798"
+    },
+    "1127290": {
+      "appid": 1127290,
+      "name": "Battle Survive Hentai",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T10:18:55.015532"
+    },
+    "1127400": {
+      "appid": 1127400,
+      "name": "Mindustry",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T10:18:55.944403"
+    },
+    "1127500": {
+      "appid": 1127500,
+      "name": "Mini Motorways",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T10:18:56.744601"
+    },
+    "1127540": {
+      "appid": 1127540,
+      "name": "伊甸骑士 淫悦的圣魔骑士露西菲尔篇",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T10:18:57.333166"
+    },
+    "1127560": {
+      "appid": 1127560,
+      "name": "Flip Polygon",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T10:18:57.482351"
+    },
+    "1127610": {
+      "appid": 1127610,
+      "name": "爱丽丝与巨人",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T10:18:57.842627"
+    },
+    "1127660": {
+      "appid": 1127660,
+      "name": "口罩演义",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T10:18:58.279082"
+    },
+    "1127700": {
+      "appid": 1127700,
+      "name": "逆向坍塌：面包房行动",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T10:18:58.771427"
+    },
+    "1127900": {
+      "appid": 1127900,
+      "name": "CYBER FURRY GIRL",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T10:18:59.742581"
+    },
+    "1127920": {
+      "appid": 1127920,
+      "name": "废柴转生",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T10:18:59.890768"
+    },
+    "1127970": {
+      "appid": 1127970,
+      "name": "复古机械城",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T10:19:00.514220"
+    },
+    "1128140": {
+      "appid": 1128140,
+      "name": "深渊之下",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T10:19:01.364179"
+    },
+    "1128190": {
+      "appid": 1128190,
+      "name": "Achievement Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T10:19:02.205871"
+    },
+    "1128260": {
+      "appid": 1128260,
+      "name": "The Princess, the Stray Cat, and Matters of the Heart 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T10:19:02.772450"
+    },
+    "1128270": {
+      "appid": 1128270,
+      "name": "Whack A Hoe",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T10:19:02.949885"
+    },
+    "1128360": {
+      "appid": 1128360,
+      "name": "如果一生只有三十岁Before Thirty",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T10:19:03.626925"
+    },
+    "1128450": {
+      "appid": 1128450,
+      "name": "光与暗之恋曲",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T10:19:04.399477"
+    },
+    "1128750": {
+      "appid": 1128750,
+      "name": "失落的琴弦-The Lost Strings",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T10:19:06.516129"
+    },
+    "1128810": {
+      "appid": 1128810,
+      "name": "RISK: Global Domination",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T10:19:07.051462"
+    },
+    "1128860": {
+      "appid": 1128860,
+      "name": "Men of War II",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T10:19:07.582264"
+    },
+    "1128900": {
+      "appid": 1128900,
+      "name": "桌面女郎",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T10:19:07.737768"
+    },
+    "1128920": {
+      "appid": 1128920,
+      "name": "永恒空间2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T10:19:07.902232"
+    },
+    "1128960": {
+      "appid": 1128960,
+      "name": "最后的巫后：众王纷争的年代 Witch Queen",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T10:19:08.224570"
+    },
+    "1129010": {
+      "appid": 1129010,
+      "name": "Dress-up Traveller",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T10:19:08.746241"
+    },
+    "1129030": {
+      "appid": 1129030,
+      "name": "Endless Fables 4: Shadow Within",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T10:19:08.941752"
+    },
+    "1129220": {
+      "appid": 1129220,
+      "name": "BEARS, VODKA, BALALAIKA! 🐻",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T10:19:10.401932"
+    },
+    "1129250": {
+      "appid": 1129250,
+      "name": "NEKO-NIN exHeart 3",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T10:19:10.918490"
+    },
+    "1129260": {
+      "appid": 1129260,
+      "name": "Baseless",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T10:19:11.115973"
+    },
+    "1129310": {
+      "appid": 1129310,
+      "name": "Receiver 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T10:19:11.315515"
+    },
+    "1129360": {
+      "appid": 1129360,
+      "name": "Pocket Wheels",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T10:19:12.006160"
+    },
+    "1129410": {
+      "appid": 1129410,
+      "name": "The Shattered Blade",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T10:19:12.162124"
+    },
+    "1129520": {
+      "appid": 1129520,
+      "name": "The Lewd Knight",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T10:19:12.464669"
+    },
+    "1129540": {
+      "appid": 1129540,
+      "name": "欧克按摩店",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T10:19:12.611934"
+    },
+    "1129570": {
+      "appid": 1129570,
+      "name": "工业巨擘 - Industry Giant 4.0",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T10:19:12.896467"
+    },
+    "1129580": {
+      "appid": 1129580,
+      "name": "中世纪王朝",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T10:19:13.060644"
+    },
+    "1129610": {
+      "appid": 1129610,
+      "name": "寻书人",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T10:19:13.212224"
+    },
+    "1129680": {
+      "appid": 1129680,
+      "name": "GraFi 3",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T10:19:13.805187"
+    },
+    "1129760": {
+      "appid": 1129760,
+      "name": "String Theory",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T10:19:14.837597"
+    },
+    "1130400": {
+      "appid": 1130400,
+      "name": "Symmetry",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T10:19:15.876346"
+    },
+    "1130410": {
+      "appid": 1130410,
+      "name": "Cyber Hook",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T10:19:16.079167"
+    },
+    "1130620": {
+      "appid": 1130620,
+      "name": "[Chilla's Art] Aka Manto | 赤マント",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T10:19:17.380720"
+    },
+    "1130700": {
+      "appid": 1130700,
+      "name": "AVABEL ONLINE（Steam版）",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T10:19:18.005685"
+    },
+    "1130710": {
+      "appid": 1130710,
+      "name": "Bookbound Brigade",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T10:19:18.164675"
     }
   }
 }
