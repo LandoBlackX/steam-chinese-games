@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-06T15:44:20.319210"
+    "updated": "2025-04-06T15:57:06.372370"
   },
   "games": {
     "570": {
@@ -118160,6 +118160,590 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-06T15:44:20.317853"
+    },
+    "1272900": {
+      "appid": 1272900,
+      "name": "【救世计划】红衣/SalvationPlan:SpiritEvil",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:56:30.567093"
+    },
+    "1272920": {
+      "appid": 1272920,
+      "name": "Easy puzzle: Streets",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:56:30.787278"
+    },
+    "1272970": {
+      "appid": 1272970,
+      "name": "Nyanco Card",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:56:30.967783"
+    },
+    "1273100": {
+      "appid": 1273100,
+      "name": "Builders of Greece",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:56:32.234349"
+    },
+    "1273160": {
+      "appid": 1273160,
+      "name": "Fall Of The Mafia",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:56:32.942959"
+    },
+    "1273180": {
+      "appid": 1273180,
+      "name": "Glory Horse Racing",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:56:33.126147"
+    },
+    "1273220": {
+      "appid": 1273220,
+      "name": "Sphere - Flying Cities",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:56:33.306968"
+    },
+    "1273250": {
+      "appid": 1273250,
+      "name": "Breakpoint",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:56:33.489749"
+    },
+    "1273290": {
+      "appid": 1273290,
+      "name": "盲剑II",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:56:33.797886"
+    },
+    "1273380": {
+      "appid": 1273380,
+      "name": "Weapons Genius VR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:56:34.303536"
+    },
+    "1273400": {
+      "appid": 1273400,
+      "name": "Construction Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:56:34.481947"
+    },
+    "1273430": {
+      "appid": 1273430,
+      "name": "iota",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:56:34.668961"
+    },
+    "1273480": {
+      "appid": 1273480,
+      "name": "The Highrise",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:56:35.428004"
+    },
+    "1273510": {
+      "appid": 1273510,
+      "name": "Mysterious World",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:56:35.647569"
+    },
+    "1273550": {
+      "appid": 1273550,
+      "name": "Fred The Rubber Ducky",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:56:36.403600"
+    },
+    "1273560": {
+      "appid": 1273560,
+      "name": "DeathSprint 66",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T15:56:36.556543"
+    },
+    "1273570": {
+      "appid": 1273570,
+      "name": "Four Rendezvous",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:56:36.716428"
+    },
+    "1273580": {
+      "appid": 1273580,
+      "name": "燎刃 TEMPER MY BLADE",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:56:36.870953"
+    },
+    "1273640": {
+      "appid": 1273640,
+      "name": "Bring You Home",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:56:37.656523"
+    },
+    "1273690": {
+      "appid": 1273690,
+      "name": "烬土行者",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:56:37.819514"
+    },
+    "1273710": {
+      "appid": 1273710,
+      "name": "King of Crabs",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:56:37.981097"
+    },
+    "1273790": {
+      "appid": 1273790,
+      "name": "Empires and Tribes",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:56:38.806357"
+    },
+    "1273820": {
+      "appid": 1273820,
+      "name": "MicroMan",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:56:39.140196"
+    },
+    "1273980": {
+      "appid": 1273980,
+      "name": "HeatWave",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:56:40.195451"
+    },
+    "1274060": {
+      "appid": 1274060,
+      "name": "The Ball Adventure",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:56:40.573603"
+    },
+    "1274150": {
+      "appid": 1274150,
+      "name": "Shoot Covid-19 | 消灭新冠肺炎",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:56:41.322036"
+    },
+    "1274190": {
+      "appid": 1274190,
+      "name": "南十字作战队",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:56:41.804713"
+    },
+    "1274230": {
+      "appid": 1274230,
+      "name": "Legend of Kendor",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:56:42.285418"
+    },
+    "1274290": {
+      "appid": 1274290,
+      "name": "Kidnapped Girl",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:56:42.765058"
+    },
+    "1274300": {
+      "appid": 1274300,
+      "name": "Cyber Agent",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T15:56:42.972441"
+    },
+    "1274310": {
+      "appid": 1274310,
+      "name": "东方鬼神玉 ~ I wanna be the Yin-Yang orb",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:56:43.209450"
+    },
+    "1274360": {
+      "appid": 1274360,
+      "name": "幽灵高校(Ghost College)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:56:43.532941"
+    },
+    "1274400": {
+      "appid": 1274400,
+      "name": "Prisoner Breaker",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:56:44.124069"
+    },
+    "1274490": {
+      "appid": 1274490,
+      "name": "Green Project",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:56:44.611397"
+    },
+    "1274530": {
+      "appid": 1274530,
+      "name": "Gorilla Guerrillas",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:56:44.764272"
+    },
+    "1274570": {
+      "appid": 1274570,
+      "name": "DEVOUR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T15:56:45.290261"
+    },
+    "1274600": {
+      "appid": 1274600,
+      "name": "The Last Faith",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T15:56:45.613486"
+    },
+    "1274610": {
+      "appid": 1274610,
+      "name": "LesLove.Club: Emily and Sarah",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:56:45.782683"
+    },
+    "1274810": {
+      "appid": 1274810,
+      "name": "Armageddon Onslaught",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:56:47.753615"
+    },
+    "1274830": {
+      "appid": 1274830,
+      "name": "Autopanic",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:56:48.114149"
+    },
+    "1274940": {
+      "appid": 1274940,
+      "name": "Strip 'Em",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:56:49.235444"
+    },
+    "1275060": {
+      "appid": 1275060,
+      "name": "Farm Builder",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:56:50.349949"
+    },
+    "1275180": {
+      "appid": 1275180,
+      "name": "Hunter X - Begin",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:56:51.077518"
+    },
+    "1275240": {
+      "appid": 1275240,
+      "name": "潘多利亚物语",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:56:51.701132"
+    },
+    "1275250": {
+      "appid": 1275250,
+      "name": "Trump and Virus",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:56:51.909788"
+    },
+    "1275290": {
+      "appid": 1275290,
+      "name": "Dream Catcher",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:56:52.297670"
+    },
+    "1275300": {
+      "appid": 1275300,
+      "name": "炽焰帝国:十字军东征",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:56:52.436862"
+    },
+    "1275370": {
+      "appid": 1275370,
+      "name": "Sharded World",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:56:53.093278"
+    },
+    "1275520": {
+      "appid": 1275520,
+      "name": "Choco Pixel 4",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:56:54.134391"
+    },
+    "1275550": {
+      "appid": 1275550,
+      "name": "极地觉醒",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:56:54.433164"
+    },
+    "1275590": {
+      "appid": 1275590,
+      "name": "Dieselpunk Wars Prologue",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:56:54.623334"
+    },
+    "1275640": {
+      "appid": 1275640,
+      "name": "Coloring Game 3",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:56:55.265119"
+    },
+    "1275670": {
+      "appid": 1275670,
+      "name": "Outcore: Desktop Adventure",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:56:55.640253"
+    },
+    "1275760": {
+      "appid": 1275760,
+      "name": "Street Power Football",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:56:55.797710"
+    },
+    "1275850": {
+      "appid": 1275850,
+      "name": "Frog Space",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:56:56.453324"
+    },
+    "1275960": {
+      "appid": 1275960,
+      "name": "Blured Angel",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:56:57.079726"
+    },
+    "1275980": {
+      "appid": 1275980,
+      "name": "Probe",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:56:57.389720"
+    },
+    "1276060": {
+      "appid": 1276060,
+      "name": "指尖山海",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:56:57.788960"
+    },
+    "1276090": {
+      "appid": 1276090,
+      "name": "创始者的冒险传说",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:56:58.259681"
+    },
+    "1276140": {
+      "appid": 1276140,
+      "name": "核能步枪 - NuclearRifle",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:56:58.815360"
+    },
+    "1276300": {
+      "appid": 1276300,
+      "name": "零木",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:56:59.269979"
+    },
+    "1276390": {
+      "appid": 1276390,
+      "name": "Bloons TD Battles 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:57:00.129597"
+    },
+    "1276510": {
+      "appid": 1276510,
+      "name": "人类农庄",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:57:01.148034"
+    },
+    "1276530": {
+      "appid": 1276530,
+      "name": "Monsieur帕夫的奇妙旅程",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:57:01.377741"
+    },
+    "1276540": {
+      "appid": 1276540,
+      "name": "Persian Nights 2: The Moonlight Veil",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T15:57:01.541777"
+    },
+    "1276660": {
+      "appid": 1276660,
+      "name": "工匠镇",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:57:02.472063"
+    },
+    "1276740": {
+      "appid": 1276740,
+      "name": "Protodroid DeLTA",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:57:03.187008"
+    },
+    "1276760": {
+      "appid": 1276760,
+      "name": "七龙珠 破界斗士",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T15:57:03.676801"
+    },
+    "1276790": {
+      "appid": 1276790,
+      "name": "破败之王：英雄联盟外传",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T15:57:03.899683"
+    },
+    "1276800": {
+      "appid": 1276800,
+      "name": "聚点危机：英雄联盟外传™",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T15:57:04.072240"
+    },
+    "1277130": {
+      "appid": 1277130,
+      "name": "死亡约束",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:57:05.328926"
+    },
+    "1277210": {
+      "appid": 1277210,
+      "name": "美足小屋 / Beautiful Feet Cabin",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:57:06.158693"
+    },
+    "1277230": {
+      "appid": 1277230,
+      "name": "Crying Pony",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T15:57:06.371145"
     }
   }
 }

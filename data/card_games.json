@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-06T15:44:20.319210"
+    "updated": "2025-04-06T15:57:06.372370"
   },
   "games": {
     "570": {
@@ -74414,6 +74414,86 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-06T15:44:20.317853"
+    },
+    "1273260": {
+      "appid": 1273260,
+      "name": "Corpse Party (2021)",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T15:56:33.643199"
+    },
+    "1273560": {
+      "appid": 1273560,
+      "name": "DeathSprint 66",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T15:56:36.556543"
+    },
+    "1274300": {
+      "appid": 1274300,
+      "name": "Cyber Agent",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T15:56:42.972441"
+    },
+    "1274570": {
+      "appid": 1274570,
+      "name": "DEVOUR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T15:56:45.290261"
+    },
+    "1274600": {
+      "appid": 1274600,
+      "name": "The Last Faith",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T15:56:45.613486"
+    },
+    "1274710": {
+      "appid": 1274710,
+      "name": "Lullaby days",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T15:56:47.116676"
+    },
+    "1276540": {
+      "appid": 1276540,
+      "name": "Persian Nights 2: The Moonlight Veil",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T15:57:01.541777"
+    },
+    "1276760": {
+      "appid": 1276760,
+      "name": "七龙珠 破界斗士",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T15:57:03.676801"
+    },
+    "1276790": {
+      "appid": 1276790,
+      "name": "破败之王：英雄联盟外传",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T15:57:03.899683"
+    },
+    "1276800": {
+      "appid": 1276800,
+      "name": "聚点危机：英雄联盟外传™",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T15:57:04.072240"
     }
   }
 }
