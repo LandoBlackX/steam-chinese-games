@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-06T13:30:41.742989"
+    "updated": "2025-04-06T13:43:48.447056"
   },
   "games": {
     "570": {
@@ -112152,6 +112152,486 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-06T13:30:40.828485"
+    },
+    "1214060": {
+      "appid": 1214060,
+      "name": "TRIOS - lofi beats / numbers to chill to",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T13:43:19.685580"
+    },
+    "1214200": {
+      "appid": 1214200,
+      "name": "迷雾空城/The Mist City",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T13:43:20.396937"
+    },
+    "1214210": {
+      "appid": 1214210,
+      "name": "那美克星人",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T13:43:20.545658"
+    },
+    "1214410": {
+      "appid": 1214410,
+      "name": "Zooma VR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T13:43:21.842559"
+    },
+    "1214460": {
+      "appid": 1214460,
+      "name": "坦克球",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T13:43:22.248781"
+    },
+    "1214470": {
+      "appid": 1214470,
+      "name": "Hotel Renovator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T13:43:22.469816"
+    },
+    "1214500": {
+      "appid": 1214500,
+      "name": "GraFi Lunar",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T13:43:22.777278"
+    },
+    "1214520": {
+      "appid": 1214520,
+      "name": "Pro Gymnast Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T13:43:22.911636"
+    },
+    "1214570": {
+      "appid": 1214570,
+      "name": "DriftOn",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T13:43:23.371046"
+    },
+    "1214670": {
+      "appid": 1214670,
+      "name": "Mr. Sun's Hatbox 日先生的帽盒",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T13:43:24.220542"
+    },
+    "1214720": {
+      "appid": 1214720,
+      "name": "轻梦谭 - 瓮之篇 -",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T13:43:24.846819"
+    },
+    "1214760": {
+      "appid": 1214760,
+      "name": "Shine's Adventures 4 (Nightmare)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T13:43:25.174287"
+    },
+    "1214850": {
+      "appid": 1214850,
+      "name": "Snaliens",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T13:43:25.330710"
+    },
+    "1214870": {
+      "appid": 1214870,
+      "name": "My Funeral Home",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T13:43:25.463018"
+    },
+    "1214980": {
+      "appid": 1214980,
+      "name": "The Line",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T13:43:25.739661"
+    },
+    "1215120": {
+      "appid": 1215120,
+      "name": "赤红2028-WeAreEscape-",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T13:43:26.753962"
+    },
+    "1215180": {
+      "appid": 1215180,
+      "name": "The Beasts Of 9500",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T13:43:27.043564"
+    },
+    "1215260": {
+      "appid": 1215260,
+      "name": "Efflorescence of Lust",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T13:43:27.327440"
+    },
+    "1215270": {
+      "appid": 1215270,
+      "name": "Down the Rabbit Hole",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T13:43:27.462885"
+    },
+    "1215280": {
+      "appid": 1215280,
+      "name": "Mask of Mists",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T13:43:27.598959"
+    },
+    "1215340": {
+      "appid": 1215340,
+      "name": "Danko and the mystery of the jungle",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T13:43:27.995342"
+    },
+    "1215380": {
+      "appid": 1215380,
+      "name": "Economica",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T13:43:28.346464"
+    },
+    "1215390": {
+      "appid": 1215390,
+      "name": "Animal Revolt Battle Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T13:43:28.481770"
+    },
+    "1215400": {
+      "appid": 1215400,
+      "name": "Radio Commander VR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T13:43:28.606911"
+    },
+    "1215580": {
+      "appid": 1215580,
+      "name": "News Agency Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T13:43:29.585510"
+    },
+    "1215740": {
+      "appid": 1215740,
+      "name": "Casina: The Forgotten Comedy",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T13:43:30.724685"
+    },
+    "1215750": {
+      "appid": 1215750,
+      "name": "Just Arms",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T13:43:30.864119"
+    },
+    "1215770": {
+      "appid": 1215770,
+      "name": "Naked Story (Sports Festival Ver)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T13:43:31.174717"
+    },
+    "1215870": {
+      "appid": 1215870,
+      "name": "The Walking Evil",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T13:43:31.628860"
+    },
+    "1215940": {
+      "appid": 1215940,
+      "name": "Forever Ago",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T13:43:32.026018"
+    },
+    "1216060": {
+      "appid": 1216060,
+      "name": "DNF Duel",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T13:43:33.301115"
+    },
+    "1216080": {
+      "appid": 1216080,
+      "name": "坦率的小红帽和爱说谎的狼",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T13:43:33.441841"
+    },
+    "1216200": {
+      "appid": 1216200,
+      "name": "Coloring Game 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T13:43:33.870802"
+    },
+    "1216300": {
+      "appid": 1216300,
+      "name": "My Diggy Dog 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T13:43:34.416588"
+    },
+    "1216310": {
+      "appid": 1216310,
+      "name": "Sweet Holiday Jigsaws: Halloween Night",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T13:43:34.572258"
+    },
+    "1216320": {
+      "appid": 1216320,
+      "name": "Shieldwall",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T13:43:34.708472"
+    },
+    "1216340": {
+      "appid": 1216340,
+      "name": "Vampire vs Devil",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T13:43:34.839144"
+    },
+    "1216370": {
+      "appid": 1216370,
+      "name": "DarkLight",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T13:43:35.192430"
+    },
+    "1216600": {
+      "appid": 1216600,
+      "name": "QUICAL",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T13:43:36.632868"
+    },
+    "1216610": {
+      "appid": 1216610,
+      "name": "Hentai Pansuto",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T13:43:36.772277"
+    },
+    "1216660": {
+      "appid": 1216660,
+      "name": "Hentai Sakyubus",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T13:43:36.912379"
+    },
+    "1216700": {
+      "appid": 1216700,
+      "name": "匿名信：隐匿者 / Anonymous Letter ：Prowler",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T13:43:37.057980"
+    },
+    "1216710": {
+      "appid": 1216710,
+      "name": "全网公敌",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T13:43:37.205011"
+    },
+    "1216870": {
+      "appid": 1216870,
+      "name": "Only Down!",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T13:43:37.640986"
+    },
+    "1217060": {
+      "appid": 1217060,
+      "name": "枪火重生",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T13:43:38.664242"
+    },
+    "1217170": {
+      "appid": 1217170,
+      "name": "夺宝俱乐部",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T13:43:39.604302"
+    },
+    "1217180": {
+      "appid": 1217180,
+      "name": "Fantamon",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T13:43:39.765999"
+    },
+    "1217190": {
+      "appid": 1217190,
+      "name": "浮世万千之前世今生",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T13:43:39.944950"
+    },
+    "1217220": {
+      "appid": 1217220,
+      "name": "Immortal Legacy: The Jade Cipher",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T13:43:40.245810"
+    },
+    "1217230": {
+      "appid": 1217230,
+      "name": "E.B.",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T13:43:40.371152"
+    },
+    "1217330": {
+      "appid": 1217330,
+      "name": "Terminal squad: Swarmites",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T13:43:40.937604"
+    },
+    "1217390": {
+      "appid": 1217390,
+      "name": "爱情便利店",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T13:43:41.670933"
+    },
+    "1217410": {
+      "appid": 1217410,
+      "name": "孟德大小姐与自爆少年",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T13:43:41.804541"
+    },
+    "1217720": {
+      "appid": 1217720,
+      "name": "ILY",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T13:43:44.188801"
+    },
+    "1217750": {
+      "appid": 1217750,
+      "name": "Beyond Enemy Lines - Remastered Edition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T13:43:44.328205"
+    },
+    "1217860": {
+      "appid": 1217860,
+      "name": "Royal Rescue SRPG",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T13:43:44.931456"
+    },
+    "1217900": {
+      "appid": 1217900,
+      "name": "Chronostation",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T13:43:45.411465"
+    },
+    "1218170": {
+      "appid": 1218170,
+      "name": "回门 Way Back Home",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T13:43:46.860133"
+    },
+    "1218200": {
+      "appid": 1218200,
+      "name": "Game Of Puzzles: Space",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-06T13:43:46.999800"
+    },
+    "1218210": {
+      "appid": 1218210,
+      "name": "Coromon",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-06T13:43:47.149258"
     }
   }
 }
