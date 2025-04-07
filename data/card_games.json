@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-07T15:53:39.637667"
+    "updated": "2025-04-07T15:58:28.639012"
   },
   "games": {
     "570": {
@@ -80374,6 +80374,70 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-07T15:53:39.297686"
+    },
+    "1733060": {
+      "appid": 1733060,
+      "name": "Ever Seen A Cat?",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T15:57:52.618461"
+    },
+    "1733500": {
+      "appid": 1733500,
+      "name": "Looking for Aliens",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T15:57:56.956068"
+    },
+    "1733880": {
+      "appid": 1733880,
+      "name": "银白钢铁伊克斯 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T15:57:58.786143"
+    },
+    "1735420": {
+      "appid": 1735420,
+      "name": "Fake Hostel",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T15:58:11.940036"
+    },
+    "1735980": {
+      "appid": 1735980,
+      "name": "Love Flute",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T15:58:15.080811"
+    },
+    "1736290": {
+      "appid": 1736290,
+      "name": "Crime O'Clock",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T15:58:17.411468"
+    },
+    "1736360": {
+      "appid": 1736360,
+      "name": "Hentai Sakura 🌸🌊",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T15:58:17.969639"
+    },
+    "1736840": {
+      "appid": 1736840,
+      "name": "From Paris with Love: Passion with view",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T15:58:22.432428"
     }
   }
 }
