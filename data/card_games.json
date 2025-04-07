@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-07T13:18:29.897045"
+    "updated": "2025-04-07T13:42:58.889214"
   },
   "games": {
     "570": {
@@ -79694,6 +79694,94 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-04-07T13:18:28.707561"
+    },
+    "1676840": {
+      "appid": 1676840,
+      "name": "为了吾王II / For The King II",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T13:42:33.434636"
+    },
+    "1676860": {
+      "appid": 1676860,
+      "name": "Torschützenkönig",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T13:42:33.638865"
+    },
+    "1677090": {
+      "appid": 1677090,
+      "name": "Godless",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T13:42:35.876723"
+    },
+    "1677280": {
+      "appid": 1677280,
+      "name": "Company of Heroes 3",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T13:42:37.369876"
+    },
+    "1677770": {
+      "appid": 1677770,
+      "name": "The Case of the Golden Idol",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T13:42:41.171676"
+    },
+    "1677970": {
+      "appid": 1677970,
+      "name": "Railroad Corporation 2",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T13:42:42.471386"
+    },
+    "1677980": {
+      "appid": 1677980,
+      "name": "Unmatched: Digital Edition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T13:42:42.651081"
+    },
+    "1678140": {
+      "appid": 1678140,
+      "name": "Shades of Sakura",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T13:42:43.820517"
+    },
+    "1679320": {
+      "appid": 1679320,
+      "name": "100 hidden cats 2",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T13:42:51.486603"
+    },
+    "1679700": {
+      "appid": 1679700,
+      "name": "Suhoshin",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T13:42:53.284280"
+    },
+    "1679870": {
+      "appid": 1679870,
+      "name": "Arcana: Heat and Cold. Season 2",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T13:42:54.657692"
     }
   }
 }
