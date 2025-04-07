@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-07T14:11:48.368352"
+    "updated": "2025-04-07T14:13:08.346311"
   },
   "games": {
     "570": {
@@ -79894,6 +79894,70 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-07T14:11:42.573340"
+    },
+    "1693760": {
+      "appid": 1693760,
+      "name": "The Ditty of Carmeana",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T14:12:49.262194"
+    },
+    "1694960": {
+      "appid": 1694960,
+      "name": "Furry Feet",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T14:12:57.840155"
+    },
+    "1695790": {
+      "appid": 1695790,
+      "name": "Halo 2 Anniversary MP Mod Tools - MCC",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T14:13:01.197418"
+    },
+    "1695791": {
+      "appid": 1695791,
+      "name": "Halo 3 Mod Tools - MCC",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T14:13:01.319651"
+    },
+    "1695792": {
+      "appid": 1695792,
+      "name": "Halo 4 Mod Tools - MCC",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T14:13:01.435278"
+    },
+    "1695793": {
+      "appid": 1695793,
+      "name": "Halo: Reach Mod Tools – MCC",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T14:13:01.554722"
+    },
+    "1695794": {
+      "appid": 1695794,
+      "name": "Halo 3: ODST Mod Tools - MCC",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T14:13:01.673825"
+    },
+    "1695795": {
+      "appid": 1695795,
+      "name": "Halo MCC Mod Uploader",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T14:13:01.790534"
     }
   }
 }
