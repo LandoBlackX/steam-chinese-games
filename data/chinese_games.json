@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-07T08:57:32.191912"
+    "updated": "2025-04-07T09:27:41.158177"
   },
   "games": {
     "570": {
@@ -149928,6 +149928,446 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-07T08:57:32.190179"
+    },
+    "1597200": {
+      "appid": 1597200,
+      "name": "ConnecTank",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T09:27:14.296989"
+    },
+    "1597220": {
+      "appid": 1597220,
+      "name": "Tower Ball - Incremental Tower Defense",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T09:27:14.563679"
+    },
+    "1597280": {
+      "appid": 1597280,
+      "name": "直播帝国2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T09:27:15.653029"
+    },
+    "1597290": {
+      "appid": 1597290,
+      "name": "死亡围城",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T09:27:15.876219"
+    },
+    "1597310": {
+      "appid": 1597310,
+      "name": "飞空艇时代：贸易帝国",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T09:27:16.036969"
+    },
+    "1597440": {
+      "appid": 1597440,
+      "name": "解谜游戏 - 蜡像馆 - 隐藏物品探险游戏",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T09:27:16.767866"
+    },
+    "1597460": {
+      "appid": 1597460,
+      "name": "幻想三国志-天元异事录",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T09:27:17.000669"
+    },
+    "1597470": {
+      "appid": 1597470,
+      "name": "第31号实验体",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T09:27:17.127927"
+    },
+    "1597480": {
+      "appid": 1597480,
+      "name": "Zombie Gunship Survival",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T09:27:17.247209"
+    },
+    "1597510": {
+      "appid": 1597510,
+      "name": "魔物调查者",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T09:27:17.374594"
+    },
+    "1597530": {
+      "appid": 1597530,
+      "name": "Neural Edge",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T09:27:17.661678"
+    },
+    "1597560": {
+      "appid": 1597560,
+      "name": "Click Your Crush!",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T09:27:17.972734"
+    },
+    "1597580": {
+      "appid": 1597580,
+      "name": "Clid The Snail",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T09:27:18.116973"
+    },
+    "1597720": {
+      "appid": 1597720,
+      "name": "Feed All Monsters",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T09:27:19.347099"
+    },
+    "1597730": {
+      "appid": 1597730,
+      "name": "Dogs Organized Neatly",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T09:27:19.600017"
+    },
+    "1597770": {
+      "appid": 1597770,
+      "name": "Wizard's Wrath Legends",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T09:27:19.860707"
+    },
+    "1597780": {
+      "appid": 1597780,
+      "name": "新城镇",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T09:27:19.998394"
+    },
+    "1597790": {
+      "appid": 1597790,
+      "name": "Mainframe Defenders: Meltdown - Prologue",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T09:27:20.129438"
+    },
+    "1597800": {
+      "appid": 1597800,
+      "name": "Hikikomori life",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T09:27:20.256773"
+    },
+    "1597820": {
+      "appid": 1597820,
+      "name": "擦魂而过",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T09:27:20.397761"
+    },
+    "1597910": {
+      "appid": 1597910,
+      "name": "FREERIDE",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T09:27:20.984939"
+    },
+    "1598020": {
+      "appid": 1598020,
+      "name": "Warspace",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T09:27:21.926904"
+    },
+    "1598370": {
+      "appid": 1598370,
+      "name": "Vojo",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T09:27:24.144660"
+    },
+    "1598470": {
+      "appid": 1598470,
+      "name": "PixelGround",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T09:27:24.276412"
+    },
+    "1598560": {
+      "appid": 1598560,
+      "name": "在披萨上的生活",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T09:27:24.666963"
+    },
+    "1598580": {
+      "appid": 1598580,
+      "name": "累趴侠",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T09:27:24.798518"
+    },
+    "1598590": {
+      "appid": 1598590,
+      "name": "此刻探索中",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T09:27:24.925415"
+    },
+    "1598630": {
+      "appid": 1598630,
+      "name": "Eternal Cycle 永劫之环",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T09:27:25.238283"
+    },
+    "1598710": {
+      "appid": 1598710,
+      "name": "Wild world",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T09:27:25.615362"
+    },
+    "1598730": {
+      "appid": 1598730,
+      "name": "山河伏妖录",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T09:27:25.811189"
+    },
+    "1598750": {
+      "appid": 1598750,
+      "name": "魔法与高塔",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T09:27:25.935813"
+    },
+    "1598780": {
+      "appid": 1598780,
+      "name": "Silly Polly Beast",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T09:27:26.219468"
+    },
+    "1599000": {
+      "appid": 1599000,
+      "name": "ARK and ADE",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T09:27:26.972610"
+    },
+    "1599020": {
+      "appid": 1599020,
+      "name": "小眷灵 (Tinykin)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T09:27:27.125928"
+    },
+    "1599070": {
+      "appid": 1599070,
+      "name": "星潜者",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T09:27:27.256716"
+    },
+    "1599330": {
+      "appid": 1599330,
+      "name": "荒原疗者 (Wildmender)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T09:27:28.880881"
+    },
+    "1599470": {
+      "appid": 1599470,
+      "name": "Purrfect Apawcalypse: Patches' Infurno",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T09:27:29.697023"
+    },
+    "1599560": {
+      "appid": 1599560,
+      "name": "Wanderer",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T09:27:30.724601"
+    },
+    "1599600": {
+      "appid": 1599600,
+      "name": "速速上菜！",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T09:27:30.928748"
+    },
+    "1599610": {
+      "appid": 1599610,
+      "name": "Tiny Planet Protectors",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T09:27:31.047127"
+    },
+    "1599660": {
+      "appid": 1599660,
+      "name": "麻布仔大冒险",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T09:27:31.480000"
+    },
+    "1599670": {
+      "appid": 1599670,
+      "name": "Offroad Truck Racing",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T09:27:31.609883"
+    },
+    "1599700": {
+      "appid": 1599700,
+      "name": "Magic Exposure – Yuri Visual Novel",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T09:27:32.015589"
+    },
+    "1599860": {
+      "appid": 1599860,
+      "name": "Vanaris Tactics",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T09:27:32.727068"
+    },
+    "1599880": {
+      "appid": 1599880,
+      "name": "时间猫 (Cats in Time)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T09:27:32.866454"
+    },
+    "1599990": {
+      "appid": 1599990,
+      "name": "天启岛",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T09:27:33.665313"
+    },
+    "1600090": {
+      "appid": 1600090,
+      "name": "Wonderful Girls",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T09:27:34.419394"
+    },
+    "1600370": {
+      "appid": 1600370,
+      "name": "Not Tonight 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T09:27:36.752882"
+    },
+    "1600440": {
+      "appid": 1600440,
+      "name": "Keep looking",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T09:27:36.932948"
+    },
+    "1600810": {
+      "appid": 1600810,
+      "name": "Pixel Speedrun",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T09:27:39.812041"
+    },
+    "1600830": {
+      "appid": 1600830,
+      "name": "Double Shot Gals",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T09:27:40.067434"
+    },
+    "1600870": {
+      "appid": 1600870,
+      "name": "King Bullseye: The Chess Strike",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T09:27:40.342529"
+    },
+    "1600890": {
+      "appid": 1600890,
+      "name": "恶灵退散 Go Back to Hell",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T09:27:40.614026"
+    },
+    "1600900": {
+      "appid": 1600900,
+      "name": "怕不怕趴喵霸霸 Ghost Party Nyanbaba",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T09:27:40.746430"
+    },
+    "1600910": {
+      "appid": 1600910,
+      "name": "Demon's Mirror",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T09:27:40.896652"
     }
   }
 }

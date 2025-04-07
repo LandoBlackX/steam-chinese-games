@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-07T08:57:32.191912"
+    "updated": "2025-04-07T09:27:41.158177"
   },
   "games": {
     "570": {
@@ -78870,6 +78870,62 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-07T08:57:32.190179"
+    },
+    "1597290": {
+      "appid": 1597290,
+      "name": "死亡围城",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T09:27:15.876219"
+    },
+    "1597720": {
+      "appid": 1597720,
+      "name": "Feed All Monsters",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T09:27:19.347099"
+    },
+    "1597730": {
+      "appid": 1597730,
+      "name": "Dogs Organized Neatly",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T09:27:19.600017"
+    },
+    "1599020": {
+      "appid": 1599020,
+      "name": "小眷灵 (Tinykin)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T09:27:27.125928"
+    },
+    "1599330": {
+      "appid": 1599330,
+      "name": "荒原疗者 (Wildmender)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T09:27:28.880881"
+    },
+    "1599880": {
+      "appid": 1599880,
+      "name": "时间猫 (Cats in Time)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T09:27:32.866454"
+    },
+    "1600780": {
+      "appid": 1600780,
+      "name": "《小马宝莉：玛泰湾冒险》",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T09:27:39.668294"
     }
   }
 }
