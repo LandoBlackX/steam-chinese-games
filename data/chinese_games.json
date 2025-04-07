@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-07T06:40:22.910240"
+    "updated": "2025-04-07T06:46:42.850934"
   },
   "games": {
     "570": {
@@ -141384,6 +141384,438 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-04-07T06:40:21.814447"
+    },
+    "1511850": {
+      "appid": 1511850,
+      "name": "Dungeons Of The Deep",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T06:46:15.412235"
+    },
+    "1511870": {
+      "appid": 1511870,
+      "name": "末日竟在我身边 - Zombies Everywhere",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T06:46:15.797629"
+    },
+    "1511880": {
+      "appid": 1511880,
+      "name": "Slime Heroes",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T06:46:15.924751"
+    },
+    "1511970": {
+      "appid": 1511970,
+      "name": "最后的守护者之虚幻的梦",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T06:46:16.580904"
+    },
+    "1512050": {
+      "appid": 1512050,
+      "name": "World Turtles",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T06:46:16.726325"
+    },
+    "1512070": {
+      "appid": 1512070,
+      "name": "VR广岛长崎原子弹1945（简易版）",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T06:46:16.859502"
+    },
+    "1512240": {
+      "appid": 1512240,
+      "name": "记得我",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T06:46:17.720967"
+    },
+    "1512530": {
+      "appid": 1512530,
+      "name": "极限求生",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T06:46:20.082036"
+    },
+    "1512710": {
+      "appid": 1512710,
+      "name": "阿猫阿狗",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T06:46:21.144177"
+    },
+    "1512720": {
+      "appid": 1512720,
+      "name": "明星志愿",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T06:46:21.273410"
+    },
+    "1512750": {
+      "appid": 1512750,
+      "name": "LeHweng LeHweng",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T06:46:21.540845"
+    },
+    "1512790": {
+      "appid": 1512790,
+      "name": "Reach the Summit",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T06:46:22.267550"
+    },
+    "1512830": {
+      "appid": 1512830,
+      "name": "黑巢姐妹",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T06:46:22.762762"
+    },
+    "1512940": {
+      "appid": 1512940,
+      "name": "Malody V",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T06:46:23.571244"
+    },
+    "1513030": {
+      "appid": 1513030,
+      "name": "龙与苍穹之歌",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T06:46:24.085916"
+    },
+    "1513250": {
+      "appid": 1513250,
+      "name": "溪风谷之战(roguelike moba game)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T06:46:25.446861"
+    },
+    "1513310": {
+      "appid": 1513310,
+      "name": "Blockee - Sliding Puzzle",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T06:46:26.024396"
+    },
+    "1513390": {
+      "appid": 1513390,
+      "name": "夏日的回忆",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T06:46:26.660982"
+    },
+    "1513420": {
+      "appid": 1513420,
+      "name": "Escalation!",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T06:46:26.911093"
+    },
+    "1513820": {
+      "appid": 1513820,
+      "name": "御寇三世：星图",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T06:46:30.195960"
+    },
+    "1513860": {
+      "appid": 1513860,
+      "name": "Raptor Territory",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T06:46:30.479336"
+    },
+    "1513940": {
+      "appid": 1513940,
+      "name": "Roadside Assistance Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T06:46:30.879654"
+    },
+    "1514000": {
+      "appid": 1514000,
+      "name": "Anime Holidays",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T06:46:31.238253"
+    },
+    "1514040": {
+      "appid": 1514040,
+      "name": "超世界绿洲",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T06:46:31.648280"
+    },
+    "1514140": {
+      "appid": 1514140,
+      "name": "Cursed Night",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T06:46:32.165876"
+    },
+    "1514280": {
+      "appid": 1514280,
+      "name": "轻点江湖水",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T06:46:33.056685"
+    },
+    "1514300": {
+      "appid": 1514300,
+      "name": "The Tower Of TigerQiuQiu 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T06:46:33.376718"
+    },
+    "1514360": {
+      "appid": 1514360,
+      "name": "摇曳露营△ VIRTUAL CAMP ～本栖湖篇～",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T06:46:33.508670"
+    },
+    "1514370": {
+      "appid": 1514370,
+      "name": "摇曳露营△ VIRTUAL CAMP ～山麓露营场篇～",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T06:46:33.646878"
+    },
+    "1514380": {
+      "appid": 1514380,
+      "name": "COGEN: 大凤羽空与刻之剑",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T06:46:33.774554"
+    },
+    "1514470": {
+      "appid": 1514470,
+      "name": "Feed the Pets Fall Animals",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T06:46:34.284094"
+    },
+    "1514690": {
+      "appid": 1514690,
+      "name": "Peekaboo Lite",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T06:46:35.722023"
+    },
+    "1514740": {
+      "appid": 1514740,
+      "name": "Chaos Road",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T06:46:35.966799"
+    },
+    "1514840": {
+      "appid": 1514840,
+      "name": "All-In-One Sports VR / 多合一运动 VR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T06:46:36.222181"
+    },
+    "1514890": {
+      "appid": 1514890,
+      "name": "VR Shark",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T06:46:36.601441"
+    },
+    "1514930": {
+      "appid": 1514930,
+      "name": "Erica",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T06:46:37.015330"
+    },
+    "1514950": {
+      "appid": 1514950,
+      "name": "Neodash",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T06:46:37.138755"
+    },
+    "1515210": {
+      "appid": 1515210,
+      "name": "The Past Within",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T06:46:38.294366"
+    },
+    "1515230": {
+      "appid": 1515230,
+      "name": "LOLLIPOP!",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T06:46:38.540831"
+    },
+    "1515260": {
+      "appid": 1515260,
+      "name": "Circle Empires Tactics",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T06:46:38.664046"
+    },
+    "1515320": {
+      "appid": 1515320,
+      "name": "丰登之日: 我的梦中农场",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T06:46:39.064010"
+    },
+    "1515370": {
+      "appid": 1515370,
+      "name": "Smuggler Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T06:46:39.178531"
+    },
+    "1515490": {
+      "appid": 1515490,
+      "name": "System Purge",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T06:46:40.060545"
+    },
+    "1515570": {
+      "appid": 1515570,
+      "name": "艾尔西 (Elsie)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T06:46:40.328530"
+    },
+    "1515580": {
+      "appid": 1515580,
+      "name": "Dice Of Olympus",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T06:46:40.453486"
+    },
+    "1515600": {
+      "appid": 1515600,
+      "name": "Space Station Cargo Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T06:46:40.724369"
+    },
+    "1515640": {
+      "appid": 1515640,
+      "name": "酷玩乱斗",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T06:46:40.858755"
+    },
+    "1515730": {
+      "appid": 1515730,
+      "name": "Yellowlooper",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T06:46:41.156399"
+    },
+    "1515740": {
+      "appid": 1515740,
+      "name": "Super Sports Blast",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T06:46:41.299367"
+    },
+    "1515760": {
+      "appid": 1515760,
+      "name": "OP. After-Mass N1",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T06:46:41.544397"
+    },
+    "1515820": {
+      "appid": 1515820,
+      "name": "梦魔之枪",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T06:46:41.797200"
+    },
+    "1515830": {
+      "appid": 1515830,
+      "name": "No.L85",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T06:46:41.920575"
+    },
+    "1515900": {
+      "appid": 1515900,
+      "name": "秘馆疑踪2 / Heaven Dust 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T06:46:42.361584"
+    },
+    "1515950": {
+      "appid": 1515950,
+      "name": "Capcom Arcade Stadium",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T06:46:42.718063"
     }
   }
 }

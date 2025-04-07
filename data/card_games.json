@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-07T06:40:22.910240"
+    "updated": "2025-04-07T06:46:42.850934"
   },
   "games": {
     "570": {
@@ -77894,6 +77894,38 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-07T06:40:14.224512"
+    },
+    "1515230": {
+      "appid": 1515230,
+      "name": "LOLLIPOP!",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T06:46:38.540831"
+    },
+    "1515260": {
+      "appid": 1515260,
+      "name": "Circle Empires Tactics",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T06:46:38.664046"
+    },
+    "1515640": {
+      "appid": 1515640,
+      "name": "酷玩乱斗",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T06:46:40.858755"
+    },
+    "1515950": {
+      "appid": 1515950,
+      "name": "Capcom Arcade Stadium",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T06:46:42.718063"
     }
   }
 }
