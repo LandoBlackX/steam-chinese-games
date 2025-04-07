@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-07T07:58:40.937761"
+    "updated": "2025-04-07T08:05:49.561136"
   },
   "games": {
     "570": {
@@ -78470,6 +78470,86 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-07T07:58:39.967885"
+    },
+    "1571440": {
+      "appid": 1571440,
+      "name": "Lunch Lady",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T08:05:19.933946"
+    },
+    "1571990": {
+      "appid": 1571990,
+      "name": "Galaxy Pass Station",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T08:05:24.065564"
+    },
+    "1573630": {
+      "appid": 1573630,
+      "name": "Choice of Life: Middle Ages 2",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T08:05:34.461231"
+    },
+    "1573750": {
+      "appid": 1573750,
+      "name": "100 hidden mushrooms",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T08:05:35.206608"
+    },
+    "1574250": {
+      "appid": 1574250,
+      "name": "SPOOKWARE",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T08:05:38.237373"
+    },
+    "1574260": {
+      "appid": 1574260,
+      "name": "My Friendly Neighborhood",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T08:05:38.504217"
+    },
+    "1574580": {
+      "appid": 1574580,
+      "name": "Strange Horticulture",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T08:05:41.312128"
+    },
+    "1575450": {
+      "appid": 1575450,
+      "name": "黑暗海妖",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T08:05:46.611255"
+    },
+    "1575470": {
+      "appid": 1575470,
+      "name": "Frogun",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T08:05:46.753968"
+    },
+    "1575830": {
+      "appid": 1575830,
+      "name": "ArcRunner",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T08:05:49.359163"
     }
   }
 }
