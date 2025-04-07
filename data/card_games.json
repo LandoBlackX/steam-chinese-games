@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-07T19:27:42.071462"
+    "updated": "2025-04-07T19:41:00.760606"
   },
   "games": {
     "570": {
@@ -81038,6 +81038,46 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-07T19:27:35.354157"
+    },
+    "1807360": {
+      "appid": 1807360,
+      "name": "Dreadful River",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T19:40:36.760073"
+    },
+    "1807810": {
+      "appid": 1807810,
+      "name": "The Axis Unseen",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T19:40:40.110499"
+    },
+    "1807930": {
+      "appid": 1807930,
+      "name": "Railway Islands - Puzzle",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T19:40:40.403692"
+    },
+    "1808780": {
+      "appid": 1808780,
+      "name": "祖玛少女/Zuma Girls",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T19:40:46.897488"
+    },
+    "1809700": {
+      "appid": 1809700,
+      "name": "女神异闻录３ 携带版",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T19:40:52.783506"
     }
   }
 }
