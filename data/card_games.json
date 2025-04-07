@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-07T14:58:42.378664"
+    "updated": "2025-04-07T15:13:00.968387"
   },
   "games": {
     "570": {
@@ -80078,6 +80078,46 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-07T14:58:39.761600"
+    },
+    "1710540": {
+      "appid": 1710540,
+      "name": "豪猪镇之秋",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T15:12:30.994965"
+    },
+    "1710580": {
+      "appid": 1710580,
+      "name": "MotoGP™22",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T15:12:31.766081"
+    },
+    "1712820": {
+      "appid": 1712820,
+      "name": "Brave Dungeon + Dark Witch's Story : Combat",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T15:12:47.585369"
+    },
+    "1713810": {
+      "appid": 1713810,
+      "name": "深岩破裂者",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T15:12:54.190085"
+    },
+    "1714420": {
+      "appid": 1714420,
+      "name": "Fursan al-Aqsa: 阿克萨清真寺的骑士",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T15:12:59.179954"
     }
   }
 }
