@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-07T20:28:32.512405"
+    "updated": "2025-04-07T20:41:03.484625"
   },
   "games": {
     "570": {
@@ -81190,6 +81190,22 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-04-07T20:28:21.063683"
+    },
+    "1829650": {
+      "appid": 1829650,
+      "name": "在世界与世界的正中央",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T20:40:46.767064"
+    },
+    "1830910": {
+      "appid": 1830910,
+      "name": "Cow Girls",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T20:40:54.391524"
     }
   }
 }
