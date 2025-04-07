@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-07T11:54:02.480803"
+    "updated": "2025-04-07T12:02:15.854194"
   },
   "games": {
     "570": {
@@ -79502,6 +79502,14 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-07T11:53:59.061054"
+    },
+    "1656240": {
+      "appid": 1656240,
+      "name": "My Sexy Waitress",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T12:02:10.636214"
     }
   }
 }
