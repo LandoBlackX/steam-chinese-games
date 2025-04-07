@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-07T15:58:28.639012"
+    "updated": "2025-04-07T16:04:21.917953"
   },
   "games": {
     "570": {
@@ -80438,6 +80438,38 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-04-07T15:58:22.432428"
+    },
+    "1738610": {
+      "appid": 1738610,
+      "name": "First Class Escape: The Train of Thought",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T16:03:52.781510"
+    },
+    "1739880": {
+      "appid": 1739880,
+      "name": "Blood And Zombies",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T16:04:01.922094"
+    },
+    "1739900": {
+      "appid": 1739900,
+      "name": "Death of the Reprobate",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T16:04:02.082613"
+    },
+    "1740310": {
+      "appid": 1740310,
+      "name": "Tiny Witch",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T16:04:06.145526"
     }
   }
 }
