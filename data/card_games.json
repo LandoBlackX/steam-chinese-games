@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-07T09:58:25.904989"
+    "updated": "2025-04-07T10:31:18.312229"
   },
   "games": {
     "570": {
@@ -79190,6 +79190,46 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-07T09:58:24.850411"
+    },
+    "1620520": {
+      "appid": 1620520,
+      "name": "Mondealy",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T10:30:53.344499"
+    },
+    "1620540": {
+      "appid": 1620540,
+      "name": "Pixel Cup Soccer - Ultimate Edition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T10:30:53.503414"
+    },
+    "1622800": {
+      "appid": 1622800,
+      "name": "Super Dungeon DIY - 创造自己的地下城",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T10:31:08.107864"
+    },
+    "1623420": {
+      "appid": 1623420,
+      "name": "Serious Sam: Kamikaze Attack!",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T10:31:12.653095"
+    },
+    "1624060": {
+      "appid": 1624060,
+      "name": "Space for Sale",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T10:31:16.510294"
     }
   }
 }
