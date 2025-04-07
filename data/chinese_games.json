@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-07T04:31:16.657562"
+    "updated": "2025-04-07T04:48:18.521974"
   },
   "games": {
     "570": {
@@ -135656,6 +135656,518 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-07T04:31:16.528194"
+    },
+    "1453790": {
+      "appid": 1453790,
+      "name": "蛇之守望者",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T04:47:45.340366"
+    },
+    "1453840": {
+      "appid": 1453840,
+      "name": "Killer: Infected One of Us",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T04:47:45.653517"
+    },
+    "1453900": {
+      "appid": 1453900,
+      "name": "海鼠诅咒",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T04:47:46.258776"
+    },
+    "1453920": {
+      "appid": 1453920,
+      "name": "圣三国英杰传",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T04:47:46.431545"
+    },
+    "1454000": {
+      "appid": 1454000,
+      "name": "Shattered Heaven",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T04:47:47.470443"
+    },
+    "1454010": {
+      "appid": 1454010,
+      "name": "露西的日记",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T04:47:47.805619"
+    },
+    "1454090": {
+      "appid": 1454090,
+      "name": "数字大军",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T04:47:48.575894"
+    },
+    "1454160": {
+      "appid": 1454160,
+      "name": "One More Island",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T04:47:49.678857"
+    },
+    "1454390": {
+      "appid": 1454390,
+      "name": "The Farm",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T04:47:50.961158"
+    },
+    "1454400": {
+      "appid": 1454400,
+      "name": "Cookie Clicker",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T04:47:51.110065"
+    },
+    "1454490": {
+      "appid": 1454490,
+      "name": "Riot Operator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T04:47:51.770075"
+    },
+    "1454540": {
+      "appid": 1454540,
+      "name": "LAPIN",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T04:47:52.515455"
+    },
+    "1454600": {
+      "appid": 1454600,
+      "name": "Doctor Bunny",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T04:47:53.336313"
+    },
+    "1454650": {
+      "appid": 1454650,
+      "name": "Kanso",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T04:47:53.668397"
+    },
+    "1454730": {
+      "appid": 1454730,
+      "name": "电锯娇娃 / Chenso Club",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T04:47:54.582531"
+    },
+    "1454800": {
+      "appid": 1454800,
+      "name": "Light For Plants",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T04:47:54.818976"
+    },
+    "1454960": {
+      "appid": 1454960,
+      "name": "Dark Sky",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T04:47:55.278519"
+    },
+    "1455070": {
+      "appid": 1455070,
+      "name": "Countess in Crimson",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T04:47:56.147420"
+    },
+    "1455090": {
+      "appid": 1455090,
+      "name": "Good puzzle: Castles",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T04:47:56.454278"
+    },
+    "1455120": {
+      "appid": 1455120,
+      "name": "Pumping Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T04:47:56.856928"
+    },
+    "1455130": {
+      "appid": 1455130,
+      "name": "刺激大富翁",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T04:47:57.016150"
+    },
+    "1455220": {
+      "appid": 1455220,
+      "name": "Succubus Farm",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T04:47:57.550814"
+    },
+    "1455420": {
+      "appid": 1455420,
+      "name": "Choco Pixel S",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T04:47:58.858449"
+    },
+    "1455430": {
+      "appid": 1455430,
+      "name": "Harvest Green",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T04:47:59.100671"
+    },
+    "1455650": {
+      "appid": 1455650,
+      "name": "房间击剑VR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T04:48:00.866244"
+    },
+    "1455840": {
+      "appid": 1455840,
+      "name": "Dorfromantik",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T04:48:02.093397"
+    },
+    "1455910": {
+      "appid": 1455910,
+      "name": "领地：种田与征战",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T04:48:02.566237"
+    },
+    "1455920": {
+      "appid": 1455920,
+      "name": "EQI",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T04:48:02.738006"
+    },
+    "1456000": {
+      "appid": 1456000,
+      "name": "Goodbye Dr. Sanchez",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T04:48:03.116517"
+    },
+    "1456200": {
+      "appid": 1456200,
+      "name": "Initial Drift Online",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T04:48:04.104755"
+    },
+    "1456220": {
+      "appid": 1456220,
+      "name": "Don't Stare",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T04:48:04.251550"
+    },
+    "1456230": {
+      "appid": 1456230,
+      "name": "Cthulhu: Death Escape / 克苏鲁:死亡逃脱 Prototype",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T04:48:04.451553"
+    },
+    "1456380": {
+      "appid": 1456380,
+      "name": "Remote Knights Online",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T04:48:05.438413"
+    },
+    "1456430": {
+      "appid": 1456430,
+      "name": "Human Vs Evil",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T04:48:05.796349"
+    },
+    "1456440": {
+      "appid": 1456440,
+      "name": "Pixel Game Maker Series 兼职炮手 -吐槽佣兵的哀愁-",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T04:48:05.941185"
+    },
+    "1456490": {
+      "appid": 1456490,
+      "name": "Formosa Night Market VR Arcade(by Taiwan)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T04:48:06.439908"
+    },
+    "1456560": {
+      "appid": 1456560,
+      "name": "Dungeon Voxel",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T04:48:06.578067"
+    },
+    "1456570": {
+      "appid": 1456570,
+      "name": "PixelJunk™ Eden 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T04:48:06.708950"
+    },
+    "1456580": {
+      "appid": 1456580,
+      "name": "Set for the Battle",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T04:48:06.863958"
+    },
+    "1456650": {
+      "appid": 1456650,
+      "name": "帕斯卡契约：终极版",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T04:48:07.386149"
+    },
+    "1456760": {
+      "appid": 1456760,
+      "name": "ROBOBEAT",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T04:48:07.810687"
+    },
+    "1456820": {
+      "appid": 1456820,
+      "name": "熔铁少女:Sentinel Girls ",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T04:48:08.267248"
+    },
+    "1456880": {
+      "appid": 1456880,
+      "name": "ElecHead",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T04:48:08.554260"
+    },
+    "1456940": {
+      "appid": 1456940,
+      "name": "盗日求生：撤离",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T04:48:08.980257"
+    },
+    "1457080": {
+      "appid": 1457080,
+      "name": "《搜魔人：英雄联盟传奇™》",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T04:48:09.810674"
+    },
+    "1457220": {
+      "appid": 1457220,
+      "name": "Robin Morningwood Adventure - A gay RPG",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T04:48:10.517365"
+    },
+    "1457320": {
+      "appid": 1457320,
+      "name": "星核工厂Techtonica",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T04:48:10.850766"
+    },
+    "1457430": {
+      "appid": 1457430,
+      "name": "斗罗大陆-王国印记",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T04:48:11.556589"
+    },
+    "1457500": {
+      "appid": 1457500,
+      "name": "时间冻结",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T04:48:12.138380"
+    },
+    "1457510": {
+      "appid": 1457510,
+      "name": "英雄传说 闪之轨迹IV -THE END OF SAGA-",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T04:48:12.295751"
+    },
+    "1457520": {
+      "appid": 1457520,
+      "name": "英雄传说 零之轨迹：改",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T04:48:12.500410"
+    },
+    "1457540": {
+      "appid": 1457540,
+      "name": "美足按摩师",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T04:48:12.640352"
+    },
+    "1457550": {
+      "appid": 1457550,
+      "name": "Melody/心跳旋律",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T04:48:12.804374"
+    },
+    "1457570": {
+      "appid": 1457570,
+      "name": "Taxi Chaos",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T04:48:12.949858"
+    },
+    "1457620": {
+      "appid": 1457620,
+      "name": "幻想三国志",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T04:48:13.383752"
+    },
+    "1457630": {
+      "appid": 1457630,
+      "name": "幻想三国志2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T04:48:13.524232"
+    },
+    "1457640": {
+      "appid": 1457640,
+      "name": "幻想三国志3",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T04:48:13.674379"
+    },
+    "1457650": {
+      "appid": 1457650,
+      "name": "幻想三国志4",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T04:48:13.862512"
+    },
+    "1457660": {
+      "appid": 1457660,
+      "name": "幻想三国志4外传",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T04:48:13.999069"
+    },
+    "1457690": {
+      "appid": 1457690,
+      "name": "矮人与地城",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T04:48:14.233318"
+    },
+    "1457730": {
+      "appid": 1457730,
+      "name": "Farmer's Life: Prologue",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T04:48:14.512906"
+    },
+    "1458100": {
+      "appid": 1458100,
+      "name": "Cozy Grove",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T04:48:16.536465"
+    },
+    "1458140": {
+      "appid": 1458140,
+      "name": "超自然车旅 Pacific Drive",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T04:48:16.688966"
+    },
+    "1458460": {
+      "appid": 1458460,
+      "name": "Island Raft Survival 2021: Ocean Escape",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T04:48:18.296583"
     }
   }
 }
