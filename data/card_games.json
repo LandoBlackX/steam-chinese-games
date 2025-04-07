@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-07T13:11:44.835421"
+    "updated": "2025-04-07T13:18:29.897045"
   },
   "games": {
     "570": {
@@ -79662,6 +79662,38 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-04-07T13:11:44.482454"
+    },
+    "1672970": {
+      "appid": 1672970,
+      "name": "Minecraft Dungeons",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T13:18:04.075258"
+    },
+    "1673630": {
+      "appid": 1673630,
+      "name": "Eternal Evil",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T13:18:08.994192"
+    },
+    "1676130": {
+      "appid": 1676130,
+      "name": "Deadlink",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T13:18:27.037520"
+    },
+    "1676380": {
+      "appid": 1676380,
+      "name": "Kingdom of Atham: Crown of the Champions",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T13:18:28.707561"
     }
   }
 }
