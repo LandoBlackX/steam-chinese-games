@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-07T08:20:03.943976"
+    "updated": "2025-04-07T08:39:54.776246"
   },
   "games": {
     "570": {
@@ -78686,6 +78686,86 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-07T08:20:02.677005"
+    },
+    "1584800": {
+      "appid": 1584800,
+      "name": "Dark Frame",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T08:39:30.363710"
+    },
+    "1585180": {
+      "appid": 1585180,
+      "name": "Drova - Forsaken Kin",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T08:39:33.323211"
+    },
+    "1585440": {
+      "appid": 1585440,
+      "name": "They Always Run",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T08:39:35.532591"
+    },
+    "1585540": {
+      "appid": 1585540,
+      "name": "雪色旅途",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T08:39:36.206681"
+    },
+    "1586750": {
+      "appid": 1586750,
+      "name": "Two Strikes",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T08:39:43.302469"
+    },
+    "1586880": {
+      "appid": 1586880,
+      "name": "Essays on Empathy",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T08:39:44.332988"
+    },
+    "1586960": {
+      "appid": 1586960,
+      "name": "Cute Bite",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T08:39:44.859653"
+    },
+    "1587130": {
+      "appid": 1587130,
+      "name": "Blood West",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T08:39:46.002127"
+    },
+    "1587560": {
+      "appid": 1587560,
+      "name": "100 hidden cats",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T08:39:49.042001"
+    },
+    "1588380": {
+      "appid": 1588380,
+      "name": "Blaster Master Zero 3",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T08:39:54.278441"
     }
   }
 }
