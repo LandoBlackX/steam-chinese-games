@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-07T21:19:46.972881"
+    "updated": "2025-04-07T21:37:20.593194"
   },
   "games": {
     "570": {
@@ -81294,6 +81294,62 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-04-07T21:19:42.197967"
+    },
+    "1841390": {
+      "appid": 1841390,
+      "name": "100 hidden fish",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T21:36:48.195892"
+    },
+    "1843730": {
+      "appid": 1843730,
+      "name": "Last Group Out",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T21:37:08.918149"
+    },
+    "1843840": {
+      "appid": 1843840,
+      "name": "Rogue Point",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T21:37:09.923832"
+    },
+    "1843940": {
+      "appid": 1843940,
+      "name": "Brigandine The Legend of Runersia",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T21:37:10.878128"
+    },
+    "1844130": {
+      "appid": 1844130,
+      "name": "Stellar Orphans",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T21:37:12.288223"
+    },
+    "1844140": {
+      "appid": 1844140,
+      "name": "小丑博物馆剧院",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T21:37:12.466355"
+    },
+    "1844380": {
+      "appid": 1844380,
+      "name": "Warhammer Age of Sigmar: Realms of Ruin",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T21:37:14.567374"
     }
   }
 }
