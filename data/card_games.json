@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-07T06:54:27.445717"
+    "updated": "2025-04-07T06:56:56.390351"
   },
   "games": {
     "570": {
@@ -77966,6 +77966,54 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-07T06:54:26.452320"
+    },
+    "1521810": {
+      "appid": 1521810,
+      "name": "Salamander County Public Television",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T06:56:34.909681"
+    },
+    "1522560": {
+      "appid": 1522560,
+      "name": "100 hidden mice",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T06:56:40.188036"
+    },
+    "1522820": {
+      "appid": 1522820,
+      "name": "Orcs Must Die! 3",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T06:56:42.052788"
+    },
+    "1523370": {
+      "appid": 1523370,
+      "name": "A.D. 2047",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T06:56:45.439397"
+    },
+    "1524530": {
+      "appid": 1524530,
+      "name": "Fantasy Town Regional Manager",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T06:56:51.005778"
+    },
+    "1524750": {
+      "appid": 1524750,
+      "name": "Dude Simulator 4",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T06:56:52.207934"
     }
   }
 }
