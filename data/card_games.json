@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-07T07:51:21.237402"
+    "updated": "2025-04-07T07:58:40.937761"
   },
   "games": {
     "570": {
@@ -78414,6 +78414,62 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-07T07:51:19.573157"
+    },
+    "1567440": {
+      "appid": 1567440,
+      "name": "内饭盒 - inbento",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T07:58:15.690604"
+    },
+    "1568620": {
+      "appid": 1568620,
+      "name": "MetaPhysical",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T07:58:23.626084"
+    },
+    "1569520": {
+      "appid": 1569520,
+      "name": "IRMÃO Grande & Brasileiro 2",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T07:58:28.488764"
+    },
+    "1569590": {
+      "appid": 1569590,
+      "name": "OnlyFuck - RuRu's Adventures",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T07:58:29.156585"
+    },
+    "1570070": {
+      "appid": 1570070,
+      "name": "Beholder 3",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T07:58:32.478841"
+    },
+    "1571170": {
+      "appid": 1571170,
+      "name": "Summer with Mia",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T07:58:39.419543"
+    },
+    "1571220": {
+      "appid": 1571220,
+      "name": "Chessplosion",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T07:58:39.967885"
     }
   }
 }

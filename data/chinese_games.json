@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-07T07:51:21.237402"
+    "updated": "2025-04-07T07:58:40.937761"
   },
   "games": {
     "570": {
@@ -146816,6 +146816,438 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-04-07T07:51:20.975923"
+    },
+    "1567440": {
+      "appid": 1567440,
+      "name": "内饭盒 - inbento",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T07:58:15.690604"
+    },
+    "1567520": {
+      "appid": 1567520,
+      "name": "Blackwind",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:58:16.359613"
+    },
+    "1567670": {
+      "appid": 1567670,
+      "name": "雪国の少女",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:58:17.190599"
+    },
+    "1567800": {
+      "appid": 1567800,
+      "name": "星空列车与白的旅行",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:58:18.191998"
+    },
+    "1567830": {
+      "appid": 1567830,
+      "name": "蛋蛋掌门日志",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:58:18.293975"
+    },
+    "1567890": {
+      "appid": 1567890,
+      "name": "Date Z",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:58:19.018548"
+    },
+    "1567910": {
+      "appid": 1567910,
+      "name": "Brobot",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:58:19.122236"
+    },
+    "1567990": {
+      "appid": 1567990,
+      "name": "The test of beauty | 小姐姐的考验",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:58:19.684094"
+    },
+    "1568010": {
+      "appid": 1568010,
+      "name": "Crescent Overload",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:58:19.784531"
+    },
+    "1568060": {
+      "appid": 1568060,
+      "name": "Killer 19",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:58:20.306830"
+    },
+    "1568460": {
+      "appid": 1568460,
+      "name": "NIOS",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:58:22.005332"
+    },
+    "1568550": {
+      "appid": 1568550,
+      "name": "FIRST",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:58:22.916854"
+    },
+    "1568570": {
+      "appid": 1568570,
+      "name": "Retro Tank Party",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:58:23.170625"
+    },
+    "1568590": {
+      "appid": 1568590,
+      "name": "Goose Goose Duck",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:58:23.386781"
+    },
+    "1568620": {
+      "appid": 1568620,
+      "name": "MetaPhysical",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T07:58:23.626084"
+    },
+    "1568880": {
+      "appid": 1568880,
+      "name": "秘封碎片",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:58:24.307140"
+    },
+    "1568900": {
+      "appid": 1568900,
+      "name": "肉牛养殖计划",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:58:24.522807"
+    },
+    "1568940": {
+      "appid": 1568940,
+      "name": "花妖物语/Flower girl",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:58:24.795773"
+    },
+    "1568970": {
+      "appid": 1568970,
+      "name": "流离归途",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:58:25.107811"
+    },
+    "1569040": {
+      "appid": 1569040,
+      "name": "Football Manager 2022",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:58:25.320715"
+    },
+    "1569090": {
+      "appid": 1569090,
+      "name": "灵动骑士",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:58:25.658447"
+    },
+    "1569200": {
+      "appid": 1569200,
+      "name": "Brewmaster 酿酒大师",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:58:26.981985"
+    },
+    "1569650": {
+      "appid": 1569650,
+      "name": "Palladise Island",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:58:29.406217"
+    },
+    "1569750": {
+      "appid": 1569750,
+      "name": "忍者明：悟",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:58:30.294668"
+    },
+    "1569790": {
+      "appid": 1569790,
+      "name": "魔法师要学治愈魔法",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:58:30.648010"
+    },
+    "1569810": {
+      "appid": 1569810,
+      "name": "四季之春",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:58:30.789681"
+    },
+    "1569920": {
+      "appid": 1569920,
+      "name": "Saphyro",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:58:31.409319"
+    },
+    "1569930": {
+      "appid": 1569930,
+      "name": "仙剑奇侠传五",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:58:31.520017"
+    },
+    "1569970": {
+      "appid": 1569970,
+      "name": "Fireball Wizard",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:58:31.680450"
+    },
+    "1569990": {
+      "appid": 1569990,
+      "name": "Choco Pixel X",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:58:31.925383"
+    },
+    "1570010": {
+      "appid": 1570010,
+      "name": "《远方：涌变暗潮》",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:58:32.145276"
+    },
+    "1570020": {
+      "appid": 1570020,
+      "name": "World's End Club",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:58:32.259289"
+    },
+    "1570050": {
+      "appid": 1570050,
+      "name": "冲击五十关",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:58:32.361198"
+    },
+    "1570070": {
+      "appid": 1570070,
+      "name": "Beholder 3",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T07:58:32.478841"
+    },
+    "1570130": {
+      "appid": 1570130,
+      "name": "GameCreator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:58:32.923224"
+    },
+    "1570150": {
+      "appid": 1570150,
+      "name": "Flowcubes",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:58:33.032464"
+    },
+    "1570200": {
+      "appid": 1570200,
+      "name": "Girls on puzzle 3",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:58:33.270875"
+    },
+    "1570290": {
+      "appid": 1570290,
+      "name": "Hyper Dungeon Crawler",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:58:33.765314"
+    },
+    "1570330": {
+      "appid": 1570330,
+      "name": "西部对决 (West Hunt)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:58:34.093084"
+    },
+    "1570660": {
+      "appid": 1570660,
+      "name": "Medieval Apocalypse",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:58:35.718032"
+    },
+    "1570760": {
+      "appid": 1570760,
+      "name": "变量2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:58:36.486046"
+    },
+    "1570790": {
+      "appid": 1570790,
+      "name": "2D Platformer GAME (Toy Factory)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:58:36.709012"
+    },
+    "1570960": {
+      "appid": 1570960,
+      "name": "格雷的直觉",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:58:37.498527"
+    },
+    "1571010": {
+      "appid": 1571010,
+      "name": "物理世界",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:58:38.065595"
+    },
+    "1571030": {
+      "appid": 1571030,
+      "name": "龙骑战歌",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:58:38.284832"
+    },
+    "1571040": {
+      "appid": 1571040,
+      "name": "恶搞赛车 湿身吧！ Splash To Wild Kids",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:58:38.393905"
+    },
+    "1571100": {
+      "appid": 1571100,
+      "name": "饥饿派画家2：迷失",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:58:38.752961"
+    },
+    "1571140": {
+      "appid": 1571140,
+      "name": "东方十昊狱 ～ Hella Dazzling Hell!!",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:58:39.100269"
+    },
+    "1571160": {
+      "appid": 1571160,
+      "name": "Lost Scavenger",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:58:39.220199"
+    },
+    "1571170": {
+      "appid": 1571170,
+      "name": "Summer with Mia",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T07:58:39.419543"
+    },
+    "1571190": {
+      "appid": 1571190,
+      "name": "Royal Revolt II",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:58:39.640364"
+    },
+    "1571200": {
+      "appid": 1571200,
+      "name": "Project QT",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:58:39.758308"
+    },
+    "1571220": {
+      "appid": 1571220,
+      "name": "Chessplosion",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T07:58:39.967885"
+    },
+    "1571260": {
+      "appid": 1571260,
+      "name": "fault - milestone two side: below",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:58:40.227383"
     }
   }
 }
