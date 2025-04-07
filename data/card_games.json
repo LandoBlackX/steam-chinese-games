@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-07T15:29:03.455612"
+    "updated": "2025-04-07T15:45:22.647235"
   },
   "games": {
     "570": {
@@ -80198,6 +80198,86 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-07T15:29:01.433271"
+    },
+    "1724050": {
+      "appid": 1724050,
+      "name": "Furry Shades of Gay 2: A Shade Gayer",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T15:44:53.255630"
+    },
+    "1724140": {
+      "appid": 1724140,
+      "name": "Craftomation 101: Programming & Craft",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T15:44:54.516639"
+    },
+    "1724390": {
+      "appid": 1724390,
+      "name": "Power Chord",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T15:44:56.257510"
+    },
+    "1724770": {
+      "appid": 1724770,
+      "name": "炼金要塞 Castle Of Alchemists",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T15:44:59.102548"
+    },
+    "1725340": {
+      "appid": 1725340,
+      "name": "伊莉丝：深渊洄光",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T15:45:01.366544"
+    },
+    "1725640": {
+      "appid": 1725640,
+      "name": "Sudocats",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T15:45:03.244936"
+    },
+    "1726190": {
+      "appid": 1726190,
+      "name": "No Straight Roads: Encore Edition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T15:45:07.079372"
+    },
+    "1726750": {
+      "appid": 1726750,
+      "name": "Hidden Cats in Santa's Realm",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T15:45:11.794618"
+    },
+    "1726760": {
+      "appid": 1726760,
+      "name": "Curse Crackers: For Whom the Belle Toils",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T15:45:11.962486"
+    },
+    "1727270": {
+      "appid": 1727270,
+      "name": "Murderous Muses",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T15:45:15.064953"
     }
   }
 }
