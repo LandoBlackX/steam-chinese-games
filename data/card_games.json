@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-07T12:02:15.854194"
+    "updated": "2025-04-07T12:41:31.527138"
   },
   "games": {
     "570": {
@@ -79510,6 +79510,62 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-07T12:02:10.636214"
+    },
+    "1658040": {
+      "appid": 1658040,
+      "name": "我是未来：悠闲末日生活",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T12:41:03.866816"
+    },
+    "1659210": {
+      "appid": 1659210,
+      "name": "Uninvited Guest",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T12:41:11.649771"
+    },
+    "1659600": {
+      "appid": 1659600,
+      "name": "Teenage Mutant Ninja Turtles: The Cowabunga Collection",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T12:41:14.507336"
+    },
+    "1659800": {
+      "appid": 1659800,
+      "name": "Sweet House",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T12:41:15.507506"
+    },
+    "1660280": {
+      "appid": 1660280,
+      "name": "H-Isekai Loves",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T12:41:18.253660"
+    },
+    "1660290": {
+      "appid": 1660290,
+      "name": "魔物娘竞技场",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T12:41:18.398057"
+    },
+    "1660840": {
+      "appid": 1660840,
+      "name": "Wild Bastards",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T12:41:21.501328"
     }
   }
 }
