@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-07T18:11:58.047998"
+    "updated": "2025-04-07T18:36:28.572453"
   },
   "games": {
     "570": {
@@ -80870,6 +80870,46 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-07T18:11:37.954359"
+    },
+    "1785000": {
+      "appid": 1785000,
+      "name": "莫科科 X",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T18:36:01.247700"
+    },
+    "1785120": {
+      "appid": 1785120,
+      "name": "Forsake: Urban horror",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T18:36:01.956621"
+    },
+    "1785910": {
+      "appid": 1785910,
+      "name": "SBK™22",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T18:36:06.949673"
+    },
+    "1786230": {
+      "appid": 1786230,
+      "name": "Breakers Collection",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T18:36:09.127548"
+    },
+    "1787480": {
+      "appid": 1787480,
+      "name": "Metro Simulator 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T18:36:19.396313"
     }
   }
 }
