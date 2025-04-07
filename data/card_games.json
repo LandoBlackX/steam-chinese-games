@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-07T09:45:22.622191"
+    "updated": "2025-04-07T09:58:25.904989"
   },
   "games": {
     "570": {
@@ -79134,6 +79134,62 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-07T09:45:13.541202"
+    },
+    "1615060": {
+      "appid": 1615060,
+      "name": "Yummy Girl",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T09:58:01.336377"
+    },
+    "1615290": {
+      "appid": 1615290,
+      "name": "Ravenous Devils",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T09:58:01.928315"
+    },
+    "1617220": {
+      "appid": 1617220,
+      "name": "Thirsty Suitors",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T09:58:10.256903"
+    },
+    "1617270": {
+      "appid": 1617270,
+      "name": "The Faraway Land",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T09:58:10.523726"
+    },
+    "1619230": {
+      "appid": 1619230,
+      "name": "The Star Named EOS：未晓星程",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T09:58:21.701454"
+    },
+    "1619570": {
+      "appid": 1619570,
+      "name": "狂飙之路：卡牌竞逐",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T09:58:23.920689"
+    },
+    "1619750": {
+      "appid": 1619750,
+      "name": "Karryn's Prison",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T09:58:24.850411"
     }
   }
 }
