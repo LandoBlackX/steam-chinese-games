@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-07T06:37:51.041976"
+    "updated": "2025-04-07T06:40:22.910240"
   },
   "games": {
     "570": {
@@ -77846,6 +77846,54 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-07T06:37:43.023659"
+    },
+    "1507580": {
+      "appid": 1507580,
+      "name": "Enigma of Fear",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T06:39:48.922038"
+    },
+    "1507720": {
+      "appid": 1507720,
+      "name": "童话森林",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T06:39:50.891750"
+    },
+    "1508170": {
+      "appid": 1508170,
+      "name": "Magical Waifus Academy",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T06:39:55.054193"
+    },
+    "1508680": {
+      "appid": 1508680,
+      "name": "爱与战争：天选将军",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T06:40:00.084373"
+    },
+    "1509230": {
+      "appid": 1509230,
+      "name": "Prop Hunt",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T06:40:04.457345"
+    },
+    "1510580": {
+      "appid": 1510580,
+      "name": "Toy Tinker Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T06:40:14.224512"
     }
   }
 }

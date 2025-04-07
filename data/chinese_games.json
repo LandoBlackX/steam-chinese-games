@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-07T06:37:51.041976"
+    "updated": "2025-04-07T06:40:22.910240"
   },
   "games": {
     "570": {
@@ -140896,6 +140896,494 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-04-07T06:37:50.467852"
+    },
+    "1507600": {
+      "appid": 1507600,
+      "name": "Tail Trail",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T06:39:49.385727"
+    },
+    "1507620": {
+      "appid": 1507620,
+      "name": "ENDO",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T06:39:49.651474"
+    },
+    "1507710": {
+      "appid": 1507710,
+      "name": "Childkin: Tiny Adventures",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T06:39:50.630260"
+    },
+    "1507720": {
+      "appid": 1507720,
+      "name": "童话森林",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T06:39:50.891750"
+    },
+    "1507780": {
+      "appid": 1507780,
+      "name": "Space Warlord Organ Trading Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T06:39:51.833306"
+    },
+    "1507970": {
+      "appid": 1507970,
+      "name": "文字游戏：第零章",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T06:39:53.771351"
+    },
+    "1507980": {
+      "appid": 1507980,
+      "name": "Leap of Love - Safe Edition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T06:39:53.909268"
+    },
+    "1508200": {
+      "appid": 1508200,
+      "name": "赛博骑手",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T06:39:55.367478"
+    },
+    "1508270": {
+      "appid": 1508270,
+      "name": "Doctor Who: The Lonely Assassins",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T06:39:56.216142"
+    },
+    "1508360": {
+      "appid": 1508360,
+      "name": "Town Of The Dead Life 死寂之城",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T06:39:56.893496"
+    },
+    "1508400": {
+      "appid": 1508400,
+      "name": "Kaiju Wars",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T06:39:57.198123"
+    },
+    "1508410": {
+      "appid": 1508410,
+      "name": "Pirate of Madagascar Island",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T06:39:57.390997"
+    },
+    "1508430": {
+      "appid": 1508430,
+      "name": "Kemono Mahjong",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T06:39:57.663950"
+    },
+    "1508570": {
+      "appid": 1508570,
+      "name": "Summer~乡间性活~",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T06:39:58.957550"
+    },
+    "1508620": {
+      "appid": 1508620,
+      "name": "AV Company | AV会社大冒险",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T06:39:59.111163"
+    },
+    "1508630": {
+      "appid": 1508630,
+      "name": "星之旋律 梦美梦战士",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T06:39:59.248393"
+    },
+    "1508650": {
+      "appid": 1508650,
+      "name": "正宗台灣十六張麻將",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T06:39:59.636018"
+    },
+    "1508660": {
+      "appid": 1508660,
+      "name": "正宗台灣十六張麻將2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T06:39:59.781324"
+    },
+    "1508670": {
+      "appid": 1508670,
+      "name": "正宗台湾十六张麻将3",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T06:39:59.936892"
+    },
+    "1508680": {
+      "appid": 1508680,
+      "name": "爱与战争：天选将军",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T06:40:00.084373"
+    },
+    "1508740": {
+      "appid": 1508740,
+      "name": "轩辕剑贰",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T06:40:00.234262"
+    },
+    "1508750": {
+      "appid": 1508750,
+      "name": "轩辕剑外传 枫之舞",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T06:40:00.409497"
+    },
+    "1508840": {
+      "appid": 1508840,
+      "name": "Great Exploration VR: New Colony beyond Viking Raiders",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T06:40:00.972926"
+    },
+    "1508900": {
+      "appid": 1508900,
+      "name": "麻将学院",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T06:40:01.560375"
+    },
+    "1508920": {
+      "appid": 1508920,
+      "name": "Coffee flavor of love 咖啡甜恋",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T06:40:01.734322"
+    },
+    "1508960": {
+      "appid": 1508960,
+      "name": "Warage",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T06:40:02.019463"
+    },
+    "1509040": {
+      "appid": 1509040,
+      "name": "貓耳萌妹饲育日记",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T06:40:02.619822"
+    },
+    "1509090": {
+      "appid": 1509090,
+      "name": "Seek Girl Ⅷ",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T06:40:03.327124"
+    },
+    "1509150": {
+      "appid": 1509150,
+      "name": "圣空",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T06:40:03.788737"
+    },
+    "1509230": {
+      "appid": 1509230,
+      "name": "Prop Hunt",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T06:40:04.457345"
+    },
+    "1509450": {
+      "appid": 1509450,
+      "name": "Elysium Above 履云录",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T06:40:05.444967"
+    },
+    "1509510": {
+      "appid": 1509510,
+      "name": "部落幸存者",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T06:40:05.763227"
+    },
+    "1509520": {
+      "appid": 1509520,
+      "name": "White Girl",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T06:40:05.909441"
+    },
+    "1509660": {
+      "appid": 1509660,
+      "name": "重生战士",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T06:40:06.844765"
+    },
+    "1509780": {
+      "appid": 1509780,
+      "name": "Bombagun",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T06:40:08.108329"
+    },
+    "1509790": {
+      "appid": 1509790,
+      "name": "The Other: Rosie's Road of Love",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T06:40:08.250265"
+    },
+    "1509970": {
+      "appid": 1509970,
+      "name": "天朝上国:序言",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T06:40:10.214209"
+    },
+    "1510010": {
+      "appid": 1510010,
+      "name": "《述梦》",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T06:40:10.391954"
+    },
+    "1510030": {
+      "appid": 1510030,
+      "name": "Knights College -骑士学院-",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T06:40:10.528156"
+    },
+    "1510150": {
+      "appid": 1510150,
+      "name": "Survival Draw",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T06:40:11.199976"
+    },
+    "1510370": {
+      "appid": 1510370,
+      "name": "MADE VR : Interactive Movie - 01. Run away!",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T06:40:12.590321"
+    },
+    "1510440": {
+      "appid": 1510440,
+      "name": "蜂巢：异星物语",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T06:40:13.250407"
+    },
+    "1510460": {
+      "appid": 1510460,
+      "name": "Chicken Invaders Universe",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T06:40:13.615674"
+    },
+    "1510470": {
+      "appid": 1510470,
+      "name": "PRIM",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T06:40:13.788565"
+    },
+    "1510520": {
+      "appid": 1510520,
+      "name": "Immune Simulator Type Z",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T06:40:13.934161"
+    },
+    "1510570": {
+      "appid": 1510570,
+      "name": "Toy Tinker Simulator: Prologue",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T06:40:14.062881"
+    },
+    "1510580": {
+      "appid": 1510580,
+      "name": "Toy Tinker Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T06:40:14.224512"
+    },
+    "1510600": {
+      "appid": 1510600,
+      "name": "Anime Arena: Infinite War",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T06:40:14.580901"
+    },
+    "1510720": {
+      "appid": 1510720,
+      "name": "Hajji Tours",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T06:40:15.552815"
+    },
+    "1510810": {
+      "appid": 1510810,
+      "name": "卡通魔法世界",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T06:40:16.282624"
+    },
+    "1510860": {
+      "appid": 1510860,
+      "name": "Out of Sight",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T06:40:16.714225"
+    },
+    "1510880": {
+      "appid": 1510880,
+      "name": "Hentai GIF Puzzle X",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T06:40:16.874376"
+    },
+    "1510930": {
+      "appid": 1510930,
+      "name": "CYBER EMOJI TALE 2099",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T06:40:17.389648"
+    },
+    "1511000": {
+      "appid": 1511000,
+      "name": "积木倒了",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T06:40:17.769027"
+    },
+    "1511280": {
+      "appid": 1511280,
+      "name": "Dread Days",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T06:40:19.506495"
+    },
+    "1511310": {
+      "appid": 1511310,
+      "name": "数值魔王猫",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T06:40:19.649359"
+    },
+    "1511320": {
+      "appid": 1511320,
+      "name": "心灵噩梦",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T06:40:19.787243"
+    },
+    "1511360": {
+      "appid": 1511360,
+      "name": "飞花令 春饼",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T06:40:20.109644"
+    },
+    "1511460": {
+      "appid": 1511460,
+      "name": "InfraSpace",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T06:40:20.745369"
+    },
+    "1511480": {
+      "appid": 1511480,
+      "name": "AlterLife",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T06:40:20.893970"
+    },
+    "1511610": {
+      "appid": 1511610,
+      "name": "Gang wars",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T06:40:21.814447"
     }
   }
 }
