@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-07T05:30:14.271050"
+    "updated": "2025-04-07T05:32:22.822286"
   },
   "games": {
     "570": {
@@ -77502,6 +77502,94 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-07T05:30:11.142129"
+    },
+    "1477020": {
+      "appid": 1477020,
+      "name": "Wordle 4",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T05:31:47.175322"
+    },
+    "1477060": {
+      "appid": 1477060,
+      "name": "Among Ass",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T05:31:47.922507"
+    },
+    "1477330": {
+      "appid": 1477330,
+      "name": "魂之归宿",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T05:31:50.546627"
+    },
+    "1477770": {
+      "appid": 1477770,
+      "name": "触尾少女",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T05:31:53.838405"
+    },
+    "1478160": {
+      "appid": 1478160,
+      "name": "咸鱼喵喵",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T05:31:57.713135"
+    },
+    "1478540": {
+      "appid": 1478540,
+      "name": "神佑释放",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T05:32:01.962015"
+    },
+    "1478650": {
+      "appid": 1478650,
+      "name": "Diggles: The Myth of Fenris",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T05:32:03.027918"
+    },
+    "1479140": {
+      "appid": 1479140,
+      "name": "AK-xolotl: Together",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T05:32:07.401648"
+    },
+    "1479730": {
+      "appid": 1479730,
+      "name": "Commandos: Origins",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T05:32:10.556999"
+    },
+    "1480120": {
+      "appid": 1480120,
+      "name": "100 hidden eternals",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T05:32:14.819203"
+    },
+    "1480370": {
+      "appid": 1480370,
+      "name": "Love Puzzle",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T05:32:16.881675"
     }
   }
 }
