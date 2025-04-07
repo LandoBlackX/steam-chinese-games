@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-07T05:41:35.907769"
+    "updated": "2025-04-07T05:45:29.504897"
   },
   "games": {
     "570": {
@@ -77622,6 +77622,54 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-04-07T05:41:30.766131"
+    },
+    "1485590": {
+      "appid": 1485590,
+      "name": "ENDLESS™ Dungeon (无尽地牢)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T05:44:57.924765"
+    },
+    "1485690": {
+      "appid": 1485690,
+      "name": "药剂大亨 - Potion Tycoon",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T05:44:59.179682"
+    },
+    "1486630": {
+      "appid": 1486630,
+      "name": "Intravenous",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T05:45:04.620754"
+    },
+    "1487430": {
+      "appid": 1487430,
+      "name": "夜色",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T05:45:11.681246"
+    },
+    "1488430": {
+      "appid": 1488430,
+      "name": "油尽航行",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T05:45:19.074203"
+    },
+    "1488810": {
+      "appid": 1488810,
+      "name": "Rabbit Hole",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T05:45:21.986127"
     }
   }
 }

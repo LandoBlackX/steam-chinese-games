@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-07T05:41:35.907769"
+    "updated": "2025-04-07T05:45:29.504897"
   },
   "games": {
     "570": {
@@ -138584,6 +138584,446 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-04-07T05:41:35.906164"
+    },
+    "1485590": {
+      "appid": 1485590,
+      "name": "ENDLESS™ Dungeon (无尽地牢)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T05:44:57.924765"
+    },
+    "1485690": {
+      "appid": 1485690,
+      "name": "药剂大亨 - Potion Tycoon",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T05:44:59.179682"
+    },
+    "1485730": {
+      "appid": 1485730,
+      "name": "Dash Hale",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T05:44:59.331849"
+    },
+    "1485870": {
+      "appid": 1485870,
+      "name": "Evil Inside - Prologue",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T05:44:59.584804"
+    },
+    "1485940": {
+      "appid": 1485940,
+      "name": "CATTCH",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T05:44:59.883202"
+    },
+    "1485980": {
+      "appid": 1485980,
+      "name": "Orpheus: Fall For Eurydice",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T05:45:00.266219"
+    },
+    "1486140": {
+      "appid": 1486140,
+      "name": "Microcosmum 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T05:45:01.719626"
+    },
+    "1486330": {
+      "appid": 1486330,
+      "name": "VR探索梅西爾",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T05:45:02.907477"
+    },
+    "1486430": {
+      "appid": 1486430,
+      "name": "约会模拟器：原型",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T05:45:03.669582"
+    },
+    "1486440": {
+      "appid": 1486440,
+      "name": "Graze Counter GM",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T05:45:03.830701"
+    },
+    "1486450": {
+      "appid": 1486450,
+      "name": "The Lonesome Guild",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T05:45:03.965887"
+    },
+    "1486540": {
+      "appid": 1486540,
+      "name": "VR Skydiving",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T05:45:04.241226"
+    },
+    "1486690": {
+      "appid": 1486690,
+      "name": "雪中花",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T05:45:05.006524"
+    },
+    "1486750": {
+      "appid": 1486750,
+      "name": "传奇世界之仗剑天涯H5",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T05:45:05.539883"
+    },
+    "1486890": {
+      "appid": 1486890,
+      "name": "Mini Slide - Animal Race",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T05:45:06.463587"
+    },
+    "1486900": {
+      "appid": 1486900,
+      "name": "18 ЕСТЬ?",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T05:45:06.593160"
+    },
+    "1486920": {
+      "appid": 1486920,
+      "name": "Tempest Rising",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T05:45:06.846931"
+    },
+    "1486980": {
+      "appid": 1486980,
+      "name": "灵钟",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T05:45:07.416781"
+    },
+    "1487060": {
+      "appid": 1487060,
+      "name": "Locksmith Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T05:45:07.991754"
+    },
+    "1487160": {
+      "appid": 1487160,
+      "name": "Ultimate Battle",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T05:45:09.128813"
+    },
+    "1487220": {
+      "appid": 1487220,
+      "name": "Carrot&Islands™",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T05:45:09.878159"
+    },
+    "1487270": {
+      "appid": 1487270,
+      "name": "最后指令",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T05:45:10.347273"
+    },
+    "1487390": {
+      "appid": 1487390,
+      "name": "ANVIL",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T05:45:11.257917"
+    },
+    "1487430": {
+      "appid": 1487430,
+      "name": "夜色",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T05:45:11.681246"
+    },
+    "1487440": {
+      "appid": 1487440,
+      "name": "Live Labyrinth",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T05:45:11.924053"
+    },
+    "1487450": {
+      "appid": 1487450,
+      "name": "迷禁 Lost in Abyss",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T05:45:12.066322"
+    },
+    "1487480": {
+      "appid": 1487480,
+      "name": "锦鲤乐园",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T05:45:12.476119"
+    },
+    "1487520": {
+      "appid": 1487520,
+      "name": "蘑菇的冒险 MoGu's Adventure",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T05:45:12.611395"
+    },
+    "1487570": {
+      "appid": 1487570,
+      "name": "Far North Survival",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T05:45:12.964048"
+    },
+    "1487590": {
+      "appid": 1487590,
+      "name": "吉原彼岸花",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T05:45:13.124505"
+    },
+    "1487610": {
+      "appid": 1487610,
+      "name": "ISLAND MIRRORGE VR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T05:45:13.264689"
+    },
+    "1487680": {
+      "appid": 1487680,
+      "name": "Broken Universe - Tower Defense",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T05:45:13.910377"
+    },
+    "1487730": {
+      "appid": 1487730,
+      "name": "Carperation",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T05:45:14.189105"
+    },
+    "1487870": {
+      "appid": 1487870,
+      "name": "Putin kills: Christmas",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T05:45:15.696928"
+    },
+    "1487900": {
+      "appid": 1487900,
+      "name": "Beastie Land: Fast-Paced 2D Platformer Adventure",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T05:45:15.848789"
+    },
+    "1487970": {
+      "appid": 1487970,
+      "name": "Velarune",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T05:45:16.127076"
+    },
+    "1487990": {
+      "appid": 1487990,
+      "name": "Relax Memory Game",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T05:45:16.260705"
+    },
+    "1488200": {
+      "appid": 1488200,
+      "name": "战争交响曲：尼菲林传奇",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T05:45:17.960904"
+    },
+    "1488250": {
+      "appid": 1488250,
+      "name": "幻想啟示錄",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T05:45:18.519622"
+    },
+    "1488310": {
+      "appid": 1488310,
+      "name": "Renown",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T05:45:18.654542"
+    },
+    "1488400": {
+      "appid": 1488400,
+      "name": "山海化妖绘卷",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T05:45:18.937172"
+    },
+    "1488430": {
+      "appid": 1488430,
+      "name": "油尽航行",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T05:45:19.074203"
+    },
+    "1488490": {
+      "appid": 1488490,
+      "name": "尼瓦利斯（Nivalis）",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T05:45:19.334706"
+    },
+    "1488650": {
+      "appid": 1488650,
+      "name": "Velocity Noodle",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T05:45:20.586412"
+    },
+    "1488700": {
+      "appid": 1488700,
+      "name": "歌舞表演4卡",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T05:45:20.888124"
+    },
+    "1488810": {
+      "appid": 1488810,
+      "name": "Rabbit Hole",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T05:45:21.986127"
+    },
+    "1489290": {
+      "appid": 1489290,
+      "name": "骰子魔塔：光辉王女",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T05:45:24.766180"
+    },
+    "1489310": {
+      "appid": 1489310,
+      "name": "亡灵都市",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T05:45:25.214013"
+    },
+    "1489330": {
+      "appid": 1489330,
+      "name": "Tower Defence Hero - 塔防英雄",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T05:45:25.471455"
+    },
+    "1489390": {
+      "appid": 1489390,
+      "name": "Lost Angel",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T05:45:26.317506"
+    },
+    "1489410": {
+      "appid": 1489410,
+      "name": "寻找爱丽丝！",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T05:45:26.730108"
+    },
+    "1489470": {
+      "appid": 1489470,
+      "name": "看见飘扬的斗篷了吗",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T05:45:26.867382"
+    },
+    "1489520": {
+      "appid": 1489520,
+      "name": "Gun-REViper",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T05:45:27.802927"
+    },
+    "1489590": {
+      "appid": 1489590,
+      "name": "Astronite",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T05:45:28.025046"
+    },
+    "1489630": {
+      "appid": 1489630,
+      "name": "Carrier Command 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T05:45:28.702921"
     }
   }
 }
