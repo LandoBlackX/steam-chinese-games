@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-07T06:56:56.390351"
+    "updated": "2025-04-07T07:01:09.533129"
   },
   "games": {
     "570": {
@@ -78014,6 +78014,30 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-04-07T06:56:52.207934"
+    },
+    "1528220": {
+      "appid": 1528220,
+      "name": "Gordian Rooms 2: A curious island",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T07:00:56.960334"
+    },
+    "1529220": {
+      "appid": 1529220,
+      "name": "块宝对对碰 / Block'Em!",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T07:01:03.541268"
+    },
+    "1530160": {
+      "appid": 1530160,
+      "name": "数码宝贝世界 -next 0rder-",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T07:01:08.611855"
     }
   }
 }
