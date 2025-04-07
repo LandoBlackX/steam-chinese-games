@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-07T15:17:55.776795"
+    "updated": "2025-04-07T15:29:03.455612"
   },
   "games": {
     "570": {
@@ -80166,6 +80166,38 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-07T15:17:47.704728"
+    },
+    "1719460": {
+      "appid": 1719460,
+      "name": "My Furry Dictator 🐾",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T15:28:33.558587"
+    },
+    "1719660": {
+      "appid": 1719660,
+      "name": "\"我可爱的魅魔 / My Cute Succubus",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T15:28:35.611453"
+    },
+    "1721530": {
+      "appid": 1721530,
+      "name": "The Captain",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T15:28:49.407656"
+    },
+    "1723530": {
+      "appid": 1723530,
+      "name": "Stones Keeper",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T15:29:01.433271"
     }
   }
 }
