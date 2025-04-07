@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-07T08:05:49.561136"
+    "updated": "2025-04-07T08:09:07.390046"
   },
   "games": {
     "570": {
@@ -78550,6 +78550,94 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-07T08:05:49.359163"
+    },
+    "1575870": {
+      "appid": 1575870,
+      "name": "UpGun",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T08:08:35.859448"
+    },
+    "1575940": {
+      "appid": 1575940,
+      "name": "Sins of a Solar Empire II",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T08:08:36.749871"
+    },
+    "1575980": {
+      "appid": 1575980,
+      "name": "始于谎言的夏日恋情",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T08:08:37.379297"
+    },
+    "1576280": {
+      "appid": 1576280,
+      "name": "佳片相约——电影制片厂大亨",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T08:08:40.295045"
+    },
+    "1576370": {
+      "appid": 1576370,
+      "name": "REPLIKATOR",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T08:08:40.831978"
+    },
+    "1577620": {
+      "appid": 1577620,
+      "name": "信号法则 The Signal State",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T08:08:51.156464"
+    },
+    "1578220": {
+      "appid": 1578220,
+      "name": "毛茸茸的先生: 火辣肌肉",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T08:08:55.688000"
+    },
+    "1578650": {
+      "appid": 1578650,
+      "name": "深空梦里人",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T08:08:58.613388"
+    },
+    "1579380": {
+      "appid": 1579380,
+      "name": "Shadow Tactics: 爱子的选择 Aiko's Choice",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T08:09:04.158659"
+    },
+    "1579660": {
+      "appid": 1579660,
+      "name": "飞龙勇士",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T08:09:05.369579"
+    },
+    "1579880": {
+      "appid": 1579880,
+      "name": "The Light Brigade",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T08:09:06.706686"
     }
   }
 }
