@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-07T22:34:48.922529"
+    "updated": "2025-04-07T22:47:36.028481"
   },
   "games": {
     "570": {
@@ -81486,6 +81486,46 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-04-07T22:34:46.266899"
+    },
+    "1859290": {
+      "appid": 1859290,
+      "name": "挖矿大亨模拟器 Crypto Miner Tycoon Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T22:47:12.383623"
+    },
+    "1861440": {
+      "appid": 1861440,
+      "name": "CLeM",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T22:47:25.231888"
+    },
+    "1861490": {
+      "appid": 1861490,
+      "name": "My Furry Teacher 🐾",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T22:47:25.694578"
+    },
+    "1861970": {
+      "appid": 1861970,
+      "name": "毛茸茸的先生",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T22:47:27.440223"
+    },
+    "1863080": {
+      "appid": 1863080,
+      "name": "Beat Invaders",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T22:47:34.462179"
     }
   }
 }
