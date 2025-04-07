@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-07T13:56:07.200329"
+    "updated": "2025-04-07T14:01:25.718091"
   },
   "games": {
     "570": {
@@ -79838,6 +79838,54 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-07T13:56:06.831517"
+    },
+    "1684670": {
+      "appid": 1684670,
+      "name": "Best Forklift Operator",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T14:00:50.635790"
+    },
+    "1685460": {
+      "appid": 1685460,
+      "name": "A列车：开始吧 观光开发计划",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T14:00:55.186739"
+    },
+    "1685730": {
+      "appid": 1685730,
+      "name": "Cynthia: Hidden in the Moonshadow",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T14:00:57.210332"
+    },
+    "1685750": {
+      "appid": 1685750,
+      "name": "Capcom Fighting Collection",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T14:00:57.527481"
+    },
+    "1687950": {
+      "appid": 1687950,
+      "name": "女神异闻录5皇家版",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T14:01:19.734444"
+    },
+    "1688580": {
+      "appid": 1688580,
+      "name": "A YEAR OF SPRINGS",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T14:01:25.412963"
     }
   }
 }
