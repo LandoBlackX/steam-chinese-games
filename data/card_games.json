@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-07T05:32:22.822286"
+    "updated": "2025-04-07T05:41:35.907769"
   },
   "games": {
     "570": {
@@ -77590,6 +77590,38 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-04-07T05:32:16.881675"
+    },
+    "1482380": {
+      "appid": 1482380,
+      "name": "Maniac",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T05:41:14.813948"
+    },
+    "1482750": {
+      "appid": 1482750,
+      "name": "Waves of Steel",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T05:41:18.445071"
+    },
+    "1483870": {
+      "appid": 1483870,
+      "name": "Draw & Guess - 你画我猜",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T05:41:26.662152"
+    },
+    "1484720": {
+      "appid": 1484720,
+      "name": "Dead Estate",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T05:41:30.766131"
     }
   }
 }
