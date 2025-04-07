@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-07T09:27:41.158177"
+    "updated": "2025-04-07T09:29:24.621403"
   },
   "games": {
     "570": {
@@ -78926,6 +78926,78 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-04-07T09:27:39.668294"
+    },
+    "1601280": {
+      "appid": 1601280,
+      "name": "废墟上绽放的土豆花",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T09:29:02.693181"
+    },
+    "1601580": {
+      "appid": 1601580,
+      "name": "冰汽时代2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T09:29:03.844265"
+    },
+    "1602010": {
+      "appid": 1602010,
+      "name": "女神异闻录4 无敌究极后桥背摔",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T09:29:07.057448"
+    },
+    "1603410": {
+      "appid": 1603410,
+      "name": "Lost Nova",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T09:29:14.368453"
+    },
+    "1603640": {
+      "appid": 1603640,
+      "name": "The House of Da Vinci 3",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T09:29:15.678065"
+    },
+    "1604000": {
+      "appid": 1604000,
+      "name": "Milk outside a bag of milk outside a bag of milk",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T09:29:17.863626"
+    },
+    "1604250": {
+      "appid": 1604250,
+      "name": "Tortuga - A Pirate's Tale",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T09:29:19.205794"
+    },
+    "1604380": {
+      "appid": 1604380,
+      "name": "常轨脱离Creative",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T09:29:20.064260"
+    },
+    "1605220": {
+      "appid": 1605220,
+      "name": "Dune: Spice Wars",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T09:29:23.864584"
     }
   }
 }

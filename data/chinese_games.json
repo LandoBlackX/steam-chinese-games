@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-07T09:27:41.158177"
+    "updated": "2025-04-07T09:29:24.621403"
   },
   "games": {
     "570": {
@@ -150368,6 +150368,438 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-04-07T09:27:40.896652"
+    },
+    "1600980": {
+      "appid": 1600980,
+      "name": "MONSTER SLAYER",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T09:29:00.741287"
+    },
+    "1601190": {
+      "appid": 1601190,
+      "name": "Ultimate Demolition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T09:29:02.200720"
+    },
+    "1601280": {
+      "appid": 1601280,
+      "name": "废墟上绽放的土豆花",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T09:29:02.693181"
+    },
+    "1601320": {
+      "appid": 1601320,
+      "name": "Leshy",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T09:29:02.791933"
+    },
+    "1601330": {
+      "appid": 1601330,
+      "name": "Survival Machine",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T09:29:02.894369"
+    },
+    "1601340": {
+      "appid": 1601340,
+      "name": "厕所惊魂记",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T09:29:03.013905"
+    },
+    "1601570": {
+      "appid": 1601570,
+      "name": "多重人生",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T09:29:03.707118"
+    },
+    "1601580": {
+      "appid": 1601580,
+      "name": "冰汽时代2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T09:29:03.844265"
+    },
+    "1601600": {
+      "appid": 1601600,
+      "name": "Apeiron - Tower Defense",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T09:29:04.054415"
+    },
+    "1601630": {
+      "appid": 1601630,
+      "name": "The Fate of Baldr",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T09:29:04.166041"
+    },
+    "1601740": {
+      "appid": 1601740,
+      "name": "死亡教堂",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T09:29:04.606419"
+    },
+    "1601790": {
+      "appid": 1601790,
+      "name": "Mini Island: Summer",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T09:29:05.112182"
+    },
+    "1601950": {
+      "appid": 1601950,
+      "name": "Hentai VR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T09:29:06.545274"
+    },
+    "1601970": {
+      "appid": 1601970,
+      "name": "通古斯：禁区实录 - 增强版",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T09:29:06.691139"
+    },
+    "1602000": {
+      "appid": 1602000,
+      "name": "酒店建筑师 Hotel Architect",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T09:29:06.925311"
+    },
+    "1602010": {
+      "appid": 1602010,
+      "name": "女神异闻录4 无敌究极后桥背摔",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T09:29:07.057448"
+    },
+    "1602080": {
+      "appid": 1602080,
+      "name": "Soulstice",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T09:29:07.288101"
+    },
+    "1602110": {
+      "appid": 1602110,
+      "name": "Kredolis",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T09:29:07.635825"
+    },
+    "1602300": {
+      "appid": 1602300,
+      "name": "人窟日记 The Grotto Diary",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T09:29:08.688953"
+    },
+    "1602390": {
+      "appid": 1602390,
+      "name": "Black Academy",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T09:29:09.480646"
+    },
+    "1602490": {
+      "appid": 1602490,
+      "name": "Waifus Smash",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T09:29:10.109937"
+    },
+    "1602540": {
+      "appid": 1602540,
+      "name": "旅人苏菲亚",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T09:29:10.455401"
+    },
+    "1602560": {
+      "appid": 1602560,
+      "name": "裂开了！裤先生",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T09:29:10.686235"
+    },
+    "1602840": {
+      "appid": 1602840,
+      "name": "BoxShowFan",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T09:29:11.931297"
+    },
+    "1602880": {
+      "appid": 1602880,
+      "name": "The Lord of the Parties",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T09:29:12.069838"
+    },
+    "1602930": {
+      "appid": 1602930,
+      "name": "跟小佩学西语",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T09:29:12.432452"
+    },
+    "1602980": {
+      "appid": 1602980,
+      "name": "INSIGHT 洞察",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T09:29:12.782366"
+    },
+    "1602990": {
+      "appid": 1602990,
+      "name": "POG",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T09:29:12.900587"
+    },
+    "1603180": {
+      "appid": 1603180,
+      "name": "Mining Mechs",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T09:29:13.124473"
+    },
+    "1603210": {
+      "appid": 1603210,
+      "name": "Barn&Farm Renovator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T09:29:13.359788"
+    },
+    "1603260": {
+      "appid": 1603260,
+      "name": "Re.Surs",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T09:29:13.685702"
+    },
+    "1603420": {
+      "appid": 1603420,
+      "name": "末日狂欢人外岛",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T09:29:14.486838"
+    },
+    "1603640": {
+      "appid": 1603640,
+      "name": "The House of Da Vinci 3",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T09:29:15.678065"
+    },
+    "1603650": {
+      "appid": 1603650,
+      "name": "環狀战斗骑士",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T09:29:15.800461"
+    },
+    "1603720": {
+      "appid": 1603720,
+      "name": "Thy Creature：怪物",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T09:29:16.095042"
+    },
+    "1603780": {
+      "appid": 1603780,
+      "name": "Pincushion",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T09:29:16.320444"
+    },
+    "1603870": {
+      "appid": 1603870,
+      "name": "Dad's Dice: History of Legends",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T09:29:16.667211"
+    },
+    "1604000": {
+      "appid": 1604000,
+      "name": "Milk outside a bag of milk outside a bag of milk",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T09:29:17.863626"
+    },
+    "1604030": {
+      "appid": 1604030,
+      "name": "夜族崛起",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T09:29:18.078725"
+    },
+    "1604210": {
+      "appid": 1604210,
+      "name": "Grid Slayer",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T09:29:18.974338"
+    },
+    "1604250": {
+      "appid": 1604250,
+      "name": "Tortuga - A Pirate's Tale",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T09:29:19.205794"
+    },
+    "1604270": {
+      "appid": 1604270,
+      "name": "Broken Arrow",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T09:29:19.349133"
+    },
+    "1604280": {
+      "appid": 1604280,
+      "name": "STHELL",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T09:29:19.464547"
+    },
+    "1604300": {
+      "appid": 1604300,
+      "name": "LOVE 3",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T09:29:19.591544"
+    },
+    "1604350": {
+      "appid": 1604350,
+      "name": "Wonhon: The Beginning",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T09:29:19.814067"
+    },
+    "1604380": {
+      "appid": 1604380,
+      "name": "常轨脱离Creative",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T09:29:20.064260"
+    },
+    "1604420": {
+      "appid": 1604420,
+      "name": "Clouds no more",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T09:29:20.383280"
+    },
+    "1604780": {
+      "appid": 1604780,
+      "name": "Lovely Planet Remix",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T09:29:21.945978"
+    },
+    "1604930": {
+      "appid": 1604930,
+      "name": "笼鸟之心",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T09:29:22.599519"
+    },
+    "1605010": {
+      "appid": 1605010,
+      "name": "Adorable Witch",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T09:29:22.699151"
+    },
+    "1605030": {
+      "appid": 1605030,
+      "name": "Cannonball Crew",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T09:29:22.806452"
+    },
+    "1605120": {
+      "appid": 1605120,
+      "name": "Kate Kite",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T09:29:23.130010"
+    },
+    "1605220": {
+      "appid": 1605220,
+      "name": "Dune: Spice Wars",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T09:29:23.864584"
+    },
+    "1605250": {
+      "appid": 1605250,
+      "name": "Moros Protocol",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T09:29:24.239299"
     }
   }
 }
