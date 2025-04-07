@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-07T06:46:42.850934"
+    "updated": "2025-04-07T06:54:27.445717"
   },
   "games": {
     "570": {
@@ -77926,6 +77926,46 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-07T06:46:42.718063"
+    },
+    "1517290": {
+      "appid": 1517290,
+      "name": "《战地风云™ 2042》",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T06:54:05.924317"
+    },
+    "1518220": {
+      "appid": 1518220,
+      "name": "Spells & Secrets - 咒语与秘密",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T06:54:11.231362"
+    },
+    "1518770": {
+      "appid": 1518770,
+      "name": "Re:LieF ～献给亲爱的你～",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T06:54:13.945997"
+    },
+    "1519790": {
+      "appid": 1519790,
+      "name": "Fast Food Manager",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T06:54:21.745879"
+    },
+    "1520380": {
+      "appid": 1520380,
+      "name": "HALF DEAD 3",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T06:54:26.452320"
     }
   }
 }
