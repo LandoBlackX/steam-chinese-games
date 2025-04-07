@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-07T16:35:27.376541"
+    "updated": "2025-04-07T16:51:10.872324"
   },
   "games": {
     "570": {
@@ -80614,6 +80614,14 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-07T16:35:27.046977"
+    },
+    "1759380": {
+      "appid": 1759380,
+      "name": "《班德尔城物语：英雄联盟外传》",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T16:51:03.315726"
     }
   }
 }
