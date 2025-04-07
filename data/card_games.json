@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-07T03:57:51.318177"
+    "updated": "2025-04-07T04:31:16.657562"
   },
   "games": {
     "570": {
@@ -77110,6 +77110,86 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-07T03:57:39.843119"
+    },
+    "1449200": {
+      "appid": 1449200,
+      "name": " AI：梦境档案 涅槃肇始",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T04:30:47.398446"
+    },
+    "1449510": {
+      "appid": 1449510,
+      "name": "Henchman Story",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T04:30:50.335632"
+    },
+    "1449560": {
+      "appid": 1449560,
+      "name": "Metro Exodus",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T04:30:50.662753"
+    },
+    "1449850": {
+      "appid": 1449850,
+      "name": "Yu-Gi-Oh! Master Duel",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T04:30:54.219889"
+    },
+    "1450330": {
+      "appid": 1450330,
+      "name": "Concordia: Digital Edition",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T04:30:58.844993"
+    },
+    "1451080": {
+      "appid": 1451080,
+      "name": "DUNGEON ENCOUNTERS",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T04:31:02.170187"
+    },
+    "1451090": {
+      "appid": 1451090,
+      "name": "Tactics Ogre: Reborn",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T04:31:02.301078"
+    },
+    "1451160": {
+      "appid": 1451160,
+      "name": "Bakumatsu Renka SHINSENGUMI",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T04:31:02.855287"
+    },
+    "1451480": {
+      "appid": 1451480,
+      "name": "The Greatest Penguin Heist of All Time",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T04:31:05.020360"
+    },
+    "1453640": {
+      "appid": 1453640,
+      "name": "Valthirian Arc: Hero School Story 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T04:31:16.528194"
     }
   }
 }
