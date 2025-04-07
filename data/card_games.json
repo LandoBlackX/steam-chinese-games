@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-07T16:07:34.499450"
+    "updated": "2025-04-07T16:32:24.546974"
   },
   "games": {
     "570": {
@@ -80502,6 +80502,54 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-07T16:07:27.375146"
+    },
+    "1747760": {
+      "appid": 1747760,
+      "name": "莫莫多拉: 月下告别",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T16:32:01.523997"
+    },
+    "1748660": {
+      "appid": 1748660,
+      "name": "Voice of Cards: The Forsaken Maiden",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T16:32:08.371037"
+    },
+    "1749750": {
+      "appid": 1749750,
+      "name": "魔界战记 DISGAEA6",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T16:32:16.087111"
+    },
+    "1749770": {
+      "appid": 1749770,
+      "name": "Twofold",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T16:32:16.253745"
+    },
+    "1750200": {
+      "appid": 1750200,
+      "name": "Sex and the Furry Titty 2: Sins of the City",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T16:32:19.156726"
+    },
+    "1750770": {
+      "appid": 1750770,
+      "name": "Starcom: Unknown Space",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T16:32:23.225157"
     }
   }
 }
