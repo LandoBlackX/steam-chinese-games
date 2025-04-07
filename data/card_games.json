@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-07T08:39:54.776246"
+    "updated": "2025-04-07T08:44:16.852841"
   },
   "games": {
     "570": {
@@ -78766,6 +78766,70 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-07T08:39:54.278441"
+    },
+    "1590730": {
+      "appid": 1590730,
+      "name": "Helping the Hotties",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T08:44:07.014076"
+    },
+    "1590750": {
+      "appid": 1590750,
+      "name": "瓶瓶罐罐 - JARS",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T08:44:07.125382"
+    },
+    "1590910": {
+      "appid": 1590910,
+      "name": "Forgive Me Father",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T08:44:07.792627"
+    },
+    "1591150": {
+      "appid": 1591150,
+      "name": "超自然侦探: 逃离90年代",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T08:44:08.764139"
+    },
+    "1591220": {
+      "appid": 1591220,
+      "name": "Tamarak Trail",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T08:44:09.169663"
+    },
+    "1591530": {
+      "appid": 1591530,
+      "name": "战国无双５",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T08:44:11.487654"
+    },
+    "1592100": {
+      "appid": 1592100,
+      "name": "祖上阔过的二代坏蛋巫师反击伪善英雄夺回祖传城堡的神奇大冒险",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T08:44:14.095743"
+    },
+    "1592110": {
+      "appid": 1592110,
+      "name": "海岛之魂",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T08:44:14.201185"
     }
   }
 }

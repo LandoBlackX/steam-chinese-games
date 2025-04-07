@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-07T08:39:54.776246"
+    "updated": "2025-04-07T08:44:16.852841"
   },
   "games": {
     "570": {
@@ -149040,6 +149040,494 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-04-07T08:39:54.775010"
+    },
+    "1588550": {
+      "appid": 1588550,
+      "name": "Cairn 孤山独影",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T08:43:53.795095"
+    },
+    "1588560": {
+      "appid": 1588560,
+      "name": "侠乂行：浪迹天涯",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T08:43:54.042449"
+    },
+    "1588570": {
+      "appid": 1588570,
+      "name": "Lacuna: Prologue",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T08:43:54.137606"
+    },
+    "1588580": {
+      "appid": 1588580,
+      "name": "Little Party Legends",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T08:43:54.377876"
+    },
+    "1588610": {
+      "appid": 1588610,
+      "name": "Beers and Boomerangs",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T08:43:54.877036"
+    },
+    "1588620": {
+      "appid": 1588620,
+      "name": "ORIMON.1 - Bilfy & Krotroklon",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T08:43:55.002674"
+    },
+    "1588670": {
+      "appid": 1588670,
+      "name": "Hammer & Potion",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T08:43:55.271621"
+    },
+    "1588760": {
+      "appid": 1588760,
+      "name": "Switchball HD",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T08:43:55.683957"
+    },
+    "1588780": {
+      "appid": 1588780,
+      "name": "Laser Droplets",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T08:43:55.812263"
+    },
+    "1588910": {
+      "appid": 1588910,
+      "name": "Peppy's Adventure",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T08:43:56.480344"
+    },
+    "1588950": {
+      "appid": 1588950,
+      "name": "Mind-Blowing Girls 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T08:43:56.903386"
+    },
+    "1589070": {
+      "appid": 1589070,
+      "name": "VR Bukkake",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T08:43:57.453830"
+    },
+    "1589120": {
+      "appid": 1589120,
+      "name": "蛇上而生 (Above Snakes)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T08:43:57.674241"
+    },
+    "1589300": {
+      "appid": 1589300,
+      "name": "LookForDanger",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T08:43:58.366078"
+    },
+    "1589490": {
+      "appid": 1589490,
+      "name": "孙美琪疑案 2022",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T08:43:59.942682"
+    },
+    "1589540": {
+      "appid": 1589540,
+      "name": "Whispers in the Dark",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T08:44:00.273100"
+    },
+    "1589560": {
+      "appid": 1589560,
+      "name": "Box Cat Bash",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T08:44:00.503184"
+    },
+    "1589570": {
+      "appid": 1589570,
+      "name": "护林猿神",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T08:44:00.612317"
+    },
+    "1589680": {
+      "appid": 1589680,
+      "name": "Torii",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T08:44:01.301017"
+    },
+    "1589700": {
+      "appid": 1589700,
+      "name": "Trash",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T08:44:01.402042"
+    },
+    "1589890": {
+      "appid": 1589890,
+      "name": "便利商店‪6",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T08:44:02.718194"
+    },
+    "1590130": {
+      "appid": 1590130,
+      "name": "Car Drive",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T08:44:03.899443"
+    },
+    "1590320": {
+      "appid": 1590320,
+      "name": "Bro Falls",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T08:44:05.009606"
+    },
+    "1590360": {
+      "appid": 1590360,
+      "name": "他需要他的药",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T08:44:05.328110"
+    },
+    "1590390": {
+      "appid": 1590390,
+      "name": "空战:过热",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T08:44:05.515724"
+    },
+    "1590420": {
+      "appid": 1590420,
+      "name": "悠悠猴大冒险",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T08:44:05.626265"
+    },
+    "1590430": {
+      "appid": 1590430,
+      "name": "Snow Daze: Redaze",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T08:44:05.735705"
+    },
+    "1590500": {
+      "appid": 1590500,
+      "name": "Before Began 开始之前",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T08:44:05.963331"
+    },
+    "1590570": {
+      "appid": 1590570,
+      "name": "外兽祭·兽人们的冒险酒馆",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T08:44:06.062365"
+    },
+    "1590600": {
+      "appid": 1590600,
+      "name": "吹弹！丰盈！波涛汹涌！异世界魔法学园！",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T08:44:06.163478"
+    },
+    "1590640": {
+      "appid": 1590640,
+      "name": "Savior of the Abyss",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T08:44:06.284267"
+    },
+    "1590730": {
+      "appid": 1590730,
+      "name": "Helping the Hotties",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T08:44:07.014076"
+    },
+    "1590750": {
+      "appid": 1590750,
+      "name": "瓶瓶罐罐 - JARS",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T08:44:07.125382"
+    },
+    "1590760": {
+      "appid": 1590760,
+      "name": "合金弹头：战略版",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T08:44:07.245275"
+    },
+    "1590840": {
+      "appid": 1590840,
+      "name": "Depths Of Horror: Mushroom Day",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T08:44:07.467902"
+    },
+    "1590910": {
+      "appid": 1590910,
+      "name": "Forgive Me Father",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T08:44:07.792627"
+    },
+    "1591220": {
+      "appid": 1591220,
+      "name": "Tamarak Trail",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T08:44:09.169663"
+    },
+    "1591250": {
+      "appid": 1591250,
+      "name": "Lo-Fi Life",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T08:44:09.263150"
+    },
+    "1591340": {
+      "appid": 1591340,
+      "name": "Night Blade",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T08:44:10.027972"
+    },
+    "1591440": {
+      "appid": 1591440,
+      "name": "中外名将对决",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T08:44:10.596900"
+    },
+    "1591450": {
+      "appid": 1591450,
+      "name": "Aka",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T08:44:10.711951"
+    },
+    "1591460": {
+      "appid": 1591460,
+      "name": "大西洲虚拟世界",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T08:44:10.819332"
+    },
+    "1591480": {
+      "appid": 1591480,
+      "name": "婚怨Wedding",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T08:44:11.024729"
+    },
+    "1591490": {
+      "appid": 1591490,
+      "name": "Distant Memoraĵo",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T08:44:11.146375"
+    },
+    "1591500": {
+      "appid": 1591500,
+      "name": "猫头鹰和灯塔",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T08:44:11.249321"
+    },
+    "1591530": {
+      "appid": 1591530,
+      "name": "战国无双５",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T08:44:11.487654"
+    },
+    "1591570": {
+      "appid": 1591570,
+      "name": "Mondealy: Day One",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T08:44:11.839338"
+    },
+    "1591650": {
+      "appid": 1591650,
+      "name": "Go home, go home?",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T08:44:12.162641"
+    },
+    "1591660": {
+      "appid": 1591660,
+      "name": "冒险时光机",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T08:44:12.285673"
+    },
+    "1591680": {
+      "appid": 1591680,
+      "name": "Open Mod 2024.2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T08:44:12.525158"
+    },
+    "1591690": {
+      "appid": 1591690,
+      "name": "狗带真人秀",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T08:44:12.631723"
+    },
+    "1591870": {
+      "appid": 1591870,
+      "name": "Drift Phonk 666",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T08:44:13.352550"
+    },
+    "1591910": {
+      "appid": 1591910,
+      "name": "不愿看见的伤",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T08:44:13.576929"
+    },
+    "1591950": {
+      "appid": 1591950,
+      "name": "人赢聪的双截梦",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T08:44:13.739240"
+    },
+    "1592100": {
+      "appid": 1592100,
+      "name": "祖上阔过的二代坏蛋巫师反击伪善英雄夺回祖传城堡的神奇大冒险",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T08:44:14.095743"
+    },
+    "1592110": {
+      "appid": 1592110,
+      "name": "海岛之魂",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T08:44:14.201185"
+    },
+    "1592290": {
+      "appid": 1592290,
+      "name": "PARANOIA PLACE",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T08:44:15.531863"
+    },
+    "1592340": {
+      "appid": 1592340,
+      "name": "Underland: The Climb",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T08:44:15.753631"
+    },
+    "1592480": {
+      "appid": 1592480,
+      "name": "元数独",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T08:44:16.440106"
+    },
+    "1592490": {
+      "appid": 1592490,
+      "name": "Bloodless",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T08:44:16.577877"
+    },
+    "1592520": {
+      "appid": 1592520,
+      "name": "魔女之泉3 Re:Fine －玩偶小魔女艾露迪的故事－",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T08:44:16.687253"
     }
   }
 }
