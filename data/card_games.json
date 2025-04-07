@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-07T16:32:24.546974"
+    "updated": "2025-04-07T16:35:27.376541"
   },
   "games": {
     "570": {
@@ -80550,6 +80550,70 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-04-07T16:32:23.225157"
+    },
+    "1751350": {
+      "appid": 1751350,
+      "name": "野靛花农场",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T16:34:58.367635"
+    },
+    "1754000": {
+      "appid": 1754000,
+      "name": "《上古卷轴OL：高岛》",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T16:35:14.449140"
+    },
+    "1754460": {
+      "appid": 1754460,
+      "name": "QUESTER",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T16:35:16.567822"
+    },
+    "1754860": {
+      "appid": 1754860,
+      "name": "Inside Jennifer",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T16:35:19.423637"
+    },
+    "1754870": {
+      "appid": 1754870,
+      "name": "Lust Theory Season 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T16:35:19.564361"
+    },
+    "1755300": {
+      "appid": 1755300,
+      "name": "智能工厂大亨 Smart Factory Tycoon",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T16:35:22.676495"
+    },
+    "1755830": {
+      "appid": 1755830,
+      "name": "Astrea: Six-Sided Oracles",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T16:35:26.236971"
+    },
+    "1755910": {
+      "appid": 1755910,
+      "name": "Capcom Arcade 2nd Stadium",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T16:35:27.046977"
     }
   }
 }
