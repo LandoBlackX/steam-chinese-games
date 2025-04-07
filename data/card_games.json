@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-07T22:12:03.269833"
+    "updated": "2025-04-07T22:34:48.922529"
   },
   "games": {
     "570": {
@@ -81470,6 +81470,22 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-07T22:11:55.988325"
+    },
+    "1854980": {
+      "appid": 1854980,
+      "name": "雪境迷途遇仙踪",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T22:34:26.873108"
+    },
+    "1858500": {
+      "appid": 1858500,
+      "name": "Tales From The Unending Void: Season 1",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T22:34:46.266899"
     }
   }
 }
