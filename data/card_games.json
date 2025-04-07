@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-07T19:45:30.475769"
+    "updated": "2025-04-07T19:54:15.148342"
   },
   "games": {
     "570": {
@@ -81110,6 +81110,38 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-04-07T19:45:10.092211"
+    },
+    "1816300": {
+      "appid": 1816300,
+      "name": "HARVESTELLA",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T19:53:55.943096"
+    },
+    "1817000": {
+      "appid": 1817000,
+      "name": "Zodiacats",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T19:53:59.774062"
+    },
+    "1817230": {
+      "appid": 1817230,
+      "name": "Hi-Fi RUSH",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T19:54:01.288136"
+    },
+    "1818370": {
+      "appid": 1818370,
+      "name": "My Furry Dragon 🐾",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T19:54:07.472728"
     }
   }
 }
