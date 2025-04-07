@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-07T07:17:43.511956"
+    "updated": "2025-04-07T07:21:47.180978"
   },
   "games": {
     "570": {
@@ -78166,6 +78166,38 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-07T07:17:40.705483"
+    },
+    "1543030": {
+      "appid": 1543030,
+      "name": "仙剑奇侠传七",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T07:21:31.782573"
+    },
+    "1543710": {
+      "appid": 1543710,
+      "name": "Beyond Galaxyland",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T07:21:35.644162"
+    },
+    "1545450": {
+      "appid": 1545450,
+      "name": "Incredibox",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T07:21:45.598828"
+    },
+    "1545560": {
+      "appid": 1545560,
+      "name": "影子诡局：被诅咒的海盗 Shadow Gambit: The Cursed Crew",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T07:21:46.075879"
     }
   }
 }
