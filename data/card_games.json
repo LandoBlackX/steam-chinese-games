@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-07T21:50:11.815765"
+    "updated": "2025-04-07T22:12:03.269833"
   },
   "games": {
     "570": {
@@ -81398,6 +81398,78 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-07T21:50:09.147209"
+    },
+    "1849790": {
+      "appid": 1849790,
+      "name": "Uncle Chop's Rocket Shop",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T22:11:26.534038"
+    },
+    "1849890": {
+      "appid": 1849890,
+      "name": "Neko Maid",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T22:11:28.055567"
+    },
+    "1850160": {
+      "appid": 1850160,
+      "name": "Poly Bridge 3",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T22:11:30.382289"
+    },
+    "1850510": {
+      "appid": 1850510,
+      "name": "TRIANGLE STRATEGY",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T22:11:33.351936"
+    },
+    "1850520": {
+      "appid": 1850520,
+      "name": "CODE: PANDORA",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T22:11:33.568794"
+    },
+    "1850570": {
+      "appid": 1850570,
+      "name": "DEATH STRANDING DIRECTOR'S CUT",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T22:11:34.075436"
+    },
+    "1850740": {
+      "appid": 1850740,
+      "name": "Ghost Watchers",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T22:11:35.532603"
+    },
+    "1853200": {
+      "appid": 1853200,
+      "name": "TYRONE vs COPS",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T22:11:54.657085"
+    },
+    "1853410": {
+      "appid": 1853410,
+      "name": "复原",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T22:11:55.988325"
     }
   }
 }
