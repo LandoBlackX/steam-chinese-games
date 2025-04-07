@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-07T05:04:50.458001"
+    "updated": "2025-04-07T05:30:14.271050"
   },
   "games": {
     "570": {
@@ -77446,6 +77446,62 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-07T05:04:45.274062"
+    },
+    "1472540": {
+      "appid": 1472540,
+      "name": "八爪先生救救我！决定版",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T05:29:40.501113"
+    },
+    "1472930": {
+      "appid": 1472930,
+      "name": "Flock",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T05:29:43.428093"
+    },
+    "1473050": {
+      "appid": 1473050,
+      "name": "100 hidden birds",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T05:29:44.820232"
+    },
+    "1474200": {
+      "appid": 1474200,
+      "name": "Sudoku RPG",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T05:29:53.589942"
+    },
+    "1475810": {
+      "appid": 1475810,
+      "name": "Ghostwire: Tokyo",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T05:30:03.582244"
+    },
+    "1476340": {
+      "appid": 1476340,
+      "name": "奈优的冒险",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T05:30:09.395113"
+    },
+    "1476520": {
+      "appid": 1476520,
+      "name": "枪灵少女",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T05:30:11.142129"
     }
   }
 }
