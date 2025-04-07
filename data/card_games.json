@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-07T04:48:18.521974"
+    "updated": "2025-04-07T04:57:44.982616"
   },
   "games": {
     "570": {
@@ -77302,6 +77302,62 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-07T04:48:16.536465"
+    },
+    "1458590": {
+      "appid": 1458590,
+      "name": "Anime Artist 3: Harem",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T04:57:18.816948"
+    },
+    "1459010": {
+      "appid": 1459010,
+      "name": "Fallen Leaf",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T04:57:21.723355"
+    },
+    "1459960": {
+      "appid": 1459960,
+      "name": "Glitchpunk 故障朋克",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T04:57:27.181813"
+    },
+    "1461630": {
+      "appid": 1461630,
+      "name": "Magic Potion Millionaire",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T04:57:36.362017"
+    },
+    "1462040": {
+      "appid": 1462040,
+      "name": "FINAL FANTASY VII REMAKE INTERGRADE",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T04:57:38.630499"
+    },
+    "1462570": {
+      "appid": 1462570,
+      "name": "Lost in Random™",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T04:57:41.726234"
+    },
+    "1462650": {
+      "appid": 1462650,
+      "name": "终末之子 -起源物语-",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T04:57:42.390446"
     }
   }
 }

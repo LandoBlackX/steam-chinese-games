@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-07T04:48:18.521974"
+    "updated": "2025-04-07T04:57:44.982616"
   },
   "games": {
     "570": {
@@ -136168,6 +136168,438 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-04-07T04:48:18.296583"
+    },
+    "1458550": {
+      "appid": 1458550,
+      "name": "模拟游戏2021",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T04:57:18.541649"
+    },
+    "1458590": {
+      "appid": 1458590,
+      "name": "Anime Artist 3: Harem",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T04:57:18.816948"
+    },
+    "1458650": {
+      "appid": 1458650,
+      "name": "Game Dev Company",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T04:57:19.595878"
+    },
+    "1458900": {
+      "appid": 1458900,
+      "name": "子午線157: 序幕",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T04:57:20.407738"
+    },
+    "1458920": {
+      "appid": 1458920,
+      "name": "子午線157: 第1章",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T04:57:20.556339"
+    },
+    "1458930": {
+      "appid": 1458930,
+      "name": "子午线157: 第2章",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T04:57:20.756851"
+    },
+    "1459160": {
+      "appid": 1459160,
+      "name": "Dark Cave",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T04:57:22.368920"
+    },
+    "1459240": {
+      "appid": 1459240,
+      "name": "PriOne",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T04:57:22.701960"
+    },
+    "1459300": {
+      "appid": 1459300,
+      "name": "Glittering Sword",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T04:57:23.358069"
+    },
+    "1459370": {
+      "appid": 1459370,
+      "name": "BATTLEBOX - Pre-Launch Music Application",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T04:57:23.721847"
+    },
+    "1459640": {
+      "appid": 1459640,
+      "name": "VR Zeppelin Airship Trips: Flying hotel experiences in VR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T04:57:25.366406"
+    },
+    "1459790": {
+      "appid": 1459790,
+      "name": "Angry Alligator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T04:57:26.275549"
+    },
+    "1459810": {
+      "appid": 1459810,
+      "name": "魅魔的冒险生活",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T04:57:26.529361"
+    },
+    "1459910": {
+      "appid": 1459910,
+      "name": "Isolomus",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T04:57:26.893257"
+    },
+    "1459960": {
+      "appid": 1459960,
+      "name": "Glitchpunk 故障朋克",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T04:57:27.181813"
+    },
+    "1460010": {
+      "appid": 1460010,
+      "name": "Cryospace - survival horror in space",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T04:57:27.657012"
+    },
+    "1460040": {
+      "appid": 1460040,
+      "name": "Love Fantasy",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T04:57:27.803756"
+    },
+    "1460080": {
+      "appid": 1460080,
+      "name": "Stasis Valley",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T04:57:28.189177"
+    },
+    "1460220": {
+      "appid": 1460220,
+      "name": "Evil Nun: The Broken Mask",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T04:57:28.844849"
+    },
+    "1460310": {
+      "appid": 1460310,
+      "name": "The Cat Banny",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T04:57:29.447013"
+    },
+    "1460480": {
+      "appid": 1460480,
+      "name": "On Key Up: A Game for Keyboards",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T04:57:29.687154"
+    },
+    "1460550": {
+      "appid": 1460550,
+      "name": "Ring of Titans",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T04:57:30.372655"
+    },
+    "1460610": {
+      "appid": 1460610,
+      "name": "hocus 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T04:57:30.676481"
+    },
+    "1460670": {
+      "appid": 1460670,
+      "name": "Jungle Town: Birthday quest",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T04:57:31.067693"
+    },
+    "1460750": {
+      "appid": 1460750,
+      "name": "SUPER DRINK BROS.",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T04:57:31.433774"
+    },
+    "1460790": {
+      "appid": 1460790,
+      "name": "Bartender Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T04:57:31.652970"
+    },
+    "1461060": {
+      "appid": 1461060,
+      "name": "法利恩戰記2 (Furion Chronicles 2)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T04:57:33.102949"
+    },
+    "1461600": {
+      "appid": 1461600,
+      "name": "Project Sparrow",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T04:57:36.247654"
+    },
+    "1461680": {
+      "appid": 1461680,
+      "name": "第五件遗留物",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T04:57:36.494879"
+    },
+    "1461710": {
+      "appid": 1461710,
+      "name": "Kagura's Dreamland 神樂夢境",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T04:57:36.623419"
+    },
+    "1461740": {
+      "appid": 1461740,
+      "name": "画师",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T04:57:36.875610"
+    },
+    "1461770": {
+      "appid": 1461770,
+      "name": "Fantasy Tavern Sextet -Vol.2 Adventurer's Days-",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T04:57:36.996296"
+    },
+    "1461810": {
+      "appid": 1461810,
+      "name": "《蜀山：初章》买断版",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T04:57:37.221039"
+    },
+    "1461910": {
+      "appid": 1461910,
+      "name": "Rogue Command",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T04:57:37.436982"
+    },
+    "1461920": {
+      "appid": 1461920,
+      "name": "英雄传说 碧之轨迹：改",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T04:57:37.550036"
+    },
+    "1461960": {
+      "appid": 1461960,
+      "name": "Baby Goat Billy",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T04:57:37.893143"
+    },
+    "1461980": {
+      "appid": 1461980,
+      "name": "九州：立志",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T04:57:38.017838"
+    },
+    "1461990": {
+      "appid": 1461990,
+      "name": "傲剑情缘",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T04:57:38.116755"
+    },
+    "1462010": {
+      "appid": 1462010,
+      "name": "Wiener Wars",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T04:57:38.220257"
+    },
+    "1462020": {
+      "appid": 1462020,
+      "name": "Elon Tycoon",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T04:57:38.317587"
+    },
+    "1462030": {
+      "appid": 1462030,
+      "name": "Duil",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T04:57:38.466964"
+    },
+    "1462040": {
+      "appid": 1462040,
+      "name": "FINAL FANTASY VII REMAKE INTERGRADE",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T04:57:38.630499"
+    },
+    "1462220": {
+      "appid": 1462220,
+      "name": "破阵",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T04:57:39.742566"
+    },
+    "1462260": {
+      "appid": 1462260,
+      "name": "Guild of Dragons",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T04:57:39.855158"
+    },
+    "1462490": {
+      "appid": 1462490,
+      "name": "iVIBRATE Ultimate Edition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T04:57:40.895856"
+    },
+    "1462520": {
+      "appid": 1462520,
+      "name": "BRINK Traveler",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T04:57:41.155252"
+    },
+    "1462550": {
+      "appid": 1462550,
+      "name": "傲慢魔王肉便器",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T04:57:41.374500"
+    },
+    "1462600": {
+      "appid": 1462600,
+      "name": "ONNANOKO KEEPER",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T04:57:42.042634"
+    },
+    "1462640": {
+      "appid": 1462640,
+      "name": "Alien world Millionaire / 异界大富翁",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T04:57:42.278328"
+    },
+    "1462650": {
+      "appid": 1462650,
+      "name": "终末之子 -起源物语-",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T04:57:42.390446"
+    },
+    "1462790": {
+      "appid": 1462790,
+      "name": "动物之鬪: 竞技场",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T04:57:43.573690"
+    },
+    "1462810": {
+      "appid": 1462810,
+      "name": "WRC 10 FIA World Rally Championship",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T04:57:43.703015"
+    },
+    "1462830": {
+      "appid": 1462830,
+      "name": "Super Sketchy Party",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T04:57:43.828755"
+    },
+    "1463010": {
+      "appid": 1463010,
+      "name": "Tank Mechanic Simulator VR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T04:57:44.981128"
     }
   }
 }
