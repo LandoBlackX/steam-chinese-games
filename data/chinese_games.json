@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-07T07:47:31.051290"
+    "updated": "2025-04-07T07:51:21.237402"
   },
   "games": {
     "570": {
@@ -146392,6 +146392,430 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-04-07T07:47:30.469057"
+    },
+    "1563320": {
+      "appid": 1563320,
+      "name": "Sleep Tight",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:50:47.823768"
+    },
+    "1563460": {
+      "appid": 1563460,
+      "name": "Star Salvager",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:50:49.256247"
+    },
+    "1563520": {
+      "appid": 1563520,
+      "name": "Galaxy Drift",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:50:49.719056"
+    },
+    "1563700": {
+      "appid": 1563700,
+      "name": "当火车鸣笛三秒",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:50:50.605050"
+    },
+    "1563820": {
+      "appid": 1563820,
+      "name": "Inside My Mind",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:50:52.337084"
+    },
+    "1563830": {
+      "appid": 1563830,
+      "name": "Battle Cat vs Treacherous Mice",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:50:52.611358"
+    },
+    "1563840": {
+      "appid": 1563840,
+      "name": "蚂蚁模拟器（Ant simulator）",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:50:52.749280"
+    },
+    "1563850": {
+      "appid": 1563850,
+      "name": "创造我的女孩",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:50:52.947429"
+    },
+    "1563870": {
+      "appid": 1563870,
+      "name": "教训",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:50:53.312331"
+    },
+    "1564100": {
+      "appid": 1564100,
+      "name": "Synth Drift",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:50:55.509271"
+    },
+    "1564140": {
+      "appid": 1564140,
+      "name": "白玉的幻梦 Dream of Hakugyokurou",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:50:55.942858"
+    },
+    "1564220": {
+      "appid": 1564220,
+      "name": "Q.U.B.E. 10th Anniversary",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:50:56.549160"
+    },
+    "1564540": {
+      "appid": 1564540,
+      "name": "十只死鸽子",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:50:58.430064"
+    },
+    "1564630": {
+      "appid": 1564630,
+      "name": "Find Girl | 发现女孩",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:50:59.502332"
+    },
+    "1564660": {
+      "appid": 1564660,
+      "name": "Bongo Arena",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:50:59.661996"
+    },
+    "1564670": {
+      "appid": 1564670,
+      "name": "合成大西瓜 | Big watermelon",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:50:59.805220"
+    },
+    "1564690": {
+      "appid": 1564690,
+      "name": "cherry blossom fleet",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:51:00.008787"
+    },
+    "1564700": {
+      "appid": 1564700,
+      "name": "House Cleaning Survival",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:51:00.174576"
+    },
+    "1564720": {
+      "appid": 1564720,
+      "name": "先民的遗迹Relics of ancestors",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:51:00.314262"
+    },
+    "1564760": {
+      "appid": 1564760,
+      "name": "哥们，我的头去哪了？",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:51:00.468273"
+    },
+    "1564920": {
+      "appid": 1564920,
+      "name": "Shots fired in the Dark Forest",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:51:01.566432"
+    },
+    "1564930": {
+      "appid": 1564930,
+      "name": "Angry Space Bees",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:51:01.714032"
+    },
+    "1564940": {
+      "appid": 1564940,
+      "name": "A Strange City",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:51:01.867731"
+    },
+    "1564950": {
+      "appid": 1564950,
+      "name": "Two Legs",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:51:02.007574"
+    },
+    "1564970": {
+      "appid": 1564970,
+      "name": "雪糕猫",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:51:02.143616"
+    },
+    "1564980": {
+      "appid": 1564980,
+      "name": "Diego: Mission Red Tomato",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:51:02.299955"
+    },
+    "1565030": {
+      "appid": 1565030,
+      "name": "Wind of shuriken",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:51:02.659676"
+    },
+    "1565110": {
+      "appid": 1565110,
+      "name": "临   第一部分“假作真”篇",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:51:03.419916"
+    },
+    "1565210": {
+      "appid": 1565210,
+      "name": "Buildest",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:51:04.342827"
+    },
+    "1565220": {
+      "appid": 1565220,
+      "name": "Gamer Girls (18+)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T07:51:04.496325"
+    },
+    "1565320": {
+      "appid": 1565320,
+      "name": "Total Havoc",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:51:05.122343"
+    },
+    "1565530": {
+      "appid": 1565530,
+      "name": "避雨2🌧",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:51:06.332561"
+    },
+    "1565580": {
+      "appid": 1565580,
+      "name": "Mini Island: Spring",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:51:06.628072"
+    },
+    "1565660": {
+      "appid": 1565660,
+      "name": "S.P.A.T.",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:51:07.293690"
+    },
+    "1565670": {
+      "appid": 1565670,
+      "name": "Five Nations",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:51:07.467591"
+    },
+    "1565830": {
+      "appid": 1565830,
+      "name": "驭宠大师",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:51:09.172095"
+    },
+    "1565860": {
+      "appid": 1565860,
+      "name": "旋转来找茬",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:51:09.663426"
+    },
+    "1566040": {
+      "appid": 1566040,
+      "name": "Last Soul",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:51:11.348529"
+    },
+    "1566060": {
+      "appid": 1566060,
+      "name": "毛茸茸的小姐",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T07:51:11.622738"
+    },
+    "1566390": {
+      "appid": 1566390,
+      "name": "Seed of the Dead: Sweet Home",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:51:13.882511"
+    },
+    "1566620": {
+      "appid": 1566620,
+      "name": "Puzzletronics Analog Eletronics",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:51:16.321255"
+    },
+    "1566680": {
+      "appid": 1566680,
+      "name": "约拍女神3",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:51:16.604341"
+    },
+    "1566690": {
+      "appid": 1566690,
+      "name": "重装前哨",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:51:16.738072"
+    },
+    "1566700": {
+      "appid": 1566700,
+      "name": "VR越狱",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:51:16.890522"
+    },
+    "1566840": {
+      "appid": 1566840,
+      "name": "伊甸骑士1:2 淫难的巫女公主赛西莉篇",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:51:17.882098"
+    },
+    "1566880": {
+      "appid": 1566880,
+      "name": "刀剑神域 异绊集结",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T07:51:18.185569"
+    },
+    "1566910": {
+      "appid": 1566910,
+      "name": "Riddle Girl",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:51:18.317767"
+    },
+    "1567000": {
+      "appid": 1567000,
+      "name": "illWill",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:51:18.779121"
+    },
+    "1567020": {
+      "appid": 1567020,
+      "name": "《黑相集：心中魔》",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T07:51:18.938828"
+    },
+    "1567080": {
+      "appid": 1567080,
+      "name": "Furry SexyTails",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T07:51:19.573157"
+    },
+    "1567200": {
+      "appid": 1567200,
+      "name": "The Wolf",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:51:20.064530"
+    },
+    "1567260": {
+      "appid": 1567260,
+      "name": "Crowalt: Traces of the Lost Colony - Prologue",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:51:20.191750"
+    },
+    "1567400": {
+      "appid": 1567400,
+      "name": "Yakyosho - Terror and escape at school",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:51:20.975923"
     }
   }
 }
