@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-07T07:01:09.533129"
+    "updated": "2025-04-07T07:10:58.395572"
   },
   "games": {
     "570": {
@@ -78038,6 +78038,54 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-07T07:01:08.611855"
+    },
+    "1531490": {
+      "appid": 1531490,
+      "name": "小魔女星拼乐",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T07:10:33.790385"
+    },
+    "1532460": {
+      "appid": 1532460,
+      "name": "The Fridge is Red",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T07:10:39.515586"
+    },
+    "1532690": {
+      "appid": 1532690,
+      "name": "女巫悲歌",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T07:10:40.429690"
+    },
+    "1532770": {
+      "appid": 1532770,
+      "name": "Sex and the Furry Titty",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T07:10:41.128866"
+    },
+    "1533470": {
+      "appid": 1533470,
+      "name": "TimeShifters",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T07:10:44.779900"
+    },
+    "1535100": {
+      "appid": 1535100,
+      "name": "Nadir: A Grimdark Deckbuilder",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T07:10:56.423424"
     }
   }
 }

@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-07T07:01:09.533129"
+    "updated": "2025-04-07T07:10:58.395572"
   },
   "games": {
     "570": {
@@ -143256,6 +143256,438 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-04-07T07:01:08.900795"
+    },
+    "1530300": {
+      "appid": 1530300,
+      "name": "Auto Chess",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:10:24.358716"
+    },
+    "1530340": {
+      "appid": 1530340,
+      "name": "Incremental Epic Hero",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:10:24.649671"
+    },
+    "1530360": {
+      "appid": 1530360,
+      "name": "endlessCorona",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:10:24.891939"
+    },
+    "1530470": {
+      "appid": 1530470,
+      "name": "Daymare: 1994 Sandcastle",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:10:25.878999"
+    },
+    "1530540": {
+      "appid": 1530540,
+      "name": "Lake Resort Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:10:26.408445"
+    },
+    "1530630": {
+      "appid": 1530630,
+      "name": "Couch Monsters",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:10:27.010226"
+    },
+    "1530660": {
+      "appid": 1530660,
+      "name": "神画怪盜",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:10:27.359891"
+    },
+    "1531230": {
+      "appid": 1531230,
+      "name": "Match Puzzle",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:10:32.379475"
+    },
+    "1531250": {
+      "appid": 1531250,
+      "name": "壁垒圣卫",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:10:32.550515"
+    },
+    "1531270": {
+      "appid": 1531270,
+      "name": "少妇白洁",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:10:32.700956"
+    },
+    "1531300": {
+      "appid": 1531300,
+      "name": "Galaxy X",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:10:33.127336"
+    },
+    "1531490": {
+      "appid": 1531490,
+      "name": "小魔女星拼乐",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T07:10:33.790385"
+    },
+    "1531680": {
+      "appid": 1531680,
+      "name": "修真之路",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:10:35.132486"
+    },
+    "1531780": {
+      "appid": 1531780,
+      "name": "废土黄昏 Dusk of the wasteland age",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:10:35.397243"
+    },
+    "1532260": {
+      "appid": 1532260,
+      "name": "Sliko",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:10:37.936587"
+    },
+    "1532300": {
+      "appid": 1532300,
+      "name": "Sugar Story",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:10:38.380970"
+    },
+    "1532350": {
+      "appid": 1532350,
+      "name": "Rogue Explorer",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:10:38.586624"
+    },
+    "1532380": {
+      "appid": 1532380,
+      "name": "大头侏罗纪",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:10:38.877836"
+    },
+    "1532400": {
+      "appid": 1532400,
+      "name": "四季约定",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:10:39.036837"
+    },
+    "1532460": {
+      "appid": 1532460,
+      "name": "The Fridge is Red",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T07:10:39.515586"
+    },
+    "1532510": {
+      "appid": 1532510,
+      "name": "Purrfect Apawcalypse: Love at Furst Bite",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:10:39.676935"
+    },
+    "1532690": {
+      "appid": 1532690,
+      "name": "女巫悲歌",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T07:10:40.429690"
+    },
+    "1532750": {
+      "appid": 1532750,
+      "name": "Jigsaw Pieces 2 - Shades of Mood",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:10:40.808513"
+    },
+    "1532760": {
+      "appid": 1532760,
+      "name": "Jigsaw Pieces 3 - Fantasy",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:10:40.966884"
+    },
+    "1532780": {
+      "appid": 1532780,
+      "name": "The Magnets",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:10:41.283647"
+    },
+    "1532790": {
+      "appid": 1532790,
+      "name": "Pizza Empire",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:10:41.421976"
+    },
+    "1532910": {
+      "appid": 1532910,
+      "name": "Supermarket Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:10:41.893858"
+    },
+    "1533060": {
+      "appid": 1533060,
+      "name": "Winery Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:10:42.354473"
+    },
+    "1533120": {
+      "appid": 1533120,
+      "name": "Shonen Adventure : The Dual Blades Hero",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:10:43.089786"
+    },
+    "1533380": {
+      "appid": 1533380,
+      "name": "Keridwen",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:10:43.977442"
+    },
+    "1533410": {
+      "appid": 1533410,
+      "name": "Mollycoddle Mayhem",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:10:44.288577"
+    },
+    "1533420": {
+      "appid": 1533420,
+      "name": "Neon White",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:10:44.438486"
+    },
+    "1533520": {
+      "appid": 1533520,
+      "name": "VR Black Hole Travel Hypothesis",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:10:45.088507"
+    },
+    "1533560": {
+      "appid": 1533560,
+      "name": "守卫魔兽-Guardian of Warcraft",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:10:45.508765"
+    },
+    "1533590": {
+      "appid": 1533590,
+      "name": "三妖精的蹦蹦跳跳讨伐大作战！",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:10:45.979030"
+    },
+    "1533650": {
+      "appid": 1533650,
+      "name": "焕焕骑士",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:10:46.433013"
+    },
+    "1533750": {
+      "appid": 1533750,
+      "name": "小小精灵塔防(Little elf tower defense)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:10:46.918778"
+    },
+    "1533770": {
+      "appid": 1533770,
+      "name": "The Thief Girl ~ 盗賊少女 ~",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:10:47.110736"
+    },
+    "1533780": {
+      "appid": 1533780,
+      "name": "A Walk Through Echoes",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:10:47.282005"
+    },
+    "1533940": {
+      "appid": 1533940,
+      "name": "轮回修真OL",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:10:48.097092"
+    },
+    "1533960": {
+      "appid": 1533960,
+      "name": "Liars Village",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:10:48.245342"
+    },
+    "1534180": {
+      "appid": 1534180,
+      "name": "Super Woden GP",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:10:49.232424"
+    },
+    "1534260": {
+      "appid": 1534260,
+      "name": "TitTok",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:10:49.857217"
+    },
+    "1534550": {
+      "appid": 1534550,
+      "name": "Sovietpunk: Chapter one",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:10:52.267471"
+    },
+    "1534620": {
+      "appid": 1534620,
+      "name": "Heart Seals",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:10:52.791333"
+    },
+    "1534770": {
+      "appid": 1534770,
+      "name": "DrakulA",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:10:54.059723"
+    },
+    "1534840": {
+      "appid": 1534840,
+      "name": "光明破坏者",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:10:54.220842"
+    },
+    "1534870": {
+      "appid": 1534870,
+      "name": "风之界限 the border of wind",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:10:54.682753"
+    },
+    "1534930": {
+      "appid": 1534930,
+      "name": "Ascii the Brave Cat",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:10:55.074165"
+    },
+    "1534980": {
+      "appid": 1534980,
+      "name": "终点站：僵尸幸存者",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:10:55.364924"
+    },
+    "1535060": {
+      "appid": 1535060,
+      "name": "Incremental Epic Breakers",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:10:56.088144"
+    },
+    "1535100": {
+      "appid": 1535100,
+      "name": "Nadir: A Grimdark Deckbuilder",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T07:10:56.423424"
+    },
+    "1535110": {
+      "appid": 1535110,
+      "name": "Lust for Speed",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:10:56.569102"
+    },
+    "1535210": {
+      "appid": 1535210,
+      "name": "Nadir: A Grimdark Deck Builder - Prologue",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:10:57.203927"
     }
   }
 }
