@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-07T14:01:25.718091"
+    "updated": "2025-04-07T14:11:48.368352"
   },
   "games": {
     "570": {
@@ -79886,6 +79886,14 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-07T14:01:25.412963"
+    },
+    "1691970": {
+      "appid": 1691970,
+      "name": "Danganronpa S: Ultimate Summer Camp",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T14:11:42.573340"
     }
   }
 }
