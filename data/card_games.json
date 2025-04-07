@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-07T11:40:56.640215"
+    "updated": "2025-04-07T11:54:02.480803"
   },
   "games": {
     "570": {
@@ -79438,6 +79438,70 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-04-07T11:40:48.126401"
+    },
+    "1647190": {
+      "appid": 1647190,
+      "name": "World End Diner",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T11:53:33.304735"
+    },
+    "1647550": {
+      "appid": 1647550,
+      "name": "NEO: The World Ends with You",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T11:53:36.107768"
+    },
+    "1647940": {
+      "appid": 1647940,
+      "name": "Anime Artist: Tiffy’s Notty Secret",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T11:53:38.308536"
+    },
+    "1649080": {
+      "appid": 1649080,
+      "name": "双点校园 ",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T11:53:44.111841"
+    },
+    "1649740": {
+      "appid": 1649740,
+      "name": "狩夜人",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T11:53:46.632664"
+    },
+    "1650010": {
+      "appid": 1650010,
+      "name": "RIDE 5",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T11:53:48.197227"
+    },
+    "1650590": {
+      "appid": 1650590,
+      "name": "Nightmare Frames",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T11:53:51.305035"
+    },
+    "1651960": {
+      "appid": 1651960,
+      "name": "《海克斯炸欢天：英雄联盟外传》",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T11:53:59.061054"
     }
   }
 }
