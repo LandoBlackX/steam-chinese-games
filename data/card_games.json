@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-07T23:42:21.085249"
+    "updated": "2025-04-07T23:55:24.814826"
   },
   "games": {
     "570": {
@@ -81606,6 +81606,30 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-04-07T23:42:16.921441"
+    },
+    "1879330": {
+      "appid": 1879330,
+      "name": "无双大蛇２ 终极版",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T23:55:07.797708"
+    },
+    "1880470": {
+      "appid": 1880470,
+      "name": "The Inquisitor",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T23:55:15.866494"
+    },
+    "1881140": {
+      "appid": 1881140,
+      "name": "SQUID GIRLS 18+",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T23:55:19.744846"
     }
   }
 }
