@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-07T07:38:32.854371"
+    "updated": "2025-04-07T07:47:31.051290"
   },
   "games": {
     "570": {
@@ -78342,6 +78342,30 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-07T07:38:31.664520"
+    },
+    "1561890": {
+      "appid": 1561890,
+      "name": "Recursive Ruin",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T07:47:23.664322"
+    },
+    "1562230": {
+      "appid": 1562230,
+      "name": "Entity Researchers",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T07:47:25.431426"
+    },
+    "1562430": {
+      "appid": 1562430,
+      "name": "《渔帆暗涌》",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T07:47:26.540176"
     }
   }
 }
