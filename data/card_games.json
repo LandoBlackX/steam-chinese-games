@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-07T08:09:07.390046"
+    "updated": "2025-04-07T08:20:03.943976"
   },
   "games": {
     "570": {
@@ -78638,6 +78638,54 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-07T08:09:06.706686"
+    },
+    "1580150": {
+      "appid": 1580150,
+      "name": "Between Time: Escape Room",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T08:19:35.426251"
+    },
+    "1580240": {
+      "appid": 1580240,
+      "name": "Rune Factory 4 Special",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T08:19:35.875668"
+    },
+    "1580800": {
+      "appid": 1580800,
+      "name": "Erannorth Chronicles",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T08:19:40.610005"
+    },
+    "1581770": {
+      "appid": 1581770,
+      "name": "SpellForce: Conquest of Eo",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T08:19:47.939495"
+    },
+    "1582410": {
+      "appid": 1582410,
+      "name": "Manafinder",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T08:19:51.547115"
+    },
+    "1584090": {
+      "appid": 1584090,
+      "name": "东方夜雀食堂 - Touhou Mystia's Izakaya",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T08:20:02.677005"
     }
   }
 }

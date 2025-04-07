@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-07T08:09:07.390046"
+    "updated": "2025-04-07T08:20:03.943976"
   },
   "games": {
     "570": {
@@ -148200,6 +148200,422 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-04-07T08:09:06.848462"
+    },
+    "1580150": {
+      "appid": 1580150,
+      "name": "Between Time: Escape Room",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T08:19:35.426251"
+    },
+    "1580180": {
+      "appid": 1580180,
+      "name": "枪伞游侠",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T08:19:35.567269"
+    },
+    "1580240": {
+      "appid": 1580240,
+      "name": "Rune Factory 4 Special",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T08:19:35.875668"
+    },
+    "1580440": {
+      "appid": 1580440,
+      "name": "The LastOnesLeft",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T08:19:38.208271"
+    },
+    "1580510": {
+      "appid": 1580510,
+      "name": "VR Fighter Jets War",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T08:19:38.850941"
+    },
+    "1580520": {
+      "appid": 1580520,
+      "name": "幻灵降世录",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T08:19:38.992747"
+    },
+    "1580640": {
+      "appid": 1580640,
+      "name": "银魂：Silver Soul",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T08:19:39.866527"
+    },
+    "1580790": {
+      "appid": 1580790,
+      "name": "[NINJA GAIDEN: Master Collection] NINJA GAIDEN Σ2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T08:19:40.439443"
+    },
+    "1580890": {
+      "appid": 1580890,
+      "name": "拯救心脏星",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T08:19:41.299106"
+    },
+    "1580950": {
+      "appid": 1580950,
+      "name": "Kanojo xx Switch",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T08:19:41.450433"
+    },
+    "1580970": {
+      "appid": 1580970,
+      "name": "Samorost 1",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T08:19:41.804679"
+    },
+    "1580990": {
+      "appid": 1580990,
+      "name": "Manipulator I:The Hand Behind",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T08:19:42.112137"
+    },
+    "1581040": {
+      "appid": 1581040,
+      "name": "天使之王：梅塔特隆的飞升 高清复刻版",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T08:19:42.381994"
+    },
+    "1581170": {
+      "appid": 1581170,
+      "name": "百年王国",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T08:19:43.444987"
+    },
+    "1581440": {
+      "appid": 1581440,
+      "name": "QUADRICOLOR: Ultra Sentai Color Ranger",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T08:19:45.439545"
+    },
+    "1581470": {
+      "appid": 1581470,
+      "name": "哈鲁",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T08:19:45.683110"
+    },
+    "1581600": {
+      "appid": 1581600,
+      "name": "Reconnect",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T08:19:46.534265"
+    },
+    "1581660": {
+      "appid": 1581660,
+      "name": "超级鲁斯泡",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T08:19:46.845840"
+    },
+    "1581760": {
+      "appid": 1581760,
+      "name": "诗酒剑江湖",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T08:19:47.800666"
+    },
+    "1581770": {
+      "appid": 1581770,
+      "name": "SpellForce: Conquest of Eo",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T08:19:47.939495"
+    },
+    "1581800": {
+      "appid": 1581800,
+      "name": "我被逐出队伍后过上慢生活",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T08:19:48.273129"
+    },
+    "1581890": {
+      "appid": 1581890,
+      "name": "The Magic of Three",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T08:19:49.088646"
+    },
+    "1581950": {
+      "appid": 1581950,
+      "name": "Buriedbornes2 - Dungeon RPG -",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T08:19:49.228860"
+    },
+    "1581990": {
+      "appid": 1581990,
+      "name": "Memorize V",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T08:19:49.376337"
+    },
+    "1582290": {
+      "appid": 1582290,
+      "name": "LumbearJack",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T08:19:50.870359"
+    },
+    "1582510": {
+      "appid": 1582510,
+      "name": "Mercenaries Blaze",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T08:19:51.707043"
+    },
+    "1582610": {
+      "appid": 1582610,
+      "name": "ASV Trident",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T08:19:52.085717"
+    },
+    "1582650": {
+      "appid": 1582650,
+      "name": "Caravan SandWitch",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T08:19:52.368272"
+    },
+    "1582680": {
+      "appid": 1582680,
+      "name": "《电车难题公司》",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T08:19:52.506099"
+    },
+    "1582720": {
+      "appid": 1582720,
+      "name": "Recapture the Castle",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T08:19:52.798593"
+    },
+    "1582780": {
+      "appid": 1582780,
+      "name": "Musketeer of the hell",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T08:19:53.342625"
+    },
+    "1582850": {
+      "appid": 1582850,
+      "name": "Retro Machina: Nucleonics",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T08:19:53.743147"
+    },
+    "1582990": {
+      "appid": 1582990,
+      "name": "异界跑酷大冒险",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T08:19:54.674569"
+    },
+    "1583070": {
+      "appid": 1583070,
+      "name": "Landing Confirmed",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T08:19:55.194477"
+    },
+    "1583190": {
+      "appid": 1583190,
+      "name": "Space Explore",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T08:19:56.250434"
+    },
+    "1583300": {
+      "appid": 1583300,
+      "name": "Cute Girls: Find Secrets",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T08:19:57.081348"
+    },
+    "1583500": {
+      "appid": 1583500,
+      "name": "Eternal Dread 3",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T08:19:58.189152"
+    },
+    "1583520": {
+      "appid": 1583520,
+      "name": "Under The Island",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T08:19:58.308925"
+    },
+    "1583650": {
+      "appid": 1583650,
+      "name": "Beautiful Girls",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T08:19:59.401749"
+    },
+    "1583670": {
+      "appid": 1583670,
+      "name": "卡牌冒险者",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T08:19:59.647464"
+    },
+    "1583690": {
+      "appid": 1583690,
+      "name": "Elijah and the Out of this World Adventure",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T08:19:59.809129"
+    },
+    "1583770": {
+      "appid": 1583770,
+      "name": "Play - An Interactive Piece",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T08:20:00.227221"
+    },
+    "1583850": {
+      "appid": 1583850,
+      "name": "Asleep 沉睡 - Ato 1",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T08:20:00.938147"
+    },
+    "1583960": {
+      "appid": 1583960,
+      "name": "VR Dream Girl",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T08:20:01.788536"
+    },
+    "1584050": {
+      "appid": 1584050,
+      "name": "欲望之花",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T08:20:02.161886"
+    },
+    "1584090": {
+      "appid": 1584090,
+      "name": "东方夜雀食堂 - Touhou Mystia's Izakaya",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T08:20:02.677005"
+    },
+    "1584140": {
+      "appid": 1584140,
+      "name": "打工人：美香",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T08:20:02.825834"
+    },
+    "1584150": {
+      "appid": 1584150,
+      "name": "Hentai Beach Girls",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T08:20:02.976088"
+    },
+    "1584190": {
+      "appid": 1584190,
+      "name": "Hungry Dino",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T08:20:03.239254"
+    },
+    "1584200": {
+      "appid": 1584200,
+      "name": "Tag Royale",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T08:20:03.360690"
+    },
+    "1584210": {
+      "appid": 1584210,
+      "name": "Forklift 2024 - The Simulation",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T08:20:03.524101"
+    },
+    "1584280": {
+      "appid": 1584280,
+      "name": "Steel Salvo",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T08:20:03.942430"
     }
   }
 }
