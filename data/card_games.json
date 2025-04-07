@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-07T07:24:29.086003"
+    "updated": "2025-04-07T07:28:10.063868"
   },
   "games": {
     "570": {
@@ -78222,6 +78222,70 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-04-07T07:24:23.293305"
+    },
+    "1550510": {
+      "appid": 1550510,
+      "name": "惊悚故事2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T07:27:45.081393"
+    },
+    "1550760": {
+      "appid": 1550760,
+      "name": "Blast Brigade vs. the Evil Legion of Dr. Cread",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T07:27:46.795039"
+    },
+    "1551360": {
+      "appid": 1551360,
+      "name": "极限竞速：地平线 5",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T07:27:51.818526"
+    },
+    "1551510": {
+      "appid": 1551510,
+      "name": "念动少女璀璨星 ",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T07:27:52.535037"
+    },
+    "1552080": {
+      "appid": 1552080,
+      "name": "幽深密室：复活",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T07:27:57.109068"
+    },
+    "1552220": {
+      "appid": 1552220,
+      "name": "LakeSide",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T07:27:57.960583"
+    },
+    "1553120": {
+      "appid": 1553120,
+      "name": "The Inheritance of Crimson Manor",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T07:28:03.260015"
+    },
+    "1553890": {
+      "appid": 1553890,
+      "name": "Lewd Girls, Leave Me Alone! I Just Want to Play Video Games and Watch Anime! - Hentai Edition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T07:28:09.640763"
     }
   }
 }

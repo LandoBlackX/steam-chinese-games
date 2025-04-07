@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-07T07:24:29.086003"
+    "updated": "2025-04-07T07:28:10.063868"
   },
   "games": {
     "570": {
@@ -144976,6 +144976,478 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-04-07T07:24:29.084863"
+    },
+    "1549970": {
+      "appid": 1549970,
+      "name": "Aliens: Fireteam Elite",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:27:40.711487"
+    },
+    "1550130": {
+      "appid": 1550130,
+      "name": "Visions of Evil",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:27:42.542642"
+    },
+    "1550180": {
+      "appid": 1550180,
+      "name": "9th Dawn Remake",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:27:42.967718"
+    },
+    "1550190": {
+      "appid": 1550190,
+      "name": "Post-Apo Builder",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:27:43.109500"
+    },
+    "1550270": {
+      "appid": 1550270,
+      "name": "Togges",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:27:43.525297"
+    },
+    "1550460": {
+      "appid": 1550460,
+      "name": "亲爱的弗兰肯斯坦",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:27:44.812855"
+    },
+    "1550510": {
+      "appid": 1550510,
+      "name": "惊悚故事2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T07:27:45.081393"
+    },
+    "1550730": {
+      "appid": 1550730,
+      "name": "伊科内岛：筑梦之地",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:27:46.384208"
+    },
+    "1550740": {
+      "appid": 1550740,
+      "name": "Ignited Steel: Mech Tactics",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:27:46.527098"
+    },
+    "1550760": {
+      "appid": 1550760,
+      "name": "Blast Brigade vs. the Evil Legion of Dr. Cread",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T07:27:46.795039"
+    },
+    "1550840": {
+      "appid": 1550840,
+      "name": "RATUZ",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:27:47.749874"
+    },
+    "1551000": {
+      "appid": 1551000,
+      "name": "Captain Pawsome",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:27:48.863836"
+    },
+    "1551030": {
+      "appid": 1551030,
+      "name": "涨粉二维码",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:27:49.272906"
+    },
+    "1551050": {
+      "appid": 1551050,
+      "name": "无名骑士",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:27:49.408608"
+    },
+    "1551080": {
+      "appid": 1551080,
+      "name": "Age of Legion",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:27:49.539816"
+    },
+    "1551150": {
+      "appid": 1551150,
+      "name": "Dream Big 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:27:49.928992"
+    },
+    "1551230": {
+      "appid": 1551230,
+      "name": "斩鬼少女明城与奇谭之鬼",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:27:50.790361"
+    },
+    "1551360": {
+      "appid": 1551360,
+      "name": "极限竞速：地平线 5",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T07:27:51.818526"
+    },
+    "1551470": {
+      "appid": 1551470,
+      "name": "Voidwalkers: The Gates Of Hell",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:27:52.241438"
+    },
+    "1551510": {
+      "appid": 1551510,
+      "name": "念动少女璀璨星 ",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T07:27:52.535037"
+    },
+    "1551520": {
+      "appid": 1551520,
+      "name": "特攻委员会煌华2 ",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:27:52.663387"
+    },
+    "1551530": {
+      "appid": 1551530,
+      "name": "祈愿诗篇",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:27:52.793013"
+    },
+    "1551540": {
+      "appid": 1551540,
+      "name": "阿尔迪亚之塔",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:27:52.943604"
+    },
+    "1551550": {
+      "appid": 1551550,
+      "name": "菲拉娜与圣灵药",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:27:53.078429"
+    },
+    "1551560": {
+      "appid": 1551560,
+      "name": "梦魇与少女",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:27:53.206430"
+    },
+    "1551570": {
+      "appid": 1551570,
+      "name": "冠位功夫娘",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:27:53.340149"
+    },
+    "1551590": {
+      "appid": 1551590,
+      "name": "精灵娇妻洛蕾塔",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:27:53.469970"
+    },
+    "1551600": {
+      "appid": 1551600,
+      "name": "妮菲娅的试炼",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:27:53.599065"
+    },
+    "1551620": {
+      "appid": 1551620,
+      "name": "蕾缇娜历险记",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:27:53.732233"
+    },
+    "1551630": {
+      "appid": 1551630,
+      "name": "勇闯一线天",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:27:53.866268"
+    },
+    "1551640": {
+      "appid": 1551640,
+      "name": "寻宝猎人舞~传奇至宝~",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:27:54.003209"
+    },
+    "1551650": {
+      "appid": 1551650,
+      "name": "剑斗姬希丝缇娜~圣选之子~",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:27:54.135231"
+    },
+    "1551670": {
+      "appid": 1551670,
+      "name": "叛道武士",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:27:54.399510"
+    },
+    "1551760": {
+      "appid": 1551760,
+      "name": "Struggling Ball",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:27:55.221622"
+    },
+    "1551920": {
+      "appid": 1551920,
+      "name": "Whisper Trip",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:27:56.238631"
+    },
+    "1552040": {
+      "appid": 1552040,
+      "name": "Dominant Mind",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:27:56.675664"
+    },
+    "1552080": {
+      "appid": 1552080,
+      "name": "幽深密室：复活",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T07:27:57.109068"
+    },
+    "1552140": {
+      "appid": 1552140,
+      "name": "筑巢华琳酱",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:27:57.566491"
+    },
+    "1552160": {
+      "appid": 1552160,
+      "name": "Countdown Final Zone",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:27:57.696953"
+    },
+    "1552620": {
+      "appid": 1552620,
+      "name": "Expedition Agartha",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:28:00.484500"
+    },
+    "1552730": {
+      "appid": 1552730,
+      "name": "Fireworks Simulator: Realistic",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:28:00.926651"
+    },
+    "1552810": {
+      "appid": 1552810,
+      "name": "Twin Mirror 双子幻境",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:28:01.516299"
+    },
+    "1553000": {
+      "appid": 1553000,
+      "name": "War Hospital",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:28:02.801498"
+    },
+    "1553120": {
+      "appid": 1553120,
+      "name": "The Inheritance of Crimson Manor",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T07:28:03.260015"
+    },
+    "1553130": {
+      "appid": 1553130,
+      "name": "I am Dictator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:28:03.387355"
+    },
+    "1553180": {
+      "appid": 1553180,
+      "name": "Save 2020",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:28:04.014039"
+    },
+    "1553260": {
+      "appid": 1553260,
+      "name": "Scarlet Deer Inn",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:28:04.842930"
+    },
+    "1553290": {
+      "appid": 1553290,
+      "name": "Multiplicity 3 KVM",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:28:04.983349"
+    },
+    "1553360": {
+      "appid": 1553360,
+      "name": "王国英雄志 Kingdom and Hero",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:28:05.888355"
+    },
+    "1553480": {
+      "appid": 1553480,
+      "name": "The Architect's Game",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:28:06.628163"
+    },
+    "1553560": {
+      "appid": 1553560,
+      "name": "I wish Michael Phantomino were here",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:28:07.311010"
+    },
+    "1553570": {
+      "appid": 1553570,
+      "name": "MineSweeper 3D 三维扫雷",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:28:07.451666"
+    },
+    "1553580": {
+      "appid": 1553580,
+      "name": "束缚女孩",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:28:07.600526"
+    },
+    "1553640": {
+      "appid": 1553640,
+      "name": "在保健室遇到的傲娇学妹不可能成为我的女朋友",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:28:07.861305"
+    },
+    "1553690": {
+      "appid": 1553690,
+      "name": "How does it work!?",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:28:08.262435"
+    },
+    "1553800": {
+      "appid": 1553800,
+      "name": "Ninja Fights: Puzzle Platformer Action",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:28:08.732104"
+    },
+    "1553810": {
+      "appid": 1553810,
+      "name": "Wrecked! Unfair Car Stunts",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:28:08.877345"
+    },
+    "1553890": {
+      "appid": 1553890,
+      "name": "Lewd Girls, Leave Me Alone! I Just Want to Play Video Games and Watch Anime! - Hentai Edition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T07:28:09.640763"
+    },
+    "1553940": {
+      "appid": 1553940,
+      "name": "Space Cube Tower Defense",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:28:09.904399"
     }
   }
 }
