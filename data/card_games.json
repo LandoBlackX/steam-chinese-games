@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-07T14:25:19.770749"
+    "updated": "2025-04-07T14:45:31.629672"
   },
   "games": {
     "570": {
@@ -79982,6 +79982,46 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-07T14:25:18.856064"
+    },
+    "1702260": {
+      "appid": 1702260,
+      "name": "创尸纪",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T14:45:08.820372"
+    },
+    "1702330": {
+      "appid": 1702330,
+      "name": "符文工厂5",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T14:45:09.260566"
+    },
+    "1702830": {
+      "appid": 1702830,
+      "name": "BLACKJACK and WAIFUS Hentai Version",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T14:45:13.064186"
+    },
+    "1705140": {
+      "appid": 1705140,
+      "name": "Final Profit: A Shop RPG",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T14:45:24.689440"
+    },
+    "1705520": {
+      "appid": 1705520,
+      "name": "My Furry Neighbour 🐾",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T14:45:26.460193"
     }
   }
 }
