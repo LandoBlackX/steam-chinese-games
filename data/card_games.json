@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-07T12:49:36.109288"
+    "updated": "2025-04-07T13:11:44.835421"
   },
   "games": {
     "570": {
@@ -79598,6 +79598,70 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-07T12:49:31.766136"
+    },
+    "1667400": {
+      "appid": 1667400,
+      "name": "Cute Cats",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T13:11:20.339519"
+    },
+    "1668510": {
+      "appid": 1668510,
+      "name": "The Legend of Heroes: Trails from Zero",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T13:11:26.103477"
+    },
+    "1668520": {
+      "appid": 1668520,
+      "name": "The Legend of Heroes: Trails to Azure",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T13:11:26.264757"
+    },
+    "1668540": {
+      "appid": 1668540,
+      "name": "The Legend of Heroes: Trails into Reverie",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T13:11:26.527636"
+    },
+    "1668690": {
+      "appid": 1668690,
+      "name": "斗技场的阿利娜 Alina of the Arena",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T13:11:27.607678"
+    },
+    "1669980": {
+      "appid": 1669980,
+      "name": "火山的女儿",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T13:11:35.305760"
+    },
+    "1671360": {
+      "appid": 1671360,
+      "name": "Ereban: Shadow Legacy",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T13:11:41.690304"
+    },
+    "1671720": {
+      "appid": 1671720,
+      "name": "Athenian Rhapsody",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T13:11:44.482454"
     }
   }
 }
