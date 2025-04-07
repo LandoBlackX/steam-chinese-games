@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-07T18:36:28.572453"
+    "updated": "2025-04-07T18:38:47.445466"
   },
   "games": {
     "570": {
@@ -80910,6 +80910,22 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-07T18:36:19.396313"
+    },
+    "1792250": {
+      "appid": 1792250,
+      "name": "Serious Sam: Siberian Mayhem",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T18:38:36.884024"
+    },
+    "1793030": {
+      "appid": 1793030,
+      "name": "Romancing SaGa -Minstrel Song- Remastered",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T18:38:42.461192"
     }
   }
 }
