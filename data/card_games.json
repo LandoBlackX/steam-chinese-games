@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-07T14:13:08.346311"
+    "updated": "2025-04-07T14:25:19.770749"
   },
   "games": {
     "570": {
@@ -79958,6 +79958,30 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-07T14:13:01.790534"
+    },
+    "1697700": {
+      "appid": 1697700,
+      "name": "莱拉是谁 Who's Lila?",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T14:24:49.282806"
+    },
+    "1700550": {
+      "appid": 1700550,
+      "name": "Intruder on the Bridge",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T14:25:12.786804"
+    },
+    "1701520": {
+      "appid": 1701520,
+      "name": "心渊梦境",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T14:25:18.856064"
     }
   }
 }
