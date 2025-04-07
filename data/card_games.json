@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-07T18:52:15.599762"
+    "updated": "2025-04-07T19:13:22.510342"
   },
   "games": {
     "570": {
@@ -80982,6 +80982,38 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-07T18:52:14.509301"
+    },
+    "1798010": {
+      "appid": 1798010,
+      "name": "ROCKMAN EXE 合集1",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T19:12:54.649633"
+    },
+    "1798020": {
+      "appid": 1798020,
+      "name": "ROCKMAN EXE 合集2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T19:12:54.749881"
+    },
+    "1798780": {
+      "appid": 1798780,
+      "name": "Dimension Tripper Neptune: TOP NEP",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T19:13:00.168761"
+    },
+    "1799380": {
+      "appid": 1799380,
+      "name": "MAGLAM LORD",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T19:13:03.695789"
     }
   }
 }
