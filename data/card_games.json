@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-07T05:45:29.504897"
+    "updated": "2025-04-07T05:58:14.106305"
   },
   "games": {
     "570": {
@@ -77670,6 +77670,70 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-07T05:45:21.986127"
+    },
+    "1490130": {
+      "appid": 1490130,
+      "name": "CrashMetal - Cyberpunk",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T05:57:49.955381"
+    },
+    "1490610": {
+      "appid": 1490610,
+      "name": "METALLIC CHILD",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T05:57:52.769405"
+    },
+    "1490890": {
+      "appid": 1490890,
+      "name": "鬼灭之刃 火之神血风谭",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T05:57:54.447490"
+    },
+    "1491340": {
+      "appid": 1491340,
+      "name": "Marble World",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T05:57:57.232520"
+    },
+    "1492730": {
+      "appid": 1492730,
+      "name": "哆啦A梦 牧场物语 自然王国与和乐家人",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T05:58:07.564536"
+    },
+    "1493520": {
+      "appid": 1493520,
+      "name": "Beat Hazard 3",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T05:58:12.195367"
+    },
+    "1493640": {
+      "appid": 1493640,
+      "name": "驱灵者：新伊甸的幽灵",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T05:58:12.704810"
+    },
+    "1493750": {
+      "appid": 1493750,
+      "name": "Evil Dead: The Game",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T05:58:13.604899"
     }
   }
 }
