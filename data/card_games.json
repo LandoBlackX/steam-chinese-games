@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-07T05:58:14.106305"
+    "updated": "2025-04-07T06:10:21.324238"
   },
   "games": {
     "570": {
@@ -77734,6 +77734,62 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-04-07T05:58:13.604899"
+    },
+    "1495000": {
+      "appid": 1495000,
+      "name": "Succubus Research Diary",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T06:09:55.495569"
+    },
+    "1496320": {
+      "appid": 1496320,
+      "name": "隐藏的图画 - 时光机器 - 寻物解谜 中文版 - 脑筋急转弯",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T06:10:08.093106"
+    },
+    "1497360": {
+      "appid": 1497360,
+      "name": "Open Roads",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T06:10:13.349421"
+    },
+    "1497440": {
+      "appid": 1497440,
+      "name": "COCOON",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T06:10:13.624690"
+    },
+    "1497450": {
+      "appid": 1497450,
+      "name": "A Memoir Blue",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T06:10:13.776407"
+    },
+    "1497950": {
+      "appid": 1497950,
+      "name": "圆滚地球变四方?!　数码方块地球防卫军　EARTH DEFENSE FORCE: WORLD BROTHERS",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T06:10:17.655909"
+    },
+    "1498120": {
+      "appid": 1498120,
+      "name": "Lewd Island",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T06:10:18.612669"
     }
   }
 }
