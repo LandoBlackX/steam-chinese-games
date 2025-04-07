@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-07T16:51:10.872324"
+    "updated": "2025-04-07T17:13:31.016101"
   },
   "games": {
     "570": {
@@ -80622,6 +80622,38 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-07T16:51:03.315726"
+    },
+    "1761290": {
+      "appid": 1761290,
+      "name": "Japanese Rail Sim: Journey to Kyoto",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T17:13:02.778543"
+    },
+    "1761390": {
+      "appid": 1761390,
+      "name": "初音未来 Project DIVA MEGA39’s＋",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T17:13:03.964944"
+    },
+    "1761780": {
+      "appid": 1761780,
+      "name": "惊悚故事3：英格莉忏悔录",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T17:13:07.959792"
+    },
+    "1762270": {
+      "appid": 1762270,
+      "name": "Obama Boss Fight",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T17:13:11.349400"
     }
   }
 }
