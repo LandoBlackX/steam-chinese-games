@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-07T17:33:34.001461"
+    "updated": "2025-04-07T17:46:57.750558"
   },
   "games": {
     "570": {
@@ -80758,6 +80758,54 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-07T17:33:33.880640"
+    },
+    "1770600": {
+      "appid": 1770600,
+      "name": "Long and Hard... Summer!",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T17:46:13.360253"
+    },
+    "1771300": {
+      "appid": 1771300,
+      "name": "天国：拯救2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T17:46:20.246222"
+    },
+    "1772830": {
+      "appid": 1772830,
+      "name": "Rusted Moss",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T17:46:32.995104"
+    },
+    "1772910": {
+      "appid": 1772910,
+      "name": "Dead District: Survival",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T17:46:33.378455"
+    },
+    "1773180": {
+      "appid": 1773180,
+      "name": "The Matriarch",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T17:46:35.747048"
+    },
+    "1773890": {
+      "appid": 1773890,
+      "name": "100 hidden dogs",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T17:46:40.867427"
     }
   }
 }
