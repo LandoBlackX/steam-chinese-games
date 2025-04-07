@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-07T06:28:24.561598"
+    "updated": "2025-04-07T06:37:51.041976"
   },
   "games": {
     "570": {
@@ -77814,6 +77814,38 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-07T06:28:20.857136"
+    },
+    "1504020": {
+      "appid": 1504020,
+      "name": "拼图猫娘4",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T06:37:28.180169"
+    },
+    "1504500": {
+      "appid": 1504500,
+      "name": "OPUS：龙脉常歌 -最终版-",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T06:37:31.931224"
+    },
+    "1505620": {
+      "appid": 1505620,
+      "name": "Waifu Secret",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T06:37:37.645215"
+    },
+    "1506440": {
+      "appid": 1506440,
+      "name": "巴特拉：家在何方",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T06:37:43.023659"
     }
   }
 }
