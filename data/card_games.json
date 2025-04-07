@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-07T11:26:56.255366"
+    "updated": "2025-04-07T11:40:56.640215"
   },
   "games": {
     "570": {
@@ -79390,6 +79390,54 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-07T11:26:48.822253"
+    },
+    "1642620": {
+      "appid": 1642620,
+      "name": "COLLECTION of SaGa FINAL FANTASY LEGEND",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T11:40:32.547051"
+    },
+    "1643310": {
+      "appid": 1643310,
+      "name": "Dungeons 4",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T11:40:36.460967"
+    },
+    "1643320": {
+      "appid": 1643320,
+      "name": "潜行者2：切尔诺贝利之心",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T11:40:36.611755"
+    },
+    "1644320": {
+      "appid": 1644320,
+      "name": "Railway Empire 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T11:40:41.555974"
+    },
+    "1644490": {
+      "appid": 1644490,
+      "name": "Occult",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T11:40:42.076798"
+    },
+    "1645820": {
+      "appid": 1645820,
+      "name": "SurrounDead",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T11:40:48.126401"
     }
   }
 }
