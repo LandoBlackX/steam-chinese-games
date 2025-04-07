@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-07T11:08:05.548680"
+    "updated": "2025-04-07T11:26:56.255366"
   },
   "games": {
     "570": {
@@ -79334,6 +79334,62 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-07T11:08:03.524783"
+    },
+    "1638230": {
+      "appid": 1638230,
+      "name": "轩辕剑叁 云和山的彼端",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T11:26:31.463906"
+    },
+    "1638330": {
+      "appid": 1638330,
+      "name": "Darius Cozmic Collection Arcade",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T11:26:32.142866"
+    },
+    "1639610": {
+      "appid": 1639610,
+      "name": "Save Me, Sakuya-san!",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T11:26:41.524709"
+    },
+    "1639920": {
+      "appid": 1639920,
+      "name": "Embraced by Autumn",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T11:26:43.477587"
+    },
+    "1640160": {
+      "appid": 1640160,
+      "name": "G-Darius HD",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T11:26:44.987120"
+    },
+    "1640320": {
+      "appid": 1640320,
+      "name": "B.I.O.T.A.",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T11:26:45.858689"
+    },
+    "1640890": {
+      "appid": 1640890,
+      "name": "Hell of an Office",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T11:26:48.822253"
     }
   }
 }
