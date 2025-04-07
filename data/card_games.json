@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-07T23:26:09.487892"
+    "updated": "2025-04-07T23:42:21.085249"
   },
   "games": {
     "570": {
@@ -81574,6 +81574,38 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-04-07T23:26:05.007757"
+    },
+    "1872680": {
+      "appid": 1872680,
+      "name": "魔骑少女",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T23:41:50.740834"
+    },
+    "1874000": {
+      "appid": 1874000,
+      "name": "Life is Strange: Double Exposure",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T23:41:58.697567"
+    },
+    "1874490": {
+      "appid": 1874490,
+      "name": "魔药经济学：神秘的魔法药水商店",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T23:42:01.974688"
+    },
+    "1876560": {
+      "appid": 1876560,
+      "name": "Save the Reactor",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T23:42:16.921441"
     }
   }
 }
