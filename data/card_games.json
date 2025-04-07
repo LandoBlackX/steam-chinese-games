@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-07T22:47:36.028481"
+    "updated": "2025-04-07T23:00:27.588784"
   },
   "games": {
     "570": {
@@ -81526,6 +81526,30 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-04-07T22:47:34.462179"
+    },
+    "1865670": {
+      "appid": 1865670,
+      "name": "Gensokyo Odyssey",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T23:00:12.056292"
+    },
+    "1866420": {
+      "appid": 1866420,
+      "name": "La Pucelle: Ragnarok",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T23:00:16.492485"
+    },
+    "1866430": {
+      "appid": 1866430,
+      "name": "Rhapsody: A Musical Adventure",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T23:00:16.676993"
     }
   }
 }
