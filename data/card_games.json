@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-07T10:48:35.188455"
+    "updated": "2025-04-07T11:05:09.303858"
   },
   "games": {
     "570": {
@@ -79262,6 +79262,46 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-07T10:48:32.328749"
+    },
+    "1628610": {
+      "appid": 1628610,
+      "name": "Paquerette Down the Bunburrows",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T11:04:40.970824"
+    },
+    "1629520": {
+      "appid": 1629520,
+      "name": "A Little to the Left",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T11:04:46.212126"
+    },
+    "1630650": {
+      "appid": 1630650,
+      "name": "Neko Beach",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T11:04:53.103856"
+    },
+    "1630920": {
+      "appid": 1630920,
+      "name": "Bright Lights of Svetlov",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T11:04:54.780252"
+    },
+    "1632750": {
+      "appid": 1632750,
+      "name": "Her Heart's Desire: A Landlord Epic",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T11:05:07.818039"
     }
   }
 }
