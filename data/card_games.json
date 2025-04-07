@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-07T06:10:21.324238"
+    "updated": "2025-04-07T06:28:24.561598"
   },
   "games": {
     "570": {
@@ -77790,6 +77790,30 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-04-07T06:10:18.612669"
+    },
+    "1499240": {
+      "appid": 1499240,
+      "name": "Brookhaven Grimoire",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T06:28:02.078880"
+    },
+    "1501610": {
+      "appid": 1501610,
+      "name": "Nova Lands",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T06:28:16.352367"
+    },
+    "1502190": {
+      "appid": 1502190,
+      "name": " 霓虹入侵者 / From Space",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T06:28:20.857136"
     }
   }
 }
