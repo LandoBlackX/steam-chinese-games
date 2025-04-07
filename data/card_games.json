@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-07T23:00:27.588784"
+    "updated": "2025-04-07T23:26:09.487892"
   },
   "games": {
     "570": {
@@ -81550,6 +81550,30 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-04-07T23:00:16.676993"
+    },
+    "1868140": {
+      "appid": 1868140,
+      "name": "潜水员戴夫 DAVE THE DIVER",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T23:25:46.328704"
+    },
+    "1871310": {
+      "appid": 1871310,
+      "name": "Hook 2",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T23:26:03.718565"
+    },
+    "1871480": {
+      "appid": 1871480,
+      "name": "EdgeLords",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T23:26:05.007757"
     }
   }
 }
