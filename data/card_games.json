@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-07T19:13:22.510342"
+    "updated": "2025-04-07T19:27:42.071462"
   },
   "games": {
     "570": {
@@ -81014,6 +81014,30 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-07T19:13:03.695789"
+    },
+    "1802860": {
+      "appid": 1802860,
+      "name": "大富翁少女/Rich Girls",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T19:27:15.390209"
+    },
+    "1803600": {
+      "appid": 1803600,
+      "name": "离经叛盗",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T19:27:21.164529"
+    },
+    "1805480": {
+      "appid": 1805480,
+      "name": "人中之龙 维新！极",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T19:27:35.354157"
     }
   }
 }
