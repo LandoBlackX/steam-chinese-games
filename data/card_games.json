@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-07T19:41:00.760606"
+    "updated": "2025-04-07T19:45:30.475769"
   },
   "games": {
     "570": {
@@ -81078,6 +81078,38 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-07T19:40:52.783506"
+    },
+    "1812060": {
+      "appid": 1812060,
+      "name": "妖谈：百鬼夜行",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T19:45:02.641587"
+    },
+    "1812090": {
+      "appid": 1812090,
+      "name": "Escape Academy",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T19:45:03.107671"
+    },
+    "1812370": {
+      "appid": 1812370,
+      "name": "Little Goody Two Shoes",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T19:45:05.851682"
+    },
+    "1812910": {
+      "appid": 1812910,
+      "name": "Great Houses of Calderia",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T19:45:10.092211"
     }
   }
 }
