@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-07T03:09:43.759683"
+    "updated": "2025-04-07T03:44:59.644566"
   },
   "games": {
     "570": {
@@ -77006,6 +77006,70 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-07T03:09:32.675637"
+    },
+    "1440670": {
+      "appid": 1440670,
+      "name": "Zeepkist",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T03:44:30.755337"
+    },
+    "1441840": {
+      "appid": 1441840,
+      "name": "迷宫物语 - FALL IN LABYRINTH",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T03:44:40.847240"
+    },
+    "1442160": {
+      "appid": 1442160,
+      "name": "密室的祭品／ABYSS OF THE SACRIFICE",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T03:44:42.528390"
+    },
+    "1442820": {
+      "appid": 1442820,
+      "name": "R-Type Final 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T03:44:47.239640"
+    },
+    "1444020": {
+      "appid": 1444020,
+      "name": "Reactor Tech²",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T03:44:54.689496"
+    },
+    "1444300": {
+      "appid": 1444300,
+      "name": "Teacup",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T03:44:56.016047"
+    },
+    "1444350": {
+      "appid": 1444350,
+      "name": "House",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T03:44:56.348492"
+    },
+    "1444360": {
+      "appid": 1444360,
+      "name": "Aisling and the Tavern of Elves",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T03:44:56.615781"
     }
   }
 }

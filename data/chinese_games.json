@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-07T03:09:43.759683"
+    "updated": "2025-04-07T03:44:59.644566"
   },
   "games": {
     "570": {
@@ -134360,6 +134360,406 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-04-07T03:09:42.932125"
+    },
+    "1439630": {
+      "appid": 1439630,
+      "name": "Mad Devils: Damned-finitive Edition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T03:44:22.916158"
+    },
+    "1439750": {
+      "appid": 1439750,
+      "name": "9-Bit Armies: A Bit Too Far",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T03:44:23.629613"
+    },
+    "1439920": {
+      "appid": 1439920,
+      "name": "绝世千金-Unique Lady",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T03:44:24.650883"
+    },
+    "1439960": {
+      "appid": 1439960,
+      "name": "The Doomed Knight",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T03:44:25.046745"
+    },
+    "1440010": {
+      "appid": 1440010,
+      "name": "Die After Sunset",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T03:44:25.625632"
+    },
+    "1440110": {
+      "appid": 1440110,
+      "name": "Arabia Palace Builder",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T03:44:26.393261"
+    },
+    "1440130": {
+      "appid": 1440130,
+      "name": "Escape2088",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T03:44:26.760436"
+    },
+    "1440150": {
+      "appid": 1440150,
+      "name": "像素幸存者",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T03:44:26.959921"
+    },
+    "1440340": {
+      "appid": 1440340,
+      "name": "Cannon Foundry Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T03:44:28.229196"
+    },
+    "1440530": {
+      "appid": 1440530,
+      "name": "Good puzzle",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T03:44:30.471323"
+    },
+    "1440840": {
+      "appid": 1440840,
+      "name": "Breathing Fear",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T03:44:32.240440"
+    },
+    "1440850": {
+      "appid": 1440850,
+      "name": "LP",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T03:44:32.396974"
+    },
+    "1440950": {
+      "appid": 1440950,
+      "name": "Death Architect",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T03:44:33.297245"
+    },
+    "1441090": {
+      "appid": 1441090,
+      "name": "Metal Strike",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T03:44:33.724901"
+    },
+    "1441100": {
+      "appid": 1441100,
+      "name": "鸭仔闯魔城",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T03:44:33.840582"
+    },
+    "1441180": {
+      "appid": 1441180,
+      "name": "Dofamine",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T03:44:34.914550"
+    },
+    "1441210": {
+      "appid": 1441210,
+      "name": "Beat the Nightmare – Evil Dreams Simulator VR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T03:44:35.165577"
+    },
+    "1441240": {
+      "appid": 1441240,
+      "name": "天国守卫",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T03:44:35.631319"
+    },
+    "1441300": {
+      "appid": 1441300,
+      "name": "Huuma Mina: The Secret of Immortality (Censored)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T03:44:36.025014"
+    },
+    "1441760": {
+      "appid": 1441760,
+      "name": "My Business",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T03:44:39.965586"
+    },
+    "1441790": {
+      "appid": 1441790,
+      "name": "Miner: Dig Deep",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T03:44:40.347490"
+    },
+    "1441840": {
+      "appid": 1441840,
+      "name": "迷宫物语 - FALL IN LABYRINTH",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T03:44:40.847240"
+    },
+    "1442020": {
+      "appid": 1442020,
+      "name": "Essex: The Whale Hunter",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T03:44:41.323716"
+    },
+    "1442040": {
+      "appid": 1442040,
+      "name": "我反对这门亲事-I'm against this marriage",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T03:44:41.459369"
+    },
+    "1442160": {
+      "appid": 1442160,
+      "name": "密室的祭品／ABYSS OF THE SACRIFICE",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T03:44:42.528390"
+    },
+    "1442240": {
+      "appid": 1442240,
+      "name": "Save the Pirate: Sea Story",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T03:44:43.095095"
+    },
+    "1442410": {
+      "appid": 1442410,
+      "name": "Pingers",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T03:44:44.247744"
+    },
+    "1442430": {
+      "appid": 1442430,
+      "name": "Storage Hunter Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T03:44:44.415811"
+    },
+    "1442450": {
+      "appid": 1442450,
+      "name": "Monsters Domain",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T03:44:44.583236"
+    },
+    "1442520": {
+      "appid": 1442520,
+      "name": "炎之鸟",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T03:44:45.397833"
+    },
+    "1442530": {
+      "appid": 1442530,
+      "name": "Outbreak Island",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T03:44:45.513002"
+    },
+    "1442650": {
+      "appid": 1442650,
+      "name": "White Day VR: The Courage Test",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T03:44:46.345917"
+    },
+    "1442670": {
+      "appid": 1442670,
+      "name": "Hamster Playground",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T03:44:46.596765"
+    },
+    "1442820": {
+      "appid": 1442820,
+      "name": "R-Type Final 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T03:44:47.239640"
+    },
+    "1442840": {
+      "appid": 1442840,
+      "name": "DIG - Deep In Galaxies",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T03:44:47.468742"
+    },
+    "1443170": {
+      "appid": 1443170,
+      "name": "Rhythm Stars Climbing",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T03:44:48.460894"
+    },
+    "1443260": {
+      "appid": 1443260,
+      "name": "Endless",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T03:44:49.219233"
+    },
+    "1443470": {
+      "appid": 1443470,
+      "name": "豪麻—黑色推理 ",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T03:44:50.919977"
+    },
+    "1443620": {
+      "appid": 1443620,
+      "name": "Pirates VR: Jolly Roger",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T03:44:51.601981"
+    },
+    "1443630": {
+      "appid": 1443630,
+      "name": "Turbo Sloths",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T03:44:51.762789"
+    },
+    "1443650": {
+      "appid": 1443650,
+      "name": "Dubbing Time",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T03:44:52.069779"
+    },
+    "1443810": {
+      "appid": 1443810,
+      "name": "Round 99",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T03:44:53.087143"
+    },
+    "1443980": {
+      "appid": 1443980,
+      "name": "罗马帝国战争",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T03:44:54.361419"
+    },
+    "1444300": {
+      "appid": 1444300,
+      "name": "Teacup",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T03:44:56.016047"
+    },
+    "1444350": {
+      "appid": 1444350,
+      "name": "House",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T03:44:56.348492"
+    },
+    "1444390": {
+      "appid": 1444390,
+      "name": "盒子阶梯",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T03:44:56.948805"
+    },
+    "1444410": {
+      "appid": 1444410,
+      "name": "Yuoni",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T03:44:57.082177"
+    },
+    "1444480": {
+      "appid": 1444480,
+      "name": "Turing Complete",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T03:44:57.585812"
+    },
+    "1444580": {
+      "appid": 1444580,
+      "name": "EVIL BELOW™",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T03:44:58.592559"
+    },
+    "1444650": {
+      "appid": 1444650,
+      "name": "Haydee 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T03:44:59.086586"
     }
   }
 }
