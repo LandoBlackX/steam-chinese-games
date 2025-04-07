@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-07T15:13:00.968387"
+    "updated": "2025-04-07T15:17:55.776795"
   },
   "games": {
     "570": {
@@ -80118,6 +80118,54 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-07T15:12:59.179954"
+    },
+    "1715130": {
+      "appid": 1715130,
+      "name": "Crysis Remastered",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T15:17:28.554140"
+    },
+    "1716170": {
+      "appid": 1716170,
+      "name": "Zoey: My Hentai Sex Doll",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T15:17:36.203941"
+    },
+    "1716740": {
+      "appid": 1716740,
+      "name": "Starfield",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T15:17:41.167515"
+    },
+    "1716940": {
+      "appid": 1716940,
+      "name": "Ancient Gods",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T15:17:43.215007"
+    },
+    "1717020": {
+      "appid": 1717020,
+      "name": "Ed-0: Zombie Uprising",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T15:17:43.608207"
+    },
+    "1717640": {
+      "appid": 1717640,
+      "name": "Mahokenshi - The Samurai Deckbuilder",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T15:17:47.704728"
     }
   }
 }
