@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-07T04:57:44.982616"
+    "updated": "2025-04-07T05:01:46.553611"
   },
   "games": {
     "570": {
@@ -77358,6 +77358,54 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-07T04:57:42.390446"
+    },
+    "1463780": {
+      "appid": 1463780,
+      "name": "墨影侠踪",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T05:01:16.563540"
+    },
+    "1464380": {
+      "appid": 1464380,
+      "name": "Eclipse",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T05:01:22.926417"
+    },
+    "1465360": {
+      "appid": 1465360,
+      "name": "SnowRunner",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T05:01:29.866560"
+    },
+    "1465510": {
+      "appid": 1465510,
+      "name": "DUSK '82: ULTIMATE EDITION",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T05:01:32.078381"
+    },
+    "1466230": {
+      "appid": 1466230,
+      "name": "神的超级大宝贝",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T05:01:37.945215"
+    },
+    "1466640": {
+      "appid": 1466640,
+      "name": "九十六号公路",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T05:01:41.229977"
     }
   }
 }
