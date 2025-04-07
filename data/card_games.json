@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-07T07:21:47.180978"
+    "updated": "2025-04-07T07:24:29.086003"
   },
   "games": {
     "570": {
@@ -78198,6 +78198,30 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-07T07:21:46.075879"
+    },
+    "1546790": {
+      "appid": 1546790,
+      "name": "Peace, Death! 2",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T07:24:06.089310"
+    },
+    "1547860": {
+      "appid": 1547860,
+      "name": "EBOLA 3",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T07:24:15.075466"
+    },
+    "1549030": {
+      "appid": 1549030,
+      "name": "100 hidden snails 2",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T07:24:23.293305"
     }
   }
 }
