@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-07T12:41:31.527138"
+    "updated": "2025-04-07T12:49:36.109288"
   },
   "games": {
     "570": {
@@ -79566,6 +79566,38 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-04-07T12:41:21.501328"
+    },
+    "1664220": {
+      "appid": 1664220,
+      "name": "TRAIL OUT",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T12:49:19.663703"
+    },
+    "1665190": {
+      "appid": 1665190,
+      "name": "Monster Prom 3: Monster Roadtrip",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T12:49:24.606607"
+    },
+    "1665260": {
+      "appid": 1665260,
+      "name": "Beyond Sunset",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T12:49:25.284782"
+    },
+    "1666510": {
+      "appid": 1666510,
+      "name": "魔斗姬莉斯缇亚",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T12:49:31.766136"
     }
   }
 }
