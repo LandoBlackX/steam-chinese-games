@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-07T19:54:15.148342"
+    "updated": "2025-04-07T20:23:28.288287"
   },
   "games": {
     "570": {
@@ -81142,6 +81142,22 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-04-07T19:54:07.472728"
+    },
+    "1822240": {
+      "appid": 1822240,
+      "name": "废城喵游记 Stars In The Trash",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T20:23:18.018291"
+    },
+    "1822560": {
+      "appid": 1822560,
+      "name": "Minabo - A walk through life",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T20:23:19.926525"
     }
   }
 }
