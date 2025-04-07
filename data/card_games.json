@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-07T17:46:57.750558"
+    "updated": "2025-04-07T17:59:51.619400"
   },
   "games": {
     "570": {
@@ -80806,6 +80806,62 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-04-07T17:46:40.867427"
+    },
+    "1776380": {
+      "appid": 1776380,
+      "name": "STAR OCEAN THE DIVINE FORCE",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T17:59:19.810255"
+    },
+    "1776970": {
+      "appid": 1776970,
+      "name": "近月少女的礼仪",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T17:59:24.339942"
+    },
+    "1777430": {
+      "appid": 1777430,
+      "name": "恋爱绮谭 不存在的真相",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T17:59:28.383795"
+    },
+    "1777620": {
+      "appid": 1777620,
+      "name": "灵魂骇客2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T17:59:29.812414"
+    },
+    "1778820": {
+      "appid": 1778820,
+      "name": "铁拳8",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T17:59:39.527338"
+    },
+    "1778870": {
+      "appid": 1778870,
+      "name": "Intruder In Antiquonia",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T17:59:40.302810"
+    },
+    "1779990": {
+      "appid": 1779990,
+      "name": "My Furry Detective 🐾",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T17:59:49.592952"
     }
   }
 }
