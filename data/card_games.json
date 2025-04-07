@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-07T17:59:51.619400"
+    "updated": "2025-04-07T18:11:58.047998"
   },
   "games": {
     "570": {
@@ -80862,6 +80862,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-04-07T17:59:49.592952"
+    },
+    "1781890": {
+      "appid": 1781890,
+      "name": "昏迷 2B：地下墓穴",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T18:11:37.954359"
     }
   }
 }
