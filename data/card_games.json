@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-07T16:04:21.917953"
+    "updated": "2025-04-07T16:07:34.499450"
   },
   "games": {
     "570": {
@@ -80470,6 +80470,38 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-07T16:04:06.145526"
+    },
+    "1742930": {
+      "appid": 1742930,
+      "name": "抬头只见天花板 Looking Up I See Only A Ceiling",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T16:07:10.482855"
+    },
+    "1743830": {
+      "appid": 1743830,
+      "name": "荣耀军营",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T16:07:17.036221"
+    },
+    "1744330": {
+      "appid": 1744330,
+      "name": "No More Heroes 3",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T16:07:19.799322"
+    },
+    "1745510": {
+      "appid": 1745510,
+      "name": "月下之癫",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T16:07:27.375146"
     }
   }
 }
