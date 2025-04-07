@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-07T09:34:16.477546"
+    "updated": "2025-04-07T09:45:22.622191"
   },
   "games": {
     "570": {
@@ -79086,6 +79086,54 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-07T09:34:12.445410"
+    },
+    "1610470": {
+      "appid": 1610470,
+      "name": "MXGP 2021 - The Official Motocross Videogame",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T09:44:57.494544"
+    },
+    "1611300": {
+      "appid": 1611300,
+      "name": "Happy Guy",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T09:45:02.442041"
+    },
+    "1611420": {
+      "appid": 1611420,
+      "name": "海平线 无尽旅程",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T09:45:03.249609"
+    },
+    "1611910": {
+      "appid": 1611910,
+      "name": "《Warhammer 40,000：混沌之门 - 恶魔猎人》",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T09:45:07.184804"
+    },
+    "1611960": {
+      "appid": 1611960,
+      "name": "Doomed Lands",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T09:45:07.632229"
+    },
+    "1612780": {
+      "appid": 1612780,
+      "name": "春逝百年抄 The Centennial Case: A Shijima Story",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T09:45:13.541202"
     }
   }
 }
