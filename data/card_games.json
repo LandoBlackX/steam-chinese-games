@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-07T20:23:28.288287"
+    "updated": "2025-04-07T20:28:32.512405"
   },
   "games": {
     "570": {
@@ -81158,6 +81158,38 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-07T20:23:19.926525"
+    },
+    "1823930": {
+      "appid": 1823930,
+      "name": "Wavetale",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T20:28:01.069713"
+    },
+    "1824220": {
+      "appid": 1824220,
+      "name": "Chivalry 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T20:28:04.870598"
+    },
+    "1824580": {
+      "appid": 1824580,
+      "name": "魔卡地下城",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T20:28:07.481444"
+    },
+    "1826570": {
+      "appid": 1826570,
+      "name": "First Class Escape 2: Head in the Clouds",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T20:28:21.063683"
     }
   }
 }
