@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-07T05:01:46.553611"
+    "updated": "2025-04-07T05:04:50.458001"
   },
   "games": {
     "570": {
@@ -77406,6 +77406,46 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-07T05:01:41.229977"
+    },
+    "1468260": {
+      "appid": 1468260,
+      "name": "Leaf Blower Revolution - Idle Game",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T05:04:12.646739"
+    },
+    "1469610": {
+      "appid": 1469610,
+      "name": "Last Train Home",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T05:04:24.740750"
+    },
+    "1469910": {
+      "appid": 1469910,
+      "name": "龍姬混~日子",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T05:04:27.268090"
+    },
+    "1470310": {
+      "appid": 1470310,
+      "name": "女巫2——地狱探险",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T05:04:32.228525"
+    },
+    "1471700": {
+      "appid": 1471700,
+      "name": "Minicology",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T05:04:45.274062"
     }
   }
 }

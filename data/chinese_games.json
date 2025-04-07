@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-07T05:01:46.553611"
+    "updated": "2025-04-07T05:04:50.458001"
   },
   "games": {
     "570": {
@@ -137056,6 +137056,342 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-04-07T05:01:44.499115"
+    },
+    "1467780": {
+      "appid": 1467780,
+      "name": "Geminism",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T05:04:07.099109"
+    },
+    "1467920": {
+      "appid": 1467920,
+      "name": "巴别号漫游指南",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T05:04:08.398892"
+    },
+    "1468110": {
+      "appid": 1468110,
+      "name": "Elements",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T05:04:10.502003"
+    },
+    "1468190": {
+      "appid": 1468190,
+      "name": "Hikeshi-Fireman-",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T05:04:11.568762"
+    },
+    "1468220": {
+      "appid": 1468220,
+      "name": "Sacrificial Lighthouse",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T05:04:11.782218"
+    },
+    "1468250": {
+      "appid": 1468250,
+      "name": "Kukoos: Lost Pets",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T05:04:12.325723"
+    },
+    "1468280": {
+      "appid": 1468280,
+      "name": "Inland",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T05:04:12.837787"
+    },
+    "1468400": {
+      "appid": 1468400,
+      "name": "梦想屋：游戏",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T05:04:14.113691"
+    },
+    "1468430": {
+      "appid": 1468430,
+      "name": "冰激凌",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T05:04:14.528329"
+    },
+    "1468810": {
+      "appid": 1468810,
+      "name": "鬼谷八荒",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T05:04:16.633312"
+    },
+    "1468950": {
+      "appid": 1468950,
+      "name": "魔界边缘",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T05:04:17.262516"
+    },
+    "1469170": {
+      "appid": 1469170,
+      "name": "Commandos 3 - HD Remaster",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T05:04:19.824967"
+    },
+    "1469280": {
+      "appid": 1469280,
+      "name": "SuchArt: Creative Space",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T05:04:21.236736"
+    },
+    "1469300": {
+      "appid": 1469300,
+      "name": "Leap of Love",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T05:04:21.715297"
+    },
+    "1469310": {
+      "appid": 1469310,
+      "name": "梦幻江湖",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T05:04:21.910703"
+    },
+    "1469450": {
+      "appid": 1469450,
+      "name": "Moon Caves",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T05:04:23.494219"
+    },
+    "1469540": {
+      "appid": 1469540,
+      "name": "Maximus 2: Street Gladiators",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T05:04:24.322299"
+    },
+    "1469610": {
+      "appid": 1469610,
+      "name": "Last Train Home",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T05:04:24.740750"
+    },
+    "1469620": {
+      "appid": 1469620,
+      "name": "Epic Battle Fantasy Collection",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T05:04:24.944364"
+    },
+    "1469910": {
+      "appid": 1469910,
+      "name": "龍姬混~日子",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T05:04:27.268090"
+    },
+    "1469960": {
+      "appid": 1469960,
+      "name": "Explosive Candy World",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T05:04:27.642832"
+    },
+    "1470120": {
+      "appid": 1470120,
+      "name": "Atopes",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T05:04:29.735340"
+    },
+    "1470310": {
+      "appid": 1470310,
+      "name": "女巫2——地狱探险",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T05:04:32.228525"
+    },
+    "1470380": {
+      "appid": 1470380,
+      "name": "A Pretty Odd Bunny",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T05:04:33.097989"
+    },
+    "1470390": {
+      "appid": 1470390,
+      "name": "律动之城",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T05:04:33.289665"
+    },
+    "1470650": {
+      "appid": 1470650,
+      "name": "枪林弹雨",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T05:04:35.316114"
+    },
+    "1470680": {
+      "appid": 1470680,
+      "name": "Seiso Master KEN",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T05:04:35.983130"
+    },
+    "1470750": {
+      "appid": 1470750,
+      "name": "MAGIC POT&TER BATTLEGROUNDS",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T05:04:37.023484"
+    },
+    "1470970": {
+      "appid": 1470970,
+      "name": "GraviFire",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T05:04:38.989309"
+    },
+    "1471040": {
+      "appid": 1471040,
+      "name": "基地一号",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T05:04:39.174071"
+    },
+    "1471120": {
+      "appid": 1471120,
+      "name": "弹幕大修仙 - 开篇",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T05:04:39.546033"
+    },
+    "1471180": {
+      "appid": 1471180,
+      "name": "梦江湖",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T05:04:39.878827"
+    },
+    "1471200": {
+      "appid": 1471200,
+      "name": "YUME",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T05:04:40.309159"
+    },
+    "1471410": {
+      "appid": 1471410,
+      "name": "SYNTHETIK 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T05:04:41.463317"
+    },
+    "1471450": {
+      "appid": 1471450,
+      "name": "X遊戲",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T05:04:41.855284"
+    },
+    "1471580": {
+      "appid": 1471580,
+      "name": "Death Run",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T05:04:43.767714"
+    },
+    "1471610": {
+      "appid": 1471610,
+      "name": "BDSM VR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T05:04:44.145125"
+    },
+    "1471650": {
+      "appid": 1471650,
+      "name": "The Knightling",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T05:04:44.870250"
+    },
+    "1471700": {
+      "appid": 1471700,
+      "name": "Minicology",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T05:04:45.274062"
+    },
+    "1471960": {
+      "appid": 1471960,
+      "name": "Room to Grow",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T05:04:47.287213"
+    },
+    "1472160": {
+      "appid": 1472160,
+      "name": "NEKO PAPALA",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T05:04:49.504024"
+    },
+    "1472250": {
+      "appid": 1472250,
+      "name": "ROG CITADEL XV",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T05:04:50.077447"
     }
   }
 }
