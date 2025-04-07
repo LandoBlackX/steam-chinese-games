@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-07T02:00:43.043210"
+    "updated": "2025-04-07T03:09:43.759683"
   },
   "games": {
     "570": {
@@ -76926,6 +76926,86 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-04-07T02:00:42.175404"
+    },
+    "1433340": {
+      "appid": 1433340,
+      "name": "Happy's Humble Burger Farm",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T03:09:14.556676"
+    },
+    "1433420": {
+      "appid": 1433420,
+      "name": "爱与战争：天选英雄",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T03:09:14.864331"
+    },
+    "1433860": {
+      "appid": 1433860,
+      "name": "The Amazing American Circus",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T03:09:16.824216"
+    },
+    "1434480": {
+      "appid": 1434480,
+      "name": "爱上火车-Last Run!!-",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T03:09:20.890303"
+    },
+    "1435670": {
+      "appid": 1435670,
+      "name": "罪城骇客",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T03:09:26.772025"
+    },
+    "1435790": {
+      "appid": 1435790,
+      "name": "密室逃脱模拟器",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T03:09:27.777861"
+    },
+    "1436590": {
+      "appid": 1436590,
+      "name": "Phoenotopia: Awakening",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T03:09:30.486520"
+    },
+    "1436700": {
+      "appid": 1436700,
+      "name": "Trine 5: A Clockwork Conspiracy",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T03:09:31.050692"
+    },
+    "1436810": {
+      "appid": 1436810,
+      "name": "The Door in the Basement",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T03:09:31.218222"
+    },
+    "1437050": {
+      "appid": 1437050,
+      "name": "EBOLA 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T03:09:32.675637"
     }
   }
 }
