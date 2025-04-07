@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-07T11:05:09.303858"
+    "updated": "2025-04-07T11:08:05.548680"
   },
   "games": {
     "570": {
@@ -79302,6 +79302,38 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-07T11:05:07.818039"
+    },
+    "1634150": {
+      "appid": 1634150,
+      "name": "倾听画语: 最美好的景色",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T11:07:38.194159"
+    },
+    "1635590": {
+      "appid": 1635590,
+      "name": "我的好友小猪佩奇",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T11:07:48.970037"
+    },
+    "1635980": {
+      "appid": 1635980,
+      "name": "无首拾忆录",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T11:07:53.280150"
+    },
+    "1637320": {
+      "appid": 1637320,
+      "name": "Dome Keeper 穹顶守护者",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T11:08:03.524783"
     }
   }
 }
