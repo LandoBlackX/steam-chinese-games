@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-07T08:44:16.852841"
+    "updated": "2025-04-07T08:57:32.191912"
   },
   "games": {
     "570": {
@@ -149528,6 +149528,406 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-04-07T08:44:16.687253"
+    },
+    "1592540": {
+      "appid": 1592540,
+      "name": "洛蕾塔",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T08:57:05.633829"
+    },
+    "1592580": {
+      "appid": 1592580,
+      "name": "OFFLINE",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T08:57:06.164027"
+    },
+    "1592640": {
+      "appid": 1592640,
+      "name": "Sakura Alien",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T08:57:06.804225"
+    },
+    "1592670": {
+      "appid": 1592670,
+      "name": "碳酸危机",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T08:57:07.099573"
+    },
+    "1592680": {
+      "appid": 1592680,
+      "name": "Anarchy: Wolf's law : Prologue",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T08:57:07.334257"
+    },
+    "1592740": {
+      "appid": 1592740,
+      "name": "Railroad Ink Challenge",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T08:57:07.719521"
+    },
+    "1592840": {
+      "appid": 1592840,
+      "name": "COME INSIDE MY INNER WORLD",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T08:57:08.407917"
+    },
+    "1592980": {
+      "appid": 1592980,
+      "name": "The Guardian",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T08:57:09.450265"
+    },
+    "1593010": {
+      "appid": 1593010,
+      "name": "The Store is Closed",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T08:57:09.705952"
+    },
+    "1593030": {
+      "appid": 1593030,
+      "name": "伊始之地",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T08:57:09.831198"
+    },
+    "1593230": {
+      "appid": 1593230,
+      "name": "渊域",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T08:57:11.548242"
+    },
+    "1593310": {
+      "appid": 1593310,
+      "name": "猫郎乐园 - Catboys Paradise",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T08:57:11.781540"
+    },
+    "1593500": {
+      "appid": 1593500,
+      "name": "God of War",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T08:57:12.675504"
+    },
+    "1593510": {
+      "appid": 1593510,
+      "name": "Furry Finder - Dating Visual Novel",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T08:57:12.777128"
+    },
+    "1593650": {
+      "appid": 1593650,
+      "name": "Dash and Fire",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T08:57:13.360922"
+    },
+    "1593660": {
+      "appid": 1593660,
+      "name": "罪恶街区",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T08:57:13.493063"
+    },
+    "1593690": {
+      "appid": 1593690,
+      "name": "彗星",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T08:57:13.603084"
+    },
+    "1593700": {
+      "appid": 1593700,
+      "name": "墨之韵",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T08:57:13.721517"
+    },
+    "1593750": {
+      "appid": 1593750,
+      "name": "Creatures of Aether",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T08:57:13.954097"
+    },
+    "1593780": {
+      "appid": 1593780,
+      "name": "请交出器官",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T08:57:14.322364"
+    },
+    "1593790": {
+      "appid": 1593790,
+      "name": "iFVN - AVG文字游戏制作工具",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T08:57:14.439714"
+    },
+    "1594040": {
+      "appid": 1594040,
+      "name": "Wreckreation",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T08:57:15.278533"
+    },
+    "1594090": {
+      "appid": 1594090,
+      "name": "Ark Mobius",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T08:57:15.523628"
+    },
+    "1594170": {
+      "appid": 1594170,
+      "name": "Rekindle",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T08:57:16.220488"
+    },
+    "1594220": {
+      "appid": 1594220,
+      "name": "淫贱海滩大乱交",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T08:57:16.599768"
+    },
+    "1594320": {
+      "appid": 1594320,
+      "name": "工业巨头 (Captain of Industry)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T08:57:17.086849"
+    },
+    "1594340": {
+      "appid": 1594340,
+      "name": "Last Village",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T08:57:17.207724"
+    },
+    "1594460": {
+      "appid": 1594460,
+      "name": "血海雷霆",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T08:57:18.194478"
+    },
+    "1594480": {
+      "appid": 1594480,
+      "name": "一个孤独者的肖像",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T08:57:18.302840"
+    },
+    "1594570": {
+      "appid": 1594570,
+      "name": "VR文明的宝藏黑石号传说",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T08:57:18.690641"
+    },
+    "1594810": {
+      "appid": 1594810,
+      "name": "ASMR LIGHTness - 光绘",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T08:57:19.827540"
+    },
+    "1594880": {
+      "appid": 1594880,
+      "name": "Corsairs Legacy - Pirate Action RPG & Sea Battles",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T08:57:20.279580"
+    },
+    "1594940": {
+      "appid": 1594940,
+      "name": "林中小女巫",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T08:57:20.702990"
+    },
+    "1595000": {
+      "appid": 1595000,
+      "name": "Firelight Fantasy: Phoenix Crew",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T08:57:21.468781"
+    },
+    "1595030": {
+      "appid": 1595030,
+      "name": "Bad Memories",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T08:57:21.891429"
+    },
+    "1595190": {
+      "appid": 1595190,
+      "name": "另一种修仙",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T08:57:23.035731"
+    },
+    "1595280": {
+      "appid": 1595280,
+      "name": "卡牌缔造者-CardMaker",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T08:57:23.555720"
+    },
+    "1595290": {
+      "appid": 1595290,
+      "name": "PumPum",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T08:57:23.714239"
+    },
+    "1595310": {
+      "appid": 1595310,
+      "name": "蛮王传奇",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T08:57:23.979519"
+    },
+    "1595440": {
+      "appid": 1595440,
+      "name": "密閉Airtight",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T08:57:24.903972"
+    },
+    "1595710": {
+      "appid": 1595710,
+      "name": "Chased by Darkness",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T08:57:26.349003"
+    },
+    "1595780": {
+      "appid": 1595780,
+      "name": "Inno World",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T08:57:26.924687"
+    },
+    "1596010": {
+      "appid": 1596010,
+      "name": "马丁与魔杖。",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T08:57:28.237430"
+    },
+    "1596110": {
+      "appid": 1596110,
+      "name": "Sweet Desire",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T08:57:29.028732"
+    },
+    "1596230": {
+      "appid": 1596230,
+      "name": "Queen of Mountain",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T08:57:29.680345"
+    },
+    "1596240": {
+      "appid": 1596240,
+      "name": "Overlay Balls & Mouse Tails",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T08:57:29.814442"
+    },
+    "1596370": {
+      "appid": 1596370,
+      "name": "Beat Souls",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T08:57:30.880052"
+    },
+    "1596430": {
+      "appid": 1596430,
+      "name": "重生勇者",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T08:57:31.256771"
+    },
+    "1596580": {
+      "appid": 1596580,
+      "name": "SPYCITY",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T08:57:31.797807"
+    },
+    "1596730": {
+      "appid": 1596730,
+      "name": "恐龙朋克 / Dynopunk",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T08:57:32.190179"
     }
   }
 }

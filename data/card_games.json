@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-07T08:44:16.852841"
+    "updated": "2025-04-07T08:57:32.191912"
   },
   "games": {
     "570": {
@@ -78830,6 +78830,46 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-07T08:44:14.201185"
+    },
+    "1592540": {
+      "appid": 1592540,
+      "name": "洛蕾塔",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T08:57:05.633829"
+    },
+    "1594460": {
+      "appid": 1594460,
+      "name": "血海雷霆",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T08:57:18.194478"
+    },
+    "1595290": {
+      "appid": 1595290,
+      "name": "PumPum",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T08:57:23.714239"
+    },
+    "1595710": {
+      "appid": 1595710,
+      "name": "Chased by Darkness",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T08:57:26.349003"
+    },
+    "1596730": {
+      "appid": 1596730,
+      "name": "恐龙朋克 / Dynopunk",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T08:57:32.190179"
     }
   }
 }
