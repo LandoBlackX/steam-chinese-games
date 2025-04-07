@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-07T20:41:03.484625"
+    "updated": "2025-04-07T20:54:05.850745"
   },
   "games": {
     "570": {
@@ -81206,6 +81206,54 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-07T20:40:54.391524"
+    },
+    "1834960": {
+      "appid": 1834960,
+      "name": "Neko Secret - Homecoming",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T20:53:54.685867"
+    },
+    "1835240": {
+      "appid": 1835240,
+      "name": "Spiritfall",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T20:53:57.088025"
+    },
+    "1835970": {
+      "appid": 1835970,
+      "name": "ICEwall",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T20:54:01.787193"
+    },
+    "1836120": {
+      "appid": 1836120,
+      "name": "QUICKERFLAK",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T20:54:02.285612"
+    },
+    "1836160": {
+      "appid": 1836160,
+      "name": "PANELKI",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T20:54:02.571217"
+    },
+    "1836420": {
+      "appid": 1836420,
+      "name": "Monster Girl Invasion RPG - Part 1",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T20:54:05.161591"
     }
   }
 }
