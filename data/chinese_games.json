@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-07T03:44:59.644566"
+    "updated": "2025-04-07T03:57:51.318177"
   },
   "games": {
     "570": {
@@ -134760,6 +134760,390 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-04-07T03:44:59.086586"
+    },
+    "1444730": {
+      "appid": 1444730,
+      "name": "My Sweet Washing Machine!",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T03:57:26.627492"
+    },
+    "1444920": {
+      "appid": 1444920,
+      "name": "Doctor Who: The Edge of Reality",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T03:57:28.826674"
+    },
+    "1445090": {
+      "appid": 1445090,
+      "name": "ERO Shooter",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T03:57:29.648348"
+    },
+    "1445150": {
+      "appid": 1445150,
+      "name": "LEO: The Unexpected Journey",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T03:57:29.963939"
+    },
+    "1445580": {
+      "appid": 1445580,
+      "name": "Good puzzle: Music",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T03:57:31.796718"
+    },
+    "1445650": {
+      "appid": 1445650,
+      "name": "Vylan",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T03:57:32.206730"
+    },
+    "1445670": {
+      "appid": 1445670,
+      "name": "依澪 Zero Plan",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T03:57:32.310874"
+    },
+    "1445790": {
+      "appid": 1445790,
+      "name": "Make Way",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T03:57:32.876851"
+    },
+    "1445880": {
+      "appid": 1445880,
+      "name": "Rockbeasts",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T03:57:33.812878"
+    },
+    "1446160": {
+      "appid": 1446160,
+      "name": "Toy Soldiers: HD",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T03:57:34.666040"
+    },
+    "1446350": {
+      "appid": 1446350,
+      "name": "You Will Die Here Tonight",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T03:57:35.868281"
+    },
+    "1446540": {
+      "appid": 1446540,
+      "name": "Fillit",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T03:57:37.190575"
+    },
+    "1446650": {
+      "appid": 1446650,
+      "name": "BRAVELY DEFAULT II",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T03:57:37.550118"
+    },
+    "1446670": {
+      "appid": 1446670,
+      "name": "Tin Tandem",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T03:57:37.665142"
+    },
+    "1446750": {
+      "appid": 1446750,
+      "name": "Healing Animal",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T03:57:37.996866"
+    },
+    "1446780": {
+      "appid": 1446780,
+      "name": "MONSTER HUNTER RISE",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T03:57:38.380735"
+    },
+    "1446790": {
+      "appid": 1446790,
+      "name": "CRUDE",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T03:57:38.477289"
+    },
+    "1446890": {
+      "appid": 1446890,
+      "name": "Shadow Fight Arena",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T03:57:39.270033"
+    },
+    "1446930": {
+      "appid": 1446930,
+      "name": "Merge & Blade",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T03:57:39.503583"
+    },
+    "1446980": {
+      "appid": 1446980,
+      "name": "Quick Square",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T03:57:39.730110"
+    },
+    "1447000": {
+      "appid": 1447000,
+      "name": "MotoGP™21",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T03:57:39.843119"
+    },
+    "1447050": {
+      "appid": 1447050,
+      "name": "Enoki",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T03:57:40.066414"
+    },
+    "1447060": {
+      "appid": 1447060,
+      "name": "Jad",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T03:57:40.174481"
+    },
+    "1447070": {
+      "appid": 1447070,
+      "name": "Spinning_Kid_2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T03:57:40.295015"
+    },
+    "1447080": {
+      "appid": 1447080,
+      "name": "SMFly: Ice Age",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T03:57:40.420287"
+    },
+    "1447090": {
+      "appid": 1447090,
+      "name": "Tarek",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T03:57:40.543246"
+    },
+    "1447250": {
+      "appid": 1447250,
+      "name": "路网模拟器  Junxions",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T03:57:41.196779"
+    },
+    "1447310": {
+      "appid": 1447310,
+      "name": "透明人間人妻中出",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T03:57:41.732870"
+    },
+    "1447400": {
+      "appid": 1447400,
+      "name": "Samurai Slaughter House",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T03:57:42.100300"
+    },
+    "1447430": {
+      "appid": 1447430,
+      "name": "小黑盒加速器",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T03:57:42.310694"
+    },
+    "1447470": {
+      "appid": 1447470,
+      "name": "全战天下",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T03:57:42.415948"
+    },
+    "1447490": {
+      "appid": 1447490,
+      "name": "Hentai Chicks 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T03:57:42.541184"
+    },
+    "1447570": {
+      "appid": 1447570,
+      "name": "孙悟空大战变形金刚",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T03:57:42.740669"
+    },
+    "1447870": {
+      "appid": 1447870,
+      "name": "鬼王~Oni",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T03:57:44.138158"
+    },
+    "1447900": {
+      "appid": 1447900,
+      "name": "Gold Dust",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T03:57:44.270450"
+    },
+    "1448000": {
+      "appid": 1448000,
+      "name": "迷离诡夜 blurred weird night",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T03:57:44.598816"
+    },
+    "1448180": {
+      "appid": 1448180,
+      "name": "Runlancer",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T03:57:46.257162"
+    },
+    "1448260": {
+      "appid": 1448260,
+      "name": "下一站江湖Ⅰ",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T03:57:46.812081"
+    },
+    "1448290": {
+      "appid": 1448290,
+      "name": "罗斯之旅 Roce's Journey",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T03:57:46.915876"
+    },
+    "1448350": {
+      "appid": 1448350,
+      "name": "QUANTAAR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T03:57:47.453595"
+    },
+    "1448400": {
+      "appid": 1448400,
+      "name": "蓝实战队",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T03:57:47.556768"
+    },
+    "1448440": {
+      "appid": 1448440,
+      "name": "Wo Long: Fallen Dynasty （卧龙：苍天陨落）",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T03:57:47.671359"
+    },
+    "1448530": {
+      "appid": 1448530,
+      "name": "Soccer Manager 2021",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T03:57:47.993447"
+    },
+    "1448590": {
+      "appid": 1448590,
+      "name": "Brawl Chess - Gambit",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T03:57:48.343177"
+    },
+    "1448750": {
+      "appid": 1448750,
+      "name": "Hentai Beach",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T03:57:49.276860"
+    },
+    "1448760": {
+      "appid": 1448760,
+      "name": "The Plane Effect",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T03:57:49.399271"
+    },
+    "1448840": {
+      "appid": 1448840,
+      "name": "Very Very Valet",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T03:57:50.028433"
+    },
+    "1448960": {
+      "appid": 1448960,
+      "name": "Dicey Krime: Traveler of Time",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T03:57:50.665730"
     }
   }
 }

@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-07T03:44:59.644566"
+    "updated": "2025-04-07T03:57:51.318177"
   },
   "games": {
     "570": {
@@ -77070,6 +77070,46 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-04-07T03:44:56.615781"
+    },
+    "1446330": {
+      "appid": 1446330,
+      "name": "100 hidden snails",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T03:57:35.651944"
+    },
+    "1446650": {
+      "appid": 1446650,
+      "name": "BRAVELY DEFAULT II",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T03:57:37.550118"
+    },
+    "1446780": {
+      "appid": 1446780,
+      "name": "MONSTER HUNTER RISE",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T03:57:38.380735"
+    },
+    "1446850": {
+      "appid": 1446850,
+      "name": "Hentai Furry 2",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T03:57:38.814297"
+    },
+    "1447000": {
+      "appid": 1447000,
+      "name": "MotoGP™21",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T03:57:39.843119"
     }
   }
 }
