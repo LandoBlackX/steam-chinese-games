@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-07T07:28:10.063868"
+    "updated": "2025-04-07T07:38:32.854371"
   },
   "games": {
     "570": {
@@ -78286,6 +78286,62 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-07T07:28:09.640763"
+    },
+    "1554220": {
+      "appid": 1554220,
+      "name": "Paleon",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T07:38:05.166318"
+    },
+    "1554260": {
+      "appid": 1554260,
+      "name": "Knightly Passions",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T07:38:05.310787"
+    },
+    "1554600": {
+      "appid": 1554600,
+      "name": "Wife Quest",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T07:38:07.624402"
+    },
+    "1555110": {
+      "appid": 1555110,
+      "name": "Chasing Tails 〜雪中誓约〜",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T07:38:10.900664"
+    },
+    "1556100": {
+      "appid": 1556100,
+      "name": "Killer Klowns from Outer Space: The Game",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T07:38:16.904030"
+    },
+    "1556790": {
+      "appid": 1556790,
+      "name": "伊松佐河",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T07:38:21.348008"
+    },
+    "1558510": {
+      "appid": 1558510,
+      "name": "梅卡妮可 -兔子与水星之谣-",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T07:38:31.664520"
     }
   }
 }

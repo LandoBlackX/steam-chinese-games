@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-07T07:28:10.063868"
+    "updated": "2025-04-07T07:38:32.854371"
   },
   "games": {
     "570": {
@@ -145448,6 +145448,470 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-04-07T07:28:09.904399"
+    },
+    "1553970": {
+      "appid": 1553970,
+      "name": "Gold  Challenge",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:38:02.823568"
+    },
+    "1554010": {
+      "appid": 1554010,
+      "name": "我的变色龙女友My Chameleon Girlfriend",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:38:03.240617"
+    },
+    "1554020": {
+      "appid": 1554020,
+      "name": "混沌核心",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:38:03.384112"
+    },
+    "1554030": {
+      "appid": 1554030,
+      "name": "我要成为铸剑师",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:38:03.651097"
+    },
+    "1554110": {
+      "appid": 1554110,
+      "name": "Disaster crisis/灾难危机",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:38:04.287247"
+    },
+    "1554170": {
+      "appid": 1554170,
+      "name": "Coonwood",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:38:04.850037"
+    },
+    "1554220": {
+      "appid": 1554220,
+      "name": "Paleon",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T07:38:05.166318"
+    },
+    "1554270": {
+      "appid": 1554270,
+      "name": "The Cold White",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:38:05.449721"
+    },
+    "1554470": {
+      "appid": 1554470,
+      "name": "灵龙岛",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:38:06.640217"
+    },
+    "1554530": {
+      "appid": 1554530,
+      "name": "Dreams and Nightmares",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:38:07.185758"
+    },
+    "1554550": {
+      "appid": 1554550,
+      "name": "Unlock The Cat",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:38:07.325723"
+    },
+    "1554600": {
+      "appid": 1554600,
+      "name": "Wife Quest",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T07:38:07.624402"
+    },
+    "1554670": {
+      "appid": 1554670,
+      "name": "Voidwalkers - Soul Hunters",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:38:08.395268"
+    },
+    "1554680": {
+      "appid": 1554680,
+      "name": "北斗将星录",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:38:08.528257"
+    },
+    "1554780": {
+      "appid": 1554780,
+      "name": "Trekking and Camping | 远足与露营",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:38:09.293425"
+    },
+    "1554790": {
+      "appid": 1554790,
+      "name": "Coloring Game 4",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:38:09.515681"
+    },
+    "1554850": {
+      "appid": 1554850,
+      "name": "One Try Tower",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:38:09.801592"
+    },
+    "1554970": {
+      "appid": 1554970,
+      "name": "游灵 Rogue Spirit",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:38:10.455444"
+    },
+    "1555080": {
+      "appid": 1555080,
+      "name": "Sniper Ships: Shoot'em Up on Rails",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:38:10.759680"
+    },
+    "1555110": {
+      "appid": 1555110,
+      "name": "Chasing Tails 〜雪中誓约〜",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T07:38:10.900664"
+    },
+    "1555140": {
+      "appid": 1555140,
+      "name": "面包之子",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:38:11.042488"
+    },
+    "1555160": {
+      "appid": 1555160,
+      "name": "Frog story",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:38:11.520965"
+    },
+    "1555400": {
+      "appid": 1555400,
+      "name": "一起五子棋",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:38:12.541813"
+    },
+    "1555660": {
+      "appid": 1555660,
+      "name": "卢沟桥事变",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:38:14.329364"
+    },
+    "1555790": {
+      "appid": 1555790,
+      "name": "Wild Dose",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:38:15.000210"
+    },
+    "1555800": {
+      "appid": 1555800,
+      "name": "The War Enders: First Strike | 终战：初击",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:38:15.159611"
+    },
+    "1555930": {
+      "appid": 1555930,
+      "name": "Beyond Horizon",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:38:15.739993"
+    },
+    "1555980": {
+      "appid": 1555980,
+      "name": "遵命！机母大人",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:38:16.296426"
+    },
+    "1556100": {
+      "appid": 1556100,
+      "name": "Killer Klowns from Outer Space: The Game",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T07:38:16.904030"
+    },
+    "1556190": {
+      "appid": 1556190,
+      "name": "新婚人妻NTR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:38:17.883856"
+    },
+    "1556200": {
+      "appid": 1556200,
+      "name": "Predator: Hunting Grounds",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:38:18.038313"
+    },
+    "1556340": {
+      "appid": 1556340,
+      "name": "Jamir",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:38:18.712057"
+    },
+    "1556480": {
+      "appid": 1556480,
+      "name": "KARMA",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:38:19.654132"
+    },
+    "1556790": {
+      "appid": 1556790,
+      "name": "伊松佐河",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T07:38:21.348008"
+    },
+    "1556860": {
+      "appid": 1556860,
+      "name": "Role Player: Full Immersion",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:38:21.612025"
+    },
+    "1556870": {
+      "appid": 1556870,
+      "name": "高尔夫：废土",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:38:21.747987"
+    },
+    "1556920": {
+      "appid": 1556920,
+      "name": "1, 2 BLAME!",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:38:21.927274"
+    },
+    "1556930": {
+      "appid": 1556930,
+      "name": "被爱着",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:38:22.072209"
+    },
+    "1556980": {
+      "appid": 1556980,
+      "name": "互联网原住民 Internet Generation",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:38:22.361061"
+    },
+    "1557040": {
+      "appid": 1557040,
+      "name": "焕然异星：序章 ",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:38:22.495572"
+    },
+    "1557060": {
+      "appid": 1557060,
+      "name": "Wonhon: Prologue",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:38:22.799403"
+    },
+    "1557230": {
+      "appid": 1557230,
+      "name": "Rabbit Riot",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:38:23.797086"
+    },
+    "1557240": {
+      "appid": 1557240,
+      "name": "Sheriff Rage",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:38:23.934377"
+    },
+    "1557410": {
+      "appid": 1557410,
+      "name": "黑色巫术",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:38:24.812406"
+    },
+    "1557470": {
+      "appid": 1557470,
+      "name": "Baby Dragon Rancher",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:38:25.341844"
+    },
+    "1557510": {
+      "appid": 1557510,
+      "name": "Myastere -Ruins of Deazniff-",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:38:25.601350"
+    },
+    "1557540": {
+      "appid": 1557540,
+      "name": "Cutie Bear",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:38:25.752917"
+    },
+    "1557550": {
+      "appid": 1557550,
+      "name": "Rogues Adventure",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:38:25.900053"
+    },
+    "1557690": {
+      "appid": 1557690,
+      "name": "三国演义之蜀汉传奇",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:38:26.358307"
+    },
+    "1557700": {
+      "appid": 1557700,
+      "name": "The World After",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:38:26.522550"
+    },
+    "1557720": {
+      "appid": 1557720,
+      "name": "机器人灌篮",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:38:26.789866"
+    },
+    "1557740": {
+      "appid": 1557740,
+      "name": "ROUNDS",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:38:26.931539"
+    },
+    "1557860": {
+      "appid": 1557860,
+      "name": "Gear.Club Unlimited 2 - Ultimate Edition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:38:27.503394"
+    },
+    "1557870": {
+      "appid": 1557870,
+      "name": "红鸟 - Help",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:38:27.660578"
+    },
+    "1558420": {
+      "appid": 1558420,
+      "name": "Galaxy Arena",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:38:30.968510"
+    },
+    "1558490": {
+      "appid": 1558490,
+      "name": "Firelight Fantasy: Resistance",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:38:31.532182"
+    },
+    "1558510": {
+      "appid": 1558510,
+      "name": "梅卡妮可 -兔子与水星之谣-",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T07:38:31.664520"
+    },
+    "1558630": {
+      "appid": 1558630,
+      "name": "王国警备队",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-04-07T07:38:32.294606"
     }
   }
 }
