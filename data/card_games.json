@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-07T20:54:05.850745"
+    "updated": "2025-04-07T21:19:46.972881"
   },
   "games": {
     "570": {
@@ -81254,6 +81254,46 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-04-07T20:54:05.161591"
+    },
+    "1836860": {
+      "appid": 1836860,
+      "name": "Neptunia x SENRAN KAGURA: Ninja Wars",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T21:19:20.400109"
+    },
+    "1837650": {
+      "appid": 1837650,
+      "name": "小鸡大探险",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T21:19:26.541391"
+    },
+    "1837690": {
+      "appid": 1837690,
+      "name": "Archtower",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T21:19:26.853385"
+    },
+    "1839880": {
+      "appid": 1839880,
+      "name": "King Of The Castle",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T21:19:41.666999"
+    },
+    "1839940": {
+      "appid": 1839940,
+      "name": "Dakar Desert Rally",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-07T21:19:42.197967"
     }
   }
 }
