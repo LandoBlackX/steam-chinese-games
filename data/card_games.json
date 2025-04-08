@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-08T03:54:22.454421"
+    "updated": "2025-04-08T04:25:01.913548"
   },
   "games": {
     "570": {
@@ -81766,6 +81766,38 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-08T03:54:13.541121"
+    },
+    "1901370": {
+      "appid": 1901370,
+      "name": "Ib",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T04:24:30.876841"
+    },
+    "1904040": {
+      "appid": 1904040,
+      "name": "Fantasy Fishing Town",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T04:24:53.617853"
+    },
+    "1904880": {
+      "appid": 1904880,
+      "name": "木偶往事 - Once Upon A Puppet",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T04:25:00.457342"
+    },
+    "1905020": {
+      "appid": 1905020,
+      "name": "Greyhill Incident",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T04:25:01.318253"
     }
   }
 }
