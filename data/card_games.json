@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-08T07:39:28.625250"
+    "updated": "2025-04-08T07:46:56.470261"
   },
   "games": {
     "570": {
@@ -82446,6 +82446,54 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-08T07:39:27.020757"
+    },
+    "1990690": {
+      "appid": 1990690,
+      "name": "Cooking Live - Italian Kitchen Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T07:46:32.554602"
+    },
+    "1990740": {
+      "appid": 1990740,
+      "name": "Barro GT",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T07:46:33.157979"
+    },
+    "1992370": {
+      "appid": 1992370,
+      "name": "FURRY HITLER",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T07:46:44.619588"
+    },
+    "1992640": {
+      "appid": 1992640,
+      "name": "Anime vs Evil: Apocalypse",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T07:46:46.403280"
+    },
+    "1993200": {
+      "appid": 1993200,
+      "name": "女巫 3 回归",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T07:46:51.132175"
+    },
+    "1993450": {
+      "appid": 1993450,
+      "name": "非套路奇幻游戏 (YAFT)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T07:46:52.402532"
     }
   }
 }
