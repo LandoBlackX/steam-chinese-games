@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-08T18:58:10.295307"
+    "updated": "2025-04-08T19:11:58.563694"
   },
   "games": {
     "570": {
@@ -84806,6 +84806,46 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-04-08T18:58:02.425129"
+    },
+    "2317820": {
+      "appid": 2317820,
+      "name": "胡闹城堡",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T19:11:32.760081"
+    },
+    "2318070": {
+      "appid": 2318070,
+      "name": "Little Big Adventure – Twinsen’s Quest",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T19:11:33.862551"
+    },
+    "2319640": {
+      "appid": 2319640,
+      "name": "Rise of Gun",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T19:11:43.948810"
+    },
+    "2321120": {
+      "appid": 2321120,
+      "name": "纯爱声放送 Voice Love on Air",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T19:11:51.987795"
+    },
+    "2321180": {
+      "appid": 2321180,
+      "name": "SHUFFLE! episode2 ～被神与魔同时盯上的男人～",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T19:11:52.118061"
     }
   }
 }
