@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-08T08:13:53.637717"
+    "updated": "2025-04-08T08:20:04.299142"
   },
   "games": {
     "570": {
@@ -82726,6 +82726,46 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-08T08:13:48.371859"
+    },
+    "2013900": {
+      "appid": 2013900,
+      "name": "100 hidden turtles",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T08:19:37.071582"
+    },
+    "2014380": {
+      "appid": 2014380,
+      "name": "LIVE A LIVE",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T08:19:39.327610"
+    },
+    "2015080": {
+      "appid": 2015080,
+      "name": "Furry Fantasy",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T08:19:44.165562"
+    },
+    "2016370": {
+      "appid": 2016370,
+      "name": "Adorable Witch 4 ：Lust",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T08:19:51.795453"
+    },
+    "2018130": {
+      "appid": 2018130,
+      "name": "Desktopia: A Desktop Village Simulator",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T08:20:03.282146"
     }
   }
 }
