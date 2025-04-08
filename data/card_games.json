@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-08T16:28:03.049914"
+    "updated": "2025-04-08T16:30:57.267424"
   },
   "games": {
     "570": {
@@ -84182,6 +84182,30 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-04-08T16:27:55.561068"
+    },
+    "2235020": {
+      "appid": 2235020,
+      "name": "Contra: Operation Galuga",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T16:30:29.554998"
+    },
+    "2238900": {
+      "appid": 2238900,
+      "name": "STAR OCEAN THE SECOND STORY R",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T16:30:52.869438"
+    },
+    "2239130": {
+      "appid": 2239130,
+      "name": "窗台上的蝴蝶",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T16:30:54.364951"
     }
   }
 }
