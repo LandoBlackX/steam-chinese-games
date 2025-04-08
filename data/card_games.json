@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-08T04:57:53.483360"
+    "updated": "2025-04-08T05:24:03.019183"
   },
   "games": {
     "570": {
@@ -81822,6 +81822,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-04-08T04:57:41.517366"
+    },
+    "1918040": {
+      "appid": 1918040,
+      "name": "Army of Ruin",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T05:23:56.989466"
     }
   }
 }
