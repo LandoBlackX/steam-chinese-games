@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-08T10:48:04.076394"
+    "updated": "2025-04-08T11:00:58.180827"
   },
   "games": {
     "570": {
@@ -83254,6 +83254,54 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-04-08T10:48:01.235642"
+    },
+    "2107550": {
+      "appid": 2107550,
+      "name": "谷峰地",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T11:00:24.636152"
+    },
+    "2109370": {
+      "appid": 2109370,
+      "name": "The Great War: Western Front™",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T11:00:38.710867"
+    },
+    "2109510": {
+      "appid": 2109510,
+      "name": "CyberTD",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T11:00:40.269526"
+    },
+    "2109640": {
+      "appid": 2109640,
+      "name": "交汇协奏曲",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T11:00:41.798911"
+    },
+    "2111170": {
+      "appid": 2111170,
+      "name": "牧场物语 Welcome！美丽人生",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T11:00:52.131022"
+    },
+    "2111190": {
+      "appid": 2111190,
+      "name": "MULLET MADJACK",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T11:00:52.660394"
     }
   }
 }
