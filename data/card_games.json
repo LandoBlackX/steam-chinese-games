@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-08T13:03:47.062775"
+    "updated": "2025-04-08T13:06:52.551143"
   },
   "games": {
     "570": {
@@ -83582,6 +83582,22 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-08T13:03:37.864097"
+    },
+    "2161700": {
+      "appid": 2161700,
+      "name": "女神异闻录３ Reload",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T13:06:43.190267"
+    },
+    "2163060": {
+      "appid": 2163060,
+      "name": "Summer Crush",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T13:06:50.257563"
     }
   }
 }
