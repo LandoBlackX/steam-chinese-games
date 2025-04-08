@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-08T14:16:29.487238"
+    "updated": "2025-04-08T14:27:25.702682"
   },
   "games": {
     "570": {
@@ -83934,6 +83934,22 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-08T14:16:28.239212"
+    },
+    "2200580": {
+      "appid": 2200580,
+      "name": "奇々怪界 黒マントの謎",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T14:27:05.379281"
+    },
+    "2200780": {
+      "appid": 2200780,
+      "name": "My Dream Setup",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T14:27:06.716730"
     }
   }
 }
