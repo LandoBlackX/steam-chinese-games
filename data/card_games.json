@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-08T17:35:36.671157"
+    "updated": "2025-04-08T17:44:01.898274"
   },
   "games": {
     "570": {
@@ -84478,6 +84478,54 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-08T17:35:33.902368"
+    },
+    "2275940": {
+      "appid": 2275940,
+      "name": "Rogue Hex",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T17:43:33.004987"
+    },
+    "2276420": {
+      "appid": 2276420,
+      "name": "绝命游歌",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T17:43:37.038280"
+    },
+    "2277300": {
+      "appid": 2277300,
+      "name": "NTR'd By Clumsiness",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T17:43:42.968493"
+    },
+    "2277320": {
+      "appid": 2277320,
+      "name": "亡灵巫师2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T17:43:43.256504"
+    },
+    "2278010": {
+      "appid": 2278010,
+      "name": "Six Ages 2: Lights Going Out",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T17:43:48.038560"
+    },
+    "2279330": {
+      "appid": 2279330,
+      "name": "Savant - Ascent REMIX",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T17:43:54.772287"
     }
   }
 }
