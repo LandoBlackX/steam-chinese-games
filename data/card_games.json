@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-08T10:30:15.329167"
+    "updated": "2025-04-08T10:34:21.684823"
   },
   "games": {
     "570": {
@@ -83198,6 +83198,30 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-08T10:30:05.113866"
+    },
+    "2099080": {
+      "appid": 2099080,
+      "name": "Hidden Cats in London",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T10:33:55.389103"
+    },
+    "2100160": {
+      "appid": 2100160,
+      "name": "MotoGP™23",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T10:34:02.849610"
+    },
+    "2101130": {
+      "appid": 2101130,
+      "name": "若不疯魔何言爱过",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T10:34:09.495592"
     }
   }
 }
