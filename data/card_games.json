@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-08T05:42:44.959445"
+    "updated": "2025-04-08T05:44:00.580677"
   },
   "games": {
     "570": {
@@ -81918,6 +81918,22 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-04-08T05:42:30.177021"
+    },
+    "1928090": {
+      "appid": 1928090,
+      "name": "Cook Serve Forever",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T05:43:34.735472"
+    },
+    "1930580": {
+      "appid": 1930580,
+      "name": "恶魔酱的五日恶戏",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T05:43:56.140816"
     }
   }
 }
