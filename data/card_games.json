@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-08T07:46:56.470261"
+    "updated": "2025-04-08T07:48:54.074990"
   },
   "games": {
     "570": {
@@ -82494,6 +82494,54 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-08T07:46:52.402532"
+    },
+    "1995880": {
+      "appid": 1995880,
+      "name": "梦中影",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T07:48:40.223535"
+    },
+    "1996010": {
+      "appid": 1996010,
+      "name": "Crow Country",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T07:48:41.200937"
+    },
+    "1996210": {
+      "appid": 1996210,
+      "name": "樱姬3",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T07:48:41.781734"
+    },
+    "1996420": {
+      "appid": 1996420,
+      "name": "我委托了一些蜜蜂",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T07:48:42.530822"
+    },
+    "1998330": {
+      "appid": 1998330,
+      "name": "夜回三",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T07:48:53.805259"
+    },
+    "1998340": {
+      "appid": 1998340,
+      "name": "Labyrinth of Galleria: The Moon Society",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T07:48:53.922756"
     }
   }
 }
