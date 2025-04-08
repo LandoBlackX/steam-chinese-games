@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-08T09:32:53.163942"
+    "updated": "2025-04-08T09:35:06.845260"
   },
   "games": {
     "570": {
@@ -83030,6 +83030,30 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-08T09:32:50.164634"
+    },
+    "2074370": {
+      "appid": 2074370,
+      "name": "REPLAY BOYS",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T09:34:42.799791"
+    },
+    "2074800": {
+      "appid": 2074800,
+      "name": "大富翁11",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T09:34:47.138712"
+    },
+    "2075100": {
+      "appid": 2075100,
+      "name": "切尔诺贝利人2：禁区",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T09:34:49.698654"
     }
   }
 }
