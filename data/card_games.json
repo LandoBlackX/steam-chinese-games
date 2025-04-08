@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-08T19:21:50.497886"
+    "updated": "2025-04-08T19:36:21.302251"
   },
   "games": {
     "570": {
@@ -84846,6 +84846,14 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-08T19:11:52.118061"
+    },
+    "2328730": {
+      "appid": 2328730,
+      "name": "Polimines 2",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T19:36:11.115534"
     }
   }
 }
