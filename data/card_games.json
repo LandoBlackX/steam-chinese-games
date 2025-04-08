@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-08T21:26:27.885571"
+    "updated": "2025-04-08T21:42:09.702271"
   },
   "games": {
     "570": {
@@ -84974,6 +84974,62 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-08T21:26:20.190214"
+    },
+    "2356470": {
+      "appid": 2356470,
+      "name": "Lost Chapter",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T21:41:41.862675"
+    },
+    "2356500": {
+      "appid": 2356500,
+      "name": "Cats Hidden in Bali",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T21:41:42.268068"
+    },
+    "2357000": {
+      "appid": 2357000,
+      "name": "Kill It With Fire 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T21:41:44.761114"
+    },
+    "2357400": {
+      "appid": 2357400,
+      "name": "Mary Skelter Finale",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T21:41:47.672035"
+    },
+    "2358720": {
+      "appid": 2358720,
+      "name": "黑神话：悟空",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T21:41:55.905879"
+    },
+    "2360260": {
+      "appid": 2360260,
+      "name": "Hot Therapy",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T21:42:06.501234"
+    },
+    "2360690": {
+      "appid": 2360690,
+      "name": "Pixel Ripped 1978: An Atari Adventure",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T21:42:08.679023"
     }
   }
 }
