@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-07T23:55:24.814826"
+    "updated": "2025-04-08T01:49:43.297559"
   },
   "games": {
     "570": {
@@ -81630,6 +81630,22 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-04-07T23:55:19.744846"
+    },
+    "1882580": {
+      "appid": 1882580,
+      "name": "FALL GIRLS",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T01:49:23.136577"
+    },
+    "1883260": {
+      "appid": 1883260,
+      "name": "Little Noah: Scion of Paradise",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T01:49:27.856472"
     }
   }
 }
