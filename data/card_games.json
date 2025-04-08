@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-08T08:58:20.764325"
+    "updated": "2025-04-08T09:08:55.940235"
   },
   "games": {
     "570": {
@@ -82854,6 +82854,54 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-08T08:58:19.272692"
+    },
+    "2055500": {
+      "appid": 2055500,
+      "name": "Repetendium",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T09:08:30.227701"
+    },
+    "2056210": {
+      "appid": 2056210,
+      "name": "孤星猎人",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T09:08:33.917090"
+    },
+    "2058180": {
+      "appid": 2058180,
+      "name": "审判之眼：死神的遗言 Remastered",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T09:08:44.103928"
+    },
+    "2058190": {
+      "appid": 2058190,
+      "name": "审判之逝：湮灭的记忆",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T09:08:44.218907"
+    },
+    "2058750": {
+      "appid": 2058750,
+      "name": "Monster Energy Supercross - The Official Videogame 6",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T09:08:47.396020"
+    },
+    "2060750": {
+      "appid": 2060750,
+      "name": "星际幸存者",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T09:08:55.938498"
     }
   }
 }
