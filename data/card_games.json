@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-08T18:42:50.762065"
+    "updated": "2025-04-08T18:55:39.143095"
   },
   "games": {
     "570": {
@@ -84758,6 +84758,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-04-08T18:42:49.461642"
+    },
+    "2308870": {
+      "appid": 2308870,
+      "name": "Overlewd",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T18:55:13.696577"
     }
   }
 }
