@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-08T11:51:19.004460"
+    "updated": "2025-04-08T12:09:31.096539"
   },
   "games": {
     "570": {
@@ -83414,6 +83414,46 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-08T11:51:04.770247"
+    },
+    "2137400": {
+      "appid": 2137400,
+      "name": "EmyLiveShow: S&M story",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T12:09:11.828872"
+    },
+    "2137470": {
+      "appid": 2137470,
+      "name": "Regency Solitaire II",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T12:09:12.371230"
+    },
+    "2138510": {
+      "appid": 2138510,
+      "name": "Hentai Survivors",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T12:09:23.874934"
+    },
+    "2138610": {
+      "appid": 2138610,
+      "name": "The Legend of Heroes: Trails through Daybreak",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T12:09:25.029371"
+    },
+    "2139460": {
+      "appid": 2139460,
+      "name": "七日世界",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T12:09:30.422279"
     }
   }
 }
