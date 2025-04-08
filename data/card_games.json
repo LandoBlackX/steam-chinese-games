@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-08T08:55:44.495377"
+    "updated": "2025-04-08T08:58:20.764325"
   },
   "games": {
     "570": {
@@ -82806,6 +82806,54 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-08T08:55:28.875920"
+    },
+    "2050650": {
+      "appid": 2050650,
+      "name": "Resident Evil 4",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T08:57:52.504102"
+    },
+    "2050680": {
+      "appid": 2050680,
+      "name": "Warbox Sandbox",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T08:57:52.630419"
+    },
+    "2051120": {
+      "appid": 2051120,
+      "name": "HOT WHEELS UNLEASHED™ 2 - Turbocharged",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T08:57:56.027729"
+    },
+    "2054690": {
+      "appid": 2054690,
+      "name": "Captain Firehawk and the Laser Love Situation",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T08:58:16.435301"
+    },
+    "2054970": {
+      "appid": 2054970,
+      "name": "Dragon's Dogma 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T08:58:17.779010"
+    },
+    "2055290": {
+      "appid": 2055290,
+      "name": "索尼克 缤纷色彩 究极版",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T08:58:19.272692"
     }
   }
 }
