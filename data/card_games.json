@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-08T20:11:27.385665"
+    "updated": "2025-04-08T20:34:18.491326"
   },
   "games": {
     "570": {
@@ -84910,6 +84910,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-04-08T20:11:22.305557"
+    },
+    "2341330": {
+      "appid": 2341330,
+      "name": "Lost Alone Ultimate",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T20:33:58.906747"
     }
   }
 }
