@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-08T11:00:58.180827"
+    "updated": "2025-04-08T11:23:46.117721"
   },
   "games": {
     "570": {
@@ -83302,6 +83302,14 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-08T11:00:52.660394"
+    },
+    "2113850": {
+      "appid": 2113850,
+      "name": "Spirit City: Lofi Sessions",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T11:23:31.557276"
     }
   }
 }
