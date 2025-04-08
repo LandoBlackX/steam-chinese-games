@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-08T07:32:43.144130"
+    "updated": "2025-04-08T07:35:46.686183"
   },
   "games": {
     "570": {
@@ -82406,6 +82406,30 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-08T07:32:41.843591"
+    },
+    "1980530": {
+      "appid": 1980530,
+      "name": "Kiwi Clicker - Juiced Up",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T07:35:22.357623"
+    },
+    "1981570": {
+      "appid": 1981570,
+      "name": "Land of the Vikings",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T07:35:28.807868"
+    },
+    "1984190": {
+      "appid": 1984190,
+      "name": "基因恐慌",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T07:35:42.438108"
     }
   }
 }
