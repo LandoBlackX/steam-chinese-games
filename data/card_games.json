@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-08T16:14:40.364252"
+    "updated": "2025-04-08T16:28:03.049914"
   },
   "games": {
     "570": {
@@ -84158,6 +84158,30 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-08T16:14:38.924257"
+    },
+    "2230980": {
+      "appid": 2230980,
+      "name": "Caribbean Legend",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T16:27:39.649921"
+    },
+    "2233120": {
+      "appid": 2233120,
+      "name": "A Quiet Place: The Road Ahead",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T16:27:52.647165"
+    },
+    "2233600": {
+      "appid": 2233600,
+      "name": "Brothel Simulator 🍓",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T16:27:55.561068"
     }
   }
 }
