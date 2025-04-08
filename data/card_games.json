@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-08T22:40:32.531187"
+    "updated": "2025-04-08T22:53:48.578325"
   },
   "games": {
     "570": {
@@ -85070,6 +85070,46 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-08T22:40:07.742059"
+    },
+    "2374190": {
+      "appid": 2374190,
+      "name": "Nikoderiko",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T22:53:21.640002"
+    },
+    "2375550": {
+      "appid": 2375550,
+      "name": "人中之龙7外传 无名之龙",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T22:53:29.512017"
+    },
+    "2376270": {
+      "appid": 2376270,
+      "name": "Lunar Lander Beyond",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T22:53:34.419724"
+    },
+    "2377240": {
+      "appid": 2377240,
+      "name": "SEX Room 2 [18+]",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T22:53:41.675569"
+    },
+    "2377970": {
+      "appid": 2377970,
+      "name": "Cats Hidden Around the World",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T22:53:47.058099"
     }
   }
 }
