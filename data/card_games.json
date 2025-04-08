@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-08T09:44:53.694132"
+    "updated": "2025-04-08T09:57:56.027699"
   },
   "games": {
     "570": {
@@ -83126,6 +83126,30 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-08T09:44:48.749382"
+    },
+    "2088280": {
+      "appid": 2088280,
+      "name": "Lazaret",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T09:57:40.597858"
+    },
+    "2090150": {
+      "appid": 2090150,
+      "name": "Furry Sex: Poker 🃏♥️",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T09:57:53.168984"
+    },
+    "2090370": {
+      "appid": 2090370,
+      "name": "热血物语SP",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T09:57:54.380169"
     }
   }
 }
