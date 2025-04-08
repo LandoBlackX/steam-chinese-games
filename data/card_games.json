@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-08T10:22:22.767354"
+    "updated": "2025-04-08T10:30:15.329167"
   },
   "games": {
     "570": {
@@ -83166,6 +83166,38 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-08T10:22:09.827976"
+    },
+    "2095140": {
+      "appid": 2095140,
+      "name": "Locked in my Darkness",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T10:29:52.797385"
+    },
+    "2096600": {
+      "appid": 2096600,
+      "name": "Crysis 2 Remastered",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T10:30:02.438285"
+    },
+    "2096610": {
+      "appid": 2096610,
+      "name": "Crysis 3 Remastered",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T10:30:02.548976"
+    },
+    "2097030": {
+      "appid": 2097030,
+      "name": "打倒白雪公主！乌拉！",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T10:30:05.113866"
     }
   }
 }
