@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-08T09:35:06.845260"
+    "updated": "2025-04-08T09:42:09.542366"
   },
   "games": {
     "570": {
@@ -83054,6 +83054,30 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-08T09:34:49.698654"
+    },
+    "2081080": {
+      "appid": 2081080,
+      "name": "神奇英侠 Capes",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T09:42:02.608573"
+    },
+    "2081400": {
+      "appid": 2081400,
+      "name": "少女魔净",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T09:42:04.931339"
+    },
+    "2081630": {
+      "appid": 2081630,
+      "name": "To Be A King - Volume 1",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T09:42:06.784161"
     }
   }
 }
