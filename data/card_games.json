@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-08T11:38:18.485099"
+    "updated": "2025-04-08T11:45:50.871014"
   },
   "games": {
     "570": {
@@ -83366,6 +83366,30 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-04-08T11:26:19.452526"
+    },
+    "2127430": {
+      "appid": 2127430,
+      "name": "LOOP8 降神",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T11:45:29.915293"
+    },
+    "2128480": {
+      "appid": 2128480,
+      "name": "Staffer Case - 异能缉凶",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T11:45:37.394327"
+    },
+    "2129670": {
+      "appid": 2129670,
+      "name": "Hardrock Sex 3D",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T11:45:48.019083"
     }
   }
 }
