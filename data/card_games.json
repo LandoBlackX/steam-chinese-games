@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-08T04:45:17.950162"
+    "updated": "2025-04-08T04:57:53.483360"
   },
   "games": {
     "570": {
@@ -81814,6 +81814,14 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-08T04:45:04.759447"
+    },
+    "1911800": {
+      "appid": 1911800,
+      "name": "Atari Mania",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T04:57:41.517366"
     }
   }
 }
