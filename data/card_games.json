@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-08T06:36:34.891799"
+    "updated": "2025-04-08T06:45:25.327669"
   },
   "games": {
     "570": {
@@ -82158,6 +82158,46 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-08T06:36:27.132401"
+    },
+    "1953540": {
+      "appid": 1953540,
+      "name": "Furry Shades of Gay 3: Still Gayer",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T06:44:56.264547"
+    },
+    "1955330": {
+      "appid": 1955330,
+      "name": "Save Room - Organization Puzzle",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T06:45:08.448697"
+    },
+    "1955340": {
+      "appid": 1955340,
+      "name": "Super Raft Boat Together",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T06:45:08.667664"
+    },
+    "1955830": {
+      "appid": 1955830,
+      "name": "东方冰之勇者记",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T06:45:11.805661"
+    },
+    "1956040": {
+      "appid": 1956040,
+      "name": "王国 80年代",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T06:45:13.075125"
     }
   }
 }
