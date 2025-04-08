@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-08T09:28:55.034337"
+    "updated": "2025-04-08T09:32:53.163942"
   },
   "games": {
     "570": {
@@ -82990,6 +82990,46 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-08T09:28:47.369810"
+    },
+    "2070550": {
+      "appid": 2070550,
+      "name": "A Castle Full of Cats",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T09:32:32.957977"
+    },
+    "2070850": {
+      "appid": 2070850,
+      "name": "樱姬4",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T09:32:33.895342"
+    },
+    "2071430": {
+      "appid": 2071430,
+      "name": "Roots of Yggdrasil",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T09:32:38.999900"
+    },
+    "2072450": {
+      "appid": 2072450,
+      "name": "人中之龙８",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T09:32:45.441691"
+    },
+    "2073250": {
+      "appid": 2073250,
+      "name": "Rift of the NecroDancer",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T09:32:50.164634"
     }
   }
 }
