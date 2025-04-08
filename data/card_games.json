@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-08T05:44:00.580677"
+    "updated": "2025-04-08T05:50:43.517303"
   },
   "games": {
     "570": {
@@ -81934,6 +81934,86 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-08T05:43:56.140816"
+    },
+    "1931440": {
+      "appid": 1931440,
+      "name": "Miko no Kanata: Curious Tales from Oguni Shrine -Cycles-",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T05:50:05.017763"
+    },
+    "1931690": {
+      "appid": 1931690,
+      "name": "Azure Striker GUNVOLT 3",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T05:50:07.379100"
+    },
+    "1931730": {
+      "appid": 1931730,
+      "name": "索利斯堡",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T05:50:07.766985"
+    },
+    "1931770": {
+      "appid": 1931770,
+      "name": "巴别塔圣歌",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T05:50:08.619149"
+    },
+    "1932160": {
+      "appid": 1932160,
+      "name": "Neptunia: Sisters VS Sisters",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T05:50:12.582943"
+    },
+    "1932230": {
+      "appid": 1932230,
+      "name": "100 hidden hares",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T05:50:13.543449"
+    },
+    "1932640": {
+      "appid": 1932640,
+      "name": "Suikoden I&II HD Remaster Gate Rune and Dunan Unification Wars",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T05:50:17.902953"
+    },
+    "1933660": {
+      "appid": 1933660,
+      "name": "Demons Roots",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T05:50:26.730975"
+    },
+    "1934800": {
+      "appid": 1934800,
+      "name": "a pet shop after dark",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T05:50:37.574277"
+    },
+    "1935660": {
+      "appid": 1935660,
+      "name": "Chop Goblins",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T05:50:42.842062"
     }
   }
 }
