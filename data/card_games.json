@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-08T17:02:30.521387"
+    "updated": "2025-04-08T17:06:21.525010"
   },
   "games": {
     "570": {
@@ -84326,6 +84326,38 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-04-08T17:02:22.808741"
+    },
+    "2253100": {
+      "appid": 2253100,
+      "name": "SkyVerse",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T17:05:49.385726"
+    },
+    "2254740": {
+      "appid": 2254740,
+      "name": "女神异闻录５ 战略版",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T17:05:58.646989"
+    },
+    "2254990": {
+      "appid": 2254990,
+      "name": "永冻纪元 - Permafrost",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T17:06:00.096703"
+    },
+    "2256790": {
+      "appid": 2256790,
+      "name": "GameDev Life Simulator 🎮🕹",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T17:06:12.071964"
     }
   }
 }
