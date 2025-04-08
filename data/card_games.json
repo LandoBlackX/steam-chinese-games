@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-08T16:52:08.280407"
+    "updated": "2025-04-08T17:02:30.521387"
   },
   "games": {
     "570": {
@@ -84286,6 +84286,46 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-08T16:51:59.083756"
+    },
+    "2248430": {
+      "appid": 2248430,
+      "name": "Touhou Artificial Dream in Arcadia",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T17:02:00.118086"
+    },
+    "2248760": {
+      "appid": 2248760,
+      "name": "Car For Sale Simulator 2023",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T17:02:02.197074"
+    },
+    "2250600": {
+      "appid": 2250600,
+      "name": "魔界战记DISGAEA 7",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T17:02:16.185945"
+    },
+    "2251010": {
+      "appid": 2251010,
+      "name": "The Witch's Cauldron",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T17:02:18.326542"
+    },
+    "2251620": {
+      "appid": 2251620,
+      "name": "Sunrider 4: The Captain's Return",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T17:02:22.808741"
     }
   }
 }
