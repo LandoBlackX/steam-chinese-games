@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-08T23:33:17.591463"
+    "updated": "2025-04-08T23:46:04.405784"
   },
   "games": {
     "570": {
@@ -85166,6 +85166,14 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-08T23:32:59.615679"
+    },
+    "2390480": {
+      "appid": 2390480,
+      "name": "Beach Invasion 1945 - Pacific",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T23:45:57.547748"
     }
   }
 }
