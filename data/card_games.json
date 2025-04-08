@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-08T22:53:48.578325"
+    "updated": "2025-04-08T23:18:42.875640"
   },
   "games": {
     "570": {
@@ -85110,6 +85110,46 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-08T22:53:47.058099"
+    },
+    "2378900": {
+      "appid": 2378900,
+      "name": "The Coffin of Andy and Leyley",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T23:18:07.205059"
+    },
+    "2379780": {
+      "appid": 2379780,
+      "name": "Balatro",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T23:18:14.692574"
+    },
+    "2380050": {
+      "appid": 2380050,
+      "name": "星际卡车司机",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T23:18:17.272387"
+    },
+    "2380320": {
+      "appid": 2380320,
+      "name": "Choice of Life: Wild Islands",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T23:18:20.084573"
+    },
+    "2380450": {
+      "appid": 2380450,
+      "name": "Machine Love 2069",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T23:18:21.064054"
     }
   }
 }
