@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-08T17:06:21.525010"
+    "updated": "2025-04-08T17:15:01.047161"
   },
   "games": {
     "570": {
@@ -84358,6 +84358,62 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-08T17:06:12.071964"
+    },
+    "2258180": {
+      "appid": 2258180,
+      "name": "Days of Doom",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T17:14:36.568190"
+    },
+    "2258290": {
+      "appid": 2258290,
+      "name": "Jury - Episode 1: Before the Trial",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T17:14:36.940366"
+    },
+    "2258350": {
+      "appid": 2258350,
+      "name": "Alive",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T17:14:37.601287"
+    },
+    "2258500": {
+      "appid": 2258500,
+      "name": "CRYMACHINA",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T17:14:38.550130"
+    },
+    "2258590": {
+      "appid": 2258590,
+      "name": "富甲天下3",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T17:14:39.406266"
+    },
+    "2258940": {
+      "appid": 2258940,
+      "name": "魔导士小奏的扶她地牢探险",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T17:14:40.711056"
+    },
+    "2260530": {
+      "appid": 2260530,
+      "name": "Hidden Cats in New York",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T17:14:49.234917"
     }
   }
 }
