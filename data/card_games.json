@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-08T19:36:21.302251"
+    "updated": "2025-04-08T19:49:35.735267"
   },
   "games": {
     "570": {
@@ -84854,6 +84854,30 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-04-08T19:36:11.115534"
+    },
+    "2330870": {
+      "appid": 2330870,
+      "name": "CD 2：陷阱大师",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T19:49:08.251217"
+    },
+    "2331950": {
+      "appid": 2331950,
+      "name": "WebCum Empire Tycoon 📷 💦",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T19:49:16.855512"
+    },
+    "2332970": {
+      "appid": 2332970,
+      "name": "ARC SEED",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T19:49:24.083083"
     }
   }
 }
