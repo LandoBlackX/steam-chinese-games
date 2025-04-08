@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-08T02:56:37.747549"
+    "updated": "2025-04-08T03:36:30.221513"
   },
   "games": {
     "570": {
@@ -81702,6 +81702,46 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-04-08T02:56:34.664762"
+    },
+    "1891700": {
+      "appid": 1891700,
+      "name": "Tap Ninja - Idle game",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T03:36:02.146597"
+    },
+    "1892420": {
+      "appid": 1892420,
+      "name": "The Bunny Graveyard",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T03:36:05.809503"
+    },
+    "1893810": {
+      "appid": 1893810,
+      "name": "Solium Infernum",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T03:36:15.955713"
+    },
+    "1894080": {
+      "appid": 1894080,
+      "name": "I got a millenary cat",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T03:36:18.480680"
+    },
+    "1895810": {
+      "appid": 1895810,
+      "name": "无限神速斩　勇者斗恶龙 达伊的大冒险",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T03:36:28.010695"
     }
   }
 }
