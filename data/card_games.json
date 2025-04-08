@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-08T07:35:46.686183"
+    "updated": "2025-04-08T07:39:28.625250"
   },
   "games": {
     "570": {
@@ -82430,6 +82430,22 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-08T07:35:42.438108"
+    },
+    "1985770": {
+      "appid": 1985770,
+      "name": "Nazi Furry",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T07:39:08.055667"
+    },
+    "1989270": {
+      "appid": 1989270,
+      "name": "Slay the Princess — The Pristine Cut",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T07:39:27.020757"
     }
   }
 }
