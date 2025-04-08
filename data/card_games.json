@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-08T12:59:46.859057"
+    "updated": "2025-04-08T13:03:47.062775"
   },
   "games": {
     "570": {
@@ -83534,6 +83534,54 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-08T12:59:28.645211"
+    },
+    "2153770": {
+      "appid": 2153770,
+      "name": "Coin Flipper",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T13:03:20.446480"
+    },
+    "2154330": {
+      "appid": 2154330,
+      "name": "The Seven Realms - Realm 1: Terran",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T13:03:24.661448"
+    },
+    "2154650": {
+      "appid": 2154650,
+      "name": "Pawperty Damage",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T13:03:26.526656"
+    },
+    "2155180": {
+      "appid": 2155180,
+      "name": "帕格尼物语",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T13:03:30.870796"
+    },
+    "2155600": {
+      "appid": 2155600,
+      "name": "SEX Apocalypse 3D",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T13:03:32.802398"
+    },
+    "2156620": {
+      "appid": 2156620,
+      "name": "未来广播与人工鸽",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T13:03:37.864097"
     }
   }
 }
