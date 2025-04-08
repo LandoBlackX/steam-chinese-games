@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-08T07:11:33.195344"
+    "updated": "2025-04-08T07:19:44.597881"
   },
   "games": {
     "570": {
@@ -82270,6 +82270,62 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-08T07:11:23.951581"
+    },
+    "1967430": {
+      "appid": 1967430,
+      "name": "Ghost Trick: Phantom Detective",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T07:19:21.860377"
+    },
+    "1967510": {
+      "appid": 1967510,
+      "name": "轨道连结 - Railbound",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T07:19:22.559435"
+    },
+    "1968630": {
+      "appid": 1968630,
+      "name": "Stories from the Outbreak",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T07:19:30.243701"
+    },
+    "1968820": {
+      "appid": 1968820,
+      "name": "Only Furry 18+",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T07:19:32.064981"
+    },
+    "1969080": {
+      "appid": 1969080,
+      "name": "A Building Full of Cats",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T07:19:33.988242"
+    },
+    "1969860": {
+      "appid": 1969860,
+      "name": "大家一起 骰子街",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T07:19:38.625493"
+    },
+    "1969870": {
+      "appid": 1969870,
+      "name": "生死狙击2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T07:19:38.756035"
     }
   }
 }
