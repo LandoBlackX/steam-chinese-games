@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-08T09:08:55.940235"
+    "updated": "2025-04-08T09:22:27.727573"
   },
   "games": {
     "570": {
@@ -82902,6 +82902,46 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-08T09:08:55.938498"
+    },
+    "2061430": {
+      "appid": 2061430,
+      "name": "氧气",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T09:22:02.856439"
+    },
+    "2062210": {
+      "appid": 2062210,
+      "name": "天作之合的我们 1",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T09:22:07.165557"
+    },
+    "2062690": {
+      "appid": 2062690,
+      "name": "Tour de France 2023",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T09:22:10.178856"
+    },
+    "2063530": {
+      "appid": 2063530,
+      "name": "探案法：加拿大档案",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T09:22:16.988096"
+    },
+    "2063610": {
+      "appid": 2063610,
+      "name": "Pro Cycling Manager 2023",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T09:22:17.576893"
     }
   }
 }
