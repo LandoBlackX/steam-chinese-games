@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-08T16:30:57.267424"
+    "updated": "2025-04-08T16:42:53.408832"
   },
   "games": {
     "570": {
@@ -84206,6 +84206,38 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-08T16:30:54.364951"
+    },
+    "2242710": {
+      "appid": 2242710,
+      "name": "想要传达给你的爱恋",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T16:42:43.460601"
+    },
+    "2243510": {
+      "appid": 2243510,
+      "name": "qomp2",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T16:42:48.398821"
+    },
+    "2243580": {
+      "appid": 2243580,
+      "name": "Food Fight: Culinary Combat",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T16:42:48.978966"
+    },
+    "2243710": {
+      "appid": 2243710,
+      "name": "符文工厂3豪华版",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T16:42:49.710005"
     }
   }
 }
