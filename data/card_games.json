@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-08T23:46:04.405784"
+    "updated": "2025-04-08T23:58:44.451378"
   },
   "games": {
     "570": {
@@ -85174,6 +85174,30 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-08T23:45:57.547748"
+    },
+    "2391690": {
+      "appid": 2391690,
+      "name": "Blue Maiden",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T23:58:14.478293"
+    },
+    "2391900": {
+      "appid": 2391900,
+      "name": "Champion Shift",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T23:58:15.993405"
+    },
+    "2394300": {
+      "appid": 2394300,
+      "name": "Monster Run: Downfall of the Empire",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T23:58:31.121862"
     }
   }
 }
