@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-08T12:53:04.589103"
+    "updated": "2025-04-08T12:59:46.859057"
   },
   "games": {
     "570": {
@@ -83526,6 +83526,14 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-08T12:52:54.422028"
+    },
+    "2150660": {
+      "appid": 2150660,
+      "name": "东方New World",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T12:59:28.645211"
     }
   }
 }
