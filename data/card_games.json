@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-08T05:56:55.263567"
+    "updated": "2025-04-08T06:23:37.761352"
   },
   "games": {
     "570": {
@@ -82030,6 +82030,54 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-08T05:56:41.125040"
+    },
+    "1940340": {
+      "appid": 1940340,
+      "name": "Darkest Dungeon® II",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T06:23:09.178895"
+    },
+    "1942280": {
+      "appid": 1942280,
+      "name": "土豆兄弟(Brotato)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T06:23:22.907017"
+    },
+    "1942330": {
+      "appid": 1942330,
+      "name": "Haunted House",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T06:23:23.324843"
+    },
+    "1943760": {
+      "appid": 1943760,
+      "name": "Furry Cyberfucker",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T06:23:32.465612"
+    },
+    "1944240": {
+      "appid": 1944240,
+      "name": "Touch Some Grass",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T06:23:35.758325"
+    },
+    "1944250": {
+      "appid": 1944250,
+      "name": "五色浮影绽放于花之海洋",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T06:23:35.912093"
     }
   }
 }
