@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-08T14:41:11.741898"
+    "updated": "2025-04-08T14:54:16.244198"
   },
   "games": {
     "570": {
@@ -84006,6 +84006,30 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-08T14:41:05.252683"
+    },
+    "2209680": {
+      "appid": 2209680,
+      "name": "Beach Invasion 1944",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T14:54:03.176190"
+    },
+    "2211090": {
+      "appid": 2211090,
+      "name": "Villain's Legacy",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T14:54:10.737366"
+    },
+    "2211170": {
+      "appid": 2211170,
+      "name": "一起开火车2：汽笛重鸣",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T14:54:11.490737"
     }
   }
 }
