@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-08T22:21:57.923351"
+    "updated": "2025-04-08T22:40:32.531187"
   },
   "games": {
     "570": {
@@ -85062,6 +85062,14 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-08T22:21:44.059240"
+    },
+    "2370170": {
+      "appid": 2370170,
+      "name": "地球再次变四方？！ 数码方块地球防卫军2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T22:40:07.742059"
     }
   }
 }
