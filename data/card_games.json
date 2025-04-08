@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-08T05:24:03.019183"
+    "updated": "2025-04-08T05:27:15.073922"
   },
   "games": {
     "570": {
@@ -81830,6 +81830,54 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-08T05:23:56.989466"
+    },
+    "1919040": {
+      "appid": 1919040,
+      "name": "Winter",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T05:26:43.995859"
+    },
+    "1919460": {
+      "appid": 1919460,
+      "name": "Seraph's Last Stand",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T05:26:47.246977"
+    },
+    "1919470": {
+      "appid": 1919470,
+      "name": "Atari 50: The Anniversary Celebration",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T05:26:47.421249"
+    },
+    "1919550": {
+      "appid": 1919550,
+      "name": "Hidden Cats in Paris",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T05:26:48.616325"
+    },
+    "1919600": {
+      "appid": 1919600,
+      "name": "Paper Perjury",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T05:26:49.077206"
+    },
+    "1921340": {
+      "appid": 1921340,
+      "name": "Fallen Legion Revenants",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T05:27:03.347013"
     }
   }
 }
