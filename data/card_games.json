@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-08T17:44:01.898274"
+    "updated": "2025-04-08T17:48:34.781201"
   },
   "games": {
     "570": {
@@ -84526,6 +84526,14 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-08T17:43:54.772287"
+    },
+    "2280540": {
+      "appid": 2280540,
+      "name": "最后的圣女",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T17:48:05.596524"
     }
   }
 }
