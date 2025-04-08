@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-08T07:26:15.228388"
+    "updated": "2025-04-08T07:32:43.144130"
   },
   "games": {
     "570": {
@@ -82374,6 +82374,38 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-08T07:26:14.119195"
+    },
+    "1975580": {
+      "appid": 1975580,
+      "name": "喵门镖局 - Wild Woods",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T07:32:14.792224"
+    },
+    "1978610": {
+      "appid": 1978610,
+      "name": "Gamer Girls: Dating Sim",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T07:32:32.309386"
+    },
+    "1978720": {
+      "appid": 1978720,
+      "name": "Ultimate Ragdoll Game",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T07:32:33.064567"
+    },
+    "1980350": {
+      "appid": 1980350,
+      "name": "Run Build Pew!",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T07:32:41.843591"
     }
   }
 }
