@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-08T07:48:54.074990"
+    "updated": "2025-04-08T07:51:15.579126"
   },
   "games": {
     "570": {
@@ -82542,6 +82542,94 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-04-08T07:48:53.922756"
+    },
+    "1998530": {
+      "appid": 1998530,
+      "name": "Yoiyami Dancers: Twilight Danmaku Dancers",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T07:50:46.386620"
+    },
+    "1999360": {
+      "appid": 1999360,
+      "name": "Placid Plastic Duck Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T07:50:49.932926"
+    },
+    "1999520": {
+      "appid": 1999520,
+      "name": "CATO 黄油猫",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T07:50:50.936459"
+    },
+    "2001070": {
+      "appid": 2001070,
+      "name": "人工智能的选择 Heart of the Machine",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T07:51:02.160553"
+    },
+    "2001120": {
+      "appid": 2001120,
+      "name": "双影奇境",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T07:51:02.443857"
+    },
+    "2001340": {
+      "appid": 2001340,
+      "name": "战场的赋格曲2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T07:51:03.632831"
+    },
+    "2002220": {
+      "appid": 2002220,
+      "name": "守护者之魂",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T07:51:06.794266"
+    },
+    "2002850": {
+      "appid": 2002850,
+      "name": "Raiden IV x MIKADO remix",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T07:51:11.318242"
+    },
+    "2002860": {
+      "appid": 2002860,
+      "name": "Raiden III x MIKADO MANIAX",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T07:51:11.450830"
+    },
+    "2002870": {
+      "appid": 2002870,
+      "name": "Rhapsody II: Ballad of the Little Princess",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T07:51:11.582146"
+    },
+    "2002880": {
+      "appid": 2002880,
+      "name": "Rhapsody III: Memories of Marl Kingdom",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T07:51:11.747447"
     }
   }
 }
