@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-08T21:42:09.702271"
+    "updated": "2025-04-08T21:55:34.186703"
   },
   "games": {
     "570": {
@@ -85030,6 +85030,22 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-08T21:42:08.679023"
+    },
+    "2361460": {
+      "appid": 2361460,
+      "name": "玩具郡 Toy Shire",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T21:54:52.669687"
+    },
+    "2361770": {
+      "appid": 2361770,
+      "name": "SHINOBI 反攻的斩击",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T21:54:55.824324"
     }
   }
 }
