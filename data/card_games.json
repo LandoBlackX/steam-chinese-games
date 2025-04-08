@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-08T06:53:49.191185"
+    "updated": "2025-04-08T07:11:33.195344"
   },
   "games": {
     "570": {
@@ -82246,6 +82246,30 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-04-08T06:53:43.052546"
+    },
+    "1963210": {
+      "appid": 1963210,
+      "name": "VALKYRIE ELYSIUM",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T07:11:10.214027"
+    },
+    "1963570": {
+      "appid": 1963570,
+      "name": "Cuisineer 猫娘小厨",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T07:11:12.422306"
+    },
+    "1965190": {
+      "appid": 1965190,
+      "name": "龙魂：魔都异闻",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T07:11:23.951581"
     }
   }
 }
