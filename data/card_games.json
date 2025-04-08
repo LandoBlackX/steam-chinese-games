@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-08T07:57:19.102446"
+    "updated": "2025-04-08T08:13:53.637717"
   },
   "games": {
     "570": {
@@ -82686,6 +82686,46 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-08T07:57:16.161647"
+    },
+    "2008920": {
+      "appid": 2008920,
+      "name": "Lorelei and the Laser Eyes",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T08:13:18.526132"
+    },
+    "2009010": {
+      "appid": 2009010,
+      "name": "My Furry Protogen 🐾",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T08:13:19.530616"
+    },
+    "2011780": {
+      "appid": 2011780,
+      "name": "的士快跑",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T08:13:41.882643"
+    },
+    "2012610": {
+      "appid": 2012610,
+      "name": "Age of Undead",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T08:13:47.688916"
+    },
+    "2012670": {
+      "appid": 2012670,
+      "name": "Maiden Cops",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T08:13:48.371859"
     }
   }
 }
