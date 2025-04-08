@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-08T21:01:15.868363"
+    "updated": "2025-04-08T21:26:27.885571"
   },
   "games": {
     "570": {
@@ -84950,6 +84950,30 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-08T21:01:09.278358"
+    },
+    "2352230": {
+      "appid": 2352230,
+      "name": "Little Big Adventure - Purple Empire",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T21:25:59.241537"
+    },
+    "2354520": {
+      "appid": 2354520,
+      "name": "Roommate Corruption 😈",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T21:26:14.528571"
+    },
+    "2355250": {
+      "appid": 2355250,
+      "name": "Idle Biceps",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T21:26:20.190214"
     }
   }
 }
