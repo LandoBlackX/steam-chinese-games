@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-08T12:27:52.860879"
+    "updated": "2025-04-08T12:53:04.589103"
   },
   "games": {
     "570": {
@@ -83502,6 +83502,30 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-08T12:27:43.643660"
+    },
+    "2144590": {
+      "appid": 2144590,
+      "name": "Take me, Vitaly",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T12:52:41.914401"
+    },
+    "2146570": {
+      "appid": 2146570,
+      "name": "RKGK / Rakugaki",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T12:52:53.752070"
+    },
+    "2146720": {
+      "appid": 2146720,
+      "name": "深空幸存者",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T12:52:54.422028"
     }
   }
 }
