@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-08T10:34:21.684823"
+    "updated": "2025-04-08T10:48:04.076394"
   },
   "games": {
     "570": {
@@ -83222,6 +83222,38 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-08T10:34:09.495592"
+    },
+    "2103470": {
+      "appid": 2103470,
+      "name": "海盗共和国",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T10:47:42.316652"
+    },
+    "2103680": {
+      "appid": 2103680,
+      "name": "Mediterranea Inferno",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T10:47:44.117032"
+    },
+    "2105660": {
+      "appid": 2105660,
+      "name": "I live under your house.",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T10:47:55.233339"
+    },
+    "2106670": {
+      "appid": 2106670,
+      "name": "Gatekeeper",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T10:48:01.235642"
     }
   }
 }
