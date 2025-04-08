@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-08T11:45:50.871014"
+    "updated": "2025-04-08T11:51:19.004460"
   },
   "games": {
     "570": {
@@ -83390,6 +83390,30 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-04-08T11:45:48.019083"
+    },
+    "2132450": {
+      "appid": 2132450,
+      "name": "Spectator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T11:51:03.745298"
+    },
+    "2132540": {
+      "appid": 2132540,
+      "name": "Mr. Run and Jump",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T11:51:04.614326"
+    },
+    "2132560": {
+      "appid": 2132560,
+      "name": "On Your Tail",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T11:51:04.770247"
     }
   }
 }
