@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-08T07:51:15.579126"
+    "updated": "2025-04-08T07:57:19.102446"
   },
   "games": {
     "570": {
@@ -82630,6 +82630,62 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-04-08T07:51:11.747447"
+    },
+    "2004180": {
+      "appid": 2004180,
+      "name": "DAGURI: Gambling Apocalypse",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T07:56:58.134435"
+    },
+    "2004490": {
+      "appid": 2004490,
+      "name": "Furry Cyberfucker II",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T07:56:59.484568"
+    },
+    "2004640": {
+      "appid": 2004640,
+      "name": "Svarog's Dream",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T07:57:00.144890"
+    },
+    "2005010": {
+      "appid": 2005010,
+      "name": "Warhammer 40,000: Boltgun",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T07:57:02.183583"
+    },
+    "2005210": {
+      "appid": 2005210,
+      "name": "Void Scrappers",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T07:57:03.394505"
+    },
+    "2005680": {
+      "appid": 2005680,
+      "name": "Akka Arrh",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T07:57:06.074526"
+    },
+    "2007530": {
+      "appid": 2007530,
+      "name": "魔法书幸存者",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T07:57:16.161647"
     }
   }
 }
