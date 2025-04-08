@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-08T18:36:22.853410"
+    "updated": "2025-04-08T18:39:57.880491"
   },
   "games": {
     "570": {
@@ -84702,6 +84702,22 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-08T18:36:19.050769"
+    },
+    "2302080": {
+      "appid": 2302080,
+      "name": "梦碎之境",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T18:39:49.291255"
+    },
+    "2302140": {
+      "appid": 2302140,
+      "name": "q.u.q.",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T18:39:49.667718"
     }
   }
 }
