@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-08T20:34:18.491326"
+    "updated": "2025-04-08T20:48:26.113508"
   },
   "games": {
     "570": {
@@ -84918,6 +84918,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-04-08T20:33:58.906747"
+    },
+    "2347380": {
+      "appid": 2347380,
+      "name": "魔女的花园",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T20:48:25.476004"
     }
   }
 }
