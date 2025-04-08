@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-08T23:18:42.875640"
+    "updated": "2025-04-08T23:33:17.591463"
   },
   "games": {
     "570": {
@@ -85150,6 +85150,22 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-08T23:18:21.064054"
+    },
+    "2383990": {
+      "appid": 2383990,
+      "name": "Ghostbusters: Spirits Unleashed Ecto Edition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T23:32:54.294044"
+    },
+    "2384580": {
+      "appid": 2384580,
+      "name": "真・三国无双 起源",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T23:32:59.615679"
     }
   }
 }
