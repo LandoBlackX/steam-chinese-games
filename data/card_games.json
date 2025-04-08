@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-08T05:27:15.073922"
+    "updated": "2025-04-08T05:42:44.959445"
   },
   "games": {
     "570": {
@@ -81878,6 +81878,46 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-04-08T05:27:03.347013"
+    },
+    "1924170": {
+      "appid": 1924170,
+      "name": "TT Isle Of Man: Ride on the Edge 3",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T05:42:21.283799"
+    },
+    "1924360": {
+      "appid": 1924360,
+      "name": "小小卫兵 (Lil' Guardsman)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T05:42:22.924705"
+    },
+    "1924780": {
+      "appid": 1924780,
+      "name": "Arzette: The Jewel of Faramore",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T05:42:26.546360"
+    },
+    "1924810": {
+      "appid": 1924810,
+      "name": "Kamiwaza: Way of the Thief",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T05:42:26.679545"
+    },
+    "1925320": {
+      "appid": 1925320,
+      "name": "Escape Memoirs: Mansion Heist",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T05:42:30.177021"
     }
   }
 }
