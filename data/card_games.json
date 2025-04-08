@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-08T13:39:34.359623"
+    "updated": "2025-04-08T13:52:06.719931"
   },
   "games": {
     "570": {
@@ -83766,6 +83766,38 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-08T13:39:33.014969"
+    },
+    "2181930": {
+      "appid": 2181930,
+      "name": "DR LIVESEY ROM AND DEATH EDITION",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T13:51:32.557597"
+    },
+    "2183900": {
+      "appid": 2183900,
+      "name": "Warhammer 40,000: 星际战士2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T13:51:50.785475"
+    },
+    "2185060": {
+      "appid": 2185060,
+      "name": "双点博物馆",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T13:52:01.714607"
+    },
+    "2185770": {
+      "appid": 2185770,
+      "name": "青夏轨迹",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T13:52:05.840587"
     }
   }
 }
