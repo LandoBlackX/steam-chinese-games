@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-08T06:34:25.792529"
+    "updated": "2025-04-08T06:36:34.891799"
   },
   "games": {
     "570": {
@@ -82126,6 +82126,38 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-08T06:34:25.252184"
+    },
+    "1949190": {
+      "appid": 1949190,
+      "name": "亡灵巫师",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T06:36:07.185345"
+    },
+    "1950570": {
+      "appid": 1950570,
+      "name": "传述之魔女",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T06:36:16.841823"
+    },
+    "1952120": {
+      "appid": 1952120,
+      "name": "Street Fighter 6 - Open Beta",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T06:36:26.349588"
+    },
+    "1952250": {
+      "appid": 1952250,
+      "name": "SAMURAI MAIDEN -武士少女-",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T06:36:27.132401"
     }
   }
 }
