@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-08T12:09:31.096539"
+    "updated": "2025-04-08T12:27:52.860879"
   },
   "games": {
     "570": {
@@ -83454,6 +83454,54 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-08T12:09:30.422279"
+    },
+    "2139840": {
+      "appid": 2139840,
+      "name": "Skelethrone: The Chronicles of Ericona",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T12:27:25.926848"
+    },
+    "2140020": {
+      "appid": 2140020,
+      "name": "Stronghold: Definitive Edition 要塞：决定版",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T12:27:27.927884"
+    },
+    "2140100": {
+      "appid": 2140100,
+      "name": "Whisker Squadron: Survivor",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T12:27:28.660881"
+    },
+    "2140570": {
+      "appid": 2140570,
+      "name": "时间就是蜂蜜",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T12:27:31.547764"
+    },
+    "2140850": {
+      "appid": 2140850,
+      "name": "虚妄轮回",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T12:27:33.705529"
+    },
+    "2142540": {
+      "appid": 2142540,
+      "name": "Magical Girl Clicker",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T12:27:43.643660"
     }
   }
 }
