@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-08T04:25:01.913548"
+    "updated": "2025-04-08T04:45:17.950162"
   },
   "games": {
     "570": {
@@ -81798,6 +81798,22 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-08T04:25:01.318253"
+    },
+    "1906020": {
+      "appid": 1906020,
+      "name": "Drums Rock",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T04:44:53.283192"
+    },
+    "1907720": {
+      "appid": 1907720,
+      "name": "奥拓星球：强敌 / Autonauts VS. Piratebots",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T04:45:04.759447"
     }
   }
 }
