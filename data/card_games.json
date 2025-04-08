@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-08T06:23:37.761352"
+    "updated": "2025-04-08T06:34:25.792529"
   },
   "games": {
     "570": {
@@ -82078,6 +82078,54 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-08T06:23:35.912093"
+    },
+    "1944570": {
+      "appid": 1944570,
+      "name": "Boneraiser Minions",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T06:34:01.488263"
+    },
+    "1947750": {
+      "appid": 1947750,
+      "name": "Queen's Wish 2: The Tormentor",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T06:34:18.377834"
+    },
+    "1948280": {
+      "appid": 1948280,
+      "name": "Stacklands",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T06:34:20.951665"
+    },
+    "1948450": {
+      "appid": 1948450,
+      "name": "Sex Chess",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T06:34:22.360197"
+    },
+    "1948700": {
+      "appid": 1948700,
+      "name": "枪灵少女 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T06:34:23.777793"
+    },
+    "1949000": {
+      "appid": 1949000,
+      "name": "我甜蜜的梦中的猫女 / Catgirls From My Sweet Dream",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T06:34:25.252184"
     }
   }
 }
