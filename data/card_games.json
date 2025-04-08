@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-08T14:54:16.244198"
+    "updated": "2025-04-08T15:23:22.153693"
   },
   "games": {
     "570": {
@@ -84030,6 +84030,38 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-08T14:54:11.490737"
+    },
+    "2213120": {
+      "appid": 2213120,
+      "name": "While We Wait Here",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T15:22:57.500871"
+    },
+    "2213660": {
+      "appid": 2213660,
+      "name": "Succubus Summon",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T15:23:01.523523"
+    },
+    "2213980": {
+      "appid": 2213980,
+      "name": "Caverns of Mars: Recharged",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T15:23:04.504704"
+    },
+    "2216660": {
+      "appid": 2216660,
+      "name": "荣耀死斗2 - Mortal Glory 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T15:23:21.855486"
     }
   }
 }
