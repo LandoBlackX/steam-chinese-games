@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-08T20:48:26.113508"
+    "updated": "2025-04-08T21:01:15.868363"
   },
   "games": {
     "570": {
@@ -84926,6 +84926,30 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-08T20:48:25.476004"
+    },
+    "2348100": {
+      "appid": 2348100,
+      "name": "我们把似曾相见的「那些游戏」都做成了火柴人，可是你又能否成功过关呢？",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T21:00:48.336031"
+    },
+    "2350280": {
+      "appid": 2350280,
+      "name": "Monster Jam™ Showdown",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T21:01:03.215552"
+    },
+    "2351080": {
+      "appid": 2351080,
+      "name": "Magic Pussy: Chapter 1",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T21:01:09.278358"
     }
   }
 }
