@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-08T07:19:44.597881"
+    "updated": "2025-04-08T07:26:15.228388"
   },
   "games": {
     "570": {
@@ -82326,6 +82326,54 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-08T07:19:38.756035"
+    },
+    "1971650": {
+      "appid": 1971650,
+      "name": "歧路旅人 II",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T07:25:52.405285"
+    },
+    "1971870": {
+      "appid": 1971870,
+      "name": "真人快打 1 ",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T07:25:54.238585"
+    },
+    "1972190": {
+      "appid": 1972190,
+      "name": "兽娘道 ☆ Girlish Square",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T07:25:56.108020"
+    },
+    "1972710": {
+      "appid": 1972710,
+      "name": "Ever Seen A Cat? 2",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T07:25:58.961635"
+    },
+    "1973320": {
+      "appid": 1973320,
+      "name": "Road Defense: Outsiders",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T07:26:04.120103"
+    },
+    "1975280": {
+      "appid": 1975280,
+      "name": "Between Two Worlds",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T07:26:14.119195"
     }
   }
 }
