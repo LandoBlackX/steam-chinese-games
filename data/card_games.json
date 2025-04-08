@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-08T19:49:35.735267"
+    "updated": "2025-04-08T20:11:27.385665"
   },
   "games": {
     "570": {
@@ -84878,6 +84878,38 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-04-08T19:49:24.083083"
+    },
+    "2336200": {
+      "appid": 2336200,
+      "name": "Choo Choo Survivor",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T20:11:10.574129"
+    },
+    "2337820": {
+      "appid": 2337820,
+      "name": "心动小屋",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T20:11:19.616653"
+    },
+    "2338000": {
+      "appid": 2338000,
+      "name": "Brothel Simulator II 💋",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T20:11:21.059753"
+    },
+    "2338140": {
+      "appid": 2338140,
+      "name": "Dokapon Kingdom: Connect",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T20:11:22.305557"
     }
   }
 }
