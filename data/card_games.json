@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-08T15:23:22.153693"
+    "updated": "2025-04-08T15:42:32.710048"
   },
   "games": {
     "570": {
@@ -84062,6 +84062,38 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-08T15:23:21.855486"
+    },
+    "2217910": {
+      "appid": 2217910,
+      "name": "NeoSprint",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T15:42:11.868817"
+    },
+    "2218400": {
+      "appid": 2218400,
+      "name": "贪婪大地",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T15:42:14.341928"
+    },
+    "2218750": {
+      "appid": 2218750,
+      "name": "Halls of Torment 苦痛殿堂",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T15:42:16.717245"
+    },
+    "2219000": {
+      "appid": 2219000,
+      "name": "A Promise Best Left Unkept",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T15:42:19.057367"
     }
   }
 }
