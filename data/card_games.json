@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-08T05:50:43.517303"
+    "updated": "2025-04-08T05:56:55.263567"
   },
   "games": {
     "570": {
@@ -82014,6 +82014,22 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-04-08T05:50:42.842062"
+    },
+    "1937500": {
+      "appid": 1937500,
+      "name": "学园构想家",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T05:56:38.550133"
+    },
+    "1937780": {
+      "appid": 1937780,
+      "name": "Total War: PHARAOH",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T05:56:41.125040"
     }
   }
 }
