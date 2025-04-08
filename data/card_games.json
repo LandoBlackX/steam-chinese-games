@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-08T06:45:25.327669"
+    "updated": "2025-04-08T06:53:49.191185"
   },
   "games": {
     "570": {
@@ -82198,6 +82198,54 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-08T06:45:13.075125"
+    },
+    "1958600": {
+      "appid": 1958600,
+      "name": "Barro F22",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T06:53:21.958588"
+    },
+    "1959580": {
+      "appid": 1959580,
+      "name": "Supermoves 跑酷世界",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T06:53:26.498921"
+    },
+    "1960110": {
+      "appid": 1960110,
+      "name": "FREDERICA（芙蕾德利卡）",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T06:53:28.889871"
+    },
+    "1960590": {
+      "appid": 1960590,
+      "name": "I Am Sakuya: Touhou FPS Game",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T06:53:31.411194"
+    },
+    "1961160": {
+      "appid": 1961160,
+      "name": "Cats Love Boxes",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T06:53:36.574731"
+    },
+    "1961950": {
+      "appid": 1961950,
+      "name": "CHAOS;HEAD NOAH",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T06:53:43.052546"
     }
   }
 }
