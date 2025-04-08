@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-08T08:42:06.956567"
+    "updated": "2025-04-08T08:55:44.495377"
   },
   "games": {
     "570": {
@@ -82790,6 +82790,22 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-08T08:42:02.109371"
+    },
+    "2025310": {
+      "appid": 2025310,
+      "name": "Sigh of the Abyss",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T08:55:28.774789"
+    },
+    "2025320": {
+      "appid": 2025320,
+      "name": "Estencel",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T08:55:28.875920"
     }
   }
 }
