@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-08T11:23:46.117721"
+    "updated": "2025-04-08T11:26:26.064651"
   },
   "games": {
     "570": {
@@ -83310,6 +83310,62 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-08T11:23:31.557276"
+    },
+    "2116260": {
+      "appid": 2116260,
+      "name": "Relic Dudes",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T11:25:57.265392"
+    },
+    "2116850": {
+      "appid": 2116850,
+      "name": "Another Farm Roguelike",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T11:26:02.032036"
+    },
+    "2118370": {
+      "appid": 2118370,
+      "name": "Bosorka",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T11:26:11.128377"
+    },
+    "2118420": {
+      "appid": 2118420,
+      "name": "星舰铳犬 太阳系物语",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T11:26:11.389533"
+    },
+    "2118810": {
+      "appid": 2118810,
+      "name": "星尘战线 Breachway",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T11:26:13.202434"
+    },
+    "2119110": {
+      "appid": 2119110,
+      "name": "Furry Sex: Pirates 🏴‍☠️",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T11:26:15.428183"
+    },
+    "2119940": {
+      "appid": 2119940,
+      "name": "Her World",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T11:26:19.452526"
     }
   }
 }
