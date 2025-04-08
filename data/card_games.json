@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-08T18:55:39.143095"
+    "updated": "2025-04-08T18:58:10.295307"
   },
   "games": {
     "570": {
@@ -84766,6 +84766,46 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-04-08T18:55:13.696577"
+    },
+    "2313020": {
+      "appid": 2313020,
+      "name": "赛马娘 Pretty Derby 热血喧闹大感谢祭！",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T18:57:44.711487"
+    },
+    "2313240": {
+      "appid": 2313240,
+      "name": "Cats Hidden in Italy",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T18:57:46.422627"
+    },
+    "2314850": {
+      "appid": 2314850,
+      "name": "The Legend of Skye",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T18:57:55.143534"
+    },
+    "2315400": {
+      "appid": 2315400,
+      "name": "狭间骑士",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T18:57:57.694513"
+    },
+    "2316410": {
+      "appid": 2316410,
+      "name": "Universe in Cum 💦 🌎",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-08T18:58:02.425129"
     }
   }
 }
