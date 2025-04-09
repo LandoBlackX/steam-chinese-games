@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-09T07:49:37.193863"
+    "updated": "2025-04-09T07:52:20.011383"
   },
   "games": {
     "570": {
@@ -85782,6 +85782,38 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-09T07:49:34.849851"
+    },
+    "2492290": {
+      "appid": 2492290,
+      "name": "电脑侦探: 确凿证据",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-09T07:51:54.667405"
+    },
+    "2493220": {
+      "appid": 2493220,
+      "name": "Gynocracy",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-09T07:52:01.993047"
+    },
+    "2494340": {
+      "appid": 2494340,
+      "name": "Tour de France 2024",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-09T07:52:06.301068"
+    },
+    "2494350": {
+      "appid": 2494350,
+      "name": "Pro Cycling Manager 2024",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-09T07:52:06.435476"
     }
   }
 }
