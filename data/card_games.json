@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-09T16:58:56.901386"
+    "updated": "2025-04-09T17:03:48.523545"
   },
   "games": {
     "570": {
@@ -86862,6 +86862,30 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-09T16:58:40.463286"
+    },
+    "2738750": {
+      "appid": 2738750,
+      "name": "REYNATIS",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-09T17:03:38.354529"
+    },
+    "2738940": {
+      "appid": 2738940,
+      "name": "Voids Vigil",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-09T17:03:39.775765"
+    },
+    "2740180": {
+      "appid": 2740180,
+      "name": "Sex Euphoria 💖",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-09T17:03:46.668314"
     }
   }
 }
