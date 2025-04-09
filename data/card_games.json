@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-09T14:17:38.567509"
+    "updated": "2025-04-09T14:24:50.105390"
   },
   "games": {
     "570": {
@@ -86406,6 +86406,14 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-09T14:17:28.559956"
+    },
+    "2644360": {
+      "appid": 2644360,
+      "name": "国王之墓",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-09T14:24:47.964981"
     }
   }
 }
