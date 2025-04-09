@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-09T15:11:45.282736"
+    "updated": "2025-04-09T15:19:14.875960"
   },
   "games": {
     "570": {
@@ -86622,6 +86622,30 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-09T15:11:43.803417"
+    },
+    "2686060": {
+      "appid": 2686060,
+      "name": "Candle Daemon",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-09T15:19:04.707522"
+    },
+    "2686250": {
+      "appid": 2686250,
+      "name": "Morels: The Hunt 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-09T15:19:05.424187"
+    },
+    "2686320": {
+      "appid": 2686320,
+      "name": "Sexy Iron Maidens",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-09T15:19:05.586712"
     }
   }
 }
