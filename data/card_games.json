@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-09T02:00:27.771531"
+    "updated": "2025-04-09T03:07:39.117884"
   },
   "games": {
     "570": {
@@ -85214,6 +85214,30 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-09T02:00:07.768688"
+    },
+    "2401410": {
+      "appid": 2401410,
+      "name": "Cabernet",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-09T03:07:08.626930"
+    },
+    "2402630": {
+      "appid": 2402630,
+      "name": "Egypt Frontiers",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-09T03:07:15.239380"
+    },
+    "2404370": {
+      "appid": 2404370,
+      "name": "幻日夜羽 -湛海耀光-",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-09T03:07:28.018922"
     }
   }
 }
