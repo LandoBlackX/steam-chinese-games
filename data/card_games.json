@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-09T06:01:27.857590"
+    "updated": "2025-04-09T06:38:39.766885"
   },
   "games": {
     "570": {
@@ -85446,6 +85446,54 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-09T06:01:22.975147"
+    },
+    "2441700": {
+      "appid": 2441700,
+      "name": "UNDERDOGS",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-09T06:38:14.862269"
+    },
+    "2442020": {
+      "appid": 2442020,
+      "name": "Dangeresque: The Roomisode Triungulate",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-09T06:38:16.041510"
+    },
+    "2442460": {
+      "appid": 2442460,
+      "name": "Citizen Sleeper 2: Starward Vector",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-09T06:38:19.317060"
+    },
+    "2443360": {
+      "appid": 2443360,
+      "name": "Zortch",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-09T06:38:26.021615"
+    },
+    "2443780": {
+      "appid": 2443780,
+      "name": "Settlemoon",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-09T06:38:29.139840"
+    },
+    "2445340": {
+      "appid": 2445340,
+      "name": "爱与生活：幸运老师",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-09T06:38:39.629794"
     }
   }
 }
