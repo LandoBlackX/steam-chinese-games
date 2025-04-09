@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-09T23:24:08.422299"
+    "updated": "2025-04-09T23:38:58.947419"
   },
   "games": {
     "570": {
@@ -87158,6 +87158,14 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-09T23:24:01.025900"
+    },
+    "2856370": {
+      "appid": 2856370,
+      "name": "雾方福地 - Into the Emberlands",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-09T23:38:40.404050"
     }
   }
 }
