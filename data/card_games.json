@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-09T15:33:26.063697"
+    "updated": "2025-04-09T15:38:06.440282"
   },
   "games": {
     "570": {
@@ -86702,6 +86702,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-04-09T15:33:12.087101"
+    },
+    "2701660": {
+      "appid": 2701660,
+      "name": "勇者斗恶龙III HD-2D Remake",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-09T15:38:04.616130"
     }
   }
 }
