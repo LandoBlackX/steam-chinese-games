@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-09T13:37:22.259835"
+    "updated": "2025-04-09T13:38:51.278735"
   },
   "games": {
     "570": {
@@ -86342,6 +86342,22 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-09T13:37:06.214358"
+    },
+    "2621150": {
+      "appid": 2621150,
+      "name": "Древние Ящеры Против Русов: Битва за Гиперборею",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-09T13:38:33.484787"
+    },
+    "2623050": {
+      "appid": 2623050,
+      "name": "Berzerk: Recharged",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-09T13:38:45.789226"
     }
   }
 }
