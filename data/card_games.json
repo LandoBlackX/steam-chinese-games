@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-09T17:59:57.199261"
+    "updated": "2025-04-09T18:34:23.029369"
   },
   "games": {
     "570": {
@@ -86966,6 +86966,14 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-09T17:55:50.252566"
+    },
+    "2772820": {
+      "appid": 2772820,
+      "name": "ButtKnight",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-09T18:34:00.278876"
     }
   }
 }
