@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-09T15:01:57.168403"
+    "updated": "2025-04-09T15:06:20.484455"
   },
   "games": {
     "570": {
@@ -86566,6 +86566,30 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-09T15:01:50.293576"
+    },
+    "2673490": {
+      "appid": 2673490,
+      "name": "制服女友",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-09T15:05:52.893339"
+    },
+    "2675630": {
+      "appid": 2675630,
+      "name": "挤在一起的猫猫",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-09T15:06:04.867693"
+    },
+    "2677660": {
+      "appid": 2677660,
+      "name": "夺宝奇兵：古老之圈 ",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-09T15:06:15.480041"
     }
   }
 }
