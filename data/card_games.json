@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-09T15:06:20.484455"
+    "updated": "2025-04-09T15:11:45.282736"
   },
   "games": {
     "570": {
@@ -86590,6 +86590,38 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-09T15:06:15.480041"
+    },
+    "2678990": {
+      "appid": 2678990,
+      "name": "南之町",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-09T15:11:20.382148"
+    },
+    "2679460": {
+      "appid": 2679460,
+      "name": "暗喻幻想：ReFantazio",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-09T15:11:23.567982"
+    },
+    "2682120": {
+      "appid": 2682120,
+      "name": "Movie Cinema Simulator",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-09T15:11:37.721579"
+    },
+    "2683150": {
+      "appid": 2683150,
+      "name": "传说酒馆",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-09T15:11:43.803417"
     }
   }
 }
