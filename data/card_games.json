@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-09T07:29:55.334548"
+    "updated": "2025-04-09T07:35:05.202305"
   },
   "games": {
     "570": {
@@ -85622,6 +85622,22 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-09T07:29:46.353102"
+    },
+    "2470860": {
+      "appid": 2470860,
+      "name": "Knockout Master",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-09T07:34:46.219192"
+    },
+    "2473480": {
+      "appid": 2473480,
+      "name": "Tails of Iron 2: Whiskers of Winter",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-09T07:35:04.307417"
     }
   }
 }
