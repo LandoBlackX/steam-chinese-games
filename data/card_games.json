@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-09T05:11:49.061725"
+    "updated": "2025-04-09T05:34:54.289841"
   },
   "games": {
     "570": {
@@ -85398,6 +85398,22 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-09T05:11:43.813268"
+    },
+    "2429240": {
+      "appid": 2429240,
+      "name": "Soulslinger: Envoy of Death",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-09T05:34:35.272123"
+    },
+    "2430690": {
+      "appid": 2430690,
+      "name": "幸运草的约定",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-09T05:34:43.808516"
     }
   }
 }
