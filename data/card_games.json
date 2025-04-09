@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-09T07:23:32.276938"
+    "updated": "2025-04-09T07:26:45.568957"
   },
   "games": {
     "570": {
@@ -85598,6 +85598,22 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-09T07:23:30.212552"
+    },
+    "2460490": {
+      "appid": 2460490,
+      "name": "Quantum: Recharged",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-09T07:26:25.856207"
+    },
+    "2461850": {
+      "appid": 2461850,
+      "name": "Senua’s Saga: Hellblade II",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-09T07:26:33.754832"
     }
   }
 }
