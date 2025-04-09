@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-09T07:42:00.542444"
+    "updated": "2025-04-09T07:49:37.193863"
   },
   "games": {
     "570": {
@@ -85766,6 +85766,22 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-09T07:42:00.540725"
+    },
+    "2490990": {
+      "appid": 2490990,
+      "name": "圣剑传说 Visions of Mana",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-09T07:49:31.897545"
+    },
+    "2491360": {
+      "appid": 2491360,
+      "name": "召唤之王 (Supreme Summoner)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-09T07:49:34.849851"
     }
   }
 }
