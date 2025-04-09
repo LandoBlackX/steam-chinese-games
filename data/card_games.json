@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-09T14:48:28.579173"
+    "updated": "2025-04-09T14:52:29.020521"
   },
   "games": {
     "570": {
@@ -86478,6 +86478,30 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-09T14:48:25.590382"
+    },
+    "2661620": {
+      "appid": 2661620,
+      "name": "爱在登录",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-09T14:52:19.306472"
+    },
+    "2662630": {
+      "appid": 2662630,
+      "name": "《上古卷轴OL：黄金大道》",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-09T14:52:24.056288"
+    },
+    "2663530": {
+      "appid": 2663530,
+      "name": "POOLS",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-09T14:52:27.831252"
     }
   }
 }
