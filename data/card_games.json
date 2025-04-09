@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-09T14:26:36.964987"
+    "updated": "2025-04-09T14:32:04.622168"
   },
   "games": {
     "570": {
@@ -86430,6 +86430,14 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-09T14:26:24.786329"
+    },
+    "2649970": {
+      "appid": 2649970,
+      "name": "Steps of Debauchery",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-09T14:31:32.067166"
     }
   }
 }
