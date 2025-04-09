@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-09T09:14:50.207604"
+    "updated": "2025-04-09T09:25:47.571231"
   },
   "games": {
     "570": {
@@ -85998,6 +85998,38 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-09T09:14:49.347141"
+    },
+    "2530560": {
+      "appid": 2530560,
+      "name": "锈兔异途 / Rusty Rabbit",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-09T09:25:26.696888"
+    },
+    "2532050": {
+      "appid": 2532050,
+      "name": "Vampires' Melody 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-09T09:25:35.560723"
+    },
+    "2532550": {
+      "appid": 2532550,
+      "name": "俄罗斯人对蜥蜴人",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-09T09:25:38.222632"
+    },
+    "2534370": {
+      "appid": 2534370,
+      "name": "Yars Rising",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-09T09:25:45.713703"
     }
   }
 }
