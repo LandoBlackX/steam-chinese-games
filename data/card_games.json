@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-09T12:21:22.603259"
+    "updated": "2025-04-09T13:03:27.647617"
   },
   "games": {
     "570": {
@@ -86326,6 +86326,14 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-09T12:21:21.492709"
+    },
+    "2612660": {
+      "appid": 2612660,
+      "name": "Kamaitachi no Yoru x3",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-09T13:03:19.326434"
     }
   }
 }
