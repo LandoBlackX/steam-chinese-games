@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-09T13:03:27.647617"
+    "updated": "2025-04-09T13:37:22.259835"
   },
   "games": {
     "570": {
@@ -86334,6 +86334,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-04-09T13:03:19.326434"
+    },
+    "2616420": {
+      "appid": 2616420,
+      "name": "Hans",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-09T13:37:06.214358"
     }
   }
 }
