@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-09T11:22:32.710823"
+    "updated": "2025-04-09T11:25:03.482470"
   },
   "games": {
     "570": {
@@ -86230,6 +86230,46 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-09T11:22:12.265664"
+    },
+    "2589670": {
+      "appid": 2589670,
+      "name": "Love x Debut",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-09T11:24:35.355085"
+    },
+    "2591280": {
+      "appid": 2591280,
+      "name": "F1® Manager 2024",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-09T11:24:47.225903"
+    },
+    "2591910": {
+      "appid": 2591910,
+      "name": "My Furry Protogen 2 🐾",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-09T11:24:50.617480"
+    },
+    "2593370": {
+      "appid": 2593370,
+      "name": "饿殍：明末千里行",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-09T11:24:55.909105"
+    },
+    "2594020": {
+      "appid": 2594020,
+      "name": "Oxytone",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-09T11:25:00.487385"
     }
   }
 }
