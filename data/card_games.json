@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-09T09:10:39.497545"
+    "updated": "2025-04-09T09:14:50.207604"
   },
   "games": {
     "570": {
@@ -85958,6 +85958,46 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-09T09:10:37.555192"
+    },
+    "2527390": {
+      "appid": 2527390,
+      "name": "Dead Rising Deluxe Remaster",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-09T09:14:32.382494"
+    },
+    "2527450": {
+      "appid": 2527450,
+      "name": "贽之匣庭",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-09T09:14:32.810116"
+    },
+    "2527460": {
+      "appid": 2527460,
+      "name": "炼爱秘仪",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-09T09:14:32.944555"
+    },
+    "2529170": {
+      "appid": 2529170,
+      "name": "仓储大战：拍卖模拟器",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-09T09:14:45.085401"
+    },
+    "2529770": {
+      "appid": 2529770,
+      "name": "蚀变之因 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-09T09:14:49.347141"
     }
   }
 }
