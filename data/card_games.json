@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-09T09:35:08.067427"
+    "updated": "2025-04-09T09:45:34.234138"
   },
   "games": {
     "570": {
@@ -86046,6 +86046,22 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-09T09:34:48.965775"
+    },
+    "2539880": {
+      "appid": 2539880,
+      "name": "雾隐战记 C.A.R.D.S. RPG",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-09T09:45:06.398919"
+    },
+    "2544110": {
+      "appid": 2544110,
+      "name": "Broken Sword - Shadow of the Templars: Reforged",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-09T09:45:33.205615"
     }
   }
 }
