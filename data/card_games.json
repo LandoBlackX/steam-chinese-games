@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-09T05:34:54.289841"
+    "updated": "2025-04-09T05:48:15.047665"
   },
   "games": {
     "570": {
@@ -85414,6 +85414,14 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-09T05:34:43.808516"
+    },
+    "2435900": {
+      "appid": 2435900,
+      "name": "SharpShooter3D",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-09T05:48:09.474763"
     }
   }
 }
