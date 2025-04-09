@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-09T03:44:15.122762"
+    "updated": "2025-04-09T03:57:55.024481"
   },
   "games": {
     "570": {
@@ -85270,6 +85270,22 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-09T03:44:10.835478"
+    },
+    "2413050": {
+      "appid": 2413050,
+      "name": "Retrowave World",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-09T03:57:45.896144"
+    },
+    "2413640": {
+      "appid": 2413640,
+      "name": "Countless Army",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-09T03:57:50.346782"
     }
   }
 }
