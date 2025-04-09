@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-09T11:10:15.013097"
+    "updated": "2025-04-09T11:22:32.710823"
   },
   "games": {
     "570": {
@@ -86214,6 +86214,22 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-09T11:09:59.295683"
+    },
+    "2585040": {
+      "appid": 2585040,
+      "name": "GUNVOLT RECORDS 电子轨录律",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-09T11:22:08.636584"
+    },
+    "2585720": {
+      "appid": 2585720,
+      "name": "Sex Apocalypse 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-09T11:22:12.265664"
     }
   }
 }
