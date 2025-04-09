@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-09T10:43:23.463290"
+    "updated": "2025-04-09T10:57:44.045136"
   },
   "games": {
     "570": {
@@ -86166,6 +86166,14 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-09T10:43:16.418210"
+    },
+    "2572560": {
+      "appid": 2572560,
+      "name": "萌宠拆拆乐",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-09T10:57:37.743967"
     }
   }
 }
