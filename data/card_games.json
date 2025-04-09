@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-09T19:12:57.475538"
+    "updated": "2025-04-09T19:27:43.511063"
   },
   "games": {
     "570": {
@@ -87014,6 +87014,22 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-09T19:12:35.806893"
+    },
+    "2788310": {
+      "appid": 2788310,
+      "name": "萌物求生 / Twilight Survivors",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-09T19:27:25.366562"
+    },
+    "2790000": {
+      "appid": 2790000,
+      "name": "Sin Slayers: Reign of The 8th",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-09T19:27:34.781008"
     }
   }
 }
