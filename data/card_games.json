@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-09T19:41:12.112076"
+    "updated": "2025-04-09T19:54:11.469404"
   },
   "games": {
     "570": {
@@ -87046,6 +87046,14 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-09T19:41:11.540007"
+    },
+    "2800520": {
+      "appid": 2800520,
+      "name": "Sex Magic 🔮",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-09T19:54:08.519571"
     }
   }
 }
