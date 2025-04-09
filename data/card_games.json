@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-09T09:07:07.338750"
+    "updated": "2025-04-09T09:10:39.497545"
   },
   "games": {
     "570": {
@@ -85942,6 +85942,22 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-09T08:48:54.216127"
+    },
+    "2521380": {
+      "appid": 2521380,
+      "name": "Legacy of Kain™ Soul Reaver 1&2 Remastered",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-09T09:10:11.364874"
+    },
+    "2525230": {
+      "appid": 2525230,
+      "name": "My Lovely Stepsister",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-09T09:10:37.555192"
     }
   }
 }
