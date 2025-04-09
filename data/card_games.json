@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-09T09:25:47.571231"
+    "updated": "2025-04-09T09:35:08.067427"
   },
   "games": {
     "570": {
@@ -86030,6 +86030,22 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-04-09T09:25:45.713703"
+    },
+    "2536650": {
+      "appid": 2536650,
+      "name": "TYPECAST",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-09T09:34:47.246961"
+    },
+    "2536840": {
+      "appid": 2536840,
+      "name": "GINKA",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-09T09:34:48.965775"
     }
   }
 }
