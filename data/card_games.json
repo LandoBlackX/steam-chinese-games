@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-09T14:24:50.105390"
+    "updated": "2025-04-09T14:26:36.964987"
   },
   "games": {
     "570": {
@@ -86414,6 +86414,22 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-09T14:24:47.964981"
+    },
+    "2647060": {
+      "appid": 2647060,
+      "name": "LoveXLust",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-09T14:26:22.583415"
+    },
+    "2647820": {
+      "appid": 2647820,
+      "name": "Ad Fundum",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-09T14:26:24.786329"
     }
   }
 }
