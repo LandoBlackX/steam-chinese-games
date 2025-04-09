@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-09T17:25:54.211881"
+    "updated": "2025-04-09T17:43:17.236443"
   },
   "games": {
     "570": {
@@ -86910,6 +86910,38 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-04-09T17:25:42.709518"
+    },
+    "2753930": {
+      "appid": 2753930,
+      "name": "维京王朝 - Vikings Dynasty",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-09T17:43:03.292170"
+    },
+    "2754170": {
+      "appid": 2754170,
+      "name": "繁花落舞恋如樱-Re:BIRTH-",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-09T17:43:05.051547"
+    },
+    "2755330": {
+      "appid": 2755330,
+      "name": "Chushpan Simulator",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-09T17:43:12.127404"
+    },
+    "2755410": {
+      "appid": 2755410,
+      "name": "Charm Commerce",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-09T17:43:12.574835"
     }
   }
 }
