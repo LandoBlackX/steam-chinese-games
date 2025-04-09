@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-09T19:27:43.511063"
+    "updated": "2025-04-09T19:41:12.112076"
   },
   "games": {
     "570": {
@@ -87030,6 +87030,22 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-09T19:27:34.781008"
+    },
+    "2796010": {
+      "appid": 2796010,
+      "name": "小动物餐吧",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-09T19:41:09.486993"
+    },
+    "2796180": {
+      "appid": 2796180,
+      "name": "SILENT BREATH",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-09T19:41:11.540007"
     }
   }
 }
