@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-09T07:26:45.568957"
+    "updated": "2025-04-09T07:29:55.334548"
   },
   "games": {
     "570": {
@@ -85614,6 +85614,14 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-09T07:26:33.754832"
+    },
+    "2467810": {
+      "appid": 2467810,
+      "name": "Orebound",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-09T07:29:46.353102"
     }
   }
 }
