@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-09T09:56:25.493680"
+    "updated": "2025-04-09T10:12:52.017038"
   },
   "games": {
     "570": {
@@ -86102,6 +86102,14 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-09T09:56:18.014086"
+    },
+    "2558200": {
+      "appid": 2558200,
+      "name": "Call of Sentinels",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-09T10:12:45.259065"
     }
   }
 }
