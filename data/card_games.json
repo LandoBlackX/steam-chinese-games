@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-09T07:35:05.202305"
+    "updated": "2025-04-09T07:37:53.464842"
   },
   "games": {
     "570": {
@@ -85638,6 +85638,46 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-09T07:35:04.307417"
+    },
+    "2475460": {
+      "appid": 2475460,
+      "name": "SOS OPS!",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-09T07:37:38.541832"
+    },
+    "2475490": {
+      "appid": 2475490,
+      "name": "缄默祸运",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-09T07:37:38.783076"
+    },
+    "2476100": {
+      "appid": 2476100,
+      "name": "惊悚故事：异世迷境",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-09T07:37:42.087255"
+    },
+    "2477140": {
+      "appid": 2477140,
+      "name": "Twilight Town: A Cyberpunk FPS",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-09T07:37:48.334083"
+    },
+    "2478020": {
+      "appid": 2478020,
+      "name": "Ray’z Arcade Chronology",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-09T07:37:53.202625"
     }
   }
 }
