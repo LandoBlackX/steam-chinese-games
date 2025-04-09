@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-09T14:56:04.620683"
+    "updated": "2025-04-09T15:01:57.168403"
   },
   "games": {
     "570": {
@@ -86558,6 +86558,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-04-09T14:56:03.187611"
+    },
+    "2671970": {
+      "appid": 2671970,
+      "name": "‎My Suika – Kyo’s Fruit Merge",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-09T15:01:50.293576"
     }
   }
 }
