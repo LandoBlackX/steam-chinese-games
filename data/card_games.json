@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-09T15:19:14.875960"
+    "updated": "2025-04-09T15:21:27.924577"
   },
   "games": {
     "570": {
@@ -86646,6 +86646,22 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-09T15:19:05.586712"
+    },
+    "2688950": {
+      "appid": 2688950,
+      "name": "过山车之星2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-09T15:21:05.184098"
+    },
+    "2689230": {
+      "appid": 2689230,
+      "name": "FURRY BACKROOMS",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-09T15:21:07.033390"
     }
   }
 }
