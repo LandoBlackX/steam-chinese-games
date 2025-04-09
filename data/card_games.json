@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-09T16:57:39.507571"
+    "updated": "2025-04-09T16:58:56.901386"
   },
   "games": {
     "570": {
@@ -86830,6 +86830,38 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-09T16:57:39.165011"
+    },
+    "2731300": {
+      "appid": 2731300,
+      "name": "女巫4·酒店",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-09T16:58:33.382937"
+    },
+    "2731870": {
+      "appid": 2731870,
+      "name": "Ys X: Nordics",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-09T16:58:36.025694"
+    },
+    "2732510": {
+      "appid": 2732510,
+      "name": "Sex Detective [18+]",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-09T16:58:38.959586"
+    },
+    "2732730": {
+      "appid": 2732730,
+      "name": "Tomboy: Love in Hot Forge",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-09T16:58:40.463286"
     }
   }
 }
