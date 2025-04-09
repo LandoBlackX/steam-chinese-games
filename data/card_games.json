@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-09T14:10:12.892688"
+    "updated": "2025-04-09T14:17:38.567509"
   },
   "games": {
     "570": {
@@ -86398,6 +86398,14 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-09T14:10:07.856553"
+    },
+    "2638560": {
+      "appid": 2638560,
+      "name": "禁忌幻想",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-09T14:17:28.559956"
     }
   }
 }
