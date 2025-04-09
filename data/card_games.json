@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-09T18:34:23.029369"
+    "updated": "2025-04-09T18:51:33.664210"
   },
   "games": {
     "570": {
@@ -86974,6 +86974,22 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-09T18:34:00.278876"
+    },
+    "2776570": {
+      "appid": 2776570,
+      "name": "Cats Hidden in Germany",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-09T18:51:01.319184"
+    },
+    "2778850": {
+      "appid": 2778850,
+      "name": "One Iced Latte With Your Breast Milk, Please! ☕",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-09T18:51:18.215010"
     }
   }
 }
