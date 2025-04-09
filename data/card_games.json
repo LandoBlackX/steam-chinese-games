@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-09T07:37:53.464842"
+    "updated": "2025-04-09T07:39:21.853114"
   },
   "games": {
     "570": {
@@ -85678,6 +85678,30 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-09T07:37:53.202625"
+    },
+    "2478970": {
+      "appid": 2478970,
+      "name": "Tomb Raider I-III Remastered Starring Lara Croft",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-09T07:38:56.397558"
+    },
+    "2479000": {
+      "appid": 2479000,
+      "name": "Noise-o-matic",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-09T07:38:56.566037"
+    },
+    "2480200": {
+      "appid": 2480200,
+      "name": "Sex of Thrones 👑",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-09T07:39:06.114501"
     }
   }
 }
