@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-09T04:49:42.170428"
+    "updated": "2025-04-09T05:11:49.061725"
   },
   "games": {
     "570": {
@@ -85366,6 +85366,38 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-09T04:49:41.846612"
+    },
+    "2424110": {
+      "appid": 2424110,
+      "name": "鬼灭之刃 争当最强队士！",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-09T05:11:21.975274"
+    },
+    "2425410": {
+      "appid": 2425410,
+      "name": "爱丽娅的明日盛典! Flowering Sky",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-09T05:11:29.568962"
+    },
+    "2426310": {
+      "appid": 2426310,
+      "name": "Arcana: Heat and Cold. Stories",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-09T05:11:35.854808"
+    },
+    "2427570": {
+      "appid": 2427570,
+      "name": "Block Tower TD",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-09T05:11:43.813268"
     }
   }
 }
