@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-09T11:07:15.309499"
+    "updated": "2025-04-09T11:10:15.013097"
   },
   "games": {
     "570": {
@@ -86198,6 +86198,22 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-04-09T11:07:05.142075"
+    },
+    "2580130": {
+      "appid": 2580130,
+      "name": "七界：拉菲恩圣地",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-09T11:09:52.271688"
+    },
+    "2581700": {
+      "appid": 2581700,
+      "name": "MotoGP™24",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-09T11:09:59.295683"
     }
   }
 }
