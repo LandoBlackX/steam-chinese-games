@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-09T17:07:48.938701"
+    "updated": "2025-04-09T17:25:54.211881"
   },
   "games": {
     "570": {
@@ -86902,6 +86902,14 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-09T17:07:41.683355"
+    },
+    "2749100": {
+      "appid": 2749100,
+      "name": "Dawnmaker",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-09T17:25:42.709518"
     }
   }
 }
