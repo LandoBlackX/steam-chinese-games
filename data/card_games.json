@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-09T23:38:58.947419"
+    "updated": "2025-04-09T23:51:53.913181"
   },
   "games": {
     "570": {
@@ -87166,6 +87166,22 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-09T23:38:40.404050"
+    },
+    "2860450": {
+      "appid": 2860450,
+      "name": "Happy Sheepies",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-09T23:51:32.054436"
+    },
+    "2864210": {
+      "appid": 2864210,
+      "name": "Tomboy: Sex in the Forest",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-09T23:51:53.739373"
     }
   }
 }
