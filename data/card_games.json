@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-09T05:48:15.047665"
+    "updated": "2025-04-09T06:01:27.857590"
   },
   "games": {
     "570": {
@@ -85422,6 +85422,30 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-04-09T05:48:09.474763"
+    },
+    "2436570": {
+      "appid": 2436570,
+      "name": "勇者斗恶龙 创世小玩家 阿雷夫加尔德复兴记",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-09T06:00:49.815996"
+    },
+    "2440200": {
+      "appid": 2440200,
+      "name": "AURA: Hentai Cards",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-09T06:01:20.418397"
+    },
+    "2440510": {
+      "appid": 2440510,
+      "name": "Forza Motorsport 极限竞速",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-09T06:01:22.975147"
     }
   }
 }
