@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-09T15:48:16.144899"
+    "updated": "2025-04-09T15:49:49.051654"
   },
   "games": {
     "570": {
@@ -86734,6 +86734,22 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-09T15:48:16.141056"
+    },
+    "2707110": {
+      "appid": 2707110,
+      "name": "Birds Organized Neatly",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-09T15:49:22.899825"
+    },
+    "2708280": {
+      "appid": 2708280,
+      "name": "ESCAPE FROM BOYKISSER",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-09T15:49:32.462735"
     }
   }
 }
