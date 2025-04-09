@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-09T22:56:48.755142"
+    "updated": "2025-04-09T23:24:08.422299"
   },
   "games": {
     "570": {
@@ -87150,6 +87150,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-04-09T22:43:37.521915"
+    },
+    "2852980": {
+      "appid": 2852980,
+      "name": "幽冥之王",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-09T23:24:01.025900"
     }
   }
 }
