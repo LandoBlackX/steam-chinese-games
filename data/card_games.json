@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-09T21:58:39.286614"
+    "updated": "2025-04-09T22:26:47.839372"
   },
   "games": {
     "570": {
@@ -87110,6 +87110,22 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-09T21:58:34.214074"
+    },
+    "2839280": {
+      "appid": 2839280,
+      "name": "深夏时光！　二十世纪的暑假",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-09T22:26:39.654602"
+    },
+    "2840250": {
+      "appid": 2840250,
+      "name": "ZERO PROTOCOL",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-09T22:26:44.322205"
     }
   }
 }
