@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-09T15:21:27.924577"
+    "updated": "2025-04-09T15:33:26.063697"
   },
   "games": {
     "570": {
@@ -86662,6 +86662,46 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-09T15:21:07.033390"
+    },
+    "2693730": {
+      "appid": 2693730,
+      "name": "Dawnsbury Days",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-09T15:33:00.173005"
+    },
+    "2693940": {
+      "appid": 2693940,
+      "name": "背包精灵：决斗者",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-09T15:33:03.098021"
+    },
+    "2694420": {
+      "appid": 2694420,
+      "name": "射戮骑士",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-09T15:33:06.035433"
+    },
+    "2695270": {
+      "appid": 2695270,
+      "name": "Miss Neko: Pirates",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-09T15:33:11.937276"
+    },
+    "2695290": {
+      "appid": 2695290,
+      "name": "EmyLiveShow: Dragon & Mistresses Tale",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-09T15:33:12.087101"
     }
   }
 }
