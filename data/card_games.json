@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-09T11:36:53.110344"
+    "updated": "2025-04-09T11:49:59.516910"
   },
   "games": {
     "570": {
@@ -86286,6 +86286,22 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-09T11:36:42.955791"
+    },
+    "2599370": {
+      "appid": 2599370,
+      "name": "DeathWatchers",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-09T11:49:30.509592"
+    },
+    "2602030": {
+      "appid": 2602030,
+      "name": "Entropy Survivors",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-09T11:49:48.705204"
     }
   }
 }
