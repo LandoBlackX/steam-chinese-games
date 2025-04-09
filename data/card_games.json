@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-09T11:49:59.516910"
+    "updated": "2025-04-09T12:21:22.603259"
   },
   "games": {
     "570": {
@@ -86302,6 +86302,30 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-09T11:49:48.705204"
+    },
+    "2608040": {
+      "appid": 2608040,
+      "name": "Cats Hidden in China",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-09T12:21:16.714522"
+    },
+    "2608270": {
+      "appid": 2608270,
+      "name": "静脉注射2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-09T12:21:18.946003"
+    },
+    "2608620": {
+      "appid": 2608620,
+      "name": "Sex, Please",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-09T12:21:21.492709"
     }
   }
 }
