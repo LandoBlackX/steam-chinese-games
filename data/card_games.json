@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-09T18:51:33.664210"
+    "updated": "2025-04-09T19:12:57.475538"
   },
   "games": {
     "570": {
@@ -86990,6 +86990,30 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-04-09T18:51:18.215010"
+    },
+    "2781250": {
+      "appid": 2781250,
+      "name": "Lyndaria: Lust Adventure",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-09T19:12:18.544203"
+    },
+    "2781370": {
+      "appid": 2781370,
+      "name": "坤号出口",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-09T19:12:19.491837"
+    },
+    "2783610": {
+      "appid": 2783610,
+      "name": "Malignant Survivors",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-09T19:12:35.806893"
     }
   }
 }
