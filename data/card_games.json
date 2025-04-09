@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-09T07:16:31.314303"
+    "updated": "2025-04-09T07:23:32.276938"
   },
   "games": {
     "570": {
@@ -85542,6 +85542,62 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-04-09T07:16:27.134453"
+    },
+    "2455140": {
+      "appid": 2455140,
+      "name": "魅惑之翼：少女的爆衣攻略",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-09T07:23:05.910941"
+    },
+    "2455340": {
+      "appid": 2455340,
+      "name": "Together in Between",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-09T07:23:07.606834"
+    },
+    "2455370": {
+      "appid": 2455370,
+      "name": "Russian Village Simulator",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-09T07:23:08.159861"
+    },
+    "2455640": {
+      "appid": 2455640,
+      "name": "浪漫沙加2 七英雄的复仇",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-09T07:23:09.955351"
+    },
+    "2457220": {
+      "appid": 2457220,
+      "name": "Avowed",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-09T07:23:20.412472"
+    },
+    "2458530": {
+      "appid": 2458530,
+      "name": "魔女的夜宴",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-09T07:23:27.812715"
+    },
+    "2458860": {
+      "appid": 2458860,
+      "name": "夏色四叶草",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-09T07:23:30.212552"
     }
   }
 }
