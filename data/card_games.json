@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-09T17:03:48.523545"
+    "updated": "2025-04-09T17:07:48.938701"
   },
   "games": {
     "570": {
@@ -86886,6 +86886,22 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-09T17:03:46.668314"
+    },
+    "2744230": {
+      "appid": 2744230,
+      "name": "我们把似曾相见的「那些游戏」都做成了火柴人，可是你又能否成功过关呢？2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-09T17:07:38.039785"
+    },
+    "2744880": {
+      "appid": 2744880,
+      "name": "Climber Animals: Together",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-09T17:07:41.683355"
     }
   }
 }
