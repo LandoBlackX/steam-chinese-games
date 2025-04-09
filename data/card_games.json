@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-09T10:20:40.319795"
+    "updated": "2025-04-09T10:43:23.463290"
   },
   "games": {
     "570": {
@@ -86158,6 +86158,14 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-09T10:20:20.671047"
+    },
+    "2567190": {
+      "appid": 2567190,
+      "name": "少女理论以及周边 -École de Paris-",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-09T10:43:16.418210"
     }
   }
 }
