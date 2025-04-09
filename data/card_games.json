@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-09T13:56:09.666823"
+    "updated": "2025-04-09T14:10:12.892688"
   },
   "games": {
     "570": {
@@ -86382,6 +86382,22 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-09T13:55:58.848580"
+    },
+    "2633150": {
+      "appid": 2633150,
+      "name": "Sophia's Spa",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-09T14:10:03.527852"
+    },
+    "2633890": {
+      "appid": 2633890,
+      "name": "Orgasm Simulator 3 💦",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-09T14:10:07.856553"
     }
   }
 }
