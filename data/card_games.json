@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-09T07:52:20.011383"
+    "updated": "2025-04-09T08:16:23.409971"
   },
   "games": {
     "570": {
@@ -85814,6 +85814,38 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-04-09T07:52:06.435476"
+    },
+    "2497610": {
+      "appid": 2497610,
+      "name": "人魔",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-09T08:16:02.533540"
+    },
+    "2497900": {
+      "appid": 2497900,
+      "name": "DON'T SCREAM",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-09T08:16:03.792507"
+    },
+    "2497930": {
+      "appid": 2497930,
+      "name": "The Grey Dream",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-09T08:16:04.289859"
+    },
+    "2500190": {
+      "appid": 2500190,
+      "name": "Paver Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-09T08:16:18.160065"
     }
   }
 }
