@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-09T08:23:17.779551"
+    "updated": "2025-04-09T08:36:57.169486"
   },
   "games": {
     "570": {
@@ -85846,6 +85846,46 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-09T08:16:18.160065"
+    },
+    "2507950": {
+      "appid": 2507950,
+      "name": "三角洲行动 ",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-09T08:36:32.556841"
+    },
+    "2508770": {
+      "appid": 2508770,
+      "name": "魔农传记 FARMAGIA",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-09T08:36:38.440362"
+    },
+    "2510710": {
+      "appid": 2510710,
+      "name": "Kunitsu-Gami: Path of the Goddess",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-09T08:36:50.410775"
+    },
+    "2510810": {
+      "appid": 2510810,
+      "name": "突然＊恋人",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-09T08:36:51.307474"
+    },
+    "2510960": {
+      "appid": 2510960,
+      "name": "Temtem: Swarm",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-09T08:36:52.784588"
     }
   }
 }
