@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-10T07:14:18.727329"
+    "updated": "2025-04-10T07:33:32.752538"
   },
   "games": {
     "570": {
@@ -87326,6 +87326,22 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-04-10T07:14:00.022458"
+    },
+    "2928600": {
+      "appid": 2928600,
+      "name": "鬼灭之刃 火之神血风谭2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-10T07:33:19.086862"
+    },
+    "2928650": {
+      "appid": 2928650,
+      "name": "Only Up: SKIBIDI TOGETHER",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-10T07:33:19.464046"
     }
   }
 }
