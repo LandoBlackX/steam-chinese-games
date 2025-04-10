@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-10T10:45:04.565457"
+    "updated": "2025-04-10T10:54:51.506159"
   },
   "games": {
     "570": {
@@ -87598,6 +87598,14 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-10T10:45:04.563748"
+    },
+    "3030720": {
+      "appid": 3030720,
+      "name": "FATE: Reawakened",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-10T10:54:28.467048"
     }
   }
 }
