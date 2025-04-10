@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-10T07:46:25.891868"
+    "updated": "2025-04-10T07:59:09.513279"
   },
   "games": {
     "570": {
@@ -87350,6 +87350,22 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-10T07:46:05.539428"
+    },
+    "2936260": {
+      "appid": 2936260,
+      "name": "Lust Mansion 🔞",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-10T07:58:41.036791"
+    },
+    "2940490": {
+      "appid": 2940490,
+      "name": "獸圈  瞄准训练器",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-10T07:59:07.757915"
     }
   }
 }
