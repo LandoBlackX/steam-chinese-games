@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-10T14:00:50.705235"
+    "updated": "2025-04-10T14:10:25.310289"
   },
   "games": {
     "570": {
@@ -87774,6 +87774,14 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-10T13:38:10.307873"
+    },
+    "3108510": {
+      "appid": 3108510,
+      "name": "FlyKnight",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-10T14:10:07.146742"
     }
   }
 }
