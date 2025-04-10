@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-10T01:10:05.105737"
+    "updated": "2025-04-10T02:41:52.139793"
   },
   "games": {
     "570": {
@@ -87182,6 +87182,14 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-09T23:51:53.739373"
+    },
+    "2873080": {
+      "appid": 2873080,
+      "name": "不/存在的你，和我",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-10T02:41:47.875829"
     }
   }
 }
