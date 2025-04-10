@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-10T09:04:41.094265"
+    "updated": "2025-04-10T09:08:35.847785"
   },
   "games": {
     "570": {
@@ -87430,6 +87430,14 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-10T09:04:26.210383"
+    },
+    "2965280": {
+      "appid": 2965280,
+      "name": "国际象棋",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-10T09:08:16.011095"
     }
   }
 }
