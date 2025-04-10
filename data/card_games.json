@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-10T12:20:47.303890"
+    "updated": "2025-04-10T12:53:21.902312"
   },
   "games": {
     "570": {
@@ -87710,6 +87710,14 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-10T12:20:43.326031"
+    },
+    "3077670": {
+      "appid": 3077670,
+      "name": "Water Delivery",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-10T12:53:13.410261"
     }
   }
 }
