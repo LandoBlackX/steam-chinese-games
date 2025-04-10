@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-10T11:42:45.601541"
+    "updated": "2025-04-10T11:44:42.153853"
   },
   "games": {
     "570": {
@@ -87646,6 +87646,14 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-10T11:42:15.794416"
+    },
+    "3049990": {
+      "appid": 3049990,
+      "name": "Phantom Brave: The Lost Hero",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-10T11:44:14.887452"
     }
   }
 }
