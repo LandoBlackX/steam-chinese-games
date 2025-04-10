@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-10T06:51:24.137579"
+    "updated": "2025-04-10T07:14:18.727329"
   },
   "games": {
     "570": {
@@ -87318,6 +87318,14 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-10T06:51:09.488399"
+    },
+    "2923300": {
+      "appid": 2923300,
+      "name": "Banana",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-10T07:14:00.022458"
     }
   }
 }
