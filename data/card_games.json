@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-10T05:23:21.706471"
+    "updated": "2025-04-10T05:41:30.958423"
   },
   "games": {
     "570": {
@@ -87270,6 +87270,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-04-10T04:42:41.871546"
+    },
+    "2903950": {
+      "appid": 2903950,
+      "name": "超侦探事件簿 雾雨谜宫 Plus",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-10T05:41:10.718419"
     }
   }
 }
