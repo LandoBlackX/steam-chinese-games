@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-10T08:53:31.513739"
+    "updated": "2025-04-10T09:04:41.094265"
   },
   "games": {
     "570": {
@@ -87422,6 +87422,14 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-10T08:53:12.050266"
+    },
+    "2961460": {
+      "appid": 2961460,
+      "name": "神树残响（Echoes of the Divine Tree）",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-10T09:04:26.210383"
     }
   }
 }
