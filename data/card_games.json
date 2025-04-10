@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-10T05:54:24.072251"
+    "updated": "2025-04-10T06:30:17.780363"
   },
   "games": {
     "570": {
@@ -87302,6 +87302,14 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-10T05:54:11.525805"
+    },
+    "2915460": {
+      "appid": 2915460,
+      "name": "OneShot: World Machine Edition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-10T06:30:05.641270"
     }
   }
 }
