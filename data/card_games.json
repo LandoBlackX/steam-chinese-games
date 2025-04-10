@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-10T07:33:32.752538"
+    "updated": "2025-04-10T07:46:25.891868"
   },
   "games": {
     "570": {
@@ -87342,6 +87342,14 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-10T07:33:19.464046"
+    },
+    "2933080": {
+      "appid": 2933080,
+      "name": "《法外枭雄：滚石城》Crime Boss: Rockay City",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-10T07:46:05.539428"
     }
   }
 }
