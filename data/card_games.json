@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-10T12:15:34.483813"
+    "updated": "2025-04-10T12:20:47.303890"
   },
   "games": {
     "570": {
@@ -87686,6 +87686,30 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-10T12:15:28.210427"
+    },
+    "3070070": {
+      "appid": 3070070,
+      "name": "TCG Card Shop Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-10T12:20:22.359679"
+    },
+    "3070520": {
+      "appid": 3070520,
+      "name": "Granny: Escape Together",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-10T12:20:25.897210"
+    },
+    "3073370": {
+      "appid": 3073370,
+      "name": "Lust Galaxy 🪐 🔞",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-10T12:20:43.326031"
     }
   }
 }
