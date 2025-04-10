@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-10T08:34:52.526343"
+    "updated": "2025-04-10T08:38:40.265917"
   },
   "games": {
     "570": {
@@ -87374,6 +87374,38 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-04-10T08:34:36.972495"
+    },
+    "2946030": {
+      "appid": 2946030,
+      "name": "Choo-Choose",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-10T08:38:12.974675"
+    },
+    "2947230": {
+      "appid": 2947230,
+      "name": "献给蔚蓝之海的新娘",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-10T08:38:22.543590"
+    },
+    "2947240": {
+      "appid": 2947240,
+      "name": "你的眼眸命中我心头",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-10T08:38:22.672745"
+    },
+    "2947250": {
+      "appid": 2947250,
+      "name": "天选庶民的真命之选",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-10T08:38:22.807104"
     }
   }
 }
