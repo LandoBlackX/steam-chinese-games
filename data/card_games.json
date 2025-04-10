@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-10T06:30:17.780363"
+    "updated": "2025-04-10T06:51:24.137579"
   },
   "games": {
     "570": {
@@ -87310,6 +87310,14 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-10T06:30:05.641270"
+    },
+    "2919560": {
+      "appid": 2919560,
+      "name": "👑选王之剑：零👑",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-10T06:51:09.488399"
     }
   }
 }
