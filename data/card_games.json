@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-10T03:51:55.507491"
+    "updated": "2025-04-10T04:18:34.304542"
   },
   "games": {
     "570": {
@@ -87222,6 +87222,14 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-10T03:51:32.922141"
+    },
+    "2882870": {
+      "appid": 2882870,
+      "name": "Doll Impostor",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-10T04:18:03.987346"
     }
   }
 }
