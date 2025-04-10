@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-10T10:54:51.506159"
+    "updated": "2025-04-10T11:18:59.394203"
   },
   "games": {
     "570": {
@@ -87606,6 +87606,22 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-10T10:54:28.467048"
+    },
+    "3034520": {
+      "appid": 3034520,
+      "name": "狐的归途",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-10T11:18:12.446338"
+    },
+    "3034600": {
+      "appid": 3034600,
+      "name": "Sandy Planet - Season 1",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-10T11:18:13.780073"
     }
   }
 }
