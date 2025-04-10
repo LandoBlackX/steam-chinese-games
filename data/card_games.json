@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-10T05:41:30.958423"
+    "updated": "2025-04-10T05:54:24.072251"
   },
   "games": {
     "570": {
@@ -87278,6 +87278,30 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-10T05:41:10.718419"
+    },
+    "2908950": {
+      "appid": 2908950,
+      "name": "Tunnel Escape",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-10T05:54:08.817063"
+    },
+    "2909170": {
+      "appid": 2909170,
+      "name": "Body Pay",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-10T05:54:09.813862"
+    },
+    "2909400": {
+      "appid": 2909400,
+      "name": "FINAL FANTASY VII REBIRTH",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-10T05:54:11.525805"
     }
   }
 }
