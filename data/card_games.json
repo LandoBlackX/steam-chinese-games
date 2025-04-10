@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-10T12:59:55.504317"
+    "updated": "2025-04-10T13:22:17.510950"
   },
   "games": {
     "570": {
@@ -87718,6 +87718,38 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-10T12:53:13.410261"
+    },
+    "3084180": {
+      "appid": 3084180,
+      "name": "Brothel Tycoon",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-10T13:21:47.612892"
+    },
+    "3086600": {
+      "appid": 3086600,
+      "name": "Sex Clinic 18+",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-10T13:21:59.928574"
+    },
+    "3087650": {
+      "appid": 3087650,
+      "name": "A Shelter Full of Cats",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-10T13:22:05.231485"
+    },
+    "3089130": {
+      "appid": 3089130,
+      "name": "时尚梦想家",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-10T13:22:16.337347"
     }
   }
 }
