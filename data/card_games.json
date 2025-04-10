@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-10T02:41:52.139793"
+    "updated": "2025-04-10T03:25:44.575609"
   },
   "games": {
     "570": {
@@ -87190,6 +87190,30 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-10T02:41:47.875829"
+    },
+    "2876250": {
+      "appid": 2876250,
+      "name": "神无迷宫",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-10T03:25:33.090439"
+    },
+    "2877770": {
+      "appid": 2877770,
+      "name": "Into the Restless Ruins",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-10T03:25:42.728540"
+    },
+    "2877950": {
+      "appid": 2877950,
+      "name": "FURRY HITLER 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-10T03:25:43.950669"
     }
   }
 }
