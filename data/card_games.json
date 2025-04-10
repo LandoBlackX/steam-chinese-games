@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-10T11:18:59.394203"
+    "updated": "2025-04-10T11:32:13.485954"
   },
   "games": {
     "570": {
@@ -87622,6 +87622,14 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-10T11:18:13.780073"
+    },
+    "3044100": {
+      "appid": 3044100,
+      "name": "Bat to the Heavens",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-10T11:32:12.711115"
     }
   }
 }
