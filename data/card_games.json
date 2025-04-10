@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-10T09:56:46.009318"
+    "updated": "2025-04-10T10:10:28.376966"
   },
   "games": {
     "570": {
@@ -87486,6 +87486,22 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-10T09:56:37.947822"
+    },
+    "3000030": {
+      "appid": 3000030,
+      "name": "Gaiadon: Eternal Quest",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-10T10:09:56.855109"
+    },
+    "3001560": {
+      "appid": 3001560,
+      "name": "日本之旅",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-10T10:10:04.290796"
     }
   }
 }
