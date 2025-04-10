@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-10T11:52:11.695589"
+    "updated": "2025-04-10T11:57:48.717431"
   },
   "games": {
     "570": {
@@ -87654,6 +87654,22 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-04-10T11:44:14.887452"
+    },
+    "3061810": {
+      "appid": 3061810,
+      "name": "人中之龙８外传 Pirates in Hawaii",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-10T11:57:31.341471"
+    },
+    "3061900": {
+      "appid": 3061900,
+      "name": "Revenge of the Boxer: Moscow Criminality",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-10T11:57:31.709685"
     }
   }
 }
