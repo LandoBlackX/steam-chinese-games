@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-10T09:39:08.641736"
+    "updated": "2025-04-10T09:52:02.685005"
   },
   "games": {
     "570": {
@@ -87462,6 +87462,22 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-04-10T09:20:27.899893"
+    },
+    "2990510": {
+      "appid": 2990510,
+      "name": "原地起啡 / SkyBrew: Entropic Strategist",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-10T09:51:42.478238"
+    },
+    "2994810": {
+      "appid": 2994810,
+      "name": "Zoey: Horny Roommates",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-04-10T09:52:00.525811"
     }
   }
 }
