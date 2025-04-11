@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-10T14:22:28.318436"
+    "updated": "2025-04-11T15:36:28.406890"
   },
   "games": {
     "570": {
@@ -87782,6 +87782,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-04-10T14:10:07.146742"
+    },
+    "343160": {
+      "appid": 343160,
+      "name": "Reef Defense",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-04-11T15:36:28.405277"
     }
   }
 }
