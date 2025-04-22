@@ -5766,5 +5766,6 @@
   "433746": "API 返回: {'success': False}",
   "433800": "API 返回: {'success': False}",
   "434120": "API 返回: {'success': False}",
-  "434268": "API 返回: {'success': False}"
+  "434268": "API 返回: {'success': False}",
+  "434790": "500 Server Error: Internal Server Error for url: https://store.steampowered.com/api/appdetails?l=english&appids=434790"
 }
