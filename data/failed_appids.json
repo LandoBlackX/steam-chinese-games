@@ -5771,5 +5771,6 @@
   "434800": "500 Server Error: Internal Server Error for url: https://store.steampowered.com/api/appdetails?l=english&appids=434800",
   "434840": "HTTPSConnectionPool(host='store.steampowered.com', port=443): Read timed out. (read timeout=15)",
   "435110": "API 返回: {'success': False}",
-  "435160": "API 返回: {'success': False}"
+  "435160": "API 返回: {'success': False}",
+  "435210": "API 返回: {'success': False}"
 }
