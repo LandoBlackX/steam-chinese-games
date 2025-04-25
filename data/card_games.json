@@ -1,14 +1,15 @@
 {
   "_metadata": {
-    "updated": "2025-04-25T11:51:59.155594"
+    "updated": "2025-04-25T18:19:08.337801"
   },
   "games": {
     "570": {
+      "appid": 570,
       "name": "Dota 2",
       "type": "game",
       "supports_chinese": true,
       "supports_cards": true,
-      "last_checked": "2025-03-26T18:05:20.454779"
+      "last_checked": "2025-04-25T18:19:05.738931"
     },
     "730": {
       "appid": 730,
@@ -19,11 +20,12 @@
       "last_checked": "2025-04-25T11:51:58.469851"
     },
     "1245620": {
+      "appid": 1245620,
       "name": "艾尔登法环",
       "type": "game",
       "supports_chinese": true,
       "supports_cards": true,
-      "last_checked": "2025-03-26T18:05:28.936640"
+      "last_checked": "2025-04-25T18:19:08.336199"
     },
     "1172470": {
       "appid": 1172470,
@@ -34,18 +36,20 @@
       "last_checked": "2025-04-25T11:51:59.154299"
     },
     "1091500": {
+      "appid": 1091500,
       "name": "赛博朋克 2077",
       "type": "game",
       "supports_chinese": true,
       "supports_cards": true,
-      "last_checked": "2025-03-26T18:05:22.134681"
+      "last_checked": "2025-04-25T18:19:08.140576"
     },
     "292030": {
+      "appid": 292030,
       "name": "巫师 3：狂猎",
       "type": "game",
       "supports_chinese": true,
       "supports_cards": true,
-      "last_checked": "2025-03-26T18:05:23.920527"
+      "last_checked": "2025-04-25T18:19:06.927951"
     },
     "814380": {
       "appid": 814380,
@@ -64,32 +68,36 @@
       "last_checked": "2025-04-25T11:51:58.734149"
     },
     "105600": {
+      "appid": 105600,
       "name": "Terraria",
       "type": "game",
       "supports_chinese": true,
       "supports_cards": true,
-      "last_checked": "2025-03-26T18:05:25.598137"
+      "last_checked": "2025-04-25T18:19:05.956340"
     },
     "322330": {
+      "appid": 322330,
       "name": "饥荒联机版",
       "type": "game",
       "supports_chinese": true,
       "supports_cards": true,
-      "last_checked": "2025-03-26T18:05:27.295389"
+      "last_checked": "2025-04-25T18:19:07.142899"
     },
     "582660": {
+      "appid": 582660,
       "name": "Black Desert",
       "type": "game",
       "supports_chinese": true,
       "supports_cards": true,
-      "last_checked": "2025-03-26T18:05:34.215248"
+      "last_checked": "2025-04-25T18:19:07.767749"
     },
     "212680": {
+      "appid": 212680,
       "name": "FTL: Faster Than Light",
       "type": "game",
       "supports_chinese": true,
       "supports_cards": true,
-      "last_checked": "2025-03-26T18:05:35.860197"
+      "last_checked": "2025-04-25T18:19:06.505092"
     },
     "220": {
       "appid": 220,
