@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-04-21T21:59:04.776021"
+    "updated": "2025-04-25T11:51:59.155594"
   },
   "games": {
     "570": {
@@ -11,11 +11,12 @@
       "last_checked": "2025-03-26T18:05:20.454779"
     },
     "730": {
+      "appid": 730,
       "name": "Counter-Strike 2",
       "type": "game",
-      "supports_chinese": false,
+      "supports_chinese": true,
       "supports_cards": true,
-      "last_checked": "2025-03-26T11:41:34.912879"
+      "last_checked": "2025-04-25T11:51:58.469851"
     },
     "1245620": {
       "name": "艾尔登法环",
@@ -25,11 +26,12 @@
       "last_checked": "2025-03-26T18:05:28.936640"
     },
     "1172470": {
+      "appid": 1172470,
       "name": "Apex Legends™",
       "type": "game",
-      "supports_chinese": false,
+      "supports_chinese": true,
       "supports_cards": true,
-      "last_checked": "2025-03-26T11:41:40.253032"
+      "last_checked": "2025-04-25T11:51:59.154299"
     },
     "1091500": {
       "name": "赛博朋克 2077",
@@ -46,18 +48,20 @@
       "last_checked": "2025-03-26T18:05:23.920527"
     },
     "814380": {
+      "appid": 814380,
       "name": "Sekiro™: Shadows Die Twice - GOTY Edition",
       "type": "game",
-      "supports_chinese": false,
+      "supports_chinese": true,
       "supports_cards": true,
-      "last_checked": "2025-03-26T11:41:45.232497"
+      "last_checked": "2025-04-25T11:51:58.904595"
     },
     "275850": {
+      "appid": 275850,
       "name": "No Man's Sky 无人深空",
       "type": "game",
-      "supports_chinese": false,
+      "supports_chinese": true,
       "supports_cards": true,
-      "last_checked": "2025-03-26T11:41:46.904093"
+      "last_checked": "2025-04-25T11:51:58.734149"
     },
     "105600": {
       "name": "Terraria",
