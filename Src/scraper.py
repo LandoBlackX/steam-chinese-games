@@ -39,15 +39,38 @@ class SteamRateLimiter:
 def log(message):
     print(f"[{datetime.now().isoformat()}] {message}", file=sys.stderr, flush=True)
 
+def safe_load_invalid_appids():
+    """安全加载 invalid_appids.json，处理文件不存在或格式错误的情况"""
+    try:
+        if INVALID_LOG_PATH.exists() and INVALID_LOG_PATH.stat().st_size > 0:
+            with open(INVALID_LOG_PATH, 'r', encoding='utf-8') as f:
+                data = json.load(f)
+                # 清理 30 天前的记录
+                cutoff_time = (datetime.now() - timedelta(days=30)).isoformat()
+                data["invalid_appids"] = [
+                    entry for entry in data.get("invalid_appids", [])
+                    if entry["timestamp"] >= cutoff_time
+                ]
+                return data
+    except Exception as e:
+        log(f"加载 {INVALID_LOG_PATH} 失败: {str(e)}")
+    return {"invalid_appids": []}
+
 def log_failed_appid(appid, reason):
     failed_file = DATA_DIR / 'failed_appids.json'
-    failed_data = {}
-    if failed_file.exists():
-        with open(failed_file, 'r', encoding='utf-8') as f:
-            failed_data = json.load(f)
-    failed_data[str(appid)] = reason
-    with open(failed_file, 'w', encoding='utf-8') as f:
-        json.dump(failed_data, f, indent=2, ensure_ascii=False)
+    invalid_data = safe_load_invalid_appids()
+    recorded_appids = {entry["appid"] for entry in invalid_data.get("invalid_appids", [])}
+    
+    # 只记录新的无效 AppID
+    if appid not in recorded_appids:
+        invalid_data["invalid_appids"].append({
+            "appid": appid,
+            "reason": reason,
+            "timestamp": datetime.now().isoformat()
+        })
+        with open(failed_file, 'w', encoding='utf-8') as f:
+            json.dump(invalid_data, f, indent=2, ensure_ascii=False)
+        log(f"记录新无效 AppID {appid} 到 {failed_file}")
 
 def init_data_structure():
     return {
@@ -86,7 +109,10 @@ def load_game_appids(existing_chinese, existing_cards, conn, cursor):
             
             appids = []
             thirty_days_ago = datetime.utcnow() - timedelta(days=30)
-            invalid_appids = []  # 初始化无效 AppID 列表
+            invalid_appids = []
+            # 加载已记录的无效 AppID
+            invalid_data = safe_load_invalid_appids()
+            recorded_appids = {entry["appid"] for entry in invalid_data.get("invalid_appids", [])}
             
             cursor.execute("SELECT appid FROM apps")
             db_appids = set(row[0] for row in cursor.fetchall())
@@ -97,7 +123,13 @@ def load_game_appids(existing_chinese, existing_cards, conn, cursor):
                     
                     # 检查 AppID 是否在数据库中
                     if appid_int not in db_appids:
-                        invalid_appids.append(appid_int)
+                        # 只记录尚未记录的无效 AppID
+                        if appid_int not in recorded_appids:
+                            invalid_appids.append({
+                                "appid": appid_int,
+                                "reason": "不在数据库或已下架",
+                                "timestamp": datetime.now().isoformat()
+                            })
                         continue
                     
                     # 检查是否已处理
@@ -113,32 +145,16 @@ def load_game_appids(existing_chinese, existing_cards, conn, cursor):
                     if not last_checked or datetime.fromisoformat(last_checked) < thirty_days_ago:
                         appids.append(appid_int)
 
-            # 记录无效 AppID 到 JSON 文件
+            # 记录新的无效 AppID
             if invalid_appids:
-                invalid_data = {}
-                if INVALID_LOG_PATH.exists():
-                    with open(INVALID_LOG_PATH, 'r', encoding='utf-8') as f:
-                        try:
-                            invalid_data = json.load(f)
-                        except json.JSONDecodeError:
-                            log(f"警告：{INVALID_LOG_PATH} 格式错误，将覆盖")
-                
-                # 添加新记录
-                timestamp = datetime.now().isoformat()
-                invalid_data[timestamp] = {
-                    "count": len(invalid_appids),
-                    "appids": invalid_appids,
-                    "reason": "不在数据库或已下架"
-                }
-                
-                # 写入文件
+                invalid_data["invalid_appids"] = invalid_data.get("invalid_appids", []) + invalid_appids
                 with open(INVALID_LOG_PATH, 'w', encoding='utf-8') as f:
                     json.dump(invalid_data, f, indent=2, ensure_ascii=False)
-                log(f"发现 {len(invalid_appids)} 个无效 AppID，已记录至 {INVALID_LOG_PATH}")
+                log(f"发现 {len(invalid_appids)} 个新无效 AppID，已记录至 {INVALID_LOG_PATH}")
 
             appids.sort(reverse=False)
             log(f"从 output.json 加载到 {len(appids)} 个待处理游戏类 AppID")
-            return appids[:199]  # 每次处理 199 个
+            return appids[:199]
 
     except Exception as e:
         log(f"加载 output.json 失败: {str(e)}")
