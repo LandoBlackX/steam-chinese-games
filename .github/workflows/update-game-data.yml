@@ -1,10 +1,10 @@
 name: Update Game Data
 on:
   schedule:
-    - cron: '*/2 * * * *'  # 每 2 分钟运行一次
+    - cron: '0 * * * *'  # 每小时运行一次（原为每2分钟：'*/2 * * * *'）
   workflow_dispatch:
 
-# 并发控制（关键修改）
+# 并发控制
 concurrency:
   group: ${{ github.workflow }}
   cancel-in-progress: true
@@ -17,15 +17,28 @@ jobs:
       contents: write
 
     steps:
-      - name: Clean old database
-        run: |
-          rm -f data/app_list.db  # 强制重建数据库
-          echo "已清理旧数据库"
-
       - name: Checkout code
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
+
+      - name: Clean old database
+        run: |
+          if [ ! -f data/app_list.db ]; then
+            rm -f data/app_list.db
+            echo "已清理旧数据库"
+          else
+            echo "数据库已存在，跳过清理"
+          fi
+
+      - name: Check invalid_appids.json size
+        run: |
+          if [ -f data/invalid_appids.json ]; then
+            size=$(du -m data/invalid_appids.json | cut -f1)
+            if [ $size -gt 90 ]; then
+              echo "::warning::invalid_appids.json size is ${size}MB, approaching GitHub limit"
+            fi
+          fi
 
       - name: Set up Python
         uses: actions/setup-python@v4
