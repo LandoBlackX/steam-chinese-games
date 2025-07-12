@@ -108,7 +108,7 @@ def load_game_appids(existing_chinese, existing_cards, conn, cursor):
                 return []
             
             appids = []
-            thirty_days_ago = datetime.utcnow() - timedelta(days=30)
+            thirty_days_ago = datetime.utcnow() - timedelta(days=1)  # 原为 days=30
             invalid_appids = []
             # 加载已记录的无效 AppID
             invalid_data = safe_load_invalid_appids()
