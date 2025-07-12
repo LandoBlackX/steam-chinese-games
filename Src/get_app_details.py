@@ -129,7 +129,7 @@ def main():
 
     # 查询未处理的 AppID
     rows = cursor.execute("SELECT appid FROM apps WHERE status = false").fetchall()
-    appids = [row[0] for row in rows[:1]]  # 每次处理 1 个 AppID
+    appids = [row[0] for row in rows[:100]]  # 每次处理 100 个 AppID
     if not appids:
         log("没有需要处理的新 AppID，终止执行")
         cursor.close()
