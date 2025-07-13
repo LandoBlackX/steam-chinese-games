@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-13T14:17:57.743575"
+    "updated": "2025-07-13T17:13:34.171174"
   },
   "games": {
     "570": {
@@ -87818,6 +87818,30 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-07-13T14:12:52.880060"
+    },
+    "370630": {
+      "appid": 370630,
+      "name": "Sylia",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-07-13T17:08:22.933695"
+    },
+    "373860": {
+      "appid": 373860,
+      "name": "Apothecarium: The Renaissance of Evil - Premium Edition",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-07-13T17:08:32.137416"
+    },
+    "373870": {
+      "appid": 373870,
+      "name": "Sister’s Secrecy: Arcanum Bloodlines - Premium Edition",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-07-13T17:08:32.330703"
     }
   }
 }
