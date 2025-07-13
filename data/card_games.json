@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-13T13:58:42.278917"
+    "updated": "2025-07-13T14:17:57.743575"
   },
   "games": {
     "570": {
@@ -87810,6 +87810,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-07-13T13:53:34.830360"
+    },
+    "304750": {
+      "appid": 304750,
+      "name": "Voodoo Chronicles: The First Sign HD - Director’s Cut Edition",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-07-13T14:12:52.880060"
     }
   }
 }
