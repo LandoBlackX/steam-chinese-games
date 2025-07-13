@@ -157,14 +157,14 @@ def load_game_appids(existing_chinese, existing_cards, conn, cursor):
     output_path = DATA_DIR / "output.json"
     if not output_path.exists():
         log("错误：output.json 文件不存在")
-        return []
+        return [], set()
 
     try:
         with open(output_path, 'r', encoding='utf-8') as f:
             data = json.load(f)
             if not isinstance(data, dict):
                 log("错误：output.json 内容不是有效的字典")
-                return []
+                return [], set()
             
             game_appids = [str(appid) for appid, app_info in data.items() if app_info == "game"]
             cursor.execute(
@@ -173,12 +173,6 @@ def load_game_appids(existing_chinese, existing_cards, conn, cursor):
             )
             pending_count = cursor.fetchone()[0]
             log(f"数据库中待处理的游戏类 AppID 数量 (scraper_status = FALSE): {pending_count}")
-            
-            appids = []
-            recheck_period = datetime.utcnow() - timedelta(days=90)
-            invalid_appids = []
-            invalid_data = safe_load_invalid_appids()
-            recorded_appids = {entry["appid"] for entry in invalid_data.get("invalid_appids", [])}
             
             cursor.execute("SELECT appid FROM apps")
             db_appids = set(row[0] for row in cursor.fetchall())
@@ -192,6 +186,12 @@ def load_game_appids(existing_chinese, existing_cards, conn, cursor):
                 log(f"发现 {len(missing_appids)} 个 output.json 中的游戏类 AppID 不在数据库中", level="debug")
                 for appid in missing_appids[:10]:  # 限制日志量
                     log(f"缺失 AppID: {appid}", level="debug")
+            
+            appids = []
+            recheck_period = datetime.utcnow() - timedelta(days=90)
+            invalid_appids = []
+            invalid_data = safe_load_invalid_appids()
+            recorded_appids = {entry["appid"] for entry in invalid_data.get("invalid_appids", [])}
             
             skipped_status = 0
             skipped_time = 0
@@ -212,7 +212,7 @@ def load_game_appids(existing_chinese, existing_cards, conn, cursor):
                 if row and row[0]:
                     skipped_status += 1
                     log(f"AppID {appid_int} 已处理 (scraper_status = true)", level="debug")
-                    CONTINUE
+                    continue
                 
                 if row and row[1]:
                     try:
@@ -220,7 +220,7 @@ def load_game_appids(existing_chinese, existing_cards, conn, cursor):
                         if last_checked_time >= recheck_period:
                             skipped_time += 1
                             log(f"AppID {appid_int} 最近检查时间 {row[1]}，跳过", level="debug")
-                            CONTINUE
+                            continue
                     except ValueError:
                         log(f"AppID {appid_int} 的 last_checked 格式错误: {row[1]}，标记为待处理", level="debug")
                 
@@ -236,10 +236,10 @@ def load_game_appids(existing_chinese, existing_cards, conn, cursor):
             log(f"跳过 {skipped_status} 个 AppID (scraper_status = true)")
             log(f"跳过 {skipped_time} 个 AppID (last_checked 最近)")
             log(f"从 output.json 加载到 {len(appids)} 个待处理游戏类 AppID")
-            return appids[:100]
+            return appids[:100], db_appids
     except Exception as e:
         log(f"加载 output.json 失败: {str(e)}")
-        return []
+        return [], set()
 
 def check_game(appid, rate_limiter):
     url = f"https://store.steampowered.com/api/appdetails?appids={appid}&l=schinese"
@@ -344,6 +344,10 @@ def main():
             )
             processed_appids = set(row[0] for row in cursor.fetchall())
             
+            # 获取数据库中的所有 AppID
+            cursor.execute("SELECT appid FROM apps")
+            db_appids = set(row[0] for row in cursor.fetchall())
+            
             reset_appids = [
                 appid for appid in game_appids
                 if appid not in processed_appids and appid in db_appids
@@ -357,7 +361,7 @@ def main():
                 reset_count = cursor.rowcount
                 log(f"重置 {reset_count} 个游戏类 AppID 的 scraper_status 为 FALSE")
     
-    test_appids = load_game_appids(chinese_data, card_data, conn, cursor)
+    test_appids, db_appids = load_game_appids(chinese_data, card_data, conn, cursor)
     if not test_appids:
         log("没有需要处理的新 AppID，终止执行")
         cursor.close()
