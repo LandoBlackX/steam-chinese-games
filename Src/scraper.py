@@ -166,7 +166,7 @@ def load_game_appids(existing_chinese, existing_cards, conn, cursor):
                 log("错误：output.json 内容不是有效的字典")
                 return []
             
-            game_appids = [appid_str for appid_str, app_info in data.items() if app_info == "game"]
+            game_appids = [str(appid) for appid, app_info in data.items() if app_info == "game"]
             cursor.execute(
                 f"SELECT COUNT(*) FROM apps WHERE scraper_status = FALSE AND appid IN ({','.join(['?'] * len(game_appids))})",
                 [int(appid) for appid in game_appids]
@@ -212,7 +212,7 @@ def load_game_appids(existing_chinese, existing_cards, conn, cursor):
                 if row and row[0]:
                     skipped_status += 1
                     log(f"AppID {appid_int} 已处理 (scraper_status = true)", level="debug")
-                    continue
+                    CONTINUE
                 
                 if row and row[1]:
                     try:
@@ -220,7 +220,7 @@ def load_game_appids(existing_chinese, existing_cards, conn, cursor):
                         if last_checked_time >= recheck_period:
                             skipped_time += 1
                             log(f"AppID {appid_int} 最近检查时间 {row[1]}，跳过", level="debug")
-                            continue
+                            CONTINUE
                     except ValueError:
                         log(f"AppID {appid_int} 的 last_checked 格式错误: {row[1]}，标记为待处理", level="debug")
                 
@@ -346,7 +346,7 @@ def main():
             
             reset_appids = [
                 appid for appid in game_appids
-                if appid not in processed_appids
+                if appid not in processed_appids and appid in db_appids
             ]
             if reset_appids:
                 cursor.execute(
