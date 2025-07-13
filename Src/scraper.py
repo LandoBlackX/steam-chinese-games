@@ -13,6 +13,8 @@ DATA_DIR.mkdir(exist_ok=True, parents=True)
 DB_PATH = DATA_DIR / "app_list.db"
 INVALID_LOG_PATH = DATA_DIR / "invalid_appids.json"
 
+DEBUG_MODE = os.getenv("DEBUG_MODE", "false").lower() == "true"
+
 class SteamRateLimiter:
     def __init__(self, requests_per_minute=200):
         self.requests_per_minute = requests_per_minute
@@ -36,7 +38,9 @@ class SteamRateLimiter:
     def update_response_time(self, response_time):
         self.last_response_time = response_time
 
-def log(message):
+def log(message, level="info"):
+    if level == "debug" and not DEBUG_MODE:
+        return
     print(f"[{datetime.now().isoformat()}] {message}", file=sys.stderr, flush=True)
 
 def safe_load_invalid_appids():
@@ -67,7 +71,7 @@ def log_failed_appid(appid, reason):
         })
         with open(failed_file, 'w', encoding='utf-8') as f:
             json.dump(invalid_data, f, indent=2, ensure_ascii=False)
-        log(f"记录新无效 AppID {appid} 到 {failed_file}")
+        log(f"记录新无效 AppID {appid} 到 {failed_file}", level="debug")
 
 def init_data_structure():
     return {
@@ -135,12 +139,14 @@ def load_game_appids(existing_chinese, existing_cards, conn, cursor):
                             "reason": "不在数据库或已下架",
                             "timestamp": datetime.now().isoformat()
                         })
+                        log(f"AppID {appid_int} 不在数据库中，记录为无效", level="debug")
                     continue
                 
                 cursor.execute("SELECT scraper_status FROM apps WHERE appid = ?", (appid_int,))
                 scraper_status_row = cursor.fetchone()
                 if scraper_status_row and scraper_status_row[0]:
                     skipped_status += 1
+                    log(f"AppID {appid_int} 已处理 (scraper_status = true)", level="debug")
                     continue
                 
                 existing_c = existing_chinese["games"].get(appid_str, {})
@@ -151,10 +157,12 @@ def load_game_appids(existing_chinese, existing_cards, conn, cursor):
                         last_checked_time = datetime.fromisoformat(last_checked)
                         if last_checked_time >= thirty_days_ago:
                             skipped_time += 1
+                            log(f"AppID {appid_int} 最近检查时间 {last_checked}，跳过", level="debug")
                             continue
                     except ValueError:
-                        log(f"AppID {appid_int} 的 last_checked 格式错误: {last_checked}")
+                        log(f"AppID {appid_int} 的 last_checked 格式错误: {last_checked}", level="debug")
                 
+                log(f"AppID {appid_int} 通过筛选，添加到待处理列表", level="debug")
                 appids.append(appid_int)
             
             if invalid_appids:
@@ -202,18 +210,18 @@ def check_game(appid, rate_limiter):
                     "last_checked": datetime.utcnow().isoformat()
                 }
             else:
-                log(f"获取 AppID: {appid} 的详情失败 (尝试 {attempt + 1}/{max_attempts})")
+                log(f"获取 AppID: {appid} 的详情失败 (尝试 {attempt + 1}/{max_attempts})", level="debug")
                 log_failed_appid(appid, "API 返回 success: false")
                 if attempt < max_attempts - 1:
                     time.sleep(5)
                 continue
         except requests.exceptions.RequestException as e:
             if "429" in str(e):
-                log(f"触发 429 错误，暂停 5 分钟后重试... (尝试 {attempt + 1}/{max_attempts})")
+                log(f"触发 429 错误，暂停 5 分钟后重试... (尝试 {attempt + 1}/{max_attempts})", level="debug")
                 time.sleep(300)
                 continue
             else:
-                log(f"请求 AppID: {appid} 失败: {e} (尝试 {attempt + 1}/{max_attempts})")
+                log(f"请求 AppID: {appid} 失败: {e} (尝试 {attempt + 1}/{max_attempts})", level="debug")
                 log_failed_appid(appid, str(e))
                 if attempt < max_attempts - 1:
                     time.sleep(5)
@@ -263,33 +271,37 @@ def main():
             data = json.load(f)
         game_appids = [int(appid_str) for appid_str, app_info in data.items() if app_info == "game"]
         if game_appids:
-            thirty_days_ago = (datetime.utcnow() - timedelta(days=30)).isoformat()
-            cursor.execute(
-                f"""
-                UPDATE apps 
-                SET scraper_status = FALSE, retry_count = 0 
-                WHERE appid IN ({','.join(['?'] * len(game_appids))})
-                AND (
-                    appid NOT IN (
-                        SELECT key FROM json_each(readfile('data/chinese_games.json'), '$.games')
-                        UNION
-                        SELECT key FROM json_each(readfile('data/card_games.json'), '$.games')
-                    )
-                    OR appid IN (
-                        SELECT key FROM json_each(readfile('data/chinese_games.json'), '$.games')
-                        WHERE json_extract(value, '$.last_checked') < ?
-                    )
-                    OR appid IN (
-                        SELECT key FROM json_each(readfile('data/card_games.json'), '$.games')
-                        WHERE json_extract(value, '$.last_checked') < ?
-                    )
+            thirty_days_ago = datetime.utcnow() - timedelta(days=30)
+            processed_appids = set()
+            for appid_str in chinese_data["games"]:
+                last_checked = chinese_data["games"][appid_str].get("last_checked")
+                if last_checked:
+                    try:
+                        if datetime.fromisoformat(last_checked) >= thirty_days_ago:
+                            processed_appids.add(int(appid_str))
+                    except ValueError:
+                        log(f"中文游戏 AppID {appid_str} 的 last_checked 格式错误: {last_checked}", level="debug")
+            for appid_str in card_data["games"]:
+                last_checked = card_data["games"][appid_str].get("last_checked")
+                if last_checked:
+                    try:
+                        if datetime.fromisoformat(last_checked) >= thirty_days_ago:
+                            processed_appids.add(int(appid_str))
+                    except ValueError:
+                        log(f"卡牌游戏 AppID {appid_str} 的 last_checked 格式错误: {last_checked}", level="debug")
+            
+            reset_appids = [
+                appid for appid in game_appids
+                if appid not in processed_appids
+            ]
+            if reset_appids:
+                cursor.execute(
+                    f"UPDATE apps SET scraper_status = FALSE, retry_count = 0 WHERE appid IN ({','.join(['?'] * len(reset_appids))})",
+                    reset_appids
                 )
-                """,
-                game_appids + [thirty_days_ago, thirty_days_ago]
-            )
-            conn.commit()
-            reset_count = cursor.rowcount
-            log(f"重置 {reset_count} 个游戏类 AppID 的 scraper_status 为 FALSE")
+                conn.commit()
+                reset_count = cursor.rowcount
+                log(f"重置 {reset_count} 个游戏类 AppID 的 scraper_status 为 FALSE")
     
     test_appids = load_game_appids(chinese_data, card_data, conn, cursor)
     if not test_appids:
@@ -338,7 +350,7 @@ def main():
         chinese_data["_metadata"]["updated"] = timestamp
         card_data["_metadata"]["updated"] = timestamp
         save_data(chinese_data, DATA_DIR / "chinese_games.json")
-        save_data(card_data, DATA_DIR / "card_games.json")
+        save_data(chinese_data, DATA_DIR / "card_games.json")
     
     log(f"完成！累计中文游戏: {len(chinese_data['games'])}")
     log(f"完成！累计卡牌游戏: {len(card_data['games'])}")
