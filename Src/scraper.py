@@ -98,44 +98,52 @@ def safe_load_json(file):
 def initialize_last_checked(conn, cursor, chinese_data, card_data):
     """从 chinese_games.json 和 card_games.json 初始化 apps 表的 last_checked 和 scraper_status"""
     log("初始化 apps 表的 last_checked 字段...")
-    both_chinese_and_cards = set(chinese_data["games"].keys()) & set(card_data["games"].keys())
-    
     cursor.execute("SELECT COUNT(*) FROM apps WHERE last_checked IS NULL")
     null_count = cursor.fetchone()[0]
     if null_count == 0:
         log("所有 AppID 已初始化 last_checked，跳过初始化")
         return
     
+    both_chinese_and_cards = set(chinese_data["games"].keys()) & set(card_data["games"].keys())
+    default_timestamp = datetime.utcnow().isoformat()
+    
     processed_appids = set()
     for appid_str in chinese_data["games"]:
         appid = int(appid_str)
-        last_checked = chinese_data["games"][appid_str].get("last_checked")
-        scraper_status = True if appid_str in both_chinese_and_cards else False
-        if last_checked:
-            try:
-                datetime.fromisoformat(last_checked)
-                cursor.execute(
-                    "UPDATE apps SET last_checked = ?, scraper_status = ? WHERE appid = ?",
-                    (last_checked, scraper_status, appid)
-                )
-                processed_appids.add(appid)
-            except ValueError:
-                log(f"中文游戏 AppID {appid_str} 的 last_checked 格式错误: {last_checked}", level="debug")
+        last_checked = chinese_data["games"][appid_str].get("last_checked", default_timestamp)
+        try:
+            datetime.fromisoformat(last_checked)
+            scraper_status = True if appid_str in both_chinese_and_cards else False
+            cursor.execute(
+                "UPDATE apps SET last_checked = ?, scraper_status = ? WHERE appid = ?",
+                (last_checked, scraper_status, appid)
+            )
+            processed_appids.add(appid)
+        except ValueError:
+            log(f"中文游戏 AppID {appid_str} 的 last_checked 格式错误: {last_checked}, 使用默认时间", level="debug")
+            cursor.execute(
+                "UPDATE apps SET last_checked = ?, scraper_status = ? WHERE appid = ?",
+                (default_timestamp, scraper_status, appid)
+            )
+            processed_appids.add(appid)
     
     for appid_str in card_data["games"]:
         appid = int(appid_str)
         if appid not in processed_appids:
-            last_checked = card_data["games"][appid_str].get("last_checked")
-            scraper_status = True if appid_str in both_chinese_and_cards else False
-            if last_checked:
-                try:
-                    datetime.fromisoformat(last_checked)
-                    cursor.execute(
-                        "UPDATE apps SET last_checked = ?, scraper_status = ? WHERE appid = ?",
-                        (last_checked, scraper_status, appid)
-                    )
-                except ValueError:
-                    log(f"卡牌游戏 AppID {appid_str} 的 last_checked 格式错误: {last_checked}", level="debug")
+            last_checked = card_data["games"][appid_str].get("last_checked", default_timestamp)
+            try:
+                datetime.fromisoformat(last_checked)
+                scraper_status = True if appid_str in both_chinese_and_cards else False
+                cursor.execute(
+                    "UPDATE apps SET last_checked = ?, scraper_status = ? WHERE appid = ?",
+                    (last_checked, scraper_status, appid)
+                )
+            except ValueError:
+                log(f"卡牌游戏 AppID {appid_str} 的 last_checked 格式错误: {last_checked}, 使用默认时间", level="debug")
+                cursor.execute(
+                    "UPDATE apps SET last_checked = ?, scraper_status = ? WHERE appid = ?",
+                    (default_timestamp, scraper_status, appid)
+                )
     
     conn.commit()
     cursor.execute("SELECT COUNT(*) FROM apps WHERE last_checked IS NOT NULL")
@@ -324,11 +332,10 @@ def main():
             data = json.load(f)
         game_appids = [int(appid_str) for appid_str, app_info in data.items() if app_info == "game"]
         if game_appids:
-            recheck_period = datetime.utcnow() - timedelta(days=90)
             both_chinese_and_cards = set(chinese_data["games"].keys()) & set(card_data["games"].keys())
             cursor.execute(
-                f"SELECT appid FROM apps WHERE last_checked IS NOT NULL AND last_checked >= ? AND appid IN ({','.join(['?'] * len(game_appids))})",
-                [recheck_period.isoformat()] + game_appids
+                f"SELECT appid FROM apps WHERE last_checked IS NOT NULL AND appid IN ({','.join(['?'] * len(game_appids))})",
+                game_appids
             )
             processed_appids = set(row[0] for row in cursor.fetchall())
             
