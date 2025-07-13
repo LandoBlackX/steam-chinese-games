@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-13T17:13:34.171174"
+    "updated": "2025-07-13T19:35:19.883586"
   },
   "games": {
     "570": {
@@ -294562,6 +294562,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-13T13:15:01.511379"
+    },
+    "429300": {
+      "appid": 429300,
+      "name": "Sepia Tears",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-13T19:35:12.299023"
     }
   }
 }

@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-13T17:13:34.171174"
+    "updated": "2025-07-13T19:35:19.883586"
   },
   "games": {
     "570": {
@@ -87842,6 +87842,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-07-13T17:08:32.330703"
+    },
+    "431460": {
+      "appid": 431460,
+      "name": "Midnight",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-07-13T19:35:15.157631"
     }
   }
 }
