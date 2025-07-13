@@ -117,7 +117,7 @@ def load_game_appids(existing_chinese, existing_cards, conn, cursor):
             log(f"数据库中待处理的游戏类 AppID 数量 (scraper_status = FALSE): {pending_count}")
             
             appids = []
-            thirty_days_ago = datetime.utcnow() - timedelta(days=30)
+            recheck_period = datetime.utcnow() - timedelta(days=90)  # 90 天重新检查
             invalid_appids = []
             invalid_data = safe_load_invalid_appids()
             recorded_appids = {entry["appid"] for entry in invalid_data.get("invalid_appids", [])}
@@ -142,25 +142,22 @@ def load_game_appids(existing_chinese, existing_cards, conn, cursor):
                         log(f"AppID {appid_int} 不在数据库中，记录为无效", level="debug")
                     continue
                 
-                cursor.execute("SELECT scraper_status FROM apps WHERE appid = ?", (appid_int,))
-                scraper_status_row = cursor.fetchone()
-                if scraper_status_row and scraper_status_row[0]:
+                cursor.execute("SELECT scraper_status, last_checked FROM apps WHERE appid = ?", (appid_int,))
+                row = cursor.fetchone()
+                if row and row[0]:
                     skipped_status += 1
                     log(f"AppID {appid_int} 已处理 (scraper_status = true)", level="debug")
                     continue
                 
-                existing_c = existing_chinese["games"].get(appid_str, {})
-                existing_card = existing_cards["games"].get(appid_str, {})
-                last_checked = existing_c.get("last_checked") or existing_card.get("last_checked")
-                if last_checked:
+                if row and row[1]:
                     try:
-                        last_checked_time = datetime.fromisoformat(last_checked)
-                        if last_checked_time >= thirty_days_ago:
+                        last_checked_time = datetime.fromisoformat(row[1])
+                        if last_checked_time >= recheck_period:
                             skipped_time += 1
-                            log(f"AppID {appid_int} 最近检查时间 {last_checked}，跳过", level="debug")
+                            log(f"AppID {appid_int} 最近检查时间 {row[1]}，跳过", level="debug")
                             continue
                     except ValueError:
-                        log(f"AppID {appid_int} 的 last_checked 格式错误: {last_checked}", level="debug")
+                        log(f"AppID {appid_int} 的 last_checked 格式错误: {row[1]}", level="debug")
                 
                 log(f"AppID {appid_int} 通过筛选，添加到待处理列表", level="debug")
                 appids.append(appid_int)
@@ -199,8 +196,8 @@ def check_game(appid, rate_limiter):
                 chinese_keywords = ['schinese', 'tchinese', '中文', '简体', '繁体', 'Chinese', 'Simplified Chinese', 'Traditional Chinese']
                 has_chinese = any(kw in langs.lower() for kw in chinese_keywords)
                 has_cards = any(cat.get("id") == 29 for cat in game_info.get("categories", []))
-                if has_chinese or has_cards:
-                    log(f"游戏 {appid} => {'支持中文' if has_chinese else '无中文'} | {'有卡牌' if has_cards else '无卡牌'} | 响应时间: {duration:.2f}秒")
+                # 记录所有成功查询的 AppID 日志
+                log(f"游戏 {appid} => {'支持中文' if has_chinese else '无中文'} | {'有卡牌' if has_cards else '无卡牌'} | 响应时间: {duration:.2f}秒")
                 return {
                     "appid": appid,
                     "name": game_info.get("name", f"Unknown_{appid}"),
@@ -253,14 +250,18 @@ def main():
     if 'retry_count' not in columns:
         log("检测到数据库缺少 retry_count 字段，正在更新表结构...")
         cursor.execute('ALTER TABLE apps ADD COLUMN retry_count INTEGER DEFAULT 0')
-        conn.commit()
+    if 'last_checked' not in columns:
+        log("检测到数据库缺少 last_checked 字段，正在更新表结构...")
+        cursor.execute('ALTER TABLE apps ADD COLUMN last_checked TEXT')
+    conn.commit()
     
     cursor.execute('''
     CREATE TABLE IF NOT EXISTS apps (
         appid INTEGER PRIMARY KEY,
         status BOOLEAN DEFAULT FALSE,
         scraper_status BOOLEAN DEFAULT FALSE,
-        retry_count INTEGER DEFAULT 0
+        retry_count INTEGER DEFAULT 0,
+        last_checked TEXT
     )
     ''')
     conn.commit()
@@ -271,24 +272,12 @@ def main():
             data = json.load(f)
         game_appids = [int(appid_str) for appid_str, app_info in data.items() if app_info == "game"]
         if game_appids:
-            thirty_days_ago = datetime.utcnow() - timedelta(days=30)
-            processed_appids = set()
-            for appid_str in chinese_data["games"]:
-                last_checked = chinese_data["games"][appid_str].get("last_checked")
-                if last_checked:
-                    try:
-                        if datetime.fromisoformat(last_checked) >= thirty_days_ago:
-                            processed_appids.add(int(appid_str))
-                    except ValueError:
-                        log(f"中文游戏 AppID {appid_str} 的 last_checked 格式错误: {last_checked}", level="debug")
-            for appid_str in card_data["games"]:
-                last_checked = card_data["games"][appid_str].get("last_checked")
-                if last_checked:
-                    try:
-                        if datetime.fromisoformat(last_checked) >= thirty_days_ago:
-                            processed_appids.add(int(appid_str))
-                    except ValueError:
-                        log(f"卡牌游戏 AppID {appid_str} 的 last_checked 格式错误: {last_checked}", level="debug")
+            recheck_period = datetime.utcnow() - timedelta(days=90)
+            cursor.execute(
+                f"SELECT appid FROM apps WHERE last_checked IS NOT NULL AND last_checked >= ? AND appid IN ({','.join(['?'] * len(game_appids))})",
+                [recheck_period.isoformat()] + game_appids
+            )
+            processed_appids = set(row[0] for row in cursor.fetchall())
             
             reset_appids = [
                 appid for appid in game_appids
@@ -321,14 +310,20 @@ def main():
         if result:
             results.append(result)
             success_count += 1
-            cursor.execute("UPDATE apps SET scraper_status = TRUE, retry_count = 0 WHERE appid = ?", (appid,))
+            cursor.execute(
+                "UPDATE apps SET scraper_status = TRUE, retry_count = 0, last_checked = ? WHERE appid = ?",
+                (datetime.utcnow().isoformat(), appid)
+            )
         else:
             failure_count += 1
             cursor.execute("UPDATE apps SET retry_count = retry_count + 1 WHERE appid = ?", (appid,))
             cursor.execute("SELECT retry_count FROM apps WHERE appid = ?", (appid,))
             retry_count = cursor.fetchone()[0]
             if retry_count >= 5:
-                cursor.execute("UPDATE apps SET scraper_status = TRUE WHERE appid = ?", (appid,))
+                cursor.execute(
+                    "UPDATE apps SET scraper_status = TRUE, last_checked = ? WHERE appid = ?",
+                    (datetime.utcnow().isoformat(), appid)
+                )
                 log(f"AppID {appid} 重试次数达到 5 次，标记为已处理")
         conn.commit()
 
@@ -350,7 +345,7 @@ def main():
         chinese_data["_metadata"]["updated"] = timestamp
         card_data["_metadata"]["updated"] = timestamp
         save_data(chinese_data, DATA_DIR / "chinese_games.json")
-        save_data(chinese_data, DATA_DIR / "card_games.json")
+        save_data(card_data, DATA_DIR / "card_games.json")
     
     log(f"完成！累计中文游戏: {len(chinese_data['games'])}")
     log(f"完成！累计卡牌游戏: {len(card_data['games'])}")
