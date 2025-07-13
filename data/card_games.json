@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-13T19:35:19.883586"
+    "updated": "2025-07-13T20:25:18.067578"
   },
   "games": {
     "570": {
@@ -87850,6 +87850,22 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-07-13T19:35:15.157631"
+    },
+    "448570": {
+      "appid": 448570,
+      "name": "Origin Of Destiny: Crimson Awakening",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-07-13T20:20:00.247645"
+    },
+    "449160": {
+      "appid": 449160,
+      "name": "Land it Rocket",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-07-13T20:20:06.298392"
     }
   }
 }
