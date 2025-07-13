@@ -24,7 +24,7 @@ jobs:
 
       - name: Clean old database
         run: |
-          if [ ! -f data/app_list.db ]; then
+          if [ -f data/app_list.db ]; then
             rm -f data/app_list.db
             echo "已清理旧数据库"
           else
