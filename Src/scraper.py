@@ -115,7 +115,7 @@ def initialize_last_checked(conn, cursor, chinese_data, card_data):
         try:
             last_checked_time = datetime.fromisoformat(last_checked)
             if last_checked_time < recheck_period:
-                last_checked = default_timestamp  # 更新旧时间（如 2025-03-28）
+                last_checked = default_timestamp
                 log(f"AppID {appid_str} 的 last_checked {last_checked} 早于 90 天，更新为 {default_timestamp}", level="debug")
         except ValueError:
             log(f"中文游戏 AppID {appid_str} 的 last_checked 格式错误: {last_checked}, 使用默认时间", level="debug")
@@ -222,7 +222,7 @@ def load_game_appids(existing_chinese, existing_cards, conn, cursor):
                             log(f"AppID {appid_int} 最近检查时间 {row[1]}，跳过", level="debug")
                             continue
                     except ValueError:
-                        log(f"AppID {appid_int} 的 last_checked 格式错误: {row[1]}", level="debug")
+                        log(f"AppID {appid_int} 的 last_checked 格式错误: {row[1]}，标记为待处理", level="debug")
                 
                 log(f"AppID {appid_int} 通过筛选，添加到待处理列表", level="debug")
                 appids.append(appid_int)
