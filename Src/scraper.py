@@ -96,37 +96,48 @@ def safe_load_json(file):
     return init_data_structure()
 
 def initialize_last_checked(conn, cursor, chinese_data, card_data):
-    """从 chinese_games.json 和 card_games.json 初始化 apps 表的 last_checked 字段"""
+    """从 chinese_games.json 和 card_games.json 初始化 apps 表的 last_checked 字段，并标记既有中文又有卡牌的游戏"""
     log("初始化 apps 表的 last_checked 字段...")
     processed_appids = set()
+    both_chinese_and_cards = set(chinese_data["games"].keys()) & set(card_data["games"].keys())
+    
     for appid_str in chinese_data["games"]:
+        appid = int(appid_str)
         last_checked = chinese_data["games"][appid_str].get("last_checked")
+        scraper_status = True if appid_str in both_chinese_and_cards else False
         if last_checked:
             try:
                 datetime.fromisoformat(last_checked)  # 验证格式
                 cursor.execute(
-                    "UPDATE apps SET last_checked = ? WHERE appid = ?",
-                    (last_checked, int(appid_str))
+                    "UPDATE apps SET last_checked = ?, scraper_status = ? WHERE appid = ?",
+                    (last_checked, scraper_status, appid)
                 )
-                processed_appids.add(int(appid_str))
+                processed_appids.add(appid)
             except ValueError:
                 log(f"中文游戏 AppID {appid_str} 的 last_checked 格式错误: {last_checked}", level="debug")
+    
     for appid_str in card_data["games"]:
-        if int(appid_str) not in processed_appids:  # 避免重复更新
+        appid = int(appid_str)
+        if appid not in processed_appids:
             last_checked = card_data["games"][appid_str].get("last_checked")
+            scraper_status = True if appid_str in both_chinese_and_cards else False
             if last_checked:
                 try:
                     datetime.fromisoformat(last_checked)
                     cursor.execute(
-                        "UPDATE apps SET last_checked = ? WHERE appid = ?",
-                        (last_checked, int(appid_str))
+                        "UPDATE apps SET last_checked = ?, scraper_status = ? WHERE appid = ?",
+                        (last_checked, scraper_status, appid)
                     )
                 except ValueError:
                     log(f"卡牌游戏 AppID {appid_str} 的 last_checked 格式错误: {last_checked}", level="debug")
+    
     conn.commit()
     cursor.execute("SELECT COUNT(*) FROM apps WHERE last_checked IS NOT NULL")
     initialized_count = cursor.fetchone()[0]
+    cursor.execute("SELECT COUNT(*) FROM apps WHERE scraper_status = TRUE")
+    exempt_count = cursor.fetchone()[0]
     log(f"已为 {initialized_count} 个 AppID 初始化 last_checked 字段")
+    log(f"标记 {exempt_count} 个既有中文又有卡牌的 AppID 为 scraper_status = TRUE")
 
 def load_game_appids(existing_chinese, existing_cards, conn, cursor):
     output_path = DATA_DIR / "output.json"
@@ -285,7 +296,7 @@ def main():
     if 'last_checked' not in columns:
         log("检测到数据库缺少 last_checked 字段，正在更新表结构...")
         cursor.execute('ALTER TABLE apps ADD COLUMN last_checked TEXT')
-        # 初始化 last_checked 字段
+        # 初始化 last_checked 字段并标记既有中文又有卡牌的游戏
         initialize_last_checked(conn, cursor, chinese_data, card_data)
     conn.commit()
     
@@ -307,6 +318,7 @@ def main():
         game_appids = [int(appid_str) for appid_str, app_info in data.items() if app_info == "game"]
         if game_appids:
             recheck_period = datetime.utcnow() - timedelta(days=90)
+            both_chinese_and_cards = set(str(k) for k in (set(chinese_data["games"].keys()) & set(card_data["games"].keys())))
             cursor.execute(
                 f"SELECT appid FROM apps WHERE last_checked IS NOT NULL AND last_checked >= ? AND appid IN ({','.join(['?'] * len(game_appids))})",
                 [recheck_period.isoformat()] + game_appids
@@ -315,7 +327,7 @@ def main():
             
             reset_appids = [
                 appid for appid in game_appids
-                if appid not in processed_appids
+                if appid not in processed_appids and str(appid) not in both_chinese_and_cards
             ]
             if reset_appids:
                 cursor.execute(
@@ -344,9 +356,11 @@ def main():
         if result:
             results.append(result)
             success_count += 1
+            # 标记既有中文又有卡牌的游戏为 scraper_status = TRUE
+            scraper_status = True if result["supports_chinese"] and result["supports_cards"] else False
             cursor.execute(
-                "UPDATE apps SET scraper_status = TRUE, retry_count = 0, last_checked = ? WHERE appid = ?",
-                (datetime.utcnow().isoformat(), appid)
+                "UPDATE apps SET scraper_status = ?, retry_count = 0, last_checked = ? WHERE appid = ?",
+                (scraper_status, datetime.utcnow().isoformat(), appid)
             )
         else:
             failure_count += 1
