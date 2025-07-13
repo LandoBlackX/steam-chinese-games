@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-13T13:15:10.469989"
+    "updated": "2025-07-13T13:58:42.278917"
   },
   "games": {
     "570": {
@@ -87802,6 +87802,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-04-11T15:36:28.405277"
+    },
+    "295670": {
+      "appid": 295670,
+      "name": "Hive Jump",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-07-13T13:53:34.830360"
     }
   }
 }
