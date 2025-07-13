@@ -108,44 +108,51 @@ def load_game_appids(existing_chinese, existing_cards, conn, cursor):
                 return []
             
             appids = []
-            thirty_days_ago = datetime.utcnow() - timedelta(days=30)  # 原为 days=30
+            thirty_days_ago = datetime.utcnow() - timedelta(days=30)
             invalid_appids = []
-            # 加载已记录的无效 AppID
             invalid_data = safe_load_invalid_appids()
             recorded_appids = {entry["appid"] for entry in invalid_data.get("invalid_appids", [])}
             
             cursor.execute("SELECT appid FROM apps")
             db_appids = set(row[0] for row in cursor.fetchall())
+            log(f"数据库中总 AppID 数量: {len(db_appids)}")
             
-            for appid_str, app_info in data.items():
-                if app_info == "game":
-                    appid_int = int(appid_str)
-                    
-                    # 检查 AppID 是否在数据库中
-                    if appid_int not in db_appids:
-                        # 只记录尚未记录的无效 AppID
-                        if appid_int not in recorded_appids:
-                            invalid_appids.append({
-                                "appid": appid_int,
-                                "reason": "不在数据库或已下架",
-                                "timestamp": datetime.now().isoformat()
-                            })
-                        continue
-                    
-                    # 检查是否已处理
-                    cursor.execute("SELECT scraper_status FROM apps WHERE appid = ?", (appid_int,))
-                    scraper_status_row = cursor.fetchone()
-                    if scraper_status_row and scraper_status_row[0]:
-                        continue
-                    
-                    # 检查最后更新时间
-                    existing_c = existing_chinese["games"].get(appid_str, {})
-                    existing_card = existing_cards["games"].get(appid_str, {})
-                    last_checked = existing_c.get("last_checked") or existing_card.get("last_checked")
-                    if not last_checked or datetime.fromisoformat(last_checked) < thirty_days_ago:
-                        appids.append(appid_int)
-
-            # 记录新的无效 AppID
+            game_appids = [appid_str for appid_str, app_info in data.items() if app_info == "game"]
+            log(f"output.json 中游戏类 AppID 数量: {len(game_appids)}")
+            
+            for appid_str in game_appids:
+                appid_int = int(appid_str)
+                if appid_int not in db_appids:
+                    if appid_int not in recorded_appids:
+                        invalid_appids.append({
+                            "appid": appid_int,
+                            "reason": "不在数据库或已下架",
+                            "timestamp": datetime.now().isoformat()
+                        })
+                        log(f"AppID {appid_int} 不在数据库中，记录为无效")
+                    continue
+                
+                cursor.execute("SELECT scraper_status FROM apps WHERE appid = ?", (appid_int,))
+                scraper_status_row = cursor.fetchone()
+                if scraper_status_row and scraper_status_row[0]:
+                    log(f"AppID {appid_int} 已处理 (scraper_status = true)")
+                    continue
+                
+                existing_c = existing_chinese["games"].get(appid_str, {})
+                existing_card = existing_cards["games"].get(appid_str, {})
+                last_checked = existing_c.get("last_checked") or existing_card.get("last_checked")
+                if last_checked:
+                    try:
+                        last_checked_time = datetime.fromisoformat(last_checked)
+                        if last_checked_time >= thirty_days_ago:
+                            log(f"AppID {appid_int} 最近检查时间 {last_checked}，跳过")
+                            continue
+                    except ValueError:
+                        log(f"AppID {appid_int} 的 last_checked 格式错误: {last_checked}")
+                
+                log(f"AppID {appid_int} 通过筛选，添加到待处理列表")
+                appids.append(appid_int)
+            
             if invalid_appids:
                 invalid_data["invalid_appids"] = invalid_data.get("invalid_appids", []) + invalid_appids
                 with open(INVALID_LOG_PATH, 'w', encoding='utf-8') as f:
