@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-13T08:32:40.208068"
+    "updated": "2025-07-13T13:15:10.469989"
   },
   "games": {
     "570": {
@@ -294554,6 +294554,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-06-24T17:00:19.436284"
+    },
+    "276870": {
+      "appid": 276870,
+      "name": "Dwelvers",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-13T13:15:01.511379"
     }
   }
 }
