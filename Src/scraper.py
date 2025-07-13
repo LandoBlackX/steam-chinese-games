@@ -95,6 +95,39 @@ def safe_load_json(file):
         log(f"加载 {file} 失败: {str(e)}")
     return init_data_structure()
 
+def initialize_last_checked(conn, cursor, chinese_data, card_data):
+    """从 chinese_games.json 和 card_games.json 初始化 apps 表的 last_checked 字段"""
+    log("初始化 apps 表的 last_checked 字段...")
+    processed_appids = set()
+    for appid_str in chinese_data["games"]:
+        last_checked = chinese_data["games"][appid_str].get("last_checked")
+        if last_checked:
+            try:
+                datetime.fromisoformat(last_checked)  # 验证格式
+                cursor.execute(
+                    "UPDATE apps SET last_checked = ? WHERE appid = ?",
+                    (last_checked, int(appid_str))
+                )
+                processed_appids.add(int(appid_str))
+            except ValueError:
+                log(f"中文游戏 AppID {appid_str} 的 last_checked 格式错误: {last_checked}", level="debug")
+    for appid_str in card_data["games"]:
+        if int(appid_str) not in processed_appids:  # 避免重复更新
+            last_checked = card_data["games"][appid_str].get("last_checked")
+            if last_checked:
+                try:
+                    datetime.fromisoformat(last_checked)
+                    cursor.execute(
+                        "UPDATE apps SET last_checked = ? WHERE appid = ?",
+                        (last_checked, int(appid_str))
+                    )
+                except ValueError:
+                    log(f"卡牌游戏 AppID {appid_str} 的 last_checked 格式错误: {last_checked}", level="debug")
+    conn.commit()
+    cursor.execute("SELECT COUNT(*) FROM apps WHERE last_checked IS NOT NULL")
+    initialized_count = cursor.fetchone()[0]
+    log(f"已为 {initialized_count} 个 AppID 初始化 last_checked 字段")
+
 def load_game_appids(existing_chinese, existing_cards, conn, cursor):
     output_path = DATA_DIR / "output.json"
     if not output_path.exists():
@@ -117,7 +150,7 @@ def load_game_appids(existing_chinese, existing_cards, conn, cursor):
             log(f"数据库中待处理的游戏类 AppID 数量 (scraper_status = FALSE): {pending_count}")
             
             appids = []
-            recheck_period = datetime.utcnow() - timedelta(days=90)  # 90 天重新检查
+            recheck_period = datetime.utcnow() - timedelta(days=90)
             invalid_appids = []
             invalid_data = safe_load_invalid_appids()
             recorded_appids = {entry["appid"] for entry in invalid_data.get("invalid_appids", [])}
@@ -196,7 +229,6 @@ def check_game(appid, rate_limiter):
                 chinese_keywords = ['schinese', 'tchinese', '中文', '简体', '繁体', 'Chinese', 'Simplified Chinese', 'Traditional Chinese']
                 has_chinese = any(kw in langs.lower() for kw in chinese_keywords)
                 has_cards = any(cat.get("id") == 29 for cat in game_info.get("categories", []))
-                # 记录所有成功查询的 AppID 日志
                 log(f"游戏 {appid} => {'支持中文' if has_chinese else '无中文'} | {'有卡牌' if has_cards else '无卡牌'} | 响应时间: {duration:.2f}秒")
                 return {
                     "appid": appid,
@@ -253,6 +285,8 @@ def main():
     if 'last_checked' not in columns:
         log("检测到数据库缺少 last_checked 字段，正在更新表结构...")
         cursor.execute('ALTER TABLE apps ADD COLUMN last_checked TEXT')
+        # 初始化 last_checked 字段
+        initialize_last_checked(conn, cursor, chinese_data, card_data)
     conn.commit()
     
     cursor.execute('''
