@@ -1,7 +1,7 @@
 name: Update Game Data
 on:
   schedule:
-    - cron: '0 * * * *'  # 每小时运行一次（原为每2分钟：'*/2 * * * *'）
+    - cron: '*/2 * * * *'  # 每小时运行一次（原为每2分钟：'*/2 * * * *'）
   workflow_dispatch:
 
 # 并发控制
