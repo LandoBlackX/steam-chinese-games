@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-13T20:25:18.067578"
+    "updated": "2025-07-13T23:56:45.310894"
   },
   "games": {
     "570": {
@@ -294570,6 +294570,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-13T19:35:12.299023"
+    },
+    "536370": {
+      "appid": 536370,
+      "name": "Percussive VR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-13T23:51:40.318377"
     }
   }
 }
