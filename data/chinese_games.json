@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-14T05:21:29.061435"
+    "updated": "2025-07-14T07:06:26.009516"
   },
   "games": {
     "570": {
@@ -294578,6 +294578,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-13T23:51:40.318377"
+    },
+    "589050": {
+      "appid": 589050,
+      "name": "Knighthood: Dawn of Heroes",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-14T07:01:24.467010"
     }
   }
 }
