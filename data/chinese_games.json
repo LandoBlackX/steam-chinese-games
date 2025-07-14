@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-14T11:03:51.864626"
+    "updated": "2025-07-14T11:55:04.216170"
   },
   "games": {
     "570": {
@@ -294610,6 +294610,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-14T10:58:38.182287"
+    },
+    "656910": {
+      "appid": 656910,
+      "name": "Space Hit",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-14T11:49:56.536466"
     }
   }
 }

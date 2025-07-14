@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-14T11:03:51.864626"
+    "updated": "2025-07-14T11:55:04.216170"
   },
   "games": {
     "570": {
@@ -87922,6 +87922,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-07-14T09:00:58.964355"
+    },
+    "657290": {
+      "appid": 657290,
+      "name": "Blind Men",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-07-14T11:49:59.046808"
     }
   }
 }
