@@ -6006,9 +6006,9 @@
       "timestamp": "2025-07-11T16:29:14.766266"
     },
     {
-      "appid": 721400,
-      "reason": "502 Server Error: Bad Gateway for url: https://store.steampowered.com/api/appdetails?appids=721400&l=schinese",
-      "timestamp": "2025-07-14T19:54:04.343858"
+      "appid": 622170,
+      "reason": "API 返回 success: false",
+      "timestamp": "2025-07-14T20:17:13.226042"
     }
   ]
 }
