@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-14T09:06:16.434097"
+    "updated": "2025-07-14T11:03:51.864626"
   },
   "games": {
     "570": {
@@ -294602,6 +294602,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-14T09:06:16.270573"
+    },
+    "645650": {
+      "appid": 645650,
+      "name": "Chickens Madness",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-14T10:58:38.182287"
     }
   }
 }
