@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-14T19:49:14.008102"
+    "updated": "2025-07-14T19:59:15.929988"
   },
   "games": {
     "570": {
@@ -294634,6 +294634,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-14T19:44:02.277902"
+    },
+    "721420": {
+      "appid": 721420,
+      "name": "FIGHTING BOX",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-14T19:54:09.817762"
     }
   }
 }
