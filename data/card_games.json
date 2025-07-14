@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-14T19:59:15.929988"
+    "updated": "2025-07-14T21:38:58.340345"
   },
   "games": {
     "570": {
@@ -87930,6 +87930,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-07-14T11:49:59.046808"
+    },
+    "736850": {
+      "appid": 736850,
+      "name": "We. The Revolution",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-07-14T21:33:46.420006"
     }
   }
 }
