@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-14T17:26:45.767819"
+    "updated": "2025-07-14T19:49:14.008102"
   },
   "games": {
     "570": {
@@ -294626,6 +294626,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-14T17:26:43.997810"
+    },
+    "717310": {
+      "appid": 717310,
+      "name": "Aggelos",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-14T19:44:02.277902"
     }
   }
 }
