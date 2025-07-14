@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-14T00:51:46.920410"
+    "updated": "2025-07-14T04:04:39.792504"
   },
   "games": {
     "570": {
@@ -87874,6 +87874,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-07-14T00:46:33.914384"
+    },
+    "551620": {
+      "appid": 551620,
+      "name": "Approaching Infinity",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-07-14T03:59:27.871530"
     }
   }
 }
