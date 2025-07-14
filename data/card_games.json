@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-13T23:56:45.310894"
+    "updated": "2025-07-14T00:51:46.920410"
   },
   "games": {
     "570": {
@@ -87866,6 +87866,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-07-13T20:20:06.298392"
+    },
+    "538810": {
+      "appid": 538810,
+      "name": "Train Mechanic Simulator 2017",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-07-14T00:46:33.914384"
     }
   }
 }
