@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-14T22:49:17.929040"
+    "updated": "2025-07-14T23:01:34.653916"
   },
   "games": {
     "570": {
@@ -294658,6 +294658,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-14T22:43:36.220065"
+    },
+    "329490": {
+      "appid": 329490,
+      "name": "Phantom Breaker: Battle Grounds Classic",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-07-14T22:55:59.881767"
     }
   }
 }
