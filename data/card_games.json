@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-14T04:04:39.792504"
+    "updated": "2025-07-14T05:21:29.061435"
   },
   "games": {
     "570": {
@@ -87882,6 +87882,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-07-14T03:59:27.871530"
+    },
+    "560230": {
+      "appid": 560230,
+      "name": "Black Swan",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-07-14T05:16:12.746260"
     }
   }
 }
