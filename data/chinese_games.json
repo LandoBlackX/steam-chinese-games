@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-14T08:42:18.813482"
+    "updated": "2025-07-14T09:06:16.434097"
   },
   "games": {
     "570": {
@@ -294586,6 +294586,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-14T07:01:24.467010"
+    },
+    "619540": {
+      "appid": 619540,
+      "name": "Darkwater",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-14T09:01:14.464114"
+    },
+    "619670": {
+      "appid": 619670,
+      "name": "Huge Bang Bang",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-14T09:06:16.270573"
     }
   }
 }

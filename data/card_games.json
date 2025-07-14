@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-14T08:42:18.813482"
+    "updated": "2025-07-14T09:06:16.434097"
   },
   "games": {
     "570": {
@@ -87906,6 +87906,22 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-07-14T08:37:11.146845"
+    },
+    "610710": {
+      "appid": 610710,
+      "name": "Sea Of Secrets",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-07-14T09:00:58.791406"
+    },
+    "611150": {
+      "appid": 611150,
+      "name": "your sisters",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-07-14T09:00:58.964355"
     }
   }
 }
