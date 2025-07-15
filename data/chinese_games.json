@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-15T10:03:56.689057"
+    "updated": "2025-07-15T14:36:30.197746"
   },
   "games": {
     "570": {
@@ -294690,6 +294690,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-15T09:58:51.047150"
+    },
+    "856730": {
+      "appid": 856730,
+      "name": "ARENA 8",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-15T14:31:20.308909"
     }
   }
 }
