@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-15T20:00:41.741037"
+    "updated": "2025-07-15T21:00:51.035421"
   },
   "games": {
     "570": {
@@ -294714,6 +294714,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-15T19:55:21.520591"
+    },
+    "923100": {
+      "appid": 923100,
+      "name": "Moduwar",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-15T20:55:36.839726"
     }
   }
 }
