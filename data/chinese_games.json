@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-14T23:01:34.653916"
+    "updated": "2025-07-15T07:19:30.046864"
   },
   "games": {
     "570": {
@@ -294666,6 +294666,14 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-07-14T22:55:59.881767"
+    },
+    "795920": {
+      "appid": 795920,
+      "name": "SALVATOR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-15T07:14:18.311100"
     }
   }
 }
