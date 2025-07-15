@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-15T21:00:51.035421"
+    "updated": "2025-07-15T21:59:14.716907"
   },
   "games": {
     "570": {
@@ -294722,6 +294722,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-15T20:55:36.839726"
+    },
+    "938360": {
+      "appid": 938360,
+      "name": "The last soldier",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-15T21:59:07.114275"
     }
   }
 }
