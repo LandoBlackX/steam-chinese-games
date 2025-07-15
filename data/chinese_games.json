@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-15T21:59:14.716907"
+    "updated": "2025-07-15T23:03:48.158108"
   },
   "games": {
     "570": {
@@ -294730,6 +294730,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-15T21:59:07.114275"
+    },
+    "950660": {
+      "appid": 950660,
+      "name": "WRAITH OPS",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-15T22:58:41.230551"
     }
   }
 }
