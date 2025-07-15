@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-15T07:19:30.046864"
+    "updated": "2025-07-15T10:03:56.689057"
   },
   "games": {
     "570": {
@@ -294674,6 +294674,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-15T07:14:18.311100"
+    },
+    "818360": {
+      "appid": 818360,
+      "name": "荒野巴士",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-15T09:58:44.793276"
+    },
+    "819550": {
+      "appid": 819550,
+      "name": "Cheese Maze",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-15T09:58:51.047150"
     }
   }
 }
