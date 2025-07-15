@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-15T19:35:56.908871"
+    "updated": "2025-07-15T20:00:41.741037"
   },
   "games": {
     "570": {
@@ -294706,6 +294706,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-15T19:35:56.091702"
+    },
+    "912000": {
+      "appid": 912000,
+      "name": "Mike goes on hike",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-15T19:55:21.520591"
     }
   }
 }
