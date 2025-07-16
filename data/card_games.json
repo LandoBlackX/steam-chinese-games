@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-16T08:35:51.358073"
+    "updated": "2025-07-16T12:01:51.093339"
   },
   "games": {
     "570": {
@@ -87954,6 +87954,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-07-16T04:50:13.271913"
+    },
+    "1044020": {
+      "appid": 1044020,
+      "name": "Potata: fairy flower",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-07-16T11:56:43.934433"
     }
   }
 }
