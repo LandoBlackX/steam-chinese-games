@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-15T23:03:48.158108"
+    "updated": "2025-07-16T04:55:24.224609"
   },
   "games": {
     "570": {
@@ -87946,6 +87946,14 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-07-14T22:55:59.881767"
+    },
+    "975620": {
+      "appid": 975620,
+      "name": "Project DeepWeb",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-07-16T04:50:13.271913"
     }
   }
 }
