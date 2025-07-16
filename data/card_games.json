@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-16T15:03:10.384335"
+    "updated": "2025-07-16T16:42:18.767024"
   },
   "games": {
     "570": {
@@ -87962,6 +87962,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-07-16T11:56:43.934433"
+    },
+    "1074520": {
+      "appid": 1074520,
+      "name": "A Sceptic's Guide to Magic",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-07-16T16:37:06.693652"
     }
   }
 }
