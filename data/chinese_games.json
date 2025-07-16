@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-16T12:01:51.093339"
+    "updated": "2025-07-16T14:02:05.748273"
   },
   "games": {
     "570": {
@@ -294754,6 +294754,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-16T08:35:50.048623"
+    },
+    "1054080": {
+      "appid": 1054080,
+      "name": "饱和外太空",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-16T13:57:00.494446"
     }
   }
 }
