@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-16T14:25:41.675733"
+    "updated": "2025-07-16T15:03:10.384335"
   },
   "games": {
     "570": {
@@ -294770,6 +294770,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-16T14:20:35.789324"
+    },
+    "1062120": {
+      "appid": 1062120,
+      "name": "Peas Adventure",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-16T14:57:52.364311"
     }
   }
 }
