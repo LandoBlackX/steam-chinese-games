@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-16T16:42:18.767024"
+    "updated": "2025-07-16T19:22:14.331418"
   },
   "games": {
     "570": {
@@ -294778,6 +294778,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-16T14:57:52.364311"
+    },
+    "815660": {
+      "appid": 815660,
+      "name": "Lucie",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-16T19:21:53.131136"
     }
   }
 }
