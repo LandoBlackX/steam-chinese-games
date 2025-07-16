@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-16T04:55:24.224609"
+    "updated": "2025-07-16T08:02:19.937585"
   },
   "games": {
     "570": {
@@ -294738,6 +294738,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-15T22:58:41.230551"
+    },
+    "773700": {
+      "appid": 773700,
+      "name": "Electric Bench - Unreal Engine 5 Benchmark",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-16T07:56:48.294736"
     }
   }
 }
