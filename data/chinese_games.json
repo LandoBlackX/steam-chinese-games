@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-17T17:59:39.436575"
+    "updated": "2025-07-17T18:26:47.781916"
   },
   "games": {
     "570": {
@@ -294850,6 +294850,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-17T17:54:35.760294"
+    },
+    "1281040": {
+      "appid": 1281040,
+      "name": "一步一脚印",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-17T18:21:34.371796"
     }
   }
 }
