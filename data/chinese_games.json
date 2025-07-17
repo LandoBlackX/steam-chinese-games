@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-17T11:52:46.473070"
+    "updated": "2025-07-17T13:35:21.132316"
   },
   "games": {
     "570": {
@@ -294818,6 +294818,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-17T08:39:03.731416"
+    },
+    "878000": {
+      "appid": 878000,
+      "name": "Brainrot Royale",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-17T13:29:35.644186"
     }
   }
 }
