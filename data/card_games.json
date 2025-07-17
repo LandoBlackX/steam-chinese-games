@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-17T09:38:33.378101"
+    "updated": "2025-07-17T11:52:46.473070"
   },
   "games": {
     "570": {
@@ -87986,6 +87986,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-07-17T09:33:22.842545"
+    },
+    "1226670": {
+      "appid": 1226670,
+      "name": "Rosewater",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-07-17T11:47:42.875598"
     }
   }
 }
