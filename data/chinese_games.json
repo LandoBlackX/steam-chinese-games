@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-17T13:35:21.132316"
+    "updated": "2025-07-17T15:02:53.749929"
   },
   "games": {
     "570": {
@@ -294826,6 +294826,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-17T13:29:35.644186"
+    },
+    "1250300": {
+      "appid": 1250300,
+      "name": "Orders of Magnitude",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-17T14:57:38.670244"
     }
   }
 }
