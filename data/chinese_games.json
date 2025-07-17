@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-17T19:35:25.614985"
+    "updated": "2025-07-17T19:50:10.603527"
   },
   "games": {
     "570": {
@@ -294882,6 +294882,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-17T19:30:14.629590"
+    },
+    "1293110": {
+      "appid": 1293110,
+      "name": "Timeless Adventure: A Journey To Begin",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-17T19:45:00.694880"
     }
   }
 }
