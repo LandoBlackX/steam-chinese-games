@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-17T03:56:51.051129"
+    "updated": "2025-07-17T08:05:21.443205"
   },
   "games": {
     "570": {
@@ -294802,6 +294802,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-17T03:56:51.049049"
+    },
+    "858200": {
+      "appid": 858200,
+      "name": "Scratch The Cat",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-17T07:59:40.746213"
     }
   }
 }
