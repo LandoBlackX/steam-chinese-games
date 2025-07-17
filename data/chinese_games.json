@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-17T08:05:21.443205"
+    "updated": "2025-07-17T08:44:20.017328"
   },
   "games": {
     "570": {
@@ -294810,6 +294810,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-17T07:59:40.746213"
+    },
+    "1195560": {
+      "appid": 1195560,
+      "name": "Alek - The Lost Kingdom",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-17T08:39:03.731416"
     }
   }
 }
