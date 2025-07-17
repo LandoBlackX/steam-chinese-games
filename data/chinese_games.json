@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-17T18:26:47.781916"
+    "updated": "2025-07-17T18:57:03.288696"
   },
   "games": {
     "570": {
@@ -294858,6 +294858,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-17T18:21:34.371796"
+    },
+    "897160": {
+      "appid": 897160,
+      "name": "Snap & Grab",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-17T18:51:12.487883"
+    },
+    "1285820": {
+      "appid": 1285820,
+      "name": "Virus Kombat",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-17T18:57:00.374383"
     }
   }
 }
