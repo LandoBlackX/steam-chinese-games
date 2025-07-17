@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-17T21:43:11.784114"
+    "updated": "2025-07-17T22:05:16.123201"
   },
   "games": {
     "570": {
@@ -294914,6 +294914,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-17T21:38:03.053860"
+    },
+    "914740": {
+      "appid": 914740,
+      "name": "I Hate Robots",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-17T21:59:14.609283"
     }
   }
 }
