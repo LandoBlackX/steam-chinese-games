@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-17T18:57:03.288696"
+    "updated": "2025-07-17T19:35:25.614985"
   },
   "games": {
     "570": {
@@ -294874,6 +294874,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-17T18:57:00.374383"
+    },
+    "1290760": {
+      "appid": 1290760,
+      "name": "壁虎之神",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-17T19:30:14.629590"
     }
   }
 }
