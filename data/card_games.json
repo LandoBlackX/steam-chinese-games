@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-17T15:02:53.749929"
+    "updated": "2025-07-17T17:00:36.298778"
   },
   "games": {
     "570": {
@@ -87994,6 +87994,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-07-17T11:47:42.875598"
+    },
+    "1269690": {
+      "appid": 1269690,
+      "name": "Attack on Toys",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-07-17T17:00:34.277056"
     }
   }
 }
