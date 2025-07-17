@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-17T20:47:07.674331"
+    "updated": "2025-07-17T21:43:11.784114"
   },
   "games": {
     "570": {
@@ -294898,6 +294898,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-17T20:47:04.966548"
+    },
+    "1313290": {
+      "appid": 1313290,
+      "name": "贸易之路",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-17T21:38:00.937776"
+    },
+    "1313730": {
+      "appid": 1313730,
+      "name": "Hunt In Town",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-17T21:38:03.053860"
     }
   }
 }
