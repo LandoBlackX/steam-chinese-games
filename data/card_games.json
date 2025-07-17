@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-17T08:44:20.017328"
+    "updated": "2025-07-17T09:38:33.378101"
   },
   "games": {
     "570": {
@@ -87978,6 +87978,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-07-17T03:51:44.813260"
+    },
+    "1202580": {
+      "appid": 1202580,
+      "name": "Beyond Eden: Dear Edward",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-07-17T09:33:22.842545"
     }
   }
 }
