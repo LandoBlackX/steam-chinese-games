@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-17T19:50:10.603527"
+    "updated": "2025-07-17T20:47:07.674331"
   },
   "games": {
     "570": {
@@ -294890,6 +294890,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-17T19:45:00.694880"
+    },
+    "1304610": {
+      "appid": 1304610,
+      "name": "Lab Rat",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-17T20:47:04.966548"
     }
   }
 }
