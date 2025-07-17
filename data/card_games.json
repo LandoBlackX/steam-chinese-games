@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-16T20:51:23.458031"
+    "updated": "2025-07-17T03:56:51.051129"
   },
   "games": {
     "570": {
@@ -87970,6 +87970,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-07-16T16:37:06.693652"
+    },
+    "1158290": {
+      "appid": 1158290,
+      "name": "Mini Words - minimalist puzzle",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-07-17T03:51:44.813260"
     }
   }
 }

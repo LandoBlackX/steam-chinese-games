@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-16T20:51:23.458031"
+    "updated": "2025-07-17T03:56:51.051129"
   },
   "games": {
     "570": {
@@ -294794,6 +294794,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-16T20:46:18.038037"
+    },
+    "1160410": {
+      "appid": 1160410,
+      "name": "Hentai Balloons",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-17T03:56:51.049049"
     }
   }
 }
