@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-18T19:15:06.667573"
+    "updated": "2025-07-18T19:34:04.568331"
   },
   "games": {
     "570": {
@@ -88018,6 +88018,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-07-18T19:10:00.344007"
+    },
+    "1471270": {
+      "appid": 1471270,
+      "name": "Seablip",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-07-18T19:28:55.919432"
     }
   }
 }
