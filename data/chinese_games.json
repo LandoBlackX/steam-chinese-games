@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-18T15:59:56.091313"
+    "updated": "2025-07-18T16:54:53.666842"
   },
   "games": {
     "570": {
@@ -294994,6 +294994,30 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-18T15:54:33.079874"
+    },
+    "1449110": {
+      "appid": 1449110,
+      "name": "The Outer Worlds 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-18T16:49:42.790504"
+    },
+    "1449590": {
+      "appid": 1449590,
+      "name": "Leonardo's Island",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-18T16:49:44.618592"
+    },
+    "1451050": {
+      "appid": 1451050,
+      "name": "Sherman Commander",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-18T16:49:50.843604"
     }
   }
 }
