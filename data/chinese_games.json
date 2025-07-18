@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-18T21:52:54.177142"
+    "updated": "2025-07-18T22:49:38.376315"
   },
   "games": {
     "570": {
@@ -295066,6 +295066,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-18T21:52:53.505435"
+    },
+    "997810": {
+      "appid": 997810,
+      "name": "密室逃脱：马克的房间",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-18T22:43:37.626269"
+    },
+    "1502890": {
+      "appid": 1502890,
+      "name": "DNA: Episode 1",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-18T22:44:33.195913"
     }
   }
 }
