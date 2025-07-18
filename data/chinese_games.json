@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-18T14:38:28.246688"
+    "updated": "2025-07-18T15:59:56.091313"
   },
   "games": {
     "570": {
@@ -294986,6 +294986,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-18T14:33:19.171585"
+    },
+    "1444080": {
+      "appid": 1444080,
+      "name": "Dewdrop Dynasty",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-18T15:54:33.079874"
     }
   }
 }
