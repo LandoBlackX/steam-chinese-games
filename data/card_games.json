@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-18T14:08:02.741688"
+    "updated": "2025-07-18T14:38:28.246688"
   },
   "games": {
     "570": {
@@ -88002,6 +88002,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-07-17T17:00:34.277056"
+    },
+    "1431230": {
+      "appid": 1431230,
+      "name": "Gods of Sand",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-07-18T14:33:21.484630"
     }
   }
 }
