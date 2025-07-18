@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-18T20:59:01.165880"
+    "updated": "2025-07-18T21:17:39.073450"
   },
   "games": {
     "570": {
@@ -295042,6 +295042,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-18T20:53:51.836749"
+    },
+    "1487300": {
+      "appid": 1487300,
+      "name": "Follow My Steps",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-18T21:12:26.868824"
     }
   }
 }
