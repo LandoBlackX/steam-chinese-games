@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-18T09:38:14.736296"
+    "updated": "2025-07-18T10:17:34.410260"
   },
   "games": {
     "570": {
@@ -294954,6 +294954,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-18T09:33:04.017799"
+    },
+    "1396540": {
+      "appid": 1396540,
+      "name": "黄昏特工小队",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-18T10:12:18.964608"
     }
   }
 }
