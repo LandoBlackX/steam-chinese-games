@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-18T19:34:04.568331"
+    "updated": "2025-07-18T20:59:01.165880"
   },
   "games": {
     "570": {
@@ -295034,6 +295034,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-18T17:45:08.010193"
+    },
+    "1485580": {
+      "appid": 1485580,
+      "name": "Chess Valley",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-18T20:53:51.836749"
     }
   }
 }
