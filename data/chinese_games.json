@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-18T10:17:34.410260"
+    "updated": "2025-07-18T11:26:34.451281"
   },
   "games": {
     "570": {
@@ -294962,6 +294962,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-18T10:12:18.964608"
+    },
+    "1406780": {
+      "appid": 1406780,
+      "name": "Viscerafest",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-18T11:21:21.066842"
     }
   }
 }
