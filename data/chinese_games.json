@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-18T21:38:59.598118"
+    "updated": "2025-07-18T21:52:54.177142"
   },
   "games": {
     "570": {
@@ -295058,6 +295058,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-18T21:33:00.581833"
+    },
+    "1494810": {
+      "appid": 1494810,
+      "name": "Mortal Sin",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-18T21:52:53.505435"
     }
   }
 }
