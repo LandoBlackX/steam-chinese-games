@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-18T11:26:34.451281"
+    "updated": "2025-07-18T14:08:02.741688"
   },
   "games": {
     "570": {
@@ -294970,6 +294970,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-18T11:21:21.066842"
+    },
+    "1426560": {
+      "appid": 1426560,
+      "name": "夜半歌声",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-18T14:02:52.997348"
     }
   }
 }
