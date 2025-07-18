@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-18T17:17:40.383527"
+    "updated": "2025-07-18T17:45:09.082054"
   },
   "games": {
     "570": {
@@ -295026,6 +295026,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-18T17:12:34.782041"
+    },
+    "1458300": {
+      "appid": 1458300,
+      "name": "The Gap",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-18T17:45:08.010193"
     }
   }
 }
