@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-18T21:17:39.073450"
+    "updated": "2025-07-18T21:38:59.598118"
   },
   "games": {
     "570": {
@@ -295050,6 +295050,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-18T21:12:26.868824"
+    },
+    "990960": {
+      "appid": 990960,
+      "name": "ATRIUM",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-18T21:33:00.581833"
     }
   }
 }
