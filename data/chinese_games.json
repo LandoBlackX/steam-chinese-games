@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-19T17:56:11.356038"
+    "updated": "2025-07-19T19:35:52.811411"
   },
   "games": {
     "570": {
@@ -295250,6 +295250,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-19T17:51:05.668403"
+    },
+    "1072290": {
+      "appid": 1072290,
+      "name": "Ravenlok: Legendary Edition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-19T19:29:16.045991"
+    },
+    "1072780": {
+      "appid": 1072780,
+      "name": "The Gentle Golem",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-19T19:29:16.173803"
     }
   }
 }
