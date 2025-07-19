@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-19T11:54:04.145491"
+    "updated": "2025-07-19T13:52:11.325491"
   },
   "games": {
     "570": {
@@ -295178,6 +295178,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-19T10:32:50.546319"
+    },
+    "1046590": {
+      "appid": 1046590,
+      "name": "Antodon Express",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-19T13:45:52.878756"
+    },
+    "1601410": {
+      "appid": 1601410,
+      "name": "FARAWAY TRAIN 天涯的列车",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-19T13:46:56.682812"
     }
   }
 }
