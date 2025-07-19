@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-19T11:29:58.763978"
+    "updated": "2025-07-19T11:54:04.145491"
   },
   "games": {
     "570": {
@@ -88050,6 +88050,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-07-19T11:24:51.351063"
+    },
+    "1592280": {
+      "appid": 1592280,
+      "name": "Selaco",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-07-19T11:48:56.526931"
     }
   }
 }
