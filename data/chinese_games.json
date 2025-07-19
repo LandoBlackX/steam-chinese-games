@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-19T02:26:25.011861"
+    "updated": "2025-07-19T04:23:29.903097"
   },
   "games": {
     "570": {
@@ -295098,6 +295098,30 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-19T02:21:20.809747"
+    },
+    "1526890": {
+      "appid": 1526890,
+      "name": "Valiant Saga",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-19T04:18:23.678196"
+    },
+    "1527040": {
+      "appid": 1527040,
+      "name": "Eager For Den",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-19T04:18:24.126887"
+    },
+    "1527350": {
+      "appid": 1527350,
+      "name": "Dad's Coming",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-19T04:23:26.815868"
     }
   }
 }
