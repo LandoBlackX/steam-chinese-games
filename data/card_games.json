@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-19T16:39:06.789779"
+    "updated": "2025-07-19T17:19:52.750218"
   },
   "games": {
     "570": {
@@ -88058,6 +88058,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-07-19T11:48:56.526931"
+    },
+    "1632490": {
+      "appid": 1632490,
+      "name": "Shashingo: Learn Japanese with Photography",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-07-19T17:14:42.372723"
     }
   }
 }
