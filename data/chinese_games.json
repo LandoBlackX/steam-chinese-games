@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-19T19:35:52.811411"
+    "updated": "2025-07-19T19:58:36.039861"
   },
   "games": {
     "570": {
@@ -295266,6 +295266,30 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-19T19:29:16.173803"
+    },
+    "1660560": {
+      "appid": 1660560,
+      "name": "Chess Valley 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-19T19:58:32.696164"
+    },
+    "1660960": {
+      "appid": 1660960,
+      "name": "Windswept",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-19T19:58:34.187461"
+    },
+    "1661330": {
+      "appid": 1661330,
+      "name": "SacriFire",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-19T19:58:35.533151"
     }
   }
 }
