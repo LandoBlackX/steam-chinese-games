@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-19T20:17:26.700731"
+    "updated": "2025-07-19T21:33:30.330714"
   },
   "games": {
     "570": {
@@ -295298,6 +295298,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-19T20:12:18.563687"
+    },
+    "1674830": {
+      "appid": 1674830,
+      "name": "Victory at Sea Atlantic - World War II Naval Warfare",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-19T21:33:25.049087"
     }
   }
 }
