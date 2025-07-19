@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-19T10:37:55.498542"
+    "updated": "2025-07-19T11:29:58.763978"
   },
   "games": {
     "570": {
@@ -88042,6 +88042,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-07-19T02:20:20.455935"
+    },
+    "1586860": {
+      "appid": 1586860,
+      "name": "Bonesaw",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-07-19T11:24:51.351063"
     }
   }
 }
