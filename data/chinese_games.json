@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-19T19:58:36.039861"
+    "updated": "2025-07-19T20:17:26.700731"
   },
   "games": {
     "570": {
@@ -295290,6 +295290,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-19T19:58:35.533151"
+    },
+    "1662210": {
+      "appid": 1662210,
+      "name": "Arms Trade Tycoon: Tanks",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-19T20:12:18.563687"
     }
   }
 }
