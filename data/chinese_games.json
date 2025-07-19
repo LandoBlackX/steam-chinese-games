@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-19T15:39:44.545728"
+    "updated": "2025-07-19T16:39:06.789779"
   },
   "games": {
     "570": {
@@ -295218,6 +295218,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-19T15:34:31.173060"
+    },
+    "1627210": {
+      "appid": 1627210,
+      "name": "Morgenstern",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-19T16:33:54.117501"
+    },
+    "1627750": {
+      "appid": 1627750,
+      "name": "O.A.C - World Begins",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-19T16:33:58.626066"
     }
   }
 }
