@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-19T17:19:52.750218"
+    "updated": "2025-07-19T17:56:11.356038"
   },
   "games": {
     "570": {
@@ -295242,6 +295242,14 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-07-19T17:14:42.372723"
+    },
+    "1639710": {
+      "appid": 1639710,
+      "name": "SquareMan-Boy",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-19T17:51:05.668403"
     }
   }
 }
