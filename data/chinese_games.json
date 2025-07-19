@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-19T04:23:29.903097"
+    "updated": "2025-07-19T05:58:32.223427"
   },
   "games": {
     "570": {
@@ -295122,6 +295122,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-19T04:23:26.815868"
+    },
+    "1539140": {
+      "appid": 1539140,
+      "name": "东京股神 STONKS-9800",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-19T05:53:24.639184"
     }
   }
 }
