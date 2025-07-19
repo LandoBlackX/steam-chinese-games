@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-19T08:18:31.297069"
+    "updated": "2025-07-19T09:03:44.279516"
   },
   "games": {
     "570": {
@@ -295146,6 +295146,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-19T08:13:19.446135"
+    },
+    "1564900": {
+      "appid": 1564900,
+      "name": "CRIXUS: Life of free Gladiator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-19T08:58:31.381342"
     }
   }
 }
