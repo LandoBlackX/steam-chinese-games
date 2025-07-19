@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-19T00:06:48.119947"
+    "updated": "2025-07-19T02:26:25.011861"
   },
   "games": {
     "570": {
@@ -88034,6 +88034,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-07-18T21:17:39.071946"
+    },
+    "1004640": {
+      "appid": 1004640,
+      "name": "FINAL FANTASY TACTICS - The Ivalice Chronicles",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-07-19T02:20:20.455935"
     }
   }
 }
