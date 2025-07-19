@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-19T14:46:53.073185"
+    "updated": "2025-07-19T15:39:44.545728"
   },
   "games": {
     "570": {
@@ -295210,6 +295210,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-19T14:41:46.039175"
+    },
+    "1619580": {
+      "appid": 1619580,
+      "name": "Slopecrashers",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-19T15:34:31.173060"
     }
   }
 }
