@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-18T22:49:38.376315"
+    "updated": "2025-07-19T00:06:48.119947"
   },
   "games": {
     "570": {
@@ -295082,6 +295082,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-18T22:44:33.195913"
+    },
+    "1515000": {
+      "appid": 1515000,
+      "name": "萌兽镇：建城卡斗",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-19T00:01:20.314618"
     }
   }
 }
