@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-19T09:03:44.279516"
+    "updated": "2025-07-19T09:46:07.899344"
   },
   "games": {
     "570": {
@@ -295154,6 +295154,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-19T08:58:31.381342"
+    },
+    "1570260": {
+      "appid": 1570260,
+      "name": "Time Loop Nibiru",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-19T09:40:58.012964"
     }
   }
 }
