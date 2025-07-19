@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-19T09:46:07.899344"
+    "updated": "2025-07-19T09:56:57.187658"
   },
   "games": {
     "570": {
@@ -295162,6 +295162,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-19T09:40:58.012964"
+    },
+    "1573560": {
+      "appid": 1573560,
+      "name": "Dungeons & Drivers",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-19T09:51:51.877062"
     }
   }
 }
