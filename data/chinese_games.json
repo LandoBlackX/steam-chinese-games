@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-19T21:33:30.330714"
+    "updated": "2025-07-19T23:04:40.550218"
   },
   "games": {
     "570": {
@@ -295306,6 +295306,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-19T21:33:25.049087"
+    },
+    "1688640": {
+      "appid": 1688640,
+      "name": "Isle Goblin",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-19T22:59:27.142198"
     }
   }
 }
