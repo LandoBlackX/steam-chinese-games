@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-20T16:32:00.804253"
+    "updated": "2025-07-20T16:54:55.975454"
   },
   "games": {
     "570": {
@@ -295450,6 +295450,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-20T16:31:57.285349"
+    },
+    "1796580": {
+      "appid": 1796580,
+      "name": "Sorry We're Closed",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-07-20T16:49:46.414308"
+    },
+    "1797790": {
+      "appid": 1797790,
+      "name": "Neko Waifu",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-20T16:54:53.629148"
     }
   }
 }
