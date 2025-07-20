@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-19T23:04:40.550218"
+    "updated": "2025-07-20T06:25:32.242648"
   },
   "games": {
     "570": {
@@ -88066,6 +88066,14 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-07-19T17:14:42.372723"
+    },
+    "1714080": {
+      "appid": 1714080,
+      "name": "---Red---Tether-->",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-07-20T06:20:19.442187"
     }
   }
 }
