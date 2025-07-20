@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-20T11:37:20.644337"
+    "updated": "2025-07-20T11:50:40.142484"
   },
   "games": {
     "570": {
@@ -295378,6 +295378,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-20T11:32:04.135701"
+    },
+    "1761220": {
+      "appid": 1761220,
+      "name": "Prosperous Universe",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-20T11:50:36.202399"
     }
   }
 }
