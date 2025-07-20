@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-20T16:03:58.613469"
+    "updated": "2025-07-20T16:32:00.804253"
   },
   "games": {
     "570": {
@@ -295434,6 +295434,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-20T16:03:58.611989"
+    },
+    "1794240": {
+      "appid": 1794240,
+      "name": "SysAdmin Odyssey - Back to the office",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-20T16:26:49.958357"
+    },
+    "1795190": {
+      "appid": 1795190,
+      "name": "Speedball",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-20T16:31:57.285349"
     }
   }
 }
