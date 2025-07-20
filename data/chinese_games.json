@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-20T06:25:32.242648"
+    "updated": "2025-07-20T06:54:55.895693"
   },
   "games": {
     "570": {
@@ -295322,6 +295322,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-20T06:20:17.377641"
+    },
+    "1717170": {
+      "appid": 1717170,
+      "name": "Gentlemen's Club",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-20T06:49:49.519619"
     }
   }
 }
