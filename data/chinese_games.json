@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-20T21:19:28.201083"
+    "updated": "2025-07-20T21:53:23.826364"
   },
   "games": {
     "570": {
@@ -295506,6 +295506,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-20T21:14:18.252284"
+    },
+    "1169380": {
+      "appid": 1169380,
+      "name": "南无加特林菩萨",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-20T21:45:49.663916"
     }
   }
 }
