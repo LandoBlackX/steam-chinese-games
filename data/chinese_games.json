@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-20T15:52:26.390227"
+    "updated": "2025-07-20T16:03:58.613469"
   },
   "games": {
     "570": {
@@ -295418,6 +295418,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-20T15:47:16.546654"
+    },
+    "1790930": {
+      "appid": 1790930,
+      "name": "Crisol: Theater of Idols",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-20T15:58:46.500877"
+    },
+    "1793330": {
+      "appid": 1793330,
+      "name": "Brew",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-20T16:03:58.611989"
     }
   }
 }
