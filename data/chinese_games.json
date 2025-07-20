@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-20T13:15:05.219216"
+    "updated": "2025-07-20T14:58:16.307320"
   },
   "games": {
     "570": {
@@ -295402,6 +295402,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-20T13:09:57.317441"
+    },
+    "1782460": {
+      "appid": 1782460,
+      "name": "地狱丧钟 Hell Clock",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-20T14:58:13.306660"
     }
   }
 }
