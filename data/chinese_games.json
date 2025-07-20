@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-20T16:54:55.975454"
+    "updated": "2025-07-20T17:49:55.783826"
   },
   "games": {
     "570": {
@@ -295466,6 +295466,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-20T16:54:53.629148"
+    },
+    "1803550": {
+      "appid": 1803550,
+      "name": "MegaFactory Titan",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-20T17:44:45.372917"
     }
   }
 }
