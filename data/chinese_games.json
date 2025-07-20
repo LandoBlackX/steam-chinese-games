@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-20T18:27:50.917008"
+    "updated": "2025-07-20T19:30:13.724317"
   },
   "games": {
     "570": {
@@ -295490,6 +295490,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-20T18:22:42.254591"
+    },
+    "1156820": {
+      "appid": 1156820,
+      "name": "肉鸽之魂",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-20T19:22:34.633683"
     }
   }
 }
