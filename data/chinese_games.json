@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-20T19:30:13.724317"
+    "updated": "2025-07-20T21:19:28.201083"
   },
   "games": {
     "570": {
@@ -295498,6 +295498,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-20T19:22:34.633683"
+    },
+    "1832760": {
+      "appid": 1832760,
+      "name": "DarkBlood -Reborn-",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-20T21:14:18.252284"
     }
   }
 }
