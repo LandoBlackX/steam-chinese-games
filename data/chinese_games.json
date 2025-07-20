@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-20T14:58:16.307320"
+    "updated": "2025-07-20T15:52:26.390227"
   },
   "games": {
     "570": {
@@ -295410,6 +295410,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-20T14:58:13.306660"
+    },
+    "1788790": {
+      "appid": 1788790,
+      "name": "Hungry Wolf",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-20T15:47:16.546654"
     }
   }
 }
