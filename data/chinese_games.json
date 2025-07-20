@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-20T11:01:07.358012"
+    "updated": "2025-07-20T11:37:20.644337"
   },
   "games": {
     "570": {
@@ -295370,6 +295370,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-20T10:55:59.793082"
+    },
+    "1756600": {
+      "appid": 1756600,
+      "name": "Orbital Challenge",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-20T11:32:04.135701"
     }
   }
 }
