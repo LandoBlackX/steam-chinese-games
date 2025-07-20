@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-20T11:50:40.142484"
+    "updated": "2025-07-20T12:01:04.419513"
   },
   "games": {
     "570": {
@@ -295386,6 +295386,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-20T11:50:36.202399"
+    },
+    "1761910": {
+      "appid": 1761910,
+      "name": "永生咒魇",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-20T11:55:36.045764"
     }
   }
 }
