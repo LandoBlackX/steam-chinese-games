@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-21T20:47:37.403574"
+    "updated": "2025-07-21T22:15:40.284228"
   },
   "games": {
     "570": {
@@ -295650,6 +295650,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-21T20:47:31.641288"
+    },
+    "1963510": {
+      "appid": 1963510,
+      "name": "Herald of Havoc",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-21T22:15:15.650762"
     }
   }
 }
