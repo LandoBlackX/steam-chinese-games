@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-21T08:32:26.101237"
+    "updated": "2025-07-21T11:03:40.346367"
   },
   "games": {
     "570": {
@@ -295570,6 +295570,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-21T07:46:27.924380"
+    },
+    "1896840": {
+      "appid": 1896840,
+      "name": "Sexy Furry",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-21T10:58:25.397332"
     }
   }
 }
