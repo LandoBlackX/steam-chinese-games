@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-21T17:26:45.585313"
+    "updated": "2025-07-21T18:31:51.953194"
   },
   "games": {
     "570": {
@@ -295634,6 +295634,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-21T17:21:34.191761"
+    },
+    "1937880": {
+      "appid": 1937880,
+      "name": "Hank: Drowning On Dry Land",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-21T18:31:49.618147"
     }
   }
 }
