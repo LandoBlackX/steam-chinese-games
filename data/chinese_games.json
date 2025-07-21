@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-21T18:31:51.953194"
+    "updated": "2025-07-21T20:47:37.403574"
   },
   "games": {
     "570": {
@@ -295642,6 +295642,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-21T18:31:49.618147"
+    },
+    "1952450": {
+      "appid": 1952450,
+      "name": "超​豪​华​汽​车​游​戏",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-21T20:47:31.641288"
     }
   }
 }
