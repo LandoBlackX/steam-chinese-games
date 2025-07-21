@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-21T04:49:36.213984"
+    "updated": "2025-07-21T05:54:41.609447"
   },
   "games": {
     "570": {
@@ -295538,6 +295538,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-21T04:49:36.057044"
+    },
+    "1870430": {
+      "appid": 1870430,
+      "name": "Your Personal Chill Apartment",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-21T05:49:33.233772"
     }
   }
 }
