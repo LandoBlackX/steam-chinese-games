@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-21T07:46:33.881892"
+    "updated": "2025-07-21T08:32:26.101237"
   },
   "games": {
     "570": {
@@ -88098,6 +88098,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-07-21T06:46:38.701957"
+    },
+    "1885110": {
+      "appid": 1885110,
+      "name": "Cryptmaster",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-07-21T08:32:17.842458"
     }
   }
 }
