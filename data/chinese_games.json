@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-20T21:53:23.826364"
+    "updated": "2025-07-21T00:07:33.592278"
   },
   "games": {
     "570": {
@@ -295514,6 +295514,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-20T21:45:49.663916"
+    },
+    "1858790": {
+      "appid": 1858790,
+      "name": "Bony Odyssey",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-21T00:07:32.170872"
     }
   }
 }
