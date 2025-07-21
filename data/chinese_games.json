@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-21T11:03:40.346367"
+    "updated": "2025-07-21T13:09:40.049890"
   },
   "games": {
     "570": {
@@ -295578,6 +295578,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-21T10:58:25.397332"
+    },
+    "1906050": {
+      "appid": 1906050,
+      "name": "Dragon Map Maker",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-21T13:04:16.379553"
     }
   }
 }
