@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-21T05:54:41.609447"
+    "updated": "2025-07-21T06:51:46.321050"
   },
   "games": {
     "570": {
@@ -88090,6 +88090,14 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-07-20T16:49:46.414308"
+    },
+    "1875280": {
+      "appid": 1875280,
+      "name": "Miner Ultra Adventures 2",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-07-21T06:46:38.701957"
     }
   }
 }
