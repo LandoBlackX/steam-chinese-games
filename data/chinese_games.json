@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-21T14:42:37.762468"
+    "updated": "2025-07-21T15:26:31.511406"
   },
   "games": {
     "570": {
@@ -295618,6 +295618,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-21T14:42:30.925200"
+    },
+    "1918480": {
+      "appid": 1918480,
+      "name": "Dragon Sleuth Brittany",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-21T15:26:22.273927"
     }
   }
 }
