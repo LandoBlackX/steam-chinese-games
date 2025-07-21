@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-21T06:51:46.321050"
+    "updated": "2025-07-21T07:11:45.027345"
   },
   "games": {
     "570": {
@@ -295546,6 +295546,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-21T05:49:33.233772"
+    },
+    "914720": {
+      "appid": 914720,
+      "name": "死期欲 -梦魅辉在梦境-",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-21T07:03:11.261428"
     }
   }
 }
