@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-21T13:55:13.439419"
+    "updated": "2025-07-21T14:10:27.429950"
   },
   "games": {
     "570": {
@@ -295602,6 +295602,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-21T13:55:09.730303"
+    },
+    "1911340": {
+      "appid": 1911340,
+      "name": "Dimakerus",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-21T14:10:20.135648"
     }
   }
 }
