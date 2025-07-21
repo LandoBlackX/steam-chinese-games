@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-21T07:11:45.027345"
+    "updated": "2025-07-21T07:46:33.881892"
   },
   "games": {
     "570": {
@@ -295554,6 +295554,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-21T07:03:11.261428"
+    },
+    "1191050": {
+      "appid": 1191050,
+      "name": "MotoTrials",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-21T07:38:22.880313"
+    },
+    "1880610": {
+      "appid": 1880610,
+      "name": "绝递必达",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-21T07:46:27.924380"
     }
   }
 }
