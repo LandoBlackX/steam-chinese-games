@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-21T14:10:27.429950"
+    "updated": "2025-07-21T14:42:37.762468"
   },
   "games": {
     "570": {
@@ -295610,6 +295610,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-21T14:10:20.135648"
+    },
+    "1914060": {
+      "appid": 1914060,
+      "name": "Super Mini Mart",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-21T14:42:30.925200"
     }
   }
 }
