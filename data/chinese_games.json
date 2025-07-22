@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-22T11:57:04.788404"
+    "updated": "2025-07-22T12:27:27.387431"
   },
   "games": {
     "570": {
@@ -295770,6 +295770,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-22T11:56:56.182921"
+    },
+    "2056200": {
+      "appid": 2056200,
+      "name": "总征程",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-22T12:27:16.770523"
     }
   }
 }
