@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-22T15:48:41.458869"
+    "updated": "2025-07-22T16:02:57.071375"
   },
   "games": {
     "570": {
@@ -295810,6 +295810,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-22T15:48:41.184591"
+    },
+    "2074740": {
+      "appid": 2074740,
+      "name": "Particle Hearts",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-22T16:02:54.283099"
     }
   }
 }
