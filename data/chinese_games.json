@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-22T10:29:44.644606"
+    "updated": "2025-07-22T11:30:58.858285"
   },
   "games": {
     "570": {
@@ -295754,6 +295754,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-22T10:29:39.112370"
+    },
+    "2026000": {
+      "appid": 2026000,
+      "name": "我们的冒险者公会",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-22T11:30:49.161295"
     }
   }
 }
