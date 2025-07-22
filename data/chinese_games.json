@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-22T05:38:09.430397"
+    "updated": "2025-07-22T06:57:08.510893"
   },
   "games": {
     "570": {
@@ -295698,6 +295698,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-22T05:38:07.009109"
+    },
+    "1996740": {
+      "appid": 1996740,
+      "name": "Dagger Woods VR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-22T06:57:04.717898"
     }
   }
 }
