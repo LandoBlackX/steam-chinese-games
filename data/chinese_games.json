@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-22T16:02:57.071375"
+    "updated": "2025-07-22T18:01:12.094728"
   },
   "games": {
     "570": {
@@ -295818,6 +295818,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-22T16:02:54.283099"
+    },
+    "2083940": {
+      "appid": 2083940,
+      "name": "DROSS",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-22T18:01:04.195849"
     }
   }
 }
