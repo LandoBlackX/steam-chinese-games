@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-21T22:15:40.284228"
+    "updated": "2025-07-22T02:15:18.595298"
   },
   "games": {
     "570": {
@@ -295658,6 +295658,30 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-21T22:15:15.650762"
+    },
+    "1979200": {
+      "appid": 1979200,
+      "name": "凡人之躯",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-22T02:15:08.959496"
+    },
+    "1979570": {
+      "appid": 1979570,
+      "name": "Tomomon: Legacy of Light",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-22T02:15:11.689617"
+    },
+    "1980360": {
+      "appid": 1980360,
+      "name": "Dark Front",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-22T02:15:15.304311"
     }
   }
 }
