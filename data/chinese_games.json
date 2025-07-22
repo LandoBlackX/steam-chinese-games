@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-22T10:01:19.546614"
+    "updated": "2025-07-22T10:29:44.644606"
   },
   "games": {
     "570": {
@@ -295746,6 +295746,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-22T10:01:17.217050"
+    },
+    "2019760": {
+      "appid": 2019760,
+      "name": "Necrophosis",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-22T10:29:39.112370"
     }
   }
 }
