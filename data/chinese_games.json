@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-22T07:44:52.143714"
+    "updated": "2025-07-22T08:52:46.484565"
   },
   "games": {
     "570": {
@@ -295722,6 +295722,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-22T07:44:44.187344"
+    },
+    "2008420": {
+      "appid": 2008420,
+      "name": "Flashback 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-22T08:52:38.419647"
     }
   }
 }
