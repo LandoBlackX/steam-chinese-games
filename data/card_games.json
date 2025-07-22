@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-22T21:44:03.384773"
+    "updated": "2025-07-22T22:54:56.932376"
   },
   "games": {
     "570": {
@@ -88130,6 +88130,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-07-22T19:02:14.336161"
+    },
+    "2115760": {
+      "appid": 2115760,
+      "name": "Oppidum",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-07-22T22:54:55.078203"
     }
   }
 }
