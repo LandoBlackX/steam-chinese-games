@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-22T20:26:05.025184"
+    "updated": "2025-07-22T21:44:03.384773"
   },
   "games": {
     "570": {
@@ -295874,6 +295874,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-22T20:21:29.899505"
+    },
+    "2106930": {
+      "appid": 2106930,
+      "name": "SOULHOT",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-22T21:44:01.318001"
     }
   }
 }
