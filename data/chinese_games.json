@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-22T07:21:04.898152"
+    "updated": "2025-07-22T07:44:52.143714"
   },
   "games": {
     "570": {
@@ -295714,6 +295714,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-22T07:21:04.654878"
+    },
+    "2000780": {
+      "appid": 2000780,
+      "name": "Mole Maiden",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-22T07:44:44.187344"
     }
   }
 }
