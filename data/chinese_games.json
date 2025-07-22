@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-22T20:00:31.854202"
+    "updated": "2025-07-22T20:26:05.025184"
   },
   "games": {
     "570": {
@@ -295866,6 +295866,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-22T20:00:31.442774"
+    },
+    "1307150": {
+      "appid": 1307150,
+      "name": "MLF: Pro Catch",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-22T20:21:29.899505"
     }
   }
 }
