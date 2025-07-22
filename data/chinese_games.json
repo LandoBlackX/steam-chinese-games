@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-22T13:55:58.249002"
+    "updated": "2025-07-22T15:48:41.458869"
   },
   "games": {
     "570": {
@@ -295786,6 +295786,30 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-22T13:51:44.573887"
+    },
+    "2071920": {
+      "appid": 2071920,
+      "name": "Woodlawn : The End of the World",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-22T15:48:33.458324"
+    },
+    "2072560": {
+      "appid": 2072560,
+      "name": "DRAGON BALL GEKISHIN SQUADRA",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-22T15:48:36.291929"
+    },
+    "2073450": {
+      "appid": 2073450,
+      "name": "A2C:Ayry 似乎在测试 Cci 的 2D 跑酷射击游戏",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-22T15:48:41.184591"
     }
   }
 }
