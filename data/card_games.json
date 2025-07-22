@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-22T12:27:27.387431"
+    "updated": "2025-07-22T13:15:40.775476"
   },
   "games": {
     "570": {
@@ -88114,6 +88114,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-07-22T03:48:41.774807"
+    },
+    "2058730": {
+      "appid": 2058730,
+      "name": "The Darkest Files",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-07-22T13:15:31.083459"
     }
   }
 }
