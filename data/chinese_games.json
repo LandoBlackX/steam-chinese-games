@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-22T22:54:56.932376"
+    "updated": "2025-07-22T23:05:02.658220"
   },
   "games": {
     "570": {
@@ -295882,6 +295882,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-22T21:44:01.318001"
+    },
+    "2117370": {
+      "appid": 2117370,
+      "name": "Mad World Survivors",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-22T23:04:59.075068"
     }
   }
 }
