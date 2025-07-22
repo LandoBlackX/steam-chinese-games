@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-22T02:15:18.595298"
+    "updated": "2025-07-22T03:48:43.075207"
   },
   "games": {
     "570": {
@@ -88106,6 +88106,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-07-21T08:32:17.842458"
+    },
+    "1982940": {
+      "appid": 1982940,
+      "name": "HeistGeist",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-07-22T03:48:41.774807"
     }
   }
 }

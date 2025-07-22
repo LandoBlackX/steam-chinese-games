@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-22T02:15:18.595298"
+    "updated": "2025-07-22T03:48:43.075207"
   },
   "games": {
     "570": {
@@ -295682,6 +295682,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-22T02:15:15.304311"
+    },
+    "1982120": {
+      "appid": 1982120,
+      "name": "Paper Animal Adventure",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-22T03:48:37.304576"
     }
   }
 }
