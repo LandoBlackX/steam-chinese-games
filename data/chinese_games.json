@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-22T23:05:02.658220"
+    "updated": "2025-07-22T23:33:49.378450"
   },
   "games": {
     "570": {
@@ -295890,6 +295890,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-22T23:04:59.075068"
+    },
+    "2120220": {
+      "appid": 2120220,
+      "name": "Kyubu Kyubu Dice",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-22T23:33:47.538760"
     }
   }
 }
