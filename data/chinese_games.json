@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-22T03:48:43.075207"
+    "updated": "2025-07-22T05:38:09.430397"
   },
   "games": {
     "570": {
@@ -295690,6 +295690,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-22T03:48:37.304576"
+    },
+    "1989720": {
+      "appid": 1989720,
+      "name": "Unpetrified: Echoes of Nature",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-22T05:38:07.009109"
     }
   }
 }
