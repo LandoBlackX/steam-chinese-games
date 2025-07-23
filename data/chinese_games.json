@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-23T07:45:56.078667"
+    "updated": "2025-07-23T08:54:21.259315"
   },
   "games": {
     "570": {
@@ -295938,6 +295938,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-23T07:45:55.302443"
+    },
+    "2150210": {
+      "appid": 2150210,
+      "name": "The Chronicles of Overlord",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-23T08:54:14.228742"
     }
   }
 }
