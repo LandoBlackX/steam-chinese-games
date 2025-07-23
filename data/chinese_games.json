@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-23T19:36:16.099377"
+    "updated": "2025-07-23T20:48:41.148507"
   },
   "games": {
     "570": {
@@ -296050,6 +296050,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-23T19:36:13.004093"
+    },
+    "2213700": {
+      "appid": 2213700,
+      "name": "罪托邦",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-23T20:48:33.271988"
+    },
+    "2214620": {
+      "appid": 2214620,
+      "name": "魔法师世界Re;Try",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-23T20:48:40.070033"
     }
   }
 }
