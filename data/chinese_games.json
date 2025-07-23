@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-23T09:19:56.670257"
+    "updated": "2025-07-23T15:07:31.996191"
   },
   "games": {
     "570": {
@@ -295954,6 +295954,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-23T09:15:14.069040"
+    },
+    "2183770": {
+      "appid": 2183770,
+      "name": "KICK MASTER",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-23T15:07:29.477303"
+    },
+    "2183780": {
+      "appid": 2183780,
+      "name": "ARCADE VS PLAYER",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-23T15:07:29.595628"
     }
   }
 }
