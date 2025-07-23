@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-22T23:33:49.378450"
+    "updated": "2025-07-23T00:00:51.578768"
   },
   "games": {
     "570": {
@@ -295898,6 +295898,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-22T23:33:47.538760"
+    },
+    "2122880": {
+      "appid": 2122880,
+      "name": "左左和右右：手拉手！",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-23T00:00:42.054589"
     }
   }
 }
