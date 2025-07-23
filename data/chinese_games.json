@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-23T08:54:21.259315"
+    "updated": "2025-07-23T09:19:56.670257"
   },
   "games": {
     "570": {
@@ -295946,6 +295946,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-23T08:54:14.228742"
+    },
+    "1342490": {
+      "appid": 1342490,
+      "name": "机甲战魔 神话之裔",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-23T09:15:14.069040"
     }
   }
 }
