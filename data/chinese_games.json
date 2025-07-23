@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-23T00:00:51.578768"
+    "updated": "2025-07-23T03:26:58.078439"
   },
   "games": {
     "570": {
@@ -295906,6 +295906,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-23T00:00:42.054589"
+    },
+    "2127340": {
+      "appid": 2127340,
+      "name": "DAWN ONE",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-23T03:26:52.090840"
     }
   }
 }
