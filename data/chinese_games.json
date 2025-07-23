@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-23T23:18:43.108428"
+    "updated": "2025-07-23T23:40:10.256787"
   },
   "games": {
     "570": {
@@ -296106,6 +296106,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-23T23:18:40.884473"
+    },
+    "1397440": {
+      "appid": 1397440,
+      "name": "EXOMECHA",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-23T23:34:53.662798"
     }
   }
 }
