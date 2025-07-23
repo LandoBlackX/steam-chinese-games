@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-23T21:27:35.852377"
+    "updated": "2025-07-23T21:45:35.038379"
   },
   "games": {
     "570": {
@@ -296074,6 +296074,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-23T21:27:33.085169"
+    },
+    "1387530": {
+      "appid": 1387530,
+      "name": "With my hpBar bugs",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-23T21:40:36.393110"
     }
   }
 }
