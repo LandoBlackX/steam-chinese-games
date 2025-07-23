@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-23T03:26:58.078439"
+    "updated": "2025-07-23T06:21:42.378864"
   },
   "games": {
     "570": {
@@ -295914,6 +295914,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-23T03:26:52.090840"
+    },
+    "2138360": {
+      "appid": 2138360,
+      "name": "Amerta",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-23T06:21:39.144878"
     }
   }
 }
