@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-23T06:56:58.647307"
+    "updated": "2025-07-23T07:45:56.078667"
   },
   "games": {
     "570": {
@@ -295930,6 +295930,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-23T06:56:47.391110"
+    },
+    "2144990": {
+      "appid": 2144990,
+      "name": "Bryce Tiles",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-23T07:45:55.302443"
     }
   }
 }
