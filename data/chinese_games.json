@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-23T22:58:35.836476"
+    "updated": "2025-07-23T23:18:43.108428"
   },
   "games": {
     "570": {
@@ -296090,6 +296090,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-23T22:58:29.377492"
+    },
+    "2229910": {
+      "appid": 2229910,
+      "name": "Demiurgos",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-23T23:18:34.234294"
+    },
+    "2231460": {
+      "appid": 2231460,
+      "name": "Roman Sands RE:Build",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-23T23:18:40.884473"
     }
   }
 }
