@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-23T15:07:31.996191"
+    "updated": "2025-07-23T16:22:34.045840"
   },
   "games": {
     "570": {
@@ -295970,6 +295970,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-23T15:07:29.595628"
+    },
+    "2189910": {
+      "appid": 2189910,
+      "name": "Mystic Forest",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-23T16:22:27.673234"
     }
   }
 }
