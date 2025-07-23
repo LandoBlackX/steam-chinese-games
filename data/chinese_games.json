@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-23T21:45:35.038379"
+    "updated": "2025-07-23T22:58:35.836476"
   },
   "games": {
     "570": {
@@ -296082,6 +296082,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-23T21:40:36.393110"
+    },
+    "2228280": {
+      "appid": 2228280,
+      "name": "MEMORIAPOLIS",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-23T22:58:29.377492"
     }
   }
 }
