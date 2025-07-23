@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-23T17:59:42.111228"
+    "updated": "2025-07-23T18:28:18.232811"
   },
   "games": {
     "570": {
@@ -296002,6 +296002,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-23T17:59:35.300543"
+    },
+    "1373460": {
+      "appid": 1373460,
+      "name": "王冠军团",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-23T18:23:35.118159"
+    },
+    "2199420": {
+      "appid": 2199420,
+      "name": "Brickadia",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-23T18:28:11.433552"
     }
   }
 }
