@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-23T16:54:32.579172"
+    "updated": "2025-07-23T17:17:38.610606"
   },
   "games": {
     "570": {
@@ -295986,6 +295986,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-23T16:54:25.550315"
+    },
+    "2194880": {
+      "appid": 2194880,
+      "name": "Ferromon Together",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-23T17:17:36.783589"
     }
   }
 }
