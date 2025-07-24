@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-24T17:20:42.897411"
+    "updated": "2025-07-24T19:51:02.561237"
   },
   "games": {
     "570": {
@@ -296290,6 +296290,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-24T17:20:37.189244"
+    },
+    "1454370": {
+      "appid": 1454370,
+      "name": "STARSEEKER: Astroneer Expeditions",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-24T19:45:14.550882"
+    },
+    "2317320": {
+      "appid": 2317320,
+      "name": "Orb Devils",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-24T19:50:43.161956"
     }
   }
 }
