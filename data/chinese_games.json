@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-24T06:30:36.083762"
+    "updated": "2025-07-24T07:48:21.231059"
   },
   "games": {
     "570": {
@@ -296130,6 +296130,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-24T06:30:33.988988"
+    },
+    "2257590": {
+      "appid": 2257590,
+      "name": "异星特工X",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-24T07:48:19.089553"
     }
   }
 }
