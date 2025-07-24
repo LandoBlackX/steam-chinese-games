@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-24T15:04:17.912736"
+    "updated": "2025-07-24T16:03:42.970964"
   },
   "games": {
     "570": {
@@ -296250,6 +296250,38 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-24T15:04:09.688595"
+    },
+    "2297150": {
+      "appid": 2297150,
+      "name": "Taxi Driver Simulator: Car Parking",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-24T16:03:34.279343"
+    },
+    "2297650": {
+      "appid": 2297650,
+      "name": "Re:Fresh",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-07-24T16:03:36.601216"
+    },
+    "2298630": {
+      "appid": 2298630,
+      "name": "E30 Drift Car Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-24T16:03:40.082083"
+    },
+    "2298690": {
+      "appid": 2298690,
+      "name": "Realpolitiks 3: Earth and Beyond",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-24T16:03:40.470236"
     }
   }
 }
