@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-24T08:27:57.326520"
+    "updated": "2025-07-24T08:55:44.029719"
   },
   "games": {
     "570": {
@@ -296154,6 +296154,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-24T08:27:54.025175"
+    },
+    "2262960": {
+      "appid": 2262960,
+      "name": "Artur's Pinball",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-24T08:55:38.889818"
     }
   }
 }
