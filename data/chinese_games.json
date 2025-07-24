@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-24T16:03:42.970964"
+    "updated": "2025-07-24T17:20:42.897411"
   },
   "games": {
     "570": {
@@ -296282,6 +296282,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-24T16:03:40.470236"
+    },
+    "2303560": {
+      "appid": 2303560,
+      "name": "Best Pearl",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-24T17:20:37.189244"
     }
   }
 }
