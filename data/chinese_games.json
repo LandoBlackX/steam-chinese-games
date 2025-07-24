@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-24T14:49:04.012718"
+    "updated": "2025-07-24T15:04:17.912736"
   },
   "games": {
     "570": {
@@ -296242,6 +296242,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-24T14:48:59.634689"
+    },
+    "2291490": {
+      "appid": 2291490,
+      "name": "City Ambulance Car Driving",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-24T15:04:09.688595"
     }
   }
 }
