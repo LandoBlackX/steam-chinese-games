@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-24T21:23:50.335341"
+    "updated": "2025-07-24T21:53:46.284371"
   },
   "games": {
     "570": {
@@ -296322,6 +296322,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-24T21:23:44.571158"
+    },
+    "2330720": {
+      "appid": 2330720,
+      "name": "ChipWits",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-24T21:53:43.589876"
     }
   }
 }
