@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-24T08:55:44.029719"
+    "updated": "2025-07-24T10:28:47.897795"
   },
   "games": {
     "570": {
@@ -296162,6 +296162,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-24T08:55:38.889818"
+    },
+    "2271150": {
+      "appid": 2271150,
+      "name": "Loya",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-24T10:28:47.896376"
     }
   }
 }
