@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-23T23:40:10.256787"
+    "updated": "2025-07-24T05:41:32.537063"
   },
   "games": {
     "570": {
@@ -88138,6 +88138,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-07-22T22:54:55.078203"
+    },
+    "2246470": {
+      "appid": 2246470,
+      "name": "Kulebra and the Souls of Limbo",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-07-24T05:41:25.710419"
     }
   }
 }

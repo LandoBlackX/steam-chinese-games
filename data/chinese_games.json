@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-23T23:40:10.256787"
+    "updated": "2025-07-24T05:41:32.537063"
   },
   "games": {
     "570": {
@@ -296114,6 +296114,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-23T23:34:53.662798"
+    },
+    "2247510": {
+      "appid": 2247510,
+      "name": "Snowbrawll",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-24T05:41:31.770494"
     }
   }
 }
