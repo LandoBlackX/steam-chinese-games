@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-24T11:32:32.438275"
+    "updated": "2025-07-24T11:47:43.891268"
   },
   "games": {
     "570": {
@@ -296178,6 +296178,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-24T11:05:51.345046"
+    },
+    "2276980": {
+      "appid": 2276980,
+      "name": "面容采集者 (FACEMINER) ",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-07-24T11:47:35.618677"
+    },
+    "2277600": {
+      "appid": 2277600,
+      "name": "Grabe4x4",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-24T11:47:38.145397"
     }
   }
 }
