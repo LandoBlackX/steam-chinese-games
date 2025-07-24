@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-24T14:18:24.267663"
+    "updated": "2025-07-24T14:49:04.012718"
   },
   "games": {
     "570": {
@@ -296234,6 +296234,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-24T14:18:16.525546"
+    },
+    "2290140": {
+      "appid": 2290140,
+      "name": "Subway Outbreak",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-24T14:48:59.634689"
     }
   }
 }
