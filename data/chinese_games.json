@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-24T22:30:15.837684"
+    "updated": "2025-07-24T23:04:29.534131"
   },
   "games": {
     "570": {
@@ -296338,6 +296338,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-24T22:30:15.544292"
+    },
+    "2337860": {
+      "appid": 2337860,
+      "name": "呆呆大乱斗",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-24T23:04:23.025389"
     }
   }
 }
