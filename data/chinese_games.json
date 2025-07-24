@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-24T20:24:02.308981"
+    "updated": "2025-07-24T21:23:50.335341"
   },
   "games": {
     "570": {
@@ -296314,6 +296314,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-24T20:23:59.691249"
+    },
+    "2327140": {
+      "appid": 2327140,
+      "name": "Daemonium",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-24T21:23:44.571158"
     }
   }
 }
