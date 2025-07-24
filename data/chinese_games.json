@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-24T11:47:43.891268"
+    "updated": "2025-07-24T12:27:26.279103"
   },
   "games": {
     "570": {
@@ -296194,6 +296194,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-24T11:47:38.145397"
+    },
+    "2282790": {
+      "appid": 2282790,
+      "name": "RIFTSTORM",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-24T12:27:25.710852"
     }
   }
 }
