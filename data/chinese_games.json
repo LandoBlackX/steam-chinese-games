@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-24T07:48:21.231059"
+    "updated": "2025-07-24T08:27:57.326520"
   },
   "games": {
     "570": {
@@ -296138,6 +296138,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-24T07:48:19.089553"
+    },
+    "1417380": {
+      "appid": 1417380,
+      "name": "大胆的想法",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-24T08:22:24.427080"
+    },
+    "2261430": {
+      "appid": 2261430,
+      "name": "LumenTale: Memories of Trey",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-24T08:27:54.025175"
     }
   }
 }
