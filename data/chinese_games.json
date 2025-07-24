@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-24T13:16:20.018396"
+    "updated": "2025-07-24T14:18:24.267663"
   },
   "games": {
     "570": {
@@ -296218,6 +296218,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-24T13:16:11.648646"
+    },
+    "2286580": {
+      "appid": 2286580,
+      "name": "Deer Crusade",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-24T14:18:13.656508"
+    },
+    "2287060": {
+      "appid": 2287060,
+      "name": "Extreme Car Drift Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-24T14:18:16.525546"
     }
   }
 }
