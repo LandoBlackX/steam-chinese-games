@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-24T23:30:49.738119"
+    "updated": "2025-07-24T23:59:41.419528"
   },
   "games": {
     "570": {
@@ -296354,6 +296354,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-24T23:30:46.898098"
+    },
+    "2343900": {
+      "appid": 2343900,
+      "name": "Project Werewulf",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-24T23:59:40.272614"
     }
   }
 }
