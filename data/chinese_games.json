@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-24T21:53:46.284371"
+    "updated": "2025-07-24T22:30:15.837684"
   },
   "games": {
     "570": {
@@ -296330,6 +296330,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-24T21:53:43.589876"
+    },
+    "2335060": {
+      "appid": 2335060,
+      "name": "Ra Ra BOOM",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-24T22:30:15.544292"
     }
   }
 }
