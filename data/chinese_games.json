@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-24T10:28:47.897795"
+    "updated": "2025-07-24T11:05:53.586952"
   },
   "games": {
     "570": {
@@ -296170,6 +296170,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-24T10:28:47.896376"
+    },
+    "2274860": {
+      "appid": 2274860,
+      "name": "Bus Simulator: Car Driving",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-24T11:05:51.345046"
     }
   }
 }
