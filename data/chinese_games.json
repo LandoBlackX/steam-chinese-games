@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-25T23:46:02.033062"
+    "updated": "2025-07-25T23:58:47.841410"
   },
   "games": {
     "570": {
@@ -296650,6 +296650,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-25T23:45:59.889388"
+    },
+    "2441910": {
+      "appid": 2441910,
+      "name": "Jump To Success",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-25T23:58:47.839120"
     }
   }
 }
