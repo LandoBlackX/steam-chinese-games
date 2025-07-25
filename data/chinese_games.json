@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-25T05:54:56.748402"
+    "updated": "2025-07-25T07:10:01.878684"
   },
   "games": {
     "570": {
@@ -296402,6 +296402,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-25T05:54:52.866951"
+    },
+    "2359120": {
+      "appid": 2359120,
+      "name": "Consume Me",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-25T07:09:52.852891"
     }
   }
 }
