@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-25T14:23:34.912243"
+    "updated": "2025-07-25T16:03:13.162066"
   },
   "games": {
     "570": {
@@ -296450,6 +296450,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-25T14:23:34.371149"
+    },
+    "2400550": {
+      "appid": 2400550,
+      "name": "Neighborhood",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-25T16:03:06.769024"
+    },
+    "2400760": {
+      "appid": 2400760,
+      "name": "Bike Offroad Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-25T16:03:07.808157"
     }
   }
 }
