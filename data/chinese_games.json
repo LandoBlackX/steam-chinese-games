@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-25T12:03:43.774914"
+    "updated": "2025-07-25T13:33:46.025606"
   },
   "games": {
     "570": {
@@ -296434,6 +296434,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-25T12:03:43.773320"
+    },
+    "2387460": {
+      "appid": 2387460,
+      "name": "Aureole - Wings of Hope",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-25T13:33:40.457214"
     }
   }
 }
