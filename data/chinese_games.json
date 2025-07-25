@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-25T19:59:22.584708"
+    "updated": "2025-07-25T20:09:33.640416"
   },
   "games": {
     "570": {
@@ -296546,6 +296546,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-25T19:59:19.944139"
+    },
+    "1538550": {
+      "appid": 1538550,
+      "name": "LEGO® Voyagers",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-25T20:02:49.429094"
     }
   }
 }
