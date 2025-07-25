@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-25T22:49:36.344963"
+    "updated": "2025-07-25T23:03:40.830265"
   },
   "games": {
     "570": {
@@ -296634,6 +296634,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-25T22:49:33.422182"
+    },
+    "1551980": {
+      "appid": 1551980,
+      "name": "Clive Barker's Hellraiser: Revival",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-25T22:56:55.647492"
     }
   }
 }
