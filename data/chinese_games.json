@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-25T04:11:17.802852"
+    "updated": "2025-07-25T05:24:30.088327"
   },
   "games": {
     "570": {
@@ -296386,6 +296386,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-25T04:11:04.475505"
+    },
+    "2351700": {
+      "appid": 2351700,
+      "name": "The Gun is Good",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-25T05:24:22.524066"
     }
   }
 }
