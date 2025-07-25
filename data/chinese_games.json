@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-25T20:58:29.200164"
+    "updated": "2025-07-25T21:35:59.345570"
   },
   "games": {
     "570": {
@@ -296570,6 +296570,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-25T20:58:23.144285"
+    },
+    "2427790": {
+      "appid": 2427790,
+      "name": "Goldilock One: The Mists of Jakaira",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-25T21:35:53.615172"
     }
   }
 }
