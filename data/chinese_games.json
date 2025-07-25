@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-25T05:24:30.088327"
+    "updated": "2025-07-25T05:54:56.748402"
   },
   "games": {
     "570": {
@@ -296394,6 +296394,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-25T05:24:22.524066"
+    },
+    "2354640": {
+      "appid": 2354640,
+      "name": "DIESELDOME：油与血",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-25T05:54:52.866951"
     }
   }
 }
