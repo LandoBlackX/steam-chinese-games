@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-25T21:52:26.956337"
+    "updated": "2025-07-25T22:02:28.455273"
   },
   "games": {
     "570": {
@@ -296586,6 +296586,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-25T21:52:18.513277"
+    },
+    "2431390": {
+      "appid": 2431390,
+      "name": "MagicArchitect",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-25T22:02:23.027841"
+    },
+    "2432230": {
+      "appid": 2432230,
+      "name": "Glitter Justice",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-25T22:02:27.261101"
     }
   }
 }
