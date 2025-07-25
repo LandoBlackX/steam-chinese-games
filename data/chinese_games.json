@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-25T16:03:13.162066"
+    "updated": "2025-07-25T16:32:56.340112"
   },
   "games": {
     "570": {
@@ -296466,6 +296466,30 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-25T16:03:07.808157"
+    },
+    "2402680": {
+      "appid": 2402680,
+      "name": "Dimraeth",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-25T16:32:50.971661"
+    },
+    "2403550": {
+      "appid": 2403550,
+      "name": "Where is My Son?",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-25T16:32:53.937708"
+    },
+    "2403600": {
+      "appid": 2403600,
+      "name": "Jamboy, a Jelly-cious Hero",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-25T16:32:54.438549"
     }
   }
 }
