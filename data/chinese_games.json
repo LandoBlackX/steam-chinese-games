@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-25T20:09:33.640416"
+    "updated": "2025-07-25T20:58:29.200164"
   },
   "games": {
     "570": {
@@ -296554,6 +296554,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-25T20:02:49.429094"
+    },
+    "2424010": {
+      "appid": 2424010,
+      "name": "Parcel Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-25T20:58:21.084114"
+    },
+    "2424480": {
+      "appid": 2424480,
+      "name": "No Heroes Here 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-25T20:58:23.144285"
     }
   }
 }
