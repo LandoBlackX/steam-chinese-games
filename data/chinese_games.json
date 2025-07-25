@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-25T16:32:56.340112"
+    "updated": "2025-07-25T17:46:02.496334"
   },
   "games": {
     "570": {
@@ -296490,6 +296490,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-25T16:32:54.438549"
+    },
+    "1526550": {
+      "appid": 1526550,
+      "name": "Project Microchip",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-25T17:39:38.347437"
+    },
+    "2408460": {
+      "appid": 2408460,
+      "name": "Project Arrow",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-25T17:45:59.963547"
     }
   }
 }
