@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-25T17:46:02.496334"
+    "updated": "2025-07-25T17:59:31.015121"
   },
   "games": {
     "570": {
@@ -296506,6 +296506,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-25T17:45:59.963547"
+    },
+    "2410030": {
+      "appid": 2410030,
+      "name": "Vinebound: Tangled Together",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-25T17:59:28.362808"
     }
   }
 }
