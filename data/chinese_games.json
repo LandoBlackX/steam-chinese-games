@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-25T19:10:19.568778"
+    "updated": "2025-07-25T19:59:22.584708"
   },
   "games": {
     "570": {
@@ -296530,6 +296530,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-25T19:10:18.022360"
+    },
+    "2419010": {
+      "appid": 2419010,
+      "name": "Backrooms: Wit's End",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-25T19:59:06.446501"
+    },
+    "2419670": {
+      "appid": 2419670,
+      "name": "蚀之境 Eclipsium",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-25T19:59:19.944139"
     }
   }
 }
