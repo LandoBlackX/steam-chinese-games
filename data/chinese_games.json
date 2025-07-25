@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-25T13:33:46.025606"
+    "updated": "2025-07-25T14:23:34.912243"
   },
   "games": {
     "570": {
@@ -296442,6 +296442,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-25T13:33:40.457214"
+    },
+    "2392280": {
+      "appid": 2392280,
+      "name": "TDS - Tower Defense Strategy",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-25T14:23:34.371149"
     }
   }
 }
