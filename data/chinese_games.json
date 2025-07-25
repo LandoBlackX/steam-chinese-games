@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-25T10:06:10.784883"
+    "updated": "2025-07-25T12:03:43.774914"
   },
   "games": {
     "570": {
@@ -296426,6 +296426,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-25T10:06:06.633626"
+    },
+    "2385280": {
+      "appid": 2385280,
+      "name": "PALM BLOCKS",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-25T12:03:43.773320"
     }
   }
 }
