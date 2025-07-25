@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-25T21:35:59.345570"
+    "updated": "2025-07-25T21:52:26.956337"
   },
   "games": {
     "570": {
@@ -296578,6 +296578,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-25T21:35:53.615172"
+    },
+    "2429530": {
+      "appid": 2429530,
+      "name": "Crystal Tower Defense",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-25T21:52:18.513277"
     }
   }
 }
