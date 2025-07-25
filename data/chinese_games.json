@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-25T17:59:31.015121"
+    "updated": "2025-07-25T18:23:09.209314"
   },
   "games": {
     "570": {
@@ -296514,6 +296514,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-25T17:59:28.362808"
+    },
+    "2411250": {
+      "appid": 2411250,
+      "name": "The Warrior",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-25T18:23:04.541037"
     }
   }
 }
