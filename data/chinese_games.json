@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-25T22:24:21.379446"
+    "updated": "2025-07-25T22:49:36.344963"
   },
   "games": {
     "570": {
@@ -296626,6 +296626,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-25T22:24:21.083366"
+    },
+    "2434600": {
+      "appid": 2434600,
+      "name": "ShantyTown",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-25T22:49:33.422182"
     }
   }
 }
