@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-25T23:58:47.841410"
+    "updated": "2025-07-26T00:08:59.730076"
   },
   "games": {
     "570": {
@@ -296658,6 +296658,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-25T23:58:47.839120"
+    },
+    "2442530": {
+      "appid": 2442530,
+      "name": "Shards of Her",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-07-26T00:08:55.142239"
     }
   }
 }
