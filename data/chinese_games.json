@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-26T08:38:45.548634"
+    "updated": "2025-07-26T08:59:51.989068"
   },
   "games": {
     "570": {
@@ -296762,6 +296762,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-26T08:38:40.883102"
+    },
+    "2470010": {
+      "appid": 2470010,
+      "name": "DEFECT",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-26T08:59:47.241054"
     }
   }
 }
