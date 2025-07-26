@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-26T08:05:45.135130"
+    "updated": "2025-07-26T08:38:45.548634"
   },
   "games": {
     "570": {
@@ -296746,6 +296746,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-26T08:05:38.773071"
+    },
+    "2468100": {
+      "appid": 2468100,
+      "name": "庇山奇谭",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-26T08:38:39.694898"
+    },
+    "2468430": {
+      "appid": 2468430,
+      "name": "Frogreign",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-26T08:38:40.883102"
     }
   }
 }
