@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-26T09:19:05.105375"
+    "updated": "2025-07-26T09:41:33.931106"
   },
   "games": {
     "570": {
@@ -88178,6 +88178,14 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-07-26T00:08:55.142239"
+    },
+    "2473260": {
+      "appid": 2473260,
+      "name": "Claymores of the Lost Kingdom",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-07-26T09:41:27.851097"
     }
   }
 }
