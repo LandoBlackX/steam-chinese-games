@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-26T21:01:37.690364"
+    "updated": "2025-07-26T23:02:31.128029"
   },
   "games": {
     "570": {
@@ -296986,6 +296986,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-26T21:01:35.145574"
+    },
+    "2542140": {
+      "appid": 2542140,
+      "name": "暗黑战甲",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-26T23:02:24.990557"
+    },
+    "2543560": {
+      "appid": 2543560,
+      "name": "Technocide",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-26T23:02:30.733529"
     }
   }
 }
