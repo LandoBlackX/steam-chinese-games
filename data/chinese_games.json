@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-26T07:44:10.153239"
+    "updated": "2025-07-26T08:05:45.135130"
   },
   "games": {
     "570": {
@@ -296738,6 +296738,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-26T07:44:09.528113"
+    },
+    "2466130": {
+      "appid": 2466130,
+      "name": "Bonnie Bear Saves Frogtime",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-26T08:05:38.773071"
     }
   }
 }
