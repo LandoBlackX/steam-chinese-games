@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-26T19:43:23.893060"
+    "updated": "2025-07-26T19:54:33.530220"
   },
   "games": {
     "570": {
@@ -296970,6 +296970,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-26T19:43:23.407144"
+    },
+    "2526310": {
+      "appid": 2526310,
+      "name": "熊视眈眈 (Out of Sight)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-26T19:54:30.800219"
     }
   }
 }
