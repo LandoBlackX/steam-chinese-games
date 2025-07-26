@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-26T15:02:16.946815"
+    "updated": "2025-07-26T15:22:38.277711"
   },
   "games": {
     "570": {
@@ -296914,6 +296914,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-26T15:02:15.862611"
+    },
+    "2503230": {
+      "appid": 2503230,
+      "name": "Bogdan's Cross",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-26T15:22:33.900843"
+    },
+    "2504250": {
+      "appid": 2504250,
+      "name": "Telebbit",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-26T15:22:38.276249"
     }
   }
 }
