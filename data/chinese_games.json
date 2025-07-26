@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-26T19:54:33.530220"
+    "updated": "2025-07-26T21:01:37.690364"
   },
   "games": {
     "570": {
@@ -296978,6 +296978,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-26T19:54:30.800219"
+    },
+    "2532770": {
+      "appid": 2532770,
+      "name": "暮色龙裔：德拉奎尔崛起",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-26T21:01:35.145574"
     }
   }
 }
