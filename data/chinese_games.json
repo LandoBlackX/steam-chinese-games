@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-26T00:08:59.730076"
+    "updated": "2025-07-26T02:30:00.633658"
   },
   "games": {
     "570": {
@@ -296666,6 +296666,14 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-07-26T00:08:55.142239"
+    },
+    "1558800": {
+      "appid": 1558800,
+      "name": "Forgot",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-26T02:23:14.421829"
     }
   }
 }
