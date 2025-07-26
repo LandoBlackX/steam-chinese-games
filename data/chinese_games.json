@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-26T10:53:38.260322"
+    "updated": "2025-07-26T11:04:19.864814"
   },
   "games": {
     "570": {
@@ -296810,6 +296810,30 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-26T10:53:32.515300"
+    },
+    "2482110": {
+      "appid": 2482110,
+      "name": "Rogue Mech",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-26T11:04:16.680011"
+    },
+    "2482190": {
+      "appid": 2482190,
+      "name": "Power Fantasy",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-26T11:04:16.958082"
+    },
+    "2482850": {
+      "appid": 2482850,
+      "name": "POLARIS™ - 北极星™",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-26T11:04:18.962416"
     }
   }
 }
