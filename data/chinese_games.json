@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-26T14:30:12.913719"
+    "updated": "2025-07-26T15:02:16.946815"
   },
   "games": {
     "570": {
@@ -296906,6 +296906,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-26T14:29:57.076760"
+    },
+    "2501820": {
+      "appid": 2501820,
+      "name": "Nothing Left: Give Up",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-26T15:02:15.862611"
     }
   }
 }
