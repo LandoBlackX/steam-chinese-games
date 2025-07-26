@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-26T10:33:25.410467"
+    "updated": "2025-07-26T10:53:38.260322"
   },
   "games": {
     "570": {
@@ -88186,6 +88186,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-07-26T09:41:27.851097"
+    },
+    "2480560": {
+      "appid": 2480560,
+      "name": "Geneforge 2 - Infestation",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-07-26T10:53:34.989388"
     }
   }
 }

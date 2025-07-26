@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-26T10:33:25.410467"
+    "updated": "2025-07-26T10:53:38.260322"
   },
   "games": {
     "570": {
@@ -296794,6 +296794,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-26T10:33:22.246331"
+    },
+    "2479630": {
+      "appid": 2479630,
+      "name": "My Lord Is Hiring",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-26T10:53:32.074953"
+    },
+    "2479810": {
+      "appid": 2479810,
+      "name": "灰区战争",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-26T10:53:32.515300"
     }
   }
 }
