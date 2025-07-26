@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-26T09:41:33.931106"
+    "updated": "2025-07-26T10:06:01.832688"
   },
   "games": {
     "570": {
@@ -296778,6 +296778,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-26T09:18:56.832258"
+    },
+    "2477090": {
+      "appid": 2477090,
+      "name": "蒙莎丽娜 Mosa Lina",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-26T10:05:56.797101"
     }
   }
 }
