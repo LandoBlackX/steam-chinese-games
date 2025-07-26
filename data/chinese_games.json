@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-26T11:53:42.158067"
+    "updated": "2025-07-26T13:54:20.004494"
   },
   "games": {
     "570": {
@@ -296858,6 +296858,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-26T11:53:41.981169"
+    },
+    "1597600": {
+      "appid": 1597600,
+      "name": "墨笔斗妖传",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-26T13:47:22.195636"
     }
   }
 }
