@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-26T08:59:51.989068"
+    "updated": "2025-07-26T09:19:05.105375"
   },
   "games": {
     "570": {
@@ -296770,6 +296770,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-26T08:59:47.241054"
+    },
+    "2471390": {
+      "appid": 2471390,
+      "name": "血涌不息",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-26T09:18:56.832258"
     }
   }
 }
