@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-26T16:20:07.487803"
+    "updated": "2025-07-26T17:06:15.793827"
   },
   "games": {
     "570": {
@@ -88210,6 +88210,14 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-07-26T14:05:33.362307"
+    },
+    "2511310": {
+      "appid": 2511310,
+      "name": "Pro Cycling Manager 25",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-07-26T17:06:10.962446"
     }
   }
 }
