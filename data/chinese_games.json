@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-26T02:30:00.633658"
+    "updated": "2025-07-26T05:03:26.896033"
   },
   "games": {
     "570": {
@@ -296674,6 +296674,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-26T02:23:14.421829"
+    },
+    "1562690": {
+      "appid": 1562690,
+      "name": "翌日 -鬼字之屋-",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-26T04:56:34.835298"
+    },
+    "2450290": {
+      "appid": 2450290,
+      "name": "Considerable Grandfather",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-26T05:03:26.016764"
     }
   }
 }
