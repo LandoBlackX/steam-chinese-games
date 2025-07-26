@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-26T05:03:26.896033"
+    "updated": "2025-07-26T05:29:10.855500"
   },
   "games": {
     "570": {
@@ -296690,6 +296690,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-26T05:03:26.016764"
+    },
+    "2450840": {
+      "appid": 2450840,
+      "name": "Detective Dotson",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-26T05:29:05.445795"
     }
   }
 }
