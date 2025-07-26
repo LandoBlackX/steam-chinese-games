@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-26T11:25:45.672916"
+    "updated": "2025-07-26T11:53:42.158067"
   },
   "games": {
     "570": {
@@ -296842,6 +296842,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-26T11:25:41.158805"
+    },
+    "2487640": {
+      "appid": 2487640,
+      "name": "A NOT Troll Game",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-26T11:53:38.612670"
+    },
+    "2488300": {
+      "appid": 2488300,
+      "name": "Assault Suit Leynos 2 Saturn Tribute",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-26T11:53:41.981169"
     }
   }
 }
