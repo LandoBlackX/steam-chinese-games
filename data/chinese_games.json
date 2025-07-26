@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-26T23:23:43.633624"
+    "updated": "2025-07-26T23:57:05.331530"
   },
   "games": {
     "570": {
@@ -297010,6 +297010,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-26T23:23:42.472701"
+    },
+    "2547320": {
+      "appid": 2547320,
+      "name": "Evolit",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-26T23:56:57.575471"
     }
   }
 }
