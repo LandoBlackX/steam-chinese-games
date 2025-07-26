@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-26T07:03:37.710082"
+    "updated": "2025-07-26T07:26:47.437064"
   },
   "games": {
     "570": {
@@ -296714,6 +296714,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-26T07:03:29.868664"
+    },
+    "2461990": {
+      "appid": 2461990,
+      "name": "Tales of Maana: Lucy",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-26T07:26:47.287093"
     }
   }
 }
