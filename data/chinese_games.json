@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-26T14:05:44.880456"
+    "updated": "2025-07-26T14:30:12.913719"
   },
   "games": {
     "570": {
@@ -296890,6 +296890,22 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-07-26T14:05:33.362307"
+    },
+    "2497070": {
+      "appid": 2497070,
+      "name": "Cosmic Coop",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-26T14:29:56.665728"
+    },
+    "2497150": {
+      "appid": 2497150,
+      "name": "流亡之向云端",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-26T14:29:57.076760"
     }
   }
 }
