@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-26T11:04:19.864814"
+    "updated": "2025-07-26T11:25:45.672916"
   },
   "games": {
     "570": {
@@ -88194,6 +88194,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-07-26T10:53:34.989388"
+    },
+    "2483850": {
+      "appid": 2483850,
+      "name": "Lord Goblin",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-07-26T11:25:41.581505"
     }
   }
 }

@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-26T11:04:19.864814"
+    "updated": "2025-07-26T11:25:45.672916"
   },
   "games": {
     "570": {
@@ -296834,6 +296834,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-26T11:04:18.962416"
+    },
+    "2483700": {
+      "appid": 2483700,
+      "name": "哈玛雷特",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-26T11:25:41.158805"
     }
   }
 }
