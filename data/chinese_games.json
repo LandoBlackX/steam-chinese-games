@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-26T10:06:01.832688"
+    "updated": "2025-07-26T10:33:25.410467"
   },
   "games": {
     "570": {
@@ -296786,6 +296786,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-26T10:05:56.797101"
+    },
+    "2478860": {
+      "appid": 2478860,
+      "name": "Hatone",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-26T10:33:22.246331"
     }
   }
 }
