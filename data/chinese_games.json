@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-26T13:54:20.004494"
+    "updated": "2025-07-26T14:05:44.880456"
   },
   "games": {
     "570": {
@@ -296866,6 +296866,30 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-26T13:47:22.195636"
+    },
+    "1598230": {
+      "appid": 1598230,
+      "name": "欺杀旅社",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-26T13:58:37.529832"
+    },
+    "2495730": {
+      "appid": 2495730,
+      "name": "Provoron",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-26T14:05:30.712819"
+    },
+    "2496180": {
+      "appid": 2496180,
+      "name": "Ghost Town",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-07-26T14:05:33.362307"
     }
   }
 }

@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-26T13:54:20.004494"
+    "updated": "2025-07-26T14:05:44.880456"
   },
   "games": {
     "570": {
@@ -88202,6 +88202,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-07-26T11:25:41.581505"
+    },
+    "2496180": {
+      "appid": 2496180,
+      "name": "Ghost Town",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-07-26T14:05:33.362307"
     }
   }
 }
