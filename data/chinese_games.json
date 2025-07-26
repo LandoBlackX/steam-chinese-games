@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-26T18:01:34.413540"
+    "updated": "2025-07-26T19:43:23.893060"
   },
   "games": {
     "570": {
@@ -296954,6 +296954,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-26T18:01:30.338887"
+    },
+    "2523890": {
+      "appid": 2523890,
+      "name": "无目低语",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-26T19:43:18.274369"
+    },
+    "2525300": {
+      "appid": 2525300,
+      "name": "Bahamut and the Waqwaq Tree",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-26T19:43:23.407144"
     }
   }
 }
