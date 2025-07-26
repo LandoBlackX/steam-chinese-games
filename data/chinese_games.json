@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-26T17:06:15.793827"
+    "updated": "2025-07-26T17:31:31.093514"
   },
   "games": {
     "570": {
@@ -296938,6 +296938,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-26T16:12:33.560423"
+    },
+    "2513270": {
+      "appid": 2513270,
+      "name": "UVSU",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-26T17:31:28.502690"
     }
   }
 }
