@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-26T23:02:31.128029"
+    "updated": "2025-07-26T23:23:43.633624"
   },
   "games": {
     "570": {
@@ -297002,6 +297002,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-26T23:02:30.733529"
+    },
+    "2545010": {
+      "appid": 2545010,
+      "name": "New Perspective",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-26T23:23:42.472701"
     }
   }
 }
