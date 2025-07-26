@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-26T07:26:47.437064"
+    "updated": "2025-07-26T07:44:10.153239"
   },
   "games": {
     "570": {
@@ -296722,6 +296722,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-26T07:26:47.287093"
+    },
+    "1572090": {
+      "appid": 1572090,
+      "name": "Paper dance Engine",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-26T07:37:39.661117"
+    },
+    "2463480": {
+      "appid": 2463480,
+      "name": "Alaric's Quest",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-26T07:44:09.528113"
     }
   }
 }
