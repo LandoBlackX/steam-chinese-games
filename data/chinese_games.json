@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-27T12:07:23.838858"
+    "updated": "2025-07-27T12:59:59.678393"
   },
   "games": {
     "570": {
@@ -297090,6 +297090,38 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-27T11:32:48.129366"
+    },
+    "2582960": {
+      "appid": 2582960,
+      "name": "纳克园: 最后的乐园",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-27T12:59:52.780466"
+    },
+    "2583530": {
+      "appid": 2583530,
+      "name": "Lost Infinity",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-27T12:59:54.154549"
+    },
+    "2583570": {
+      "appid": 2583570,
+      "name": "Line Bender",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-27T12:59:54.411889"
+    },
+    "2583660": {
+      "appid": 2583660,
+      "name": "Fractured Alliance",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-27T12:59:54.994402"
     }
   }
 }
