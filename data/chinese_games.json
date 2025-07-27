@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-27T18:48:09.278215"
+    "updated": "2025-07-27T19:42:26.065380"
   },
   "games": {
     "570": {
@@ -297178,6 +297178,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-27T18:48:04.164124"
+    },
+    "2610650": {
+      "appid": 2610650,
+      "name": "暴走甜心！",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-27T19:42:25.938866"
     }
   }
 }
