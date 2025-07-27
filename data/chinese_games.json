@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-27T15:21:05.742223"
+    "updated": "2025-07-27T17:43:44.941607"
   },
   "games": {
     "570": {
@@ -297154,6 +297154,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-27T15:21:04.477109"
+    },
+    "2602230": {
+      "appid": 2602230,
+      "name": "径迹回响",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-27T17:43:42.570460"
     }
   }
 }
