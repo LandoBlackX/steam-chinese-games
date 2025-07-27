@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-27T09:02:09.649493"
+    "updated": "2025-07-27T09:45:02.918610"
   },
   "games": {
     "570": {
@@ -297058,6 +297058,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-27T09:02:05.329495"
+    },
+    "1664520": {
+      "appid": 1664520,
+      "name": "多肉工作室",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-27T09:37:39.291395"
     }
   }
 }
