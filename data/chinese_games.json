@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-27T19:42:26.065380"
+    "updated": "2025-07-27T20:50:10.817098"
   },
   "games": {
     "570": {
@@ -297186,6 +297186,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-27T19:42:25.938866"
+    },
+    "2615150": {
+      "appid": 2615150,
+      "name": "Hyper Tanks",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-27T20:50:09.064185"
     }
   }
 }
