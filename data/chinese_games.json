@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-27T12:59:59.678393"
+    "updated": "2025-07-27T15:02:03.015273"
   },
   "games": {
     "570": {
@@ -297122,6 +297122,30 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-27T12:59:54.994402"
+    },
+    "1677960": {
+      "appid": 1677960,
+      "name": "桌面生态箱",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-27T14:54:33.981930"
+    },
+    "2590770": {
+      "appid": 2590770,
+      "name": "Stolen Memories",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-27T15:01:58.322168"
+    },
+    "2591310": {
+      "appid": 2591310,
+      "name": "Pure Badminton",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-27T15:02:01.181383"
     }
   }
 }
