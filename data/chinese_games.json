@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-27T09:45:02.918610"
+    "updated": "2025-07-27T11:09:08.544203"
   },
   "games": {
     "570": {
@@ -297066,6 +297066,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-27T09:37:39.291395"
+    },
+    "2578050": {
+      "appid": 2578050,
+      "name": "Fishing Echoes",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-27T11:09:01.085305"
+    },
+    "2578400": {
+      "appid": 2578400,
+      "name": "Bible Trivia",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-27T11:09:03.651177"
     }
   }
 }
