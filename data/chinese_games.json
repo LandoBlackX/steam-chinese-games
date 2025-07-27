@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-27T18:08:50.394299"
+    "updated": "2025-07-27T18:48:09.278215"
   },
   "games": {
     "570": {
@@ -297170,6 +297170,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-27T18:08:49.800101"
+    },
+    "2604490": {
+      "appid": 2604490,
+      "name": "I Hate This Place",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-27T18:48:04.164124"
     }
   }
 }
