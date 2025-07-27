@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-27T02:32:43.613847"
+    "updated": "2025-07-27T05:22:42.287318"
   },
   "games": {
     "570": {
@@ -88218,6 +88218,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-07-26T17:06:10.962446"
+    },
+    "2553870": {
+      "appid": 2553870,
+      "name": "The Genesis Order",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-07-27T05:22:37.966259"
     }
   }
 }
