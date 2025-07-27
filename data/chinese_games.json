@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-27T11:09:08.544203"
+    "updated": "2025-07-27T11:33:04.083171"
   },
   "games": {
     "570": {
@@ -297082,6 +297082,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-27T11:09:03.651177"
+    },
+    "2579270": {
+      "appid": 2579270,
+      "name": "Satellite Odyssey: Prologue",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-27T11:32:48.129366"
     }
   }
 }
