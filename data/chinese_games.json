@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-27T22:30:01.768020"
+    "updated": "2025-07-27T23:28:48.669471"
   },
   "games": {
     "570": {
@@ -297194,6 +297194,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-27T20:50:09.064185"
+    },
+    "2627420": {
+      "appid": 2627420,
+      "name": "The Coldest Winter",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-27T23:28:43.261333"
+    },
+    "2628420": {
+      "appid": 2628420,
+      "name": "Croakoloco",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-27T23:28:47.204388"
     }
   }
 }
