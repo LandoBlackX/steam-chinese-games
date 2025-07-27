@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-27T06:05:50.694862"
+    "updated": "2025-07-27T07:29:18.288018"
   },
   "games": {
     "570": {
@@ -297034,6 +297034,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-27T06:05:45.041243"
+    },
+    "2562620": {
+      "appid": 2562620,
+      "name": "The Palace on the Hill",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-27T07:29:17.032021"
     }
   }
 }
