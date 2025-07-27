@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-27T08:07:59.358631"
+    "updated": "2025-07-27T09:02:09.649493"
   },
   "games": {
     "570": {
@@ -297050,6 +297050,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-27T08:07:54.615504"
+    },
+    "2568600": {
+      "appid": 2568600,
+      "name": "The Sentinel",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-27T09:02:05.329495"
     }
   }
 }
