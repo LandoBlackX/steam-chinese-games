@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-27T17:43:44.941607"
+    "updated": "2025-07-27T18:08:50.394299"
   },
   "games": {
     "570": {
@@ -297162,6 +297162,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-27T17:43:42.570460"
+    },
+    "2603850": {
+      "appid": 2603850,
+      "name": "Shadow mate ~小さな竜と適合者~",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-27T18:08:49.800101"
     }
   }
 }
