@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-27T11:33:04.083171"
+    "updated": "2025-07-27T12:07:23.838858"
   },
   "games": {
     "570": {
@@ -88226,6 +88226,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-07-27T05:22:37.966259"
+    },
+    "2581370": {
+      "appid": 2581370,
+      "name": "Monster Energy Supercross 25 - The Official Video Game",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-07-27T12:07:19.012942"
     }
   }
 }
