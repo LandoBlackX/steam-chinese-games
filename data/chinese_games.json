@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-28T14:44:17.368552"
+    "updated": "2025-07-28T15:04:50.821758"
   },
   "games": {
     "570": {
@@ -297282,6 +297282,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-28T14:43:51.076372"
+    },
+    "1728620": {
+      "appid": 1728620,
+      "name": "IKUMA - The Frozen Compass",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-28T14:56:22.162531"
     }
   }
 }
