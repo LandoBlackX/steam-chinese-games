@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-28T16:08:44.433230"
+    "updated": "2025-07-28T16:45:29.273607"
   },
   "games": {
     "570": {
@@ -297298,6 +297298,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-28T15:29:11.735708"
+    },
+    "2672470": {
+      "appid": 2672470,
+      "name": "UnLoop",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-28T16:45:27.323204"
     }
   }
 }
