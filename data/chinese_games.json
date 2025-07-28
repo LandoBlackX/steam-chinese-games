@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-28T21:06:22.300062"
+    "updated": "2025-07-28T21:29:25.579100"
   },
   "games": {
     "570": {
@@ -297338,6 +297338,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-28T21:06:19.122044"
+    },
+    "2686630": {
+      "appid": 2686630,
+      "name": "Voyagers of Nera",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-28T21:29:18.385955"
     }
   }
 }
