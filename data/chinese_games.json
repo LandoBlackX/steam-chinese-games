@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-28T20:02:58.461251"
+    "updated": "2025-07-28T21:06:22.300062"
   },
   "games": {
     "570": {
@@ -297322,6 +297322,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-28T20:02:55.920014"
+    },
+    "2685570": {
+      "appid": 2685570,
+      "name": "Plus Ultra: Legado",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-28T21:06:18.788410"
+    },
+    "2685600": {
+      "appid": 2685600,
+      "name": "My Confounding Cat is Criminally Cute!",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-28T21:06:19.122044"
     }
   }
 }

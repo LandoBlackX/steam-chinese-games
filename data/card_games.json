@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-28T20:02:58.461251"
+    "updated": "2025-07-28T21:06:22.300062"
   },
   "games": {
     "570": {
@@ -88258,6 +88258,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-07-28T16:08:44.042487"
+    },
+    "2685590": {
+      "appid": 2685590,
+      "name": "TriggerHeart EXELICA",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-07-28T21:06:18.981468"
     }
   }
 }
