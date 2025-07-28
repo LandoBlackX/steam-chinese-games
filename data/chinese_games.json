@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-28T10:08:42.752653"
+    "updated": "2025-07-28T10:41:42.741975"
   },
   "games": {
     "570": {
@@ -297250,6 +297250,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-28T08:59:11.957470"
+    },
+    "2655080": {
+      "appid": 2655080,
+      "name": "MMA Life Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-28T10:41:40.366293"
     }
   }
 }
