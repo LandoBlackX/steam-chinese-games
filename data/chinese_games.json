@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-28T07:11:40.946791"
+    "updated": "2025-07-28T08:01:07.573790"
   },
   "games": {
     "570": {
@@ -297234,6 +297234,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-28T07:11:34.959829"
+    },
+    "2646450": {
+      "appid": 2646450,
+      "name": "Who Are You!?",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-28T08:01:06.507080"
     }
   }
 }
