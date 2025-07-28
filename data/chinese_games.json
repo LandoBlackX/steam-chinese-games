@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-28T18:51:04.104920"
+    "updated": "2025-07-28T20:02:58.461251"
   },
   "games": {
     "570": {
@@ -297314,6 +297314,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-28T18:50:59.904959"
+    },
+    "2681870": {
+      "appid": 2681870,
+      "name": "Kidbash: Super Legend",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-28T20:02:55.920014"
     }
   }
 }
