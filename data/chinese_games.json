@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-28T15:04:50.821758"
+    "updated": "2025-07-28T15:29:17.830319"
   },
   "games": {
     "570": {
@@ -297290,6 +297290,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-28T14:56:22.162531"
+    },
+    "2667950": {
+      "appid": 2667950,
+      "name": "Gloomy Eyes",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-28T15:29:11.735708"
     }
   }
 }
