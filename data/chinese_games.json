@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-29T23:08:51.000957"
+    "updated": "2025-07-29T23:34:40.073051"
   },
   "games": {
     "570": {
@@ -297482,6 +297482,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-29T23:08:47.658333"
+    },
+    "2749040": {
+      "appid": 2749040,
+      "name": "FFA CARDS",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-29T23:34:35.686261"
     }
   }
 }
