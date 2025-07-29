@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-28T21:29:25.579100"
+    "updated": "2025-07-29T01:22:04.785525"
   },
   "games": {
     "570": {
@@ -297346,6 +297346,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-28T21:29:18.385955"
+    },
+    "2696850": {
+      "appid": 2696850,
+      "name": "Xeno Runners",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-29T01:21:59.384451"
     }
   }
 }
