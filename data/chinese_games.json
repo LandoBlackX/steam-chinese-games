@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-29T13:34:41.204176"
+    "updated": "2025-07-29T15:05:53.121005"
   },
   "games": {
     "570": {
@@ -297402,6 +297402,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-29T13:34:39.887118"
+    },
+    "2726360": {
+      "appid": 2726360,
+      "name": "Twilight Parade: Moonlit Mononoke",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-29T15:05:52.554073"
     }
   }
 }
