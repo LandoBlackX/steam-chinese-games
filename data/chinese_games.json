@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-29T12:38:17.707123"
+    "updated": "2025-07-29T13:34:41.204176"
   },
   "games": {
     "570": {
@@ -297394,6 +297394,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-29T12:38:14.245342"
+    },
+    "2722730": {
+      "appid": 2722730,
+      "name": "Desktank",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-29T13:34:39.887118"
     }
   }
 }
