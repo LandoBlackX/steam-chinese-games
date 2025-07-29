@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-29T15:56:14.062730"
+    "updated": "2025-07-29T18:58:27.396847"
   },
   "games": {
     "570": {
@@ -88266,6 +88266,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-07-28T21:06:18.981468"
+    },
+    "2736480": {
+      "appid": 2736480,
+      "name": "Hidden Cats in Berlin",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-07-29T18:58:27.158011"
     }
   }
 }
