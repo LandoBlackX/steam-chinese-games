@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-29T18:58:27.396847"
+    "updated": "2025-07-29T19:21:57.179580"
   },
   "games": {
     "570": {
@@ -297418,6 +297418,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-29T15:56:11.238708"
+    },
+    "2736780": {
+      "appid": 2736780,
+      "name": "RED NIGHT",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-29T19:21:54.291558"
     }
   }
 }
