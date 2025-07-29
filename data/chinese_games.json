@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-29T21:38:48.897338"
+    "updated": "2025-07-29T22:55:47.890579"
   },
   "games": {
     "570": {
@@ -297466,6 +297466,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-29T21:38:34.904152"
+    },
+    "2747550": {
+      "appid": 2747550,
+      "name": "Bloodshed",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-29T22:55:47.213262"
     }
   }
 }
