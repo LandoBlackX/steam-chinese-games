@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-29T10:05:07.765608"
+    "updated": "2025-07-29T10:29:10.473712"
   },
   "games": {
     "570": {
@@ -297378,6 +297378,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-29T10:05:06.554451"
+    },
+    "2714910": {
+      "appid": 2714910,
+      "name": "Stratum Descent",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-29T10:29:08.641477"
     }
   }
 }
