@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-29T22:55:47.890579"
+    "updated": "2025-07-29T23:08:51.000957"
   },
   "games": {
     "570": {
@@ -297474,6 +297474,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-29T22:55:47.213262"
+    },
+    "2748340": {
+      "appid": 2748340,
+      "name": "哥布林女仆大扫除",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-29T23:08:47.658333"
     }
   }
 }
