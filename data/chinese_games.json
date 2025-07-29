@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-29T20:07:37.796392"
+    "updated": "2025-07-29T21:10:01.572955"
   },
   "games": {
     "570": {
@@ -297434,6 +297434,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-29T20:07:34.651702"
+    },
+    "2743460": {
+      "appid": 2743460,
+      "name": "Granvir",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-29T21:09:58.123144"
+    },
+    "2743630": {
+      "appid": 2743630,
+      "name": "Cut the Cards",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-29T21:09:58.848383"
     }
   }
 }
