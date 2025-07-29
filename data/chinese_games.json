@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-29T10:29:10.473712"
+    "updated": "2025-07-29T12:38:17.707123"
   },
   "games": {
     "570": {
@@ -297386,6 +297386,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-29T10:29:08.641477"
+    },
+    "2720730": {
+      "appid": 2720730,
+      "name": "Our Journey: The Silent Voice",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-29T12:38:14.245342"
     }
   }
 }
