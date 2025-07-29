@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-29T08:51:05.726029"
+    "updated": "2025-07-29T10:05:07.765608"
   },
   "games": {
     "570": {
@@ -297370,6 +297370,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-29T08:51:03.271568"
+    },
+    "2713680": {
+      "appid": 2713680,
+      "name": "REVENGE CRYSTAL",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-29T10:05:06.554451"
     }
   }
 }
