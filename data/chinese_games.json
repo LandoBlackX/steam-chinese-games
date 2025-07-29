@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-29T19:21:57.179580"
+    "updated": "2025-07-29T20:07:37.796392"
   },
   "games": {
     "570": {
@@ -297426,6 +297426,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-29T19:21:54.291558"
+    },
+    "2739200": {
+      "appid": 2739200,
+      "name": "Dash Connect 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-29T20:07:34.651702"
     }
   }
 }
