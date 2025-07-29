@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-29T21:10:01.572955"
+    "updated": "2025-07-29T21:38:48.897338"
   },
   "games": {
     "570": {
@@ -297450,6 +297450,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-29T21:09:58.848383"
+    },
+    "1806330": {
+      "appid": 1806330,
+      "name": "Lavender Quartz 边界震荡",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-29T21:30:08.283701"
+    },
+    "2744430": {
+      "appid": 2744430,
+      "name": "Nightmare House",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-29T21:38:34.904152"
     }
   }
 }
