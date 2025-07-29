@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-29T01:22:04.785525"
+    "updated": "2025-07-29T06:54:59.780350"
   },
   "games": {
     "570": {
@@ -297354,6 +297354,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-29T01:21:59.384451"
+    },
+    "2703850": {
+      "appid": 2703850,
+      "name": "Rooftops & Alleys: The Parkour Game",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-29T06:54:54.788414"
     }
   }
 }
