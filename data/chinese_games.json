@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-30T13:03:56.452201"
+    "updated": "2025-07-30T14:12:25.545028"
   },
   "games": {
     "570": {
@@ -297522,6 +297522,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-30T12:55:03.984360"
+    },
+    "2777390": {
+      "appid": 2777390,
+      "name": "Store Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-30T14:12:20.981438"
+    },
+    "2777560": {
+      "appid": 2777560,
+      "name": "Escape the Script",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-30T14:12:21.460951"
     }
   }
 }
