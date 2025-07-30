@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-30T20:11:08.276297"
+    "updated": "2025-07-30T20:41:55.543784"
   },
   "games": {
     "570": {
@@ -297594,6 +297594,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-30T20:11:05.237263"
+    },
+    "2792730": {
+      "appid": 2792730,
+      "name": "Greedshot",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-30T20:41:52.578607"
     }
   }
 }

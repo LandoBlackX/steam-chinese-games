@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-30T20:11:08.276297"
+    "updated": "2025-07-30T20:41:55.543784"
   },
   "games": {
     "570": {
@@ -88282,6 +88282,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-07-30T05:09:41.353148"
+    },
+    "2792610": {
+      "appid": 2792610,
+      "name": "Stickman Killing Zombie",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-07-30T20:41:51.886231"
     }
   }
 }
