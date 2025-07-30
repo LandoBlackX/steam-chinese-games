@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-30T20:41:55.543784"
+    "updated": "2025-07-30T23:09:01.272735"
   },
   "games": {
     "570": {
@@ -297602,6 +297602,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-30T20:41:52.578607"
+    },
+    "1872280": {
+      "appid": 1872280,
+      "name": "Physics of life simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-30T22:59:25.137856"
     }
   }
 }
