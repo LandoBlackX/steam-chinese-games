@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-30T05:09:42.173728"
+    "updated": "2025-07-30T06:08:18.149957"
   },
   "games": {
     "570": {
@@ -297490,6 +297490,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-29T23:34:35.686261"
+    },
+    "2758190": {
+      "appid": 2758190,
+      "name": "Our Freedom",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-30T06:08:13.005206"
     }
   }
 }
