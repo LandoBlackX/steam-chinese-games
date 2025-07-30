@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-30T15:54:14.865471"
+    "updated": "2025-07-30T16:09:11.943968"
   },
   "games": {
     "570": {
@@ -297562,6 +297562,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-30T15:54:14.400514"
+    },
+    "1851810": {
+      "appid": 1851810,
+      "name": "The Holdouts",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-30T16:00:10.203273"
     }
   }
 }
