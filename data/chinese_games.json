@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-30T11:44:52.683489"
+    "updated": "2025-07-30T13:03:56.452201"
   },
   "games": {
     "570": {
@@ -297514,6 +297514,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-30T11:44:51.147853"
+    },
+    "1841050": {
+      "appid": 1841050,
+      "name": "太空超市模拟器",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-30T12:55:03.984360"
     }
   }
 }
