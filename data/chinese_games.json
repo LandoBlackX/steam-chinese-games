@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-30T14:12:25.545028"
+    "updated": "2025-07-30T14:43:44.194326"
   },
   "games": {
     "570": {
@@ -297538,6 +297538,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-30T14:12:21.460951"
+    },
+    "2779310": {
+      "appid": 2779310,
+      "name": "Stones Keeper II: Chaos Lord",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-30T14:43:43.778922"
     }
   }
 }
