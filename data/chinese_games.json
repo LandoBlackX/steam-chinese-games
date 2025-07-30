@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-30T15:27:19.633559"
+    "updated": "2025-07-30T15:54:14.865471"
   },
   "games": {
     "570": {
@@ -297554,6 +297554,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-30T15:27:19.397249"
+    },
+    "2782830": {
+      "appid": 2782830,
+      "name": "The Lost Glitches",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-30T15:54:14.400514"
     }
   }
 }
