@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-29T23:34:40.073051"
+    "updated": "2025-07-30T05:09:42.173728"
   },
   "games": {
     "570": {
@@ -88274,6 +88274,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-07-29T18:58:27.158011"
+    },
+    "2756120": {
+      "appid": 2756120,
+      "name": "Netoria Tactics: Revolution Gold",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-07-30T05:09:41.353148"
     }
   }
 }
