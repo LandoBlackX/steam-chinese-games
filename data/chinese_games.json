@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-30T19:35:06.122096"
+    "updated": "2025-07-30T20:11:08.276297"
   },
   "games": {
     "570": {
@@ -297586,6 +297586,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-30T19:35:01.676877"
+    },
+    "2791900": {
+      "appid": 2791900,
+      "name": "Foul",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-30T20:11:05.237263"
     }
   }
 }
