@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-30T16:09:11.943968"
+    "updated": "2025-07-30T16:42:21.988572"
   },
   "games": {
     "570": {
@@ -297570,6 +297570,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-30T16:00:10.203273"
+    },
+    "2784920": {
+      "appid": 2784920,
+      "name": "Infinity Knights: Xross",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-30T16:42:21.735187"
     }
   }
 }
