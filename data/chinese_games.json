@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-30T06:08:18.149957"
+    "updated": "2025-07-30T08:28:15.221628"
   },
   "games": {
     "570": {
@@ -297498,6 +297498,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-30T06:08:13.005206"
+    },
+    "2764460": {
+      "appid": 2764460,
+      "name": "沙金工业 Sandustry",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-30T08:28:12.102434"
     }
   }
 }
