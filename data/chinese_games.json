@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-30T16:42:21.988572"
+    "updated": "2025-07-30T19:35:06.122096"
   },
   "games": {
     "570": {
@@ -297578,6 +297578,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-30T16:42:21.735187"
+    },
+    "2790700": {
+      "appid": 2790700,
+      "name": "SWAPMEAT",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-30T19:35:01.676877"
     }
   }
 }
