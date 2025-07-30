@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-30T08:28:15.221628"
+    "updated": "2025-07-30T11:44:52.683489"
   },
   "games": {
     "570": {
@@ -297506,6 +297506,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-30T08:28:12.102434"
+    },
+    "2773630": {
+      "appid": 2773630,
+      "name": "Iron Hunters",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-30T11:44:51.147853"
     }
   }
 }
