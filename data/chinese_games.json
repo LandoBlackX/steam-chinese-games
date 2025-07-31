@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-31T21:10:06.892070"
+    "updated": "2025-07-31T22:26:57.029922"
   },
   "games": {
     "570": {
@@ -297730,6 +297730,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-31T21:10:04.039817"
+    },
+    "2837790": {
+      "appid": 2837790,
+      "name": "Spinny Dungeon",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-31T22:26:51.640412"
     }
   }
 }
