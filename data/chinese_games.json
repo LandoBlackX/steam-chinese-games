@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-31T05:08:01.251939"
+    "updated": "2025-07-31T06:04:19.040375"
   },
   "games": {
     "570": {
@@ -297634,6 +297634,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-31T05:07:59.264219"
+    },
+    "1883810": {
+      "appid": 1883810,
+      "name": "赤痕：绯红契约",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-31T05:55:16.240418"
+    },
+    "2808470": {
+      "appid": 2808470,
+      "name": "RE:Ark",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-31T06:04:18.122363"
     }
   }
 }
