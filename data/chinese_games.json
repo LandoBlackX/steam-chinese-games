@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-31T16:08:12.888415"
+    "updated": "2025-07-31T17:51:30.389657"
   },
   "games": {
     "570": {
@@ -297706,6 +297706,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-31T16:08:10.578114"
+    },
+    "2830200": {
+      "appid": 2830200,
+      "name": "Bullet: Surge",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-31T17:51:26.360787"
     }
   }
 }
