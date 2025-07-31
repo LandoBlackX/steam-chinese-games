@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-31T22:26:57.029922"
+    "updated": "2025-07-31T23:08:20.455943"
   },
   "games": {
     "570": {
@@ -297738,6 +297738,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-31T22:26:51.640412"
+    },
+    "1880620": {
+      "appid": 1880620,
+      "name": "从前从前有个块魂",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-31T22:58:49.436302"
+    },
+    "1932720": {
+      "appid": 1932720,
+      "name": "动武林",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-31T22:59:31.367810"
     }
   }
 }
