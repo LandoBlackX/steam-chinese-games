@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-31T14:42:26.310103"
+    "updated": "2025-07-31T15:24:18.829045"
   },
   "games": {
     "570": {
@@ -297674,6 +297674,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-31T14:42:24.377131"
+    },
+    "1910090": {
+      "appid": 1910090,
+      "name": "永久与神树的祈愿者",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-31T15:15:17.778172"
     }
   }
 }
