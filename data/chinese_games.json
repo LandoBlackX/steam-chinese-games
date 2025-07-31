@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-31T03:23:58.329354"
+    "updated": "2025-07-31T05:08:01.251939"
   },
   "games": {
     "570": {
@@ -297618,6 +297618,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-31T03:23:55.988804"
+    },
+    "2805260": {
+      "appid": 2805260,
+      "name": "POLY IMPULSE",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-31T05:07:57.862900"
+    },
+    "2805620": {
+      "appid": 2805620,
+      "name": "Animals vs Animals",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-31T05:07:59.264219"
     }
   }
 }
