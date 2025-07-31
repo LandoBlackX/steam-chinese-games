@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-30T23:09:01.272735"
+    "updated": "2025-07-31T03:23:58.329354"
   },
   "games": {
     "570": {
@@ -297610,6 +297610,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-30T22:59:25.137856"
+    },
+    "2803280": {
+      "appid": 2803280,
+      "name": "Dragon Is Dead",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-31T03:23:55.988804"
     }
   }
 }
