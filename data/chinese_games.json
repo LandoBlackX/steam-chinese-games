@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-31T17:51:30.389657"
+    "updated": "2025-07-31T18:32:44.195998"
   },
   "games": {
     "570": {
@@ -297714,6 +297714,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-31T17:51:26.360787"
+    },
+    "2832280": {
+      "appid": 2832280,
+      "name": "灾厄之石",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-31T18:32:40.938245"
     }
   }
 }
