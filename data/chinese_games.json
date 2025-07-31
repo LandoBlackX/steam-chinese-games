@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-31T09:27:35.769560"
+    "updated": "2025-07-31T14:42:26.310103"
   },
   "games": {
     "570": {
@@ -297666,6 +297666,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-31T09:27:33.412343"
+    },
+    "2823890": {
+      "appid": 2823890,
+      "name": "Center Station Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-31T14:42:24.377131"
     }
   }
 }
