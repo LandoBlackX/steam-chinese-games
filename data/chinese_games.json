@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-31T15:51:15.615423"
+    "updated": "2025-07-31T16:08:12.888415"
   },
   "games": {
     "570": {
@@ -297690,6 +297690,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-31T15:51:11.677288"
+    },
+    "2826670": {
+      "appid": 2826670,
+      "name": "Melting Encyclopedia",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-31T16:08:09.195526"
+    },
+    "2826820": {
+      "appid": 2826820,
+      "name": "Turbo Play",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-31T16:08:10.578114"
     }
   }
 }
