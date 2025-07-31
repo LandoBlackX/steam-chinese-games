@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-31T07:05:12.465990"
+    "updated": "2025-07-31T09:27:35.769560"
   },
   "games": {
     "570": {
@@ -297658,6 +297658,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-31T07:05:11.913655"
+    },
+    "2814860": {
+      "appid": 2814860,
+      "name": "Vindictus: Defying Fate",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-31T09:27:33.412343"
     }
   }
 }
