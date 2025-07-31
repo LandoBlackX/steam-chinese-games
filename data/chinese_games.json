@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-31T15:24:18.829045"
+    "updated": "2025-07-31T15:51:15.615423"
   },
   "games": {
     "570": {
@@ -297682,6 +297682,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-31T15:15:17.778172"
+    },
+    "2825410": {
+      "appid": 2825410,
+      "name": "Serke",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-31T15:51:11.677288"
     }
   }
 }
