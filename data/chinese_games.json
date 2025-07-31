@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-31T18:32:44.195998"
+    "updated": "2025-07-31T21:10:06.892070"
   },
   "games": {
     "570": {
@@ -297722,6 +297722,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-31T18:32:40.938245"
+    },
+    "2835650": {
+      "appid": 2835650,
+      "name": "Randomice",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-31T21:10:04.039817"
     }
   }
 }
