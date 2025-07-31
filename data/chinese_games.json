@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-31T06:04:19.040375"
+    "updated": "2025-07-31T07:05:12.465990"
   },
   "games": {
     "570": {
@@ -297650,6 +297650,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-31T06:04:18.122363"
+    },
+    "2810210": {
+      "appid": 2810210,
+      "name": "Codename CURE II",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-07-31T07:05:11.913655"
     }
   }
 }
