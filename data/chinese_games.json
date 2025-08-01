@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-01T01:08:06.680778"
+    "updated": "2025-08-01T13:03:11.992617"
   },
   "games": {
     "570": {
@@ -297762,6 +297762,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-01T01:08:05.508108"
+    },
+    "2852700": {
+      "appid": 2852700,
+      "name": "BUS: Bro u Survived",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-01T13:03:11.494734"
     }
   }
 }
