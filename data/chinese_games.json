@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-07-31T23:08:20.455943"
+    "updated": "2025-08-01T01:08:06.680778"
   },
   "games": {
     "570": {
@@ -297754,6 +297754,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-07-31T22:59:31.367810"
+    },
+    "2841510": {
+      "appid": 2841510,
+      "name": "Hell Survivors",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-01T01:08:05.508108"
     }
   }
 }
