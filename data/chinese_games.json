@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-01T18:56:48.999481"
+    "updated": "2025-08-01T20:13:22.933039"
   },
   "games": {
     "570": {
@@ -297818,6 +297818,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-01T18:47:49.940123"
+    },
+    "1203170": {
+      "appid": 1203170,
+      "name": "Darksiders 4",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-01T20:00:27.203956"
+    },
+    "2862540": {
+      "appid": 2862540,
+      "name": "子弹头脑",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-01T20:13:21.413436"
     }
   }
 }
