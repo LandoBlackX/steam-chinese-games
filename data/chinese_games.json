@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-01T13:03:11.992617"
+    "updated": "2025-08-01T15:13:57.071629"
   },
   "games": {
     "570": {
@@ -297770,6 +297770,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-01T13:03:11.494734"
+    },
+    "2856450": {
+      "appid": 2856450,
+      "name": "次元奇兵",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-01T15:13:57.070191"
     }
   }
 }
