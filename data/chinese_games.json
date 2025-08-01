@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-01T15:13:57.071629"
+    "updated": "2025-08-01T16:14:55.883226"
   },
   "games": {
     "570": {
@@ -297778,6 +297778,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-01T15:13:57.070191"
+    },
+    "2857980": {
+      "appid": 2857980,
+      "name": "Einstein's Cats",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-01T16:14:55.881748"
     }
   }
 }
