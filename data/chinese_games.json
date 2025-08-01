@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-01T20:13:22.933039"
+    "updated": "2025-08-01T22:09:14.446174"
   },
   "games": {
     "570": {
@@ -297834,6 +297834,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-01T20:13:21.413436"
+    },
+    "2865670": {
+      "appid": 2865670,
+      "name": "JETRUNNER",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-01T22:09:12.361889"
     }
   }
 }
