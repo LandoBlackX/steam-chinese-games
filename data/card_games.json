@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-02T00:05:17.822996"
+    "updated": "2025-08-02T01:02:55.738035"
   },
   "games": {
     "570": {
@@ -88290,6 +88290,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-07-30T20:41:51.886231"
+    },
+    "2869860": {
+      "appid": 2869860,
+      "name": "Monster Prom 4: Monster Con",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-08-02T01:02:55.280989"
     }
   }
 }
