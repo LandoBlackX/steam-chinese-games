@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-02T09:32:45.609234"
+    "updated": "2025-08-02T10:05:37.195495"
   },
   "games": {
     "570": {
@@ -298002,6 +298002,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-02T09:32:42.902672"
+    },
+    "2004680": {
+      "appid": 2004680,
+      "name": "沃德灵：共生",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-02T09:56:48.671908"
     }
   }
 }
