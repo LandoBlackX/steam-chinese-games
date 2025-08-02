@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-02T06:53:23.792494"
+    "updated": "2025-08-02T07:37:08.687602"
   },
   "games": {
     "570": {
@@ -297930,6 +297930,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-02T06:44:29.067696"
+    },
+    "2875820": {
+      "appid": 2875820,
+      "name": "P4ST3L",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-02T07:37:06.037346"
+    },
+    "2876150": {
+      "appid": 2876150,
+      "name": "异星突袭：入侵者歼灭战",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-02T07:37:07.953439"
     }
   }
 }
