@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-02T05:09:19.249567"
+    "updated": "2025-08-02T05:36:55.515504"
   },
   "games": {
     "570": {
@@ -297914,6 +297914,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-02T05:09:18.490252"
+    },
+    "2873070": {
+      "appid": 2873070,
+      "name": "Endless Tactics",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-02T05:36:54.718684"
     }
   }
 }
