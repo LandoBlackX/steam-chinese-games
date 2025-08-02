@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-02T10:05:37.195495"
+    "updated": "2025-08-02T10:24:18.946531"
   },
   "games": {
     "570": {
@@ -298010,6 +298010,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-02T09:56:48.671908"
+    },
+    "2879800": {
+      "appid": 2879800,
+      "name": "Psychomachia",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-02T10:24:16.832620"
     }
   }
 }
