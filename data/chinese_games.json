@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-02T14:08:53.372972"
+    "updated": "2025-08-02T15:06:25.048033"
   },
   "games": {
     "570": {
@@ -298026,6 +298026,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-02T11:06:48.967732"
+    },
+    "2886700": {
+      "appid": 2886700,
+      "name": "Star Scum",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-02T15:06:24.646159"
     }
   }
 }
