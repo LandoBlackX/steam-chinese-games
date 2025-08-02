@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-02T09:07:52.208301"
+    "updated": "2025-08-02T09:32:45.609234"
   },
   "games": {
     "570": {
@@ -297994,6 +297994,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-02T09:07:49.966271"
+    },
+    "2878450": {
+      "appid": 2878450,
+      "name": "Master of Command",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-02T09:32:42.902672"
     }
   }
 }
