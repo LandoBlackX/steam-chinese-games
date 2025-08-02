@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-02T16:45:03.109332"
+    "updated": "2025-08-02T17:26:47.226002"
   },
   "games": {
     "570": {
@@ -298042,6 +298042,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-02T16:45:02.323672"
+    },
+    "2024600": {
+      "appid": 2024600,
+      "name": "坠入深井",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-02T17:17:35.004921"
     }
   }
 }
