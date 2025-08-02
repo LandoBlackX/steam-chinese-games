@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-02T11:07:01.753274"
+    "updated": "2025-08-02T14:08:53.372972"
   },
   "games": {
     "570": {
@@ -88298,6 +88298,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-08-02T01:02:55.280989"
+    },
+    "2884750": {
+      "appid": 2884750,
+      "name": "Monstrous Liberation",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-08-02T14:08:52.131423"
     }
   }
 }
