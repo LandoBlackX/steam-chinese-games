@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-02T02:59:27.217440"
+    "updated": "2025-08-02T04:37:56.817234"
   },
   "games": {
     "570": {
@@ -297874,6 +297874,30 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-02T02:59:27.215991"
+    },
+    "1990130": {
+      "appid": 1990130,
+      "name": "Souls Alive: Origins",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-02T04:28:53.314457"
+    },
+    "1990220": {
+      "appid": 1990220,
+      "name": "VisiTD - Monster War: Dying Fire -",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-02T04:28:53.477994"
+    },
+    "2871440": {
+      "appid": 2871440,
+      "name": "鼠织小家",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-02T04:37:54.433055"
     }
   }
 }
