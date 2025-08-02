@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-02T10:24:18.946531"
+    "updated": "2025-08-02T11:07:01.753274"
   },
   "games": {
     "570": {
@@ -298018,6 +298018,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-02T10:24:16.832620"
+    },
+    "2881170": {
+      "appid": 2881170,
+      "name": "What remains of my sins",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-02T11:06:48.967732"
     }
   }
 }
