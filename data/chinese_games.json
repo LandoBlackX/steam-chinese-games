@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-02T08:48:54.356582"
+    "updated": "2025-08-02T09:07:52.208301"
   },
   "games": {
     "570": {
@@ -297978,6 +297978,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-02T08:48:53.656964"
+    },
+    "2001760": {
+      "appid": 2001760,
+      "name": "Beast of Reincarnation",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-02T08:58:58.732079"
+    },
+    "2877540": {
+      "appid": 2877540,
+      "name": "异端者 (Heretical)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-02T09:07:49.966271"
     }
   }
 }
