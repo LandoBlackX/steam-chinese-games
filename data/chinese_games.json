@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-02T18:53:16.805596"
+    "updated": "2025-08-02T21:24:26.757863"
   },
   "games": {
     "570": {
@@ -298074,6 +298074,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-02T18:53:16.432326"
+    },
+    "2054660": {
+      "appid": 2054660,
+      "name": "Disney Illusion Island Starring Mickey and Friends",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-08-02T21:15:17.283188"
     }
   }
 }
