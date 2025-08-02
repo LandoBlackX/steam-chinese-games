@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-02T05:36:55.515504"
+    "updated": "2025-08-02T06:53:23.792494"
   },
   "games": {
     "570": {
@@ -297922,6 +297922,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-02T05:36:54.718684"
+    },
+    "1995980": {
+      "appid": 1995980,
+      "name": "Desktop Pachinko Idle",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-02T06:44:29.067696"
     }
   }
 }
