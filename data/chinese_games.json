@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-02T04:37:56.817234"
+    "updated": "2025-08-02T05:09:19.249567"
   },
   "games": {
     "570": {
@@ -297898,6 +297898,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-02T04:37:54.433055"
+    },
+    "1990780": {
+      "appid": 1990780,
+      "name": "伪神大陆",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-02T05:00:16.938237"
+    },
+    "2872300": {
+      "appid": 2872300,
+      "name": "ABYSS X ZERO",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-02T05:09:18.490252"
     }
   }
 }
