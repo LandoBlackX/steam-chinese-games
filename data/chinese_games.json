@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-02T17:26:47.226002"
+    "updated": "2025-08-02T18:53:16.805596"
   },
   "games": {
     "570": {
@@ -298050,6 +298050,30 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-02T17:17:35.004921"
+    },
+    "2890650": {
+      "appid": 2890650,
+      "name": "Never Trust a Fox",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-02T18:53:15.117678"
+    },
+    "2890910": {
+      "appid": 2890910,
+      "name": "MATRESHKA",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-02T18:53:16.223428"
+    },
+    "2890940": {
+      "appid": 2890940,
+      "name": "Cat Girl Survivor",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-02T18:53:16.432326"
     }
   }
 }
