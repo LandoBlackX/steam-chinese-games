@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-01T22:09:14.446174"
+    "updated": "2025-08-02T00:05:17.822996"
   },
   "games": {
     "570": {
@@ -297842,6 +297842,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-01T22:09:12.361889"
+    },
+    "1983950": {
+      "appid": 1983950,
+      "name": "萌宠桌面大冒险",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-01T23:56:19.316250"
     }
   }
 }
