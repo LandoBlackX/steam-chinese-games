@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-02T01:02:55.738035"
+    "updated": "2025-08-02T02:59:27.217440"
   },
   "games": {
     "570": {
@@ -297850,6 +297850,30 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-01T23:56:19.316250"
+    },
+    "758430": {
+      "appid": 758430,
+      "name": "我在地球停个车",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-02T02:46:11.548479"
+    },
+    "2870250": {
+      "appid": 2870250,
+      "name": "Layers Deep",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-02T02:59:25.609100"
+    },
+    "2870530": {
+      "appid": 2870530,
+      "name": "Battle Suit Aces",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-02T02:59:27.215991"
     }
   }
 }
