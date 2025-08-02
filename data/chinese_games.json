@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-02T22:35:44.309839"
+    "updated": "2025-08-02T23:53:15.107381"
   },
   "games": {
     "570": {
@@ -298090,6 +298090,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-02T22:35:42.050176"
+    },
+    "2062430": {
+      "appid": 2062430,
+      "name": "BALL x PIT",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-02T23:44:16.665043"
     }
   }
 }
