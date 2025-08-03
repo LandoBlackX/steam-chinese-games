@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-03T06:11:28.824240"
+    "updated": "2025-08-03T07:10:40.686768"
   },
   "games": {
     "570": {
@@ -298146,6 +298146,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-03T06:11:26.722900"
+    },
+    "2075800": {
+      "appid": 2075800,
+      "name": "星球大战 零号连队™",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-03T07:02:04.592853"
     }
   }
 }
