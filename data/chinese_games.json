@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-03T04:48:27.692201"
+    "updated": "2025-08-03T05:19:46.060170"
   },
   "games": {
     "570": {
@@ -298122,6 +298122,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-03T04:48:26.471337"
+    },
+    "2069250": {
+      "appid": 2069250,
+      "name": "高能人生2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-03T05:11:06.900991"
+    },
+    "2900640": {
+      "appid": 2900640,
+      "name": "TOEM 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-03T05:19:45.343696"
     }
   }
 }
