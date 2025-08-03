@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-03T15:06:25.280868"
+    "updated": "2025-08-03T15:25:24.048258"
   },
   "games": {
     "570": {
@@ -298178,6 +298178,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-03T15:06:22.935216"
+    },
+    "2095420": {
+      "appid": 2095420,
+      "name": "Bus Bound",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-03T15:16:58.682351"
     }
   }
 }
