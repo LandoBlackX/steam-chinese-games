@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-03T03:44:52.388179"
+    "updated": "2025-08-03T04:48:27.692201"
   },
   "games": {
     "570": {
@@ -298106,6 +298106,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-03T03:44:48.924175"
+    },
+    "2068100": {
+      "appid": 2068100,
+      "name": "Ultimate Fishing® Online",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-03T04:39:54.414731"
+    },
+    "2899460": {
+      "appid": 2899460,
+      "name": "The Destiny of Nagari",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-03T04:48:26.471337"
     }
   }
 }
