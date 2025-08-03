@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-03T07:10:40.686768"
+    "updated": "2025-08-03T09:29:33.437392"
   },
   "games": {
     "570": {
@@ -298154,6 +298154,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-03T07:02:04.592853"
+    },
+    "2081880": {
+      "appid": 2081880,
+      "name": "Kathana",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-03T09:20:47.586946"
     }
   }
 }
