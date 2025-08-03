@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-03T09:29:33.437392"
+    "updated": "2025-08-03T12:05:37.713787"
   },
   "games": {
     "570": {
@@ -298162,6 +298162,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-03T09:20:47.586946"
+    },
+    "2088230": {
+      "appid": 2088230,
+      "name": "Ultimate Fishing® Simulator 3",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-03T11:56:59.792741"
     }
   }
 }
