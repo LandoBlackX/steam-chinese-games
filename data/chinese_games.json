@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-03T16:15:23.988652"
+    "updated": "2025-08-03T22:51:52.632432"
   },
   "games": {
     "570": {
@@ -298194,6 +298194,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-03T16:15:23.986665"
+    },
+    "2920990": {
+      "appid": 2920990,
+      "name": "Astrum Vanguard",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-03T22:51:50.516349"
     }
   }
 }
