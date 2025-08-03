@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-03T05:19:46.060170"
+    "updated": "2025-08-03T06:11:28.824240"
   },
   "games": {
     "570": {
@@ -298138,6 +298138,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-03T05:19:45.343696"
+    },
+    "2901310": {
+      "appid": 2901310,
+      "name": "奇天烈咨询热线",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-03T06:11:26.722900"
     }
   }
 }
