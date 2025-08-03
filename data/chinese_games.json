@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-02T23:53:15.107381"
+    "updated": "2025-08-03T03:44:52.388179"
   },
   "games": {
     "570": {
@@ -298098,6 +298098,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-02T23:44:16.665043"
+    },
+    "2898750": {
+      "appid": 2898750,
+      "name": "BobasQuest",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-03T03:44:48.924175"
     }
   }
 }
