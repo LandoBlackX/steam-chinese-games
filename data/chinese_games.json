@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-03T12:05:37.713787"
+    "updated": "2025-08-03T15:06:25.280868"
   },
   "games": {
     "570": {
@@ -298170,6 +298170,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-03T11:56:59.792741"
+    },
+    "2913190": {
+      "appid": 2913190,
+      "name": "Bravest Coconut",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-03T15:06:22.935216"
     }
   }
 }
