@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-04T11:08:01.844597"
+    "updated": "2025-08-04T17:05:51.935860"
   },
   "games": {
     "570": {
@@ -298282,6 +298282,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-04T11:07:51.192308"
+    },
+    "2134390": {
+      "appid": 2134390,
+      "name": "遗民天境",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-04T16:57:16.266128"
     }
   }
 }
