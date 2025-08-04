@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-04T10:11:39.649790"
+    "updated": "2025-08-04T11:08:01.844597"
   },
   "games": {
     "570": {
@@ -298274,6 +298274,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-04T10:03:12.285729"
+    },
+    "2930390": {
+      "appid": 2930390,
+      "name": "Falco Tunes",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-04T11:07:51.192308"
     }
   }
 }
