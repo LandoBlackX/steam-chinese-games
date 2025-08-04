@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-04T07:14:12.260283"
+    "updated": "2025-08-04T09:10:51.725802"
   },
   "games": {
     "570": {
@@ -298250,6 +298250,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-04T07:14:09.602896"
+    },
+    "2125490": {
+      "appid": 2125490,
+      "name": "蓬莱之旅",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-04T09:02:27.240275"
     }
   }
 }
