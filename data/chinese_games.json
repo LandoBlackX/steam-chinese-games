@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-04T04:22:29.460736"
+    "updated": "2025-08-04T06:04:53.358831"
   },
   "games": {
     "570": {
@@ -298226,6 +298226,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-04T04:22:29.265894"
+    },
+    "2924860": {
+      "appid": 2924860,
+      "name": "Astrumis - Survive Together",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-04T06:04:51.531317"
+    },
+    "2925120": {
+      "appid": 2925120,
+      "name": "The Pale Piper",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-04T06:04:52.951561"
     }
   }
 }
