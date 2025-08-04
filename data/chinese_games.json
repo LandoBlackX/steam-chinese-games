@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-04T09:10:51.725802"
+    "updated": "2025-08-04T10:11:39.649790"
   },
   "games": {
     "570": {
@@ -298258,6 +298258,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-04T09:02:27.240275"
+    },
+    "2127030": {
+      "appid": 2127030,
+      "name": "Date or Destiny : Kiss or Miss",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-04T10:03:11.855085"
+    },
+    "2127730": {
+      "appid": 2127730,
+      "name": "Tactics Returners",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-04T10:03:12.285729"
     }
   }
 }
