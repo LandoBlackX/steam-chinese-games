@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-04T17:05:51.935860"
+    "updated": "2025-08-04T18:12:23.122233"
   },
   "games": {
     "570": {
@@ -298290,6 +298290,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-04T16:57:16.266128"
+    },
+    "2932720": {
+      "appid": 2932720,
+      "name": "Angelo and Deemon 2: Too Hell of a Quest",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-04T18:12:22.890646"
     }
   }
 }
