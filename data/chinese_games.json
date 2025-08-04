@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-04T06:04:53.358831"
+    "updated": "2025-08-04T07:14:12.260283"
   },
   "games": {
     "570": {
@@ -298242,6 +298242,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-04T06:04:52.951561"
+    },
+    "2925970": {
+      "appid": 2925970,
+      "name": "揭棺而起",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-04T07:14:09.602896"
     }
   }
 }
