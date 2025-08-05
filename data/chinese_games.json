@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-04T18:12:23.122233"
+    "updated": "2025-08-05T00:07:35.549038"
   },
   "games": {
     "570": {
@@ -298298,6 +298298,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-04T18:12:22.890646"
+    },
+    "2936470": {
+      "appid": 2936470,
+      "name": "A Fistful Of Yankees",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-05T00:07:33.554182"
+    },
+    "2936510": {
+      "appid": 2936510,
+      "name": "Time in Place",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-05T00:07:33.707535"
     }
   }
 }
