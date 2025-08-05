@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-05T19:00:47.865394"
+    "updated": "2025-08-05T21:12:38.612143"
   },
   "games": {
     "570": {
@@ -298362,6 +298362,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-05T18:52:14.424242"
+    },
+    "2947590": {
+      "appid": 2947590,
+      "name": "Deep Desktop",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-05T21:12:36.963121"
     }
   }
 }
