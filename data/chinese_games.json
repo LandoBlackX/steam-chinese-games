@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-05T10:06:52.001716"
+    "updated": "2025-08-05T11:14:54.761315"
   },
   "games": {
     "570": {
@@ -298346,6 +298346,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-05T10:06:51.041038"
+    },
+    "2160270": {
+      "appid": 2160270,
+      "name": "Desktop Trains",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-05T11:06:19.846433"
     }
   }
 }
