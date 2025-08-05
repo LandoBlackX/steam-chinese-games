@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-05T00:07:35.549038"
+    "updated": "2025-08-05T01:25:06.530771"
   },
   "games": {
     "570": {
@@ -298314,6 +298314,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-05T00:07:33.707535"
+    },
+    "2144600": {
+      "appid": 2144600,
+      "name": "Eterspire",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-05T01:16:31.410838"
     }
   }
 }
