@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-05T11:14:54.761315"
+    "updated": "2025-08-05T19:00:47.865394"
   },
   "games": {
     "570": {
@@ -298354,6 +298354,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-05T11:06:19.846433"
+    },
+    "2168390": {
+      "appid": 2168390,
+      "name": "不小心远征队",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-05T18:52:14.424242"
     }
   }
 }
