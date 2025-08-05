@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-05T05:19:10.412297"
+    "updated": "2025-08-05T05:58:45.685753"
   },
   "games": {
     "570": {
@@ -298330,6 +298330,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-05T05:19:08.881083"
+    },
+    "2149010": {
+      "appid": 2149010,
+      "name": "小小梦魇 强化版",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-05T05:50:10.976698"
     }
   }
 }
