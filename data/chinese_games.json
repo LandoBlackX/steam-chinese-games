@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-06T15:39:43.941166"
+    "updated": "2025-08-06T17:14:17.860365"
   },
   "games": {
     "570": {
@@ -298434,6 +298434,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-06T15:31:07.206653"
+    },
+    "2186990": {
+      "appid": 2186990,
+      "name": "Fatekeeper",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-06T17:05:40.592625"
     }
   }
 }
