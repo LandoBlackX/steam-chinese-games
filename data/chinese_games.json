@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-06T05:13:38.714650"
+    "updated": "2025-08-06T10:08:05.923649"
   },
   "games": {
     "570": {
@@ -298394,6 +298394,30 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-06T05:13:38.459680"
+    },
+    "2953340": {
+      "appid": 2953340,
+      "name": "Eye Of The Summoner",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-06T10:08:04.881967"
+    },
+    "2953480": {
+      "appid": 2953480,
+      "name": "Lunar Eclipse",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-06T10:08:05.708940"
+    },
+    "2953540": {
+      "appid": 2953540,
+      "name": "Neverseas",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-06T10:08:05.922166"
     }
   }
 }
