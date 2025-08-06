@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-06T03:30:05.687000"
+    "updated": "2025-08-06T05:13:38.714650"
   },
   "games": {
     "570": {
@@ -298378,6 +298378,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-06T03:30:03.591522"
+    },
+    "2174380": {
+      "appid": 2174380,
+      "name": "古神之呼唤",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-06T05:05:05.155141"
+    },
+    "2950190": {
+      "appid": 2950190,
+      "name": "BloodLight",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-06T05:13:38.459680"
     }
   }
 }
