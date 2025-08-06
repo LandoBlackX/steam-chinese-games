@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-05T21:12:38.612143"
+    "updated": "2025-08-06T03:30:05.687000"
   },
   "games": {
     "570": {
@@ -298370,6 +298370,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-05T21:12:36.963121"
+    },
+    "2949120": {
+      "appid": 2949120,
+      "name": "No Vacation for an Executioner",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-06T03:30:03.591522"
     }
   }
 }
