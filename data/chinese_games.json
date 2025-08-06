@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-06T10:08:05.923649"
+    "updated": "2025-08-06T11:14:45.943758"
   },
   "games": {
     "570": {
@@ -298418,6 +298418,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-06T10:08:05.922166"
+    },
+    "2954010": {
+      "appid": 2954010,
+      "name": "同情共焚",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-06T11:14:45.497799"
     }
   }
 }
