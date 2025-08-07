@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-07T07:48:09.691751"
+    "updated": "2025-08-07T12:12:07.838893"
   },
   "games": {
     "570": {
@@ -298450,6 +298450,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-07T07:48:08.595540"
+    },
+    "2960760": {
+      "appid": 2960760,
+      "name": "Greed Forest",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-07T12:12:06.447862"
     }
   }
 }
