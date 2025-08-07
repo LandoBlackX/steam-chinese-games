@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-07T12:12:07.838893"
+    "updated": "2025-08-07T18:55:17.121355"
   },
   "games": {
     "570": {
@@ -298458,6 +298458,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-07T12:12:06.447862"
+    },
+    "2962010": {
+      "appid": 2962010,
+      "name": "Tame It Too!",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-07T18:55:15.070574"
+    },
+    "2962280": {
+      "appid": 2962280,
+      "name": "Space Bross",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-07T18:55:15.822686"
     }
   }
 }
