@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-06T17:14:17.860365"
+    "updated": "2025-08-07T07:48:09.691751"
   },
   "games": {
     "570": {
@@ -298442,6 +298442,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-06T17:05:40.592625"
+    },
+    "2957820": {
+      "appid": 2957820,
+      "name": "萌爪派对：欢乐问答",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-07T07:48:08.595540"
     }
   }
 }
