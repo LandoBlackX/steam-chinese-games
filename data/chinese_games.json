@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-07T18:55:17.121355"
+    "updated": "2025-08-07T20:06:29.662538"
   },
   "games": {
     "570": {
@@ -298474,6 +298474,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-07T18:55:15.822686"
+    },
+    "2203070": {
+      "appid": 2203070,
+      "name": "Dragonheir: Silent Gods",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-07T19:57:52.326431"
     }
   }
 }
