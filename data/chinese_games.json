@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-07T20:06:29.662538"
+    "updated": "2025-08-08T05:48:33.198217"
   },
   "games": {
     "570": {
@@ -298482,6 +298482,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-07T19:57:52.326431"
+    },
+    "2208260": {
+      "appid": 2208260,
+      "name": "机智快递员",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-08T05:40:07.704149"
     }
   }
 }
