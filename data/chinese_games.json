@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-08T10:08:44.285034"
+    "updated": "2025-08-08T22:10:57.757294"
   },
   "games": {
     "570": {
@@ -298506,6 +298506,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-08T10:08:42.211813"
+    },
+    "2973450": {
+      "appid": 2973450,
+      "name": "KELDER",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-08T22:10:57.302866"
     }
   }
 }
