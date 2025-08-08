@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-08T07:47:56.688265"
+    "updated": "2025-08-08T10:08:44.285034"
   },
   "games": {
     "570": {
@@ -298498,6 +298498,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-08T07:39:32.042535"
+    },
+    "2967670": {
+      "appid": 2967670,
+      "name": "Cupiclaw",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-08T10:08:42.211813"
     }
   }
 }
