@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-09T11:08:13.726353"
+    "updated": "2025-08-09T13:19:07.723423"
   },
   "games": {
     "570": {
@@ -298546,6 +298546,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-09T11:00:04.283207"
+    },
+    "2234380": {
+      "appid": 2234380,
+      "name": "The Doll Sitter",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-09T13:10:57.052002"
     }
   }
 }
