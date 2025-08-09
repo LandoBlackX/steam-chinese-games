@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-08T22:10:57.757294"
+    "updated": "2025-08-09T03:27:54.239477"
   },
   "games": {
     "570": {
@@ -298514,6 +298514,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-08T22:10:57.302866"
+    },
+    "2973830": {
+      "appid": 2973830,
+      "name": "Prison Boss Prohibition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-09T03:27:51.881962"
     }
   }
 }
