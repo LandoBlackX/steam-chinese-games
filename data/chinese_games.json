@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-09T03:27:54.239477"
+    "updated": "2025-08-09T05:09:49.651859"
   },
   "games": {
     "570": {
@@ -298522,6 +298522,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-09T03:27:51.881962"
+    },
+    "2227320": {
+      "appid": 2227320,
+      "name": "Signiverux",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-09T05:01:38.404906"
     }
   }
 }
