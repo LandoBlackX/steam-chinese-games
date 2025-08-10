@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-10T06:54:38.133792"
+    "updated": "2025-08-10T08:10:36.709618"
   },
   "games": {
     "570": {
@@ -298562,6 +298562,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-10T06:54:37.048525"
+    },
+    "2978860": {
+      "appid": 2978860,
+      "name": "Shoe it All!",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-10T08:10:36.182167"
     }
   }
 }
