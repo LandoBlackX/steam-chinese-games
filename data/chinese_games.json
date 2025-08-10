@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-09T13:19:07.723423"
+    "updated": "2025-08-10T06:54:38.133792"
   },
   "games": {
     "570": {
@@ -298554,6 +298554,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-09T13:10:57.052002"
+    },
+    "2978180": {
+      "appid": 2978180,
+      "name": "Desktop Cat Cafe",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-10T06:54:37.048525"
     }
   }
 }
