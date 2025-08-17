@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-10T13:16:55.189525"
+    "updated": "2025-08-17T10:10:32.075122"
   },
   "games": {
     "570": {
@@ -298578,6 +298578,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-10T13:08:54.340245"
+    },
+    "1577950": {
+      "appid": 1577950,
+      "name": "三星堆奇妙夜",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-17T09:57:51.229311"
+    },
+    "1838550": {
+      "appid": 1838550,
+      "name": "Mother Machine: Co-Op Gremlin Tours",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-17T09:59:24.474501"
     }
   }
 }
