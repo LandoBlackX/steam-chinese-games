@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-21T06:01:54.423081"
+    "updated": "2025-08-21T07:59:38.885615"
   },
   "games": {
     "570": {
@@ -298682,6 +298682,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-21T06:01:54.024960"
+    },
+    "2985890": {
+      "appid": 2985890,
+      "name": "EleBall",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-21T07:59:37.880857"
+    },
+    "2986110": {
+      "appid": 2986110,
+      "name": "Good Boy",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-21T07:59:38.654103"
     }
   }
 }
