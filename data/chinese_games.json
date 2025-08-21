@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-21T20:30:06.323783"
+    "updated": "2025-08-21T21:02:00.109719"
   },
   "games": {
     "570": {
@@ -298810,6 +298810,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-21T20:30:06.011534"
+    },
+    "2290950": {
+      "appid": 2290950,
+      "name": "Super Ultimate Party Game：超派对！",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-21T20:53:32.085407"
     }
   }
 }
