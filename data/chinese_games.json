@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-21T04:56:03.086656"
+    "updated": "2025-08-21T05:29:08.467689"
   },
   "games": {
     "570": {
@@ -298666,6 +298666,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-21T04:56:00.779401"
+    },
+    "2982360": {
+      "appid": 2982360,
+      "name": "Bandit Trap",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-21T05:29:06.178385"
     }
   }
 }
