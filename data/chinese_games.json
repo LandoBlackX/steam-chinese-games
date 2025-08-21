@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-21T11:27:31.063755"
+    "updated": "2025-08-21T11:59:48.897758"
   },
   "games": {
     "570": {
@@ -298714,6 +298714,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-21T11:27:30.373414"
+    },
+    "2990370": {
+      "appid": 2990370,
+      "name": "CLAWPUNK",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-21T11:59:46.814696"
     }
   }
 }
