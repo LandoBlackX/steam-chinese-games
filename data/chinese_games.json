@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-21T04:11:48.077840"
+    "updated": "2025-08-21T04:56:03.086656"
   },
   "games": {
     "570": {
@@ -298658,6 +298658,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-21T04:03:07.790744"
+    },
+    "2981630": {
+      "appid": 2981630,
+      "name": "Enoah's Quest",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-21T04:56:00.779401"
     }
   }
 }
