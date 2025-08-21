@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-21T16:02:20.945677"
+    "updated": "2025-08-21T16:32:16.931562"
   },
   "games": {
     "570": {
@@ -298770,6 +298770,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-21T16:02:18.470276"
+    },
+    "2994990": {
+      "appid": 2994990,
+      "name": "Wool at the Gates",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-21T16:32:15.197647"
     }
   }
 }
