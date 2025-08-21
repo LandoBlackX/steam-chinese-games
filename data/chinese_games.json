@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-17T10:10:32.075122"
+    "updated": "2025-08-21T04:11:48.077840"
   },
   "games": {
     "570": {
@@ -298594,6 +298594,70 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-17T09:59:24.474501"
+    },
+    "1298430": {
+      "appid": 1298430,
+      "name": "Power of the Horde",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-21T03:58:39.908643"
+    },
+    "1761190": {
+      "appid": 1761190,
+      "name": "有间小馆",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-21T04:00:15.255454"
+    },
+    "1850730": {
+      "appid": 1850730,
+      "name": "开局觉醒神级天赋",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-21T04:00:47.174180"
+    },
+    "1853440": {
+      "appid": 1853440,
+      "name": "Tropico 7",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-21T04:00:47.323044"
+    },
+    "1895900": {
+      "appid": 1895900,
+      "name": "1348 Ex Voto",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-21T04:01:29.979064"
+    },
+    "2100280": {
+      "appid": 2100280,
+      "name": "World of Tanks: HEAT",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-21T04:02:56.430374"
+    },
+    "2141130": {
+      "appid": 2141130,
+      "name": "Road Kings",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-21T04:03:07.620288"
+    },
+    "2157830": {
+      "appid": 2157830,
+      "name": "John Carpenter's Toxic Commando",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-21T04:03:07.790744"
     }
   }
 }
