@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-21T17:02:32.315010"
+    "updated": "2025-08-21T19:26:07.513482"
   },
   "games": {
     "570": {
@@ -298786,6 +298786,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-21T16:54:00.980459"
+    },
+    "2285990": {
+      "appid": 2285990,
+      "name": "Up Step Maid",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-21T19:17:27.568316"
     }
   }
 }
