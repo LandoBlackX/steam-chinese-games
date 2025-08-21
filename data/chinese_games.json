@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-21T19:42:28.551865"
+    "updated": "2025-08-21T20:30:06.323783"
   },
   "games": {
     "570": {
@@ -298802,6 +298802,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-21T19:34:01.746266"
+    },
+    "2999770": {
+      "appid": 2999770,
+      "name": "Flying Tobacco Eggs",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-21T20:30:06.011534"
     }
   }
 }
