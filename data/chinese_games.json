@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-21T11:59:48.897758"
+    "updated": "2025-08-21T13:23:57.622552"
   },
   "games": {
     "570": {
@@ -298722,6 +298722,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-21T11:59:46.814696"
+    },
+    "2268240": {
+      "appid": 2268240,
+      "name": "The Razorform",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-21T13:15:39.545423"
+    },
+    "2991600": {
+      "appid": 2991600,
+      "name": "The Barnhouse Killer",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-21T13:23:56.988788"
     }
   }
 }
