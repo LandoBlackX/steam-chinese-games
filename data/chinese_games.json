@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-21T05:29:08.467689"
+    "updated": "2025-08-21T06:01:54.423081"
   },
   "games": {
     "570": {
@@ -298674,6 +298674,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-21T05:29:06.178385"
+    },
+    "2983410": {
+      "appid": 2983410,
+      "name": "Xenopurge",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-21T06:01:54.024960"
     }
   }
 }
