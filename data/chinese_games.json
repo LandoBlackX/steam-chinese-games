@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-21T08:57:04.964404"
+    "updated": "2025-08-21T11:27:31.063755"
   },
   "games": {
     "570": {
@@ -298706,6 +298706,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-21T08:48:46.660085"
+    },
+    "2990060": {
+      "appid": 2990060,
+      "name": "Moto Rush Reborn",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-21T11:27:30.373414"
     }
   }
 }
