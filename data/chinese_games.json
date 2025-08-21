@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-21T15:05:16.084120"
+    "updated": "2025-08-21T16:02:20.945677"
   },
   "games": {
     "570": {
@@ -298754,6 +298754,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-21T14:56:58.217917"
+    },
+    "2275860": {
+      "appid": 2275860,
+      "name": "BAKUDO -斗球的悠莉亚-",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-21T15:54:00.711350"
+    },
+    "2994200": {
+      "appid": 2994200,
+      "name": "Ritter & Rotwein",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-21T16:02:18.470276"
     }
   }
 }
