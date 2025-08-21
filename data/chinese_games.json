@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-21T16:32:16.931562"
+    "updated": "2025-08-21T17:02:32.315010"
   },
   "games": {
     "570": {
@@ -298778,6 +298778,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-21T16:32:15.197647"
+    },
+    "2278800": {
+      "appid": 2278800,
+      "name": "flappy dragoon",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-21T16:54:00.980459"
     }
   }
 }
