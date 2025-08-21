@@ -12,7 +12,7 @@ concurrency:
 jobs:
   update:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    timeout-minutes: 30  # 增加到 30 分钟（原为15，表示整个 update 作业（包括所有步骤）必须在 15 分钟内完成）
     permissions:
       contents: write
 
