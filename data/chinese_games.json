@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-21T13:57:57.390618"
+    "updated": "2025-08-21T15:05:16.084120"
   },
   "games": {
     "570": {
@@ -298746,6 +298746,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-21T13:57:57.015387"
+    },
+    "2272360": {
+      "appid": 2272360,
+      "name": "Warhammer 40,000: Dawn of War IV",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-21T14:56:58.217917"
     }
   }
 }
