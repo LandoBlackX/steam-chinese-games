@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-21T19:26:07.513482"
+    "updated": "2025-08-21T19:42:28.551865"
   },
   "games": {
     "570": {
@@ -298794,6 +298794,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-21T19:17:27.568316"
+    },
+    "2286590": {
+      "appid": 2286590,
+      "name": "反击战",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-21T19:34:01.746266"
     }
   }
 }
