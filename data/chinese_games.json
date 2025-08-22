@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-22T08:34:20.881230"
+    "updated": "2025-08-22T08:57:15.424204"
   },
   "games": {
     "570": {
@@ -298842,6 +298842,30 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-22T08:34:20.052190"
+    },
+    "2317250": {
+      "appid": 2317250,
+      "name": "Neko House",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-22T08:48:57.177394"
+    },
+    "2317290": {
+      "appid": 2317290,
+      "name": "EvoCreo 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-22T08:48:57.326132"
+    },
+    "3009480": {
+      "appid": 3009480,
+      "name": "IZON.",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-22T08:57:13.396560"
     }
   }
 }
