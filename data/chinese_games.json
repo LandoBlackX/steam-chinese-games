@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-22T03:02:30.864017"
+    "updated": "2025-08-22T07:28:35.661999"
   },
   "games": {
     "570": {
@@ -298826,6 +298826,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-22T03:02:28.899151"
+    },
+    "2313710": {
+      "appid": 2313710,
+      "name": "奇怪的涂装车间",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-22T07:20:14.653231"
     }
   }
 }
