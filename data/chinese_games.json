@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-22T11:58:45.196282"
+    "updated": "2025-08-22T13:23:28.069693"
   },
   "games": {
     "570": {
@@ -298890,6 +298890,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-22T11:58:44.799019"
+    },
+    "2075510": {
+      "appid": 2075510,
+      "name": "爱心：神女之爱",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-22T13:13:46.355125"
     }
   }
 }
