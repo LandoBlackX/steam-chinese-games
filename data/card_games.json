@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-22T23:28:21.160944"
+    "updated": "2025-08-22T23:59:09.959365"
   },
   "games": {
     "570": {
@@ -88322,6 +88322,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-08-22T10:29:38.716399"
+    },
+    "3024540": {
+      "appid": 3024540,
+      "name": "ГОООООООЛ!",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-08-22T23:59:09.356057"
     }
   }
 }
