@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-22T11:26:39.923962"
+    "updated": "2025-08-22T11:58:45.196282"
   },
   "games": {
     "570": {
@@ -298882,6 +298882,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-22T11:18:41.515982"
+    },
+    "3013050": {
+      "appid": 3013050,
+      "name": "CaveVox",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-22T11:58:44.799019"
     }
   }
 }
