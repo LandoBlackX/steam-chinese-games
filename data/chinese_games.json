@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-22T07:28:35.661999"
+    "updated": "2025-08-22T08:34:20.881230"
   },
   "games": {
     "570": {
@@ -298834,6 +298834,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-22T07:20:14.653231"
+    },
+    "3009410": {
+      "appid": 3009410,
+      "name": "Moor Rail",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-22T08:34:20.052190"
     }
   }
 }
