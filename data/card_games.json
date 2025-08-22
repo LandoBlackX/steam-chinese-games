@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-22T09:30:04.269914"
+    "updated": "2025-08-22T10:29:40.829374"
   },
   "games": {
     "570": {
@@ -88314,6 +88314,14 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-08-02T21:15:17.283188"
+    },
+    "3011030": {
+      "appid": 3011030,
+      "name": "NO-SKIN",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-08-22T10:29:38.716399"
     }
   }
 }
