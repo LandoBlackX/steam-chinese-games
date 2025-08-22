@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-22T18:00:41.833500"
+    "updated": "2025-08-22T18:34:00.195680"
   },
   "games": {
     "570": {
@@ -298906,6 +298906,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-22T17:52:44.260846"
+    },
+    "2340970": {
+      "appid": 2340970,
+      "name": "轨界新生",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-22T18:26:02.354951"
     }
   }
 }
