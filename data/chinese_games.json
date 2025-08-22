@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-21T21:02:00.109719"
+    "updated": "2025-08-22T03:02:30.864017"
   },
   "games": {
     "570": {
@@ -298818,6 +298818,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-21T20:53:32.085407"
+    },
+    "3004140": {
+      "appid": 3004140,
+      "name": "LockYourDoor",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-22T03:02:28.899151"
     }
   }
 }
