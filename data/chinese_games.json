@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-23T18:56:07.811229"
+    "updated": "2025-08-23T20:29:08.478151"
   },
   "games": {
     "570": {
@@ -299082,6 +299082,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-23T18:48:24.486911"
+    },
+    "2405360": {
+      "appid": 2405360,
+      "name": "再上一层",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-23T20:21:13.023359"
     }
   }
 }
