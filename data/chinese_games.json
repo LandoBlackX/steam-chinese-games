@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-23T23:28:01.870775"
+    "updated": "2025-08-23T23:59:49.496251"
   },
   "games": {
     "570": {
@@ -299106,6 +299106,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-23T23:28:00.990560"
+    },
+    "3044690": {
+      "appid": 3044690,
+      "name": "Alex: An Adventure Between the Ages",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-23T23:59:47.344178"
     }
   }
 }
