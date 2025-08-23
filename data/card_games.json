@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-23T17:59:00.687930"
+    "updated": "2025-08-23T18:32:32.636112"
   },
   "games": {
     "570": {
@@ -88330,6 +88330,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-08-22T23:59:09.356057"
+    },
+    "3039890": {
+      "appid": 3039890,
+      "name": "Bubsy in: The Purrfect Collection",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-08-23T18:32:31.781449"
     }
   }
 }

@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-23T17:59:00.687930"
+    "updated": "2025-08-23T18:32:32.636112"
   },
   "games": {
     "570": {
@@ -299066,6 +299066,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-23T17:51:15.884177"
+    },
+    "3039960": {
+      "appid": 3039960,
+      "name": "Near The Sun Chapter1",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-23T18:32:32.507856"
     }
   }
 }
