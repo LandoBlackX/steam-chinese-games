@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-23T09:58:47.326602"
+    "updated": "2025-08-23T12:01:10.537560"
   },
   "games": {
     "570": {
@@ -298994,6 +298994,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-23T09:58:46.212294"
+    },
+    "3034530": {
+      "appid": 3034530,
+      "name": "Zilar: Empire Of The Underground",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-23T12:01:10.058157"
     }
   }
 }
