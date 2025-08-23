@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-23T04:07:57.381525"
+    "updated": "2025-08-23T06:58:21.269449"
   },
   "games": {
     "570": {
@@ -298962,6 +298962,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-23T04:00:01.654265"
+    },
+    "2370000": {
+      "appid": 2370000,
+      "name": "Lumines Arise",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-23T06:50:13.632921"
     }
   }
 }
