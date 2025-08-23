@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-23T06:58:21.269449"
+    "updated": "2025-08-23T07:27:13.148919"
   },
   "games": {
     "570": {
@@ -298970,6 +298970,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-23T06:50:13.632921"
+    },
+    "3029830": {
+      "appid": 3029830,
+      "name": "Monster Commanders",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-23T07:27:12.062949"
     }
   }
 }
