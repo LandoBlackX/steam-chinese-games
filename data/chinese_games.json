@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-23T17:26:08.826624"
+    "updated": "2025-08-23T17:59:00.687930"
   },
   "games": {
     "570": {
@@ -299058,6 +299058,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-23T17:18:27.865066"
+    },
+    "2398540": {
+      "appid": 2398540,
+      "name": "冬猎",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-23T17:51:15.884177"
     }
   }
 }
