@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-22T23:59:09.959365"
+    "updated": "2025-08-23T03:47:41.190347"
   },
   "games": {
     "570": {
@@ -298930,6 +298930,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-22T23:28:18.255659"
+    },
+    "2360100": {
+      "appid": 2360100,
+      "name": "禁忌星域",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-23T03:39:34.488414"
+    },
+    "2361480": {
+      "appid": 2361480,
+      "name": "The RPG: My First Dungeon Smells",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-23T03:39:35.021630"
     }
   }
 }
