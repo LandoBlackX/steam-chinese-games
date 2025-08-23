@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-23T08:31:38.238359"
+    "updated": "2025-08-23T09:58:47.326602"
   },
   "games": {
     "570": {
@@ -298986,6 +298986,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-23T08:23:38.565519"
+    },
+    "3032190": {
+      "appid": 3032190,
+      "name": "Just Date Vegan",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-23T09:58:46.212294"
     }
   }
 }
