@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-23T15:59:01.408598"
+    "updated": "2025-08-23T16:29:30.936119"
   },
   "games": {
     "570": {
@@ -299026,6 +299026,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-23T15:51:28.298873"
+    },
+    "2395660": {
+      "appid": 2395660,
+      "name": "三国兄弟",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-23T16:21:55.623810"
+    },
+    "3037800": {
+      "appid": 3037800,
+      "name": "时空泰坦 Temporal Titans",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-23T16:29:30.785597"
     }
   }
 }
