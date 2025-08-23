@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-23T12:01:10.537560"
+    "updated": "2025-08-23T13:19:19.369850"
   },
   "games": {
     "570": {
@@ -299002,6 +299002,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-23T12:01:10.058157"
+    },
+    "2386340": {
+      "appid": 2386340,
+      "name": "水族馆物语: 人鱼世界",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-23T13:11:30.458963"
+    },
+    "3035330": {
+      "appid": 3035330,
+      "name": "骰子阿瓦隆",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-23T13:19:19.367197"
     }
   }
 }
