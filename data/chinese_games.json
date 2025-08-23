@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-23T20:29:08.478151"
+    "updated": "2025-08-23T21:00:28.116293"
   },
   "games": {
     "570": {
@@ -299090,6 +299090,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-23T20:21:13.023359"
+    },
+    "3041800": {
+      "appid": 3041800,
+      "name": "Scramble Heart City",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-23T21:00:26.222884"
     }
   }
 }
