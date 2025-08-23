@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-23T13:19:19.369850"
+    "updated": "2025-08-23T15:59:01.408598"
   },
   "games": {
     "570": {
@@ -299018,6 +299018,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-23T13:19:19.367197"
+    },
+    "2393950": {
+      "appid": 2393950,
+      "name": "Light Odyssey",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-23T15:51:28.298873"
     }
   }
 }
