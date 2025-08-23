@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-23T16:29:30.936119"
+    "updated": "2025-08-23T17:26:08.826624"
   },
   "games": {
     "570": {
@@ -299042,6 +299042,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-23T16:29:30.785597"
+    },
+    "2396990": {
+      "appid": 2396990,
+      "name": "Fate/hollow ataraxia REMASTERED",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-23T17:18:27.659275"
+    },
+    "2397320": {
+      "appid": 2397320,
+      "name": "Bus Simulator 27",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-23T17:18:27.865066"
     }
   }
 }
