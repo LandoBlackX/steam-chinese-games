@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-23T21:00:28.116293"
+    "updated": "2025-08-23T23:28:01.870775"
   },
   "games": {
     "570": {
@@ -299098,6 +299098,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-23T21:00:26.222884"
+    },
+    "3044220": {
+      "appid": 3044220,
+      "name": "Liminal Exit",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-23T23:28:00.990560"
     }
   }
 }
