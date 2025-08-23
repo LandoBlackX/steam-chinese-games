@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-23T03:47:41.190347"
+    "updated": "2025-08-23T04:07:57.381525"
   },
   "games": {
     "570": {
@@ -298946,6 +298946,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-23T03:39:35.021630"
+    },
+    "2362050": {
+      "appid": 2362050,
+      "name": "我的英雄学院 无尽正义",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-23T04:00:01.351235"
+    },
+    "2362060": {
+      "appid": 2362060,
+      "name": "CODE VEIN 噬血代码 II",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-23T04:00:01.654265"
     }
   }
 }
