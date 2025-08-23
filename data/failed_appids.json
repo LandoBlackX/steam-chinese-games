@@ -5991,9 +5991,9 @@
       "timestamp": "2025-08-17T09:56:06.442111"
     },
     {
-      "appid": 3026740,
-      "reason": "HTTPSConnectionPool(host='store.steampowered.com', port=443): Max retries exceeded with url: /api/appdetails?appids=3026740&l=schinese (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fd68902bb50>, 'Connection to store.steampowered.com timed out. (connect timeout=15)'))",
-      "timestamp": "2025-08-23T04:31:34.690423"
+      "appid": 3023680,
+      "reason": "API 返回 success: false",
+      "timestamp": "2025-08-23T05:03:49.559163"
     }
   ]
 }
