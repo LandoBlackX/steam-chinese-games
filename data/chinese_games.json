@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-23T18:32:32.636112"
+    "updated": "2025-08-23T18:56:07.811229"
   },
   "games": {
     "570": {
@@ -299074,6 +299074,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-23T18:32:32.507856"
+    },
+    "2401740": {
+      "appid": 2401740,
+      "name": "​Shattered Lands (破碎之地)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-23T18:48:24.486911"
     }
   }
 }
