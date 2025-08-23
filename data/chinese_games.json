@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-23T07:27:13.148919"
+    "updated": "2025-08-23T08:31:38.238359"
   },
   "games": {
     "570": {
@@ -298978,6 +298978,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-23T07:27:12.062949"
+    },
+    "2374670": {
+      "appid": 2374670,
+      "name": "Duncrush",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-23T08:23:38.565519"
     }
   }
 }
