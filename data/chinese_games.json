@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-24T04:02:14.192012"
+    "updated": "2025-08-24T04:36:37.775150"
   },
   "games": {
     "570": {
@@ -299130,6 +299130,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-24T03:54:28.953326"
+    },
+    "2420400": {
+      "appid": 2420400,
+      "name": "禁忌扳机 SacriShot Matrix",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-24T04:29:09.224152"
     }
   }
 }
