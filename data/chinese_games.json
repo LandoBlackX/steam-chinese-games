@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-23T23:59:49.496251"
+    "updated": "2025-08-24T03:12:51.072203"
   },
   "games": {
     "570": {
@@ -299114,6 +299114,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-23T23:59:47.344178"
+    },
+    "3045530": {
+      "appid": 3045530,
+      "name": "终焉镇",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-24T03:12:50.848233"
     }
   }
 }
