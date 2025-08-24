@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-24T06:59:59.153227"
+    "updated": "2025-08-24T07:59:05.608971"
   },
   "games": {
     "570": {
@@ -299186,6 +299186,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-24T06:59:58.256714"
+    },
+    "3048340": {
+      "appid": 3048340,
+      "name": "Mr. Goofer’s Mini Game Arcade Party!",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-24T07:59:04.049280"
     }
   }
 }
