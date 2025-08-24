@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-24T04:36:37.775150"
+    "updated": "2025-08-24T06:01:27.748653"
   },
   "games": {
     "570": {
@@ -299138,6 +299138,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-24T04:29:09.224152"
+    },
+    "3047370": {
+      "appid": 3047370,
+      "name": "生存代码",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-24T06:01:26.558312"
     }
   }
 }
