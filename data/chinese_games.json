@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-24T14:26:52.164687"
+    "updated": "2025-08-24T20:30:04.346478"
   },
   "games": {
     "570": {
@@ -299218,6 +299218,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-24T14:26:50.616932"
+    },
+    "2462540": {
+      "appid": 2462540,
+      "name": "The White Cube",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-24T20:22:15.878302"
     }
   }
 }
