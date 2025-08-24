@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-24T08:31:45.808026"
+    "updated": "2025-08-24T11:25:45.343997"
   },
   "games": {
     "570": {
@@ -299202,6 +299202,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-24T08:24:18.662666"
+    },
+    "2438670": {
+      "appid": 2438670,
+      "name": "Holy Deadline",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-24T11:18:23.754673"
     }
   }
 }
