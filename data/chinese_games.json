@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-24T20:30:04.346478"
+    "updated": "2025-08-24T22:29:00.823038"
   },
   "games": {
     "570": {
@@ -299226,6 +299226,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-24T20:22:15.878302"
+    },
+    "2467880": {
+      "appid": 2467880,
+      "name": "断曲余音",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-24T22:21:05.456718"
+    },
+    "2468200": {
+      "appid": 2468200,
+      "name": "DDoD",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-24T22:21:05.635298"
     }
   }
 }
