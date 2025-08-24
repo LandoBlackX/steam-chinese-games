@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-24T22:29:00.823038"
+    "updated": "2025-08-24T23:01:47.659628"
   },
   "games": {
     "570": {
@@ -299242,6 +299242,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-24T22:21:05.635298"
+    },
+    "2469970": {
+      "appid": 2469970,
+      "name": "蜀仙传·挂至飞升",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-24T22:54:01.839242"
     }
   }
 }
