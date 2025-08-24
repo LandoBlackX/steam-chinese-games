@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-24T23:01:47.659628"
+    "updated": "2025-08-24T23:28:29.227661"
   },
   "games": {
     "570": {
@@ -299250,6 +299250,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-24T22:54:01.839242"
+    },
+    "2470840": {
+      "appid": 2470840,
+      "name": "Cyber Cafe Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-24T23:20:42.236532"
     }
   }
 }
