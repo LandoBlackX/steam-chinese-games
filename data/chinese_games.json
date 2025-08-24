@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-24T06:01:27.748653"
+    "updated": "2025-08-24T06:59:59.153227"
   },
   "games": {
     "570": {
@@ -299146,6 +299146,46 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-24T06:01:26.558312"
+    },
+    "2427410": {
+      "appid": 2427410,
+      "name": "《潜行者：切尔诺贝利的阴影》增强版",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-24T06:52:38.424098"
+    },
+    "2427420": {
+      "appid": 2427420,
+      "name": "《潜行者：晴空》增强版",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-24T06:52:38.543223"
+    },
+    "2427430": {
+      "appid": 2427430,
+      "name": "《潜行者：普里皮亚季的召唤》增强版",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-24T06:52:38.668023"
+    },
+    "3047750": {
+      "appid": 3047750,
+      "name": "Herdling",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-24T06:59:57.890145"
+    },
+    "3047820": {
+      "appid": 3047820,
+      "name": "僵尸街区：涂鸦特工队",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-24T06:59:58.256714"
     }
   }
 }
