@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-25T03:59:39.374867"
+    "updated": "2025-08-25T05:07:54.742380"
   },
   "games": {
     "570": {
@@ -299274,6 +299274,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-25T03:52:04.807936"
+    },
+    "2479650": {
+      "appid": 2479650,
+      "name": "《海绵宝宝：潮汐巨神》",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-25T05:00:16.499515"
     }
   }
 }
