@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-25T21:03:56.823899"
+    "updated": "2025-08-25T22:30:26.966723"
   },
   "games": {
     "570": {
@@ -299418,6 +299418,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-25T20:56:27.930893"
+    },
+    "2528130": {
+      "appid": 2528130,
+      "name": "Cameraman: 试播集",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-25T22:22:58.371552"
+    },
+    "2528430": {
+      "appid": 2528430,
+      "name": "Feed Me Chef",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-25T22:22:58.569453"
     }
   }
 }
