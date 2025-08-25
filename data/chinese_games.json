@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-25T10:32:14.571855"
+    "updated": "2025-08-25T11:28:52.603231"
   },
   "games": {
     "570": {
@@ -299330,6 +299330,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-25T10:17:21.800401"
+    },
+    "2497680": {
+      "appid": 2497680,
+      "name": "Doomsday Dealer",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-25T11:21:25.662134"
     }
   }
 }
