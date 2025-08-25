@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-25T08:01:52.211927"
+    "updated": "2025-08-25T10:32:14.571855"
   },
   "games": {
     "570": {
@@ -299322,6 +299322,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-25T07:54:25.938562"
+    },
+    "1295870": {
+      "appid": 1295870,
+      "name": "Next Run",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-25T10:17:21.800401"
     }
   }
 }
