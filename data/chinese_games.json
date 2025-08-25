@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-25T16:33:30.325474"
+    "updated": "2025-08-25T19:02:36.953663"
   },
   "games": {
     "570": {
@@ -299386,6 +299386,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-25T16:26:12.904345"
+    },
+    "3071440": {
+      "appid": 3071440,
+      "name": "社恐长颈鹿的一周",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-25T19:02:35.805852"
     }
   }
 }
