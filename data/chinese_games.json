@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-25T14:00:08.013070"
+    "updated": "2025-08-25T15:30:53.751525"
   },
   "games": {
     "570": {
@@ -299370,6 +299370,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-25T13:52:50.241691"
+    },
+    "3069370": {
+      "appid": 3069370,
+      "name": "冲啊小土璇！ Go Groundshel!",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-25T15:30:51.785886"
     }
   }
 }
