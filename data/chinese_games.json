@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-25T15:30:53.751525"
+    "updated": "2025-08-25T16:33:30.325474"
   },
   "games": {
     "570": {
@@ -299378,6 +299378,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-25T15:30:51.785886"
+    },
+    "2512880": {
+      "appid": 2512880,
+      "name": "危机曙光",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-25T16:26:12.904345"
     }
   }
 }
