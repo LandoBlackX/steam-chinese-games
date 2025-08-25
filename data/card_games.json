@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-25T19:02:36.953663"
+    "updated": "2025-08-25T20:31:20.850492"
   },
   "games": {
     "570": {
@@ -88338,6 +88338,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-08-23T18:32:31.781449"
+    },
+    "589370": {
+      "appid": 589370,
+      "name": "Fur Fun",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-08-25T20:15:31.239831"
     }
   }
 }
