@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-25T01:22:13.039708"
+    "updated": "2025-08-25T03:59:39.374867"
   },
   "games": {
     "570": {
@@ -299266,6 +299266,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-25T01:14:37.363877"
+    },
+    "2476250": {
+      "appid": 2476250,
+      "name": "键盘侠：你居然敢喷我",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-25T03:52:04.807936"
     }
   }
 }
