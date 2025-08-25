@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-25T06:05:17.473820"
+    "updated": "2025-08-25T07:11:53.063160"
   },
   "games": {
     "570": {
@@ -299306,6 +299306,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-25T05:57:27.382844"
+    },
+    "2484630": {
+      "appid": 2484630,
+      "name": "无尽的冒险",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-25T07:04:15.004403"
     }
   }
 }
