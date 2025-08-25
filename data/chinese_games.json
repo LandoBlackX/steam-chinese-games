@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-25T11:28:52.603231"
+    "updated": "2025-08-25T12:44:10.479637"
   },
   "games": {
     "570": {
@@ -299338,6 +299338,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-25T11:21:25.662134"
+    },
+    "2500500": {
+      "appid": 2500500,
+      "name": "Survival Of Runt",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-25T12:36:53.722889"
+    },
+    "2501390": {
+      "appid": 2501390,
+      "name": "末日公会 Apocalypse Guild",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-25T12:36:53.885076"
     }
   }
 }
