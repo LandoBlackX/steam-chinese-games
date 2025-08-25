@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-25T05:07:54.742380"
+    "updated": "2025-08-25T05:31:12.487755"
   },
   "games": {
     "570": {
@@ -299282,6 +299282,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-25T05:00:16.499515"
+    },
+    "3063200": {
+      "appid": 3063200,
+      "name": "SWEYET(etc.)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-25T05:31:11.160423"
     }
   }
 }
