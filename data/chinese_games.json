@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-25T20:31:20.850492"
+    "updated": "2025-08-25T21:03:56.823899"
   },
   "games": {
     "570": {
@@ -299394,6 +299394,30 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-25T19:02:35.805852"
+    },
+    "2523720": {
+      "appid": 2523720,
+      "name": "Gears of War: Reloaded",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-25T20:56:27.578504"
+    },
+    "2524660": {
+      "appid": 2524660,
+      "name": "大三国时代",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-25T20:56:27.752853"
+    },
+    "2524850": {
+      "appid": 2524850,
+      "name": "电车炫客",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-25T20:56:27.930893"
     }
   }
 }
