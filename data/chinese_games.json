@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-25T23:02:19.625766"
+    "updated": "2025-08-26T01:20:45.145846"
   },
   "games": {
     "570": {
@@ -299442,6 +299442,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-25T23:02:18.990740"
+    },
+    "3073990": {
+      "appid": 3073990,
+      "name": "死而符生",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-26T01:20:44.920683"
     }
   }
 }
