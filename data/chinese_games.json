@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-26T07:11:19.610118"
+    "updated": "2025-08-26T07:30:15.699620"
   },
   "games": {
     "570": {
@@ -299482,6 +299482,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-26T07:11:18.630502"
+    },
+    "2549820": {
+      "appid": 2549820,
+      "name": "露营",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-26T07:23:20.677565"
+    },
+    "3076910": {
+      "appid": 3076910,
+      "name": "UNDERGROUNDED -怀旧地下城-",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-26T07:30:15.207623"
     }
   }
 }
