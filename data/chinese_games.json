@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-26T01:20:45.145846"
+    "updated": "2025-08-26T05:05:04.015121"
   },
   "games": {
     "570": {
@@ -299450,6 +299450,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-26T01:20:44.920683"
+    },
+    "2542020": {
+      "appid": 2542020,
+      "name": "Duskfade",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-26T04:57:57.990472"
+    },
+    "3075410": {
+      "appid": 3075410,
+      "name": "Hordes of Fate : A Hand of Fate Adventure",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-26T05:05:03.045188"
     }
   }
 }
