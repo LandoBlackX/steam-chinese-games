@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-26T19:59:42.572558"
+    "updated": "2025-08-26T21:28:29.992656"
   },
   "games": {
     "570": {
@@ -299562,6 +299562,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-26T19:53:00.979241"
+    },
+    "2588830": {
+      "appid": 2588830,
+      "name": "FATHER",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-26T21:21:43.239782"
     }
   }
 }
