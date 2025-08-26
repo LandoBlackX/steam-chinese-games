@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-26T15:31:04.292331"
+    "updated": "2025-08-26T16:02:37.610590"
   },
   "games": {
     "570": {
@@ -299530,6 +299530,14 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-08-26T15:31:04.100091"
+    },
+    "2573060": {
+      "appid": 2573060,
+      "name": "Farmatic",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-26T15:55:40.864425"
     }
   }
 }
