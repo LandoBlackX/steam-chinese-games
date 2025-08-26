@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-26T08:01:01.126602"
+    "updated": "2025-08-26T08:36:17.331350"
   },
   "games": {
     "570": {
@@ -299506,6 +299506,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-26T08:01:00.225528"
+    },
+    "2553660": {
+      "appid": 2553660,
+      "name": "Fetch Quest Remastered",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-26T08:29:20.456806"
     }
   }
 }
