@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-26T21:28:29.992656"
+    "updated": "2025-08-26T23:02:14.641255"
   },
   "games": {
     "570": {
@@ -299570,6 +299570,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-26T21:21:43.239782"
+    },
+    "2593870": {
+      "appid": 2593870,
+      "name": "Football Heroes League",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-26T22:55:17.502863"
     }
   }
 }
