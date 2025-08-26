@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-26T05:05:04.015121"
+    "updated": "2025-08-26T07:11:19.610118"
   },
   "games": {
     "570": {
@@ -299466,6 +299466,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-26T05:05:03.045188"
+    },
+    "2548590": {
+      "appid": 2548590,
+      "name": " Erectoria",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-26T07:04:29.232574"
+    },
+    "3076530": {
+      "appid": 3076530,
+      "name": "Love Drunk",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-26T07:11:18.630502"
     }
   }
 }
