@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-26T12:01:18.268054"
+    "updated": "2025-08-26T15:31:04.292331"
   },
   "games": {
     "570": {
@@ -299522,6 +299522,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-26T12:01:06.230916"
+    },
+    "3081320": {
+      "appid": 3081320,
+      "name": "战场的赋格曲3",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-08-26T15:31:04.100091"
     }
   }
 }
