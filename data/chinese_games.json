@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-26T07:30:15.699620"
+    "updated": "2025-08-26T08:01:01.126602"
   },
   "games": {
     "570": {
@@ -299498,6 +299498,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-26T07:30:15.207623"
+    },
+    "3077020": {
+      "appid": 3077020,
+      "name": "托克朋！怒之铁剑",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-26T08:01:00.225528"
     }
   }
 }
