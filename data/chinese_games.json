@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-26T08:36:17.331350"
+    "updated": "2025-08-26T12:01:18.268054"
   },
   "games": {
     "570": {
@@ -299514,6 +299514,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-26T08:29:20.456806"
+    },
+    "3079600": {
+      "appid": 3079600,
+      "name": "永生公司 Au Revoir",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-26T12:01:06.230916"
     }
   }
 }
