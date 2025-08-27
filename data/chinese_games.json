@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-27T18:01:58.954809"
+    "updated": "2025-08-27T18:35:18.552091"
   },
   "games": {
     "570": {
@@ -299730,6 +299730,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-27T17:55:20.229369"
+    },
+    "3092250": {
+      "appid": 3092250,
+      "name": "Mirror World",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-27T18:35:18.410976"
     }
   }
 }
