@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-27T20:31:19.102622"
+    "updated": "2025-08-27T21:03:25.983519"
   },
   "games": {
     "570": {
@@ -299770,6 +299770,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-27T20:24:44.448664"
+    },
+    "2613150": {
+      "appid": 2613150,
+      "name": "Bendy and the Ink Factory",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-27T20:56:22.644233"
     }
   }
 }
