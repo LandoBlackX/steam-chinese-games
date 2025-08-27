@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-27T08:00:40.128670"
+    "updated": "2025-08-27T08:57:45.689495"
   },
   "games": {
     "570": {
@@ -299642,6 +299642,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-27T08:00:39.991277"
+    },
+    "3088430": {
+      "appid": 3088430,
+      "name": "Stratogun",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-27T08:57:45.540245"
     }
   }
 }
