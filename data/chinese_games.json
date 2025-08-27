@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-27T05:04:51.484441"
+    "updated": "2025-08-27T05:30:08.285213"
   },
   "games": {
     "570": {
@@ -299594,6 +299594,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-27T04:50:59.778695"
+    },
+    "2604780": {
+      "appid": 2604780,
+      "name": "World of blind",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-27T05:23:12.459467"
     }
   }
 }
