@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-27T04:32:45.104711"
+    "updated": "2025-08-27T05:04:51.484441"
   },
   "games": {
     "570": {
@@ -299586,6 +299586,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-27T04:32:44.655427"
+    },
+    "1733690": {
+      "appid": 1733690,
+      "name": "烽沙",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-27T04:50:59.778695"
     }
   }
 }
