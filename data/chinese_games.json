@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-27T15:04:47.311028"
+    "updated": "2025-08-27T16:58:00.576377"
   },
   "games": {
     "570": {
@@ -299714,6 +299714,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-27T15:04:45.920187"
+    },
+    "2633050": {
+      "appid": 2633050,
+      "name": "My Little Kitty",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-27T16:51:25.541086"
     }
   }
 }
