@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-27T08:57:45.689495"
+    "updated": "2025-08-27T09:31:11.035915"
   },
   "games": {
     "570": {
@@ -299650,6 +299650,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-27T08:57:45.540245"
+    },
+    "2615540": {
+      "appid": 2615540,
+      "name": "虚空破坏者",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-27T09:24:16.408199"
     }
   }
 }
