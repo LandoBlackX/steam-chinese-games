@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-27T16:58:00.576377"
+    "updated": "2025-08-27T18:01:58.954809"
   },
   "games": {
     "570": {
@@ -299722,6 +299722,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-27T16:51:25.541086"
+    },
+    "2636060": {
+      "appid": 2636060,
+      "name": "Dark Continent",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-27T17:55:20.229369"
     }
   }
 }
