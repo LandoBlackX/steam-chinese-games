@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-27T20:00:21.805965"
+    "updated": "2025-08-27T20:31:19.102622"
   },
   "games": {
     "570": {
@@ -299762,6 +299762,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-27T19:53:46.015846"
+    },
+    "2642370": {
+      "appid": 2642370,
+      "name": "Little Laps",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-27T20:24:44.448664"
     }
   }
 }
