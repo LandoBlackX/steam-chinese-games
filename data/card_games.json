@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-27T12:43:58.618642"
+    "updated": "2025-08-27T13:23:37.967373"
   },
   "games": {
     "570": {
@@ -88354,6 +88354,14 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-08-26T15:31:04.100091"
+    },
+    "2623190": {
+      "appid": 2623190,
+      "name": "The Elder Scrolls IV: Oblivion Remastered",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-08-27T13:16:59.437190"
     }
   }
 }

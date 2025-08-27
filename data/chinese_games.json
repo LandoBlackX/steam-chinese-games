@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-27T12:43:58.618642"
+    "updated": "2025-08-27T13:23:37.967373"
   },
   "games": {
     "570": {
@@ -299674,6 +299674,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-27T12:37:00.440499"
+    },
+    "2622580": {
+      "appid": 2622580,
+      "name": "Aurule Dynasty",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-27T13:16:59.288849"
+    },
+    "2623190": {
+      "appid": 2623190,
+      "name": "The Elder Scrolls IV: Oblivion Remastered",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-08-27T13:16:59.437190"
     }
   }
 }
