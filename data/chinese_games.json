@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-27T21:03:25.983519"
+    "updated": "2025-08-27T22:00:23.135394"
   },
   "games": {
     "570": {
@@ -299778,6 +299778,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-27T20:56:22.644233"
+    },
+    "2644240": {
+      "appid": 2644240,
+      "name": "魔神少女 Episode 4 传达的心意",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-27T21:53:53.008725"
+    },
+    "2645080": {
+      "appid": 2645080,
+      "name": "Luxury Store Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-27T21:53:53.401472"
     }
   }
 }
