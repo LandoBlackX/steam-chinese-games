@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-27T18:59:01.163565"
+    "updated": "2025-08-27T20:00:21.805965"
   },
   "games": {
     "570": {
@@ -299754,6 +299754,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-27T18:59:00.994294"
+    },
+    "2640950": {
+      "appid": 2640950,
+      "name": "Scott Pilgrim EX",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-27T19:53:46.015846"
     }
   }
 }
