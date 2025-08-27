@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-27T06:01:44.282679"
+    "updated": "2025-08-27T06:36:36.782885"
   },
   "games": {
     "570": {
@@ -299610,6 +299610,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-27T06:01:44.280750"
+    },
+    "2396130": {
+      "appid": 2396130,
+      "name": "Australia Did It",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-27T06:27:47.373908"
     }
   }
 }
