@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-27T13:23:37.967373"
+    "updated": "2025-08-27T14:29:57.851929"
   },
   "games": {
     "570": {
@@ -299690,6 +299690,22 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-08-27T13:16:59.437190"
+    },
+    "2626570": {
+      "appid": 2626570,
+      "name": "GodsTV",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-27T14:23:16.177116"
+    },
+    "3090270": {
+      "appid": 3090270,
+      "name": "TakeDogs",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-27T14:29:57.709699"
     }
   }
 }
