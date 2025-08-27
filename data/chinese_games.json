@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-27T10:02:35.592150"
+    "updated": "2025-08-27T12:43:58.618642"
   },
   "games": {
     "570": {
@@ -299666,6 +299666,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-27T10:02:34.815728"
+    },
+    "2621930": {
+      "appid": 2621930,
+      "name": "少女死神养成计划",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-27T12:37:00.440499"
     }
   }
 }
