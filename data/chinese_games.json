@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-27T18:35:18.552091"
+    "updated": "2025-08-27T18:59:01.163565"
   },
   "games": {
     "570": {
@@ -299738,6 +299738,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-27T18:35:18.410976"
+    },
+    "2639430": {
+      "appid": 2639430,
+      "name": "SGS Sealion",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-27T18:52:27.974755"
+    },
+    "3092530": {
+      "appid": 3092530,
+      "name": "命运扳机",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-27T18:59:00.994294"
     }
   }
 }
