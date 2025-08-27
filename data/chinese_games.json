@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-27T06:36:36.782885"
+    "updated": "2025-08-27T08:00:40.128670"
   },
   "games": {
     "570": {
@@ -299618,6 +299618,30 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-27T06:27:47.373908"
+    },
+    "2611010": {
+      "appid": 2611010,
+      "name": "大便超人",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-27T07:53:45.543814"
+    },
+    "2611170": {
+      "appid": 2611170,
+      "name": "DAVY x JONES",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-27T07:53:45.696976"
+    },
+    "3087930": {
+      "appid": 3087930,
+      "name": "佩布尔骑士",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-27T08:00:39.991277"
     }
   }
 }
