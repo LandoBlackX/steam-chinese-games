@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-27T05:30:08.285213"
+    "updated": "2025-08-27T06:01:44.282679"
   },
   "games": {
     "570": {
@@ -299602,6 +299602,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-27T05:23:12.459467"
+    },
+    "3087470": {
+      "appid": 3087470,
+      "name": "EmyLiveShow: Demons & Mistresses Tale",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-27T06:01:44.280750"
     }
   }
 }
