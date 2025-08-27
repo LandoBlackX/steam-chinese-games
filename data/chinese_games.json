@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-26T23:02:14.641255"
+    "updated": "2025-08-27T04:32:45.104711"
   },
   "games": {
     "570": {
@@ -299578,6 +299578,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-26T22:55:17.502863"
+    },
+    "3086590": {
+      "appid": 3086590,
+      "name": "Gods, Death & Reapers",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-27T04:32:44.655427"
     }
   }
 }
