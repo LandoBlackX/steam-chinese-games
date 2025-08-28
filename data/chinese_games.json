@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-28T07:10:26.620142"
+    "updated": "2025-08-28T10:31:06.054714"
   },
   "games": {
     "570": {
@@ -299842,6 +299842,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-28T07:04:36.073616"
+    },
+    "3096350": {
+      "appid": 3096350,
+      "name": "Spherebuddie 64",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-28T10:31:05.624706"
     }
   }
 }
