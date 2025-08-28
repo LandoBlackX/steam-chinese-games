@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-28T04:08:55.487167"
+    "updated": "2025-08-28T06:02:08.495248"
   },
   "games": {
     "570": {
@@ -299818,6 +299818,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-28T04:02:55.514597"
+    },
+    "2660630": {
+      "appid": 2660630,
+      "name": "MistyPuzzle",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-28T05:56:27.770964"
+    },
+    "2661300": {
+      "appid": 2661300,
+      "name": "禁闭求生2 Grounded 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-28T05:56:28.091337"
     }
   }
 }
