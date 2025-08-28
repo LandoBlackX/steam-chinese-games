@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-28T13:57:25.930473"
+    "updated": "2025-08-28T15:05:07.108957"
   },
   "games": {
     "570": {
@@ -299874,6 +299874,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-28T13:51:48.211293"
+    },
+    "2188700": {
+      "appid": 2188700,
+      "name": "Life of Delivery",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-28T14:54:15.305206"
     }
   }
 }
