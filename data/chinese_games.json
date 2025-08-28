@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-28T18:01:20.745127"
+    "updated": "2025-08-28T21:02:14.651033"
   },
   "games": {
     "570": {
@@ -299922,6 +299922,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-28T17:55:39.706469"
+    },
+    "1834680": {
+      "appid": 1834680,
+      "name": "The Hardest Game in Town",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-28T20:48:54.908539"
     }
   }
 }
