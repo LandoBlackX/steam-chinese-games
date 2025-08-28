@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-28T10:31:06.054714"
+    "updated": "2025-08-28T12:43:41.104526"
   },
   "games": {
     "570": {
@@ -299850,6 +299850,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-28T10:31:05.624706"
+    },
+    "2676290": {
+      "appid": 2676290,
+      "name": "深渊与英雄",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-28T12:37:52.830533"
     }
   }
 }
