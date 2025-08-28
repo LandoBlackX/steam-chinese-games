@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-28T01:18:02.438938"
+    "updated": "2025-08-28T03:48:32.333561"
   },
   "games": {
     "570": {
@@ -299802,6 +299802,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-28T01:18:02.436149"
+    },
+    "2653490": {
+      "appid": 2653490,
+      "name": "非凡：out of the ordinary",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-28T03:42:29.900046"
     }
   }
 }
