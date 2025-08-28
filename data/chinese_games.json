@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-28T12:43:41.104526"
+    "updated": "2025-08-28T13:24:44.527200"
   },
   "games": {
     "570": {
@@ -299858,6 +299858,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-28T12:37:52.830533"
+    },
+    "2679100": {
+      "appid": 2679100,
+      "name": "Witchspire",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-28T13:19:03.928894"
     }
   }
 }
