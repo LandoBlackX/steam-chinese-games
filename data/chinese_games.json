@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-27T22:00:23.135394"
+    "updated": "2025-08-28T01:18:02.438938"
   },
   "games": {
     "570": {
@@ -299794,6 +299794,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-27T21:53:53.401472"
+    },
+    "3093990": {
+      "appid": 3093990,
+      "name": "Fire Isle",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-28T01:18:02.436149"
     }
   }
 }
