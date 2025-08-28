@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-28T06:02:08.495248"
+    "updated": "2025-08-28T07:10:26.620142"
   },
   "games": {
     "570": {
@@ -299834,6 +299834,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-28T05:56:28.091337"
+    },
+    "2663850": {
+      "appid": 2663850,
+      "name": "The Soul of Cosmos",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-28T07:04:36.073616"
     }
   }
 }
