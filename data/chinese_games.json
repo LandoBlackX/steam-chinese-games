@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-28T16:34:07.501839"
+    "updated": "2025-08-28T16:58:08.797780"
   },
   "games": {
     "570": {
@@ -299890,6 +299890,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-28T16:28:26.033184"
+    },
+    "2688990": {
+      "appid": 2688990,
+      "name": "城门血战",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-28T16:52:24.494528"
+    },
+    "2689010": {
+      "appid": 2689010,
+      "name": "没有人想成为omega的恋爱喜剧",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-28T16:52:24.730706"
     }
   }
 }
