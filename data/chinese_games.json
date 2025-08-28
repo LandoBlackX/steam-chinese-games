@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-28T13:24:44.527200"
+    "updated": "2025-08-28T13:57:25.930473"
   },
   "games": {
     "570": {
@@ -299866,6 +299866,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-28T13:19:03.928894"
+    },
+    "2680380": {
+      "appid": 2680380,
+      "name": "海珂：北境极光",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-28T13:51:48.211293"
     }
   }
 }
