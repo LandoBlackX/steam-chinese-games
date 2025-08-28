@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-28T16:58:08.797780"
+    "updated": "2025-08-28T18:01:20.745127"
   },
   "games": {
     "570": {
@@ -299906,6 +299906,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-28T16:52:24.730706"
+    },
+    "2691090": {
+      "appid": 2691090,
+      "name": "14:  Overmind",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-28T17:55:39.551086"
+    },
+    "2691210": {
+      "appid": 2691210,
+      "name": "Idle Life - An Idle Game",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-28T17:55:39.706469"
     }
   }
 }
