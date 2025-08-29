@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-29T07:01:56.183769"
+    "updated": "2025-08-29T08:00:32.555270"
   },
   "games": {
     "570": {
@@ -299970,6 +299970,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-29T07:01:56.027341"
+    },
+    "2721760": {
+      "appid": 2721760,
+      "name": "Nuclear Crawler",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-29T07:54:54.800182"
+    },
+    "2721990": {
+      "appid": 2721990,
+      "name": "牧场气息",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-29T07:54:54.922821"
     }
   }
 }
