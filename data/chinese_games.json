@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-29T15:28:40.011487"
+    "updated": "2025-08-29T16:01:29.952608"
   },
   "games": {
     "570": {
@@ -300010,6 +300010,30 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-29T15:23:24.022865"
+    },
+    "2743550": {
+      "appid": 2743550,
+      "name": "RIFTINVADERS",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-29T15:56:13.488233"
+    },
+    "2743780": {
+      "appid": 2743780,
+      "name": "Bunny’s 家政上门服务",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-29T15:56:13.650109"
+    },
+    "2743790": {
+      "appid": 2743790,
+      "name": "LOVEJUICED! -感受来自邻家满满的爱意-",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-29T15:56:13.823238"
     }
   }
 }
