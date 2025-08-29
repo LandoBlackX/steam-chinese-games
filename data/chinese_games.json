@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-29T08:34:19.159112"
+    "updated": "2025-08-29T15:28:40.011487"
   },
   "games": {
     "570": {
@@ -300002,6 +300002,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-29T08:28:43.494377"
+    },
+    "2742860": {
+      "appid": 2742860,
+      "name": "HYPERFORMA",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-29T15:23:24.022865"
     }
   }
 }
