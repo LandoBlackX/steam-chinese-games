@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-29T08:00:32.555270"
+    "updated": "2025-08-29T08:34:19.159112"
   },
   "games": {
     "570": {
@@ -299986,6 +299986,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-29T07:54:54.922821"
+    },
+    "2723280": {
+      "appid": 2723280,
+      "name": "栅格世界",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-29T08:28:43.370654"
+    },
+    "2723500": {
+      "appid": 2723500,
+      "name": "封魔行者",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-29T08:28:43.494377"
     }
   }
 }
