@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-29T03:48:34.131588"
+    "updated": "2025-08-29T05:05:37.705664"
   },
   "games": {
     "570": {
@@ -299938,6 +299938,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-29T03:42:42.411557"
+    },
+    "2712440": {
+      "appid": 2712440,
+      "name": "The ZVENGERS -INFINITY DEFENSE-(짤벤져스)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-29T04:59:57.862686"
+    },
+    "2713000": {
+      "appid": 2713000,
+      "name": "Resonance: A Plague Tale Legacy",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-29T04:59:58.065960"
     }
   }
 }
