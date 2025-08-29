@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-29T16:01:29.952608"
+    "updated": "2025-08-29T17:09:59.025679"
   },
   "games": {
     "570": {
@@ -300034,6 +300034,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-29T15:56:13.823238"
+    },
+    "2746040": {
+      "appid": 2746040,
+      "name": "Precarious Platformer",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-29T17:04:48.731245"
     }
   }
 }
