@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-29T20:00:48.626086"
+    "updated": "2025-08-29T21:01:59.576858"
   },
   "games": {
     "570": {
@@ -300058,6 +300058,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-29T19:52:45.452439"
+    },
+    "2756930": {
+      "appid": 2756930,
+      "name": "PUMP IT UP RISE",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-29T20:56:45.211639"
+    },
+    "3103640": {
+      "appid": 3103640,
+      "name": "Smasher",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-29T21:01:59.574742"
     }
   }
 }
