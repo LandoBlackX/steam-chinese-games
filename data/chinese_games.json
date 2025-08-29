@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-29T05:05:37.705664"
+    "updated": "2025-08-29T06:37:23.570122"
   },
   "games": {
     "570": {
@@ -299954,6 +299954,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-29T04:59:58.065960"
+    },
+    "2454580": {
+      "appid": 2454580,
+      "name": "小拉奇境：战士",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-29T06:28:39.842100"
     }
   }
 }
