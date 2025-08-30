@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-30T01:15:36.798487"
+    "updated": "2025-08-30T02:37:24.789730"
   },
   "games": {
     "570": {
@@ -300098,6 +300098,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-30T01:10:41.882817"
+    },
+    "2766330": {
+      "appid": 2766330,
+      "name": "The Visitor Effect: Not an experiment",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-30T02:32:27.132289"
+    },
+    "2766910": {
+      "appid": 2766910,
+      "name": "PengPong 弹企鹅",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-30T02:32:27.272582"
     }
   }
 }
