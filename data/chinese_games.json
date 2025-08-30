@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-30T06:00:29.795328"
+    "updated": "2025-08-30T06:57:29.500672"
   },
   "games": {
     "570": {
@@ -300146,6 +300146,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-30T05:55:46.086561"
+    },
+    "3105150": {
+      "appid": 3105150,
+      "name": "Near-Death-Expedition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-30T06:57:28.714283"
+    },
+    "3105190": {
+      "appid": 3105190,
+      "name": "CHILDREN OF SATURN",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-30T06:57:29.074349"
     }
   }
 }
