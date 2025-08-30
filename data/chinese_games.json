@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-30T18:34:03.940615"
+    "updated": "2025-08-30T19:42:22.325219"
   },
   "games": {
     "570": {
@@ -300258,6 +300258,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-30T18:29:51.829944"
+    },
+    "2807960": {
+      "appid": 2807960,
+      "name": "战地风云™ 6",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-30T19:38:10.718941"
     }
   }
 }
