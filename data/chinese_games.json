@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-30T18:00:12.878973"
+    "updated": "2025-08-30T18:34:03.940615"
   },
   "games": {
     "570": {
@@ -300242,6 +300242,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-30T17:56:09.368682"
+    },
+    "2804440": {
+      "appid": 2804440,
+      "name": "草地清理工",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-30T18:29:51.580553"
+    },
+    "2805200": {
+      "appid": 2805200,
+      "name": "阿尔法星系射击锦标赛",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-30T18:29:51.829944"
     }
   }
 }
