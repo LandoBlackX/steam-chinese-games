@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-30T16:01:11.913898"
+    "updated": "2025-08-30T16:31:29.792091"
   },
   "games": {
     "570": {
@@ -300218,6 +300218,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-30T15:57:03.075156"
+    },
+    "2800000": {
+      "appid": 2800000,
+      "name": "奶茶拯救宇宙",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-30T16:27:26.060193"
     }
   }
 }
