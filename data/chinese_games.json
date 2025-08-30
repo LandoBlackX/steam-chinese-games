@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-30T05:28:59.774598"
+    "updated": "2025-08-30T06:00:29.795328"
   },
   "games": {
     "570": {
@@ -300138,6 +300138,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-30T05:24:13.740178"
+    },
+    "2774570": {
+      "appid": 2774570,
+      "name": "Beasties' Shelter",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-30T05:55:46.086561"
     }
   }
 }
