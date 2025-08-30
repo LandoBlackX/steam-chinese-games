@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-30T10:00:27.866310"
+    "updated": "2025-08-30T11:00:54.809055"
   },
   "games": {
     "570": {
@@ -300178,6 +300178,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-30T09:55:49.363087"
+    },
+    "2786660": {
+      "appid": 2786660,
+      "name": "Barbie™ 马儿之旅",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-30T10:56:17.753110"
     }
   }
 }
