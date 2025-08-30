@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-30T08:00:48.273855"
+    "updated": "2025-08-30T10:00:27.866310"
   },
   "games": {
     "570": {
@@ -300170,6 +300170,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-30T08:00:48.271562"
+    },
+    "2783360": {
+      "appid": 2783360,
+      "name": "Age of Empires Mobile: PC Edition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-30T09:55:49.363087"
     }
   }
 }
