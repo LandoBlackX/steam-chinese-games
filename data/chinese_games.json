@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-29T21:01:59.576858"
+    "updated": "2025-08-30T00:00:32.622652"
   },
   "games": {
     "570": {
@@ -300074,6 +300074,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-29T21:01:59.574742"
+    },
+    "2763250": {
+      "appid": 2763250,
+      "name": "不正经幻想",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-29T23:55:33.726259"
     }
   }
 }
