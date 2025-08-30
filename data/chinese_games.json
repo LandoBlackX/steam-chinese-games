@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-30T12:00:17.289172"
+    "updated": "2025-08-30T14:27:47.643908"
   },
   "games": {
     "570": {
@@ -300202,6 +300202,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-30T11:55:51.941072"
+    },
+    "2795090": {
+      "appid": 2795090,
+      "name": "MR FARMBOY",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-30T14:23:34.194268"
     }
   }
 }
