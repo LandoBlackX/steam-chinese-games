@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-30T11:00:54.809055"
+    "updated": "2025-08-30T12:00:17.289172"
   },
   "games": {
     "570": {
@@ -300186,6 +300186,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-30T10:56:17.753110"
+    },
+    "2789170": {
+      "appid": 2789170,
+      "name": "Bernband",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-30T11:55:51.746495"
+    },
+    "2789640": {
+      "appid": 2789640,
+      "name": "时灵 红月终途",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-30T11:55:51.941072"
     }
   }
 }
