@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-30T00:00:32.622652"
+    "updated": "2025-08-30T01:15:36.798487"
   },
   "games": {
     "570": {
@@ -300082,6 +300082,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-29T23:55:33.726259"
+    },
+    "2764530": {
+      "appid": 2764530,
+      "name": "Purble Place 3D",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-30T01:10:41.740303"
+    },
+    "2765020": {
+      "appid": 2765020,
+      "name": "镇魔英雄谭",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-30T01:10:41.882817"
     }
   }
 }
