@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-30T05:02:05.238037"
+    "updated": "2025-08-30T05:28:59.774598"
   },
   "games": {
     "570": {
@@ -300122,6 +300122,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-30T04:57:21.957029"
+    },
+    "2773560": {
+      "appid": 2773560,
+      "name": "AM",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-30T05:24:13.413100"
+    },
+    "2773770": {
+      "appid": 2773770,
+      "name": "BURN IT ALL DOWN",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-30T05:24:13.740178"
     }
   }
 }
