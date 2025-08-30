@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-30T06:57:29.500672"
+    "updated": "2025-08-30T08:00:48.273855"
   },
   "games": {
     "570": {
@@ -300162,6 +300162,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-30T06:57:29.074349"
+    },
+    "3105430": {
+      "appid": 3105430,
+      "name": "Steven",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-30T08:00:48.271562"
     }
   }
 }
