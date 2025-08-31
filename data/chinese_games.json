@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-31T19:42:34.275482"
+    "updated": "2025-08-31T20:00:16.477103"
   },
   "games": {
     "570": {
@@ -300386,6 +300386,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-31T19:39:21.531614"
+    },
+    "2864290": {
+      "appid": 2864290,
+      "name": "Aggelos 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-31T19:57:04.474169"
+    },
+    "2864880": {
+      "appid": 2864880,
+      "name": "Dungeon Gals",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-31T19:57:04.620136"
     }
   }
 }
