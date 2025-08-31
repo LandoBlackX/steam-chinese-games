@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-31T16:31:40.798625"
+    "updated": "2025-08-31T17:27:16.961243"
   },
   "games": {
     "570": {
@@ -300346,6 +300346,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-31T16:31:40.569260"
+    },
+    "3112220": {
+      "appid": 3112220,
+      "name": "Antioma",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-31T17:27:16.298452"
     }
   }
 }
