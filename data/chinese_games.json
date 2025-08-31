@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-31T10:00:19.053186"
+    "updated": "2025-08-31T16:00:47.499858"
   },
   "games": {
     "570": {
@@ -300330,6 +300330,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-31T09:56:48.355191"
+    },
+    "2852190": {
+      "appid": 2852190,
+      "name": "MONSTER HUNTER STORIES 3: TWISTED REFLECTION",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-31T15:57:34.367035"
     }
   }
 }
