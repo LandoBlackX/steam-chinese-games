@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-31T04:32:30.083440"
+    "updated": "2025-08-31T05:29:23.891122"
   },
   "games": {
     "570": {
@@ -300298,6 +300298,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-31T04:28:47.794256"
+    },
+    "2828710": {
+      "appid": 2828710,
+      "name": "不朽遗志 Valor Mortis",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-31T05:25:42.036202"
     }
   }
 }
