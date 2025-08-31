@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-31T06:58:49.042453"
+    "updated": "2025-08-31T08:32:42.610571"
   },
   "games": {
     "570": {
@@ -300314,6 +300314,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-31T06:55:07.483440"
+    },
+    "2835980": {
+      "appid": 2835980,
+      "name": "FIRE",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-31T08:29:12.399796"
     }
   }
 }
