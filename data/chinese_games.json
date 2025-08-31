@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-31T20:00:16.477103"
+    "updated": "2025-08-31T22:00:30.532353"
   },
   "games": {
     "570": {
@@ -300402,6 +300402,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-31T19:57:04.620136"
+    },
+    "3113030": {
+      "appid": 3113030,
+      "name": "The Oily Depths",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-31T22:00:30.529758"
     }
   }
 }
