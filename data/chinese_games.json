@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-31T18:00:42.655100"
+    "updated": "2025-08-31T19:42:34.275482"
   },
   "games": {
     "570": {
@@ -300378,6 +300378,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-31T17:57:32.321801"
+    },
+    "2863980": {
+      "appid": 2863980,
+      "name": "Crystallium",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-31T19:39:21.531614"
     }
   }
 }
