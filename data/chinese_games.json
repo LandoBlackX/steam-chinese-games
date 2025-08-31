@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-31T03:50:57.849632"
+    "updated": "2025-08-31T04:32:30.083440"
   },
   "games": {
     "570": {
@@ -300290,6 +300290,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-31T03:47:15.356611"
+    },
+    "2824520": {
+      "appid": 2824520,
+      "name": "Displacement",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-31T04:28:47.794256"
     }
   }
 }
