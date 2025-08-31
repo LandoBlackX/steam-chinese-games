@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-31T17:27:16.961243"
+    "updated": "2025-08-31T18:00:42.655100"
   },
   "games": {
     "570": {
@@ -300354,6 +300354,30 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-31T17:27:16.298452"
+    },
+    "2857780": {
+      "appid": 2857780,
+      "name": "超萌战记",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-31T17:57:31.864694"
+    },
+    "2858880": {
+      "appid": 2858880,
+      "name": "One King Is Enough",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-31T17:57:32.149984"
+    },
+    "2859100": {
+      "appid": 2859100,
+      "name": "希尔丝大冒险",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-31T17:57:32.321801"
     }
   }
 }
