@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-31T08:32:42.610571"
+    "updated": "2025-08-31T10:00:19.053186"
   },
   "games": {
     "570": {
@@ -300322,6 +300322,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-31T08:29:12.399796"
+    },
+    "2838950": {
+      "appid": 2838950,
+      "name": "权力游戏：征战维斯特洛",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-31T09:56:48.355191"
     }
   }
 }
