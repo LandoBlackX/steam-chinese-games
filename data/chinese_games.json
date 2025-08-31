@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-30T22:00:19.195547"
+    "updated": "2025-08-31T03:50:57.849632"
   },
   "games": {
     "570": {
@@ -300282,6 +300282,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-30T21:56:11.339863"
+    },
+    "2821610": {
+      "appid": 2821610,
+      "name": "Echoes of the End",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-08-31T03:47:15.356611"
     }
   }
 }
