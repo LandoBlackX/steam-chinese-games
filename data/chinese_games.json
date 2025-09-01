@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-09-01T07:12:31.707933"
+    "updated": "2025-09-01T09:01:00.903715"
   },
   "games": {
     "570": {
@@ -300458,6 +300458,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-09-01T07:09:28.819532"
+    },
+    "2889030": {
+      "appid": 2889030,
+      "name": "Mudang: 双心之印",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-09-01T08:58:00.343040"
     }
   }
 }
