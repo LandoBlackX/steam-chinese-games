@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-09-01T09:01:00.903715"
+    "updated": "2025-09-01T10:05:30.784426"
   },
   "games": {
     "570": {
@@ -300466,6 +300466,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-09-01T08:58:00.343040"
+    },
+    "2893070": {
+      "appid": 2893070,
+      "name": "Mutation Surge",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-09-01T10:02:41.869911"
     }
   }
 }
