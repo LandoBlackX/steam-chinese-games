@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-09-01T04:10:33.799971"
+    "updated": "2025-09-01T06:03:11.994827"
   },
   "games": {
     "570": {
@@ -300442,6 +300442,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-09-01T04:07:21.408189"
+    },
+    "2882910": {
+      "appid": 2882910,
+      "name": "Minesweep Together",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-09-01T06:00:13.604034"
     }
   }
 }
