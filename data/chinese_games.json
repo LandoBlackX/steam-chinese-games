@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-09-01T06:03:11.994827"
+    "updated": "2025-09-01T07:12:31.707933"
   },
   "games": {
     "570": {
@@ -300450,6 +300450,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-09-01T06:00:13.604034"
+    },
+    "2885530": {
+      "appid": 2885530,
+      "name": "MeowPower!Yachiyo",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-09-01T07:09:28.819532"
     }
   }
 }
