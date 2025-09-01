@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-09-01T17:28:37.531852"
+    "updated": "2025-09-01T18:00:34.308798"
   },
   "games": {
     "570": {
@@ -300522,6 +300522,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-09-01T17:25:44.202041"
+    },
+    "2914490": {
+      "appid": 2914490,
+      "name": "Death end re;Quest: Code Z",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-09-01T17:57:43.301940"
     }
   }
 }
