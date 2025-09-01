@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-09-01T18:35:11.784900"
+    "updated": "2025-09-01T20:00:38.691294"
   },
   "games": {
     "570": {
@@ -300538,6 +300538,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-09-01T18:32:21.837668"
+    },
+    "2918700": {
+      "appid": 2918700,
+      "name": "One more time",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-09-01T19:57:57.193827"
     }
   }
 }
