@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-09-01T12:01:03.815478"
+    "updated": "2025-09-01T12:44:39.211703"
   },
   "games": {
     "570": {
@@ -300482,6 +300482,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-09-01T11:58:15.150698"
+    },
+    "2898770": {
+      "appid": 2898770,
+      "name": "Die Trying",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-09-01T12:41:48.857752"
     }
   }
 }
