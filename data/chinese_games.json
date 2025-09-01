@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-09-01T10:05:30.784426"
+    "updated": "2025-09-01T12:01:03.815478"
   },
   "games": {
     "570": {
@@ -300474,6 +300474,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-09-01T10:02:41.869911"
+    },
+    "2897560": {
+      "appid": 2897560,
+      "name": "刷啊刷",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-09-01T11:58:15.150698"
     }
   }
 }
