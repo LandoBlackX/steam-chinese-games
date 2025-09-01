@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-09-01T15:30:23.396480"
+    "updated": "2025-09-01T16:33:11.641007"
   },
   "games": {
     "570": {
@@ -300498,6 +300498,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-09-01T15:27:33.825349"
+    },
+    "2909580": {
+      "appid": 2909580,
+      "name": "VIractal(维拉克塔尔)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-09-01T16:30:21.676359"
+    },
+    "2910290": {
+      "appid": 2910290,
+      "name": "Glory Defence",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-09-01T16:30:22.251371"
     }
   }
 }
