@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-09-01T01:29:37.972082"
+    "updated": "2025-09-01T03:16:58.157908"
   },
   "games": {
     "570": {
@@ -300426,6 +300426,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-09-01T01:14:02.135861"
+    },
+    "2875430": {
+      "appid": 2875430,
+      "name": "Orientation 留学生经典开局",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-09-01T03:13:45.948172"
     }
   }
 }
