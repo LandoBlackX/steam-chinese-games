@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-09-01T12:44:39.211703"
+    "updated": "2025-09-01T15:30:23.396480"
   },
   "games": {
     "570": {
@@ -300490,6 +300490,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-09-01T12:41:48.857752"
+    },
+    "2907340": {
+      "appid": 2907340,
+      "name": "Going Loco",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-09-01T15:27:33.825349"
     }
   }
 }
