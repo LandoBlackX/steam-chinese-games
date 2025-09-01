@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-09-01T03:16:58.157908"
+    "updated": "2025-09-01T04:10:33.799971"
   },
   "games": {
     "570": {
@@ -300434,6 +300434,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-09-01T03:13:45.948172"
+    },
+    "2877420": {
+      "appid": 2877420,
+      "name": "江山美人",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-09-01T04:07:21.408189"
     }
   }
 }
