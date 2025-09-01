@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-08-31T23:01:39.749190"
+    "updated": "2025-09-01T01:29:37.972082"
   },
   "games": {
     "570": {
@@ -300418,6 +300418,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-08-31T22:58:27.842053"
+    },
+    "1420790": {
+      "appid": 1420790,
+      "name": "夺牌制胜",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-09-01T01:14:02.135861"
     }
   }
 }
