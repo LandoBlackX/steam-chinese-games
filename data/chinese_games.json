@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-09-02T05:07:23.030737"
+    "updated": "2025-09-02T06:38:06.675981"
   },
   "games": {
     "570": {
@@ -300610,6 +300610,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-09-02T05:04:52.824757"
+    },
+    "2942350": {
+      "appid": 2942350,
+      "name": "Jiggly Strike",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-09-02T06:35:37.300100"
     }
   }
 }
