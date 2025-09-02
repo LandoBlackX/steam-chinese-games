@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-09-02T17:28:40.741465"
+    "updated": "2025-09-02T20:00:15.497916"
   },
   "games": {
     "570": {
@@ -300722,6 +300722,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-09-02T17:28:40.187119"
+    },
+    "2974160": {
+      "appid": 2974160,
+      "name": "Blighted",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-09-02T19:57:45.303854"
     }
   }
 }
