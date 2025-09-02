@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-09-02T13:26:27.045911"
+    "updated": "2025-09-02T13:59:08.762106"
   },
   "games": {
     "570": {
@@ -300658,6 +300658,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-09-02T13:23:57.547580"
+    },
+    "2957880": {
+      "appid": 2957880,
+      "name": "Witch Potions - Craft of Lust",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-09-02T13:56:39.811775"
+    },
+    "2958130": {
+      "appid": 2958130,
+      "name": "侏罗纪世界：进化 3",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-09-02T13:56:39.987874"
     }
   }
 }
