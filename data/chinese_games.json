@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-09-02T14:30:32.845953"
+    "updated": "2025-09-02T16:04:27.054099"
   },
   "games": {
     "570": {
@@ -300698,6 +300698,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-09-02T14:30:32.843623"
+    },
+    "2963950": {
+      "appid": 2963950,
+      "name": "女神异闻录４ Revival",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-09-02T16:01:56.402334"
+    },
+    "2964090": {
+      "appid": 2964090,
+      "name": "World of Warships: Legends",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-09-02T16:01:56.607274"
     }
   }
 }
