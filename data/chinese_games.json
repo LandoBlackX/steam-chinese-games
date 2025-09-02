@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-09-02T03:52:32.510066"
+    "updated": "2025-09-02T04:33:18.140937"
   },
   "games": {
     "570": {
@@ -300594,6 +300594,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-09-02T03:50:02.736514"
+    },
+    "2935960": {
+      "appid": 2935960,
+      "name": "Nephelem: A Path of Vice and Virtue",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-09-02T04:30:47.829572"
     }
   }
 }
