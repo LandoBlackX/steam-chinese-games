@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-09-01T23:00:50.437759"
+    "updated": "2025-09-02T03:52:32.510066"
   },
   "games": {
     "570": {
@@ -300578,6 +300578,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-09-01T22:58:52.233582"
+    },
+    "2932150": {
+      "appid": 2932150,
+      "name": "Life Below",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-09-02T03:50:02.396550"
+    },
+    "2932790": {
+      "appid": 2932790,
+      "name": "Pills of Dreams",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-09-02T03:50:02.736514"
     }
   }
 }
