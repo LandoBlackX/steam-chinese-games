@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-09-02T12:00:57.702015"
+    "updated": "2025-09-02T12:44:52.067162"
   },
   "games": {
     "570": {
@@ -300642,6 +300642,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-09-02T11:58:28.384824"
+    },
+    "2956470": {
+      "appid": 2956470,
+      "name": "On Island",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-09-02T12:42:19.769510"
     }
   }
 }
