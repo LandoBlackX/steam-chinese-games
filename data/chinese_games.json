@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-09-02T20:00:15.497916"
+    "updated": "2025-09-02T22:01:10.272415"
   },
   "games": {
     "570": {
@@ -300730,6 +300730,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-09-02T19:57:45.303854"
+    },
+    "2977260": {
+      "appid": 2977260,
+      "name": "The Guild - Europa 1410",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-09-02T21:58:38.293260"
     }
   }
 }
