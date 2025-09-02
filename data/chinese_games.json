@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-09-02T06:38:06.675981"
+    "updated": "2025-09-02T07:11:10.815339"
   },
   "games": {
     "570": {
@@ -300618,6 +300618,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-09-02T06:35:37.300100"
+    },
+    "2943030": {
+      "appid": 2943030,
+      "name": "幸运避难所",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-09-02T07:08:41.042907"
     }
   }
 }
