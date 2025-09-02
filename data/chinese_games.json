@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-09-02T10:31:53.844411"
+    "updated": "2025-09-02T12:00:57.702015"
   },
   "games": {
     "570": {
@@ -300634,6 +300634,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-09-02T10:29:25.456661"
+    },
+    "2954930": {
+      "appid": 2954930,
+      "name": "异时异所",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-09-02T11:58:28.384824"
     }
   }
 }
