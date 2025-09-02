@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-09-02T12:44:52.067162"
+    "updated": "2025-09-02T13:26:27.045911"
   },
   "games": {
     "570": {
@@ -300650,6 +300650,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-09-02T12:42:19.769510"
+    },
+    "2956680": {
+      "appid": 2956680,
+      "name": "落逃之地 LORT",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-09-02T13:23:57.547580"
     }
   }
 }
