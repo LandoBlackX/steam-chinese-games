@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-09-02T16:04:27.054099"
+    "updated": "2025-09-02T17:28:40.741465"
   },
   "games": {
     "570": {
@@ -300714,6 +300714,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-09-02T16:01:56.607274"
+    },
+    "3121470": {
+      "appid": 3121470,
+      "name": "色度零 Chroma Zero",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-09-02T17:28:40.187119"
     }
   }
 }
