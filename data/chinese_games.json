@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-09-02T04:33:18.140937"
+    "updated": "2025-09-02T05:07:23.030737"
   },
   "games": {
     "570": {
@@ -300602,6 +300602,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-09-02T04:30:47.829572"
+    },
+    "2937770": {
+      "appid": 2937770,
+      "name": "泡泡龙：白糖地下迷宫",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-09-02T05:04:52.824757"
     }
   }
 }
