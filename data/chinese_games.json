@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-09-03T13:23:23.945982"
+    "updated": "2025-09-03T14:05:33.081769"
   },
   "games": {
     "570": {
@@ -300842,6 +300842,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-09-03T13:21:17.322720"
+    },
+    "3123540": {
+      "appid": 3123540,
+      "name": "Lover's Enigma",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-09-03T14:05:33.079192"
     }
   }
 }
