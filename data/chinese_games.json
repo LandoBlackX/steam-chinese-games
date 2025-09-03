@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-09-03T10:30:37.540753"
+    "updated": "2025-09-03T12:43:16.324568"
   },
   "games": {
     "570": {
@@ -300826,6 +300826,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-09-03T10:28:40.589035"
+    },
+    "3009570": {
+      "appid": 3009570,
+      "name": "StreamLove Voyage",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-09-03T12:41:20.755660"
     }
   }
 }
