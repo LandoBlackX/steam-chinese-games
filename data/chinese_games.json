@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-09-03T04:32:56.212585"
+    "updated": "2025-09-03T06:36:32.954142"
   },
   "games": {
     "570": {
@@ -300786,6 +300786,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-09-03T04:30:49.109664"
+    },
+    "2994860": {
+      "appid": 2994860,
+      "name": "星际美食家",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-09-03T06:34:26.011371"
     }
   }
 }
