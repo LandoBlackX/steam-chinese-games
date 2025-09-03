@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-09-03T00:00:53.987115"
+    "updated": "2025-09-03T01:15:56.117751"
   },
   "games": {
     "570": {
@@ -300746,6 +300746,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-09-02T23:58:36.007476"
+    },
+    "2983350": {
+      "appid": 2983350,
+      "name": "planetarian～雪圏球～",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-09-03T01:13:39.248199"
+    },
+    "2983660": {
+      "appid": 2983660,
+      "name": "The Joker's Game",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-09-03T01:13:39.369856"
     }
   }
 }
