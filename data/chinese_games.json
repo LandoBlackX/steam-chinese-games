@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-09-03T01:15:56.117751"
+    "updated": "2025-09-03T02:37:08.861811"
   },
   "games": {
     "570": {
@@ -300762,6 +300762,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-09-03T01:13:39.369856"
+    },
+    "2985010": {
+      "appid": 2985010,
+      "name": "Triangle Defense",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-09-03T02:34:49.326144"
     }
   }
 }
