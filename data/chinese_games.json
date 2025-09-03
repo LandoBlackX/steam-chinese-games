@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-09-03T07:00:52.032768"
+    "updated": "2025-09-03T08:34:52.262414"
   },
   "games": {
     "570": {
@@ -300802,6 +300802,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-09-03T06:58:55.671924"
+    },
+    "2999480": {
+      "appid": 2999480,
+      "name": "PolyClassic: Wild VR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-09-03T08:32:54.876300"
     }
   }
 }
