@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-09-03T15:04:05.909076"
+    "updated": "2025-09-03T18:57:56.764550"
   },
   "games": {
     "570": {
@@ -300874,6 +300874,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-09-03T15:01:59.129395"
+    },
+    "3025560": {
+      "appid": 3025560,
+      "name": "海之号角：柯罗诺斯地下城",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-09-03T18:56:19.595615"
     }
   }
 }
