@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-09-03T21:01:53.500065"
+    "updated": "2025-09-03T22:00:13.528386"
   },
   "games": {
     "570": {
@@ -300898,6 +300898,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-09-03T20:59:56.301015"
+    },
+    "3031010": {
+      "appid": 3031010,
+      "name": "挣扎之人",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-09-03T21:58:36.981174"
+    },
+    "3032360": {
+      "appid": 3032360,
+      "name": "THE MOST GIGACHAD SURVIVORS",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-09-03T21:58:38.103292"
     }
   }
 }
