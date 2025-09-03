@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-09-03T12:43:16.324568"
+    "updated": "2025-09-03T13:23:23.945982"
   },
   "games": {
     "570": {
@@ -300834,6 +300834,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-09-03T12:41:20.755660"
+    },
+    "3010300": {
+      "appid": 3010300,
+      "name": "Color Gungeon",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-09-03T13:21:17.322720"
     }
   }
 }
