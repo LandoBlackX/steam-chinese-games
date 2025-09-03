@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-09-03T02:37:08.861811"
+    "updated": "2025-09-03T03:22:36.368394"
   },
   "games": {
     "570": {
@@ -300770,6 +300770,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-09-03T02:34:49.326144"
+    },
+    "2068740": {
+      "appid": 2068740,
+      "name": "Mautix：沉浸式画廊",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-09-03T03:10:50.457588"
     }
   }
 }
