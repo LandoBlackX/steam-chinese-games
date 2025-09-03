@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-09-03T14:31:41.490091"
+    "updated": "2025-09-03T15:04:05.909076"
   },
   "games": {
     "570": {
@@ -300858,6 +300858,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-09-03T14:31:41.488119"
+    },
+    "3014320": {
+      "appid": 3014320,
+      "name": "歧路旅人0 OCTOPATH TRAVELER 0",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-09-03T15:01:58.834930"
+    },
+    "3015030": {
+      "appid": 3015030,
+      "name": "菇菇骑士团",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-09-03T15:01:59.129395"
     }
   }
 }
