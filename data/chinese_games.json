@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-09-03T08:34:52.262414"
+    "updated": "2025-09-03T10:01:52.389521"
   },
   "games": {
     "570": {
@@ -300810,6 +300810,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-09-03T08:32:54.876300"
+    },
+    "3003760": {
+      "appid": 3003760,
+      "name": "Come to my party!",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-09-03T09:59:55.633113"
     }
   }
 }
