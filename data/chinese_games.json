@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-09-02T22:01:10.272415"
+    "updated": "2025-09-03T00:00:53.987115"
   },
   "games": {
     "570": {
@@ -300738,6 +300738,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-09-02T21:58:38.293260"
+    },
+    "2981240": {
+      "appid": 2981240,
+      "name": "谜阵叛灵",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-09-02T23:58:36.007476"
     }
   }
 }
