@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-09-03T22:00:13.528386"
+    "updated": "2025-09-03T22:29:03.593599"
   },
   "games": {
     "570": {
@@ -300914,6 +300914,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-09-03T21:58:38.103292"
+    },
+    "2246670": {
+      "appid": 2246670,
+      "name": "无尽传奇 Remastered",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-09-03T22:18:21.032103"
     }
   }
 }
