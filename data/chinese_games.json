@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-09-03T10:01:52.389521"
+    "updated": "2025-09-03T10:30:37.540753"
   },
   "games": {
     "570": {
@@ -300818,6 +300818,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-09-03T09:59:55.633113"
+    },
+    "3004390": {
+      "appid": 3004390,
+      "name": "The Cave Diver",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-09-03T10:28:40.589035"
     }
   }
 }
