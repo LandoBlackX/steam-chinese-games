@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-09-04T17:10:33.149323"
+    "updated": "2025-09-04T18:35:49.338303"
   },
   "games": {
     "570": {
@@ -301122,6 +301122,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-09-04T17:09:28.803346"
+    },
+    "3078670": {
+      "appid": 3078670,
+      "name": "Tiny Pixels Vol. 2 - Stormy Knights",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-09-04T18:34:44.989697"
     }
   }
 }
