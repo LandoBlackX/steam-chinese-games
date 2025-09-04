@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-09-04T19:00:05.742457"
+    "updated": "2025-09-04T20:00:32.456615"
   },
   "games": {
     "570": {
@@ -301146,6 +301146,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-09-04T18:59:11.629860"
+    },
+    "3082100": {
+      "appid": 3082100,
+      "name": "Day of the Shell: Prologue",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-09-04T19:59:59.118825"
+    },
+    "3083230": {
+      "appid": 3083230,
+      "name": "Vaulting Over It",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-09-04T19:59:59.968162"
     }
   }
 }
