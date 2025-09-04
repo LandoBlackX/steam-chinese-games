@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-09-04T20:00:32.456615"
+    "updated": "2025-09-04T20:30:35.602971"
   },
   "games": {
     "570": {
@@ -301162,6 +301162,30 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-09-04T19:59:59.968162"
+    },
+    "3084220": {
+      "appid": 3084220,
+      "name": "Moushooter",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-09-04T20:30:34.819974"
+    },
+    "3084870": {
+      "appid": 3084870,
+      "name": "Hidden Memories of The Gardens Between",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-09-04T20:30:35.287594"
+    },
+    "3085200": {
+      "appid": 3085200,
+      "name": "MOTTAINAI GHOST",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-09-04T20:30:35.599685"
     }
   }
 }
