@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-09-04T14:05:58.509404"
+    "updated": "2025-09-04T15:05:50.594513"
   },
   "games": {
     "570": {
@@ -301082,6 +301082,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-09-04T14:04:31.881025"
+    },
+    "2992070": {
+      "appid": 2992070,
+      "name": "量化情绪",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-09-04T15:03:32.329995"
     }
   }
 }
