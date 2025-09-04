@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-09-04T18:35:49.338303"
+    "updated": "2025-09-04T19:00:05.742457"
   },
   "games": {
     "570": {
@@ -301130,6 +301130,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-09-04T18:34:44.989697"
+    },
+    "3079210": {
+      "appid": 3079210,
+      "name": "Hell Let Loose: Vietnam",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-09-04T18:59:00.613687"
+    },
+    "3080070": {
+      "appid": 3080070,
+      "name": "秩序：新曙光",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-09-04T18:59:11.629860"
     }
   }
 }
