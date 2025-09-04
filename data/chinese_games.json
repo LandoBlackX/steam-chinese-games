@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-09-04T12:00:22.450916"
+    "updated": "2025-09-04T13:21:25.183929"
   },
   "games": {
     "570": {
@@ -301058,6 +301058,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-09-04T11:59:29.468959"
+    },
+    "3065080": {
+      "appid": 3065080,
+      "name": "Kimono Cats",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-09-04T13:20:21.414104"
+    },
+    "3065360": {
+      "appid": 3065360,
+      "name": "Chop Chop Together",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-09-04T13:20:21.845075"
     }
   }
 }
