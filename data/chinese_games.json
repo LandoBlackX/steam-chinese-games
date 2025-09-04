@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-09-04T02:37:31.831899"
+    "updated": "2025-09-04T03:22:43.860519"
   },
   "games": {
     "570": {
@@ -300938,6 +300938,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-09-04T02:35:56.353474"
+    },
+    "3040480": {
+      "appid": 3040480,
+      "name": "魔域天堂",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-09-04T03:21:29.427472"
     }
   }
 }
