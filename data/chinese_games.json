@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-09-04T16:33:47.436267"
+    "updated": "2025-09-04T17:10:33.149323"
   },
   "games": {
     "570": {
@@ -301114,6 +301114,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-09-04T16:32:54.792716"
+    },
+    "3074280": {
+      "appid": 3074280,
+      "name": "Pitch and Arcade Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-09-04T17:09:28.803346"
     }
   }
 }
