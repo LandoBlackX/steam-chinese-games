@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-09-04T15:30:39.400521"
+    "updated": "2025-09-04T16:33:47.436267"
   },
   "games": {
     "570": {
@@ -301098,6 +301098,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-09-04T15:29:45.864316"
+    },
+    "3072510": {
+      "appid": 3072510,
+      "name": "NeverAwake FLASHBACK",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-09-04T16:32:54.529997"
+    },
+    "3073070": {
+      "appid": 3073070,
+      "name": "魔法锻造厂",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-09-04T16:32:54.792716"
     }
   }
 }
