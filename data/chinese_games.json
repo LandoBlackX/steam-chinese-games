@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-09-04T20:30:35.602971"
+    "updated": "2025-09-04T21:01:42.563667"
   },
   "games": {
     "570": {
@@ -301186,6 +301186,30 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-09-04T20:30:35.599685"
+    },
+    "3085740": {
+      "appid": 3085740,
+      "name": "牌之勇者 : 追光纪",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-09-04T21:01:10.502619"
+    },
+    "3085900": {
+      "appid": 3085900,
+      "name": "Reclamation Crew",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-09-04T21:01:21.186955"
+    },
+    "3086070": {
+      "appid": 3086070,
+      "name": "Cole Hunter: Payback",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-09-04T21:01:21.452698"
     }
   }
 }
