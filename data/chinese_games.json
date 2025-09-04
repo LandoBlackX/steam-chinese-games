@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-09-04T11:02:55.281076"
+    "updated": "2025-09-04T12:00:22.450916"
   },
   "games": {
     "570": {
@@ -301034,6 +301034,30 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-09-04T11:01:52.145097"
+    },
+    "3061370": {
+      "appid": 3061370,
+      "name": "Manga Ninja 漫画忍者",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-09-04T11:59:28.812641"
+    },
+    "3061890": {
+      "appid": 3061890,
+      "name": "Me The Gravekeeper",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-09-04T11:59:29.330840"
+    },
+    "3062160": {
+      "appid": 3062160,
+      "name": "Car Service Simulator : Prologue",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-09-04T11:59:29.468959"
     }
   }
 }
