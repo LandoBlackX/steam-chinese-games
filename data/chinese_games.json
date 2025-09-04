@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-09-04T10:01:04.500033"
+    "updated": "2025-09-04T11:02:55.281076"
   },
   "games": {
     "570": {
@@ -301026,6 +301026,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-09-04T10:00:01.395525"
+    },
+    "3060700": {
+      "appid": 3060700,
+      "name": "重返战场",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-09-04T11:01:52.145097"
     }
   }
 }
