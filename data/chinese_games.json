@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-09-04T15:05:50.594513"
+    "updated": "2025-09-04T15:30:39.400521"
   },
   "games": {
     "570": {
@@ -301090,6 +301090,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-09-04T15:03:32.329995"
+    },
+    "3069520": {
+      "appid": 3069520,
+      "name": "Siren Sands",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-09-04T15:29:45.864316"
     }
   }
 }
