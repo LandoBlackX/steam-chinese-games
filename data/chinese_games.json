@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-09-04T08:01:26.101289"
+    "updated": "2025-09-04T10:01:04.500033"
   },
   "games": {
     "570": {
@@ -301010,6 +301010,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-09-04T07:59:47.512282"
+    },
+    "3056520": {
+      "appid": 3056520,
+      "name": "Moonbane Survivor",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-09-04T10:00:00.898549"
+    },
+    "3057490": {
+      "appid": 3057490,
+      "name": "风味之旅(Chef's Van)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-09-04T10:00:01.395525"
     }
   }
 }
