@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-09-05T05:04:03.040982"
+    "updated": "2025-09-05T05:30:11.855464"
   },
   "games": {
     "570": {
@@ -301234,6 +301234,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-09-05T05:03:41.865918"
+    },
+    "3102010": {
+      "appid": 3102010,
+      "name": "星光的引導－世界的巡禮者",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-09-05T05:30:01.146891"
     }
   }
 }
