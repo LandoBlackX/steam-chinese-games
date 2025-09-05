@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-09-05T08:00:49.074433"
+    "updated": "2025-09-05T08:34:34.285097"
   },
   "games": {
     "570": {
@@ -301266,6 +301266,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-09-05T08:00:37.975949"
+    },
+    "3109210": {
+      "appid": 3109210,
+      "name": "Night Market Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-09-05T08:34:23.489119"
+    },
+    "3109560": {
+      "appid": 3109560,
+      "name": "Hotdog Truck Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-09-05T08:34:23.743433"
     }
   }
 }
