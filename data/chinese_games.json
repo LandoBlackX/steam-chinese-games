@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-09-05T19:07:56.871038"
+    "updated": "2025-09-05T20:31:36.759156"
   },
   "games": {
     "570": {
@@ -301426,6 +301426,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-09-05T19:07:56.553244"
+    },
+    "3126340": {
+      "appid": 3126340,
+      "name": "烦恼驿站",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-09-05T20:31:36.756781"
     }
   }
 }
