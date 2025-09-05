@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-09-05T06:01:24.769762"
+    "updated": "2025-09-05T08:00:49.074433"
   },
   "games": {
     "570": {
@@ -301250,6 +301250,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-09-05T06:01:13.716536"
+    },
+    "2846870": {
+      "appid": 2846870,
+      "name": "Super Chili Man",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-09-05T07:57:13.769563"
+    },
+    "3107050": {
+      "appid": 3107050,
+      "name": "Stoplights",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-09-05T08:00:37.975949"
     }
   }
 }
