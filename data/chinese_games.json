@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-09-05T12:00:59.506024"
+    "updated": "2025-09-05T12:42:41.215365"
   },
   "games": {
     "570": {
@@ -301338,6 +301338,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-09-05T12:00:36.758338"
+    },
+    "3119550": {
+      "appid": 3119550,
+      "name": "Night Lotus",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-09-05T12:42:19.850760"
+    },
+    "3120030": {
+      "appid": 3120030,
+      "name": "The Day I Became A Bird",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-09-05T12:42:20.161548"
     }
   }
 }
