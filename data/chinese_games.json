@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-09-05T11:03:06.469503"
+    "updated": "2025-09-05T12:00:59.506024"
   },
   "games": {
     "570": {
@@ -301330,6 +301330,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-09-05T11:02:44.706642"
+    },
+    "3118880": {
+      "appid": 3118880,
+      "name": "Strike Mission",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-09-05T12:00:36.758338"
     }
   }
 }
