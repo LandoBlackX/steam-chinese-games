@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-09-05T16:00:48.832291"
+    "updated": "2025-09-05T16:33:31.732999"
   },
   "games": {
     "570": {
@@ -301402,6 +301402,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-09-05T16:00:48.830376"
+    },
+    "3124540": {
+      "appid": 3124540,
+      "name": "Far Far West",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-09-05T16:33:31.456728"
     }
   }
 }
