@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-09-05T12:42:41.215365"
+    "updated": "2025-09-05T13:22:49.851556"
   },
   "games": {
     "570": {
@@ -301354,6 +301354,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-09-05T12:42:20.161548"
+    },
+    "3120510": {
+      "appid": 3120510,
+      "name": "Cryptic Tales - Crossroads",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-09-05T13:22:49.389694"
     }
   }
 }
