@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-09-05T20:31:36.759156"
+    "updated": "2025-09-05T22:29:33.412932"
   },
   "games": {
     "570": {
@@ -301434,6 +301434,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-09-05T20:31:36.756781"
+    },
+    "3126500": {
+      "appid": 3126500,
+      "name": "States of Power",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-09-05T22:29:33.096527"
     }
   }
 }
