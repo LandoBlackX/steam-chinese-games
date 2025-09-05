@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-09-05T08:34:34.285097"
+    "updated": "2025-09-05T09:09:26.427266"
   },
   "games": {
     "570": {
@@ -301282,6 +301282,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-09-05T08:34:23.743433"
+    },
+    "1329030": {
+      "appid": 1329030,
+      "name": "Puzzle - LINES AND KNOTS 3",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-09-05T08:54:00.348961"
+    },
+    "3110230": {
+      "appid": 3110230,
+      "name": "无敌坦克",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-09-05T09:09:26.144863"
     }
   }
 }
