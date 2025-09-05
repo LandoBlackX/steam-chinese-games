@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-09-05T22:29:33.412932"
+    "updated": "2025-09-05T23:00:54.719800"
   },
   "games": {
     "570": {
@@ -301442,6 +301442,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-09-05T22:29:33.096527"
+    },
+    "3126590": {
+      "appid": 3126590,
+      "name": "阴阳错",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-09-05T23:00:54.555226"
     }
   }
 }
