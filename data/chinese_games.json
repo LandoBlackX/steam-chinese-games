@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-09-05T14:29:39.890846"
+    "updated": "2025-09-05T16:00:48.832291"
   },
   "games": {
     "570": {
@@ -301394,6 +301394,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-09-05T14:29:39.736399"
+    },
+    "3124340": {
+      "appid": 3124340,
+      "name": "Demeo x Dungeons & Dragons: Battlemarked",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-09-05T16:00:48.830376"
     }
   }
 }
