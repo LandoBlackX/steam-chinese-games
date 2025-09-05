@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-09-05T00:01:01.368705"
+    "updated": "2025-09-05T05:04:03.040982"
   },
   "games": {
     "570": {
@@ -301226,6 +301226,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-09-05T00:00:19.028411"
+    },
+    "3100370": {
+      "appid": 3100370,
+      "name": "Black Jacket",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-09-05T05:03:41.865918"
     }
   }
 }
