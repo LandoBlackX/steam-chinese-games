@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-09-05T18:35:03.571541"
+    "updated": "2025-09-05T19:07:56.871038"
   },
   "games": {
     "570": {
@@ -301418,6 +301418,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-09-05T18:35:03.569002"
+    },
+    "3126200": {
+      "appid": 3126200,
+      "name": "Divine Wish",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-09-05T19:07:56.553244"
     }
   }
 }
