@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-09-05T14:04:14.513509"
+    "updated": "2025-09-05T14:29:39.890846"
   },
   "games": {
     "570": {
@@ -301370,6 +301370,30 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-09-05T14:04:14.334660"
+    },
+    "3123120": {
+      "appid": 3123120,
+      "name": "Kill the Brickman",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-09-05T14:29:39.423705"
+    },
+    "3123130": {
+      "appid": 3123130,
+      "name": "明月的女儿",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-09-05T14:29:39.571886"
+    },
+    "3123420": {
+      "appid": 3123420,
+      "name": "领航员计划 NavigatorProject",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-09-05T14:29:39.736399"
     }
   }
 }
