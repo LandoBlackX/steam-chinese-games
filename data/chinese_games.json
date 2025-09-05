@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-09-05T05:30:11.855464"
+    "updated": "2025-09-05T06:01:24.769762"
   },
   "games": {
     "570": {
@@ -301242,6 +301242,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-09-05T05:30:01.146891"
+    },
+    "3102750": {
+      "appid": 3102750,
+      "name": "蛆虫的幸福",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-09-05T06:01:13.716536"
     }
   }
 }
