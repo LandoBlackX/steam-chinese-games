@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-09-05T10:31:29.250335"
+    "updated": "2025-09-05T11:03:06.469503"
   },
   "games": {
     "570": {
@@ -301322,6 +301322,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-09-05T10:31:28.552951"
+    },
+    "3115660": {
+      "appid": 3115660,
+      "name": "Where Is Mrs Peregrine?",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-09-05T11:02:44.706642"
     }
   }
 }
