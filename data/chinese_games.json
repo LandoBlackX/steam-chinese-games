@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-09-06T02:36:32.781386"
+    "updated": "2025-09-06T04:05:35.152233"
   },
   "games": {
     "570": {
@@ -301458,6 +301458,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-09-06T02:36:32.779310"
+    },
+    "3127480": {
+      "appid": 3127480,
+      "name": "CornField",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-09-06T04:05:35.150315"
     }
   }
 }
