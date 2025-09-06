@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-09-06T04:05:35.152233"
+    "updated": "2025-09-06T11:42:39.428546"
   },
   "games": {
     "570": {
@@ -301466,6 +301466,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-09-06T04:05:35.150315"
+    },
+    "3129050": {
+      "appid": 3129050,
+      "name": "Echoes of Mora",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-09-06T11:42:39.072372"
     }
   }
 }
