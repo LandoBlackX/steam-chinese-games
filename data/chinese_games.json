@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-09-06T11:42:39.428546"
+    "updated": "2025-09-06T13:17:00.847387"
   },
   "games": {
     "570": {
@@ -301474,6 +301474,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-09-06T11:42:39.072372"
+    },
+    "3129360": {
+      "appid": 3129360,
+      "name": "Aksun",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-09-06T13:17:00.684214"
     }
   }
 }
