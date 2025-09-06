@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-09-05T23:00:54.719800"
+    "updated": "2025-09-06T02:36:32.781386"
   },
   "games": {
     "570": {
@@ -301450,6 +301450,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-09-05T23:00:54.555226"
+    },
+    "3127030": {
+      "appid": 3127030,
+      "name": "Hallowanderband",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-09-06T02:36:32.779310"
     }
   }
 }
