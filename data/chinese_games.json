@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-09-06T13:17:00.847387"
+    "updated": "2025-09-06T13:39:34.120258"
   },
   "games": {
     "570": {
@@ -301482,6 +301482,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-09-06T13:17:00.684214"
+    },
+    "3129420": {
+      "appid": 3129420,
+      "name": "ASPIS",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-09-06T13:39:33.975224"
     }
   }
 }
