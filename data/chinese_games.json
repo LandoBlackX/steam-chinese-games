@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-09-06T13:39:34.120258"
+    "updated": "2025-09-06T14:28:41.663365"
   },
   "games": {
     "570": {
@@ -301490,6 +301490,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-09-06T13:39:33.975224"
+    },
+    "3129900": {
+      "appid": 3129900,
+      "name": "Murmurs of Fear - A whisper of loneliness",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-09-06T14:28:41.173675"
     }
   }
 }
