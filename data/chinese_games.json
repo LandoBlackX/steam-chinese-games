@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-09-06T14:28:41.663365"
+    "updated": "2025-09-06T22:28:35.537625"
   },
   "games": {
     "570": {
@@ -301498,6 +301498,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-09-06T14:28:41.173675"
+    },
+    "3131610": {
+      "appid": 3131610,
+      "name": "Bread",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-09-06T22:28:35.534946"
     }
   }
 }
