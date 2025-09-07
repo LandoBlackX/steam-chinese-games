@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-09-06T22:28:35.537625"
+    "updated": "2025-09-07T01:22:18.602296"
   },
   "games": {
     "570": {
@@ -301506,6 +301506,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-09-06T22:28:35.534946"
+    },
+    "3131930": {
+      "appid": 3131930,
+      "name": "Click the Ball!",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-09-07T01:22:18.600258"
     }
   }
 }
