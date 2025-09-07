@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-09-07T06:00:55.036483"
+    "updated": "2025-09-07T07:07:53.013218"
   },
   "games": {
     "570": {
@@ -301530,6 +301530,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-09-07T06:00:55.034194"
+    },
+    "3133210": {
+      "appid": 3133210,
+      "name": "Bargan's Treasure",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-09-07T07:07:52.849094"
     }
   }
 }
