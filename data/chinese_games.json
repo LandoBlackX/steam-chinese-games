@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-09-07T01:22:18.602296"
+    "updated": "2025-09-07T05:29:29.485588"
   },
   "games": {
     "570": {
@@ -301514,6 +301514,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-09-07T01:22:18.600258"
+    },
+    "3132870": {
+      "appid": 3132870,
+      "name": "雾隐天途",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-09-07T05:29:29.483014"
     }
   }
 }
