@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-09-07T05:29:29.485588"
+    "updated": "2025-09-07T06:00:55.036483"
   },
   "games": {
     "570": {
@@ -301522,6 +301522,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-09-07T05:29:29.483014"
+    },
+    "3133060": {
+      "appid": 3133060,
+      "name": "矮人防线",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-09-07T06:00:55.034194"
     }
   }
 }
