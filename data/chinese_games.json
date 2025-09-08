@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-09-08T11:07:33.640139"
+    "updated": "2025-09-08T16:03:35.672862"
   },
   "games": {
     "570": {
@@ -301554,6 +301554,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-09-08T11:02:43.051732"
+    },
+    "3135410": {
+      "appid": 3135410,
+      "name": "修仙记——消消乐乱斗",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-09-08T16:03:35.670469"
     }
   }
 }
