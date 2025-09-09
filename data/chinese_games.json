@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-09-09T05:05:57.161890"
+    "updated": "2025-09-09T09:32:29.155791"
   },
   "games": {
     "570": {
@@ -301570,6 +301570,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-09-09T04:49:06.735067"
+    },
+    "1698390": {
+      "appid": 1698390,
+      "name": "氏族演武",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-09-09T09:17:17.680397"
     }
   }
 }
