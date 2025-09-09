@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-09-08T16:03:35.672862"
+    "updated": "2025-09-09T05:05:57.161890"
   },
   "games": {
     "570": {
@@ -301562,6 +301562,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-09-08T16:03:35.670469"
+    },
+    "956710": {
+      "appid": 956710,
+      "name": "边境大地",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-09-09T04:49:06.735067"
     }
   }
 }
