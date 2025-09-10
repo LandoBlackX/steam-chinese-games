@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-09-10T05:02:41.879301"
+    "updated": "2025-09-10T08:01:48.032504"
   },
   "games": {
     "570": {
@@ -301586,6 +301586,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-09-10T05:00:14.819488"
+    },
+    "1934870": {
+      "appid": 1934870,
+      "name": "Wirm",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-09-10T07:48:54.674192"
     }
   }
 }
