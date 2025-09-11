@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-09-10T08:01:48.032504"
+    "updated": "2025-09-11T02:57:11.656931"
   },
   "games": {
     "570": {
@@ -301594,6 +301594,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-09-10T07:48:54.674192"
+    },
+    "2743810": {
+      "appid": 2743810,
+      "name": "你妈真漂亮",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-09-11T02:51:14.471432"
     }
   }
 }
