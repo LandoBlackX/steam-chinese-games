@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-09-11T02:57:11.656931"
+    "updated": "2025-09-11T03:40:08.300131"
   },
   "games": {
     "570": {
@@ -301602,6 +301602,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-09-11T02:51:14.471432"
+    },
+    "2911070": {
+      "appid": 2911070,
+      "name": "BAD BOY BROTHER",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-09-11T03:36:35.011046"
     }
   }
 }
