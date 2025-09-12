@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-09-11T15:03:50.653776"
+    "updated": "2025-09-12T11:03:21.644658"
   },
   "games": {
     "570": {
@@ -301618,6 +301618,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-09-11T14:55:54.108158"
+    },
+    "1340140": {
+      "appid": 1340140,
+      "name": "DRACU-RIOT!",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-09-12T10:46:50.956948"
     }
   }
 }
