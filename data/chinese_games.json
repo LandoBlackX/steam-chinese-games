@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-09-12T17:04:01.753386"
+    "updated": "2025-09-15T06:03:12.360284"
   },
   "games": {
     "570": {
@@ -301634,6 +301634,14 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-09-12T16:55:30.937457"
+    },
+    "3084370": {
+      "appid": 3084370,
+      "name": "Ricochet Abyss",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-09-15T06:01:58.363727"
     }
   }
 }
