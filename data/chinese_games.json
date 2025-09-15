@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-09-15T06:03:12.360284"
+    "updated": "2025-09-15T11:04:19.969409"
   },
   "games": {
     "570": {
@@ -301642,6 +301642,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-09-15T06:01:58.363727"
+    },
+    "2421360": {
+      "appid": 2421360,
+      "name": "仙君的日常生活",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-09-15T10:55:11.206919"
     }
   }
 }
