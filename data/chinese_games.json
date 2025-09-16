@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-09-16T05:30:30.025946"
+    "updated": "2025-09-16T12:44:19.840765"
   },
   "games": {
     "570": {
@@ -301658,6 +301658,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-09-16T05:13:50.329569"
+    },
+    "3063190": {
+      "appid": 3063190,
+      "name": "旅人竞技场",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-09-16T12:42:45.499804"
     }
   }
 }
