@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-09-19T05:05:01.689406"
+    "updated": "2025-09-19T06:37:52.127250"
   },
   "games": {
     "570": {
@@ -301682,6 +301682,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-09-19T05:02:41.375134"
+    },
+    "1446920": {
+      "appid": 1446920,
+      "name": "狗狗祟祟",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-09-19T06:21:53.837467"
     }
   }
 }
