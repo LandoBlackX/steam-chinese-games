@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-09-19T12:44:33.395886"
+    "updated": "2025-09-20T19:41:30.519839"
   },
   "games": {
     "570": {
@@ -301698,6 +301698,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-09-19T12:42:03.841797"
+    },
+    "2834070": {
+      "appid": 2834070,
+      "name": "Gadget Master: A Secret Agency Lab",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-09-20T19:37:15.773608"
     }
   }
 }
