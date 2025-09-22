@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-09-20T19:41:30.519839"
+    "updated": "2025-09-22T10:05:08.706613"
   },
   "games": {
     "570": {
@@ -301706,6 +301706,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-09-20T19:37:15.773608"
+    },
+    "2529000": {
+      "appid": 2529000,
+      "name": "伪神的弃牌 The False God's Fold",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-09-22T09:56:44.642932"
     }
   }
 }
