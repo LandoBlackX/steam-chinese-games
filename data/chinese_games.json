@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-09-22T10:05:08.706613"
+    "updated": "2025-09-23T22:31:13.695440"
   },
   "games": {
     "570": {
@@ -301714,6 +301714,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-09-22T09:56:44.642932"
+    },
+    "738820": {
+      "appid": 738820,
+      "name": "Kubik",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-09-23T22:13:09.670490"
     }
   }
 }
