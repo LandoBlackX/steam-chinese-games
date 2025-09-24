@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-09-24T01:17:45.615363"
+    "updated": "2025-09-24T02:56:06.439107"
   },
   "games": {
     "570": {
@@ -301746,6 +301746,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-09-24T01:04:42.464714"
+    },
+    "2411940": {
+      "appid": 2411940,
+      "name": "Urban Legend Hunters: Ghosts in the Circuit",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-09-24T02:46:23.017660"
     }
   }
 }
