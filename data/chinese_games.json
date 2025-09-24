@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-09-24T10:31:23.999370"
+    "updated": "2025-09-24T15:31:33.249436"
   },
   "games": {
     "570": {
@@ -301770,6 +301770,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-09-24T10:21:04.631138"
+    },
+    "2246040": {
+      "appid": 2246040,
+      "name": "The Phoenix Gene VR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-09-24T15:20:25.130298"
     }
   }
 }
