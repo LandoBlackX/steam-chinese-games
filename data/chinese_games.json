@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-09-24T15:31:33.249436"
+    "updated": "2025-09-24T17:29:31.098769"
   },
   "games": {
     "570": {
@@ -301778,6 +301778,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-09-24T15:20:25.130298"
+    },
+    "2750900": {
+      "appid": 2750900,
+      "name": "深空哨兵",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-09-24T17:23:43.016581"
     }
   }
 }
