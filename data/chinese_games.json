@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-09-25T11:04:27.840330"
+    "updated": "2025-09-25T12:01:18.339896"
   },
   "games": {
     "570": {
@@ -301826,6 +301826,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-09-25T10:53:46.134268"
+    },
+    "2767910": {
+      "appid": 2767910,
+      "name": "Countryballs at War",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-09-25T11:55:43.026229"
     }
   }
 }
