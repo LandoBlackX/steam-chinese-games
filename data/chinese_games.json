@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-09-25T02:58:11.268755"
+    "updated": "2025-09-25T11:04:27.840330"
   },
   "games": {
     "570": {
@@ -301818,6 +301818,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-09-25T02:56:03.297395"
+    },
+    "2308710": {
+      "appid": 2308710,
+      "name": "The Lost Edge",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-09-25T10:53:46.134268"
     }
   }
 }
