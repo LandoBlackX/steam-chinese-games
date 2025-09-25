@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-09-25T00:00:55.686403"
+    "updated": "2025-09-25T02:58:11.268755"
   },
   "games": {
     "570": {
@@ -301802,6 +301802,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-09-25T00:00:34.695355"
+    },
+    "2576150": {
+      "appid": 2576150,
+      "name": "LET IT DIE: INFERNO",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-09-25T02:50:24.439294"
+    },
+    "3003430": {
+      "appid": 3003430,
+      "name": "TINY METAL 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-09-25T02:56:03.297395"
     }
   }
 }
