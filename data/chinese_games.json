@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-09-24T21:01:19.207499"
+    "updated": "2025-09-25T00:00:55.686403"
   },
   "games": {
     "570": {
@@ -301794,6 +301794,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-09-24T20:56:55.368222"
+    },
+    "3131640": {
+      "appid": 3131640,
+      "name": "Deus Ex Remastered",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-09-25T00:00:34.695355"
     }
   }
 }
