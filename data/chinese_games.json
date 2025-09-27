@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-09-26T18:01:11.591870"
+    "updated": "2025-09-27T04:06:39.009743"
   },
   "games": {
     "570": {
@@ -301850,6 +301850,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-09-26T17:59:25.030301"
+    },
+    "2234910": {
+      "appid": 2234910,
+      "name": "废土机器人：返祖",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-09-27T03:55:25.624985"
     }
   }
 }
