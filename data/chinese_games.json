@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-09-27T04:06:39.009743"
+    "updated": "2025-09-28T17:27:44.403351"
   },
   "games": {
     "570": {
@@ -301858,6 +301858,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-09-27T03:55:25.624985"
+    },
+    "2182680": {
+      "appid": 2182680,
+      "name": "Task Time",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-09-28T17:15:39.029475"
     }
   }
 }
