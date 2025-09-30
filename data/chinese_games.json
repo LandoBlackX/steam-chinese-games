@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-09-30T10:03:54.422534"
+    "updated": "2025-09-30T10:32:05.370028"
   },
   "games": {
     "570": {
@@ -301898,6 +301898,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-09-30T09:54:33.884361"
+    },
+    "1027210": {
+      "appid": 1027210,
+      "name": "反贼江湖",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-09-30T10:15:24.382039"
     }
   }
 }
