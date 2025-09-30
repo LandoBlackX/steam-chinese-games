@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-09-29T15:04:36.111486"
+    "updated": "2025-09-30T02:54:25.544095"
   },
   "games": {
     "570": {
@@ -301874,6 +301874,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-09-29T15:03:11.276458"
+    },
+    "3074850": {
+      "appid": 3074850,
+      "name": "Utawarerumono: ZAN 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-09-30T02:53:00.779945"
     }
   }
 }
