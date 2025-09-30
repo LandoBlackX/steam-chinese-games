@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-09-30T09:32:26.614595"
+    "updated": "2025-09-30T10:03:54.422534"
   },
   "games": {
     "570": {
@@ -301890,6 +301890,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-09-30T09:16:17.011223"
+    },
+    "2450780": {
+      "appid": 2450780,
+      "name": "Rainbow Gate",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-09-30T09:54:33.884361"
     }
   }
 }
