@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-09-30T02:54:25.544095"
+    "updated": "2025-09-30T09:32:26.614595"
   },
   "games": {
     "570": {
@@ -301882,6 +301882,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-09-30T02:53:00.779945"
+    },
+    "1374680": {
+      "appid": 1374680,
+      "name": "Hazard Levels",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-09-30T09:16:17.011223"
     }
   }
 }
