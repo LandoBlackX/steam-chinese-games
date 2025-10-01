@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-09-30T10:32:05.370028"
+    "updated": "2025-10-01T17:30:03.942736"
   },
   "games": {
     "570": {
@@ -301906,6 +301906,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-09-30T10:15:24.382039"
+    },
+    "2231980": {
+      "appid": 2231980,
+      "name": "HELLREAPER 地狱收割者",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-01T17:18:42.192701"
     }
   }
 }
