@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-01T17:30:03.942736"
+    "updated": "2025-10-02T02:39:08.223438"
   },
   "games": {
     "570": {
@@ -301914,6 +301914,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-01T17:18:42.192701"
+    },
+    "3132340": {
+      "appid": 3132340,
+      "name": "窥视",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-02T02:38:47.009002"
     }
   }
 }
