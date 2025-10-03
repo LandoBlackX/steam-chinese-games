@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-02T02:39:08.223438"
+    "updated": "2025-10-03T11:02:34.132369"
   },
   "games": {
     "570": {
@@ -301922,6 +301922,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-02T02:38:47.009002"
+    },
+    "2776660": {
+      "appid": 2776660,
+      "name": "GOKA Street",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-03T10:57:05.134353"
     }
   }
 }
