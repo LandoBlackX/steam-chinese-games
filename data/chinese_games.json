@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-03T11:02:34.132369"
+    "updated": "2025-10-06T14:31:09.791362"
   },
   "games": {
     "570": {
@@ -301930,6 +301930,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-03T10:57:05.134353"
+    },
+    "2306490": {
+      "appid": 2306490,
+      "name": "GNAW",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-06T14:20:34.014856"
+    },
+    "2993990": {
+      "appid": 2993990,
+      "name": "I Am Machine",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-06T14:28:41.378625"
     }
   }
 }
