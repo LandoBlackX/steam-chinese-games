@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-06T14:31:09.791362"
+    "updated": "2025-10-06T20:32:04.167760"
   },
   "games": {
     "570": {
@@ -301946,6 +301946,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-06T14:28:41.378625"
+    },
+    "2823660": {
+      "appid": 2823660,
+      "name": "Bloodfang",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-06T20:27:50.057290"
     }
   }
 }
