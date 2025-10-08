@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-06T20:32:04.167760"
+    "updated": "2025-10-08T21:03:03.656427"
   },
   "games": {
     "570": {
@@ -301954,6 +301954,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-06T20:27:50.057290"
+    },
+    "2373260": {
+      "appid": 2373260,
+      "name": "钟塔",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-08T20:52:39.197711"
     }
   }
 }
