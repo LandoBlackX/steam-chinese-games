@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-08T21:03:03.656427"
+    "updated": "2025-10-09T10:02:42.930338"
   },
   "games": {
     "570": {
@@ -301962,6 +301962,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-08T20:52:39.197711"
+    },
+    "2685440": {
+      "appid": 2685440,
+      "name": "萊雅的行商蜜事",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-09T09:56:09.070751"
     }
   }
 }
