@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-10T08:35:34.031792"
+    "updated": "2025-10-10T20:01:03.089568"
   },
   "games": {
     "570": {
@@ -301978,6 +301978,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-10T08:32:13.271159"
+    },
+    "3128680": {
+      "appid": 3128680,
+      "name": "Spearrowblade",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-10T20:00:41.983388"
     }
   }
 }
