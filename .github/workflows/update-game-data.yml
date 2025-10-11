@@ -12,7 +12,7 @@ concurrency:
 jobs:
   update:
     runs-on: ubuntu-latest
-    timeout-minutes: 45  # # 修改：增加超时到45分钟
+    timeout-minutes: 45  # 修改：增加超时到45分钟
     permissions:
       contents: write
 
@@ -40,19 +40,16 @@ jobs:
             fi
           fi
 
-      # # 修改：添加清理旧无效AppIDs步骤
+      # 修改：添加清理旧无效AppIDs步骤（修复缩进：python -c 内代码平齐，用;连接语句）
       - name: Clean old invalid AppIDs
         run: |
           if [ -f data/invalid_appids.json ]; then
             python -c "
-            import json
-            from datetime import datetime, timedelta
-            with open('data/invalid_appids.json', 'r') as f:
-                data = json.load(f)
-            cutoff = (datetime.now() - timedelta(days=30)).isoformat()
-            data['invalid_appids'] = [e for e in data.get('invalid_appids', []) if e['timestamp'] >= cutoff]
-            with open('data/invalid_appids.json', 'w') as f:
-                json.dump(data, f, indent=2)
+            import json; from datetime import datetime, timedelta;
+            with open('data/invalid_appids.json', 'r') as f: data = json.load(f);
+            cutoff = (datetime.now() - timedelta(days=30)).isoformat();
+            data['invalid_appids'] = [e for e in data.get('invalid_appids', []) if e['timestamp'] >= cutoff];
+            with open('data/invalid_appids.json', 'w') as f: json.dump(data, f, indent=2);
             print(f'Cleaned to {len(data[\"invalid_appids\"])} entries')
             "
           fi
@@ -82,12 +79,12 @@ jobs:
 
       - name: Run scraper
         id: scraper
-        # # 修改：添加DEBUG_MODE=true
+        # 修改：添加DEBUG_MODE=true
         env:
           DEBUG_MODE: true
         run: python Src/scraper.py
 
-      # # 修改：添加调试失败AppIDs步骤
+      # 修改：添加调试失败AppIDs步骤
       - name: Debug failed AppIDs
         if: always()
         run: |
