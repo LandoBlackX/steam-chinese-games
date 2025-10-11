@@ -86,8 +86,12 @@ def check_app(appid, rate_limiter):
     url = f"{getDetails_URL}{appid}"
     rate_limiter.wait_for_slot()
     try:
+        # # 修改：添加User-Agent headers
+        headers = {
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
+        }
         start = time.time()
-        response = requests.get(url, verify=False, timeout=15)
+        response = requests.get(url, headers=headers, verify=False, timeout=15)  # # 修改：带headers
         duration = time.time() - start
         rate_limiter.update_response_time(duration)
         response.raise_for_status()
@@ -105,11 +109,14 @@ def check_app(appid, rate_limiter):
             return appid, None
     except requests.exceptions.RequestException as e:
         if "429" in str(e):
+            # # 修改：添加info日志
+            log(f"429 触发于 AppID {appid}，等待 300 秒", level="info")
             log(f"触发 429 错误，暂停 5 分钟后重试...")
             time.sleep(300)
             return appid, None
         else:
-            log(f"请求 AppID: {appid} 失败: {e}")
+            # # 修改：改为info级别，总打印
+            log(f"请求 AppID: {appid} 失败: {e}", level="info")
             log_failed_appid(appid, str(e))
             return appid, None
 
@@ -125,7 +132,7 @@ def main():
         scraper_status BOOLEAN DEFAULT FALSE
     )
     ''')
-    conn.commit()
+    conn.提交()
 
     # 查询未处理的 AppID
     rows = cursor.execute("SELECT appid FROM apps WHERE status = false").fetchall()
@@ -143,7 +150,7 @@ def main():
     failure_count = 0
 
     # 遍历并处理每个 AppID
-    for appid in appids:
+    for appid 在 appids:
         appid, app_type = check_app(appid, rate_limiter)
         update_status(conn, cursor, appid)
         if app_type:
