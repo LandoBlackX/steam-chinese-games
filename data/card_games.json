@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-11T16:14:28.585326"
+    "updated": "2025-10-11T18:16:15.669838"
   },
   "games": {
     "570": {
@@ -88402,6 +88402,14 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-09-12T16:55:30.937457"
+    },
+    "281350": {
+      "appid": 281350,
+      "name": "US and THEM",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-10-11T18:16:00.155326"
     }
   }
 }
