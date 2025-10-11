@@ -1,7 +1,7 @@
 name: Update Game Data
 on:
   schedule:
-    - cron: '*/20 * * * *'  # 每20分钟运行一次（原为每2分钟：'*/2 * * * *'）
+    - cron: '*/20 * * * *'  # 每20分钟运行一次
   workflow_dispatch:
 
 # 并发控制
@@ -12,7 +12,7 @@ concurrency:
 jobs:
   update:
     runs-on: ubuntu-latest
-    timeout-minutes: 30  # 增加到 30 分钟（原为15，表示整个 update 作业（包括所有步骤）必须在 15 分钟内完成）
+    timeout-minutes: 45  # # 修改：增加超时到45分钟
     permissions:
       contents: write
 
@@ -40,6 +40,23 @@ jobs:
             fi
           fi
 
+      # # 修改：添加清理旧无效AppIDs步骤
+      - name: Clean old invalid AppIDs
+        run: |
+          if [ -f data/invalid_appids.json ]; then
+            python -c "
+            import json
+            from datetime import datetime, timedelta
+            with open('data/invalid_appids.json', 'r') as f:
+                data = json.load(f)
+            cutoff = (datetime.now() - timedelta(days=30)).isoformat()
+            data['invalid_appids'] = [e for e in data.get('invalid_appids', []) if e['timestamp'] >= cutoff]
+            with open('data/invalid_appids.json', 'w') as f:
+                json.dump(data, f, indent=2)
+            print(f'Cleaned to {len(data[\"invalid_appids\"])} entries')
+            "
+          fi
+
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
@@ -65,7 +82,22 @@ jobs:
 
       - name: Run scraper
         id: scraper
+        # # 修改：添加DEBUG_MODE=true
+        env:
+          DEBUG_MODE: true
         run: python Src/scraper.py
+
+      # # 修改：添加调试失败AppIDs步骤
+      - name: Debug failed AppIDs
+        if: always()
+        run: |
+          echo "::group::🔍 检查失败 AppID"
+          if [ -f data/failed_appids.json ]; then
+            cat data/failed_appids.json | jq '.invalid_appids | length' || echo "No JSON"
+          else
+            echo "No failed_appids.json"
+          fi
+          echo "::endgroup::"
 
       - name: Commit changes
         uses: EndBug/add-and-commit@v9
