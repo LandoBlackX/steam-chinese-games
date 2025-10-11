@@ -1,7 +1,7 @@
 name: Update Game Data
 on:
   schedule:
-    - cron: '*/20 * * * *'  # 每20分钟运行一次
+    - cron: '*/20 * * * *'  # 每20分钟运行一次（原为每2分钟：'*/2 * * * *'）
   workflow_dispatch:
 
 # 并发控制
@@ -12,7 +12,7 @@ concurrency:
 jobs:
   update:
     runs-on: ubuntu-latest
-    timeout-minutes: 45  # 修改：增加超时到45分钟
+    timeout-minutes: 30  # 增加到 30 分钟（原为15，表示整个 update 作业（包括所有步骤）必须在 15 分钟内完成）
     permissions:
       contents: write
 
@@ -65,27 +65,12 @@ jobs:
 
       - name: Run scraper
         id: scraper
-        # 修改：添加DEBUG_MODE=true
-        env:
-          DEBUG_MODE: true
         run: python Src/scraper.py
-
-      # 修改：添加调试失败AppIDs步骤
-      - name: Debug failed AppIDs
-        if: always()
-        run: |
-          echo "::group::🔍 检查失败 AppID"
-          if [ -f data/failed_appids.json ]; then
-            cat data/failed_appids.json | jq '.invalid_appids | length' || echo "No JSON"
-          else
-            echo "No failed_appids.json"
-          fi
-          echo "::endgroup::"
 
       - name: Commit changes
         uses: EndBug/add-and-commit@v9
         with:
-          add: 'data/*.json data/*.db'  # 自动包含 invalid_appids.json
+          add: 'data/chinese_games.json data/card_games.json data/app_list.db data/invalid_appids.json data/failed_appids.json'  # 精确文件，排除 output.json 避免大 diff
           message: |
             🎮 游戏数据更新 [${{ github.run_number }}]
             统计结果：
