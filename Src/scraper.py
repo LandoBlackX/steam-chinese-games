@@ -219,31 +219,30 @@ def load_game_appids(existing_chinese, existing_cards, conn, cursor):
                     if appid_int not in recorded_appids:
                         invalid_appids.append({
                             "appid": appid_int,
-                            "reason": "不在数据库或已下架",
+                            "reason": "不在数据库中",
                             "timestamp": datetime.now().isoformat()
                         })
-                        log(f"AppID {appid_int} 不在数据库中，记录为无效", level="debug")
                     continue
-                
                 cursor.execute("SELECT scraper_status, last_checked FROM apps WHERE appid = ?", (appid_int,))
                 row = cursor.fetchone()
-                if row and row[0]:
-                    skipped_status += 1
-                    log(f"AppID {appid_int} 已处理 (scraper_status = true)", level="debug")
+                if row is None:
                     continue
-                
-                if row and row[1]:
+                scraper_status, last_checked_str = row
+                if scraper_status:
+                    skipped_status += 1
+                    continue
+                if last_checked_str:
                     try:
-                        last_checked_time = datetime.fromisoformat(row[1])
+                        last_checked_time = datetime.fromisoformat(last_checked_str)
                         if last_checked_time >= recheck_period:
                             skipped_time += 1
-                            log(f"AppID {appid_int} 最近检查时间 {row[1]}，跳过", level="debug")
                             continue
                     except ValueError:
-                        log(f"AppID {appid_int} 的 last_checked 格式错误: {row[1]}，标记为待处理", level="debug")
-                
-                log(f"AppID {appid_int} 通过筛选，添加到待处理列表", level="debug")
+                        pass
+                if appid_int in recorded_appids:
+                    continue
                 appids.append(appid_int)
+                log(f"AppID {appid_str} 通过筛选，添加到待处理列表", level="debug")
             
             if invalid_appids:
                 invalid_data["invalid_appids"] = invalid_data.get("invalid_appids", []) + invalid_appids
@@ -254,24 +253,22 @@ def load_game_appids(existing_chinese, existing_cards, conn, cursor):
             log(f"跳过 {skipped_status} 个 AppID (scraper_status = true)")
             log(f"跳过 {skipped_time} 个 AppID (last_checked 最近)")
             log(f"从 output.json 加载到 {len(appids)} 个待处理游戏类 AppID")
-            # 修改：小批测试，从100改为10
-            return appids[:10], db_appids
+            return appids[:100], db_appids
     except Exception as e:
         log(f"加载 output.json 失败: {str(e)}")
         return [], set()
 
 def check_game(appid, rate_limiter):
+    headers = {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
+    }
     url = f"https://store.steampowered.com/api/appdetails?appids={appid}&l=schinese"
     max_attempts = 3
     for attempt in range(max_attempts):
         rate_limiter.wait_for_slot()
         try:
-            # 修改：添加User-Agent headers
-            headers = {
-                'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
-            }
             start = time.time()
-            response = requests.get(url, headers=headers, timeout=15)  # 修改：带headers
+            response = requests.get(url, headers=headers, timeout=15)
             duration = time.time() - start
             rate_limiter.update_response_time(duration)
             response.raise_for_status()
@@ -294,22 +291,18 @@ def check_game(appid, rate_limiter):
                     "last_checked": datetime.utcnow().isoformat()
                 }
             else:
-                # 修改：改为info级别
-                log(f"获取 AppID: {appid} 的详情失败 (尝试 {attempt + 1}/{max_attempts})", level="info")
+                log(f"获取 AppID: {appid} 的详情失败 (尝试 {attempt + 1}/{max_attempts})", level="debug")
                 log_failed_appid(appid, "API 返回 success: false")
                 if attempt < max_attempts - 1:
                     time.sleep(5)
                 continue
         except requests.exceptions.RequestException as e:
             if "429" in str(e):
-                # 修改：添加info日志
-                log(f"429 触发于 AppID {appid}，等待 300 秒", level="info")
                 log(f"触发 429 错误，暂停 5 分钟后重试... (尝试 {attempt + 1}/{max_attempts})", level="debug")
                 time.sleep(300)
                 continue
             else:
-                # 修改：改为info级别
-                log(f"请求 AppID: {appid} 失败: {e} (尝试 {attempt + 1}/{max_attempts})", level="info")
+                log(f"请求 AppID: {appid} 失败: {e} (尝试 {attempt + 1}/{max_attempts})", level="debug")
                 log_failed_appid(appid, str(e))
                 if attempt < max_attempts - 1:
                     time.sleep(5)
@@ -319,7 +312,7 @@ def check_game(appid, rate_limiter):
 def save_data(data, file_path):
     try:
         with open(file_path, 'w', encoding='utf-8') as f:
-            json.dump(data, f, indent=2, ensure_ascii=False)
+            json.dump(data, f, indent=2, ensure_ascii=False, sort_keys=True)  # 新增: sort_keys=True 减 diff
         file_size = file_path.stat().st_size / (1024 * 1024)
         log(f"数据已保存至 {file_path}，文件大小: {file_size:.2f} MB")
         if file_size > 50:
@@ -329,10 +322,8 @@ def save_data(data, file_path):
         raise
 
 def main():
+    clean_old_invalid_appids()  # 新增: 自动清理
     log("脚本启动")
-    # 新增：运行清理（在 scraper 开始前）
-    clean_old_invalid_appids()
-    
     chinese_data = safe_load_json(DATA_DIR / "chinese_games.json")
     card_data = safe_load_json(DATA_DIR / "card_games.json")
     
@@ -392,13 +383,8 @@ def main():
                 log(f"重置 {reset_count} 个游戏类 AppID 的 scraper_status 为 FALSE")
     
     test_appids, db_appids = load_game_appids(chinese_data, card_data, conn, cursor)
-    # 修改：排除已知无效AppIDs
-    invalid_data = safe_load_invalid_appids()
-    invalid_set = {entry["appid"] for entry in invalid_data.get("invalid_appids", [])}
-    test_appids = [appid for appid in test_appids if appid not in invalid_set]
-    log(f"排除 {len([a for a in test_appids if a in invalid_set])} 个已知无效 AppID")  # 修正日志计算（过滤前计算排除数）
     if not test_appids:
-        log("排除后无 AppID 待处理，终止执行")
+        log("没有需要处理的新 AppID，终止执行")
         cursor.close()
         conn.close()
         return
