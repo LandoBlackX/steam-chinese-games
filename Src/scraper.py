@@ -236,7 +236,8 @@ def load_game_appids(existing_chinese, existing_cards, conn, cursor):
             log(f"跳过 {skipped_status} 个 AppID (scraper_status = true)")
             log(f"跳过 {skipped_time} 个 AppID (last_checked 最近)")
             log(f"从 output.json 加载到 {len(appids)} 个待处理游戏类 AppID")
-            return appids[:100], db_appids
+            # # 修改：小批测试，从100改为10
+            return appids[:10], db_appids
     except Exception as e:
         log(f"加载 output.json 失败: {str(e)}")
         return [], set()
@@ -247,8 +248,12 @@ def check_game(appid, rate_limiter):
     for attempt in range(max_attempts):
         rate_limiter.wait_for_slot()
         try:
+            # # 修改：添加User-Agent headers
+            headers = {
+                'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
+            }
             start = time.time()
-            response = requests.get(url, timeout=15)
+            response = requests.get(url, headers=headers, timeout=15)  # # 修改：带headers
             duration = time.time() - start
             rate_limiter.update_response_time(duration)
             response.raise_for_status()
@@ -271,18 +276,22 @@ def check_game(appid, rate_limiter):
                     "last_checked": datetime.utcnow().isoformat()
                 }
             else:
-                log(f"获取 AppID: {appid} 的详情失败 (尝试 {attempt + 1}/{max_attempts})", level="debug")
+                # # 修改：改为info级别
+                log(f"获取 AppID: {appid} 的详情失败 (尝试 {attempt + 1}/{max_attempts})", level="info")
                 log_failed_appid(appid, "API 返回 success: false")
                 if attempt < max_attempts - 1:
                     time.sleep(5)
                 continue
         except requests.exceptions.RequestException as e:
             if "429" in str(e):
+                # # 修改：添加info日志
+                log(f"429 触发于 AppID {appid}，等待 300 秒", level="info")
                 log(f"触发 429 错误，暂停 5 分钟后重试... (尝试 {attempt + 1}/{max_attempts})", level="debug")
                 time.sleep(300)
                 continue
             else:
-                log(f"请求 AppID: {appid} 失败: {e} (尝试 {attempt + 1}/{max_attempts})", level="debug")
+                # # 修改：改为info级别
+                log(f"请求 AppID: {appid} 失败: {e} (尝试 {attempt + 1}/{max_attempts})", level="info")
                 log_failed_appid(appid, str(e))
                 if attempt < max_attempts - 1:
                     time.sleep(5)
@@ -362,8 +371,13 @@ def main():
                 log(f"重置 {reset_count} 个游戏类 AppID 的 scraper_status 为 FALSE")
     
     test_appids, db_appids = load_game_appids(chinese_data, card_data, conn, cursor)
+    # # 修改：排除已知无效AppIDs
+    invalid_data = safe_load_invalid_appids()
+    invalid_set = {entry["appid"] for entry in invalid_data.get("invalid_appids", [])}
+    test_appids = [appid for appid in test_appids if appid not in invalid_set]
+    log(f"排除 {len(test_appids) - len([a for a in test_appids if a in invalid_set])} 个已知无效 AppID")  # 注意：这里len(test_appids)后已过滤，所以调整日志计算
     if not test_appids:
-        log("没有需要处理的新 AppID，终止执行")
+        log("排除后无 AppID 待处理，终止执行")
         cursor.close()
         conn.close()
         return
@@ -381,26 +395,26 @@ def main():
             success_count += 1
             scraper_status = True if result["supports_chinese"] and result["supports_cards"] else False
             cursor.execute(
-                "UPDATE apps SET scraper_status = ?, retry_count = 0, last_checked = ? WHERE appid = ?",
-                (scraper_status, datetime.utcnow().isoformat(), appid)
+                "UPDATE apps SET scraper_status = ?, retry_count = 0, last_checked = ? WHERE appid = ?"，
+                (scraper_status, datetime.utcnow()。isoformat(), appid)
             )
         else:
             failure_count += 1
-            cursor.execute("UPDATE apps SET retry_count = retry_count + 1 WHERE appid = ?", (appid,))
+            cursor.execute("UPDATE apps SET retry_count = retry_count + 1 WHERE appid = ?"， (appid,))
             cursor.execute("SELECT retry_count FROM apps WHERE appid = ?", (appid,))
             retry_count = cursor.fetchone()[0]
             if retry_count >= 5:
                 cursor.execute(
                     "UPDATE apps SET scraper_status = TRUE, last_checked = ? WHERE appid = ?",
-                    (datetime.utcnow().isoformat(), appid)
+                    (datetime.utcnow()。isoformat(), appid)
                 )
                 log(f"AppID {appid} 重试次数达到 5 次，标记为已处理")
-        conn.commit()
+        conn.提交()
 
     log(f"处理完成！成功: {success_count}, 失败: {failure_count}")
 
     updated = False
-    for result in results:
+    for result 在 results:
         if result:
             appid_str = str(result["appid"])
             if result["supports_chinese"]:
@@ -411,7 +425,7 @@ def main():
                 updated = True
 
     if updated:
-        timestamp = datetime.utcnow().isoformat()
+        timestamp = datetime.utcnow()。isoformat()
         chinese_data["_metadata"]["updated"] = timestamp
         card_data["_metadata"]["updated"] = timestamp
         save_data(chinese_data, DATA_DIR / "chinese_games.json")
