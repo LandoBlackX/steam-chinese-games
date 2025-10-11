@@ -40,19 +40,10 @@ jobs:
             fi
           fi
 
-      # 修改：添加清理旧无效AppIDs步骤（修复缩进：python -c 内代码平齐，用;连接语句）
+      # 修改：添加清理旧无效AppIDs步骤（修复：单行 python -c，无内部缩进/换行）
       - name: Clean old invalid AppIDs
         run: |
-          if [ -f data/invalid_appids.json ]; then
-            python -c "
-            import json; from datetime import datetime, timedelta;
-            with open('data/invalid_appids.json', 'r') as f: data = json.load(f);
-            cutoff = (datetime.now() - timedelta(days=30)).isoformat();
-            data['invalid_appids'] = [e for e in data.get('invalid_appids', []) if e['timestamp'] >= cutoff];
-            with open('data/invalid_appids.json', 'w') as f: json.dump(data, f, indent=2);
-            print(f'Cleaned to {len(data[\"invalid_appids\"])} entries')
-            "
-          fi
+          if [ -f data/invalid_appids.json ]; then python -c "import json; from datetime import datetime, timedelta; with open('data/invalid_appids.json', 'r') as f: data = json.load(f); cutoff = (datetime.now() - timedelta(days=30)).isoformat(); data['invalid_appids'] = [e for e in data.get('invalid_appids', []) if e['timestamp'] >= cutoff]; with open('data/invalid_appids.json', 'w') as f: json.dump(data, f, indent=2); print(f'Cleaned to {len(data[\"invalid_appids\"])} entries')"; fi
 
       - name: Set up Python
         uses: actions/setup-python@v4
