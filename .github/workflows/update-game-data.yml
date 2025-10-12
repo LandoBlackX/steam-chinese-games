@@ -4,10 +4,10 @@ on:
     - cron: '*/20 * * * *'  # 每20分钟运行一次
   workflow_dispatch:
 
-# 并发控制（修改：加 run_id 唯一化 + 临时禁用 cancel-in-progress，避免 Fetching 取消）
+# 并发控制（加 run_id 唯一化，生产回 cancel-in-progress: true 防撞）
 concurrency:
-  group: ${{ github.workflow }}-${{ github.run_id }}  # 唯一 group，每 run 独立
-  cancel-in-progress: false  # 临时禁用取消旧跑，生产可回 true
+  group: ${{ github.workflow }}-${{ github.run_id }}
+  cancel-in-progress: false  # 临时 false，生产 true
 
 jobs:
   update:
@@ -26,7 +26,9 @@ jobs:
         run: |
           git config --global user.email "actions@github.com"
           git config --global user.name "GitHub Actions"
-          git pull --rebase origin main
+          git stash push -m "Temp stash for pull"  # 保存 unstaged
+          git pull --rebase origin main  # 拉远程
+          git stash pop || true  # 恢复 stash，失败忽略
 
       - name: Setup Git LFS
         run: |
@@ -77,11 +79,10 @@ jobs:
 
       - name: Run scraper
         id: scraper
-        env:  # 加回 DEBUG（日志更详）
+        env:
           DEBUG_MODE: true
         run: python Src/scraper.py
 
-      # 加回 Debug 步骤（always()，检查失败）
       - name: Debug failed AppIDs
         if: always()
         run: |
@@ -96,7 +97,7 @@ jobs:
       - name: Commit changes
         uses: EndBug/add-and-commit@v9
         with:
-          add: 'data/chinese_games.json data/card_games.json data/app_list.db data/invalid_appids.json data/failed_appids.json'  # 精确，防大 diff
+          add: 'data/chinese_games.json data/card_games.json data/app_list.db data/invalid_appids.json data/failed_appids.json'
           message: |
             🎮 游戏数据更新 [${{ github.run_number }}]
             统计结果：
