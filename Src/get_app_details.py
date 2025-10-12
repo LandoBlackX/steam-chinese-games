@@ -3,7 +3,7 @@ import sys
 import json
 import sqlite3
 from pathlib import Path
-from datetime import datetime, timedelta
+from datetime import datetime
 import time
 import requests
 from concurrent.futures import ThreadPoolExecutor, as_completed
@@ -53,6 +53,18 @@ def load_appids_from_db():
     log(f"从数据库加载 {len(appids)} 个待处理 AppID")
     return appids
 
+def update_status(appid):
+    """更新 AppID status 为 TRUE（并发安全，用锁或单独 conn）"""
+    try:
+        conn = sqlite3.connect(DB_PATH)
+        cursor = conn.cursor()
+        cursor.execute("UPDATE apps SET status = true WHERE appid = ?", (appid,))
+        conn.commit()
+        conn.close()
+        log(f"标记 AppID {appid} status = TRUE", level="debug")
+    except Exception as e:
+        log(f"更新 status 失败 for {appid}: {e}", level="info")
+
 def check_app_details(appid, rate_limiter):
     url = f"https://store.steampowered.com/api/appdetails?appids={appid}"
     max_attempts = 3
@@ -90,6 +102,8 @@ def check_app_details(appid, rate_limiter):
                 if attempt < max_attempts - 1:
                     time.sleep(5)
                 continue
+    # 失败也标记 processed
+    update_status(appid)
     return None
 
 def save_output(data):
@@ -133,6 +147,8 @@ def main():
             except Exception as e:
                 log(f"处理 AppID {appid} 时异常: {e}", level="info")
                 failure_count += 1
+            # 并发后立即更新 status
+            update_status(appid)
 
     save_output(output_data)
     log(f"处理完成！成功: {success_count}, 失败: {failure_count}")
