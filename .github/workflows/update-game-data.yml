@@ -22,14 +22,14 @@ jobs:
         with:
           fetch-depth: 1
 
+      - name: Pull LFS files
+        run: git lfs pull
+
       - name: Pull remote changes
         run: |
           git config --global user.email "actions@github.com"
           git config --global user.name "GitHub Actions"
-          git lfs pull  # 拉 LFS 文件
           rm -f data/output.json  # 清临时文件
-          git rm --cached data/output.json || true  # 删 index 残留
-          git lfs checkout  # 转换指针到文件
           git clean -fd  # 清 untracked
           git checkout -- .  # 刷新 index
           git stash push -m "Temp stash for pull" || true
