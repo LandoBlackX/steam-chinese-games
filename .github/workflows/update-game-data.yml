@@ -22,6 +22,12 @@ jobs:
         with:
           fetch-depth: 1
 
+      - name: Pull remote changes
+        run: |
+          git config --global user.email "actions@github.com"
+          git config --global user.name "GitHub Actions"
+          git pull --rebase origin main
+
       - name: Setup Git LFS
         run: |
           git lfs install
@@ -81,7 +87,7 @@ jobs:
         run: |
           echo "::group::🔍 检查失败 AppID"
           if [ -f data/failed_appids.json ]; then
-            cat data/failed_appids.json | jq '.invalid_appids | length' || echo "No JSON"
+            cat data/failed_appids.json | jq -r '.invalid_appids | length // empty' || echo "0"
           else
             echo "No failed_appids.json"
           fi
