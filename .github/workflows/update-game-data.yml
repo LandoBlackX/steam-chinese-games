@@ -70,7 +70,7 @@ jobs:
       - name: Commit changes
         uses: EndBug/add-and-commit@v9
         with:
-          add: 'data/*.json data/*.db'  # 自动包含 invalid_appids.json
+          add: 'Src/scraper.py Src/get_app_details.py .github/workflows/update-game-data.yml'
           message: |
             🎮 游戏数据更新 [${{ github.run_number }}]
             统计结果：
