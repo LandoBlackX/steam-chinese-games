@@ -43,6 +43,24 @@ def log(message, level="info"):
         return
     print(f"[{datetime.now().isoformat()}] {message}", file=sys.stderr, flush=True)
 
+# 新增：清理旧无效 AppIDs 函数（集成到 Python，避免 shell 问题）
+def clean_old_invalid_appids():
+    if not INVALID_LOG_PATH.exists():
+        log("invalid_appids.json 不存在，跳过清理")
+        return
+    try:
+        with open(INVALID_LOG_PATH, 'r', encoding='utf-8') as f:
+            data = json.load(f)
+        cutoff = (datetime.now() - timedelta(days=30)).isoformat()
+        old_count = len(data.get('invalid_appids', []))
+        data['invalid_appids'] = [e for e in data.get('invalid_appids', []) if e['timestamp'] >= cutoff]
+        new_count = len(data['invalid_appids'])
+        with open(INVALID_LOG_PATH, 'w', encoding='utf-8') as f:
+            json.dump(data, f, indent=2, ensure_ascii=False)
+        log(f"清理无效 AppIDs: 从 {old_count} 条减至 {new_count} 条 (保留最近 30 天)")
+    except Exception as e:
+        log(f"清理 invalid_appids.json 失败: {str(e)}")
+
 def safe_load_invalid_appids():
     try:
         if INVALID_LOG_PATH.exists() and INVALID_LOG_PATH.stat().st_size > 0:
@@ -201,31 +219,30 @@ def load_game_appids(existing_chinese, existing_cards, conn, cursor):
                     if appid_int not in recorded_appids:
                         invalid_appids.append({
                             "appid": appid_int,
-                            "reason": "不在数据库或已下架",
+                            "reason": "不在数据库中",
                             "timestamp": datetime.now().isoformat()
                         })
-                        log(f"AppID {appid_int} 不在数据库中，记录为无效", level="debug")
                     continue
-                
                 cursor.execute("SELECT scraper_status, last_checked FROM apps WHERE appid = ?", (appid_int,))
                 row = cursor.fetchone()
-                if row and row[0]:
-                    skipped_status += 1
-                    log(f"AppID {appid_int} 已处理 (scraper_status = true)", level="debug")
+                if row is None:
                     continue
-                
-                if row and row[1]:
+                scraper_status, last_checked_str = row
+                if scraper_status:
+                    skipped_status += 1
+                    continue
+                if last_checked_str:
                     try:
-                        last_checked_time = datetime.fromisoformat(row[1])
+                        last_checked_time = datetime.fromisoformat(last_checked_str)
                         if last_checked_time >= recheck_period:
                             skipped_time += 1
-                            log(f"AppID {appid_int} 最近检查时间 {row[1]}，跳过", level="debug")
                             continue
                     except ValueError:
-                        log(f"AppID {appid_int} 的 last_checked 格式错误: {row[1]}，标记为待处理", level="debug")
-                
-                log(f"AppID {appid_int} 通过筛选，添加到待处理列表", level="debug")
+                        pass
+                if appid_int in recorded_appids:
+                    continue
                 appids.append(appid_int)
+                log(f"AppID {appid_str} 通过筛选，添加到待处理列表", level="debug")
             
             if invalid_appids:
                 invalid_data["invalid_appids"] = invalid_data.get("invalid_appids", []) + invalid_appids
@@ -242,13 +259,16 @@ def load_game_appids(existing_chinese, existing_cards, conn, cursor):
         return [], set()
 
 def check_game(appid, rate_limiter):
+    headers = {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
+    }
     url = f"https://store.steampowered.com/api/appdetails?appids={appid}&l=schinese"
     max_attempts = 3
     for attempt in range(max_attempts):
         rate_limiter.wait_for_slot()
         try:
             start = time.time()
-            response = requests.get(url, timeout=15)
+            response = requests.get(url, headers=headers, timeout=15)
             duration = time.time() - start
             rate_limiter.update_response_time(duration)
             response.raise_for_status()
@@ -292,7 +312,7 @@ def check_game(appid, rate_limiter):
 def save_data(data, file_path):
     try:
         with open(file_path, 'w', encoding='utf-8') as f:
-            json.dump(data, f, indent=2, ensure_ascii=False)
+            json.dump(data, f, indent=2, ensure_ascii=False, sort_keys=True)  # 新增: sort_keys=True 减 diff
         file_size = file_path.stat().st_size / (1024 * 1024)
         log(f"数据已保存至 {file_path}，文件大小: {file_size:.2f} MB")
         if file_size > 50:
@@ -302,6 +322,7 @@ def save_data(data, file_path):
         raise
 
 def main():
+    clean_old_invalid_appids()  # 新增: 自动清理
     log("脚本启动")
     chinese_data = safe_load_json(DATA_DIR / "chinese_games.json")
     card_data = safe_load_json(DATA_DIR / "card_games.json")
