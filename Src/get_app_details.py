@@ -1,23 +1,20 @@
-import json
 import os
-import sqlite3
-import warnings
 import sys
+import json
+import sqlite3
 from pathlib import Path
-import requests
-from urllib3.exceptions import InsecureRequestWarning
+from datetime import datetime, timedelta
 import time
-from datetime import datetime
-
-warnings.simplefilter('ignore', InsecureRequestWarning)
+import requests
+from concurrent.futures import ThreadPoolExecutor, as_completed
 
 BASE_DIR = Path(os.environ.get('GITHUB_WORKSPACE', Path(__file__).parent.parent))
 DATA_DIR = BASE_DIR / 'data'
 DATA_DIR.mkdir(exist_ok=True, parents=True)
+DB_PATH = DATA_DIR / "app_list.db"
+OUTPUT_PATH = DATA_DIR / "output.json"
 
-db_path = DATA_DIR / 'app_list.db'
-getDetails_URL = "https://store.steampowered.com/api/appdetails?l=english&appids="
-output_file = DATA_DIR / 'output.json'
+DEBUG_MODE = os.getenv("DEBUG_MODE", "false").lower() == "true"
 
 class SteamRateLimiter:
     def __init__(self, requests_per_minute=200):
@@ -42,123 +39,104 @@ class SteamRateLimiter:
     def update_response_time(self, response_time):
         self.last_response_time = response_time
 
-def log(message):
+def log(message, level="info"):
+    if level == "debug" and not DEBUG_MODE:
+        return
     print(f"[{datetime.now().isoformat()}] {message}", file=sys.stderr, flush=True)
 
-def log_failed_appid(appid, reason):
-    failed_file = DATA_DIR / 'failed_appids.json'
-    failed_data = {}
-    if failed_file.exists():
-        with open(failed_file, 'r', encoding='utf-8') as f:
-            failed_data = json.load(f)
-    failed_data[str(appid)] = reason
-    with open(failed_file, 'w', encoding='utf-8') as f:
-        json.dump(failed_data, f, indent=2, ensure_ascii=False)
+def load_appids_from_db():
+    conn = sqlite3.connect(DB_PATH)
+    cursor = conn.cursor()
+    cursor.execute("SELECT appid FROM apps WHERE status = FALSE")
+    appids = [row[0] for row in cursor.fetchall()]
+    conn.close()
+    log(f"从数据库加载 {len(appids)} 个待处理 AppID")
+    return appids
 
-def write_results_to_file(results):
-    # (1) 加载现有内容
-    if output_file.exists():
-        with open(output_file, 'r', encoding='utf-8') as f:
-            existing_results = json.load(f)
-    else:
-        existing_results = {}
+def check_app_details(appid, rate_limiter):
+    url = f"https://store.steampowered.com/api/appdetails?appids={appid}"
+    max_attempts = 3
+    for attempt in range(max_attempts):
+        rate_limiter.wait_for_slot()
+        try:
+            headers = {
+                'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
+            }
+            start = time.time()
+            response = requests.get(url, headers=headers, timeout=15)
+            duration = time.time() - start
+            rate_limiter.update_response_time(duration)
+            response.raise_for_status()
+            data = response.json()
+            appid_str = str(appid)
+            game_data = data.get(appid_str, {})
+            if game_data.get("success", False):
+                game_info = game_data["data"]
+                app_type = game_info.get("type", "unknown")
+                log(f"AppID {appid} 类型: {app_type} | 响应时间: {duration:.2f}秒", level="debug")
+                return {appid_str: app_type}
+            else:
+                log(f"AppID {appid} API 返回 success: false (尝试 {attempt + 1}/{max_attempts})", level="info")
+                if attempt < max_attempts - 1:
+                    time.sleep(5)
+                continue
+        except requests.exceptions.RequestException as e:
+            if "429" in str(e):
+                log(f"429 触发于 AppID {appid}，等待 300 秒", level="info")
+                time.sleep(300)
+                continue
+            else:
+                log(f"请求 AppID {appid} 失败: {e} (尝试 {attempt + 1}/{max_attempts})", level="info")
+                if attempt < max_attempts - 1:
+                    time.sleep(5)
+                continue
+    return None
 
-    # (2) 更新内容
-    existing_results.update(results)
-
-    # (3) 按 AppID 升序排序
-    sorted_results = {str(k): v for k, v in sorted(
-        existing_results.items(),
-        key=lambda item: int(item[0])  # 按 AppID 的数值升序排序
-    )}
-
-    # (4) 写回文件
-    with open(output_file, 'w', encoding='utf-8') as f:
-        json.dump(sorted_results, f, ensure_ascii=False, indent=4)
-
-    log("已将结果写入 output.json 并按 AppID 升序排序")
-
-def update_status(conn, cursor, appid):
-    cursor.execute("UPDATE apps SET status = true WHERE appid = ?", (appid,))
-    conn.commit()
-
-def check_app(appid, rate_limiter):
-    url = f"{getDetails_URL}{appid}"
-    rate_limiter.wait_for_slot()
+def save_output(data):
     try:
-        start = time.time()
-        response = requests.get(url, verify=False, timeout=15)
-        duration = time.time() - start
-        rate_limiter.update_response_time(duration)
-        response.raise_for_status()
-        data = response.json()
-        appid_str = str(appid)
-        if data.get(appid_str, {}).get('success'):
-            app_data = data[appid_str]['data']
-            app_type = app_data.get('type', 'Unknown')
-            log(f"AppID: {appid}, 类型: {app_type}, 响应时间: {duration:.2f}秒")
-            return appid, app_type
-        else:
-            reason = f"API 返回: {data.get(appid_str, '无数据')}"
-            log(f"获取 AppID: {appid} 的详情失败，{reason}")
-            log_failed_appid(appid, reason)
-            return appid, None
-    except requests.exceptions.RequestException as e:
-        if "429" in str(e):
-            log(f"触发 429 错误，暂停 5 分钟后重试...")
-            time.sleep(300)
-            return appid, None
-        else:
-            log(f"请求 AppID: {appid} 失败: {e}")
-            log_failed_appid(appid, str(e))
-            return appid, None
+        with open(OUTPUT_PATH, 'w', encoding='utf-8') as f:
+            json.dump(data, f, indent=2, ensure_ascii=False)
+        file_size = OUTPUT_PATH.stat().st_size / (1024 * 1024)
+        log(f"output.json 已保存，大小: {file_size:.2f} MB")
+    except Exception as e:
+        log(f"保存 output.json 失败: {str(e)}")
+        raise
 
 def main():
-    conn = sqlite3.connect(db_path)
-    cursor = conn.cursor()
-
-    # 创建数据库表（如果不存在）
-    cursor.execute('''
-    CREATE TABLE IF NOT EXISTS apps (
-        appid INTEGER PRIMARY KEY,
-        status BOOLEAN DEFAULT FALSE,
-        scraper_status BOOLEAN DEFAULT FALSE
-    )
-    ''')
-    conn.commit()
-
-    # 查询未处理的 AppID
-    rows = cursor.execute("SELECT appid FROM apps WHERE status = false").fetchall()
-    appids = [row[0] for row in rows[:100]]  # 每次处理 100 个 AppID
+    log("Get App Details 脚本启动")
+    appids = load_appids_from_db()
     if not appids:
-        log("没有需要处理的新 AppID，终止执行")
-        cursor.close()
-        conn.close()
+        log("无 AppID 待处理，跳过")
         return
 
+    # 小批测试：限制到前 100 个（可调整）
+    appids = appids[:100]
     log(f"开始处理 {len(appids)} 个 AppID")
+
     rate_limiter = SteamRateLimiter(requests_per_minute=200)
-    results = {}
+    output_data = {}
     success_count = 0
     failure_count = 0
 
-    # 遍历并处理每个 AppID
-    for appid in appids:
-        appid, app_type = check_app(appid, rate_limiter)
-        update_status(conn, cursor, appid)
-        if app_type:
-            results[appid] = app_type
-            success_count += 1
-        else:
-            failure_count += 1
+    # 使用线程池并发（max_workers=10，避免过载）
+    with ThreadPoolExecutor(max_workers=10) as executor:
+        future_to_appid = {executor.submit(check_app_details, appid, rate_limiter): appid for appid in appids}
+        for future in as_completed(future_to_appid):
+            appid = future_to_appid[future]
+            try:
+                result = future.result()
+                if result:
+                    output_data.update(result)
+                    success_count += 1
+                else:
+                    failure_count += 1
+            except Exception as e:
+                log(f"处理 AppID {appid} 时异常: {e}", level="info")
+                failure_count += 1
 
+    save_output(output_data)
     log(f"处理完成！成功: {success_count}, 失败: {failure_count}")
-    write_results_to_file(results)
-    cursor.close()
-    conn.close()
-
-    log("完成 get_app_details.py，等待 5 秒后继续...")
-    time.sleep(5)
+    log(f"output.json 中游戏类 AppID 数量: {sum(1 for v in output_data.values() if v == 'game')}")
 
 if __name__ == "__main__":
     main()
