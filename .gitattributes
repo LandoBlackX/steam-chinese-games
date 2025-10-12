@@ -1,3 +1,5 @@
-data/*.json filter=lfs diff=lfs merge=lfs -text
-\!data/output.json
-data/*.db filter=lfs diff=lfs merge=lfs -text
+data/chinese_games.json filter=lfs diff=lfs merge=lfs -text
+data/card_games.json filter=lfs diff=lfs merge=lfs -text
+data/app_list.db filter=lfs diff=lfs merge=lfs -text
+data/invalid_appids.json filter=lfs diff=lfs merge=lfs -text
+data/failed_appids.json filter=lfs diff=lfs merge=lfs -text
