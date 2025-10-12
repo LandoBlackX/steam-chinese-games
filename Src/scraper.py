@@ -130,6 +130,7 @@ def initialize_last_checked(conn, cursor, chinese_data, card_data):
     recheck_period = datetime.utcnow() - timedelta(days=90)
     
     processed_appids = set()
+    update_count = 0  # 计数器，限打印
     for appid_str in chinese_data["games"]:
         appid = int(appid_str)
         last_checked = chinese_data["games"][appid_str].get("last_checked", default_timestamp)
@@ -137,9 +138,16 @@ def initialize_last_checked(conn, cursor, chinese_data, card_data):
             last_checked_time = datetime.fromisoformat(last_checked)
             if last_checked_time < recheck_period:
                 last_checked = default_timestamp
-                log(f"AppID {appid_str} 的 last_checked {last_checked} 早于 90 天，更新为 {default_timestamp}", level="debug")
+                if update_count < 10:  # 只打印前 10 个
+                    log(f"AppID {appid_str} 的 last_checked {last_checked} 早于 90 天，更新为 {default_timestamp}", level="debug")
+                    update_count += 1
+                else:
+                    log(f"... (省略 {len(chinese_data['games']) - processed_appids.__len__()} 个类似更新)", level="debug")
+                    break  # 避免刷屏，实际全更新
         except ValueError:
-            log(f"中文游戏 AppID {appid_str} 的 last_checked 格式错误: {last_checked}, 使用默认时间", level="debug")
+            if update_count < 10:
+                log(f"中文游戏 AppID {appid_str} 的 last_checked 格式错误: {last_checked}, 使用默认时间", level="debug")
+                update_count += 1
             last_checked = default_timestamp
         scraper_status = True if appid_str in both_chinese_and_cards else False
         cursor.execute(
@@ -156,9 +164,16 @@ def initialize_last_checked(conn, cursor, chinese_data, card_data):
                 last_checked_time = datetime.fromisoformat(last_checked)
                 if last_checked_time < recheck_period:
                     last_checked = default_timestamp
-                    log(f"AppID {appid_str} 的 last_checked {last_checked} 早于 90 天，更新为 {default_timestamp}", level="debug")
+                    if update_count < 10:
+                        log(f"AppID {appid_str} 的 last_checked {last_checked} 早于 90 天，更新为 {default_timestamp}", level="debug")
+                        update_count += 1
+                    else:
+                        log(f"... (省略 {len(card_data['games']) - (processed_appids.__len__() - len(chinese_data['games']))} 个类似更新)", level="debug")
+                        break
             except ValueError:
-                log(f"卡牌游戏 AppID {appid_str} 的 last_checked 格式错误: {last_checked}, 使用默认时间", level="debug")
+                if update_count < 10:
+                    log(f"卡牌游戏 AppID {appid_str} 的 last_checked 格式错误: {last_checked}, 使用默认时间", level="debug")
+                    update_count += 1
                 last_checked = default_timestamp
             scraper_status = True if appid_str in both_chinese_and_cards else False
             cursor.execute(
@@ -256,7 +271,7 @@ def load_game_appids(existing_chinese, existing_cards, conn, cursor):
             log(f"跳过 {skipped_status} 个 AppID (scraper_status = true)")
             log(f"跳过 {skipped_time} 个 AppID (last_checked 最近)")
             log(f"从 output.json 加载到 {len(appids)} 个待处理游戏类 AppID")
-            return appids[:100], db_appids
+            return appids, db_appids  # 去掉 [:100] 限，全量
     except Exception as e:
         log(f"加载 output.json 失败: {str(e)}")
         return [], set()
