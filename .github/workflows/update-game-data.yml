@@ -28,9 +28,10 @@ jobs:
           git config --global user.name "GitHub Actions"
           git lfs pull  # 拉 LFS 文件
           rm -f data/output.json  # 清临时文件
-          git stash push -m "Temp stash for pull" || true  # 保存 unstaged，失败忽略
+          git stash push -m "Temp stash for pull" || true  # 保存 unstaged
           git pull --rebase origin main  # 拉远程
-          git stash pop || true  # 恢复，失败忽略
+          git reset --hard origin/main  # 清 LFS cache/unstaged
+          git stash pop || true  # 恢复 stash
 
       - name: Setup Git LFS
         run: |
