@@ -106,12 +106,15 @@ def safe_load_json(file):
         if file.exists() and file.stat().st_size > 0:
             with open(file, 'r', encoding='utf-8') as f:
                 data = json.load(f)
-                data.setdefault("_metadata", {})
-                data.setdefault("games", {})
-                return data
-    except Exception as e:
-        log(f"加载 {file} 失败: {str(e)}")
-    return init_data_structure()
+                if "_metadata" in data and "games" in data:  # 验证结构
+                    data.setdefault("_metadata", {})
+                    data.setdefault("games", {})
+                    return data
+                else:
+                    log(f"{file} 结构无效，重置为空")
+    except (json.JSONDecodeError, KeyError) as e:
+        log(f"加载 {file} 失败 (JSON 无效): {str(e)}，重置为空")
+    return init_data_structure()  # fallback 空结构
 
 def initialize_last_checked(conn, cursor, chinese_data, card_data):
     """从 chinese_games.json 和 card_games.json 初始化 apps 表的 last_checked 和 scraper_status"""
