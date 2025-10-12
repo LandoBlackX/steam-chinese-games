@@ -28,17 +28,19 @@ jobs:
           git config --global user.name "GitHub Actions"
           git lfs pull  # 拉 LFS 文件
           rm -f data/output.json  # 清临时文件
-          git clean -fd  # 清 untracked files
+          git rm --cached data/output.json || true  # 删 index 残留
+          git lfs checkout  # 转换指针到文件
+          git clean -fd  # 清 untracked
           git checkout -- .  # 刷新 index
-          git stash push -m "Temp stash for pull" || true  # 保存 unstaged
-          git pull --rebase origin main  # 拉远程
-          git reset --hard origin/main  # 清 cache
-          git stash pop || true  # 恢复 stash
+          git stash push -m "Temp stash for pull" || true
+          git pull --rebase origin main
+          git reset --hard origin/main
+          git stash pop || true
 
       - name: Setup Git LFS
         run: |
           git lfs install
-          git lfs track "data/*.json" "data/*.db"
+          git lfs track "data/chinese_games.json" "data/card_games.json" "data/app_list.db" "data/invalid_appids.json" "data/failed_appids.json"
           git add .gitattributes
 
       - name: Clean old database
