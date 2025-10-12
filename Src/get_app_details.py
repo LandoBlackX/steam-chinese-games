@@ -123,8 +123,7 @@ def main():
         log("无 AppID 待处理，跳过")
         return
 
-    # 小批测试：限制到前 100 个（可调整）
-    appids = appids[:100]
+    # 去掉小批限，全量处理（生产模式）
     log(f"开始处理 {len(appids)} 个 AppID")
 
     rate_limiter = SteamRateLimiter(requests_per_minute=200)
