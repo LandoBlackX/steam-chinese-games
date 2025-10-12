@@ -54,7 +54,7 @@ def load_appids_from_db():
     return appids
 
 def update_status(appid):
-    """更新 AppID status 为 TRUE（并发安全，用锁或单独 conn）"""
+    """更新 AppID status 为 TRUE（并发安全，用单独 conn）"""
     try:
         conn = sqlite3.connect(DB_PATH)
         cursor = conn.cursor()
