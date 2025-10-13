@@ -1,18 +1,18 @@
 name: Update Game Data
 on:
   schedule:
-    - cron: '*/20 * * * *'  # 每20分钟运行一次
+    - cron: '*/20 * * * *'  # 每20分钟运行一次（原为每2分钟：'*/2 * * * *'）
   workflow_dispatch:
 
 # 并发控制
 concurrency:
-  group: ${{ github.workflow }}-${{ github.run_id }}
-  cancel-in-progress: false  # 临时 false，生产 true
+  group: ${{ github.workflow }}
+  cancel-in-progress: true
 
 jobs:
   update:
     runs-on: ubuntu-latest
-    timeout-minutes: 30
+    timeout-minutes: 30  # 增加到 30 分钟（原为15，表示整个 update 作业（包括所有步骤）必须在 15 分钟内完成）
     permissions:
       contents: write
 
@@ -21,27 +21,6 @@ jobs:
         uses: actions/checkout@v4
         with:
           fetch-depth: 1
-
-      - name: Pull LFS files
-        run: git lfs pull
-
-      - name: Pull remote changes
-        run: |
-          git config --global user.email "actions@github.com"
-          git config --global user.name "GitHub Actions"
-          rm -f data/output.json  # 清临时文件
-          git clean -fd  # 清 untracked
-          git checkout -- .  # 刷新 index
-          git stash push -m "Temp stash for pull" || true
-          git pull --rebase origin main
-          git reset --hard origin/main
-          git stash pop || true
-
-      - name: Setup Git LFS
-        run: |
-          git lfs install
-          git lfs track "data/chinese_games.json" "data/card_games.json" "data/app_list.db" "data/invalid_appids.json" "data/failed_appids.json"
-          git add .gitattributes
 
       - name: Clean old database
         run: |
@@ -86,25 +65,12 @@ jobs:
 
       - name: Run scraper
         id: scraper
-        env:
-          DEBUG_MODE: true
         run: python Src/scraper.py
-
-      - name: Debug failed AppIDs
-        if: always()
-        run: |
-          echo "::group::🔍 检查失败 AppID"
-          if [ -f data/failed_appids.json ]; then
-            cat data/failed_appids.json | jq -r '.invalid_appids | length // empty' || echo "0"
-          else
-            echo "No failed_appids.json"
-          fi
-          echo "::endgroup::"
 
       - name: Commit changes
         uses: EndBug/add-and-commit@v9
         with:
-          add: 'data/chinese_games.json data/card_games.json data/app_list.db data/invalid_appids.json data/failed_appids.json'
+          add: 'data/*.json data/*.db'  # 自动包含 invalid_appids.json
           message: |
             🎮 游戏数据更新 [${{ github.run_number }}]
             统计结果：
