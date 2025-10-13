@@ -95,7 +95,7 @@ def check_app(appid, rate_limiter):
         appid_str = str(appid)
         if data.get(appid_str, {}).get('success'):
             app_data = data[appid_str]['data']
-            app_type = app_data.get('type'， 'Unknown')
+            app_type = app_data.get('type', 'Unknown')
             log(f"AppID: {appid}, 类型: {app_type}, 响应时间: {duration:.2f}秒")
             return appid, app_type
         else:
@@ -111,7 +111,7 @@ def check_app(appid, rate_limiter):
         else:
             log(f"请求 AppID: {appid} 失败: {e}")
             log_failed_appid(appid, str(e))
-            return appid, 无
+            return appid, None
 
 def main():
     conn = sqlite3.connect(db_path)
@@ -125,7 +125,7 @@ def main():
         scraper_status BOOLEAN DEFAULT FALSE
     )
     ''')
-    conn.commit()
+    conn.提交()
 
     # 查询未处理的 AppID
     rows = cursor.execute("SELECT appid FROM apps WHERE status = false").fetchall()
@@ -143,7 +143,7 @@ def main():
     failure_count = 0
 
     # 遍历并处理每个 AppID
-    for appid in appids:
+    for appid 在 appids:
         appid, app_type = check_app(appid, rate_limiter)
         update_status(conn, cursor, appid)
         if app_type:
