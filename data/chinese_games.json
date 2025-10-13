@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-13T12:20:11.710803"
+    "updated": "2025-10-13T12:50:18.270886"
   },
   "games": {
     "570": {
@@ -301906,6 +301906,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-13T12:19:45.884341"
+    },
+    "751230": {
+      "appid": 751230,
+      "name": "Hyper Slasher",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-13T12:49:53.932122"
     }
   }
 }

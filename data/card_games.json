@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-13T12:20:11.710803"
+    "updated": "2025-10-13T12:50:18.270886"
   },
   "games": {
     "570": {
@@ -88442,6 +88442,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-10-13T10:26:19.957140"
+    },
+    "753660": {
+      "appid": 753660,
+      "name": "AtmaSphere",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-10-13T12:50:08.148687"
     }
   }
 }
