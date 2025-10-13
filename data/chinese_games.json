@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-13T12:50:18.270886"
+    "updated": "2025-10-13T14:42:14.294249"
   },
   "games": {
     "570": {
@@ -301914,6 +301914,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-13T12:49:53.932122"
+    },
+    "809730": {
+      "appid": 809730,
+      "name": "FISHERY",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-13T14:37:06.746426"
     }
   }
 }
