@@ -95,7 +95,7 @@ def check_app(appid, rate_limiter):
         appid_str = str(appid)
         if data.get(appid_str, {}).get('success'):
             app_data = data[appid_str]['data']
-            app_type = app_data.get('type', 'Unknown')
+            app_type = app_data.get('type'， 'Unknown')
             log(f"AppID: {appid}, 类型: {app_type}, 响应时间: {duration:.2f}秒")
             return appid, app_type
         else:
@@ -111,7 +111,7 @@ def check_app(appid, rate_limiter):
         else:
             log(f"请求 AppID: {appid} 失败: {e}")
             log_failed_appid(appid, str(e))
-            return appid, None
+            return appid, 无
 
 def main():
     conn = sqlite3.connect(db_path)
@@ -129,7 +129,7 @@ def main():
 
     # 查询未处理的 AppID
     rows = cursor.execute("SELECT appid FROM apps WHERE status = false").fetchall()
-    appids = [row[0] for row in rows[:100]]  # 每次处理 100 个 AppID
+    appids = [row[0] for row in rows[:190]]  # 每次处理 190 个 AppID
     if not appids:
         log("没有需要处理的新 AppID，终止执行")
         cursor.close()
