@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-09-27T04:06:39.009743"
+    "updated": "2025-10-13T06:27:34.844324"
   },
   "games": {
     "570": {
@@ -301858,6 +301858,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-09-27T03:55:25.624985"
+    },
+    "26500": {
+      "appid": 26500,
+      "name": "Cogs",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-13T06:22:19.625695"
     }
   }
 }
