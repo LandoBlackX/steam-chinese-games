@@ -11,20 +11,6 @@ DATA_DIR.mkdir(exist_ok=True, parents=True)
 
 db_path = DATA_DIR / 'app_list.db'
 
-def is_valid_db(db_path):
-    """检查 DB 是否有效 SQLite 文件"""
-    if not db_path.exists():
-        return False
-    try:
-        conn = sqlite3.connect(db_path)
-        cursor = conn.cursor()
-        cursor.execute("SELECT name FROM sqlite_master WHERE type='table';")
-        conn.close()
-        return True
-    except sqlite3.Error as e:
-        print(f"DB 检查失败: {e}")
-        return False
-
 getAppList_URL = "https://api.steampowered.com/ISteamApps/GetAppList/v2/"
 response = requests.get(getAppList_URL)
 
@@ -32,15 +18,6 @@ if response.status_code == 200:
     data = response.json()
     app_list = data['applist']['apps']
     app_ids = [(app['appid'],) for app in app_list]
-
-    # 检查并修复 DB
-    if is_valid_db(db_path):
-        print(f"数据库 {db_path} 有效，继续使用")
-    else:
-        print(f"数据库 {db_path} 无效或损坏，正在重建...")
-        if db_path.exists():
-            db_path.unlink()  # 删损坏文件
-        print("重建新数据库")
 
     conn = sqlite3.connect(db_path)
     cursor = conn.cursor()
@@ -63,8 +40,7 @@ if response.status_code == 200:
             INSERT OR IGNORE INTO apps (appid) VALUES (?) ''', app_id)
         if cursor.rowcount > 0:
             new_count += 1
-            if new_count <= 10:  # 限日志，只打印前 10 个
-                print(f"新增 appid: {app_id[0]}")
+            print(f"新增 appid: {app_id[0]}")
 
     conn.commit()
     end_time = time.time()
