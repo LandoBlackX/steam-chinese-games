@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-13T06:27:34.844324"
+    "updated": "2025-10-13T08:38:14.984578"
   },
   "games": {
     "570": {
@@ -88402,6 +88402,14 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-09-12T16:55:30.937457"
+    },
+    "204340": {
+      "appid": 204340,
+      "name": "Serious Sam 2",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-10-13T08:38:13.402854"
     }
   }
 }
