@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-13T09:17:30.908187"
+    "updated": "2025-10-13T09:38:27.748986"
   },
   "games": {
     "570": {
@@ -88418,6 +88418,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-10-13T09:17:18.672529"
+    },
+    "364710": {
+      "appid": 364710,
+      "name": "Wonky Pigeon!",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-10-13T09:38:17.832138"
     }
   }
 }
