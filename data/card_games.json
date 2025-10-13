@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-13T10:10:41.038742"
+    "updated": "2025-10-13T10:26:42.225584"
   },
   "games": {
     "570": {
@@ -88434,6 +88434,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-10-13T10:10:20.336652"
+    },
+    "562750": {
+      "appid": 562750,
+      "name": "La GRUTA",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-10-13T10:26:19.957140"
     }
   }
 }
