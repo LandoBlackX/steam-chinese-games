@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-13T09:38:27.748986"
+    "updated": "2025-10-13T10:10:41.038742"
   },
   "games": {
     "570": {
@@ -88426,6 +88426,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-10-13T09:38:17.832138"
+    },
+    "510250": {
+      "appid": 510250,
+      "name": "Super Destronaut",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-10-13T10:10:20.336652"
     }
   }
 }
