@@ -236,7 +236,7 @@ def load_game_appids(existing_chinese, existing_cards, conn, cursor):
             log(f"跳过 {skipped_status} 个 AppID (scraper_status = true)")
             log(f"跳过 {skipped_time} 个 AppID (last_checked 最近)")
             log(f"从 output.json 加载到 {len(appids)} 个待处理游戏类 AppID")
-            return appids[:10], db_appids
+            return appids[:190], db_appids
     except Exception as e:
         log(f"加载 output.json 失败: {str(e)}")
         return [], set()
