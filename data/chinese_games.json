@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-13T10:31:39.770667"
+    "updated": "2025-10-13T10:35:57.544588"
   },
   "games": {
     "570": {
@@ -301890,6 +301890,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-13T10:31:08.517125"
+    },
+    "606160": {
+      "appid": 606160,
+      "name": "ROUTINE",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-13T10:35:27.420799"
     }
   }
 }
