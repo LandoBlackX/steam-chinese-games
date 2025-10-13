@@ -125,7 +125,7 @@ def main():
         scraper_status BOOLEAN DEFAULT FALSE
     )
     ''')
-    conn.提交()
+    conn.commit()
 
     # 查询未处理的 AppID
     rows = cursor.execute("SELECT appid FROM apps WHERE status = false").fetchall()
@@ -143,7 +143,7 @@ def main():
     failure_count = 0
 
     # 遍历并处理每个 AppID
-    for appid 在 appids:
+    for appid in appids:
         appid, app_type = check_app(appid, rate_limiter)
         update_status(conn, cursor, appid)
         if app_type:
