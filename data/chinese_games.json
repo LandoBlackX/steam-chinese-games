@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-13T18:25:19.839051"
+    "updated": "2025-10-13T19:17:25.422139"
   },
   "games": {
     "570": {
@@ -301930,6 +301930,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-13T18:20:11.238021"
+    },
+    "1027210": {
+      "appid": 1027210,
+      "name": "反贼江湖",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-13T19:11:09.809973"
+    },
+    "1374680": {
+      "appid": 1374680,
+      "name": "Hazard Levels",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-13T19:11:41.524455"
     }
   }
 }
