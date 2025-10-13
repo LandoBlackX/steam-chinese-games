@@ -195,26 +195,26 @@ def load_game_appids(existing_chinese, existing_cards, conn, cursor):
             
             skipped_status = 0
             skipped_time = 0
-            for appid_str 在 game_appids:
+            for appid_str in game_appids:
                 appid_int = int(appid_str)
                 if appid_int not in db_appids:
                     if appid_int not in recorded_appids:
                         invalid_appids.append({
                             "appid": appid_int,
                             "reason": "不在数据库或已下架",
-                            "timestamp": datetime.当前()。isoformat()
+                            "timestamp": datetime.now().isoformat()
                         })
                         log(f"AppID {appid_int} 不在数据库中，记录为无效", level="debug")
                     continue
                 
                 cursor.execute("SELECT scraper_status, last_checked FROM apps WHERE appid = ?", (appid_int,))
                 row = cursor.fetchone()
-                if row 和 row[0]:
+                if row and row[0]:
                     skipped_status += 1
                     log(f"AppID {appid_int} 已处理 (scraper_status = true)", level="debug")
                     continue
                 
-                if row 和 row[1]:
+                if row and row[1]:
                     try:
                         last_checked_time = datetime.fromisoformat(row[1])
                         if last_checked_time >= recheck_period:
