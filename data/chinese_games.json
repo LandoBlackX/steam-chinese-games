@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-14T19:28:11.802980"
+    "updated": "2025-10-14T20:21:08.632448"
   },
   "games": {
     "570": {
@@ -302178,6 +302178,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-14T19:27:38.610700"
+    },
+    "1106680": {
+      "appid": 1106680,
+      "name": "School of Magic: Deck & Slash",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-14T20:15:42.137678"
     }
   }
 }
