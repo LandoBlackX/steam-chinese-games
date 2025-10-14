@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-14T04:08:53.980230"
+    "updated": "2025-10-14T05:05:06.386372"
   },
   "games": {
     "570": {
@@ -302114,6 +302114,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-14T04:08:50.772344"
+    },
+    "3138640": {
+      "appid": 3138640,
+      "name": "总统 47",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-14T05:04:54.247828"
+    },
+    "3140120": {
+      "appid": 3140120,
+      "name": "Wordatro!",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-14T05:05:00.755655"
     }
   }
 }
