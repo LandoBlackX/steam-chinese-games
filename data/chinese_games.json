@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-14T05:05:06.386372"
+    "updated": "2025-10-14T07:37:20.058126"
   },
   "games": {
     "570": {
@@ -302130,6 +302130,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-14T05:05:00.755655"
+    },
+    "994680": {
+      "appid": 994680,
+      "name": "The Dungeon Experience",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-14T07:31:42.174726"
     }
   }
 }
