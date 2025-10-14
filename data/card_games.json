@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-14T16:58:15.794040"
+    "updated": "2025-10-14T18:26:10.209926"
   },
   "games": {
     "570": {
@@ -88450,6 +88450,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-10-13T12:50:08.148687"
+    },
+    "1085630": {
+      "appid": 1085630,
+      "name": "VASARA Collection",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-10-14T18:20:49.599013"
     }
   }
 }
