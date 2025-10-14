@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-14T08:01:35.823234"
+    "updated": "2025-10-14T16:58:15.794040"
   },
   "games": {
     "570": {
@@ -302162,6 +302162,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-14T08:01:25.034624"
+    },
+    "2115670": {
+      "appid": 2115670,
+      "name": "笠三郎的秘密钓场",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-14T16:47:41.646767"
     }
   }
 }
