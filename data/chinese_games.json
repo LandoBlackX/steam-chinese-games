@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-14T07:37:20.058126"
+    "updated": "2025-10-14T08:01:35.823234"
   },
   "games": {
     "570": {
@@ -302138,6 +302138,30 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-14T07:31:42.174726"
+    },
+    "3141300": {
+      "appid": 3141300,
+      "name": "雀道 Mahjong Route",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-14T08:01:19.686438"
+    },
+    "3141630": {
+      "appid": 3141630,
+      "name": "Montabi",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-14T08:01:20.829821"
+    },
+    "3142790": {
+      "appid": 3142790,
+      "name": "Lustful Chemistry",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-14T08:01:25.034624"
     }
   }
 }
