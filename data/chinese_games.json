@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-15T13:27:03.363745"
+    "updated": "2025-10-15T14:31:39.336818"
   },
   "games": {
     "570": {
@@ -302282,6 +302282,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-15T13:11:31.961580"
+    },
+    "1237690": {
+      "appid": 1237690,
+      "name": "HVOR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-15T14:15:23.272252"
     }
   }
 }
