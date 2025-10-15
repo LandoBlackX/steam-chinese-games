@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-14T21:44:47.854194"
+    "updated": "2025-10-15T03:01:36.177673"
   },
   "games": {
     "570": {
@@ -302194,6 +302194,54 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-14T21:44:36.374594"
+    },
+    "3144440": {
+      "appid": 3144440,
+      "name": "Reaper Rules",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-15T03:01:24.365020"
+    },
+    "3145540": {
+      "appid": 3145540,
+      "name": "BLUE NIGHT LAUNDROMAT",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-15T03:01:29.730886"
+    },
+    "3145620": {
+      "appid": 3145620,
+      "name": "无光之晓",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-15T03:01:30.225523"
+    },
+    "3145740": {
+      "appid": 3145740,
+      "name": "VRider SBK™",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-15T03:01:31.217086"
+    },
+    "3146080": {
+      "appid": 3146080,
+      "name": "极乐宿舍",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-15T03:01:33.082886"
+    },
+    "3146490": {
+      "appid": 3146490,
+      "name": "Drift On Destiny Line",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-15T03:01:34.983824"
     }
   }
 }
