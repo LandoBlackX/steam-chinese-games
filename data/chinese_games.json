@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-15T11:08:05.791069"
+    "updated": "2025-10-15T13:27:03.363745"
   },
   "games": {
     "570": {
@@ -302274,6 +302274,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-15T10:52:40.701320"
+    },
+    "1232220": {
+      "appid": 1232220,
+      "name": "Professional Fishing 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-15T13:11:31.961580"
     }
   }
 }
