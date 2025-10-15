@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-15T10:16:55.683015"
+    "updated": "2025-10-15T11:08:05.791069"
   },
   "games": {
     "570": {
@@ -302266,6 +302266,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-15T10:16:26.370486"
+    },
+    "1211980": {
+      "appid": 1211980,
+      "name": "斯科普里83：湮灭前夕",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-15T10:52:40.701320"
     }
   }
 }
