@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-15T19:59:59.001742"
+    "updated": "2025-10-15T21:50:04.743265"
   },
   "games": {
     "570": {
@@ -302322,6 +302322,14 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-10-15T19:45:00.031196"
+    },
+    "1315180": {
+      "appid": 1315180,
+      "name": "Spark in the Dark",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-15T21:45:00.070883"
     }
   }
 }
