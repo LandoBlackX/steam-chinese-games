@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-15T03:01:36.177673"
+    "updated": "2025-10-15T04:34:00.051876"
   },
   "games": {
     "570": {
@@ -302242,6 +302242,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-15T03:01:34.983824"
+    },
+    "3147970": {
+      "appid": 3147970,
+      "name": "SILKEN SHAFT",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-15T04:33:52.667597"
     }
   }
 }
