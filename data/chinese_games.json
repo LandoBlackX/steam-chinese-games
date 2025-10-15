@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-15T06:37:46.538561"
+    "updated": "2025-10-15T06:59:39.158041"
   },
   "games": {
     "570": {
@@ -302250,6 +302250,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-15T04:33:52.667597"
+    },
+    "1178030": {
+      "appid": 1178030,
+      "name": "Star Fetchers",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-15T06:53:43.622973"
     }
   }
 }
