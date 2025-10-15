@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-15T08:25:41.835224"
+    "updated": "2025-10-15T10:16:55.683015"
   },
   "games": {
     "570": {
@@ -302258,6 +302258,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-15T06:53:43.622973"
+    },
+    "1206410": {
+      "appid": 1206410,
+      "name": "月影杀",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-15T10:16:26.370486"
     }
   }
 }
