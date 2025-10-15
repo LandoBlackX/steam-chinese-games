@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-15T06:59:39.158041"
+    "updated": "2025-10-15T08:25:41.835224"
   },
   "games": {
     "570": {
@@ -88474,6 +88474,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-10-15T06:21:40.935547"
+    },
+    "1189220": {
+      "appid": 1189220,
+      "name": "Exophobia",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-10-15T08:20:23.645157"
     }
   }
 }
