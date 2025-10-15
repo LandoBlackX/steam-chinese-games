@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-15T17:30:08.886922"
+    "updated": "2025-10-15T19:59:59.001742"
   },
   "games": {
     "570": {
@@ -88482,6 +88482,22 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-10-15T08:20:23.645157"
+    },
+    "1289810": {
+      "appid": 1289810,
+      "name": "Siralim Ultimate",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-10-15T19:45:00.031196"
+    },
+    "1292460": {
+      "appid": 1292460,
+      "name": "Adventure of Samsara",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-10-15T19:45:21.381478"
     }
   }
 }
