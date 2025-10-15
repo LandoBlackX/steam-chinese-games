@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-15T21:50:04.743265"
+    "updated": "2025-10-15T22:13:28.067061"
   },
   "games": {
     "570": {
@@ -302330,6 +302330,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-15T21:45:00.070883"
+    },
+    "1325040": {
+      "appid": 1325040,
+      "name": "Keylocker | Turn Based Cyberpunk Action",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-15T22:13:19.843670"
     }
   }
 }
