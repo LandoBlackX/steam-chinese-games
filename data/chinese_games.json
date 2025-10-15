@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-15T22:13:28.067061"
+    "updated": "2025-10-15T23:19:03.743898"
   },
   "games": {
     "570": {
@@ -302338,6 +302338,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-15T22:13:19.843670"
+    },
+    "1334440": {
+      "appid": 1334440,
+      "name": "Rise & Reign",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-15T23:13:49.711205"
     }
   }
 }
