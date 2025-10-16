@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-16T01:17:42.023312"
+    "updated": "2025-10-16T03:50:42.203232"
   },
   "games": {
     "570": {
@@ -302354,6 +302354,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-16T01:03:37.502783"
+    },
+    "3114080": {
+      "appid": 3114080,
+      "name": "Vtuber Hack",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-16T03:50:31.714303"
     }
   }
 }
