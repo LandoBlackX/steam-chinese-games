@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-16T22:01:12.661328"
+    "updated": "2025-10-16T23:53:33.747254"
   },
   "games": {
     "570": {
@@ -302594,6 +302594,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-16T21:45:06.829155"
+    },
+    "965250": {
+      "appid": 965250,
+      "name": "Submarine Craft",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-16T23:44:32.914113"
     }
   }
 }
