@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-16T14:01:24.164712"
+    "updated": "2025-10-16T14:21:06.069055"
   },
   "games": {
     "570": {
@@ -88522,6 +88522,22 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-10-16T11:36:15.149703"
+    },
+    "1424290": {
+      "appid": 1424290,
+      "name": "MARS 2120",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-10-16T14:15:43.709656"
+    },
+    "1427860": {
+      "appid": 1427860,
+      "name": "Paradise Lust",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-10-16T14:15:59.570798"
     }
   }
 }

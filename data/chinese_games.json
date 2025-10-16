@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-16T14:01:24.164712"
+    "updated": "2025-10-16T14:21:06.069055"
   },
   "games": {
     "570": {
@@ -302562,6 +302562,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-16T14:01:23.513333"
+    },
+    "1424630": {
+      "appid": 1424630,
+      "name": "CosmoDreamer",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-16T14:15:44.990540"
     }
   }
 }
