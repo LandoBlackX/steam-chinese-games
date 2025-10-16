@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-16T03:50:42.203232"
+    "updated": "2025-10-16T04:11:17.317476"
   },
   "games": {
     "570": {
@@ -302362,6 +302362,38 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-16T03:50:31.714303"
+    },
+    "3149680": {
+      "appid": 3149680,
+      "name": "Maple and Aluna",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-16T04:11:04.743284"
+    },
+    "3150170": {
+      "appid": 3150170,
+      "name": "God of Yoga",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-16T04:11:07.897333"
+    },
+    "3150460": {
+      "appid": 3150460,
+      "name": "Gloomy Clues: The Broken Mirror",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-16T04:11:09.621826"
+    },
+    "3150970": {
+      "appid": 3150970,
+      "name": "Party Madness",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-16T04:11:12.327508"
     }
   }
 }
