@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-16T09:33:04.361275"
+    "updated": "2025-10-16T11:36:16.760322"
   },
   "games": {
     "570": {
@@ -88506,6 +88506,22 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-10-16T01:03:34.231579"
+    },
+    "1403990": {
+      "appid": 1403990,
+      "name": "Paths & Danger",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-10-16T11:30:49.700913"
+    },
+    "1409200": {
+      "appid": 1409200,
+      "name": "HYPERVIOLENT",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-10-16T11:36:15.149703"
     }
   }
 }
