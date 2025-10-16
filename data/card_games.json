@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-15T23:19:03.743898"
+    "updated": "2025-10-16T01:17:42.023312"
   },
   "games": {
     "570": {
@@ -88498,6 +88498,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-10-15T19:45:21.381478"
+    },
+    "1346390": {
+      "appid": 1346390,
+      "name": "ASTRO AQUA KITTY",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-10-16T01:03:34.231579"
     }
   }
 }

@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-15T23:19:03.743898"
+    "updated": "2025-10-16T01:17:42.023312"
   },
   "games": {
     "570": {
@@ -302346,6 +302346,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-15T23:13:49.711205"
+    },
+    "1346840": {
+      "appid": 1346840,
+      "name": "Dead Reset",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-16T01:03:37.502783"
     }
   }
 }
