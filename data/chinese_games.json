@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-16T11:36:16.760322"
+    "updated": "2025-10-16T14:01:24.164712"
   },
   "games": {
     "570": {
@@ -302506,6 +302506,62 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-10-16T11:36:15.149703"
+    },
+    "3155590": {
+      "appid": 3155590,
+      "name": "RuinsStory",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-16T14:01:11.602834"
+    },
+    "3156530": {
+      "appid": 3156530,
+      "name": "Express Car Wash Simulator : Prologue",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-16T14:01:17.708977"
+    },
+    "3156680": {
+      "appid": 3156680,
+      "name": "Rules: Motel Horizon",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-16T14:01:18.065904"
+    },
+    "3157170": {
+      "appid": 3157170,
+      "name": "Data Fantasy",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-16T14:01:20.373203"
+    },
+    "3157360": {
+      "appid": 3157360,
+      "name": "Almohadin: escape from the basement",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-16T14:01:21.323882"
+    },
+    "3157670": {
+      "appid": 3157670,
+      "name": "Office Aberrations",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-16T14:01:22.272040"
+    },
+    "3157920": {
+      "appid": 3157920,
+      "name": "Blackfield",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-16T14:01:23.513333"
     }
   }
 }
