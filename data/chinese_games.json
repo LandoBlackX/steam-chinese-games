@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-16T14:21:06.069055"
+    "updated": "2025-10-16T15:23:05.566874"
   },
   "games": {
     "570": {
@@ -302570,6 +302570,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-16T14:15:44.990540"
+    },
+    "1435410": {
+      "appid": 1435410,
+      "name": "施莱恩传说",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-16T15:16:03.633026"
     }
   }
 }
