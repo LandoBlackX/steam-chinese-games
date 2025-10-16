@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-16T05:04:34.797588"
+    "updated": "2025-10-16T06:27:26.119174"
   },
   "games": {
     "570": {
@@ -302442,6 +302442,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-16T05:04:32.590242"
+    },
+    "1363400": {
+      "appid": 1363400,
+      "name": "No More Light",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-16T06:21:51.879110"
     }
   }
 }
