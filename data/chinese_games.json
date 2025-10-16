@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-16T06:27:26.119174"
+    "updated": "2025-10-16T07:50:46.325446"
   },
   "games": {
     "570": {
@@ -302450,6 +302450,30 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-16T06:21:51.879110"
+    },
+    "1373530": {
+      "appid": 1373530,
+      "name": "警目如炬",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-16T07:45:25.322425"
+    },
+    "1375750": {
+      "appid": 1375750,
+      "name": "Regions of Ruin: Runegate",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-16T07:45:36.713822"
+    },
+    "1375760": {
+      "appid": 1375760,
+      "name": "Tropicalia: a Brazilian Game",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-16T07:45:36.867728"
     }
   }
 }
