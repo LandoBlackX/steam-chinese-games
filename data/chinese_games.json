@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-16T07:50:46.325446"
+    "updated": "2025-10-16T09:01:12.617073"
   },
   "games": {
     "570": {
@@ -302474,6 +302474,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-16T07:45:36.867728"
+    },
+    "1384550": {
+      "appid": 1384550,
+      "name": "School of Magic: Deck and Slash Prologue",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-16T08:46:05.702816"
+    },
+    "1385340": {
+      "appid": 1385340,
+      "name": "Orbyss",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-16T08:46:10.546601"
     }
   }
 }
