@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-16T04:11:17.317476"
+    "updated": "2025-10-16T05:04:34.797588"
   },
   "games": {
     "570": {
@@ -302394,6 +302394,54 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-16T04:11:12.327508"
+    },
+    "3151940": {
+      "appid": 3151940,
+      "name": "Unhappy Chickens",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-16T05:04:23.990183"
+    },
+    "3152460": {
+      "appid": 3152460,
+      "name": "落幕英雄传",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-16T05:04:26.384044"
+    },
+    "3152740": {
+      "appid": 3152740,
+      "name": "HeHe Remake",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-16T05:04:27.452982"
+    },
+    "3154150": {
+      "appid": 3154150,
+      "name": "Spook-A-Boo",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-16T05:04:30.380700"
+    },
+    "3154390": {
+      "appid": 3154390,
+      "name": "Neon Knights",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-16T05:04:31.898942"
+    },
+    "3154550": {
+      "appid": 3154550,
+      "name": "Aegis Force: The Scorian War",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-16T05:04:32.590242"
     }
   }
 }
