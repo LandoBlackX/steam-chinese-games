@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-17T19:50:54.595532"
+    "updated": "2025-10-17T21:19:45.189007"
   },
   "games": {
     "570": {
@@ -302890,6 +302890,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-17T19:45:43.425101"
+    },
+    "1670830": {
+      "appid": 1670830,
+      "name": "Gaucho and the Grassland",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-17T21:14:02.216867"
+    },
+    "1672460": {
+      "appid": 1672460,
+      "name": "FLYING PUDDING",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-17T21:14:20.636028"
     }
   }
 }
