@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-17T08:26:30.134271"
+    "updated": "2025-10-17T09:00:38.468356"
   },
   "games": {
     "570": {
@@ -302730,6 +302730,54 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-17T08:26:29.134205"
+    },
+    "3165800": {
+      "appid": 3165800,
+      "name": "Now Gun",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-17T09:00:26.011083"
+    },
+    "3166150": {
+      "appid": 3166150,
+      "name": "Ratcheteer DX",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-17T09:00:27.321183"
+    },
+    "3166200": {
+      "appid": 3166200,
+      "name": "Across the Abyss: Voidborn",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-17T09:00:27.812181"
+    },
+    "3166810": {
+      "appid": 3166810,
+      "name": "Insider Trading",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-17T09:00:30.090299"
+    },
+    "3168110": {
+      "appid": 3168110,
+      "name": "天筑",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-17T09:00:36.222964"
+    },
+    "3168300": {
+      "appid": 3168300,
+      "name": "A Tower",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-17T09:00:37.646730"
     }
   }
 }
