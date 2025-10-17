@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-17T09:22:43.081433"
+    "updated": "2025-10-17T09:56:00.761592"
   },
   "games": {
     "570": {
@@ -302786,6 +302786,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-17T09:16:59.403374"
+    },
+    "1569420": {
+      "appid": 1569420,
+      "name": "Spellfarers",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-17T09:47:17.431599"
+    },
+    "1570450": {
+      "appid": 1570450,
+      "name": "Artificial Extinction 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-17T09:47:25.403466"
     }
   }
 }
