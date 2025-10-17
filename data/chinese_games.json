@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-17T05:23:47.812672"
+    "updated": "2025-10-17T06:30:09.599110"
   },
   "games": {
     "570": {
@@ -302674,6 +302674,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-17T05:15:52.083074"
+    },
+    "1538990": {
+      "appid": 1538990,
+      "name": "Tuned Turtle",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-17T06:22:02.134310"
+    },
+    "1541370": {
+      "appid": 1541370,
+      "name": "Ultimate Theater Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-17T06:22:15.243654"
     }
   }
 }
