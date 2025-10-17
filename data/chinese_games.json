@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-17T21:19:45.189007"
+    "updated": "2025-10-17T21:56:41.535771"
   },
   "games": {
     "570": {
@@ -302906,6 +302906,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-17T21:14:20.636028"
+    },
+    "1675040": {
+      "appid": 1675040,
+      "name": "Asfalia 火山不想冷静",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-17T21:46:08.395334"
     }
   }
 }
