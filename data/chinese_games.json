@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-17T11:18:47.998883"
+    "updated": "2025-10-17T12:34:56.879915"
   },
   "games": {
     "570": {
@@ -302818,6 +302818,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-17T10:48:56.462880"
+    },
+    "1593370": {
+      "appid": 1593370,
+      "name": "Stickforge",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-17T12:29:43.173711"
     }
   }
 }
