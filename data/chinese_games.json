@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-17T18:59:36.067018"
+    "updated": "2025-10-17T19:50:54.595532"
   },
   "games": {
     "570": {
@@ -302882,6 +302882,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-17T18:59:35.887535"
+    },
+    "1653020": {
+      "appid": 1653020,
+      "name": "Crude Oil",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-17T19:45:43.425101"
     }
   }
 }
