@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-17T12:34:56.879915"
+    "updated": "2025-10-17T13:21:47.464195"
   },
   "games": {
     "570": {
@@ -302826,6 +302826,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-17T12:29:43.173711"
+    },
+    "1872510": {
+      "appid": 1872510,
+      "name": "工作日常",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-17T13:11:33.394360"
     }
   }
 }
