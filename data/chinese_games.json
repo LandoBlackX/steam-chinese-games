@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-17T09:00:38.468356"
+    "updated": "2025-10-17T09:22:43.081433"
   },
   "games": {
     "570": {
@@ -302778,6 +302778,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-17T09:00:37.646730"
+    },
+    "1561520": {
+      "appid": 1561520,
+      "name": "Extended Stay",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-17T09:16:59.403374"
     }
   }
 }
