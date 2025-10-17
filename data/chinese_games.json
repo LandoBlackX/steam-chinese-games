@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-17T02:55:17.104934"
+    "updated": "2025-10-17T03:48:45.924041"
   },
   "games": {
     "570": {
@@ -302618,6 +302618,30 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-17T02:42:27.001645"
+    },
+    "3159560": {
+      "appid": 3159560,
+      "name": "喵语咖啡：完美配对",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-17T03:48:36.513233"
+    },
+    "3159770": {
+      "appid": 3159770,
+      "name": "Beggar to Emperor",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-17T03:48:38.078468"
+    },
+    "3160580": {
+      "appid": 3160580,
+      "name": "Trade Conquest",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-17T03:48:44.370093"
     }
   }
 }
