@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-17T15:59:31.960030"
+    "updated": "2025-10-17T18:24:54.925950"
   },
   "games": {
     "570": {
@@ -302866,6 +302866,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-17T15:47:14.057398"
+    },
+    "1638070": {
+      "appid": 1638070,
+      "name": "Fishbowl",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-17T18:19:27.972002"
     }
   }
 }
