@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-17T15:24:24.237695"
+    "updated": "2025-10-17T15:59:31.960030"
   },
   "games": {
     "570": {
@@ -302858,6 +302858,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-17T15:15:44.121001"
+    },
+    "1621540": {
+      "appid": 1621540,
+      "name": "Spooky Milk Life",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-17T15:47:14.057398"
     }
   }
 }
