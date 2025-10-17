@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-16T23:53:33.747254"
+    "updated": "2025-10-17T01:08:58.778963"
   },
   "games": {
     "570": {
@@ -302602,6 +302602,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-16T23:44:32.914113"
+    },
+    "1515220": {
+      "appid": 1515220,
+      "name": "Virtual Driving School",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-17T01:03:45.731010"
     }
   }
 }
