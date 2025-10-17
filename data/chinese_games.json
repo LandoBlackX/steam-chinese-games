@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-17T09:56:00.761592"
+    "updated": "2025-10-17T10:22:03.420589"
   },
   "games": {
     "570": {
@@ -302802,6 +302802,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-17T09:47:25.403466"
+    },
+    "1574480": {
+      "appid": 1574480,
+      "name": "Agent 64: Spies Never Die",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-17T10:16:50.811275"
     }
   }
 }
