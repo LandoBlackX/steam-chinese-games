@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-17T11:01:34.639644"
+    "updated": "2025-10-17T11:18:47.998883"
   },
   "games": {
     "570": {
@@ -88538,6 +88538,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-10-16T14:15:59.570798"
+    },
+    "1581180": {
+      "appid": 1581180,
+      "name": "My waifu guild",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-10-17T11:13:21.229396"
     }
   }
 }
