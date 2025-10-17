@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-17T01:08:58.778963"
+    "updated": "2025-10-17T02:55:17.104934"
   },
   "games": {
     "570": {
@@ -302610,6 +302610,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-17T01:03:45.731010"
+    },
+    "1519490": {
+      "appid": 1519490,
+      "name": "The Doors of Trithius",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-17T02:42:27.001645"
     }
   }
 }
