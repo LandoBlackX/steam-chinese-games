@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-17T07:03:12.507451"
+    "updated": "2025-10-17T08:26:30.134271"
   },
   "games": {
     "570": {
@@ -302722,6 +302722,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-17T07:03:11.301312"
+    },
+    "1560160": {
+      "appid": 1560160,
+      "name": "ILA: A Frosty Glide",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-17T08:26:29.134205"
     }
   }
 }
