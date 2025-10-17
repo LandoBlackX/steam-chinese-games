@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-17T18:24:54.925950"
+    "updated": "2025-10-17T18:59:36.067018"
   },
   "games": {
     "570": {
@@ -302874,6 +302874,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-17T18:19:27.972002"
+    },
+    "3169060": {
+      "appid": 3169060,
+      "name": "剩食大作战！",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-17T18:59:35.887535"
     }
   }
 }
