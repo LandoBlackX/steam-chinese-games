@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-17T04:34:27.216805"
+    "updated": "2025-10-17T05:23:47.812672"
   },
   "games": {
     "570": {
@@ -302658,6 +302658,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-17T04:34:06.502969"
+    },
+    "1532200": {
+      "appid": 1532200,
+      "name": "Mars First Logistics",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-17T05:15:51.528149"
+    },
+    "1532270": {
+      "appid": 1532270,
+      "name": "The Maker Way",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-17T05:15:52.083074"
     }
   }
 }
