@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-17T13:59:22.857756"
+    "updated": "2025-10-17T15:24:24.237695"
   },
   "games": {
     "570": {
@@ -302850,6 +302850,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-17T13:50:32.466876"
+    },
+    "1615930": {
+      "appid": 1615930,
+      "name": "[International] Absented Age: Squarebound",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-17T15:15:44.121001"
     }
   }
 }
