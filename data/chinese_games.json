@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-18T06:20:31.404735"
+    "updated": "2025-10-18T08:18:57.180272"
   },
   "games": {
     "570": {
@@ -302978,6 +302978,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-18T06:19:46.737471"
+    },
+    "1727910": {
+      "appid": 1727910,
+      "name": "Hope Trigger",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-18T08:13:50.593076"
     }
   }
 }
