@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-17T22:20:04.704143"
+    "updated": "2025-10-18T03:24:14.561998"
   },
   "games": {
     "570": {
@@ -302914,6 +302914,30 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-17T21:46:08.395334"
+    },
+    "3169790": {
+      "appid": 3169790,
+      "name": "Haneda Girl",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-18T03:24:02.855024"
+    },
+    "3171540": {
+      "appid": 3171540,
+      "name": "背包伙伴《Packmates》",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-18T03:24:10.171488"
+    },
+    "3172040": {
+      "appid": 3172040,
+      "name": "Hidden Pass Skirmishes",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-18T03:24:11.393002"
     }
   }
 }
