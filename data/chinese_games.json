@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-18T18:19:20.168269"
+    "updated": "2025-10-18T18:56:32.833701"
   },
   "games": {
     "570": {
@@ -303058,6 +303058,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-18T18:13:56.112824"
+    },
+    "1808500": {
+      "appid": 1808500,
+      "name": "ARC Raiders",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-18T18:44:34.276616"
+    },
+    "1808960": {
+      "appid": 1808960,
+      "name": "Firearms Factory",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-18T18:44:37.137185"
     }
   }
 }
