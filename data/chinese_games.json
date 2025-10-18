@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-18T03:24:14.561998"
+    "updated": "2025-10-18T04:08:05.597041"
   },
   "games": {
     "570": {
@@ -302938,6 +302938,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-18T03:24:11.393002"
+    },
+    "3172750": {
+      "appid": 3172750,
+      "name": "It Came From Above Us",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-18T04:08:05.421259"
     }
   }
 }
