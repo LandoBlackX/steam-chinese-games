@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-18T08:18:57.180272"
+    "updated": "2025-10-18T09:15:33.918104"
   },
   "games": {
     "570": {
@@ -302986,6 +302986,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-18T08:13:50.593076"
+    },
+    "1733250": {
+      "appid": 1733250,
+      "name": "极爆少年",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-18T09:04:17.306848"
     }
   }
 }
