@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-18T13:53:54.564299"
+    "updated": "2025-10-18T14:16:42.671472"
   },
   "games": {
     "570": {
@@ -303034,6 +303034,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-18T13:53:53.161795"
+    },
+    "1772220": {
+      "appid": 1772220,
+      "name": "Frontline",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-18T14:04:27.352848"
     }
   }
 }
