@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-18T17:19:15.206088"
+    "updated": "2025-10-18T18:19:20.168269"
   },
   "games": {
     "570": {
@@ -303050,6 +303050,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-18T17:19:14.685915"
+    },
+    "1804640": {
+      "appid": 1804640,
+      "name": "Autos",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-18T18:13:56.112824"
     }
   }
 }
