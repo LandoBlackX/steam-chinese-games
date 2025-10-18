@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-18T19:19:20.015994"
+    "updated": "2025-10-18T19:40:53.390999"
   },
   "games": {
     "570": {
@@ -303082,6 +303082,14 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-10-18T19:19:18.917074"
+    },
+    "1813640": {
+      "appid": 1813640,
+      "name": "Designated Driver Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-18T19:33:56.317670"
     }
   }
 }

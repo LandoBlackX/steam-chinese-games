@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-18T19:19:20.015994"
+    "updated": "2025-10-18T19:40:53.390999"
   },
   "games": {
     "570": {
@@ -88578,6 +88578,14 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-10-18T19:19:18.917074"
+    },
+    "1816140": {
+      "appid": 1816140,
+      "name": "Sinners Landing",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-10-18T19:34:10.862114"
     }
   }
 }
