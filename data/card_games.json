@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-18T11:49:29.341532"
+    "updated": "2025-10-18T13:34:08.185703"
   },
   "games": {
     "570": {
@@ -88562,6 +88562,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-10-17T22:14:49.335436"
+    },
+    "3173560": {
+      "appid": 3173560,
+      "name": "Anomalous Coffee Machine",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-10-18T13:34:08.183791"
     }
   }
 }
