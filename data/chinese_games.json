@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-18T14:16:42.671472"
+    "updated": "2025-10-18T17:19:15.206088"
   },
   "games": {
     "570": {
@@ -303042,6 +303042,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-18T14:04:27.352848"
+    },
+    "3176850": {
+      "appid": 3176850,
+      "name": "Second Stellar",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-18T17:19:14.685915"
     }
   }
 }
