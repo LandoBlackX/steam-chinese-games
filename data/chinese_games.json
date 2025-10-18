@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-18T13:34:08.185703"
+    "updated": "2025-10-18T13:53:54.564299"
   },
   "games": {
     "570": {
@@ -303010,6 +303010,30 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-10-18T13:34:08.183791"
+    },
+    "3174340": {
+      "appid": 3174340,
+      "name": "寻生",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-18T13:53:41.458592"
+    },
+    "3174830": {
+      "appid": 3174830,
+      "name": "Throne Requiem",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-18T13:53:44.550519"
+    },
+    "3176500": {
+      "appid": 3176500,
+      "name": "大猫贤者的无限法典",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-18T13:53:53.161795"
     }
   }
 }
