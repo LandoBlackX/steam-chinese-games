@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-18T21:11:39.262821"
+    "updated": "2025-10-18T23:18:20.284996"
   },
   "games": {
     "570": {
@@ -303098,6 +303098,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-18T21:10:03.550090"
+    },
+    "1845670": {
+      "appid": 1845670,
+      "name": "Islands of the Caliph",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-18T23:04:59.786009"
     }
   }
 }
