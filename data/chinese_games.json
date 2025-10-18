@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-18T18:56:32.833701"
+    "updated": "2025-10-18T19:19:20.015994"
   },
   "games": {
     "570": {
@@ -303074,6 +303074,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-18T18:44:37.137185"
+    },
+    "3177010": {
+      "appid": 3177010,
+      "name": "Don't Mess With Bober",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-10-18T19:19:18.917074"
     }
   }
 }
