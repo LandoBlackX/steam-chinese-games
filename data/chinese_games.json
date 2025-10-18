@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-18T09:15:33.918104"
+    "updated": "2025-10-18T11:49:29.341532"
   },
   "games": {
     "570": {
@@ -302994,6 +302994,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-18T09:04:17.306848"
+    },
+    "1754840": {
+      "appid": 1754840,
+      "name": "Hacker Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-18T11:34:26.824007"
     }
   }
 }
