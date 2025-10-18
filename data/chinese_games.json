@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-18T19:40:53.390999"
+    "updated": "2025-10-18T21:11:39.262821"
   },
   "games": {
     "570": {
@@ -303090,6 +303090,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-18T19:33:56.317670"
+    },
+    "1831800": {
+      "appid": 1831800,
+      "name": "Grief like a stray dog",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-18T21:10:03.550090"
     }
   }
 }
