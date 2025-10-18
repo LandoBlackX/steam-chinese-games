@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-18T05:54:33.358016"
+    "updated": "2025-10-18T06:20:31.404735"
   },
   "games": {
     "570": {
@@ -302962,6 +302962,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-18T05:39:03.908998"
+    },
+    "1710820": {
+      "appid": 1710820,
+      "name": "Cleared Hot",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-18T06:14:34.974991"
+    },
+    "1712700": {
+      "appid": 1712700,
+      "name": "Memori",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-18T06:19:46.737471"
     }
   }
 }
