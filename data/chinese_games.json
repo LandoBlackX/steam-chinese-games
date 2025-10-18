@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-18T04:08:05.597041"
+    "updated": "2025-10-18T05:54:33.358016"
   },
   "games": {
     "570": {
@@ -302946,6 +302946,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-18T04:08:05.421259"
+    },
+    "1706510": {
+      "appid": 1706510,
+      "name": "Songs of Glimmerwick",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-18T05:38:58.750597"
+    },
+    "1707330": {
+      "appid": 1707330,
+      "name": "Ordinary Human Game",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-18T05:39:03.908998"
     }
   }
 }
