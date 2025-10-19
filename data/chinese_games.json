@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-19T04:59:00.037093"
+    "updated": "2025-10-19T05:55:58.294269"
   },
   "games": {
     "570": {
@@ -303154,6 +303154,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-19T04:58:48.118911"
+    },
+    "1867740": {
+      "appid": 1867740,
+      "name": "Like Dreamer",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-19T05:41:08.984748"
+    },
+    "3182730": {
+      "appid": 3182730,
+      "name": "Blades, Bows and Magic",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-19T05:55:58.115532"
     }
   }
 }
