@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-19T13:34:34.388992"
+    "updated": "2025-10-19T13:54:34.542757"
   },
   "games": {
     "570": {
@@ -303370,6 +303370,70 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-19T13:34:32.981730"
+    },
+    "3195040": {
+      "appid": 3195040,
+      "name": "Multiplicity 4",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-19T13:54:21.154424"
+    },
+    "3195180": {
+      "appid": 3195180,
+      "name": "旧日余晖",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-19T13:54:21.992744"
+    },
+    "3195540": {
+      "appid": 3195540,
+      "name": "Captain Edward Continues",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-19T13:54:23.728503"
+    },
+    "3195710": {
+      "appid": 3195710,
+      "name": "几何射手 增强版",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-19T13:54:24.554730"
+    },
+    "3196160": {
+      "appid": 3196160,
+      "name": "Lost Ground",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-19T13:54:26.440013"
+    },
+    "3196500": {
+      "appid": 3196500,
+      "name": "万千定数孤注破晓之刻",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-19T13:54:28.109320"
+    },
+    "3197200": {
+      "appid": 3197200,
+      "name": "Emptiness Sire",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-19T13:54:31.483461"
+    },
+    "3197360": {
+      "appid": 3197360,
+      "name": "60 Seconds! Souper Scavenger",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-19T13:54:32.159834"
     }
   }
 }
