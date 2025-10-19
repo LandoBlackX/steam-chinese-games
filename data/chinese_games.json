@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-19T08:07:22.400625"
+    "updated": "2025-10-19T08:29:13.696225"
   },
   "games": {
     "570": {
@@ -303186,6 +303186,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-19T07:58:01.925176"
+    },
+    "3183530": {
+      "appid": 3183530,
+      "name": "三国英雄传奇",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-19T08:29:12.916715"
+    },
+    "3183730": {
+      "appid": 3183730,
+      "name": "Driveloop: Survivors",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-19T08:29:13.694023"
     }
   }
 }
