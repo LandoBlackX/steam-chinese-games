@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-19T08:56:59.713794"
+    "updated": "2025-10-19T09:20:05.427252"
   },
   "games": {
     "570": {
@@ -303226,6 +303226,30 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-19T08:56:57.933153"
+    },
+    "3184250": {
+      "appid": 3184250,
+      "name": "Deep Snake",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-19T09:19:48.559082"
+    },
+    "3185890": {
+      "appid": 3185890,
+      "name": "我打不过漂亮的她们",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-19T09:19:56.513206"
+    },
+    "3186120": {
+      "appid": 3186120,
+      "name": "NIDANA",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-19T09:19:57.020749"
     }
   }
 }
