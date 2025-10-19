@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-19T23:11:15.320313"
+    "updated": "2025-10-19T23:50:23.739305"
   },
   "games": {
     "570": {
@@ -303546,6 +303546,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-19T23:06:34.497131"
+    },
+    "3204720": {
+      "appid": 3204720,
+      "name": "Veilwalkers",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-19T23:50:20.811130"
+    },
+    "3204770": {
+      "appid": 3204770,
+      "name": "Don't Fall",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-19T23:50:21.322878"
     }
   }
 }
