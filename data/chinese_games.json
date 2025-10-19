@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-19T05:55:58.294269"
+    "updated": "2025-10-19T07:20:12.471535"
   },
   "games": {
     "570": {
@@ -303170,6 +303170,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-19T05:55:58.115532"
+    },
+    "3182910": {
+      "appid": 3182910,
+      "name": "TRUMP BREAKOUT",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-19T07:20:11.320285"
     }
   }
 }
