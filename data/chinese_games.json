@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-19T00:53:38.369214"
+    "updated": "2025-10-19T02:47:40.708894"
   },
   "games": {
     "570": {
@@ -303106,6 +303106,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-18T23:04:59.786009"
+    },
+    "1857080": {
+      "appid": 1857080,
+      "name": "The Last Starship",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-19T02:32:55.968532"
     }
   }
 }
