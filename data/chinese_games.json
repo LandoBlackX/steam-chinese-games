@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-19T22:54:36.102287"
+    "updated": "2025-10-19T23:11:15.320313"
   },
   "games": {
     "570": {
@@ -303530,6 +303530,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-19T22:54:34.520929"
+    },
+    "1968180": {
+      "appid": 1968180,
+      "name": "DIGGERGUN",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-19T23:06:32.289368"
+    },
+    "1968390": {
+      "appid": 1968390,
+      "name": "Ants With Guns",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-19T23:06:34.497131"
     }
   }
 }
