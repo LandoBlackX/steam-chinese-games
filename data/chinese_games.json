@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-19T09:20:05.427252"
+    "updated": "2025-10-19T09:50:09.110825"
   },
   "games": {
     "570": {
@@ -303250,6 +303250,54 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-19T09:19:57.020749"
+    },
+    "3187880": {
+      "appid": 3187880,
+      "name": "杀手寓言 Manga Build Roguelike",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-19T09:49:50.613851"
+    },
+    "3188400": {
+      "appid": 3188400,
+      "name": "画中诗",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-19T09:49:51.167905"
+    },
+    "3188510": {
+      "appid": 3188510,
+      "name": "北境深潜 Project SEVER",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-19T09:49:52.033661"
+    },
+    "3188970": {
+      "appid": 3188970,
+      "name": "Elemental War Clash",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-19T09:49:54.400154"
+    },
+    "3189470": {
+      "appid": 3189470,
+      "name": "OG Streamer Beats",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-19T09:49:55.917787"
+    },
+    "3189560": {
+      "appid": 3189560,
+      "name": "HOLLYWOOD DIRECTOR THE SIMULATION",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-19T09:49:56.026526"
     }
   }
 }
