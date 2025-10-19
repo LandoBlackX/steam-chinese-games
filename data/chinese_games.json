@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-19T14:20:16.134201"
+    "updated": "2025-10-19T14:53:03.736617"
   },
   "games": {
     "570": {
@@ -303442,6 +303442,30 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-19T14:20:13.287070"
+    },
+    "1911200": {
+      "appid": 1911200,
+      "name": "Sultan Of Egypt",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-19T14:38:41.272857"
+    },
+    "3198490": {
+      "appid": 3198490,
+      "name": "Blankspace",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-19T14:53:00.338721"
+    },
+    "3198900": {
+      "appid": 3198900,
+      "name": "Garden of Butterflies",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-19T14:53:02.089731"
     }
   }
 }
