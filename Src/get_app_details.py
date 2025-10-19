@@ -80,7 +80,7 @@ def write_results_to_file(results):
 
 def update_status(conn, cursor, appid):
     cursor.execute("UPDATE apps SET status = true WHERE appid = ?", (appid,))
-    conn.提交()
+    conn.commit()
 
 def check_app(appid, rate_limiter):
     url = f"{getDetails_URL}{appid}"
@@ -95,23 +95,23 @@ def check_app(appid, rate_limiter):
         appid_str = str(appid)
         if data.get(appid_str, {}).get('success'):
             app_data = data[appid_str]['data']
-            app_type = app_data.get('type'， 'Unknown')
+            app_type = app_data.get('type', 'Unknown')
             log(f"AppID: {appid}, 类型: {app_type}, 响应时间: {duration:.2f}秒")
             return appid, app_type
         else:
             reason = f"API 返回: {data.get(appid_str, '无数据')}"
             log(f"获取 AppID: {appid} 的详情失败，{reason}")
             log_failed_appid(appid, reason)
-            return appid, 无
+            return appid, None
     except requests.exceptions.RequestException as e:
-        if "429" 在 str(e):
+        if "429" in str(e):
             log(f"触发 429 错误，暂停 5 分钟后重试...")
             time.sleep(300)
-            return appid, 无
+            return appid, None
         else:
             log(f"请求 AppID: {appid} 失败: {e}")
             log_failed_appid(appid, str(e))
-            return appid, 无
+            return appid, None
 
 def main():
     conn = sqlite3.connect(db_path)
