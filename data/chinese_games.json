@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-19T19:20:00.733216"
+    "updated": "2025-10-19T19:50:41.914132"
   },
   "games": {
     "570": {
@@ -303506,6 +303506,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-19T19:20:00.125506"
+    },
+    "3203440": {
+      "appid": 3203440,
+      "name": "Tales of the Moon",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-19T19:50:40.208551"
     }
   }
 }
