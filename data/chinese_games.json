@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-19T14:53:03.736617"
+    "updated": "2025-10-19T16:19:12.021786"
   },
   "games": {
     "570": {
@@ -303466,6 +303466,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-19T14:53:02.089731"
+    },
+    "1921330": {
+      "appid": 1921330,
+      "name": "Echo Wars - Road Rage",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-19T16:06:13.604507"
     }
   }
 }
