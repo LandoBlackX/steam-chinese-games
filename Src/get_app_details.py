@@ -80,7 +80,7 @@ def write_results_to_file(results):
 
 def update_status(conn, cursor, appid):
     cursor.execute("UPDATE apps SET status = true WHERE appid = ?", (appid,))
-    conn.commit()
+    conn.提交()
 
 def check_app(appid, rate_limiter):
     url = f"{getDetails_URL}{appid}"
@@ -95,23 +95,23 @@ def check_app(appid, rate_limiter):
         appid_str = str(appid)
         if data.get(appid_str, {}).get('success'):
             app_data = data[appid_str]['data']
-            app_type = app_data.get('type', 'Unknown')
+            app_type = app_data.get('type'， 'Unknown')
             log(f"AppID: {appid}, 类型: {app_type}, 响应时间: {duration:.2f}秒")
             return appid, app_type
         else:
             reason = f"API 返回: {data.get(appid_str, '无数据')}"
             log(f"获取 AppID: {appid} 的详情失败，{reason}")
             log_failed_appid(appid, reason)
-            return appid, None
+            return appid, 无
     except requests.exceptions.RequestException as e:
-        if "429" in str(e):
+        if "429" 在 str(e):
             log(f"触发 429 错误，暂停 5 分钟后重试...")
             time.sleep(300)
-            return appid, None
+            return appid, 无
         else:
             log(f"请求 AppID: {appid} 失败: {e}")
             log_failed_appid(appid, str(e))
-            return appid, None
+            return appid, 无
 
 def main():
     conn = sqlite3.connect(db_path)
@@ -129,7 +129,7 @@ def main():
 
     # 查询未处理的 AppID
     rows = cursor.execute("SELECT appid FROM apps WHERE status = false").fetchall()
-    appids = [row[0] for row in rows[:10]]  # 每次处理 100 个 AppID
+    appids = [row[0] for row in rows[:1]]  # 每次处理 1 个 AppID
     if not appids:
         log("没有需要处理的新 AppID，终止执行")
         cursor.close()
