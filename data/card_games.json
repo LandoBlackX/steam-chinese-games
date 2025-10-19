@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-18T23:18:20.284996"
+    "updated": "2025-10-19T00:53:38.369214"
   },
   "games": {
     "570": {
@@ -88586,6 +88586,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-10-18T19:34:10.862114"
+    },
+    "1851720": {
+      "appid": 1851720,
+      "name": "Dead Pets Unleashed",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-10-19T00:48:09.383614"
     }
   }
 }
