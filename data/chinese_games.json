@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-19T19:50:41.914132"
+    "updated": "2025-10-19T20:06:41.934004"
   },
   "games": {
     "570": {
@@ -303514,6 +303514,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-19T19:50:40.208551"
+    },
+    "1942530": {
+      "appid": 1942530,
+      "name": "The Anointed: David Saves Keilah",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-19T20:06:06.587129"
     }
   }
 }
