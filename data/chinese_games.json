@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-19T20:06:41.934004"
+    "updated": "2025-10-19T22:54:36.102287"
   },
   "games": {
     "570": {
@@ -303522,6 +303522,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-19T20:06:06.587129"
+    },
+    "3204420": {
+      "appid": 3204420,
+      "name": "Alteratio",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-19T22:54:34.520929"
     }
   }
 }
