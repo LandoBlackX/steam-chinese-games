@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-19T19:00:05.983242"
+    "updated": "2025-10-19T19:20:00.733216"
   },
   "games": {
     "570": {
@@ -303498,6 +303498,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-19T19:00:05.271256"
+    },
+    "3203110": {
+      "appid": 3203110,
+      "name": "Rogue Inferno",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-19T19:20:00.125506"
     }
   }
 }
