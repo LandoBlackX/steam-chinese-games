@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-19T07:20:12.471535"
+    "updated": "2025-10-19T08:07:22.400625"
   },
   "games": {
     "570": {
@@ -303178,6 +303178,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-19T07:20:11.320285"
+    },
+    "1879860": {
+      "appid": 1879860,
+      "name": "Fractured Worlds",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-19T07:58:01.925176"
     }
   }
 }
