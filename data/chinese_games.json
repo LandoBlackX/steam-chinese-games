@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-19T08:29:13.696225"
+    "updated": "2025-10-19T08:56:59.713794"
   },
   "games": {
     "570": {
@@ -303202,6 +303202,30 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-19T08:29:13.694023"
+    },
+    "3183760": {
+      "appid": 3183760,
+      "name": "SpeedRunners 2: King of Speed",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-19T08:56:56.522376"
+    },
+    "3183910": {
+      "appid": 3183910,
+      "name": "Frequency of Fear : Chapter 1",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-19T08:56:57.751607"
+    },
+    "3183920": {
+      "appid": 3183920,
+      "name": "哥布林猎人",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-19T08:56:57.933153"
     }
   }
 }

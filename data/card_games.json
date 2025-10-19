@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-19T08:29:13.696225"
+    "updated": "2025-10-19T08:56:59.713794"
   },
   "games": {
     "570": {
@@ -88594,6 +88594,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-10-19T00:48:09.383614"
+    },
+    "3183970": {
+      "appid": 3183970,
+      "name": "GEX Trilogy",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-10-19T08:56:58.737946"
     }
   }
 }
