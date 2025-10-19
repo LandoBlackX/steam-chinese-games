@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-19T13:14:36.164778"
+    "updated": "2025-10-19T13:34:34.388992"
   },
   "games": {
     "570": {
@@ -303362,6 +303362,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-19T13:14:35.801577"
+    },
+    "3194360": {
+      "appid": 3194360,
+      "name": "Formula Legends",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-19T13:34:32.981730"
     }
   }
 }
