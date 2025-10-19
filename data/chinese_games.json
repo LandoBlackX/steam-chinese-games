@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-19T16:19:12.021786"
+    "updated": "2025-10-19T19:00:05.983242"
   },
   "games": {
     "570": {
@@ -303474,6 +303474,30 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-19T16:06:13.604507"
+    },
+    "3201730": {
+      "appid": 3201730,
+      "name": "Flamecraft",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-19T19:00:03.547931"
+    },
+    "3201780": {
+      "appid": 3201780,
+      "name": "Steam Veins",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-19T19:00:03.869557"
+    },
+    "3202030": {
+      "appid": 3202030,
+      "name": "龙胤立志传",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-19T19:00:05.271256"
     }
   }
 }
