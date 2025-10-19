@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-19T09:50:09.110825"
+    "updated": "2025-10-19T10:55:17.696179"
   },
   "games": {
     "570": {
@@ -303298,6 +303298,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-19T09:49:56.026526"
+    },
+    "3190760": {
+      "appid": 3190760,
+      "name": "The Lightkeeper Is Gone",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-19T10:55:16.429899"
     }
   }
 }
