@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-20T14:59:14.420166"
+    "updated": "2025-10-20T15:56:26.288864"
   },
   "games": {
     "570": {
@@ -303914,6 +303914,30 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-20T14:59:11.336207"
+    },
+    "3217900": {
+      "appid": 3217900,
+      "name": "大猩猩对决 / Gorilla Showdown",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-20T15:56:23.416026"
+    },
+    "3218100": {
+      "appid": 3218100,
+      "name": "I AM RIPPER",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-20T15:56:24.893308"
+    },
+    "3218160": {
+      "appid": 3218160,
+      "name": "龍騎天下-御龍者覺醒",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-20T15:56:25.222049"
     }
   }
 }
