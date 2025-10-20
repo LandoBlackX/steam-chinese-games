@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-20T02:41:50.910392"
+    "updated": "2025-10-20T03:52:32.706545"
   },
   "games": {
     "570": {
@@ -303570,6 +303570,38 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-20T02:31:55.658429"
+    },
+    "3205980": {
+      "appid": 3205980,
+      "name": "Fossil Skater",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-20T03:52:24.125587"
+    },
+    "3206380": {
+      "appid": 3206380,
+      "name": "星夜往事录：彩蜃",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-20T03:52:25.675359"
+    },
+    "3206860": {
+      "appid": 3206860,
+      "name": "被调去饲育部门后，我开始照顾一只拒绝劳动的果冻熊♥",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-20T03:52:28.164875"
+    },
+    "3207150": {
+      "appid": 3207150,
+      "name": "Rogue Snake",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-20T03:52:29.530370"
     }
   }
 }
