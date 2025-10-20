@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-20T16:27:17.550916"
+    "updated": "2025-10-20T17:20:17.835827"
   },
   "games": {
     "570": {
@@ -88618,6 +88618,14 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-10-20T13:21:46.165800"
+    },
+    "3218790": {
+      "appid": 3218790,
+      "name": "The Little Tomb: The Maholova Club and the Search for a Dead Body",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-10-20T17:20:14.649180"
     }
   }
 }

@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-20T16:27:17.550916"
+    "updated": "2025-10-20T17:20:17.835827"
   },
   "games": {
     "570": {
@@ -303946,6 +303946,54 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-20T16:15:54.312672"
+    },
+    "2075630": {
+      "appid": 2075630,
+      "name": "深渊童话",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-20T17:07:01.933083"
+    },
+    "3218630": {
+      "appid": 3218630,
+      "name": "Super Woden: Rally Edge",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-20T17:20:13.955775"
+    },
+    "3218900": {
+      "appid": 3218900,
+      "name": "准时送达",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-20T17:20:15.974049"
+    },
+    "3219010": {
+      "appid": 3219010,
+      "name": "Fogpiercer",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-20T17:20:16.281767"
+    },
+    "3219160": {
+      "appid": 3219160,
+      "name": "Taverna",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-20T17:20:17.014796"
+    },
+    "3219180": {
+      "appid": 3219180,
+      "name": "罪业烙印",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-20T17:20:17.381462"
     }
   }
 }
