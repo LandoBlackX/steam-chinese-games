@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-20T09:29:47.621253"
+    "updated": "2025-10-20T09:57:59.826774"
   },
   "games": {
     "570": {
@@ -303786,6 +303786,38 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-20T09:29:44.854330"
+    },
+    "3213680": {
+      "appid": 3213680,
+      "name": "Kitty Rhythm TD",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-20T09:57:55.695169"
+    },
+    "3214270": {
+      "appid": 3214270,
+      "name": "欲望人形",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-20T09:57:58.882688"
+    },
+    "3214280": {
+      "appid": 3214280,
+      "name": "月光旅团",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-20T09:57:59.068178"
+    },
+    "3214360": {
+      "appid": 3214360,
+      "name": "Bop It! The Video Game",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-20T09:57:59.611464"
     }
   }
 }
