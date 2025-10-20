@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-20T23:20:09.795193"
+    "updated": "2025-10-20T23:50:05.446826"
   },
   "games": {
     "570": {
@@ -304066,6 +304066,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-20T23:20:08.497801"
+    },
+    "3221730": {
+      "appid": 3221730,
+      "name": "请领取社会保障卡",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-20T23:50:01.453466"
     }
   }
 }
