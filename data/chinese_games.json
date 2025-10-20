@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-20T13:21:49.135797"
+    "updated": "2025-10-20T14:17:21.952587"
   },
   "games": {
     "570": {
@@ -303874,6 +303874,22 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-10-20T13:21:46.165800"
+    },
+    "2059570": {
+      "appid": 2059570,
+      "name": "Forgotlings",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-20T14:06:53.501874"
+    },
+    "2060160": {
+      "appid": 2060160,
+      "name": "编程农场",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-20T14:06:54.662334"
     }
   }
 }
