@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-20T03:52:32.706545"
+    "updated": "2025-10-20T04:34:03.031778"
   },
   "games": {
     "570": {
@@ -303602,6 +303602,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-20T03:52:29.530370"
+    },
+    "3208110": {
+      "appid": 3208110,
+      "name": "Luck & Loot",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-20T04:34:00.724810"
     }
   }
 }
