@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-20T09:02:22.893678"
+    "updated": "2025-10-20T09:29:47.621253"
   },
   "games": {
     "570": {
@@ -303770,6 +303770,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-20T09:02:22.034386"
+    },
+    "2009780": {
+      "appid": 2009780,
+      "name": "Napoleon's Eagles: Game of the Napoleonic Wars",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-20T09:16:05.954668"
+    },
+    "3213000": {
+      "appid": 3213000,
+      "name": "Starship Fighters: Space Combat Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-20T09:29:44.854330"
     }
   }
 }
