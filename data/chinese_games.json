@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-20T07:54:14.534661"
+    "updated": "2025-10-20T08:23:32.710855"
   },
   "games": {
     "570": {
@@ -303722,6 +303722,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-20T07:54:13.685247"
+    },
+    "2004380": {
+      "appid": 2004380,
+      "name": "ROD Multiplayer Car Driving",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-20T08:18:31.362431"
     }
   }
 }
