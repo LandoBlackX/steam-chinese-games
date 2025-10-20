@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-20T06:33:17.771263"
+    "updated": "2025-10-20T07:54:14.534661"
   },
   "games": {
     "570": {
@@ -303698,6 +303698,30 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-20T06:33:17.392433"
+    },
+    "3211350": {
+      "appid": 3211350,
+      "name": "终结战车",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-20T07:54:12.386167"
+    },
+    "3211480": {
+      "appid": 3211480,
+      "name": "Hockey Computer League",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-20T07:54:12.787829"
+    },
+    "3211750": {
+      "appid": 3211750,
+      "name": "Neongarten",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-20T07:54:13.685247"
     }
   }
 }
