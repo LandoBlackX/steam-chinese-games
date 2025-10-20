@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-20T18:30:17.924344"
+    "updated": "2025-10-20T19:20:35.709733"
   },
   "games": {
     "570": {
@@ -303994,6 +303994,30 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-20T17:20:17.381462"
+    },
+    "2085540": {
+      "appid": 2085540,
+      "name": "打工火柴人",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-20T19:07:13.596937"
+    },
+    "3219410": {
+      "appid": 3219410,
+      "name": "电车解题",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-20T19:20:32.463504"
+    },
+    "3219630": {
+      "appid": 3219630,
+      "name": "Halloween",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-20T19:20:33.557946"
     }
   }
 }

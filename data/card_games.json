@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-20T18:30:17.924344"
+    "updated": "2025-10-20T19:20:35.709733"
   },
   "games": {
     "570": {
@@ -88634,6 +88634,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-10-20T18:19:11.336858"
+    },
+    "2085620": {
+      "appid": 2085620,
+      "name": "Second Sun",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-10-20T19:07:14.338119"
     }
   }
 }
