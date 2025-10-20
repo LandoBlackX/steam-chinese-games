@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-20T20:56:45.782426"
+    "updated": "2025-10-20T22:18:13.928159"
   },
   "games": {
     "570": {
@@ -304034,6 +304034,30 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-20T20:39:30.416772"
+    },
+    "2105430": {
+      "appid": 2105430,
+      "name": "MICROSCOPIC",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-20T22:06:54.194483"
+    },
+    "2105620": {
+      "appid": 2105620,
+      "name": "SEKTORI",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-20T22:06:55.937420"
+    },
+    "2105840": {
+      "appid": 2105840,
+      "name": "九格生死战",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-20T22:06:57.522053"
     }
   }
 }
