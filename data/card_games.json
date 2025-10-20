@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-20T12:32:04.062007"
+    "updated": "2025-10-20T13:21:49.135797"
   },
   "games": {
     "570": {
@@ -88610,6 +88610,14 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-10-20T05:28:22.948988"
+    },
+    "3216500": {
+      "appid": 3216500,
+      "name": "終天教団",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-10-20T13:21:46.165800"
     }
   }
 }
