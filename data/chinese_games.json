@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-20T05:28:23.110039"
+    "updated": "2025-10-20T05:57:17.836852"
   },
   "games": {
     "570": {
@@ -303634,6 +303634,46 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-10-20T05:28:22.948988"
+    },
+    "3209560": {
+      "appid": 3209560,
+      "name": "不正经.聊斋",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-20T05:57:13.761568"
+    },
+    "3209850": {
+      "appid": 3209850,
+      "name": "MAMA",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-20T05:57:14.882599"
+    },
+    "3210060": {
+      "appid": 3210060,
+      "name": "Skyfarm",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-20T05:57:15.832374"
+    },
+    "3210100": {
+      "appid": 3210100,
+      "name": "X-GRAVITY",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-20T05:57:16.178216"
+    },
+    "3210120": {
+      "appid": 3210120,
+      "name": "The Elf on the Shelf®：圣诞英雄",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-20T05:57:16.506091"
     }
   }
 }
