@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-20T22:54:02.471581"
+    "updated": "2025-10-20T23:20:09.795193"
   },
   "games": {
     "570": {
@@ -304058,6 +304058,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-20T22:06:57.522053"
+    },
+    "3220700": {
+      "appid": 3220700,
+      "name": "Timebound",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-20T23:20:08.497801"
     }
   }
 }
