@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-20T05:57:17.836852"
+    "updated": "2025-10-20T06:33:17.771263"
   },
   "games": {
     "570": {
@@ -303674,6 +303674,30 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-20T05:57:16.506091"
+    },
+    "3210640": {
+      "appid": 3210640,
+      "name": "Blessed with Death",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-20T06:33:14.035299"
+    },
+    "3210750": {
+      "appid": 3210750,
+      "name": "Unprotected",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-20T06:33:15.525800"
+    },
+    "3210910": {
+      "appid": 3210910,
+      "name": "Tootum",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-20T06:33:17.392433"
     }
   }
 }
