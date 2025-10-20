@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-20T22:18:13.928159"
+    "updated": "2025-10-20T22:54:02.471581"
   },
   "games": {
     "570": {
@@ -88642,6 +88642,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-10-20T19:07:14.338119"
+    },
+    "2112750": {
+      "appid": 2112750,
+      "name": "Toziuha Night: Order of the Alchemists",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-10-20T22:42:37.176312"
     }
   }
 }
