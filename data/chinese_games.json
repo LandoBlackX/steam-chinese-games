@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-20T19:20:35.709733"
+    "updated": "2025-10-20T19:48:30.364567"
   },
   "games": {
     "570": {
@@ -304018,6 +304018,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-20T19:20:33.557946"
+    },
+    "2089930": {
+      "appid": 2089930,
+      "name": "Wonderland",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-20T19:37:09.183895"
     }
   }
 }
