@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-20T09:57:59.826774"
+    "updated": "2025-10-20T11:00:46.230041"
   },
   "games": {
     "570": {
@@ -303818,6 +303818,30 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-20T09:57:59.611464"
+    },
+    "3214570": {
+      "appid": 3214570,
+      "name": "Disconnect",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-20T11:00:42.779195"
+    },
+    "3215050": {
+      "appid": 3215050,
+      "name": "Surviving Mars: Relaunched",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-20T11:00:43.874839"
+    },
+    "3215230": {
+      "appid": 3215230,
+      "name": "Go Slimey Go!",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-20T11:00:45.067695"
     }
   }
 }
