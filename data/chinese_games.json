@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-20T11:00:46.230041"
+    "updated": "2025-10-20T11:47:18.862338"
   },
   "games": {
     "570": {
@@ -303842,6 +303842,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-20T11:00:45.067695"
+    },
+    "2026820": {
+      "appid": 2026820,
+      "name": "Die in the Dungeon",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-20T11:37:04.701310"
     }
   }
 }
