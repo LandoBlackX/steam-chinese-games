@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-20T05:00:25.911364"
+    "updated": "2025-10-20T05:28:23.110039"
   },
   "games": {
     "570": {
@@ -303618,6 +303618,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-20T05:00:24.170505"
+    },
+    "3208930": {
+      "appid": 3208930,
+      "name": "갈바테인 : 모험가 길드 사무소",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-20T05:28:19.894122"
+    },
+    "3209480": {
+      "appid": 3209480,
+      "name": "Last Report",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-10-20T05:28:22.948988"
     }
   }
 }

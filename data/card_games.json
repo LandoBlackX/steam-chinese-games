@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-20T05:00:25.911364"
+    "updated": "2025-10-20T05:28:23.110039"
   },
   "games": {
     "570": {
@@ -88602,6 +88602,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-10-19T08:56:58.737946"
+    },
+    "3209480": {
+      "appid": 3209480,
+      "name": "Last Report",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-10-20T05:28:22.948988"
     }
   }
 }
