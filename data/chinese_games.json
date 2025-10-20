@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-20T08:23:32.710855"
+    "updated": "2025-10-20T09:02:22.893678"
   },
   "games": {
     "570": {
@@ -303730,6 +303730,46 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-20T08:18:31.362431"
+    },
+    "2005690": {
+      "appid": 2005690,
+      "name": "The 9th Charnel",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-20T08:48:32.502471"
+    },
+    "2006770": {
+      "appid": 2006770,
+      "name": "BENJA: 180 Seconds",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-20T08:48:39.707676"
+    },
+    "3212050": {
+      "appid": 3212050,
+      "name": "Putt in Parks",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-20T09:02:19.247326"
+    },
+    "3212290": {
+      "appid": 3212290,
+      "name": "Bumble Rumble",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-20T09:02:20.734270"
+    },
+    "3212580": {
+      "appid": 3212580,
+      "name": "Bratz®节奏与风格",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-20T09:02:22.034386"
     }
   }
 }
