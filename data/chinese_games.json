@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-20T04:34:03.031778"
+    "updated": "2025-10-20T05:00:25.911364"
   },
   "games": {
     "570": {
@@ -303610,6 +303610,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-20T04:34:00.724810"
+    },
+    "3208560": {
+      "appid": 3208560,
+      "name": "Trainatic",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-20T05:00:24.170505"
     }
   }
 }
