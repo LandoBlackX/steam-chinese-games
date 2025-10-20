@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-20T14:17:21.952587"
+    "updated": "2025-10-20T14:59:14.420166"
   },
   "games": {
     "570": {
@@ -303890,6 +303890,30 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-20T14:06:54.662334"
+    },
+    "2065000": {
+      "appid": 2065000,
+      "name": "Chess Survivors",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-20T14:45:58.849932"
+    },
+    "3217230": {
+      "appid": 3217230,
+      "name": "Overboost",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-20T14:59:11.191516"
+    },
+    "3217240": {
+      "appid": 3217240,
+      "name": "Soccer Manager 2026",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-20T14:59:11.336207"
     }
   }
 }
