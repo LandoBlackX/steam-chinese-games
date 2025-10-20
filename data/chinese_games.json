@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-20T19:48:30.364567"
+    "updated": "2025-10-20T20:56:45.782426"
   },
   "games": {
     "570": {
@@ -304026,6 +304026,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-20T19:37:09.183895"
+    },
+    "411090": {
+      "appid": 411090,
+      "name": "Witness the Dark - Episode 1 - Bloody Burger",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-20T20:39:30.416772"
     }
   }
 }
