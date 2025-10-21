@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-21T05:56:58.168647"
+    "updated": "2025-10-21T06:32:48.713641"
   },
   "games": {
     "570": {
@@ -304298,6 +304298,30 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-21T05:56:54.371999"
+    },
+    "3232000": {
+      "appid": 3232000,
+      "name": "echo//shredd",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-21T06:32:44.928824"
+    },
+    "3232060": {
+      "appid": 3232060,
+      "name": "海棋",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-21T06:32:45.468784"
+    },
+    "3232380": {
+      "appid": 3232380,
+      "name": "FROGGY HATES SNOW",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-21T06:32:47.394343"
     }
   }
 }
