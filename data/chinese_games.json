@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-21T21:20:30.217947"
+    "updated": "2025-10-21T21:50:40.310902"
   },
   "games": {
     "570": {
@@ -304618,6 +304618,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-21T21:20:25.255488"
+    },
+    "2215410": {
+      "appid": 2215410,
+      "name": "Anime City",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-21T21:39:14.606383"
     }
   }
 }
