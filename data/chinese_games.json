@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-21T17:20:28.695423"
+    "updated": "2025-10-21T17:55:25.156671"
   },
   "games": {
     "570": {
@@ -304562,6 +304562,22 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-10-21T17:20:26.965525"
+    },
+    "2953940": {
+      "appid": 2953940,
+      "name": "Ancient Wars: Sparta HD",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-21T17:51:28.287976"
+    },
+    "3247750": {
+      "appid": 3247750,
+      "name": "Mycopunk — 真菌朋克",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-21T17:55:25.015330"
     }
   }
 }
