@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-21T12:23:22.844196"
+    "updated": "2025-10-21T13:23:06.889832"
   },
   "games": {
     "570": {
@@ -304482,6 +304482,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-21T12:22:56.046875"
+    },
+    "2172410": {
+      "appid": 2172410,
+      "name": "100animalease",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-21T13:11:19.106005"
     }
   }
 }
