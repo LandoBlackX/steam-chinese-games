@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-21T07:53:55.214151"
+    "updated": "2025-10-21T08:30:37.761337"
   },
   "games": {
     "570": {
@@ -304362,6 +304362,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-21T07:53:54.664521"
+    },
+    "2145170": {
+      "appid": 2145170,
+      "name": "平原传说",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-21T08:19:31.684511"
     }
   }
 }
