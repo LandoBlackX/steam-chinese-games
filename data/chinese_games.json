@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-21T22:19:35.552928"
+    "updated": "2025-10-21T23:19:44.179077"
   },
   "games": {
     "570": {
@@ -304634,6 +304634,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-21T22:08:03.882802"
+    },
+    "2226920": {
+      "appid": 2226920,
+      "name": "Road Domination",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-21T23:07:57.802424"
     }
   }
 }
