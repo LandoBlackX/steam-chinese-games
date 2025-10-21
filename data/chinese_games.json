@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-21T04:58:58.998885"
+    "updated": "2025-10-21T05:27:58.393839"
   },
   "games": {
     "570": {
@@ -304234,6 +304234,38 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-21T04:58:58.996711"
+    },
+    "3230190": {
+      "appid": 3230190,
+      "name": "望夕桂不想学习",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-21T05:27:55.006568"
+    },
+    "3230430": {
+      "appid": 3230430,
+      "name": "The CUBE",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-21T05:27:56.936352"
+    },
+    "3230470": {
+      "appid": 3230470,
+      "name": "逃出魔法少女之家☆",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-21T05:27:57.288310"
+    },
+    "3230560": {
+      "appid": 3230560,
+      "name": "Storm Settlers",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-21T05:27:57.745603"
     }
   }
 }
