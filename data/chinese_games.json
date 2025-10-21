@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-21T03:44:15.610333"
+    "updated": "2025-10-21T04:06:29.534952"
   },
   "games": {
     "570": {
@@ -304146,6 +304146,30 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-21T03:44:15.607582"
+    },
+    "1160460": {
+      "appid": 1160460,
+      "name": "The Exorcists",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-21T03:48:42.798363"
+    },
+    "2126590": {
+      "appid": 2126590,
+      "name": "Brichi Quest",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-21T03:53:36.659255"
+    },
+    "3225790": {
+      "appid": 3225790,
+      "name": "Wildrise",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-21T04:06:26.963130"
     }
   }
 }
