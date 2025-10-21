@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-21T13:23:06.889832"
+    "updated": "2025-10-21T14:20:45.721494"
   },
   "games": {
     "570": {
@@ -304490,6 +304490,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-21T13:11:19.106005"
+    },
+    "3240000": {
+      "appid": 3240000,
+      "name": "Zombiemachia",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-21T14:20:42.661175"
     }
   }
 }
