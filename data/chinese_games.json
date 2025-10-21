@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-21T07:28:48.514098"
+    "updated": "2025-10-21T07:53:55.214151"
   },
   "games": {
     "570": {
@@ -304346,6 +304346,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-21T07:28:48.099637"
+    },
+    "2141810": {
+      "appid": 2141810,
+      "name": "GUN KING",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-21T07:41:24.393473"
+    },
+    "3235150": {
+      "appid": 3235150,
+      "name": "Exile Protocol",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-21T07:53:54.664521"
     }
   }
 }
