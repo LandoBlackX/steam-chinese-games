@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-21T14:20:45.721494"
+    "updated": "2025-10-21T14:56:40.662107"
   },
   "games": {
     "570": {
@@ -304498,6 +304498,30 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-21T14:20:42.661175"
+    },
+    "2178390": {
+      "appid": 2178390,
+      "name": "神话幸存者",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-21T14:46:03.050192"
+    },
+    "2178670": {
+      "appid": 2178670,
+      "name": "Disminal",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-21T14:46:04.201565"
+    },
+    "2332860": {
+      "appid": 2332860,
+      "name": "Factoriant",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-21T14:47:35.026853"
     }
   }
 }
