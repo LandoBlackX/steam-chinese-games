@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-21T16:18:45.278635"
+    "updated": "2025-10-21T17:20:28.695423"
   },
   "games": {
     "570": {
@@ -304554,6 +304554,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-21T16:07:37.300334"
+    },
+    "3246190": {
+      "appid": 3246190,
+      "name": "关于我们尝试把似曾相见的「那些游戏」做得更加刺激，却惊觉火柴人存在极限这档事。",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-10-21T17:20:26.965525"
     }
   }
 }
