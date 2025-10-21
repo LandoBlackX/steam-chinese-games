@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-21T04:06:29.534952"
+    "updated": "2025-10-21T04:29:44.585282"
   },
   "games": {
     "570": {
@@ -304170,6 +304170,54 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-21T04:06:26.963130"
+    },
+    "3226450": {
+      "appid": 3226450,
+      "name": "iRacing Arcade",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-21T04:29:31.192701"
+    },
+    "3226830": {
+      "appid": 3226830,
+      "name": "Canvas City",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-21T04:29:34.180031"
+    },
+    "3227040": {
+      "appid": 3227040,
+      "name": "Dress the Duel",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-21T04:29:34.800740"
+    },
+    "3227240": {
+      "appid": 3227240,
+      "name": "MineGeon: Renegades",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-21T04:29:35.885197"
+    },
+    "3227900": {
+      "appid": 3227900,
+      "name": "Nightmare Circus",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-21T04:29:38.652662"
+    },
+    "3227950": {
+      "appid": 3227950,
+      "name": "吞食天地 虛擬世界",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-21T04:29:38.796423"
     }
   }
 }
