@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-21T08:30:37.761337"
+    "updated": "2025-10-21T09:19:20.059638"
   },
   "games": {
     "570": {
@@ -304370,6 +304370,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-21T08:19:31.684511"
+    },
+    "2148970": {
+      "appid": 2148970,
+      "name": "天境争锋 Skygard Arena",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-21T09:08:03.387071"
+    },
+    "2150300": {
+      "appid": 2150300,
+      "name": "SGS We The People",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-21T09:08:10.491981"
     }
   }
 }
