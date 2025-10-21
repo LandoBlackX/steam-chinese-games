@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-21T04:29:44.585282"
+    "updated": "2025-10-21T04:58:58.998885"
   },
   "games": {
     "570": {
@@ -304218,6 +304218,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-21T04:29:38.796423"
+    },
+    "3229910": {
+      "appid": 3229910,
+      "name": "拖延之影",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-21T04:58:58.589830"
+    },
+    "3229980": {
+      "appid": 3229980,
+      "name": "This Is Fine: Maximum Cope",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-21T04:58:58.996711"
     }
   }
 }
