@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-21T11:20:01.490744"
+    "updated": "2025-10-21T11:50:00.515801"
   },
   "games": {
     "570": {
@@ -88650,6 +88650,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-10-20T22:42:37.176312"
+    },
+    "3239650": {
+      "appid": 3239650,
+      "name": "Garfield Kart 2 - All You Can Drift",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-10-21T11:50:00.129439"
     }
   }
 }

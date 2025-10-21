@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-21T11:20:01.490744"
+    "updated": "2025-10-21T11:50:00.515801"
   },
   "games": {
     "570": {
@@ -304458,6 +304458,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-21T11:19:58.137219"
+    },
+    "3238940": {
+      "appid": 3238940,
+      "name": "和存在感薄弱的妹妹一起的简单生活",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-21T11:49:56.612946"
+    },
+    "3239650": {
+      "appid": 3239650,
+      "name": "Garfield Kart 2 - All You Can Drift",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-10-21T11:50:00.129439"
     }
   }
 }
