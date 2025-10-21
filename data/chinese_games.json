@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-21T06:32:48.713641"
+    "updated": "2025-10-21T07:05:27.831792"
   },
   "games": {
     "570": {
@@ -304322,6 +304322,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-21T06:32:47.394343"
+    },
+    "3232690": {
+      "appid": 3232690,
+      "name": "Maid Cafe Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-21T07:05:23.207033"
     }
   }
 }
