@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-21T14:56:40.662107"
+    "updated": "2025-10-21T15:55:37.602765"
   },
   "games": {
     "570": {
@@ -304522,6 +304522,30 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-21T14:47:35.026853"
+    },
+    "3242830": {
+      "appid": 3242830,
+      "name": "Ars Vox Arcana",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-21T15:55:29.394439"
+    },
+    "3242950": {
+      "appid": 3242950,
+      "name": "Outworld Station",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-21T15:55:30.733807"
+    },
+    "3243710": {
+      "appid": 3243710,
+      "name": "KOTARO Survivor",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-21T15:55:33.860768"
     }
   }
 }
