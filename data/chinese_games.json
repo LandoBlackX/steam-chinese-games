@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-21T21:50:40.310902"
+    "updated": "2025-10-21T22:19:35.552928"
   },
   "games": {
     "570": {
@@ -304626,6 +304626,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-21T21:39:14.606383"
+    },
+    "2221530": {
+      "appid": 2221530,
+      "name": "凡加罗战术 Vangaro Tactics",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-21T22:08:03.882802"
     }
   }
 }
