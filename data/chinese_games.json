@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-21T10:59:24.136212"
+    "updated": "2025-10-21T11:20:01.490744"
   },
   "games": {
     "570": {
@@ -304434,6 +304434,30 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-21T10:59:23.753634"
+    },
+    "3237640": {
+      "appid": 3237640,
+      "name": "Dark Dominion",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-21T11:19:56.245867"
+    },
+    "3238190": {
+      "appid": 3238190,
+      "name": "Success In Progress",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-21T11:19:57.992292"
+    },
+    "3238220": {
+      "appid": 3238220,
+      "name": "Hand of Hexes",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-21T11:19:58.137219"
     }
   }
 }
