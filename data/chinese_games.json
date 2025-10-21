@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-21T05:27:58.393839"
+    "updated": "2025-10-21T05:56:58.168647"
   },
   "games": {
     "570": {
@@ -304266,6 +304266,38 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-21T05:27:57.745603"
+    },
+    "2132890": {
+      "appid": 2132890,
+      "name": "Possessor(s)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-21T05:44:12.955052"
+    },
+    "2134860": {
+      "appid": 2134860,
+      "name": "My Ex-future Family",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-21T05:44:23.621864"
+    },
+    "3230960": {
+      "appid": 3230960,
+      "name": "EXODUS™",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-21T05:56:53.646384"
+    },
+    "3231040": {
+      "appid": 3231040,
+      "name": "语默行间",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-21T05:56:54.371999"
     }
   }
 }
