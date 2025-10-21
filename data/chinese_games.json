@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-21T09:57:17.012616"
+    "updated": "2025-10-21T10:59:24.136212"
   },
   "games": {
     "570": {
@@ -304418,6 +304418,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-21T09:57:15.281287"
+    },
+    "3236710": {
+      "appid": 3236710,
+      "name": "Puzzle Quest：不朽版",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-21T10:59:21.272823"
+    },
+    "3237360": {
+      "appid": 3237360,
+      "name": "孤独的灵魂",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-21T10:59:23.753634"
     }
   }
 }
