@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-21T20:59:00.763347"
+    "updated": "2025-10-21T21:20:30.217947"
   },
   "games": {
     "570": {
@@ -304602,6 +304602,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-21T20:57:03.463038"
+    },
+    "2213710": {
+      "appid": 2213710,
+      "name": "Highway to Heal",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-21T21:07:46.212558"
+    },
+    "3248990": {
+      "appid": 3248990,
+      "name": "The Detectorist Guild",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-21T21:20:25.255488"
     }
   }
 }

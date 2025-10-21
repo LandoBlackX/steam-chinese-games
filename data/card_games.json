@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-21T20:59:00.763347"
+    "updated": "2025-10-21T21:20:30.217947"
   },
   "games": {
     "570": {
@@ -88666,6 +88666,14 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-10-21T17:20:26.965525"
+    },
+    "2214000": {
+      "appid": 2214000,
+      "name": "Top Racer Collection",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-10-21T21:07:48.821091"
     }
   }
 }
