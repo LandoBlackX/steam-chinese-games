@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-21T11:50:00.515801"
+    "updated": "2025-10-21T12:23:22.844196"
   },
   "games": {
     "570": {
@@ -304474,6 +304474,14 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-10-21T11:50:00.129439"
+    },
+    "2165530": {
+      "appid": 2165530,
+      "name": "Make me Float",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-21T12:22:56.046875"
     }
   }
 }
