@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-21T07:05:27.831792"
+    "updated": "2025-10-21T07:28:48.514098"
   },
   "games": {
     "570": {
@@ -304330,6 +304330,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-21T07:05:23.207033"
+    },
+    "3234400": {
+      "appid": 3234400,
+      "name": "Arrow Hood",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-21T07:28:47.453939"
+    },
+    "3234450": {
+      "appid": 3234450,
+      "name": "Robot Fury: Mech Combat Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-21T07:28:48.099637"
     }
   }
 }
