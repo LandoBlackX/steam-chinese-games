@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-21T23:19:44.179077"
+    "updated": "2025-10-21T23:52:01.726583"
   },
   "games": {
     "570": {
@@ -304642,6 +304642,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-21T23:07:57.802424"
+    },
+    "3251590": {
+      "appid": 3251590,
+      "name": "Fateful Night",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-21T23:51:57.071021"
+    },
+    "3251940": {
+      "appid": 3251940,
+      "name": "风暴庇护所",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-21T23:51:59.540932"
     }
   }
 }
