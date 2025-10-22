@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-22T14:21:10.179136"
+    "updated": "2025-10-22T15:20:49.607277"
   },
   "games": {
     "570": {
@@ -304946,6 +304946,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-22T14:10:33.404445"
+    },
+    "2288520": {
+      "appid": 2288520,
+      "name": "The Quiet Things",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-22T15:08:42.117795"
     }
   }
 }
