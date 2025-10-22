@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-22T15:58:15.042507"
+    "updated": "2025-10-22T16:30:21.407824"
   },
   "games": {
     "570": {
@@ -304962,6 +304962,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-22T15:46:25.834877"
+    },
+    "2295580": {
+      "appid": 2295580,
+      "name": "Police Car Armored: Cop Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-22T16:17:50.582020"
     }
   }
 }
