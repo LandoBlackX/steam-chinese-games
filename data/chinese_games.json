@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-22T06:28:17.145263"
+    "updated": "2025-10-22T07:20:27.362163"
   },
   "games": {
     "570": {
@@ -304826,6 +304826,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-22T06:21:18.885483"
+    },
+    "2251170": {
+      "appid": 2251170,
+      "name": "ZWAARD",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-22T07:08:31.323278"
     }
   }
 }
