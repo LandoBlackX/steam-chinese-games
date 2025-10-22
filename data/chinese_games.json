@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-22T05:20:48.610548"
+    "updated": "2025-10-22T05:58:10.359112"
   },
   "games": {
     "570": {
@@ -304786,6 +304786,38 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-22T05:20:16.875312"
+    },
+    "2245180": {
+      "appid": 2245180,
+      "name": "VORON",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-22T05:45:42.303598"
+    },
+    "3262100": {
+      "appid": 3262100,
+      "name": "Mighty Meow",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-22T05:58:04.827826"
+    },
+    "3262700": {
+      "appid": 3262700,
+      "name": "MAKE AMERICA SICK AGAIN",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-22T05:58:09.410959"
+    },
+    "3262770": {
+      "appid": 3262770,
+      "name": "Number Way",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-22T05:58:10.356997"
     }
   }
 }
