@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-22T03:48:19.960841"
+    "updated": "2025-10-22T04:30:42.866637"
   },
   "games": {
     "570": {
@@ -304714,6 +304714,38 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-22T03:48:18.524214"
+    },
+    "3255680": {
+      "appid": 3255680,
+      "name": "Kwalasha (Unknown depths)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-22T04:30:38.282274"
+    },
+    "3255990": {
+      "appid": 3255990,
+      "name": "Miner Open Chests",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-22T04:30:39.524688"
+    },
+    "3256150": {
+      "appid": 3256150,
+      "name": "Moomintroll: Winter's Warmth",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-22T04:30:40.692237"
+    },
+    "3256310": {
+      "appid": 3256310,
+      "name": "DungeonRoute",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-22T04:30:41.215659"
     }
   }
 }
