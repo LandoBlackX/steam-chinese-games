@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-22T17:52:52.571832"
+    "updated": "2025-10-22T18:28:24.524737"
   },
   "games": {
     "570": {
@@ -304994,6 +304994,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-22T17:52:49.212315"
+    },
+    "2306840": {
+      "appid": 2306840,
+      "name": "Fantasy Shop",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-22T18:21:14.890975"
     }
   }
 }
