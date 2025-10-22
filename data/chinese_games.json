@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-22T09:05:32.744747"
+    "updated": "2025-10-22T09:30:00.497436"
   },
   "games": {
     "570": {
@@ -304866,6 +304866,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-22T09:05:30.450297"
+    },
+    "2262220": {
+      "appid": 2262220,
+      "name": "闪耀之石：英雄觉醒",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-22T09:17:47.770205"
+    },
+    "3265900": {
+      "appid": 3265900,
+      "name": "Electronics Shop Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-22T09:29:59.422447"
     }
   }
 }
