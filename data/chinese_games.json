@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-22T04:30:42.866637"
+    "updated": "2025-10-22T05:00:13.601520"
   },
   "games": {
     "570": {
@@ -304746,6 +304746,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-22T04:30:41.215659"
+    },
+    "3257330": {
+      "appid": 3257330,
+      "name": "Frenzy Force",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-22T05:00:12.591129"
+    },
+    "3257760": {
+      "appid": 3257760,
+      "name": "龙沉异世录",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-22T05:00:13.599505"
     }
   }
 }
