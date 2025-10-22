@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-22T07:20:27.362163"
+    "updated": "2025-10-22T07:53:59.182503"
   },
   "games": {
     "570": {
@@ -304834,6 +304834,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-22T07:08:31.323278"
+    },
+    "3263380": {
+      "appid": 3263380,
+      "name": "Heaven's Door",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-22T07:53:58.163215"
     }
   }
 }

@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-22T07:20:27.362163"
+    "updated": "2025-10-22T07:53:59.182503"
   },
   "games": {
     "570": {
@@ -88674,6 +88674,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-10-21T21:07:48.821091"
+    },
+    "2256280": {
+      "appid": 2256280,
+      "name": "Project Skyward",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-10-22T07:41:58.077193"
     }
   }
 }
