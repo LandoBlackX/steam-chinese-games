@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-22T16:30:21.407824"
+    "updated": "2025-10-22T17:21:40.178631"
   },
   "games": {
     "570": {
@@ -304970,6 +304970,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-22T16:17:50.582020"
+    },
+    "2300040": {
+      "appid": 2300040,
+      "name": "Gangster City: Mafia Car Driving",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-22T17:09:23.335075"
     }
   }
 }
