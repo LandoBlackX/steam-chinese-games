@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-22T07:53:59.182503"
+    "updated": "2025-10-22T09:05:32.744747"
   },
   "games": {
     "570": {
@@ -304842,6 +304842,30 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-22T07:53:58.163215"
+    },
+    "2261560": {
+      "appid": 2261560,
+      "name": "We The People",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-22T08:53:13.112831"
+    },
+    "3263760": {
+      "appid": 3263760,
+      "name": "我是高手",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-22T09:05:26.775137"
+    },
+    "3264480": {
+      "appid": 3264480,
+      "name": "终焉之森2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-22T09:05:30.450297"
     }
   }
 }
