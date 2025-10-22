@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-22T20:56:57.982555"
+    "updated": "2025-10-22T21:49:48.159707"
   },
   "games": {
     "570": {
@@ -305026,6 +305026,38 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-22T20:52:31.516986"
+    },
+    "3272710": {
+      "appid": 3272710,
+      "name": "朱鴉～AKEGARASU～ Journey to the Underworld",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-22T21:49:43.843412"
+    },
+    "3272880": {
+      "appid": 3272880,
+      "name": "黑之章",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-22T21:49:44.765372"
+    },
+    "3273300": {
+      "appid": 3273300,
+      "name": "LAPPY GAMES",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-22T21:49:46.957180"
+    },
+    "3273530": {
+      "appid": 3273530,
+      "name": "1998：收费员的故事",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-22T21:49:47.845736"
     }
   }
 }
