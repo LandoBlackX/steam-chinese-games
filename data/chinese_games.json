@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-22T02:43:02.952119"
+    "updated": "2025-10-22T03:48:19.960841"
   },
   "games": {
     "570": {
@@ -304690,6 +304690,30 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-22T02:43:01.908384"
+    },
+    "3254800": {
+      "appid": 3254800,
+      "name": "UnepicTale",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-22T03:48:15.340958"
+    },
+    "3255110": {
+      "appid": 3255110,
+      "name": "Grave Seasons",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-22T03:48:16.493307"
+    },
+    "3255490": {
+      "appid": 3255490,
+      "name": "Fight Flight",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-22T03:48:18.524214"
     }
   }
 }
