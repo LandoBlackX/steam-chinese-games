@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-22T05:58:10.359112"
+    "updated": "2025-10-22T06:28:17.145263"
   },
   "games": {
     "570": {
@@ -304818,6 +304818,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-22T05:58:10.356997"
+    },
+    "2248900": {
+      "appid": 2248900,
+      "name": "棋王之路",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-22T06:21:18.885483"
     }
   }
 }
