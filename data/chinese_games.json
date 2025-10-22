@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-22T17:21:40.178631"
+    "updated": "2025-10-22T17:52:52.571832"
   },
   "games": {
     "570": {
@@ -304978,6 +304978,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-22T17:09:23.335075"
+    },
+    "2303300": {
+      "appid": 2303300,
+      "name": "Real Zombie War Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-22T17:40:36.037780"
+    },
+    "3269650": {
+      "appid": 3269650,
+      "name": "Isle of the Night: Pirate Survivors",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-22T17:52:49.212315"
     }
   }
 }
