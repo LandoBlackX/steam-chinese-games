@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-22T18:28:24.524737"
+    "updated": "2025-10-22T19:50:48.092286"
   },
   "games": {
     "570": {
@@ -305002,6 +305002,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-22T18:21:14.890975"
+    },
+    "3271000": {
+      "appid": 3271000,
+      "name": "SEGA 新创造球会",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-22T19:50:44.426071"
+    },
+    "3271720": {
+      "appid": 3271720,
+      "name": "Obliterator-X",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-22T19:50:47.390035"
     }
   }
 }
