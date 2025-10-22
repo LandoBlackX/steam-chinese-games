@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-22T15:20:49.607277"
+    "updated": "2025-10-22T15:58:15.042507"
   },
   "games": {
     "570": {
@@ -304954,6 +304954,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-22T15:08:42.117795"
+    },
+    "2294780": {
+      "appid": 2294780,
+      "name": "Backpack Survivors",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-22T15:46:25.834877"
     }
   }
 }
