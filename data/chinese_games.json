@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-22T21:49:48.159707"
+    "updated": "2025-10-22T22:46:16.216260"
   },
   "games": {
     "570": {
@@ -305058,6 +305058,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-22T21:49:47.845736"
+    },
+    "2334330": {
+      "appid": 2334330,
+      "name": "CASSETTE BOY",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-22T22:38:51.536848"
     }
   }
 }
