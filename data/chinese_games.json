@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-21T23:52:01.726583"
+    "updated": "2025-10-22T02:43:02.952119"
   },
   "games": {
     "570": {
@@ -304658,6 +304658,38 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-21T23:51:59.540932"
+    },
+    "3253150": {
+      "appid": 3253150,
+      "name": "Diner Bros 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-22T02:42:56.881520"
+    },
+    "3253990": {
+      "appid": 3253990,
+      "name": "THE WALLWAY",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-22T02:43:00.049775"
+    },
+    "3254190": {
+      "appid": 3254190,
+      "name": "RunningWitch!",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-22T02:43:01.230891"
+    },
+    "3254420": {
+      "appid": 3254420,
+      "name": "星系框架",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-22T02:43:01.908384"
     }
   }
 }
