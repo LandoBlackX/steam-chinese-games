@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-22T09:30:00.497436"
+    "updated": "2025-10-22T09:59:13.000294"
   },
   "games": {
     "570": {
@@ -304882,6 +304882,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-22T09:29:59.422447"
+    },
+    "3266950": {
+      "appid": 3266950,
+      "name": "Triangle - Cursed Town",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-22T09:59:10.516596"
+    },
+    "3267550": {
+      "appid": 3267550,
+      "name": "The Backrooms: Rescue Expedition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-22T09:59:12.654654"
     }
   }
 }
