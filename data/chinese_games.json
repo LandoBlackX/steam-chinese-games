@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-23T11:51:21.867158"
+    "updated": "2025-10-23T12:24:55.320738"
   },
   "games": {
     "570": {
@@ -305514,6 +305514,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-23T11:51:21.367859"
+    },
+    "2381060": {
+      "appid": 2381060,
+      "name": "Alnico Smithery",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-23T12:24:20.540806"
     }
   }
 }
