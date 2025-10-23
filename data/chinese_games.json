@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-23T10:56:47.120344"
+    "updated": "2025-10-23T11:51:21.867158"
   },
   "games": {
     "570": {
@@ -305466,6 +305466,54 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-23T10:49:03.993695"
+    },
+    "2379230": {
+      "appid": 2379230,
+      "name": "Blessed Burden",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-23T11:39:29.579519"
+    },
+    "3294570": {
+      "appid": 3294570,
+      "name": "Killer Depths",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-23T11:51:16.833006"
+    },
+    "3294660": {
+      "appid": 3294660,
+      "name": "What in HELL is Bad?",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-23T11:51:17.159589"
+    },
+    "3294690": {
+      "appid": 3294690,
+      "name": "缘结甜祇 ~My Sweet Goddess~",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-10-23T11:51:17.359801"
+    },
+    "3295010": {
+      "appid": 3295010,
+      "name": "Insect Dude! Underground Roots",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-23T11:51:19.202069"
+    },
+    "3295360": {
+      "appid": 3295360,
+      "name": "如胶似漆",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-23T11:51:21.367859"
     }
   }
 }

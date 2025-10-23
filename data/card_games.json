@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-23T10:56:47.120344"
+    "updated": "2025-10-23T11:51:21.867158"
   },
   "games": {
     "570": {
@@ -88706,6 +88706,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-10-23T09:29:40.054792"
+    },
+    "3294690": {
+      "appid": 3294690,
+      "name": "缘结甜祇 ~My Sweet Goddess~",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-10-23T11:51:17.359801"
     }
   }
 }
