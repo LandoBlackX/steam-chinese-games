@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-23T12:24:55.320738"
+    "updated": "2025-10-23T13:24:14.142436"
   },
   "games": {
     "570": {
@@ -305522,6 +305522,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-23T12:24:20.540806"
+    },
+    "3296060": {
+      "appid": 3296060,
+      "name": "逃脱学院 2：再返校园",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-23T13:24:13.829815"
     }
   }
 }
