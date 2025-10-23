@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-23T09:29:41.153142"
+    "updated": "2025-10-23T09:58:03.541956"
   },
   "games": {
     "570": {
@@ -305410,6 +305410,38 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-23T09:29:39.711748"
+    },
+    "2369580": {
+      "appid": 2369580,
+      "name": "Mad King Redemption",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-23T09:46:12.222251"
+    },
+    "2370420": {
+      "appid": 2370420,
+      "name": "Chronomon",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-23T09:46:16.689216"
+    },
+    "3292110": {
+      "appid": 3292110,
+      "name": "走私狂奔 Rogue Run ",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-23T09:58:01.588106"
+    },
+    "3292340": {
+      "appid": 3292340,
+      "name": "时空重构",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-23T09:58:03.070279"
     }
   }
 }
