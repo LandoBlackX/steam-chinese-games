@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-23T07:54:34.548533"
+    "updated": "2025-10-23T09:04:31.565692"
   },
   "games": {
     "570": {
@@ -305386,6 +305386,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-23T07:54:31.014172"
+    },
+    "3289400": {
+      "appid": 3289400,
+      "name": "ARMED FRAME",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-23T09:04:29.757495"
     }
   }
 }
