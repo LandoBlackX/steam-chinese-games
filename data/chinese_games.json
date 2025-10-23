@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-23T22:53:45.258206"
+    "updated": "2025-10-23T23:44:38.412277"
   },
   "games": {
     "570": {
@@ -305698,6 +305698,38 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-23T22:45:38.391226"
+    },
+    "2435090": {
+      "appid": 2435090,
+      "name": "Talented",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-23T23:39:16.899714"
+    },
+    "2435450": {
+      "appid": 2435450,
+      "name": "Azoove",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-23T23:39:19.924822"
+    },
+    "2435870": {
+      "appid": 2435870,
+      "name": "Blood Rush",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-23T23:39:23.470969"
+    },
+    "2436410": {
+      "appid": 2436410,
+      "name": "Asfalia 庄园惊魂",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-23T23:39:26.800521"
     }
   }
 }

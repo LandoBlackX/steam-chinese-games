@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-23T22:53:45.258206"
+    "updated": "2025-10-23T23:44:38.412277"
   },
   "games": {
     "570": {
@@ -88714,6 +88714,14 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-10-23T11:51:17.359801"
+    },
+    "2437750": {
+      "appid": 2437750,
+      "name": "Paradise Lust 2",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-10-23T23:39:32.633266"
     }
   }
 }
