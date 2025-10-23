@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-23T16:26:44.089436"
+    "updated": "2025-10-23T17:56:47.376585"
   },
   "games": {
     "570": {
@@ -305586,6 +305586,30 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-23T16:18:24.524281"
+    },
+    "3298520": {
+      "appid": 3298520,
+      "name": "Idle Iktah",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-23T17:56:42.080651"
+    },
+    "3299010": {
+      "appid": 3299010,
+      "name": "External",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-23T17:56:44.986115"
+    },
+    "3299050": {
+      "appid": 3299050,
+      "name": "No Such Place",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-23T17:56:45.138902"
     }
   }
 }
