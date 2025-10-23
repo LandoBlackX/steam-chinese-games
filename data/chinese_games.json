@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-23T04:06:09.694403"
+    "updated": "2025-10-23T04:30:19.255449"
   },
   "games": {
     "570": {
@@ -305170,6 +305170,86 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-23T04:06:09.530642"
+    },
+    "3280990": {
+      "appid": 3280990,
+      "name": "Stellar Rhythm",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-23T04:30:06.378586"
+    },
+    "3281250": {
+      "appid": 3281250,
+      "name": "Öga",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-23T04:30:07.928650"
+    },
+    "3281410": {
+      "appid": 3281410,
+      "name": "Ells Tales: Chairbound",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-10-23T04:30:08.993086"
+    },
+    "3281650": {
+      "appid": 3281650,
+      "name": "Louis",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-23T04:30:10.244017"
+    },
+    "3282290": {
+      "appid": 3282290,
+      "name": "Flashcard Hero",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-23T04:30:12.705489"
+    },
+    "3282390": {
+      "appid": 3282390,
+      "name": "完蛋！我被美女包围了！2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-23T04:30:13.042127"
+    },
+    "3282420": {
+      "appid": 3282420,
+      "name": "Zoominoes",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-23T04:30:13.200810"
+    },
+    "3282690": {
+      "appid": 3282690,
+      "name": "RoundZ",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-23T04:30:14.648706"
+    },
+    "3283170": {
+      "appid": 3283170,
+      "name": "Road879: Five Hours",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-23T04:30:17.293411"
+    },
+    "3283240": {
+      "appid": 3283240,
+      "name": "THE LIFT: Supernatural Handyman Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-23T04:30:17.837063"
     }
   }
 }

@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-23T04:06:09.694403"
+    "updated": "2025-10-23T04:30:19.255449"
   },
   "games": {
     "570": {
@@ -88682,6 +88682,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-10-22T07:41:58.077193"
+    },
+    "3281410": {
+      "appid": 3281410,
+      "name": "Ells Tales: Chairbound",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-10-23T04:30:08.993086"
     }
   }
 }
