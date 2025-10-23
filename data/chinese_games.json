@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-23T05:57:56.550326"
+    "updated": "2025-10-23T07:21:05.853292"
   },
   "games": {
     "570": {
@@ -305306,6 +305306,62 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-23T05:57:54.692375"
+    },
+    "2358360": {
+      "appid": 2358360,
+      "name": "Ricave",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-23T07:09:12.676715"
+    },
+    "3286930": {
+      "appid": 3286930,
+      "name": "《Heretic + Hexen》",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-23T07:20:58.598401"
+    },
+    "3287330": {
+      "appid": 3287330,
+      "name": "Kitsune's Paths Tower Defense",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-23T07:21:00.751196"
+    },
+    "3287360": {
+      "appid": 3287360,
+      "name": "计划II：寂静谷",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-23T07:21:00.904929"
+    },
+    "3287600": {
+      "appid": 3287600,
+      "name": "D.C. Re:tune",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-23T07:21:02.449182"
+    },
+    "3287950": {
+      "appid": 3287950,
+      "name": "Carnaval Marbles",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-23T07:21:04.197445"
+    },
+    "3288050": {
+      "appid": 3288050,
+      "name": "SOG: Vietnam",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-23T07:21:04.992975"
     }
   }
 }
