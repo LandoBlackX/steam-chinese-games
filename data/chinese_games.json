@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-23T21:19:22.267086"
+    "updated": "2025-10-23T22:15:37.551363"
   },
   "games": {
     "570": {
@@ -305682,6 +305682,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-23T21:10:33.344987"
+    },
+    "2429640": {
+      "appid": 2429640,
+      "name": "THRONE AND LIBERTY",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-23T22:10:28.576971"
     }
   }
 }
