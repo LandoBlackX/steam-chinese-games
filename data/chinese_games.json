@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-23T04:59:35.307245"
+    "updated": "2025-10-23T05:20:53.824951"
   },
   "games": {
     "570": {
@@ -305274,6 +305274,30 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-23T04:59:33.981170"
+    },
+    "3284900": {
+      "appid": 3284900,
+      "name": "Vesnith Tapes",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-23T05:20:49.039524"
+    },
+    "3285260": {
+      "appid": 3285260,
+      "name": "Cosy Company Puzzle",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-23T05:20:50.600903"
+    },
+    "3285880": {
+      "appid": 3285880,
+      "name": "MONOMOON",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-23T05:20:53.656222"
     }
   }
 }
