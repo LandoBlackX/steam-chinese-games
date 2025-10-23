@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-23T15:01:44.728021"
+    "updated": "2025-10-23T15:57:10.671657"
   },
   "games": {
     "570": {
@@ -305570,6 +305570,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-23T15:01:42.059924"
+    },
+    "3298080": {
+      "appid": 3298080,
+      "name": "Neon Spellstorm",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-23T15:57:08.909072"
     }
   }
 }
