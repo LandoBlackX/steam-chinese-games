@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-23T13:24:14.142436"
+    "updated": "2025-10-23T14:17:34.750546"
   },
   "games": {
     "570": {
@@ -305530,6 +305530,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-23T13:24:13.829815"
+    },
+    "2387140": {
+      "appid": 2387140,
+      "name": "酱妹驾到",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-23T14:09:28.332850"
+    },
+    "2388030": {
+      "appid": 2388030,
+      "name": "LogiGolf",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-23T14:09:32.193498"
     }
   }
 }
