@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-23T10:20:43.696727"
+    "updated": "2025-10-23T10:56:47.120344"
   },
   "games": {
     "570": {
@@ -305458,6 +305458,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-23T10:20:43.694828"
+    },
+    "2375260": {
+      "appid": 2375260,
+      "name": "Tattoo Tycoon",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-23T10:49:03.993695"
     }
   }
 }
