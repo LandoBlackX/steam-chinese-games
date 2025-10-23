@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-23T09:04:31.565692"
+    "updated": "2025-10-23T09:29:41.153142"
   },
   "games": {
     "570": {
@@ -305394,6 +305394,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-23T09:04:29.757495"
+    },
+    "3290710": {
+      "appid": 3290710,
+      "name": "摇鼠灵™",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-10-23T09:29:39.221513"
+    },
+    "3291010": {
+      "appid": 3291010,
+      "name": "《汪汪队立大功™ Rescue Wheels™：锦标赛》",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-23T09:29:39.711748"
     }
   }
 }
