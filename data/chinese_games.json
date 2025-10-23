@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-23T03:34:15.803314"
+    "updated": "2025-10-23T04:06:09.694403"
   },
   "games": {
     "570": {
@@ -305138,6 +305138,38 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-23T03:34:14.017219"
+    },
+    "3278560": {
+      "appid": 3278560,
+      "name": "姬井水坝",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-23T04:05:50.469503"
+    },
+    "3279780": {
+      "appid": 3279780,
+      "name": "地平线行者(Horizon Walker)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-23T04:05:57.247432"
+    },
+    "3279830": {
+      "appid": 3279830,
+      "name": "导演，请多多指教",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-23T04:05:57.599815"
+    },
+    "3280150": {
+      "appid": 3280150,
+      "name": "Lone Chef",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-23T04:06:09.530642"
     }
   }
 }
