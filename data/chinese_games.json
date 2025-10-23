@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-23T20:57:24.586816"
+    "updated": "2025-10-23T21:19:22.267086"
   },
   "games": {
     "570": {
@@ -305666,6 +305666,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-23T20:57:24.584472"
+    },
+    "2422210": {
+      "appid": 2422210,
+      "name": "Bearnard",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-23T21:10:18.870893"
+    },
+    "2425150": {
+      "appid": 2425150,
+      "name": "King of Retail 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-23T21:10:33.344987"
     }
   }
 }
