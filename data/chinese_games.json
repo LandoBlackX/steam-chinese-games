@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-23T22:15:37.551363"
+    "updated": "2025-10-23T22:53:45.258206"
   },
   "games": {
     "570": {
@@ -305690,6 +305690,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-23T22:10:28.576971"
+    },
+    "2433850": {
+      "appid": 2433850,
+      "name": "Arcane Tower Survivors",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-23T22:45:38.391226"
     }
   }
 }
