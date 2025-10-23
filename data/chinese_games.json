@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-23T02:38:47.971573"
+    "updated": "2025-10-23T03:34:15.803314"
   },
   "games": {
     "570": {
@@ -305082,6 +305082,62 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-23T02:38:43.496705"
+    },
+    "2347080": {
+      "appid": 2347080,
+      "name": "霜港迷城",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-23T03:22:23.906085"
+    },
+    "2986590": {
+      "appid": 2986590,
+      "name": "HYPNOSYNC",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-23T03:30:15.543660"
+    },
+    "3276250": {
+      "appid": 3276250,
+      "name": "异梦初华录",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-23T03:34:09.902826"
+    },
+    "3276270": {
+      "appid": 3276270,
+      "name": "Fallen Fates",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-23T03:34:10.265615"
+    },
+    "3276280": {
+      "appid": 3276280,
+      "name": "詛咒铠甲2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-23T03:34:10.443037"
+    },
+    "3276560": {
+      "appid": 3276560,
+      "name": "Welcome to the Dungeon",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-23T03:34:11.758631"
+    },
+    "3276950": {
+      "appid": 3276950,
+      "name": "卡牌术士",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-23T03:34:14.017219"
     }
   }
 }
