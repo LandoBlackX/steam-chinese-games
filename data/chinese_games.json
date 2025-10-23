@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-23T04:30:19.255449"
+    "updated": "2025-10-23T04:59:35.307245"
   },
   "games": {
     "570": {
@@ -305250,6 +305250,30 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-23T04:30:17.837063"
+    },
+    "3283940": {
+      "appid": 3283940,
+      "name": "Dreamwalker",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-23T04:59:32.619821"
+    },
+    "3284200": {
+      "appid": 3284200,
+      "name": "Muri: Wildwoods",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-23T04:59:33.379518"
+    },
+    "3284290": {
+      "appid": 3284290,
+      "name": "月之魔印 Moonsigil Atlas",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-23T04:59:33.981170"
     }
   }
 }
