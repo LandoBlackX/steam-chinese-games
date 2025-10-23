@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-23T19:51:01.896265"
+    "updated": "2025-10-23T20:57:24.586816"
   },
   "games": {
     "570": {
@@ -305642,6 +305642,30 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-23T19:50:50.050815"
+    },
+    "2420580": {
+      "appid": 2420580,
+      "name": "ALYSSA",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-23T20:45:53.415726"
+    },
+    "3086670": {
+      "appid": 3086670,
+      "name": "SKINWALKER",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-23T20:54:13.066556"
+    },
+    "3301430": {
+      "appid": 3301430,
+      "name": "LUSTRA: Lachea's Tale",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-23T20:57:24.584472"
     }
   }
 }
