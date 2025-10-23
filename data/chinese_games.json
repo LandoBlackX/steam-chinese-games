@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-23T09:58:03.541956"
+    "updated": "2025-10-23T10:20:43.696727"
   },
   "games": {
     "570": {
@@ -305442,6 +305442,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-23T09:58:03.070279"
+    },
+    "3292920": {
+      "appid": 3292920,
+      "name": "Lucky Hand: Roguelike Deck Builder",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-23T10:20:41.595697"
+    },
+    "3293260": {
+      "appid": 3293260,
+      "name": "Waterpark Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-23T10:20:43.694828"
     }
   }
 }
