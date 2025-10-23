@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-22T22:46:16.216260"
+    "updated": "2025-10-23T02:38:47.971573"
   },
   "games": {
     "570": {
@@ -305066,6 +305066,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-22T22:38:51.536848"
+    },
+    "3274580": {
+      "appid": 3274580,
+      "name": "纪元117：罗马和平",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-23T02:38:42.410540"
+    },
+    "3274940": {
+      "appid": 3274940,
+      "name": "骗子骰子 (Piànzi Shǎizi)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-23T02:38:43.496705"
     }
   }
 }
