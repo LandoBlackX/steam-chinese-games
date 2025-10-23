@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-23T14:17:34.750546"
+    "updated": "2025-10-23T15:01:44.728021"
   },
   "games": {
     "570": {
@@ -305546,6 +305546,30 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-23T14:09:32.193498"
+    },
+    "3296330": {
+      "appid": 3296330,
+      "name": "时空策：湖",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-23T15:01:37.741068"
+    },
+    "3296830": {
+      "appid": 3296830,
+      "name": "真探3",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-23T15:01:40.664066"
+    },
+    "3296990": {
+      "appid": 3296990,
+      "name": "Fearwoods",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-23T15:01:42.059924"
     }
   }
 }
