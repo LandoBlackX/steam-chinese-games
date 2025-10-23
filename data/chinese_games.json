@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-23T05:20:53.824951"
+    "updated": "2025-10-23T05:57:56.550326"
   },
   "games": {
     "570": {
@@ -305298,6 +305298,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-23T05:20:53.656222"
+    },
+    "3286570": {
+      "appid": 3286570,
+      "name": "Runback",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-23T05:57:54.692375"
     }
   }
 }
