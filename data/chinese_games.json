@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-24T12:31:11.686750"
+    "updated": "2025-10-24T13:25:05.889821"
   },
   "games": {
     "570": {
@@ -306082,6 +306082,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-24T12:26:03.351867"
+    },
+    "3310020": {
+      "appid": 3310020,
+      "name": "Top Burger Shop Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-24T13:25:03.774414"
+    },
+    "3310030": {
+      "appid": 3310030,
+      "name": "Realm of Fame",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-24T13:25:03.932266"
     }
   }
 }
