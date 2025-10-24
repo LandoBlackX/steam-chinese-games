@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-24T11:23:16.396619"
+    "updated": "2025-10-24T11:51:38.476704"
   },
   "games": {
     "570": {
@@ -306058,6 +306058,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-24T11:23:15.603924"
+    },
+    "2482180": {
+      "appid": 2482180,
+      "name": "As I Began to Dream",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-24T11:41:39.658575"
+    },
+    "2484170": {
+      "appid": 2484170,
+      "name": "Carnal Contract",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-24T11:41:48.023533"
     }
   }
 }
