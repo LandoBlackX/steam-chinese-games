@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-24T22:22:56.005994"
+    "updated": "2025-10-24T22:56:17.450834"
   },
   "games": {
     "570": {
@@ -306266,6 +306266,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-24T22:22:54.125449"
+    },
+    "2538170": {
+      "appid": 2538170,
+      "name": "The Clubies",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-24T22:46:52.814202"
     }
   }
 }
