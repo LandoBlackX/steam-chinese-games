@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-24T07:22:26.265179"
+    "updated": "2025-10-24T08:26:34.901279"
   },
   "games": {
     "570": {
@@ -305930,6 +305930,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-24T07:22:25.822913"
+    },
+    "2462520": {
+      "appid": 2462520,
+      "name": "I'm on Observation Duty 7",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-24T08:21:11.709690"
+    },
+    "2466900": {
+      "appid": 2466900,
+      "name": "The Posthumous Investigation",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-24T08:21:30.009622"
     }
   }
 }
