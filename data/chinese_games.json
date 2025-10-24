@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-24T22:56:17.450834"
+    "updated": "2025-10-24T23:22:13.101654"
   },
   "games": {
     "570": {
@@ -306274,6 +306274,38 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-24T22:46:52.814202"
+    },
+    "3314700": {
+      "appid": 3314700,
+      "name": "KINTSUGI - A Journey Through The Broken Pieces",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-24T23:22:07.766488"
+    },
+    "3314790": {
+      "appid": 3314790,
+      "name": "四叶草深渊 CLOVERPIT",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-24T23:22:08.512563"
+    },
+    "3314970": {
+      "appid": 3314970,
+      "name": "A Dark Forest",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-24T23:22:08.737380"
+    },
+    "3315800": {
+      "appid": 3315800,
+      "name": "蜜糖陷阱：失忆症",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-24T23:22:12.364443"
     }
   }
 }
