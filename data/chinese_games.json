@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-24T18:31:32.059073"
+    "updated": "2025-10-24T19:20:03.796345"
   },
   "games": {
     "570": {
@@ -306178,6 +306178,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-24T18:22:16.626408"
+    },
+    "2518930": {
+      "appid": 2518930,
+      "name": "Your World - MMO Playtest",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-24T19:10:55.691101"
     }
   }
 }
