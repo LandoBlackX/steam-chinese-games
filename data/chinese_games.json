@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-24T00:51:39.027714"
+    "updated": "2025-10-24T05:00:16.081762"
   },
   "games": {
     "570": {
@@ -305746,6 +305746,86 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-24T00:46:22.485208"
+    },
+    "3301490": {
+      "appid": 3301490,
+      "name": "RealmWalker",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-24T04:59:50.403842"
+    },
+    "3301510": {
+      "appid": 3301510,
+      "name": "Tomo: Endless Blue",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-24T04:59:50.716759"
+    },
+    "3301630": {
+      "appid": 3301630,
+      "name": "Sugar Rush",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-24T04:59:51.409321"
+    },
+    "3301730": {
+      "appid": 3301730,
+      "name": "Art Of Evil",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-24T04:59:52.028048"
+    },
+    "3301740": {
+      "appid": 3301740,
+      "name": "TCG Master Trader",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-24T04:59:52.165902"
+    },
+    "3301890": {
+      "appid": 3301890,
+      "name": "Emberfall",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-24T05:00:03.276261"
+    },
+    "3301910": {
+      "appid": 3301910,
+      "name": "Dream Force Warrior RPG",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-24T05:00:03.578328"
+    },
+    "3301930": {
+      "appid": 3301930,
+      "name": "The Panopticon",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-24T05:00:03.920378"
+    },
+    "3302080": {
+      "appid": 3302080,
+      "name": "Effulgence RPG",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-24T05:00:14.899889"
+    },
+    "3302160": {
+      "appid": 3302160,
+      "name": "Octohill Ski Tycoon",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-24T05:00:15.641926"
     }
   }
 }

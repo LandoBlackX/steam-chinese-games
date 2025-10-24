@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-24T00:51:39.027714"
+    "updated": "2025-10-24T05:00:16.081762"
   },
   "games": {
     "570": {
@@ -88722,6 +88722,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-10-23T23:39:32.633266"
+    },
+    "3301820": {
+      "appid": 3301820,
+      "name": "Class of Heroes 3 Remaster",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-10-24T05:00:02.742715"
     }
   }
 }
