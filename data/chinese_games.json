@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-24T09:58:22.847289"
+    "updated": "2025-10-24T11:23:16.396619"
   },
   "games": {
     "570": {
@@ -306026,6 +306026,38 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-24T09:58:22.237808"
+    },
+    "3308870": {
+      "appid": 3308870,
+      "name": "折言",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-24T11:23:14.659628"
+    },
+    "3308920": {
+      "appid": 3308920,
+      "name": "Depths of Endor: Dungeon Crawler",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-24T11:23:14.851850"
+    },
+    "3308960": {
+      "appid": 3308960,
+      "name": "罪域征途",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-24T11:23:15.306493"
+    },
+    "3309130": {
+      "appid": 3309130,
+      "name": "Monstrix TCG Card Shop",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-24T11:23:15.603924"
     }
   }
 }
