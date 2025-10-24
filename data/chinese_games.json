@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-24T05:00:16.081762"
+    "updated": "2025-10-24T05:22:11.090182"
   },
   "games": {
     "570": {
@@ -305826,6 +305826,46 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-24T05:00:15.641926"
+    },
+    "3303010": {
+      "appid": 3303010,
+      "name": "Katana Dragon",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-24T05:22:00.820672"
+    },
+    "3303130": {
+      "appid": 3303130,
+      "name": "Artemis Pearl ~Pirate Princess Luvina and the Mystical Treasure~",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-24T05:22:01.179384"
+    },
+    "3303180": {
+      "appid": 3303180,
+      "name": "Sweet Slaughter",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-24T05:22:01.521406"
+    },
+    "3303740": {
+      "appid": 3303740,
+      "name": "Shyondemic",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-24T05:22:05.476094"
+    },
+    "3304340": {
+      "appid": 3304340,
+      "name": "ELARIENNE",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-24T05:22:09.872687"
     }
   }
 }
