@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-24T20:56:58.919975"
+    "updated": "2025-10-24T21:22:38.173073"
   },
   "games": {
     "570": {
@@ -306218,6 +306218,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-24T20:47:31.485322"
+    },
+    "2531570": {
+      "appid": 2531570,
+      "name": "SOUNDGRASS",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-24T21:10:43.441892"
+    },
+    "2806050": {
+      "appid": 2806050,
+      "name": "Halo: Campaign Evolved",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-24T21:14:28.129547"
     }
   }
 }
