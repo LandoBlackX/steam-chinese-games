@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-24T13:25:05.889821"
+    "updated": "2025-10-24T14:19:29.785322"
   },
   "games": {
     "570": {
@@ -306098,6 +306098,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-24T13:25:03.932266"
+    },
+    "2492570": {
+      "appid": 2492570,
+      "name": "Inspector Schmidt - The Ebbing",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-24T14:10:33.238440"
     }
   }
 }
