@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-24T19:20:03.796345"
+    "updated": "2025-10-24T19:52:34.229837"
   },
   "games": {
     "570": {
@@ -306186,6 +306186,30 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-24T19:10:55.691101"
+    },
+    "3263260": {
+      "appid": 3263260,
+      "name": "Sur: Wheelchair Horror",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-24T19:50:21.457162"
+    },
+    "3312400": {
+      "appid": 3312400,
+      "name": "Lust or Heaven",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-24T19:52:31.525067"
+    },
+    "3312590": {
+      "appid": 3312590,
+      "name": "Helrift",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-24T19:52:32.787980"
     }
   }
 }
