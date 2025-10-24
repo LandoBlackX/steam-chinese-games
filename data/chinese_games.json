@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-24T08:26:34.901279"
+    "updated": "2025-10-24T09:04:14.800577"
   },
   "games": {
     "570": {
@@ -305946,6 +305946,38 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-24T08:21:30.009622"
+    },
+    "3305120": {
+      "appid": 3305120,
+      "name": "Dead Exhale",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-24T09:04:11.815594"
+    },
+    "3305690": {
+      "appid": 3305690,
+      "name": "Cattopia",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-24T09:04:13.864745"
+    },
+    "3305840": {
+      "appid": 3305840,
+      "name": "精灵之心的守护者",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-24T09:04:14.572180"
+    },
+    "3305870": {
+      "appid": 3305870,
+      "name": "Mindwarp: AI Detective",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-24T09:04:14.680732"
     }
   }
 }
