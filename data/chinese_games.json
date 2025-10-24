@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-24T15:59:29.625500"
+    "updated": "2025-10-24T16:28:01.989097"
   },
   "games": {
     "570": {
@@ -306138,6 +306138,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-24T15:59:27.795350"
+    },
+    "2507000": {
+      "appid": 2507000,
+      "name": "Shadows of Zana",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-24T16:19:17.555524"
+    },
+    "2794590": {
+      "appid": 2794590,
+      "name": "Scam Line",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-24T16:22:59.441502"
     }
   }
 }
