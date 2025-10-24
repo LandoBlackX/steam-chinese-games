@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-24T21:22:38.173073"
+    "updated": "2025-10-24T21:52:53.889141"
   },
   "games": {
     "570": {
@@ -306234,6 +306234,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-24T21:14:28.129547"
+    },
+    "2532470": {
+      "appid": 2532470,
+      "name": "Bellfortis",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-24T21:40:44.146451"
     }
   }
 }
