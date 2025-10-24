@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-24T06:30:19.820762"
+    "updated": "2025-10-24T07:22:26.265179"
   },
   "games": {
     "570": {
@@ -305882,6 +305882,54 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-24T06:21:52.336630"
+    },
+    "2457540": {
+      "appid": 2457540,
+      "name": "カードファイト!! ヴァンガード ディアデイズ2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-24T07:10:03.559940"
+    },
+    "3036630": {
+      "appid": 3036630,
+      "name": "Space Lattice",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-24T07:17:06.174041"
+    },
+    "3304570": {
+      "appid": 3304570,
+      "name": "Schoolteacher Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-24T07:22:11.790518"
+    },
+    "3304700": {
+      "appid": 3304700,
+      "name": "AI桌面伴侣 - 艾露芙 ErufuAI",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-24T07:22:13.269145"
+    },
+    "3304930": {
+      "appid": 3304930,
+      "name": "Retro Dungeon Slayer",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-24T07:22:25.164576"
+    },
+    "3305010": {
+      "appid": 3305010,
+      "name": "Survivors Under Siege",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-24T07:22:25.822913"
     }
   }
 }
