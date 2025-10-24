@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-24T11:51:38.476704"
+    "updated": "2025-10-24T12:31:11.686750"
   },
   "games": {
     "570": {
@@ -306074,6 +306074,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-24T11:41:48.023533"
+    },
+    "2488500": {
+      "appid": 2488500,
+      "name": "Katuba's Poacher",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-24T12:26:03.351867"
     }
   }
 }
