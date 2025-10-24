@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-24T09:32:08.736874"
+    "updated": "2025-10-24T09:58:22.847289"
   },
   "games": {
     "570": {
@@ -305986,6 +305986,46 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-24T09:32:07.298919"
+    },
+    "3306970": {
+      "appid": 3306970,
+      "name": "Hina Cast ! : After Dark",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-24T09:58:17.649318"
+    },
+    "3306990": {
+      "appid": 3306990,
+      "name": "街角商店：夜班",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-24T09:58:17.811565"
+    },
+    "3307030": {
+      "appid": 3307030,
+      "name": "扑克大乱斗",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-24T09:58:18.443974"
+    },
+    "3307770": {
+      "appid": 3307770,
+      "name": "NCORE",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-24T09:58:22.065627"
+    },
+    "3307830": {
+      "appid": 3307830,
+      "name": "寿司餐厅",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-24T09:58:22.237808"
     }
   }
 }
