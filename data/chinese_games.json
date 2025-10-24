@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-24T21:52:53.889141"
+    "updated": "2025-10-24T22:22:56.005994"
   },
   "games": {
     "570": {
@@ -306242,6 +306242,30 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-24T21:40:44.146451"
+    },
+    "3314030": {
+      "appid": 3314030,
+      "name": "人のいない世界に",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-24T22:22:52.075182"
+    },
+    "3314140": {
+      "appid": 3314140,
+      "name": "Fevercide",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-24T22:22:52.694472"
+    },
+    "3314340": {
+      "appid": 3314340,
+      "name": "Burgie's cozy kitchen",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-24T22:22:54.125449"
     }
   }
 }
