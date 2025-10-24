@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-23T23:44:38.412277"
+    "updated": "2025-10-24T00:51:39.027714"
   },
   "games": {
     "570": {
@@ -305730,6 +305730,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-23T23:39:26.800521"
+    },
+    "2439770": {
+      "appid": 2439770,
+      "name": "PROJECT MIX",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-24T00:46:16.487947"
+    },
+    "2440650": {
+      "appid": 2440650,
+      "name": "Cosmic Carnage",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-24T00:46:22.485208"
     }
   }
 }
