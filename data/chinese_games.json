@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-24T05:22:11.090182"
+    "updated": "2025-10-24T06:30:19.820762"
   },
   "games": {
     "570": {
@@ -305866,6 +305866,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-24T05:22:09.872687"
+    },
+    "2454980": {
+      "appid": 2454980,
+      "name": "Drakantos",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-24T06:21:48.405084"
+    },
+    "2455780": {
+      "appid": 2455780,
+      "name": "Eventide Matter",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-24T06:21:52.336630"
     }
   }
 }
