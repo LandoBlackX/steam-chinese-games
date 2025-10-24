@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-24T14:19:29.785322"
+    "updated": "2025-10-24T14:59:59.759141"
   },
   "games": {
     "570": {
@@ -88730,6 +88730,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-10-24T05:00:02.742715"
+    },
+    "2497670": {
+      "appid": 2497670,
+      "name": "Genso Manège",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-10-24T14:50:12.139731"
     }
   }
 }
