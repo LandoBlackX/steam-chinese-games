@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-24T16:28:01.989097"
+    "updated": "2025-10-24T17:20:06.309093"
   },
   "games": {
     "570": {
@@ -306154,6 +306154,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-24T16:22:59.441502"
+    },
+    "2507820": {
+      "appid": 2507820,
+      "name": "角斗士血域 - Bloodgrounds",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-24T17:10:42.165857"
+    },
+    "2509720": {
+      "appid": 2509720,
+      "name": "MannaRites Gold",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-24T17:10:52.241804"
     }
   }
 }
