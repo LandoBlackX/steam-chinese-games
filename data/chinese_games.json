@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-24T19:52:34.229837"
+    "updated": "2025-10-24T20:56:58.919975"
   },
   "games": {
     "570": {
@@ -306210,6 +306210,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-24T19:52:32.787980"
+    },
+    "2527940": {
+      "appid": 2527940,
+      "name": "Little Cheese Works",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-24T20:47:31.485322"
     }
   }
 }
