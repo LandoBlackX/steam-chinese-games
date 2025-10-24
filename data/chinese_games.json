@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-24T14:59:59.759141"
+    "updated": "2025-10-24T15:59:29.625500"
   },
   "games": {
     "570": {
@@ -306122,6 +306122,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-24T14:50:12.858532"
+    },
+    "3310900": {
+      "appid": 3310900,
+      "name": "Dungeon Tracer",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-24T15:59:27.312953"
+    },
+    "3310950": {
+      "appid": 3310950,
+      "name": "噩梦边境 - Nightmare Frontier",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-24T15:59:27.795350"
     }
   }
 }
