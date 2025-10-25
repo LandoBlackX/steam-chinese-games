@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-25T20:23:06.606029"
+    "updated": "2025-10-25T20:55:41.005861"
   },
   "games": {
     "570": {
@@ -306954,6 +306954,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-25T20:23:02.786647"
+    },
+    "2611240": {
+      "appid": 2611240,
+      "name": "Normal Fishing / 钓了个诡",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-25T20:45:44.489160"
     }
   }
 }
