@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-25T21:23:02.373589"
+    "updated": "2025-10-25T22:23:22.036924"
   },
   "games": {
     "570": {
@@ -306978,6 +306978,46 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-25T21:23:01.749161"
+    },
+    "3345570": {
+      "appid": 3345570,
+      "name": "MAD TOYS",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-25T22:23:19.005494"
+    },
+    "3345680": {
+      "appid": 3345680,
+      "name": "Re: Spin. Die. Repeat.",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-25T22:23:19.629660"
+    },
+    "3345810": {
+      "appid": 3345810,
+      "name": "E9uations",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-25T22:23:20.239529"
+    },
+    "3345910": {
+      "appid": 3345910,
+      "name": "梦之方糖号",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-25T22:23:21.030892"
+    },
+    "3345950": {
+      "appid": 3345950,
+      "name": "酒后出牌",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-25T22:23:21.189296"
     }
   }
 }
