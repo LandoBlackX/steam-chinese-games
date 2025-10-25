@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-25T09:50:56.148915"
+    "updated": "2025-10-25T10:23:20.962651"
   },
   "games": {
     "570": {
@@ -306626,6 +306626,30 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-25T09:41:03.891636"
+    },
+    "3332140": {
+      "appid": 3332140,
+      "name": "Smells Like Fear Blossoms",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-25T10:23:14.858975"
+    },
+    "3332830": {
+      "appid": 3332830,
+      "name": "男神模拟器",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-25T10:23:18.701645"
+    },
+    "3333000": {
+      "appid": 3333000,
+      "name": "BOTO LABO",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-25T10:23:19.863741"
     }
   }
 }
