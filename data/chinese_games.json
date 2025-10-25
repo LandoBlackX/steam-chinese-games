@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-25T13:56:22.592057"
+    "updated": "2025-10-25T14:22:44.426386"
   },
   "games": {
     "570": {
@@ -306770,6 +306770,102 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-25T13:45:52.423560"
+    },
+    "2923030": {
+      "appid": 2923030,
+      "name": "1000 ANIMALS ON AN ISLAND",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-25T14:15:38.208981"
+    },
+    "3337140": {
+      "appid": 3337140,
+      "name": "劫后公司",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-10-25T14:22:27.144120"
+    },
+    "3337200": {
+      "appid": 3337200,
+      "name": "Bodycam:肾上腺素",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-25T14:22:27.796583"
+    },
+    "3337320": {
+      "appid": 3337320,
+      "name": "DEMONOLITION",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-25T14:22:28.865297"
+    },
+    "3337350": {
+      "appid": 3337350,
+      "name": "FYR: The Lost Island",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-25T14:22:30.422033"
+    },
+    "3337390": {
+      "appid": 3337390,
+      "name": "Black Legend: Wukong",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-25T14:22:33.238737"
+    },
+    "3337680": {
+      "appid": 3337680,
+      "name": "Brainrot Animals Fighting",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-25T14:22:34.818490"
+    },
+    "3337710": {
+      "appid": 3337710,
+      "name": "Ghost Pub",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-25T14:22:35.438197"
+    },
+    "3337980": {
+      "appid": 3337980,
+      "name": "伊瓦亚米 - 迷雾之摇篮",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-25T14:22:38.383769"
+    },
+    "3338820": {
+      "appid": 3338820,
+      "name": "无限融合养鱼中心",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-25T14:22:42.844311"
+    },
+    "3338860": {
+      "appid": 3338860,
+      "name": "非太阳",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-25T14:22:43.145921"
+    },
+    "3339000": {
+      "appid": 3339000,
+      "name": "Chesstris",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-25T14:22:43.651638"
     }
   }
 }

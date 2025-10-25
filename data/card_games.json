@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-25T13:56:22.592057"
+    "updated": "2025-10-25T14:22:44.426386"
   },
   "games": {
     "570": {
@@ -88754,6 +88754,14 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-10-25T10:57:45.909407"
+    },
+    "3337140": {
+      "appid": 3337140,
+      "name": "劫后公司",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-10-25T14:22:27.144120"
     }
   }
 }
