@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-25T15:22:41.778709"
+    "updated": "2025-10-25T17:54:10.292653"
   },
   "games": {
     "570": {
@@ -306882,6 +306882,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-25T15:22:37.866481"
+    },
+    "3340780": {
+      "appid": 3340780,
+      "name": "功夫牌",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-25T17:54:05.178108"
+    },
+    "3340830": {
+      "appid": 3340830,
+      "name": "Idle Cave Miner 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-25T17:54:05.707327"
     }
   }
 }
