@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-25T20:55:41.005861"
+    "updated": "2025-10-25T21:23:02.373589"
   },
   "games": {
     "570": {
@@ -306962,6 +306962,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-25T20:45:44.489160"
+    },
+    "3344280": {
+      "appid": 3344280,
+      "name": "Puzzle Princess",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-25T21:22:58.972058"
+    },
+    "3344770": {
+      "appid": 3344770,
+      "name": "Axe & Bow Land",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-25T21:23:01.749161"
     }
   }
 }
