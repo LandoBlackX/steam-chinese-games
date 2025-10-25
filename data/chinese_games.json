@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-25T11:22:36.197299"
+    "updated": "2025-10-25T11:52:27.358566"
   },
   "games": {
     "570": {
@@ -306706,6 +306706,54 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-25T11:22:34.814898"
+    },
+    "2578140": {
+      "appid": 2578140,
+      "name": "以母之名",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-25T11:40:48.374314"
+    },
+    "2578430": {
+      "appid": 2578430,
+      "name": "Frisia - Tales & Tides",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-25T11:40:50.114550"
+    },
+    "2578670": {
+      "appid": 2578670,
+      "name": "远星征途",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-25T11:40:51.263169"
+    },
+    "3335930": {
+      "appid": 3335930,
+      "name": "Troll Chess Sekai",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-25T11:52:22.781071"
+    },
+    "3336070": {
+      "appid": 3336070,
+      "name": "CYBRLICH and the Death Cult of Labor",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-25T11:52:23.770366"
+    },
+    "3336640": {
+      "appid": 3336640,
+      "name": "马力的邦！ MACHO DE PON! for Steam",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-25T11:52:27.052313"
     }
   }
 }
