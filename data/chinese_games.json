@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-25T17:54:10.292653"
+    "updated": "2025-10-25T18:30:37.939990"
   },
   "games": {
     "570": {
@@ -306898,6 +306898,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-25T17:54:05.707327"
+    },
+    "2603930": {
+      "appid": 2603930,
+      "name": "Adventurer's Gambit: Dungeons of Fortune",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-25T18:20:47.608604"
     }
   }
 }
