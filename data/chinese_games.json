@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-24T23:22:13.101654"
+    "updated": "2025-10-25T02:38:37.511694"
   },
   "games": {
     "570": {
@@ -306306,6 +306306,54 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-24T23:22:12.364443"
+    },
+    "1940510": {
+      "appid": 1940510,
+      "name": "Born64",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-25T02:22:05.471046"
+    },
+    "3316500": {
+      "appid": 3316500,
+      "name": "DMZ: Nuclear Survival",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-25T02:38:25.760208"
+    },
+    "3316900": {
+      "appid": 3316900,
+      "name": "归风记",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-25T02:38:28.389516"
+    },
+    "3317820": {
+      "appid": 3317820,
+      "name": "Planet Finder",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-25T02:38:35.426659"
+    },
+    "3317850": {
+      "appid": 3317850,
+      "name": "Grind and Dine",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-25T02:38:35.628755"
+    },
+    "3318080": {
+      "appid": 3318080,
+      "name": "Grorb: Grow the Orb",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-25T02:38:37.139920"
     }
   }
 }
