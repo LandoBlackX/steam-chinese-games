@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-25T02:38:37.511694"
+    "updated": "2025-10-25T03:35:38.816764"
   },
   "games": {
     "570": {
@@ -306354,6 +306354,30 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-25T02:38:37.139920"
+    },
+    "3318210": {
+      "appid": 3318210,
+      "name": "破灭的御宅族",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-25T03:35:30.810958"
+    },
+    "3318930": {
+      "appid": 3318930,
+      "name": "VtuberStory",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-25T03:35:35.913323"
+    },
+    "3319130": {
+      "appid": 3319130,
+      "name": "Smokkehed",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-25T03:35:37.800971"
     }
   }
 }
