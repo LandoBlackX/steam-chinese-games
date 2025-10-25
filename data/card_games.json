@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-25T10:23:20.962651"
+    "updated": "2025-10-25T10:57:48.069720"
   },
   "games": {
     "570": {
@@ -88746,6 +88746,14 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-10-25T09:00:49.453798"
+    },
+    "3333700": {
+      "appid": 3333700,
+      "name": "国王的新牌",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-10-25T10:57:45.909407"
     }
   }
 }
