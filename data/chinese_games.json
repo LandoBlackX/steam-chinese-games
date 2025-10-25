@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-25T04:07:31.162333"
+    "updated": "2025-10-25T04:31:14.567812"
   },
   "games": {
     "570": {
@@ -306426,6 +306426,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-25T04:07:28.367481"
+    },
+    "3323460": {
+      "appid": 3323460,
+      "name": "Relictor",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-25T04:31:14.443114"
     }
   }
 }
