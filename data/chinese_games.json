@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-25T04:59:48.196297"
+    "updated": "2025-10-25T05:22:40.363903"
   },
   "games": {
     "570": {
@@ -306490,6 +306490,46 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-25T04:59:44.237218"
+    },
+    "2553360": {
+      "appid": 2553360,
+      "name": "Death's Web",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-25T05:10:57.312945"
+    },
+    "3325870": {
+      "appid": 3325870,
+      "name": "The Knight of The Kingdom",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-25T05:22:35.615097"
+    },
+    "3326280": {
+      "appid": 3326280,
+      "name": "Arctic Wolves",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-25T05:22:37.596380"
+    },
+    "3326360": {
+      "appid": 3326360,
+      "name": "NO MORE WORK FOR ITO",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-25T05:22:38.847901"
+    },
+    "3326670": {
+      "appid": 3326670,
+      "name": "弗洛伊德的噩梦",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-25T05:22:40.361686"
     }
   }
 }
