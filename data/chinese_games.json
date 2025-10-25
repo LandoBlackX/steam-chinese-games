@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-25T04:31:14.567812"
+    "updated": "2025-10-25T04:59:48.196297"
   },
   "games": {
     "570": {
@@ -306434,6 +306434,62 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-25T04:31:14.443114"
+    },
+    "3323830": {
+      "appid": 3323830,
+      "name": "Call from the darkness",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-25T04:59:35.949873"
+    },
+    "3323850": {
+      "appid": 3323850,
+      "name": "Blippo+",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-25T04:59:36.093377"
+    },
+    "3323890": {
+      "appid": 3323890,
+      "name": "Bearly Alive",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-25T04:59:36.552432"
+    },
+    "3324440": {
+      "appid": 3324440,
+      "name": "逆转命运之光",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-25T04:59:40.297981"
+    },
+    "3324540": {
+      "appid": 3324540,
+      "name": "Fury of Light",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-25T04:59:40.759230"
+    },
+    "3324650": {
+      "appid": 3324650,
+      "name": "Kats Trigger",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-25T04:59:42.169333"
+    },
+    "3325160": {
+      "appid": 3325160,
+      "name": "沙之秘契",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-25T04:59:44.237218"
     }
   }
 }
