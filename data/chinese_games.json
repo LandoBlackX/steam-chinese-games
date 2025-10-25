@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-25T03:35:38.816764"
+    "updated": "2025-10-25T04:07:31.162333"
   },
   "games": {
     "570": {
@@ -306378,6 +306378,54 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-25T03:35:37.800971"
+    },
+    "3319460": {
+      "appid": 3319460,
+      "name": "Comical Sara",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-25T04:07:18.011735"
+    },
+    "3319680": {
+      "appid": 3319680,
+      "name": "Delve Survivors",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-25T04:07:19.149390"
+    },
+    "3320760": {
+      "appid": 3320760,
+      "name": "Shinobi Match",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-25T04:07:24.026833"
+    },
+    "3320980": {
+      "appid": 3320980,
+      "name": "默特术士",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-25T04:07:26.003651"
+    },
+    "3321060": {
+      "appid": 3321060,
+      "name": "Bean There, Swung That",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-25T04:07:26.631430"
+    },
+    "3321300": {
+      "appid": 3321300,
+      "name": "Hide 'n Heist",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-25T04:07:28.367481"
     }
   }
 }
