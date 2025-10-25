@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-25T05:22:40.363903"
+    "updated": "2025-10-25T05:57:50.730437"
   },
   "games": {
     "570": {
@@ -306530,6 +306530,30 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-25T05:22:40.361686"
+    },
+    "3326890": {
+      "appid": 3326890,
+      "name": "LookPilot Head Tracking",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-25T05:57:45.883436"
+    },
+    "3327170": {
+      "appid": 3327170,
+      "name": "Minutescape",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-25T05:57:48.187100"
+    },
+    "3327240": {
+      "appid": 3327240,
+      "name": "Orbcraft Survivors",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-25T05:57:48.582521"
     }
   }
 }
