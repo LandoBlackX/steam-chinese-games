@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-25T14:22:44.426386"
+    "updated": "2025-10-25T15:22:41.778709"
   },
   "games": {
     "570": {
@@ -306866,6 +306866,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-25T14:22:43.651638"
+    },
+    "3339320": {
+      "appid": 3339320,
+      "name": "咒术牌",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-25T15:22:34.594948"
+    },
+    "3339830": {
+      "appid": 3339830,
+      "name": "Succubus Roulette",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-25T15:22:37.866481"
     }
   }
 }
