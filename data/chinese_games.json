@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-25T10:57:48.069720"
+    "updated": "2025-10-25T11:22:36.197299"
   },
   "games": {
     "570": {
@@ -306682,6 +306682,30 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-25T10:57:46.807743"
+    },
+    "3334570": {
+      "appid": 3334570,
+      "name": "孤胆之拳",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-25T11:22:33.324095"
+    },
+    "3334660": {
+      "appid": 3334660,
+      "name": "Winion Virus",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-25T11:22:34.222086"
+    },
+    "3334760": {
+      "appid": 3334760,
+      "name": "Awaysis",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-25T11:22:34.814898"
     }
   }
 }
