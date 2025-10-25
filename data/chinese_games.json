@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-25T18:30:37.939990"
+    "updated": "2025-10-25T19:22:54.731711"
   },
   "games": {
     "570": {
@@ -306906,6 +306906,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-25T18:20:47.608604"
+    },
+    "3341510": {
+      "appid": 3341510,
+      "name": "Neptunia Game Maker R:Evolution",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-10-25T19:22:49.163531"
     }
   }
 }
