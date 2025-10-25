@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-25T07:23:17.924553"
+    "updated": "2025-10-25T09:00:58.179135"
   },
   "games": {
     "570": {
@@ -88738,6 +88738,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-10-24T14:50:12.139731"
+    },
+    "3330100": {
+      "appid": 3330100,
+      "name": "圆滚滚！丑蛙池塘",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-10-25T09:00:49.453798"
     }
   }
 }

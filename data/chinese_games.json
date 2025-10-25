@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-25T07:23:17.924553"
+    "updated": "2025-10-25T09:00:58.179135"
   },
   "games": {
     "570": {
@@ -306570,6 +306570,46 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-25T07:23:16.556390"
+    },
+    "3328810": {
+      "appid": 3328810,
+      "name": "Portal Factory",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-25T09:00:39.188056"
+    },
+    "3330100": {
+      "appid": 3330100,
+      "name": "圆滚滚！丑蛙池塘",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-10-25T09:00:49.453798"
+    },
+    "3330250": {
+      "appid": 3330250,
+      "name": "Ithya: Magic Studies",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-25T09:00:51.476912"
+    },
+    "3330500": {
+      "appid": 3330500,
+      "name": "Smutstone",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-25T09:00:53.734739"
+    },
+    "3330920": {
+      "appid": 3330920,
+      "name": "Those NPC's love stories",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-25T09:00:56.637021"
     }
   }
 }
