@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-25T11:52:27.358566"
+    "updated": "2025-10-25T12:34:11.376607"
   },
   "games": {
     "570": {
@@ -306754,6 +306754,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-25T11:52:27.052313"
+    },
+    "2581410": {
+      "appid": 2581410,
+      "name": "Stygian: Outer Gods",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-25T12:23:59.280076"
     }
   }
 }
