@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-25T12:34:11.376607"
+    "updated": "2025-10-25T13:56:22.592057"
   },
   "games": {
     "570": {
@@ -306762,6 +306762,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-25T12:23:59.280076"
+    },
+    "2585430": {
+      "appid": 2585430,
+      "name": "Card Collector And Card Girls",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-25T13:45:52.423560"
     }
   }
 }
