@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-25T09:23:05.322375"
+    "updated": "2025-10-25T09:50:56.148915"
   },
   "games": {
     "570": {
@@ -306618,6 +306618,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-25T09:23:04.884596"
+    },
+    "2568460": {
+      "appid": 2568460,
+      "name": "Parcel Packing Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-25T09:41:03.891636"
     }
   }
 }
