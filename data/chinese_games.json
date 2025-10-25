@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-25T05:57:50.730437"
+    "updated": "2025-10-25T07:23:17.924553"
   },
   "games": {
     "570": {
@@ -306554,6 +306554,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-25T05:57:48.582521"
+    },
+    "3328210": {
+      "appid": 3328210,
+      "name": "Waxwing",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-25T07:23:14.571187"
+    },
+    "3328490": {
+      "appid": 3328490,
+      "name": "机场管制 25",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-25T07:23:16.556390"
     }
   }
 }
