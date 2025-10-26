@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-26T05:00:20.311115"
+    "updated": "2025-10-26T05:23:01.877037"
   },
   "games": {
     "570": {
@@ -307154,6 +307154,86 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-10-26T05:00:18.980919"
+    },
+    "3353100": {
+      "appid": 3353100,
+      "name": "Passant: A Chess Roguelike",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-26T05:22:49.459479"
+    },
+    "3353510": {
+      "appid": 3353510,
+      "name": "Imperium: Titans of Commerce",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-26T05:22:52.126517"
+    },
+    "3353860": {
+      "appid": 3353860,
+      "name": "Exo-Calibre",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-26T05:22:53.669461"
+    },
+    "3354750": {
+      "appid": 3354750,
+      "name": "极速滑板",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-26T05:22:56.312167"
+    },
+    "3355010": {
+      "appid": 3355010,
+      "name": "Squared Notebook Fight",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-26T05:22:58.253008"
+    },
+    "3355100": {
+      "appid": 3355100,
+      "name": "A Planet Full of Cats",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-26T05:22:58.935450"
+    },
+    "3355240": {
+      "appid": 3355240,
+      "name": "教孩子玩游戏",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-26T05:23:00.058540"
+    },
+    "3355610": {
+      "appid": 3355610,
+      "name": "PROMIZED LAND: Outer Town 2025",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-26T05:23:01.055699"
+    },
+    "3355680": {
+      "appid": 3355680,
+      "name": "Arcane Summoner",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-26T05:23:01.209318"
+    },
+    "3355740": {
+      "appid": 3355740,
+      "name": "Legacy of Ashes",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-26T05:23:01.874576"
     }
   }
 }
