@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-26T05:23:01.877037"
+    "updated": "2025-10-26T05:59:27.053028"
   },
   "games": {
     "570": {
@@ -307234,6 +307234,30 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-26T05:23:01.874576"
+    },
+    "2637990": {
+      "appid": 2637990,
+      "name": "鸭鸭侦探：萨拉米香肠之谜",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-26T05:47:29.616277"
+    },
+    "3356340": {
+      "appid": 3356340,
+      "name": "The Original Moorhuhn Hunt",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-26T05:59:24.644673"
+    },
+    "3356350": {
+      "appid": 3356350,
+      "name": "Moorhuhn 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-26T05:59:24.804949"
     }
   }
 }
