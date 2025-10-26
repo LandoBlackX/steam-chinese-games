@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-26T20:23:50.379356"
+    "updated": "2025-10-26T21:23:31.084772"
   },
   "games": {
     "570": {
@@ -307706,6 +307706,62 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-26T20:23:46.635854"
+    },
+    "3375630": {
+      "appid": 3375630,
+      "name": "Lightkeeper's Curse",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-26T21:23:24.864633"
+    },
+    "3375880": {
+      "appid": 3375880,
+      "name": "全面塔防：三国",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-26T21:23:26.564980"
+    },
+    "3375890": {
+      "appid": 3375890,
+      "name": "Ogre Chambers 2222",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-26T21:23:26.730401"
+    },
+    "3376160": {
+      "appid": 3376160,
+      "name": "おしかけねーちゃん Can I crash at your place?",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-26T21:23:28.199979"
+    },
+    "3376480": {
+      "appid": 3376480,
+      "name": "Delivery & Beyond",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-26T21:23:29.773170"
+    },
+    "3376500": {
+      "appid": 3376500,
+      "name": "小小厨师：闲意巧炊",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-26T21:23:30.097321"
+    },
+    "3376600": {
+      "appid": 3376600,
+      "name": "Stormlander",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-26T21:23:31.082045"
     }
   }
 }
