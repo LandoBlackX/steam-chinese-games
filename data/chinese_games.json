@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-26T13:58:49.163181"
+    "updated": "2025-10-26T14:23:12.639878"
   },
   "games": {
     "570": {
@@ -307466,6 +307466,38 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-26T13:58:48.869674"
+    },
+    "3365940": {
+      "appid": 3365940,
+      "name": "Well Keeper",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-26T14:23:09.660753"
+    },
+    "3366060": {
+      "appid": 3366060,
+      "name": "Dice Making Ending",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-26T14:23:10.360078"
+    },
+    "3366360": {
+      "appid": 3366360,
+      "name": "今夜宜上下楼",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-26T14:23:12.115335"
+    },
+    "3366370": {
+      "appid": 3366370,
+      "name": "UnderMire",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-26T14:23:12.270542"
     }
   }
 }
