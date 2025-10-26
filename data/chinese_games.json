@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-26T11:53:03.606407"
+    "updated": "2025-10-26T12:35:56.949314"
   },
   "games": {
     "570": {
@@ -307410,6 +307410,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-26T11:42:09.487816"
+    },
+    "3363810": {
+      "appid": 3363810,
+      "name": "Hidden Dogs: In the Dog House",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-26T12:35:56.761447"
     }
   }
 }
