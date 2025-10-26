@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-26T21:23:31.084772"
+    "updated": "2025-10-26T21:53:21.982643"
   },
   "games": {
     "570": {
@@ -307762,6 +307762,30 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-26T21:23:31.082045"
+    },
+    "2686020": {
+      "appid": 2686020,
+      "name": "Faith in Despair",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-26T21:42:35.667044"
+    },
+    "2686080": {
+      "appid": 2686080,
+      "name": "Sad Satan",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-26T21:42:36.016251"
+    },
+    "3376920": {
+      "appid": 3376920,
+      "name": "Fractured Balance",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-26T21:53:21.980112"
     }
   }
 }
