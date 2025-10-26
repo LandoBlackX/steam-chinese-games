@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-26T19:53:20.109300"
+    "updated": "2025-10-26T20:23:50.379356"
   },
   "games": {
     "570": {
@@ -307682,6 +307682,30 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-26T19:53:19.276469"
+    },
+    "3374460": {
+      "appid": 3374460,
+      "name": "Causal Loop",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-26T20:23:43.988571"
+    },
+    "3374600": {
+      "appid": 3374600,
+      "name": "Cryptage",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-26T20:23:45.325618"
+    },
+    "3374710": {
+      "appid": 3374710,
+      "name": "Peek A Doom",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-26T20:23:46.635854"
     }
   }
 }
