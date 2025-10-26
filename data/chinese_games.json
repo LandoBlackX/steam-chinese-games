@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-26T10:23:32.363505"
+    "updated": "2025-10-26T10:59:13.878821"
   },
   "games": {
     "570": {
@@ -307362,6 +307362,30 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-26T10:23:27.846094"
+    },
+    "2653790": {
+      "appid": 2653790,
+      "name": "8号出口",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-26T10:48:12.437503"
+    },
+    "2654120": {
+      "appid": 2654120,
+      "name": "Retro Abyss : Last Wish Of The Game",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-26T10:48:14.417779"
+    },
+    "3362390": {
+      "appid": 3362390,
+      "name": "烈焰狂奔",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-26T10:59:13.709303"
     }
   }
 }
