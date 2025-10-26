@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-26T21:53:21.982643"
+    "updated": "2025-10-26T22:23:31.661253"
   },
   "games": {
     "570": {
@@ -88778,6 +88778,14 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-10-26T05:00:18.980919"
+    },
+    "3376990": {
+      "appid": 3376990,
+      "name": "兜虫公园 (Kabuto Park)",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-10-26T22:23:24.301482"
     }
   }
 }

@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-26T21:53:21.982643"
+    "updated": "2025-10-26T22:23:31.661253"
   },
   "games": {
     "570": {
@@ -307786,6 +307786,54 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-26T21:53:21.980112"
+    },
+    "2688780": {
+      "appid": 2688780,
+      "name": "Odd Town",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-26T22:12:46.755274"
+    },
+    "3377770": {
+      "appid": 3377770,
+      "name": "Haunting Havens",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-26T22:23:29.352210"
+    },
+    "3377860": {
+      "appid": 3377860,
+      "name": "OrePlant",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-26T22:23:29.981316"
+    },
+    "3377930": {
+      "appid": 3377930,
+      "name": "Paran",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-26T22:23:30.530579"
+    },
+    "3377940": {
+      "appid": 3377940,
+      "name": "你重生到游戏世界，性交了NPC！ -动画-",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-26T22:23:30.678532"
+    },
+    "3378130": {
+      "appid": 3378130,
+      "name": "肉鸽武林 Fighting Rogue",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-26T22:23:31.659377"
     }
   }
 }
