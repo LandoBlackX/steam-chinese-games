@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-26T22:59:11.159250"
+    "updated": "2025-10-26T23:23:13.954180"
   },
   "games": {
     "570": {
@@ -307842,6 +307842,62 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-26T22:59:06.624880"
+    },
+    "2691470": {
+      "appid": 2691470,
+      "name": "Lisa Total investigation!",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-26T23:12:31.450343"
+    },
+    "3379870": {
+      "appid": 3379870,
+      "name": "以太效应",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-26T23:23:07.820695"
+    },
+    "3380100": {
+      "appid": 3380100,
+      "name": "Estella",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-26T23:23:08.336188"
+    },
+    "3380310": {
+      "appid": 3380310,
+      "name": "Regex Game 正则游戏",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-26T23:23:08.811744"
+    },
+    "3381010": {
+      "appid": 3381010,
+      "name": "Catch Me",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-26T23:23:11.801069"
+    },
+    "3381130": {
+      "appid": 3381130,
+      "name": "World of Eggs: Idle Adventures",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-26T23:23:12.338548"
+    },
+    "3381330": {
+      "appid": 3381330,
+      "name": "Sexuality in Ancient Rome",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-26T23:23:13.405376"
     }
   }
 }
