@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-26T15:23:21.896490"
+    "updated": "2025-10-26T16:31:11.218144"
   },
   "games": {
     "570": {
@@ -307562,6 +307562,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-26T15:23:18.613977"
+    },
+    "3369070": {
+      "appid": 3369070,
+      "name": "Law School - Season 1",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-26T16:31:11.215900"
     }
   }
 }
