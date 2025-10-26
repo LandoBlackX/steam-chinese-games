@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-26T07:23:09.476152"
+    "updated": "2025-10-26T07:52:38.456477"
   },
   "games": {
     "570": {
@@ -307298,6 +307298,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-26T07:23:09.474480"
+    },
+    "3357950": {
+      "appid": 3357950,
+      "name": "欢迎来到魔王城",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-26T07:52:33.997099"
+    },
+    "3358170": {
+      "appid": 3358170,
+      "name": "渡渡鸭与折叠世界",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-26T07:52:35.140678"
     }
   }
 }
