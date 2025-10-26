@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-26T12:35:56.949314"
+    "updated": "2025-10-26T13:58:49.163181"
   },
   "games": {
     "570": {
@@ -307418,6 +307418,54 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-26T12:35:56.761447"
+    },
+    "2661540": {
+      "appid": 2661540,
+      "name": "苏珊的药剂工坊",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-26T13:48:11.940941"
+    },
+    "3364740": {
+      "appid": 3364740,
+      "name": "天书",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-26T13:58:46.541917"
+    },
+    "3364870": {
+      "appid": 3364870,
+      "name": "弥赛亚骑士IF～亚空间囚困城～",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-26T13:58:47.639066"
+    },
+    "3365030": {
+      "appid": 3365030,
+      "name": "莱莎的炼金工房 ～常暗女王与秘密藏身处～ DX",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-26T13:58:48.587778"
+    },
+    "3365040": {
+      "appid": 3365040,
+      "name": "莱莎的炼金工房２ ～失落传说与秘密妖精～ DX",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-26T13:58:48.736266"
+    },
+    "3365050": {
+      "appid": 3365050,
+      "name": "莱莎的炼金工房３ ～终结之炼金术士与秘密钥匙～ DX",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-26T13:58:48.869674"
     }
   }
 }
