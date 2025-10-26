@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-25T23:22:48.838526"
+    "updated": "2025-10-26T02:46:41.280659"
   },
   "games": {
     "570": {
@@ -307026,6 +307026,30 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-25T23:22:44.770546"
+    },
+    "3347620": {
+      "appid": 3347620,
+      "name": "Deadland: Fallen Apartment 禁闭乐园：堕罪之寓",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-26T02:46:36.566363"
+    },
+    "3347810": {
+      "appid": 3347810,
+      "name": "阳光物语 / Sunshine Story",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-26T02:46:37.171539"
+    },
+    "3348150": {
+      "appid": 3348150,
+      "name": "Disaster Party!",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-26T02:46:38.940826"
     }
   }
 }
