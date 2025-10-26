@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-26T17:55:54.005923"
+    "updated": "2025-10-26T19:23:45.129510"
   },
   "games": {
     "570": {
@@ -307618,6 +307618,54 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-26T17:55:53.264283"
+    },
+    "3371320": {
+      "appid": 3371320,
+      "name": "WildAge",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-26T19:23:35.907967"
+    },
+    "3371510": {
+      "appid": 3371510,
+      "name": "轮盘英雄",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-26T19:23:36.346812"
+    },
+    "3371650": {
+      "appid": 3371650,
+      "name": "Car Mechanic Workshop",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-26T19:23:36.857632"
+    },
+    "3372060": {
+      "appid": 3372060,
+      "name": "Hell Maiden",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-26T19:23:39.226612"
+    },
+    "3372090": {
+      "appid": 3372090,
+      "name": "零号样本：清醒阈",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-26T19:23:39.666824"
+    },
+    "3372950": {
+      "appid": 3372950,
+      "name": "ASHGARD: Infinity Mask",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-26T19:23:44.502216"
     }
   }
 }
