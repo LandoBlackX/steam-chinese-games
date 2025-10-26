@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-26T04:23:27.849864"
+    "updated": "2025-10-26T05:00:20.311115"
   },
   "games": {
     "570": {
@@ -307106,6 +307106,54 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-26T04:23:27.685247"
+    },
+    "2635450": {
+      "appid": 2635450,
+      "name": "Brotherhood",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-26T04:48:49.482266"
+    },
+    "3351980": {
+      "appid": 3351980,
+      "name": "Unlimited Defense 无限防卫",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-26T05:00:16.452056"
+    },
+    "3352300": {
+      "appid": 3352300,
+      "name": "The Electrifying Incident: A Monster Mini-Expedition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-26T05:00:17.620141"
+    },
+    "3352310": {
+      "appid": 3352310,
+      "name": "Spooky Express",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-26T05:00:17.740589"
+    },
+    "3352420": {
+      "appid": 3352420,
+      "name": "And Then There Was No Light",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-26T05:00:18.136307"
+    },
+    "3352690": {
+      "appid": 3352690,
+      "name": "Dead Take / 遗映",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-10-26T05:00:18.980919"
     }
   }
 }

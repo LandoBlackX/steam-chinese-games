@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-26T04:23:27.849864"
+    "updated": "2025-10-26T05:00:20.311115"
   },
   "games": {
     "570": {
@@ -88770,6 +88770,14 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-10-25T19:22:49.163531"
+    },
+    "3352690": {
+      "appid": 3352690,
+      "name": "Dead Take / 遗映",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-10-26T05:00:18.980919"
     }
   }
 }
