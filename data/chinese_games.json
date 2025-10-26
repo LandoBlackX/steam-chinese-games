@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-26T14:56:24.941569"
+    "updated": "2025-10-26T15:23:21.896490"
   },
   "games": {
     "570": {
@@ -307538,6 +307538,30 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-26T14:56:24.816200"
+    },
+    "3367950": {
+      "appid": 3367950,
+      "name": "Five More Minutes",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-26T15:23:14.769258"
+    },
+    "3368400": {
+      "appid": 3368400,
+      "name": "Tretrais",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-26T15:23:18.283914"
+    },
+    "3368470": {
+      "appid": 3368470,
+      "name": "Road To Yvhalon",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-26T15:23:18.613977"
     }
   }
 }
