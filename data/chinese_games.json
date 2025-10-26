@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-26T05:59:27.053028"
+    "updated": "2025-10-26T07:23:09.476152"
   },
   "games": {
     "570": {
@@ -307258,6 +307258,46 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-26T05:59:24.804949"
+    },
+    "3356840": {
+      "appid": 3356840,
+      "name": "Echoes of Steel",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-26T07:23:05.290224"
+    },
+    "3357060": {
+      "appid": 3357060,
+      "name": "幸存者小队",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-26T07:23:06.706176"
+    },
+    "3357120": {
+      "appid": 3357120,
+      "name": "The Child",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-26T07:23:06.924525"
+    },
+    "3357630": {
+      "appid": 3357630,
+      "name": "最终循环",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-26T07:23:09.337973"
+    },
+    "3357650": {
+      "appid": 3357650,
+      "name": "PRAGMATA",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-26T07:23:09.474480"
     }
   }
 }
