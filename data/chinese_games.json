@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-26T09:53:23.973588"
+    "updated": "2025-10-26T10:23:32.363505"
   },
   "games": {
     "570": {
@@ -307338,6 +307338,30 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-26T09:53:23.971377"
+    },
+    "3360320": {
+      "appid": 3360320,
+      "name": "Silent Signals",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-26T10:23:26.709602"
+    },
+    "3360340": {
+      "appid": 3360340,
+      "name": "生水",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-26T10:23:26.880131"
+    },
+    "3360690": {
+      "appid": 3360690,
+      "name": "集墨聚场™：三国",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-26T10:23:27.846094"
     }
   }
 }
