@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-26T22:23:31.661253"
+    "updated": "2025-10-26T22:59:11.159250"
   },
   "games": {
     "570": {
@@ -307834,6 +307834,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-26T22:23:31.659377"
+    },
+    "3378330": {
+      "appid": 3378330,
+      "name": "Rekindled Trails",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-26T22:59:06.624880"
     }
   }
 }
