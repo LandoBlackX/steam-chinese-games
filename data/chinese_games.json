@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-26T19:23:45.129510"
+    "updated": "2025-10-26T19:53:20.109300"
   },
   "games": {
     "570": {
@@ -307666,6 +307666,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-26T19:23:44.502216"
+    },
+    "3373500": {
+      "appid": 3373500,
+      "name": "Scavland",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-26T19:53:15.886358"
+    },
+    "3374060": {
+      "appid": 3374060,
+      "name": "巨神的遗址",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-26T19:53:19.276469"
     }
   }
 }
