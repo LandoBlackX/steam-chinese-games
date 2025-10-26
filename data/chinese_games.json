@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-26T11:23:09.763295"
+    "updated": "2025-10-26T11:53:03.606407"
   },
   "games": {
     "570": {
@@ -307402,6 +307402,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-26T11:23:04.607611"
+    },
+    "2657360": {
+      "appid": 2657360,
+      "name": "Legacy Of Evil",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-26T11:42:09.487816"
     }
   }
 }
