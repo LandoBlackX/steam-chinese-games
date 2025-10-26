@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-26T08:32:31.478746"
+    "updated": "2025-10-26T09:53:23.973588"
   },
   "games": {
     "570": {
@@ -307322,6 +307322,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-26T08:21:28.279898"
+    },
+    "3359110": {
+      "appid": 3359110,
+      "name": "Total Victory: World Conflict 1939-1945",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-26T09:53:16.453033"
+    },
+    "3360010": {
+      "appid": 3360010,
+      "name": "Tsukuyomi: The Divine Hunter",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-26T09:53:23.971377"
     }
   }
 }
