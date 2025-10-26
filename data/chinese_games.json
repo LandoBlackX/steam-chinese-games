@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-26T16:31:11.218144"
+    "updated": "2025-10-26T17:23:29.880885"
   },
   "games": {
     "570": {
@@ -307570,6 +307570,46 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-26T16:31:11.215900"
+    },
+    "3369280": {
+      "appid": 3369280,
+      "name": "Nightlife",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-26T17:23:24.719435"
+    },
+    "3369440": {
+      "appid": 3369440,
+      "name": "GLIDE",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-26T17:23:26.029814"
+    },
+    "3369670": {
+      "appid": 3369670,
+      "name": "Head Wrestle Online",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-26T17:23:27.313833"
+    },
+    "3370100": {
+      "appid": 3370100,
+      "name": "我的同事不对劲",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-26T17:23:28.977085"
+    },
+    "3370130": {
+      "appid": 3370130,
+      "name": "三肖大作战",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-26T17:23:29.141840"
     }
   }
 }
