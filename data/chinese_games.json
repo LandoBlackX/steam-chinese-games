@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-26T23:23:13.954180"
+    "updated": "2025-10-26T23:54:07.048036"
   },
   "games": {
     "570": {
@@ -307898,6 +307898,30 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-26T23:23:13.405376"
+    },
+    "2692280": {
+      "appid": 2692280,
+      "name": "My Ex-Future Family Season 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-26T23:43:19.089744"
+    },
+    "3381470": {
+      "appid": 3381470,
+      "name": "Eggstraordinary Goose Chase",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-26T23:54:06.509292"
+    },
+    "3381530": {
+      "appid": 3381530,
+      "name": "言意书屋",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-26T23:54:07.045730"
     }
   }
 }
