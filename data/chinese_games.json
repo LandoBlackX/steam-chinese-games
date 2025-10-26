@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-26T03:48:29.385887"
+    "updated": "2025-10-26T04:23:27.849864"
   },
   "games": {
     "570": {
@@ -307066,6 +307066,46 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-26T03:48:23.632085"
+    },
+    "3349960": {
+      "appid": 3349960,
+      "name": "okey.gg",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-26T04:23:06.014539"
+    },
+    "3350160": {
+      "appid": 3350160,
+      "name": "海子 UMIKO",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-26T04:23:07.693491"
+    },
+    "3350200": {
+      "appid": 3350200,
+      "name": "情感反诈模拟器",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-26T04:23:07.864505"
+    },
+    "3351400": {
+      "appid": 3351400,
+      "name": "MAKINE",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-26T04:23:25.454054"
+    },
+    "3351790": {
+      "appid": 3351790,
+      "name": "Deadlike",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-26T04:23:27.685247"
     }
   }
 }
