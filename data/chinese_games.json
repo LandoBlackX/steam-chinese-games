@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-26T17:23:29.880885"
+    "updated": "2025-10-26T17:55:54.005923"
   },
   "games": {
     "570": {
@@ -307610,6 +307610,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-26T17:23:29.141840"
+    },
+    "3371170": {
+      "appid": 3371170,
+      "name": "CHARK",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-26T17:55:53.264283"
     }
   }
 }
