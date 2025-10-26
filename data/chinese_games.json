@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-26T10:59:13.878821"
+    "updated": "2025-10-26T11:23:09.763295"
   },
   "games": {
     "570": {
@@ -307386,6 +307386,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-26T10:59:13.709303"
+    },
+    "3362960": {
+      "appid": 3362960,
+      "name": "Twinkleby 汀可镇",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-26T11:23:04.095495"
+    },
+    "3363040": {
+      "appid": 3363040,
+      "name": "芙兰的睡前故事",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-26T11:23:04.607611"
     }
   }
 }
