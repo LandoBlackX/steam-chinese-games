@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-27T22:25:09.386649"
+    "updated": "2025-10-27T23:01:02.236376"
   },
   "games": {
     "570": {
@@ -308746,6 +308746,38 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-27T22:25:09.384252"
+    },
+    "3408740": {
+      "appid": 3408740,
+      "name": "Similariddle",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-27T23:00:56.237580"
+    },
+    "3409660": {
+      "appid": 3409660,
+      "name": "Spinning Scarecrow",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-27T23:01:00.064564"
+    },
+    "3410030": {
+      "appid": 3410030,
+      "name": "The Hidden Library",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-27T23:01:01.977309"
+    },
+    "3410040": {
+      "appid": 3410040,
+      "name": "狂野打字",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-27T23:01:02.234499"
     }
   }
 }
