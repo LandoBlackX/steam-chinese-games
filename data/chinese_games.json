@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-27T13:27:37.532380"
+    "updated": "2025-10-27T14:25:34.753176"
   },
   "games": {
     "570": {
@@ -308370,6 +308370,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-27T13:27:36.106771"
+    },
+    "3399110": {
+      "appid": 3399110,
+      "name": "Jaleco Sports: Goal!",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-27T14:25:33.144962"
     }
   }
 }
