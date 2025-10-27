@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-27T05:32:18.088687"
+    "updated": "2025-10-27T06:03:01.370750"
   },
   "games": {
     "570": {
@@ -308122,6 +308122,70 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-27T05:32:14.984632"
+    },
+    "2700790": {
+      "appid": 2700790,
+      "name": "Shepherd Knight",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-27T05:51:49.970758"
+    },
+    "3390760": {
+      "appid": 3390760,
+      "name": "幻法绘世",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-27T06:02:54.685867"
+    },
+    "3390780": {
+      "appid": 3390780,
+      "name": "Tokyo Day",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-27T06:02:55.063507"
+    },
+    "3390880": {
+      "appid": 3390880,
+      "name": "CAPTURED 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-27T06:02:55.707045"
+    },
+    "3390900": {
+      "appid": 3390900,
+      "name": "Exit Condition One HD",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-27T06:02:55.900219"
+    },
+    "3391340": {
+      "appid": 3391340,
+      "name": "Unserious Sandbox",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-27T06:02:58.365785"
+    },
+    "3391500": {
+      "appid": 3391500,
+      "name": "侦探，请守护我的秘密吧！",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-27T06:02:59.226805"
+    },
+    "3391740": {
+      "appid": 3391740,
+      "name": "A Planet of Mine MasterMine Edition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-27T06:03:01.023198"
     }
   }
 }
