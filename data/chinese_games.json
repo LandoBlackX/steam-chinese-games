@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-27T10:25:36.863630"
+    "updated": "2025-10-27T11:18:36.384845"
   },
   "games": {
     "570": {
@@ -308282,6 +308282,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-27T10:25:18.946278"
+    },
+    "2714620": {
+      "appid": 2714620,
+      "name": "鸭鸭侦探：闹鬼露营地",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-27T11:13:10.742270"
     }
   }
 }
