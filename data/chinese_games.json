@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-27T21:56:46.259528"
+    "updated": "2025-10-27T22:25:09.386649"
   },
   "games": {
     "570": {
@@ -308714,6 +308714,38 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-27T21:56:43.761296"
+    },
+    "3408170": {
+      "appid": 3408170,
+      "name": "Deadswitch Combat",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-27T22:25:04.605114"
+    },
+    "3408380": {
+      "appid": 3408380,
+      "name": "除灵事务所",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-27T22:25:06.061896"
+    },
+    "3408600": {
+      "appid": 3408600,
+      "name": "A Song in Elyel Nalore",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-27T22:25:08.388886"
+    },
+    "3408670": {
+      "appid": 3408670,
+      "name": "Stranger's Worlds",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-27T22:25:09.384252"
     }
   }
 }
