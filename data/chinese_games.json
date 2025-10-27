@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-27T19:54:55.674779"
+    "updated": "2025-10-27T20:25:07.963236"
   },
   "games": {
     "570": {
@@ -308546,6 +308546,54 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-27T19:54:53.793419"
+    },
+    "3404190": {
+      "appid": 3404190,
+      "name": "Uncharted Sectors",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-27T20:24:51.103881"
+    },
+    "3404770": {
+      "appid": 3404770,
+      "name": "奇华幻相",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-27T20:25:04.637502"
+    },
+    "3404880": {
+      "appid": 3404880,
+      "name": "Someone's Inside Me",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-27T20:25:05.289248"
+    },
+    "3405020": {
+      "appid": 3405020,
+      "name": "That Village",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-27T20:25:06.237208"
+    },
+    "3405160": {
+      "appid": 3405160,
+      "name": "妖谈2：九尾异闻",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-27T20:25:07.668960"
+    },
+    "3405180": {
+      "appid": 3405180,
+      "name": "杀剧回环：衔尾之蛇 Killing Tragedy Samsara: Ouroboros Reincarnation",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-27T20:25:07.960782"
     }
   }
 }
