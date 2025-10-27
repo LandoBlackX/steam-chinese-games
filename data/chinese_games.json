@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-27T19:24:56.684456"
+    "updated": "2025-10-27T19:54:55.674779"
   },
   "games": {
     "570": {
@@ -308530,6 +308530,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-27T19:24:56.682446"
+    },
+    "3403700": {
+      "appid": 3403700,
+      "name": "University Days - Season 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-27T19:54:52.321523"
+    },
+    "3403870": {
+      "appid": 3403870,
+      "name": "Bloodface",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-27T19:54:53.793419"
     }
   }
 }

@@ -5981,9 +5981,9 @@
       "timestamp": "2025-10-16T10:15:28.264486"
     },
     {
-      "appid": 3398790,
-      "reason": "API 返回 success: false",
-      "timestamp": "2025-10-27T19:24:51.136429"
+      "appid": 3403250,
+      "reason": "502 Server Error: Bad Gateway for url: https://store.steampowered.com/api/appdetails?appids=3403250&l=schinese",
+      "timestamp": "2025-10-27T19:54:37.978167"
     }
   ]
 }
