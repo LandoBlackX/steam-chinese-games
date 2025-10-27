@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-27T09:07:55.013859"
+    "updated": "2025-10-27T10:25:36.863630"
   },
   "games": {
     "570": {
@@ -308274,6 +308274,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-27T09:07:54.860415"
+    },
+    "3395930": {
+      "appid": 3395930,
+      "name": "Mashina",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-27T10:25:18.946278"
     }
   }
 }
