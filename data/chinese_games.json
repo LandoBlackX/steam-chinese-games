@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-27T05:08:07.561052"
+    "updated": "2025-10-27T05:32:18.088687"
   },
   "games": {
     "570": {
@@ -308090,6 +308090,38 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-27T05:08:04.371504"
+    },
+    "3388890": {
+      "appid": 3388890,
+      "name": "魔栗少女☆依久乃",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-27T05:32:10.458559"
+    },
+    "3389330": {
+      "appid": 3389330,
+      "name": "Pathologic 3: Quarantine",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-27T05:32:12.575369"
+    },
+    "3389440": {
+      "appid": 3389440,
+      "name": "XENOBREAKERS: Classic Tower Defense",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-27T05:32:13.104937"
+    },
+    "3390000": {
+      "appid": 3390000,
+      "name": "Need For Scream",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-27T05:32:14.984632"
     }
   }
 }
