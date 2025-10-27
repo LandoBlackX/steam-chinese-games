@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-27T07:33:18.808043"
+    "updated": "2025-10-27T07:58:16.058344"
   },
   "games": {
     "570": {
@@ -308202,6 +308202,30 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-27T07:33:14.901567"
+    },
+    "3393070": {
+      "appid": 3393070,
+      "name": "怪兽 8号 THE GAME",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-27T07:57:59.659668"
+    },
+    "3393380": {
+      "appid": 3393380,
+      "name": "The Sex Curse 💋",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-10-27T07:58:11.426053"
+    },
+    "3393740": {
+      "appid": 3393740,
+      "name": "萤火村",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-27T07:58:14.812261"
     }
   }
 }
