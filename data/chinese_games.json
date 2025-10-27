@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-27T21:25:18.815430"
+    "updated": "2025-10-27T21:56:46.259528"
   },
   "games": {
     "570": {
@@ -308666,6 +308666,54 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-27T21:25:17.929272"
+    },
+    "3406620": {
+      "appid": 3406620,
+      "name": "暗徒誓约",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-27T21:56:37.124304"
+    },
+    "3406810": {
+      "appid": 3406810,
+      "name": "Dyping Escape",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-27T21:56:39.198964"
+    },
+    "3406910": {
+      "appid": 3406910,
+      "name": "命运游戏3：王者棋局",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-27T21:56:40.449943"
+    },
+    "3407520": {
+      "appid": 3407520,
+      "name": "Command or Engage",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-27T21:56:43.322394"
+    },
+    "3407550": {
+      "appid": 3407550,
+      "name": "Super Farmer",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-27T21:56:43.531066"
+    },
+    "3407570": {
+      "appid": 3407570,
+      "name": "Pineapple",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-27T21:56:43.761296"
     }
   }
 }
