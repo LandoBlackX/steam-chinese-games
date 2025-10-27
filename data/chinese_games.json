@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-27T01:06:53.631063"
+    "updated": "2025-10-27T02:52:19.277716"
   },
   "games": {
     "570": {
@@ -307930,6 +307930,38 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-27T01:06:53.629184"
+    },
+    "2697030": {
+      "appid": 2697030,
+      "name": "I Live Under Your House (Renovation)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-27T02:41:35.793044"
+    },
+    "3382290": {
+      "appid": 3382290,
+      "name": "Cursed Blood",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-27T02:52:15.671059"
+    },
+    "3382390": {
+      "appid": 3382390,
+      "name": "Ludiger",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-27T02:52:16.479290"
+    },
+    "3382610": {
+      "appid": 3382610,
+      "name": "Gold Miner: Return to Glory",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-27T02:52:17.684041"
     }
   }
 }
