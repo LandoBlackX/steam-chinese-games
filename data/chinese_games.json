@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-27T06:03:01.370750"
+    "updated": "2025-10-27T07:33:18.808043"
   },
   "games": {
     "570": {
@@ -308186,6 +308186,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-27T06:03:01.023198"
+    },
+    "3392040": {
+      "appid": 3392040,
+      "name": "OMEGA PHENEX COMMENCED PROJECT SIX",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-27T07:33:13.770858"
+    },
+    "3392230": {
+      "appid": 3392230,
+      "name": "Sekira",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-27T07:33:14.901567"
     }
   }
 }
