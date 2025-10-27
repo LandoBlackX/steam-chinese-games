@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-27T23:25:46.425062"
+    "updated": "2025-10-27T23:55:51.792331"
   },
   "games": {
     "570": {
@@ -308826,6 +308826,46 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-27T23:25:34.501737"
+    },
+    "2747810": {
+      "appid": 2747810,
+      "name": "Heartsworn Abyss",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-27T23:43:49.450059"
+    },
+    "3411510": {
+      "appid": 3411510,
+      "name": "星辰密文",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-27T23:55:37.517344"
+    },
+    "3411730": {
+      "appid": 3411730,
+      "name": "Desktop Fishing",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-27T23:55:38.872714"
+    },
+    "3412160": {
+      "appid": 3412160,
+      "name": "拉斯维加斯模拟器",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-27T23:55:51.303729"
+    },
+    "3412290": {
+      "appid": 3412290,
+      "name": "NTR狂热",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-27T23:55:51.790027"
     }
   }
 }
