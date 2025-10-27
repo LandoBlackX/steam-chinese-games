@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-27T08:36:07.991076"
+    "updated": "2025-10-27T09:07:55.013859"
   },
   "games": {
     "570": {
@@ -308234,6 +308234,46 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-27T08:24:53.710387"
+    },
+    "3394770": {
+      "appid": 3394770,
+      "name": "Menherarium",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-27T09:07:37.024912"
+    },
+    "3395300": {
+      "appid": 3395300,
+      "name": "哎呦!这么多美女呀!",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-27T09:07:52.006716"
+    },
+    "3395320": {
+      "appid": 3395320,
+      "name": "Critical Shift",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-27T09:07:52.305811"
+    },
+    "3395470": {
+      "appid": 3395470,
+      "name": "The Legend Of Kuro",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-27T09:07:53.657043"
+    },
+    "3395760": {
+      "appid": 3395760,
+      "name": "鱼我一起: 水愈时光",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-27T09:07:54.860415"
     }
   }
 }
