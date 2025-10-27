@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-27T04:42:02.239860"
+    "updated": "2025-10-27T05:08:07.561052"
   },
   "games": {
     "570": {
@@ -308042,6 +308042,54 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-27T04:42:01.692335"
+    },
+    "3386620": {
+      "appid": 3386620,
+      "name": "Flipo",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-27T05:08:01.229161"
+    },
+    "3386650": {
+      "appid": 3386650,
+      "name": "みんなでウミガメのスープ",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-27T05:08:01.481467"
+    },
+    "3386670": {
+      "appid": 3386670,
+      "name": "不可思議メメメは寝ていたい",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-27T05:08:01.818376"
+    },
+    "3386900": {
+      "appid": 3386900,
+      "name": "Castle of Heart: Retold",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-27T05:08:02.507429"
+    },
+    "3387100": {
+      "appid": 3387100,
+      "name": "15分钟",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-27T05:08:03.538926"
+    },
+    "3387230": {
+      "appid": 3387230,
+      "name": "MyPawnShop",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-27T05:08:04.371504"
     }
   }
 }
