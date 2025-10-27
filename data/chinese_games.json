@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-27T17:25:11.803275"
+    "updated": "2025-10-27T18:00:37.994539"
   },
   "games": {
     "570": {
@@ -308474,6 +308474,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-27T17:19:30.174599"
+    },
+    "2792720": {
+      "appid": 2792720,
+      "name": "Jancer",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-27T17:49:49.977757"
+    },
+    "3400890": {
+      "appid": 3400890,
+      "name": "Defe The Defender",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-27T18:00:34.216259"
     }
   }
 }
