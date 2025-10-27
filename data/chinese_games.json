@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-27T14:25:34.753176"
+    "updated": "2025-10-27T16:00:01.940786"
   },
   "games": {
     "570": {
@@ -308378,6 +308378,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-27T14:25:33.144962"
+    },
+    "2725610": {
+      "appid": 2725610,
+      "name": "Haunted Bloodlines",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-27T15:48:15.681138"
+    },
+    "2726350": {
+      "appid": 2726350,
+      "name": "Super Dash",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-27T15:48:19.077117"
     }
   }
 }
