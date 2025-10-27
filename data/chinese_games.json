@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-27T23:01:02.236376"
+    "updated": "2025-10-27T23:25:46.425062"
   },
   "games": {
     "570": {
@@ -308778,6 +308778,54 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-27T23:01:02.234499"
+    },
+    "3410180": {
+      "appid": 3410180,
+      "name": "Overlooting - 掠夺传奇",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-27T23:25:19.327480"
+    },
+    "3410340": {
+      "appid": 3410340,
+      "name": "绝境守护",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-27T23:25:20.160179"
+    },
+    "3410440": {
+      "appid": 3410440,
+      "name": "Divine Quest",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-27T23:25:21.554719"
+    },
+    "3410630": {
+      "appid": 3410630,
+      "name": "永不枯萎的世界与终焉之花 - The Rainbow Appears After Flowering Rain",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-27T23:25:22.550453"
+    },
+    "3410660": {
+      "appid": 3410660,
+      "name": "荧守者",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-27T23:25:22.758872"
+    },
+    "3411120": {
+      "appid": 3411120,
+      "name": "Everstill Valley",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-27T23:25:34.501737"
     }
   }
 }
