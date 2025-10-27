@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-27T04:06:35.355920"
+    "updated": "2025-10-27T04:42:02.239860"
   },
   "games": {
     "570": {
@@ -307978,6 +307978,70 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-27T04:06:28.188364"
+    },
+    "3384020": {
+      "appid": 3384020,
+      "name": "The Legend of Shiande",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-27T04:41:38.116285"
+    },
+    "3384360": {
+      "appid": 3384360,
+      "name": "灰域之境",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-27T04:41:41.793671"
+    },
+    "3384570": {
+      "appid": 3384570,
+      "name": "星绘友晴天",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-27T04:41:42.847975"
+    },
+    "3384820": {
+      "appid": 3384820,
+      "name": "Broken Relic",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-27T04:41:43.727417"
+    },
+    "3385140": {
+      "appid": 3385140,
+      "name": "EverCastle",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-27T04:41:56.168197"
+    },
+    "3385320": {
+      "appid": 3385320,
+      "name": "地雷系少女",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-27T04:41:57.223034"
+    },
+    "3386010": {
+      "appid": 3386010,
+      "name": "Survivor these Girls",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-27T04:42:00.742871"
+    },
+    "3386200": {
+      "appid": 3386200,
+      "name": "魔法师艾丽莎的催眠出租奋斗记",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-27T04:42:01.692335"
     }
   }
 }
