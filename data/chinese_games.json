@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-27T11:56:11.054903"
+    "updated": "2025-10-27T13:27:37.532380"
   },
   "games": {
     "570": {
@@ -308338,6 +308338,38 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-27T11:56:09.168973"
+    },
+    "3397780": {
+      "appid": 3397780,
+      "name": "Air Master HANEMARU",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-27T13:27:34.096287"
+    },
+    "3397940": {
+      "appid": 3397940,
+      "name": "Infernity: The Devil's Arena",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-27T13:27:35.732108"
+    },
+    "3397970": {
+      "appid": 3397970,
+      "name": "Basement 66",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-27T13:27:35.919175"
+    },
+    "3398010": {
+      "appid": 3398010,
+      "name": "Moonrite",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-27T13:27:36.106771"
     }
   }
 }
