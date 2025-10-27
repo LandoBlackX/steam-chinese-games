@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-27T18:00:37.994539"
+    "updated": "2025-10-27T18:37:13.184941"
   },
   "games": {
     "570": {
@@ -308490,6 +308490,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-27T18:00:34.216259"
+    },
+    "2734270": {
+      "appid": 2734270,
+      "name": "Sector Unknown",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-27T18:25:27.939247"
     }
   }
 }
