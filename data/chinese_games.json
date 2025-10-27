@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-27T16:34:06.883443"
+    "updated": "2025-10-27T17:25:11.803275"
   },
   "games": {
     "570": {
@@ -308458,6 +308458,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-27T16:34:06.371462"
+    },
+    "2730700": {
+      "appid": 2730700,
+      "name": "DRONE PERSPECTIVE",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-27T17:13:20.684983"
+    },
+    "3126230": {
+      "appid": 3126230,
+      "name": "Ghoul's Saloon",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-27T17:19:30.174599"
     }
   }
 }
