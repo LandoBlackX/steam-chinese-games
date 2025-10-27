@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-27T07:58:16.058344"
+    "updated": "2025-10-27T08:36:07.991076"
   },
   "games": {
     "570": {
@@ -88794,6 +88794,14 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-10-27T07:58:11.426053"
+    },
+    "2706450": {
+      "appid": 2706450,
+      "name": "Hands of Necromancy II",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-10-27T08:24:47.808103"
     }
   }
 }

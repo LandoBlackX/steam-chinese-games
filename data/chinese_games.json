@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-27T07:58:16.058344"
+    "updated": "2025-10-27T08:36:07.991076"
   },
   "games": {
     "570": {
@@ -308226,6 +308226,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-27T07:58:14.812261"
+    },
+    "2707440": {
+      "appid": 2707440,
+      "name": "Floralis",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-27T08:24:53.710387"
     }
   }
 }
