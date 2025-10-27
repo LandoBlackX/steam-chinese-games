@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-27T16:00:01.940786"
+    "updated": "2025-10-27T16:34:06.883443"
   },
   "games": {
     "570": {
@@ -308394,6 +308394,70 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-27T15:48:19.077117"
+    },
+    "1043460": {
+      "appid": 1043460,
+      "name": "Anchor",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-27T16:11:32.084606"
+    },
+    "3399610": {
+      "appid": 3399610,
+      "name": "Tokatonton：獨臂鐵匠",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-27T16:34:00.847799"
+    },
+    "3399860": {
+      "appid": 3399860,
+      "name": "剑影江湖",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-27T16:34:01.814270"
+    },
+    "3399900": {
+      "appid": 3399900,
+      "name": "HellSlave II: Judgment of the Archon",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-27T16:34:02.532236"
+    },
+    "3399980": {
+      "appid": 3399980,
+      "name": "Down the Rabbit Hole Flattened",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-27T16:34:03.022029"
+    },
+    "3400030": {
+      "appid": 3400030,
+      "name": "消除吧！十二神姬退魔传",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-27T16:34:03.829639"
+    },
+    "3400110": {
+      "appid": 3400110,
+      "name": "Ironweld",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-27T16:34:04.601136"
+    },
+    "3400420": {
+      "appid": 3400420,
+      "name": "Deeper You Go",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-27T16:34:06.371462"
     }
   }
 }
