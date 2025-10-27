@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-27T11:18:36.384845"
+    "updated": "2025-10-27T11:56:11.054903"
   },
   "games": {
     "570": {
@@ -308290,6 +308290,54 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-27T11:13:10.742270"
+    },
+    "2717790": {
+      "appid": 2717790,
+      "name": "Evolve Benchmark",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-27T11:44:47.735184"
+    },
+    "3396670": {
+      "appid": 3396670,
+      "name": "I Write Games Not Tragedies",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-27T11:56:05.855549"
+    },
+    "3396740": {
+      "appid": 3396740,
+      "name": "Backrooms: Hide Together",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-27T11:56:06.375810"
+    },
+    "3397010": {
+      "appid": 3397010,
+      "name": "EDEN'S FRONTIER",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-27T11:56:08.491943"
+    },
+    "3397060": {
+      "appid": 3397060,
+      "name": "Cubic Annihilation",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-27T11:56:08.842592"
+    },
+    "3397120": {
+      "appid": 3397120,
+      "name": "光翼战姬～ExS-TIA P",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-27T11:56:09.168973"
     }
   }
 }
