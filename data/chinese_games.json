@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-27T02:52:19.277716"
+    "updated": "2025-10-27T04:06:35.355920"
   },
   "games": {
     "570": {
@@ -307962,6 +307962,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-27T02:52:17.684041"
+    },
+    "3152440": {
+      "appid": 3152440,
+      "name": "The Florist",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-27T04:02:34.136656"
+    },
+    "3382880": {
+      "appid": 3382880,
+      "name": "Amazon Animals",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-27T04:06:28.188364"
     }
   }
 }
