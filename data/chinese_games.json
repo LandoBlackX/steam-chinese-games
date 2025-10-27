@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-27T18:37:13.184941"
+    "updated": "2025-10-27T19:24:56.684456"
   },
   "games": {
     "570": {
@@ -308498,6 +308498,38 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-27T18:25:27.939247"
+    },
+    "3402180": {
+      "appid": 3402180,
+      "name": "Fighting for Land / 打怪兽抢领地",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-27T19:24:53.764736"
+    },
+    "3402300": {
+      "appid": 3402300,
+      "name": "铁匠铺和地牢: 寻找！打败魔王的武器",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-27T19:24:53.877863"
+    },
+    "3402660": {
+      "appid": 3402660,
+      "name": "系统线索",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-27T19:24:55.343991"
+    },
+    "3403150": {
+      "appid": 3403150,
+      "name": "Twins & Dreams",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-27T19:24:56.682446"
     }
   }
 }
