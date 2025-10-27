@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-26T23:54:07.048036"
+    "updated": "2025-10-27T01:06:53.631063"
   },
   "games": {
     "570": {
@@ -307922,6 +307922,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-26T23:54:07.045730"
+    },
+    "3381680": {
+      "appid": 3381680,
+      "name": "Age of History 2: Definitive Edition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-27T01:06:53.629184"
     }
   }
 }
