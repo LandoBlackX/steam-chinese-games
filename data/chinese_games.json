@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-28T19:57:24.319154"
+    "updated": "2025-10-28T20:36:37.950140"
   },
   "games": {
     "570": {
@@ -309298,6 +309298,38 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-28T19:57:21.064336"
+    },
+    "3424900": {
+      "appid": 3424900,
+      "name": "LUST & MAGIC ✨",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-10-28T20:36:34.140594"
+    },
+    "3424910": {
+      "appid": 3424910,
+      "name": "Mushroom Hunter Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-28T20:36:34.311940"
+    },
+    "3425460": {
+      "appid": 3425460,
+      "name": "Console Shop Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-28T20:36:37.527778"
+    },
+    "3425510": {
+      "appid": 3425510,
+      "name": "夏日拼图",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-28T20:36:37.670036"
     }
   }
 }

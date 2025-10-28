@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-28T19:57:24.319154"
+    "updated": "2025-10-28T20:36:37.950140"
   },
   "games": {
     "570": {
@@ -88810,6 +88810,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-10-27T23:55:38.633997"
+    },
+    "3424900": {
+      "appid": 3424900,
+      "name": "LUST & MAGIC ✨",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-10-28T20:36:34.140594"
     }
   }
 }
