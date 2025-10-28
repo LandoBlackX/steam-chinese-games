@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-28T06:38:29.369504"
+    "updated": "2025-10-28T07:35:37.986618"
   },
   "games": {
     "570": {
@@ -309026,6 +309026,38 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-28T06:26:12.071971"
+    },
+    "3418570": {
+      "appid": 3418570,
+      "name": "Summer Pockets REFLECTION BLUE",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-28T07:35:12.488532"
+    },
+    "3418710": {
+      "appid": 3418710,
+      "name": "慾望21點：牌桌下的暗潮胸湧",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-28T07:35:13.539668"
+    },
+    "3418810": {
+      "appid": 3418810,
+      "name": "Marmot Fight Club",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-28T07:35:13.759901"
+    },
+    "3419080": {
+      "appid": 3419080,
+      "name": "The Regreening",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-28T07:35:36.571698"
     }
   }
 }
