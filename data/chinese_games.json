@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-28T13:29:06.608584"
+    "updated": "2025-10-28T16:05:26.113982"
   },
   "games": {
     "570": {
@@ -309194,6 +309194,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-28T13:29:04.689421"
+    },
+    "3028330": {
+      "appid": 3028330,
+      "name": "《战地风云™》REDSEC",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-28T15:56:03.547354"
     }
   }
 }
