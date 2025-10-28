@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-28T02:44:41.779478"
+    "updated": "2025-10-28T04:35:57.602206"
   },
   "games": {
     "570": {
@@ -308906,6 +308906,30 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-28T02:44:40.546829"
+    },
+    "3413900": {
+      "appid": 3413900,
+      "name": "Speed Dates Summer Edition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-28T04:35:34.668842"
+    },
+    "3414340": {
+      "appid": 3414340,
+      "name": "KAMI 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-28T04:35:46.507526"
+    },
+    "3414360": {
+      "appid": 3414360,
+      "name": "Forest Floor",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-28T04:35:57.295763"
     }
   }
 }
