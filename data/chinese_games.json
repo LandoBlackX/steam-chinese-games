@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-28T07:35:37.986618"
+    "updated": "2025-10-28T08:02:13.868785"
   },
   "games": {
     "570": {
@@ -309058,6 +309058,62 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-28T07:35:36.571698"
+    },
+    "2761000": {
+      "appid": 2761000,
+      "name": "Tales of Old: Dominus",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-28T07:48:26.201827"
+    },
+    "3419250": {
+      "appid": 3419250,
+      "name": "Mid",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-28T08:02:09.853084"
+    },
+    "3419450": {
+      "appid": 3419450,
+      "name": "谁养成了勇者 -Spin of Fate-",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-28T08:02:10.373081"
+    },
+    "3419660": {
+      "appid": 3419660,
+      "name": "Zombie Liminal Fishing",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-28T08:02:12.168097"
+    },
+    "3419690": {
+      "appid": 3419690,
+      "name": "落跑鸡：蛋劫行动",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-28T08:02:12.493180"
+    },
+    "3419810": {
+      "appid": 3419810,
+      "name": "创造世界的空想理论 -goodbye world index",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-28T08:02:13.478907"
+    },
+    "3419820": {
+      "appid": 3419820,
+      "name": "Welcome to Cafe Lumière! ~A Dragon Girl Concept Cafe~",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-28T08:02:13.619677"
     }
   }
 }
