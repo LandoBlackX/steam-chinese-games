@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-28T08:02:13.868785"
+    "updated": "2025-10-28T09:35:01.892687"
   },
   "games": {
     "570": {
@@ -309114,6 +309114,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-28T08:02:13.619677"
+    },
+    "2764750": {
+      "appid": 2764750,
+      "name": "The Other Side",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-28T09:22:46.019163"
     }
   }
 }
