@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-28T04:35:57.602206"
+    "updated": "2025-10-28T05:05:49.557221"
   },
   "games": {
     "570": {
@@ -308930,6 +308930,30 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-28T04:35:57.295763"
+    },
+    "3414730": {
+      "appid": 3414730,
+      "name": "方块实验室",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-28T05:05:35.828504"
+    },
+    "3414950": {
+      "appid": 3414950,
+      "name": "边境机甲：灰烬行者",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-28T05:05:38.412663"
+    },
+    "3415060": {
+      "appid": 3415060,
+      "name": "Lorain",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-28T05:05:49.403579"
     }
   }
 }
