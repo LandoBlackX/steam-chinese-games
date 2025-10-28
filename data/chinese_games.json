@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-28T19:27:59.089268"
+    "updated": "2025-10-28T19:57:24.319154"
   },
   "games": {
     "570": {
@@ -309266,6 +309266,38 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-28T19:27:57.799746"
+    },
+    "2790020": {
+      "appid": 2790020,
+      "name": "星空之芽",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-28T19:43:51.242984"
+    },
+    "2790330": {
+      "appid": 2790330,
+      "name": "Blood Typers",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-28T19:43:53.406952"
+    },
+    "3424040": {
+      "appid": 3424040,
+      "name": "Synthetic Dreams 18+",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-28T19:57:20.284219"
+    },
+    "3424220": {
+      "appid": 3424220,
+      "name": "One and Done",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-28T19:57:21.064336"
     }
   }
 }
