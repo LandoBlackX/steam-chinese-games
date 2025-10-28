@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-28T18:39:54.965883"
+    "updated": "2025-10-28T19:27:59.089268"
   },
   "games": {
     "570": {
@@ -309250,6 +309250,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-28T18:39:52.862449"
+    },
+    "3423280": {
+      "appid": 3423280,
+      "name": "鲨鱼牙医 ",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-28T19:27:55.682861"
+    },
+    "3423720": {
+      "appid": 3423720,
+      "name": "Ruinscape",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-28T19:27:57.799746"
     }
   }
 }
