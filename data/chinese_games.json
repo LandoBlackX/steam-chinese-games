@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-28T10:26:10.271651"
+    "updated": "2025-10-28T12:41:00.890703"
   },
   "games": {
     "570": {
@@ -309130,6 +309130,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-28T10:13:55.695656"
+    },
+    "2774040": {
+      "appid": 2774040,
+      "name": "The Boss Gangsters : Nightlife",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-28T12:28:36.608281"
     }
   }
 }
