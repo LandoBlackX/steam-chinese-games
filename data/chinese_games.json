@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-28T22:00:11.766596"
+    "updated": "2025-10-28T22:27:54.213162"
   },
   "games": {
     "570": {
@@ -309362,6 +309362,30 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-28T22:00:10.843463"
+    },
+    "3426770": {
+      "appid": 3426770,
+      "name": "NEXO",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-28T22:27:40.378480"
+    },
+    "3426920": {
+      "appid": 3426920,
+      "name": "Twisted Gallery 异馆",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-28T22:27:41.174047"
+    },
+    "3427490": {
+      "appid": 3427490,
+      "name": "Azrael, Herald of Death",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-28T22:27:54.210744"
     }
   }
 }
