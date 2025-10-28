@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-28T20:36:37.950140"
+    "updated": "2025-10-28T22:00:11.766596"
   },
   "games": {
     "570": {
@@ -309330,6 +309330,38 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-28T20:36:37.670036"
+    },
+    "2794160": {
+      "appid": 2794160,
+      "name": "Beyond The Board",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-28T21:46:49.500372"
+    },
+    "3425580": {
+      "appid": 3425580,
+      "name": "The Island: Exterminatus",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-28T21:59:57.998387"
+    },
+    "3426450": {
+      "appid": 3426450,
+      "name": "LUST Company 👾",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-10-28T22:00:10.707526"
+    },
+    "3426460": {
+      "appid": 3426460,
+      "name": "Greyvale Rivalry - Season 1",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-28T22:00:10.843463"
     }
   }
 }
