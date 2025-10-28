@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-28T05:34:55.169288"
+    "updated": "2025-10-28T06:05:09.199696"
   },
   "games": {
     "570": {
@@ -308986,6 +308986,38 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-28T05:34:54.675173"
+    },
+    "3417140": {
+      "appid": 3417140,
+      "name": "IGS经典街机合集",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-28T06:05:01.278500"
+    },
+    "3417470": {
+      "appid": 3417470,
+      "name": "Jurnal Risa: Dark Destiny",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-28T06:05:02.926486"
+    },
+    "3417530": {
+      "appid": 3417530,
+      "name": "Panzer Dragoon Zwei: Remake",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-28T06:05:03.741953"
+    },
+    "3417940": {
+      "appid": 3417940,
+      "name": "猫猫乱捣蛋 Cat Chaos",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-28T06:05:05.700344"
     }
   }
 }
