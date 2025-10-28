@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-28T12:41:00.890703"
+    "updated": "2025-10-28T13:29:06.608584"
   },
   "games": {
     "570": {
@@ -309138,6 +309138,62 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-28T12:28:36.608281"
+    },
+    "3420100": {
+      "appid": 3420100,
+      "name": "Bazar Simulator: The Wan Story",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-28T13:28:57.943380"
+    },
+    "3420630": {
+      "appid": 3420630,
+      "name": "炼丹与电焊 Alchemy and Weldcraft",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-28T13:28:59.423242"
+    },
+    "3420690": {
+      "appid": 3420690,
+      "name": "BLOODKILL: Goreblast Overkill",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-28T13:28:59.981704"
+    },
+    "3420710": {
+      "appid": 3420710,
+      "name": "F.O.R.S",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-28T13:29:00.501899"
+    },
+    "3421030": {
+      "appid": 3421030,
+      "name": "Grave Stakes",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-28T13:29:02.411473"
+    },
+    "3421330": {
+      "appid": 3421330,
+      "name": "寻物大师：这里没有小蛋糕",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-28T13:29:04.531822"
+    },
+    "3421340": {
+      "appid": 3421340,
+      "name": "寻物大师：这里没有小龙龙",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-28T13:29:04.689421"
     }
   }
 }
