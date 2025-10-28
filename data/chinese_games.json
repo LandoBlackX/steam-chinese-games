@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-28T18:04:41.502265"
+    "updated": "2025-10-28T18:39:54.965883"
   },
   "games": {
     "570": {
@@ -309234,6 +309234,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-28T18:04:40.355220"
+    },
+    "3422460": {
+      "appid": 3422460,
+      "name": "Transpawt Train",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-28T18:39:29.358378"
+    },
+    "3422880": {
+      "appid": 3422880,
+      "name": "HuraGP",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-28T18:39:52.862449"
     }
   }
 }
