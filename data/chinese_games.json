@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-28T05:05:49.557221"
+    "updated": "2025-10-28T05:34:55.169288"
   },
   "games": {
     "570": {
@@ -308954,6 +308954,38 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-28T05:05:49.403579"
+    },
+    "2755820": {
+      "appid": 2755820,
+      "name": "How Old is James?",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-28T05:21:43.362598"
+    },
+    "3415530": {
+      "appid": 3415530,
+      "name": "Ballardo",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-28T05:34:42.273088"
+    },
+    "3415910": {
+      "appid": 3415910,
+      "name": "魔法细胞：无尽繁殖",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-28T05:34:53.959573"
+    },
+    "3416070": {
+      "appid": 3416070,
+      "name": "青蛙的空之绿洲",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-28T05:34:54.675173"
     }
   }
 }
