@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-28T16:05:26.113982"
+    "updated": "2025-10-28T16:36:38.042629"
   },
   "games": {
     "570": {
@@ -309202,6 +309202,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-28T15:56:03.547354"
+    },
+    "3006090": {
+      "appid": 3006090,
+      "name": "Crystant",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-28T16:26:48.938618"
     }
   }
 }
