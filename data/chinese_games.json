@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-28T09:35:01.892687"
+    "updated": "2025-10-28T10:26:10.271651"
   },
   "games": {
     "570": {
@@ -309122,6 +309122,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-28T09:22:46.019163"
+    },
+    "2767430": {
+      "appid": 2767430,
+      "name": "Wisps of the Elements",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-28T10:13:55.695656"
     }
   }
 }
