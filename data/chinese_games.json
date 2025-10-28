@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-28T01:03:37.571102"
+    "updated": "2025-10-28T02:44:41.779478"
   },
   "games": {
     "570": {
@@ -308874,6 +308874,38 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-28T00:51:31.357701"
+    },
+    "2752090": {
+      "appid": 2752090,
+      "name": "SCP Foundation Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-28T02:32:34.420856"
+    },
+    "3412620": {
+      "appid": 3412620,
+      "name": "Her Love, Like Poison",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-28T02:44:38.058411"
+    },
+    "3412860": {
+      "appid": 3412860,
+      "name": "Destiny Code - 圣钥使的传承 -",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-28T02:44:40.255207"
+    },
+    "3413000": {
+      "appid": 3413000,
+      "name": "你的可爱老婆",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-28T02:44:40.546829"
     }
   }
 }
