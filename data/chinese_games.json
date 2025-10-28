@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-28T06:05:09.199696"
+    "updated": "2025-10-28T06:38:29.369504"
   },
   "games": {
     "570": {
@@ -309018,6 +309018,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-28T06:05:05.700344"
+    },
+    "2756920": {
+      "appid": 2756920,
+      "name": "Keep Driving",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-28T06:26:12.071971"
     }
   }
 }
