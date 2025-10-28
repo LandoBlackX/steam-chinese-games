@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-27T23:55:51.792331"
+    "updated": "2025-10-28T01:03:37.571102"
   },
   "games": {
     "570": {
@@ -308866,6 +308866,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-27T23:55:51.790027"
+    },
+    "2750970": {
+      "appid": 2750970,
+      "name": "Backrooms: Facility Unknown",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-28T00:51:31.357701"
     }
   }
 }
