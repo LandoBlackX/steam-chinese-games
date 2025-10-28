@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-28T16:36:38.042629"
+    "updated": "2025-10-28T18:04:41.502265"
   },
   "games": {
     "570": {
@@ -309210,6 +309210,30 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-28T16:26:48.938618"
+    },
+    "3422090": {
+      "appid": 3422090,
+      "name": "BETWEEN",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-28T18:04:38.843836"
+    },
+    "3422130": {
+      "appid": 3422130,
+      "name": "The Last Corpse Forge : Survivor",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-28T18:04:39.679758"
+    },
+    "3422180": {
+      "appid": 3422180,
+      "name": "Sokobos 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-28T18:04:40.355220"
     }
   }
 }
