@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-29T16:07:50.175270"
+    "updated": "2025-10-29T18:06:36.432552"
   },
   "games": {
     "570": {
@@ -309554,6 +309554,30 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-29T15:59:43.220820"
+    },
+    "3433900": {
+      "appid": 3433900,
+      "name": "sanctale",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-29T18:06:33.310961"
+    },
+    "3434050": {
+      "appid": 3434050,
+      "name": "Queen Naeja's Desires",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-29T18:06:34.296961"
+    },
+    "3434210": {
+      "appid": 3434210,
+      "name": "Farmer’s Market Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-29T18:06:35.805086"
     }
   }
 }
