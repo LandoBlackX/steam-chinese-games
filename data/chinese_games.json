@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-29T05:28:58.726287"
+    "updated": "2025-10-29T06:41:16.219831"
   },
   "games": {
     "570": {
@@ -309418,6 +309418,30 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-29T04:43:34.503541"
+    },
+    "3431580": {
+      "appid": 3431580,
+      "name": "海边餐厅",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-29T06:41:15.207565"
+    },
+    "3431620": {
+      "appid": 3431620,
+      "name": "Kowloon 666",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-29T06:41:15.609582"
+    },
+    "3431680": {
+      "appid": 3431680,
+      "name": "Car Factory Empire",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-29T06:41:15.889812"
     }
   }
 }
