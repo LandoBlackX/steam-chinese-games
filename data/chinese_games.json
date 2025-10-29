@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-29T18:06:36.432552"
+    "updated": "2025-10-29T18:40:10.420392"
   },
   "games": {
     "570": {
@@ -309578,6 +309578,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-29T18:06:35.805086"
+    },
+    "2832130": {
+      "appid": 2832130,
+      "name": "一个插座",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-29T18:26:43.926893"
     }
   }
 }
