@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-28T22:27:54.213162"
+    "updated": "2025-10-29T04:43:34.786403"
   },
   "games": {
     "570": {
@@ -309386,6 +309386,38 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-28T22:27:54.210744"
+    },
+    "3428880": {
+      "appid": 3428880,
+      "name": "BRIO World - 铁路",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-29T04:43:15.785568"
+    },
+    "3429850": {
+      "appid": 3429850,
+      "name": "Winter Heat",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-29T04:43:32.142929"
+    },
+    "3429980": {
+      "appid": 3429980,
+      "name": "类地星球",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-29T04:43:32.934309"
+    },
+    "3430280": {
+      "appid": 3430280,
+      "name": "Seaward",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-29T04:43:34.503541"
     }
   }
 }
