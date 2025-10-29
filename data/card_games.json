@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-29T04:43:34.786403"
+    "updated": "2025-10-29T05:28:58.726287"
   },
   "games": {
     "570": {
@@ -88826,6 +88826,14 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-10-28T22:00:10.707526"
+    },
+    "3431020": {
+      "appid": 3431020,
+      "name": "Office Rivals",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-10-29T05:28:58.542069"
     }
   }
 }
