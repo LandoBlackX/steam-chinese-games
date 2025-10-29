@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-29T18:40:10.420392"
+    "updated": "2025-10-29T19:28:52.917383"
   },
   "games": {
     "570": {
@@ -309586,6 +309586,30 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-29T18:26:43.926893"
+    },
+    "3434340": {
+      "appid": 3434340,
+      "name": "Oblitus mortis",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-29T19:28:49.399497"
+    },
+    "3434720": {
+      "appid": 3434720,
+      "name": "躲猫猫音乐盒",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-29T19:28:51.931780"
+    },
+    "3434930": {
+      "appid": 3434930,
+      "name": "Desktop Engine",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-29T19:28:52.914784"
     }
   }
 }
