@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-29T12:43:11.391705"
+    "updated": "2025-10-29T13:32:29.826556"
   },
   "games": {
     "570": {
@@ -309498,6 +309498,46 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-29T12:30:06.236837"
+    },
+    "2821110": {
+      "appid": 2821110,
+      "name": "颠覆回忆 - Subversive Memories",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-29T13:18:18.985170"
+    },
+    "2821450": {
+      "appid": 2821450,
+      "name": "Sands of Hope",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-29T13:18:20.792809"
+    },
+    "3432860": {
+      "appid": 3432860,
+      "name": "异病侦探",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-29T13:32:27.309035"
+    },
+    "3432920": {
+      "appid": 3432920,
+      "name": "Cozy Forge: Blacksmith Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-29T13:32:27.691098"
+    },
+    "3433080": {
+      "appid": 3433080,
+      "name": "Cube & Seek",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-29T13:32:28.818776"
     }
   }
 }
