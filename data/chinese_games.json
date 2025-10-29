@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-29T19:28:52.917383"
+    "updated": "2025-10-29T19:58:34.826937"
   },
   "games": {
     "570": {
@@ -309610,6 +309610,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-29T19:28:52.914784"
+    },
+    "3435620": {
+      "appid": 3435620,
+      "name": "记忆园丁",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-29T19:58:34.825336"
     }
   }
 }
