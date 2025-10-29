@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-29T06:41:16.219831"
+    "updated": "2025-10-29T08:40:36.541567"
   },
   "games": {
     "570": {
@@ -309442,6 +309442,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-29T06:41:15.889812"
+    },
+    "2812420": {
+      "appid": 2812420,
+      "name": "Holiday Motel Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-29T08:26:25.504892"
+    },
+    "3432440": {
+      "appid": 3432440,
+      "name": "Phantomware 0",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-29T08:40:36.539221"
     }
   }
 }
