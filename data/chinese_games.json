@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-29T09:29:08.110456"
+    "updated": "2025-10-29T12:43:11.391705"
   },
   "games": {
     "570": {
@@ -309490,6 +309490,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-29T09:29:07.256199"
+    },
+    "2820610": {
+      "appid": 2820610,
+      "name": "Bleaklight Falls",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-29T12:30:06.236837"
     }
   }
 }
