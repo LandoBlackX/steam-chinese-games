@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-30T04:38:34.029224"
+    "updated": "2025-10-30T05:28:49.371240"
   },
   "games": {
     "570": {
@@ -309762,6 +309762,38 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-30T04:38:33.022802"
+    },
+    "3438810": {
+      "appid": 3438810,
+      "name": "美少女梦工场 : 预言之子",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-30T05:28:45.765756"
+    },
+    "3438820": {
+      "appid": 3438820,
+      "name": "Astra Quest",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-30T05:28:45.985666"
+    },
+    "3439310": {
+      "appid": 3439310,
+      "name": "Storytime Cats - A Twilight Tale",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-30T05:28:48.477716"
+    },
+    "3439440": {
+      "appid": 3439440,
+      "name": "Hunted Within: The Walls",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-30T05:28:48.830954"
     }
   }
 }
