@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-30T15:36:59.498667"
+    "updated": "2025-10-30T16:08:00.185496"
   },
   "games": {
     "570": {
@@ -310058,6 +310058,30 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-30T15:36:58.825517"
+    },
+    "3446840": {
+      "appid": 3446840,
+      "name": "RogueJack21",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-30T16:07:56.829582"
+    },
+    "3446960": {
+      "appid": 3446960,
+      "name": "魔亦佛",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-30T16:07:58.260030"
+    },
+    "3447000": {
+      "appid": 3447000,
+      "name": "米姆米姆哈",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-30T16:07:58.746644"
     }
   }
 }
