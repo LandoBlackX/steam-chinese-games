@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-30T16:38:33.906940"
+    "updated": "2025-10-30T17:36:41.041193"
   },
   "games": {
     "570": {
@@ -310098,6 +310098,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-30T16:38:30.372146"
+    },
+    "2421320": {
+      "appid": 2421320,
+      "name": "在賽博世界和100個道侶雙修",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-30T17:17:25.269456"
     }
   }
 }
