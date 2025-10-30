@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-30T01:10:03.046168"
+    "updated": "2025-10-30T02:53:10.294817"
   },
   "games": {
     "570": {
@@ -309746,6 +309746,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-30T01:10:02.738095"
+    },
+    "3437850": {
+      "appid": 3437850,
+      "name": "Propaganda vs. Zombies",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-30T02:53:08.751481"
     }
   }
 }
