@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-30T19:58:26.884067"
+    "updated": "2025-10-30T20:28:48.300918"
   },
   "games": {
     "570": {
@@ -310162,6 +310162,38 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-30T19:58:26.881850"
+    },
+    "3450270": {
+      "appid": 3450270,
+      "name": "DineInn",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-30T20:28:43.537793"
+    },
+    "3450310": {
+      "appid": 3450310,
+      "name": "Europa Universalis V",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-30T20:28:44.179829"
+    },
+    "3451040": {
+      "appid": 3451040,
+      "name": "Champions City",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-30T20:28:47.007816"
+    },
+    "3451110": {
+      "appid": 3451110,
+      "name": "Pulp Action Shotgun",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-30T20:28:47.366597"
     }
   }
 }
