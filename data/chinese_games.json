@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-30T08:01:07.786138"
+    "updated": "2025-10-30T08:39:30.020954"
   },
   "games": {
     "570": {
@@ -309842,6 +309842,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-30T08:01:04.904258"
+    },
+    "2481810": {
+      "appid": 2481810,
+      "name": "喵喵工坊",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-30T08:20:52.979962"
     }
   }
 }
