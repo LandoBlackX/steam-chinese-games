@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-30T08:39:30.020954"
+    "updated": "2025-10-30T09:37:09.024586"
   },
   "games": {
     "570": {
@@ -309850,6 +309850,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-30T08:20:52.979962"
+    },
+    "3129560": {
+      "appid": 3129560,
+      "name": "Last Spartan: Glory Over Madness",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-30T09:27:31.295563"
     }
   }
 }
