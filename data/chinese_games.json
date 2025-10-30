@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-30T06:40:59.325895"
+    "updated": "2025-10-30T08:01:07.786138"
   },
   "games": {
     "570": {
@@ -309826,6 +309826,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-30T06:40:56.896925"
+    },
+    "3441420": {
+      "appid": 3441420,
+      "name": "Dustbound",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-30T08:01:04.350361"
+    },
+    "3441550": {
+      "appid": 3441550,
+      "name": "感染者大逃亡",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-30T08:01:04.904258"
     }
   }
 }
