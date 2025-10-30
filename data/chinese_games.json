@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-30T18:07:05.555335"
+    "updated": "2025-10-30T18:40:18.777765"
   },
   "games": {
     "570": {
@@ -310114,6 +310114,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-30T18:06:51.669944"
+    },
+    "3448750": {
+      "appid": 3448750,
+      "name": "Frog Jump",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-30T18:40:16.131889"
+    },
+    "3449040": {
+      "appid": 3449040,
+      "name": "魔鸡马奇克 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-30T18:40:18.631327"
     }
   }
 }
