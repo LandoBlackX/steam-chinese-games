@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-30T06:05:49.684722"
+    "updated": "2025-10-30T06:40:59.325895"
   },
   "games": {
     "570": {
@@ -309818,6 +309818,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-30T06:05:49.682600"
+    },
+    "3440890": {
+      "appid": 3440890,
+      "name": "字母B的受难日",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-30T06:40:56.896925"
     }
   }
 }
