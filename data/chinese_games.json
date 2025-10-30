@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-30T02:53:10.294817"
+    "updated": "2025-10-30T04:38:34.029224"
   },
   "games": {
     "570": {
@@ -309754,6 +309754,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-30T02:53:08.751481"
+    },
+    "3438640": {
+      "appid": 3438640,
+      "name": "Dicey Bugs",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-30T04:38:33.022802"
     }
   }
 }
