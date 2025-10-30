@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-30T10:28:54.310391"
+    "updated": "2025-10-30T12:43:54.943724"
   },
   "games": {
     "570": {
@@ -309890,6 +309890,38 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-30T10:28:54.307947"
+    },
+    "3443630": {
+      "appid": 3443630,
+      "name": "动友餐厅",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-30T12:43:51.666034"
+    },
+    "3443660": {
+      "appid": 3443660,
+      "name": "Love Comp",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-30T12:43:51.850048"
+    },
+    "3443790": {
+      "appid": 3443790,
+      "name": "Throw A Life!",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-30T12:43:52.633645"
+    },
+    "3444010": {
+      "appid": 3444010,
+      "name": "The Chroma:来自荒野的色彩",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-30T12:43:53.986310"
     }
   }
 }
