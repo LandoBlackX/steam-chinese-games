@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-30T13:31:55.434504"
+    "updated": "2025-10-30T14:29:28.689806"
   },
   "games": {
     "570": {
@@ -309946,6 +309946,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-30T13:31:53.936216"
+    },
+    "3445110": {
+      "appid": 3445110,
+      "name": "Ice Cream Together: A Cozy Parlor Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-30T14:29:24.697465"
+    },
+    "3445340": {
+      "appid": 3445340,
+      "name": "Sandwich Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-30T14:29:26.529535"
     }
   }
 }
