@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-30T22:29:13.900504"
+    "updated": "2025-10-30T23:59:56.470938"
   },
   "games": {
     "570": {
@@ -88850,6 +88850,14 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-10-30T15:36:56.505793"
+    },
+    "307600": {
+      "appid": 307600,
+      "name": "Chainsaw Warrior: Lords of the Night",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-10-30T23:32:27.565897"
     }
   }
 }
