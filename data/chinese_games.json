@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-30T05:28:49.371240"
+    "updated": "2025-10-30T06:05:49.684722"
   },
   "games": {
     "570": {
@@ -309794,6 +309794,30 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-30T05:28:48.830954"
+    },
+    "2843640": {
+      "appid": 2843640,
+      "name": "奇果工坊 (Idle Colony)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-30T05:52:03.328103"
+    },
+    "3439970": {
+      "appid": 3439970,
+      "name": "Elsewhere Electric",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-30T06:05:49.046378"
+    },
+    "3440010": {
+      "appid": 3440010,
+      "name": "Puzkin: Magnetic Odyssey",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-30T06:05:49.682600"
     }
   }
 }
