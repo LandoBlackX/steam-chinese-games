@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-30T12:43:54.943724"
+    "updated": "2025-10-30T13:31:55.434504"
   },
   "games": {
     "570": {
@@ -309922,6 +309922,30 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-30T12:43:53.986310"
+    },
+    "3444220": {
+      "appid": 3444220,
+      "name": "牛马",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-30T13:31:40.054231"
+    },
+    "3444630": {
+      "appid": 3444630,
+      "name": "Coastal Kitchen Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-30T13:31:52.915145"
+    },
+    "3444780": {
+      "appid": 3444780,
+      "name": "机制工坊",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-30T13:31:53.936216"
     }
   }
 }
