@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-30T09:37:09.024586"
+    "updated": "2025-10-30T10:28:54.310391"
   },
   "games": {
     "570": {
@@ -309858,6 +309858,38 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-30T09:27:31.295563"
+    },
+    "3442960": {
+      "appid": 3442960,
+      "name": "孤星之潮-Tide of Lone Stars-",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-30T10:28:52.184977"
+    },
+    "3443060": {
+      "appid": 3443060,
+      "name": "Rogue Mafia",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-30T10:28:52.559387"
+    },
+    "3443080": {
+      "appid": 3443080,
+      "name": "黄金废都 Auridia",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-30T10:28:52.680535"
+    },
+    "3443480": {
+      "appid": 3443480,
+      "name": "蛊真人 GU ZHEN REN  Reverend Insanity",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-30T10:28:54.307947"
     }
   }
 }
