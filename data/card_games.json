@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-30T14:29:28.689806"
+    "updated": "2025-10-30T15:36:59.498667"
   },
   "games": {
     "570": {
@@ -88834,6 +88834,22 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-10-29T05:28:58.542069"
+    },
+    "3446170": {
+      "appid": 3446170,
+      "name": "青空下的约定― Refine",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-10-30T15:36:56.344247"
+    },
+    "3446190": {
+      "appid": 3446190,
+      "name": "Hatsune Miku Logic Paint S+",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-10-30T15:36:56.505793"
     }
   }
 }
