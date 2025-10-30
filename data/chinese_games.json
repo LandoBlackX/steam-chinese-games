@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-30T22:01:13.264453"
+    "updated": "2025-10-30T22:29:13.900504"
   },
   "games": {
     "570": {
@@ -310202,6 +310202,62 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-30T22:01:11.502390"
+    },
+    "3452060": {
+      "appid": 3452060,
+      "name": "Tiny Takedowns",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-30T22:29:10.433706"
+    },
+    "3452170": {
+      "appid": 3452170,
+      "name": "Sky Resort 3",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-30T22:29:11.139085"
+    },
+    "3452240": {
+      "appid": 3452240,
+      "name": "Mayday Trials",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-30T22:29:11.305810"
+    },
+    "3452320": {
+      "appid": 3452320,
+      "name": "东方龙华传 - The Gatekeeper of Scarlet's Mansion",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-30T22:29:12.143789"
+    },
+    "3452670": {
+      "appid": 3452670,
+      "name": "妄生 - Wandering Souls",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-30T22:29:13.268488"
+    },
+    "3452720": {
+      "appid": 3452720,
+      "name": "太吾异世劫",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-30T22:29:13.739203"
+    },
+    "3452740": {
+      "appid": 3452740,
+      "name": "Oil Refinery - The Simulation",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-30T22:29:13.898598"
     }
   }
 }
