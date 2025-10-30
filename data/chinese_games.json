@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-29T22:29:12.679231"
+    "updated": "2025-10-30T01:10:03.046168"
   },
   "games": {
     "570": {
@@ -309722,6 +309722,30 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-29T22:15:21.714320"
+    },
+    "3437010": {
+      "appid": 3437010,
+      "name": "Reaper Recon",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-30T01:10:00.405617"
+    },
+    "3437220": {
+      "appid": 3437220,
+      "name": "里垢女子的非常规攻略法",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-30T01:10:01.956299"
+    },
+    "3437350": {
+      "appid": 3437350,
+      "name": "Little Aviary",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-30T01:10:02.738095"
     }
   }
 }
