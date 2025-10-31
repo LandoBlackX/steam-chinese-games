@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-31T10:29:45.682536"
+    "updated": "2025-10-31T11:25:44.766276"
   },
   "games": {
     "570": {
@@ -310530,6 +310530,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-31T10:29:45.541181"
+    },
+    "2879980": {
+      "appid": 2879980,
+      "name": "好杂鱼鸭",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-31T11:15:28.911992"
+    },
+    "2937940": {
+      "appid": 2937940,
+      "name": "无人岛社员旅行记　～雌性间的生存战争～",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-31T11:16:15.468970"
     }
   }
 }
