@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-31T05:38:17.554067"
+    "updated": "2025-10-31T06:07:16.530619"
   },
   "games": {
     "570": {
@@ -310378,6 +310378,30 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-31T05:24:49.633150"
+    },
+    "2873300": {
+      "appid": 2873300,
+      "name": "Mannequin House",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-31T05:53:10.253296"
+    },
+    "3454480": {
+      "appid": 3454480,
+      "name": "Gnaughty Gnomes",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-31T06:07:13.997592"
+    },
+    "3454630": {
+      "appid": 3454630,
+      "name": "放置飞船",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-31T06:07:15.198813"
     }
   }
 }
