@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-31T16:06:26.295966"
+    "updated": "2025-10-31T16:39:01.257065"
   },
   "games": {
     "570": {
@@ -310586,6 +310586,38 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-31T15:52:27.398413"
+    },
+    "3461150": {
+      "appid": 3461150,
+      "name": "Blood Vow: Survive the Night",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-31T16:38:54.113443"
+    },
+    "3461270": {
+      "appid": 3461270,
+      "name": "异星家园",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-31T16:38:54.675877"
+    },
+    "3461620": {
+      "appid": 3461620,
+      "name": "跨越次元壁的光污染",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-31T16:38:57.425977"
+    },
+    "3461800": {
+      "appid": 3461800,
+      "name": "Devil Jam",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-31T16:38:57.585992"
     }
   }
 }
