@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-31T18:41:19.381356"
+    "updated": "2025-10-31T19:29:28.181765"
   },
   "games": {
     "570": {
@@ -310642,6 +310642,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-31T18:41:15.372577"
+    },
+    "2890980": {
+      "appid": 2890980,
+      "name": "Sector Unknown - Prologue",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-31T19:15:20.864140"
     }
   }
 }
