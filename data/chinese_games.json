@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-31T21:29:49.587404"
+    "updated": "2025-10-31T21:58:59.040934"
   },
   "games": {
     "570": {
@@ -310690,6 +310690,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-31T21:29:47.903337"
+    },
+    "3426670": {
+      "appid": 3426670,
+      "name": "Reactonix Sandbox",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-31T21:57:13.928310"
     }
   }
 }
