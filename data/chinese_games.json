@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-31T06:07:16.530619"
+    "updated": "2025-10-31T06:42:01.135313"
   },
   "games": {
     "570": {
@@ -310402,6 +310402,46 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-31T06:07:15.198813"
+    },
+    "3455160": {
+      "appid": 3455160,
+      "name": "破碎纪元：斗智牌",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-31T06:41:57.404921"
+    },
+    "3455320": {
+      "appid": 3455320,
+      "name": "超级免疫",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-31T06:41:57.588271"
+    },
+    "3456230": {
+      "appid": 3456230,
+      "name": "Dotu",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-31T06:41:58.641297"
+    },
+    "3456480": {
+      "appid": 3456480,
+      "name": "魔法幸存者",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-31T06:41:59.579086"
+    },
+    "3456800": {
+      "appid": 3456800,
+      "name": "岩石破碎机 | Rock Crusher",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-31T06:42:01.132869"
     }
   }
 }
