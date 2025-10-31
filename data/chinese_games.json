@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-31T19:59:38.292421"
+    "updated": "2025-10-31T21:29:49.587404"
   },
   "games": {
     "570": {
@@ -310674,6 +310674,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-31T19:59:37.935328"
+    },
+    "3464970": {
+      "appid": 3464970,
+      "name": "无境空界",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-31T21:29:47.719539"
+    },
+    "3465010": {
+      "appid": 3465010,
+      "name": "Stringate",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-31T21:29:47.903337"
     }
   }
 }
