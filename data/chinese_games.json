@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-31T21:58:59.040934"
+    "updated": "2025-10-31T22:29:40.163786"
   },
   "games": {
     "570": {
@@ -310698,6 +310698,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-31T21:57:13.928310"
+    },
+    "3465780": {
+      "appid": 3465780,
+      "name": "Super Golden Odyssey: 3D Platformer World",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-31T22:29:36.799895"
+    },
+    "3466030": {
+      "appid": 3466030,
+      "name": "暗门",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-31T22:29:37.935816"
     }
   }
 }
