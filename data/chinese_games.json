@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-31T11:25:44.766276"
+    "updated": "2025-10-31T12:45:09.646843"
   },
   "games": {
     "570": {
@@ -310546,6 +310546,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-31T11:16:15.468970"
+    },
+    "3458900": {
+      "appid": 3458900,
+      "name": "Problem Solved",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-31T12:45:05.637778"
     }
   }
 }
