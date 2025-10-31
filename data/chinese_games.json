@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-31T01:08:46.354820"
+    "updated": "2025-10-31T02:51:40.012631"
   },
   "games": {
     "570": {
@@ -310314,6 +310314,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-31T01:08:46.352267"
+    },
+    "3453840": {
+      "appid": 3453840,
+      "name": "Dead Spaceshot",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-31T02:51:37.812983"
+    },
+    "3453900": {
+      "appid": 3453900,
+      "name": "Micromega",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-31T02:51:38.010631"
     }
   }
 }
