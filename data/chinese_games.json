@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-31T04:40:35.758659"
+    "updated": "2025-10-31T05:38:17.554067"
   },
   "games": {
     "570": {
@@ -310354,6 +310354,30 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-31T04:26:32.505342"
+    },
+    "2871820": {
+      "appid": 2871820,
+      "name": "祟り坂 | TATARI Curse road",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-31T05:24:03.558360"
+    },
+    "2871960": {
+      "appid": 2871960,
+      "name": "电商大亨",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-31T05:24:04.594763"
+    },
+    "2944540": {
+      "appid": 2944540,
+      "name": "Cryselts",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-31T05:24:49.633150"
     }
   }
 }
