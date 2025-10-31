@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-31T08:01:43.386423"
+    "updated": "2025-10-31T08:39:52.900524"
   },
   "games": {
     "570": {
@@ -310498,6 +310498,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-31T08:01:41.942091"
+    },
+    "3457800": {
+      "appid": 3457800,
+      "name": "BARABIZNA",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-31T08:39:51.578871"
     }
   }
 }
