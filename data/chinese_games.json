@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-31T19:29:28.181765"
+    "updated": "2025-10-31T19:59:38.292421"
   },
   "games": {
     "570": {
@@ -310650,6 +310650,30 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-31T19:15:20.864140"
+    },
+    "3464370": {
+      "appid": 3464370,
+      "name": "萨妮羊研究室",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-31T19:59:36.324016"
+    },
+    "3464570": {
+      "appid": 3464570,
+      "name": "16岁怀孕",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-31T19:59:37.167073"
+    },
+    "3464670": {
+      "appid": 3464670,
+      "name": "Dead Watch",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-31T19:59:37.935328"
     }
   }
 }
