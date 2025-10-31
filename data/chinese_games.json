@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-31T15:29:54.454824"
+    "updated": "2025-10-31T16:06:26.295966"
   },
   "games": {
     "570": {
@@ -310578,6 +310578,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-31T15:29:53.920001"
+    },
+    "2887580": {
+      "appid": 2887580,
+      "name": "Active Matter",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-31T15:52:27.398413"
     }
   }
 }
