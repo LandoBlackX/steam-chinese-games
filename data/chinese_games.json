@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-31T13:30:56.325359"
+    "updated": "2025-10-31T15:29:54.454824"
   },
   "games": {
     "570": {
@@ -310562,6 +310562,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-31T13:16:53.088458"
+    },
+    "3460110": {
+      "appid": 3460110,
+      "name": "天地有私，宿命之主",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-31T15:29:51.136164"
+    },
+    "3460770": {
+      "appid": 3460770,
+      "name": "Rogue Melee",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-31T15:29:53.920001"
     }
   }
 }
