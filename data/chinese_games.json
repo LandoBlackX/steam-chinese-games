@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-31T06:42:01.135313"
+    "updated": "2025-10-31T07:31:06.287638"
   },
   "games": {
     "570": {
@@ -310442,6 +310442,30 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-31T06:42:01.132869"
+    },
+    "3456880": {
+      "appid": 3456880,
+      "name": "Pinball Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-31T07:31:05.422236"
+    },
+    "3456930": {
+      "appid": 3456930,
+      "name": "Pure Pool Pro",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-31T07:31:05.939342"
+    },
+    "3456950": {
+      "appid": 3456950,
+      "name": "Pixel Gun 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-31T07:31:06.284887"
     }
   }
 }
