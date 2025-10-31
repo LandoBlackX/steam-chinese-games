@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-31T07:31:06.287638"
+    "updated": "2025-10-31T08:01:43.386423"
   },
   "games": {
     "570": {
@@ -310466,6 +310466,38 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-31T07:31:06.284887"
+    },
+    "3456970": {
+      "appid": 3456970,
+      "name": "Death Kid",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-31T08:01:40.386428"
+    },
+    "3457140": {
+      "appid": 3457140,
+      "name": "鸡哥守护者",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-31T08:01:40.692627"
+    },
+    "3457230": {
+      "appid": 3457230,
+      "name": "Idle Critter Adventure 放置生物探险队",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-31T08:01:41.461286"
+    },
+    "3457390": {
+      "appid": 3457390,
+      "name": "Little Wings Deliveries",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-31T08:01:41.942091"
     }
   }
 }
