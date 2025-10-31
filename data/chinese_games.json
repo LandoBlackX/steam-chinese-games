@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-31T22:29:40.163786"
+    "updated": "2025-10-31T23:05:24.011150"
   },
   "games": {
     "570": {
@@ -310714,6 +310714,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-31T22:29:37.935816"
+    },
+    "3466370": {
+      "appid": 3466370,
+      "name": "Mystic Tesserae",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-31T23:05:23.671595"
     }
   }
 }
