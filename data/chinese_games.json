@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-31T08:39:52.900524"
+    "updated": "2025-10-31T10:29:45.682536"
   },
   "games": {
     "570": {
@@ -310506,6 +310506,30 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-31T08:39:51.578871"
+    },
+    "3458500": {
+      "appid": 3458500,
+      "name": "Lichgate: Tower Survivor",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-31T10:29:44.353960"
+    },
+    "3458750": {
+      "appid": 3458750,
+      "name": "星际逃亡",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-31T10:29:45.245674"
+    },
+    "3458810": {
+      "appid": 3458810,
+      "name": "齐天破界",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-31T10:29:45.541181"
     }
   }
 }
