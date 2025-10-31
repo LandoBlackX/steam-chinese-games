@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-31T02:51:40.012631"
+    "updated": "2025-10-31T04:40:35.758659"
   },
   "games": {
     "570": {
@@ -88858,6 +88858,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-10-30T23:32:27.565897"
+    },
+    "2870350": {
+      "appid": 2870350,
+      "name": "Pipistrello and the Cursed Yoyo",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-10-31T04:26:19.437599"
     }
   }
 }

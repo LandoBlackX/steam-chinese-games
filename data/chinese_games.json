@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-31T02:51:40.012631"
+    "updated": "2025-10-31T04:40:35.758659"
   },
   "games": {
     "570": {
@@ -310330,6 +310330,30 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-31T02:51:38.010631"
+    },
+    "2708040": {
+      "appid": 2708040,
+      "name": "Triarchy",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-31T04:23:37.110726"
+    },
+    "2870340": {
+      "appid": 2870340,
+      "name": "驯牌师 Decktamer",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-31T04:26:19.257137"
+    },
+    "2870620": {
+      "appid": 2870620,
+      "name": "Wild Mars",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-31T04:26:32.505342"
     }
   }
 }
