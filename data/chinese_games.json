@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-31T16:39:01.257065"
+    "updated": "2025-10-31T18:41:19.381356"
   },
   "games": {
     "570": {
@@ -310618,6 +310618,30 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-31T16:38:57.585992"
+    },
+    "3462340": {
+      "appid": 3462340,
+      "name": "Monkey Testing",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-31T18:41:12.843804"
+    },
+    "3462820": {
+      "appid": 3462820,
+      "name": "Cosmik Storm",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-31T18:41:14.123946"
+    },
+    "3463020": {
+      "appid": 3463020,
+      "name": "Phantom House",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-31T18:41:15.372577"
     }
   }
 }
