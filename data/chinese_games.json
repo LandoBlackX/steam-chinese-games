@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-30T23:59:56.470938"
+    "updated": "2025-10-31T01:08:46.354820"
   },
   "games": {
     "570": {
@@ -310306,6 +310306,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-30T23:59:56.050544"
+    },
+    "3453530": {
+      "appid": 3453530,
+      "name": "Coffie Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-10-31T01:08:46.352267"
     }
   }
 }
