@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-11-01T19:59:20.826784"
+    "updated": "2025-11-01T20:29:22.573485"
   },
   "games": {
     "570": {
@@ -311242,6 +311242,54 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-11-01T19:59:19.816556"
+    },
+    "3481020": {
+      "appid": 3481020,
+      "name": "恶魔牌",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-01T20:29:16.263874"
+    },
+    "3481030": {
+      "appid": 3481030,
+      "name": "果汁狂潮",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-01T20:29:16.412562"
+    },
+    "3481240": {
+      "appid": 3481240,
+      "name": "恶女豪宅逃走中",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-01T20:29:17.721930"
+    },
+    "3481320": {
+      "appid": 3481320,
+      "name": "Deckline",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-01T20:29:18.187191"
+    },
+    "3481610": {
+      "appid": 3481610,
+      "name": "Hopetown",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-01T20:29:19.812431"
+    },
+    "3481910": {
+      "appid": 3481910,
+      "name": "Innocent Au-pair",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-01T20:29:21.486502"
     }
   }
 }
