@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-10-31T23:59:12.793132"
+    "updated": "2025-11-01T02:53:17.414293"
   },
   "games": {
     "570": {
@@ -310786,6 +310786,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-10-31T23:59:11.147550"
+    },
+    "3468400": {
+      "appid": 3468400,
+      "name": "Log Away",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-01T02:53:15.257040"
     }
   }
 }
