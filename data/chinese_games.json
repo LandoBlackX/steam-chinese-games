@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-11-01T16:29:28.488251"
+    "updated": "2025-11-01T17:29:56.765711"
   },
   "games": {
     "570": {
@@ -311138,6 +311138,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-11-01T16:29:28.486232"
+    },
+    "3478050": {
+      "appid": 3478050,
+      "name": "女王的游戏：盛世天下-媚娘篇",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-01T17:29:56.763830"
     }
   }
 }
