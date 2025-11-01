@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-11-01T15:29:42.288014"
+    "updated": "2025-11-01T16:29:28.488251"
   },
   "games": {
     "570": {
@@ -311114,6 +311114,30 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-11-01T15:15:44.683886"
+    },
+    "3477080": {
+      "appid": 3477080,
+      "name": "Tree Kingdoms",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-01T16:29:23.096428"
+    },
+    "3477890": {
+      "appid": 3477890,
+      "name": "Furball Over the Front",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-01T16:29:27.700386"
+    },
+    "3478020": {
+      "appid": 3478020,
+      "name": "与不登校妹妹一起的30天",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-01T16:29:28.486232"
     }
   }
 }
