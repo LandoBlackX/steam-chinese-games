@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-11-01T20:29:22.573485"
+    "updated": "2025-11-01T21:59:58.072392"
   },
   "games": {
     "570": {
@@ -311290,6 +311290,46 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-11-01T20:29:21.486502"
+    },
+    "3482510": {
+      "appid": 3482510,
+      "name": "打包人生",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-01T21:59:30.902047"
+    },
+    "3483330": {
+      "appid": 3483330,
+      "name": "Balls Up",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-01T21:59:32.612816"
+    },
+    "3484010": {
+      "appid": 3484010,
+      "name": "Immortum",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-01T21:59:33.748724"
+    },
+    "3484390": {
+      "appid": 3484390,
+      "name": "EA SPORTS FC™ 26",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-01T21:59:57.763826"
+    },
+    "3484440": {
+      "appid": 3484440,
+      "name": "EA SPORTS FC™ 26",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-01T21:59:57.931723"
     }
   }
 }
