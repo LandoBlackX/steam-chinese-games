@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-11-01T19:29:45.506589"
+    "updated": "2025-11-01T19:59:20.826784"
   },
   "games": {
     "570": {
@@ -311218,6 +311218,30 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-11-01T19:29:45.057979"
+    },
+    "3480540": {
+      "appid": 3480540,
+      "name": "Keyboard Warrior Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-01T19:59:17.912435"
+    },
+    "3480640": {
+      "appid": 3480640,
+      "name": "战玲珑2：骑战",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-01T19:59:18.241235"
+    },
+    "3480790": {
+      "appid": 3480790,
+      "name": "月下梦景",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-01T19:59:19.816556"
     }
   }
 }
