@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-11-01T10:29:47.516601"
+    "updated": "2025-11-01T11:29:45.931210"
   },
   "games": {
     "570": {
@@ -311042,6 +311042,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-11-01T10:29:46.914442"
+    },
+    "2907320": {
+      "appid": 2907320,
+      "name": "Kings Origin",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-01T11:15:46.412137"
     }
   }
 }
