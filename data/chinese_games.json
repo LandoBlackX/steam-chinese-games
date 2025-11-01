@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-11-01T18:38:30.676547"
+    "updated": "2025-11-01T19:29:45.506589"
   },
   "games": {
     "570": {
@@ -311202,6 +311202,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-11-01T18:38:29.145523"
+    },
+    "3479640": {
+      "appid": 3479640,
+      "name": "Sunny Blooms Garden Center",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-01T19:29:31.265836"
+    },
+    "3480340": {
+      "appid": 3480340,
+      "name": "BootUp! TD",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-01T19:29:45.057979"
     }
   }
 }
