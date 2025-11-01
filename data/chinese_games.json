@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-11-01T11:29:45.931210"
+    "updated": "2025-11-01T11:59:06.538610"
   },
   "games": {
     "570": {
@@ -311050,6 +311050,46 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-11-01T11:15:46.412137"
+    },
+    "3447920": {
+      "appid": 3447920,
+      "name": "The Run",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-01T11:58:20.378518"
+    },
+    "3475430": {
+      "appid": 3475430,
+      "name": "Operation HOPE - Tower Defense",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-01T11:59:02.969902"
+    },
+    "3475490": {
+      "appid": 3475490,
+      "name": "Sinoda",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-01T11:59:03.287664"
+    },
+    "3475770": {
+      "appid": 3475770,
+      "name": "元卡牌之背包传说",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-01T11:59:05.662096"
+    },
+    "3475800": {
+      "appid": 3475800,
+      "name": "ガチムチでドスケベな家庭教師のお兄さんと過ごす春",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-01T11:59:05.858889"
     }
   }
 }
