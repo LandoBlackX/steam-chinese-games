@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-11-01T18:00:00.748387"
+    "updated": "2025-11-01T18:38:30.676547"
   },
   "games": {
     "570": {
@@ -311162,6 +311162,46 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-11-01T18:00:00.746416"
+    },
+    "3478560": {
+      "appid": 3478560,
+      "name": "void future",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-01T18:38:26.392341"
+    },
+    "3478590": {
+      "appid": 3478590,
+      "name": "十二影Twelves:Shadow",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-01T18:38:26.533714"
+    },
+    "3478650": {
+      "appid": 3478650,
+      "name": "FreshWomen - Season 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-01T18:38:26.938144"
+    },
+    "3478700": {
+      "appid": 3478700,
+      "name": "The Children of Clay",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-01T18:38:27.233178"
+    },
+    "3479140": {
+      "appid": 3479140,
+      "name": "Zen Aquarium",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-01T18:38:29.145523"
     }
   }
 }
