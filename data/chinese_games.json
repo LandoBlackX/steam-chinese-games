@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-11-01T06:05:26.502414"
+    "updated": "2025-11-01T06:39:56.161278"
   },
   "games": {
     "570": {
@@ -310866,6 +310866,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-11-01T06:05:25.614126"
+    },
+    "3471390": {
+      "appid": 3471390,
+      "name": "Escaping Wonderland",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-01T06:39:56.158660"
     }
   }
 }
