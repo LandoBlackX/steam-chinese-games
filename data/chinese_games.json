@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-11-01T07:29:29.379010"
+    "updated": "2025-11-01T07:58:57.011692"
   },
   "games": {
     "570": {
@@ -310890,6 +310890,30 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-11-01T07:29:28.894315"
+    },
+    "2903160": {
+      "appid": 2903160,
+      "name": "Midori no Kaori",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-01T07:44:52.839950"
+    },
+    "3472410": {
+      "appid": 3472410,
+      "name": "Mini Eco",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-01T07:58:54.015054"
+    },
+    "3472550": {
+      "appid": 3472550,
+      "name": "The Mr. Rabbit Magic Show",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-01T07:58:55.054880"
     }
   }
 }
