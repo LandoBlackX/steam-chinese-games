@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-11-01T09:58:11.779395"
+    "updated": "2025-11-01T10:29:47.516601"
   },
   "games": {
     "570": {
@@ -310986,6 +310986,62 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-11-01T09:47:20.227950"
+    },
+    "3474290": {
+      "appid": 3474290,
+      "name": "Steamshot – Steam Screenshot Manager",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-01T10:29:40.160500"
+    },
+    "3474390": {
+      "appid": 3474390,
+      "name": "BOILED",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-01T10:29:41.009220"
+    },
+    "3474400": {
+      "appid": 3474400,
+      "name": "Shadows of the Past",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-01T10:29:41.250716"
+    },
+    "3474700": {
+      "appid": 3474700,
+      "name": "Plant Nursery Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-01T10:29:43.079781"
+    },
+    "3474800": {
+      "appid": 3474800,
+      "name": "Highrise",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-01T10:29:43.610205"
+    },
+    "3475220": {
+      "appid": 3475220,
+      "name": "绵羊岛",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-01T10:29:46.522727"
+    },
+    "3475250": {
+      "appid": 3475250,
+      "name": "Firefly Forge: Autumn Bastion",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-01T10:29:46.914442"
     }
   }
 }
