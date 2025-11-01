@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-11-01T08:38:34.773235"
+    "updated": "2025-11-01T09:07:49.928416"
   },
   "games": {
     "570": {
@@ -310970,6 +310970,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-11-01T08:38:34.613231"
+    },
+    "3474070": {
+      "appid": 3474070,
+      "name": "Magnavis",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-01T09:07:48.270219"
     }
   }
 }
