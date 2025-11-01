@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-11-01T09:07:49.928416"
+    "updated": "2025-11-01T09:58:11.779395"
   },
   "games": {
     "570": {
@@ -310978,6 +310978,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-11-01T09:07:48.270219"
+    },
+    "2906070": {
+      "appid": 2906070,
+      "name": "Blood Reaver",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-01T09:47:20.227950"
     }
   }
 }
