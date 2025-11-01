@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-11-01T02:53:17.414293"
+    "updated": "2025-11-01T04:30:02.929159"
   },
   "games": {
     "570": {
@@ -310794,6 +310794,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-11-01T02:53:15.257040"
+    },
+    "3469220": {
+      "appid": 3469220,
+      "name": "Sally's House",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-01T04:30:00.877306"
+    },
+    "3469230": {
+      "appid": 3469230,
+      "name": "Baki Hanma: Blood Arena",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-01T04:30:01.038248"
     }
   }
 }
