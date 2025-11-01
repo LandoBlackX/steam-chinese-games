@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-11-01T11:59:06.538610"
+    "updated": "2025-11-01T12:42:28.674521"
   },
   "games": {
     "570": {
@@ -311090,6 +311090,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-11-01T11:59:05.858889"
+    },
+    "2909570": {
+      "appid": 2909570,
+      "name": "狗狗 伟大的冒险",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-01T12:28:14.445778"
     }
   }
 }
