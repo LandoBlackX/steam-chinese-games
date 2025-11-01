@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-11-01T14:29:42.384635"
+    "updated": "2025-11-01T15:29:42.288014"
   },
   "games": {
     "570": {
@@ -88882,6 +88882,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-11-01T08:38:34.464101"
+    },
+    "2912430": {
+      "appid": 2912430,
+      "name": "Platypus Reclayed",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-11-01T15:15:44.683886"
     }
   }
 }
