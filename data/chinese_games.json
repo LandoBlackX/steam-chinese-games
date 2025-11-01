@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-11-01T05:29:26.136110"
+    "updated": "2025-11-01T06:05:26.502414"
   },
   "games": {
     "570": {
@@ -310834,6 +310834,38 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-11-01T05:29:23.564295"
+    },
+    "3470500": {
+      "appid": 3470500,
+      "name": "烬刃交辉",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-01T06:05:12.181789"
+    },
+    "3470550": {
+      "appid": 3470550,
+      "name": "破烂艺术家",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-01T06:05:12.348052"
+    },
+    "3470800": {
+      "appid": 3470800,
+      "name": "Save Mom",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-01T06:05:13.048202"
+    },
+    "3471220": {
+      "appid": 3471220,
+      "name": "Orbion",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-01T06:05:25.614126"
     }
   }
 }
