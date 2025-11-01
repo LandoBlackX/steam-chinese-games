@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-11-01T07:58:57.011692"
+    "updated": "2025-11-01T08:38:34.773235"
   },
   "games": {
     "570": {
@@ -88874,6 +88874,14 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-11-01T07:29:28.894315"
+    },
+    "3473580": {
+      "appid": 3473580,
+      "name": "Super World War",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-11-01T08:38:34.464101"
     }
   }
 }

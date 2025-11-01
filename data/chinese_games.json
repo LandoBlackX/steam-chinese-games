@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-11-01T07:58:57.011692"
+    "updated": "2025-11-01T08:38:34.773235"
   },
   "games": {
     "570": {
@@ -310914,6 +310914,62 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-11-01T07:58:55.054880"
+    },
+    "3473130": {
+      "appid": 3473130,
+      "name": "Valkyrie: Rosetta",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-01T08:38:31.933215"
+    },
+    "3473270": {
+      "appid": 3473270,
+      "name": "基友足球社",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-01T08:38:33.069437"
+    },
+    "3473390": {
+      "appid": 3473390,
+      "name": "Ghost In The Feed",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-01T08:38:33.523960"
+    },
+    "3473430": {
+      "appid": 3473430,
+      "name": "爱与机器人维修技术 All Our Broken Parts",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-01T08:38:33.663631"
+    },
+    "3473440": {
+      "appid": 3473440,
+      "name": "鸟雀斗",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-01T08:38:33.827828"
+    },
+    "3473500": {
+      "appid": 3473500,
+      "name": "幻想神域 - 源神啟動",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-01T08:38:34.126332"
+    },
+    "3473610": {
+      "appid": 3473610,
+      "name": "Bridge Constructor Studio",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-01T08:38:34.613231"
     }
   }
 }
