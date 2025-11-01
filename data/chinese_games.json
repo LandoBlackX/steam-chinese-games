@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-11-01T21:59:58.072392"
+    "updated": "2025-11-01T22:30:18.978351"
   },
   "games": {
     "570": {
@@ -311330,6 +311330,30 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-11-01T21:59:57.931723"
+    },
+    "3484530": {
+      "appid": 3484530,
+      "name": "EA SPORTS FC™ 26",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-01T22:30:12.478702"
+    },
+    "3484750": {
+      "appid": 3484750,
+      "name": "Tailor Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-01T22:30:14.284670"
+    },
+    "3484780": {
+      "appid": 3484780,
+      "name": "True Roman",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-01T22:30:14.440076"
     }
   }
 }
