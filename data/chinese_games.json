@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-11-01T06:39:56.161278"
+    "updated": "2025-11-01T07:29:29.379010"
   },
   "games": {
     "570": {
@@ -310874,6 +310874,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-11-01T06:39:56.158660"
+    },
+    "3472040": {
+      "appid": 3472040,
+      "name": "NBA 2K26",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-01T07:29:28.286734"
+    },
+    "3472100": {
+      "appid": 3472100,
+      "name": "SEXSTELLAR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-11-01T07:29:28.894315"
     }
   }
 }

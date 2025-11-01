@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-11-01T06:39:56.161278"
+    "updated": "2025-11-01T07:29:29.379010"
   },
   "games": {
     "570": {
@@ -88866,6 +88866,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-10-31T04:26:19.437599"
+    },
+    "3472100": {
+      "appid": 3472100,
+      "name": "SEXSTELLAR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-11-01T07:29:28.894315"
     }
   }
 }
