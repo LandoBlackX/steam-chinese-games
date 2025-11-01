@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-11-01T04:30:02.929159"
+    "updated": "2025-11-01T05:29:26.136110"
   },
   "games": {
     "570": {
@@ -310810,6 +310810,30 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-11-01T04:30:01.038248"
+    },
+    "2899980": {
+      "appid": 2899980,
+      "name": "美惠小姐与生后愿",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-01T05:15:35.816880"
+    },
+    "3469820": {
+      "appid": 3469820,
+      "name": "名人名言学英语",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-01T05:29:22.371506"
+    },
+    "3469990": {
+      "appid": 3469990,
+      "name": "妈妈驿站",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-01T05:29:23.564295"
     }
   }
 }
