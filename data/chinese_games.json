@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-11-02T10:00:25.319949"
+    "updated": "2025-11-02T10:30:22.431073"
   },
   "games": {
     "570": {
@@ -311538,6 +311538,38 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-11-02T10:00:24.661441"
+    },
+    "3492620": {
+      "appid": 3492620,
+      "name": "President Coin",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-02T10:30:17.507890"
+    },
+    "3492710": {
+      "appid": 3492710,
+      "name": "Unsealed: The Mare",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-02T10:30:18.177604"
+    },
+    "3493400": {
+      "appid": 3493400,
+      "name": "BLOODLETTER",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-02T10:30:21.938681"
+    },
+    "3493540": {
+      "appid": 3493540,
+      "name": "Transport Fever 3",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-02T10:30:22.429006"
     }
   }
 }
