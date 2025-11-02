@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-11-01T22:30:18.978351"
+    "updated": "2025-11-02T00:00:14.385944"
   },
   "games": {
     "570": {
@@ -311354,6 +311354,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-11-01T22:30:14.440076"
+    },
+    "2922510": {
+      "appid": 2922510,
+      "name": "Gloomfall",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-01T23:45:51.624445"
     }
   }
 }
