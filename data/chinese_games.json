@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-11-02T20:07:50.738656"
+    "updated": "2025-11-02T22:08:26.176729"
   },
   "games": {
     "570": {
@@ -311858,6 +311858,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-11-02T20:07:50.355435"
+    },
+    "3164070": {
+      "appid": 3164070,
+      "name": "Bros Survivors",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-02T21:56:06.813058"
+    },
+    "3501850": {
+      "appid": 3501850,
+      "name": "Echoes of the Outworlder",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-02T22:08:15.013307"
     }
   }
 }
