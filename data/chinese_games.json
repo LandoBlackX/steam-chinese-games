@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-11-02T04:02:17.070190"
+    "updated": "2025-11-02T05:30:38.354901"
   },
   "games": {
     "570": {
@@ -311442,6 +311442,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-11-02T04:02:16.066820"
+    },
+    "3488970": {
+      "appid": 3488970,
+      "name": "极速营救",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-02T05:30:35.456585"
+    },
+    "3489070": {
+      "appid": 3489070,
+      "name": "温馨海滩 (Cozy Beach)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-02T05:30:35.566323"
     }
   }
 }
