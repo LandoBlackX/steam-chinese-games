@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-11-02T07:30:41.975359"
+    "updated": "2025-11-02T08:00:32.237952"
   },
   "games": {
     "570": {
@@ -311498,6 +311498,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-11-02T07:30:39.284471"
+    },
+    "3491420": {
+      "appid": 3491420,
+      "name": "Dronaldo Drone Football League",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-02T08:00:30.022090"
     }
   }
 }
