@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-11-02T18:07:48.924604"
+    "updated": "2025-11-02T18:41:44.102470"
   },
   "games": {
     "570": {
@@ -311786,6 +311786,46 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-11-02T18:07:38.339993"
+    },
+    "3500390": {
+      "appid": 3500390,
+      "name": "流星ROCKMAN 完美合集",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-02T18:41:40.379108"
+    },
+    "3500590": {
+      "appid": 3500590,
+      "name": "空蝉物语",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-02T18:41:41.174378"
+    },
+    "3500670": {
+      "appid": 3500670,
+      "name": "自然竞技场",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-02T18:41:41.715659"
+    },
+    "3500800": {
+      "appid": 3500800,
+      "name": "DreadOut Remastered Collection",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-02T18:41:42.328993"
+    },
+    "3500880": {
+      "appid": 3500880,
+      "name": "魔饮心语轶闻：梦行者",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-02T18:41:42.934653"
     }
   }
 }
