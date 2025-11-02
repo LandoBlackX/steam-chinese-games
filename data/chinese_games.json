@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-11-02T00:00:14.385944"
+    "updated": "2025-11-02T01:12:56.520870"
   },
   "games": {
     "570": {
@@ -311362,6 +311362,46 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-11-01T23:45:51.624445"
+    },
+    "3486020": {
+      "appid": 3486020,
+      "name": "狂野网 Wild Web",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-02T01:12:52.938511"
+    },
+    "3486220": {
+      "appid": 3486220,
+      "name": "Cats Together",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-02T01:12:53.844758"
+    },
+    "3486430": {
+      "appid": 3486430,
+      "name": "帝国：权杖与文明",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-02T01:12:54.159627"
+    },
+    "3486770": {
+      "appid": 3486770,
+      "name": "Red Light",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-02T01:12:55.417370"
+    },
+    "3486810": {
+      "appid": 3486810,
+      "name": "KimiMuzi",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-02T01:12:55.746130"
     }
   }
 }
