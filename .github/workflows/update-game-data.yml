@@ -1,7 +1,7 @@
 name: Update Game Data
 on:
   schedule:
-    - cron: '*/30 * * * *'  # 每30分钟运行一次（原为每2分钟：'*/2 * * * *'）
+    - cron: '*/35 * * * *'  # 每35分钟运行一次（原为每2分钟：'*/2 * * * *'）
   workflow_dispatch:
 
 # 并发控制
@@ -12,7 +12,7 @@ concurrency:
 jobs:
   update:
     runs-on: ubuntu-latest
-    timeout-minutes: 30  # 增加到 30 分钟（原为15，表示整个 update 作业（包括所有步骤）必须在 15 分钟内完成）
+    timeout-minutes: 35  # 增加到 35 分钟（原为15，表示整个 update 作业（包括所有步骤）必须在 15 分钟内完成）
     permissions:
       contents: write
 
