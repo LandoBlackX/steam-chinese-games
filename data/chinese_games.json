@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-11-02T15:30:46.496313"
+    "updated": "2025-11-02T16:30:38.579391"
   },
   "games": {
     "570": {
@@ -311634,6 +311634,54 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-11-02T15:30:44.754619"
+    },
+    "3497230": {
+      "appid": 3497230,
+      "name": "Shoot P",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-02T16:30:32.409922"
+    },
+    "3497280": {
+      "appid": 3497280,
+      "name": "Canvas Infernum",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-02T16:30:32.918585"
+    },
+    "3497310": {
+      "appid": 3497310,
+      "name": "Beihai 2010",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-02T16:30:33.088331"
+    },
+    "3498010": {
+      "appid": 3498010,
+      "name": "Sushi Cat - Tower Defense",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-02T16:30:37.515008"
+    },
+    "3498100": {
+      "appid": 3498100,
+      "name": "光点计划 LightPoint",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-02T16:30:38.241474"
+    },
+    "3498130": {
+      "appid": 3498130,
+      "name": "Rage Click",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-02T16:30:38.577289"
     }
   }
 }
