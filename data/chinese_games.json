@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-11-02T06:41:49.033161"
+    "updated": "2025-11-02T07:30:41.975359"
   },
   "games": {
     "570": {
@@ -311490,6 +311490,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-11-02T06:41:46.762032"
+    },
+    "3490910": {
+      "appid": 3490910,
+      "name": "Agent Panda",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-02T07:30:39.284471"
     }
   }
 }
