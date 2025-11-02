@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-11-02T02:57:58.253957"
+    "updated": "2025-11-02T04:02:17.070190"
   },
   "games": {
     "570": {
@@ -311418,6 +311418,30 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-11-02T02:57:55.327403"
+    },
+    "3488760": {
+      "appid": 3488760,
+      "name": "Grow Harvest Repeat",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-02T04:02:15.324254"
+    },
+    "3488790": {
+      "appid": 3488790,
+      "name": "燈吉診療所 Hiyoshi Clinic",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-02T04:02:15.709491"
+    },
+    "3488820": {
+      "appid": 3488820,
+      "name": "一墙之隔的声音 ～某一天，隔壁传来妻子的声音～",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-02T04:02:16.066820"
     }
   }
 }
