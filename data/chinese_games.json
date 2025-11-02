@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-11-02T16:30:38.579391"
+    "updated": "2025-11-02T17:37:36.330366"
   },
   "games": {
     "570": {
@@ -311682,6 +311682,46 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-11-02T16:30:38.577289"
+    },
+    "3498390": {
+      "appid": 3498390,
+      "name": "Astroloot",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-02T17:37:22.833139"
+    },
+    "3498650": {
+      "appid": 3498650,
+      "name": "剪那根线!",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-02T17:37:23.416132"
+    },
+    "3498680": {
+      "appid": 3498680,
+      "name": "The Mindvasion",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-02T17:37:23.604668"
+    },
+    "3498700": {
+      "appid": 3498700,
+      "name": "Appulse: Pinball Shooter",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-02T17:37:23.795613"
+    },
+    "3498720": {
+      "appid": 3498720,
+      "name": "Rain98",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-02T17:37:23.928437"
     }
   }
 }
