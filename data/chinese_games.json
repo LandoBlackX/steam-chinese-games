@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-11-02T06:06:50.246595"
+    "updated": "2025-11-02T06:41:49.033161"
   },
   "games": {
     "570": {
@@ -311482,6 +311482,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-11-02T06:06:50.090671"
+    },
+    "3490280": {
+      "appid": 3490280,
+      "name": "Bearly Brave",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-02T06:41:46.762032"
     }
   }
 }
