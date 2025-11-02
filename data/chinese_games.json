@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-11-02T05:30:38.354901"
+    "updated": "2025-11-02T06:06:50.246595"
   },
   "games": {
     "570": {
@@ -311458,6 +311458,30 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-11-02T05:30:35.566323"
+    },
+    "3489680": {
+      "appid": 3489680,
+      "name": "Packed Lair",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-02T06:06:48.645726"
+    },
+    "3490020": {
+      "appid": 3490020,
+      "name": "Piground",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-02T06:06:49.780995"
+    },
+    "3490060": {
+      "appid": 3490060,
+      "name": "The Professor",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-02T06:06:50.090671"
     }
   }
 }
