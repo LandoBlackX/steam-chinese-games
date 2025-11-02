@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-11-02T18:41:44.102470"
+    "updated": "2025-11-02T19:35:56.466345"
   },
   "games": {
     "570": {
@@ -311826,6 +311826,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-11-02T18:41:42.934653"
+    },
+    "2932600": {
+      "appid": 2932600,
+      "name": "Float Your Goat",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-02T19:21:03.921670"
+    },
+    "2932680": {
+      "appid": 2932680,
+      "name": "Nomori",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-02T19:21:04.196888"
     }
   }
 }
