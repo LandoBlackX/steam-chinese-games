@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-11-02T10:30:22.431073"
+    "updated": "2025-11-02T12:42:54.673144"
   },
   "games": {
     "570": {
@@ -311570,6 +311570,30 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-11-02T10:30:22.429006"
+    },
+    "3494130": {
+      "appid": 3494130,
+      "name": "Clink",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-02T12:42:49.865725"
+    },
+    "3494220": {
+      "appid": 3494220,
+      "name": "Pawsky",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-02T12:42:50.446946"
+    },
+    "3494920": {
+      "appid": 3494920,
+      "name": "Dragon Realms",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-02T12:42:53.305333"
     }
   }
 }
