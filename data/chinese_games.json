@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-11-02T17:37:36.330366"
+    "updated": "2025-11-02T18:07:48.924604"
   },
   "games": {
     "570": {
@@ -311722,6 +311722,70 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-11-02T17:37:23.928437"
+    },
+    "3499220": {
+      "appid": 3499220,
+      "name": "电玩人生",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-02T18:07:23.756497"
+    },
+    "3499330": {
+      "appid": 3499330,
+      "name": "我的妈妈是魅魔",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-02T18:07:24.538963"
+    },
+    "3499430": {
+      "appid": 3499430,
+      "name": "A Recipe for Survival - Cat Cooking Roguelike Deckbuilder",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-02T18:07:24.898576"
+    },
+    "3499550": {
+      "appid": 3499550,
+      "name": "Mai: Child of Ages",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-02T18:07:25.856959"
+    },
+    "3499560": {
+      "appid": 3499560,
+      "name": "HMUR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-02T18:07:26.031808"
+    },
+    "3499670": {
+      "appid": 3499670,
+      "name": "Strange Brew",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-02T18:07:37.050643"
+    },
+    "3499790": {
+      "appid": 3499790,
+      "name": "Ashes of the Singularity II",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-02T18:07:38.132720"
+    },
+    "3499820": {
+      "appid": 3499820,
+      "name": "Basketball Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-02T18:07:38.339993"
     }
   }
 }
