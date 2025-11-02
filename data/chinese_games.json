@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-11-02T01:12:56.520870"
+    "updated": "2025-11-02T02:57:58.253957"
   },
   "games": {
     "570": {
@@ -311402,6 +311402,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-11-02T01:12:55.746130"
+    },
+    "3487060": {
+      "appid": 3487060,
+      "name": "Youtubers Life 3 - Stream Together!",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-02T02:57:31.541559"
+    },
+    "3487760": {
+      "appid": 3487760,
+      "name": "Froggy: Jelly Punch",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-02T02:57:55.327403"
     }
   }
 }
