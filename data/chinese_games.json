@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-11-02T08:00:32.237952"
+    "updated": "2025-11-02T10:00:25.319949"
   },
   "games": {
     "570": {
@@ -311506,6 +311506,38 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-11-02T08:00:30.022090"
+    },
+    "2928940": {
+      "appid": 2928940,
+      "name": "Yarn Guardians",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-02T09:45:37.764967"
+    },
+    "3491820": {
+      "appid": 3491820,
+      "name": "Tomomon 欢乐",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-02T10:00:23.174490"
+    },
+    "3491960": {
+      "appid": 3491960,
+      "name": "阈限：迷失边缘",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-02T10:00:23.816742"
+    },
+    "3492150": {
+      "appid": 3492150,
+      "name": "MINISTRY OF TRUTH: 1984",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-02T10:00:24.661441"
     }
   }
 }
