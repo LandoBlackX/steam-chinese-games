@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-11-02T14:31:06.208949"
+    "updated": "2025-11-02T15:30:46.496313"
   },
   "games": {
     "570": {
@@ -311594,6 +311594,46 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-11-02T12:42:53.305333"
+    },
+    "3495870": {
+      "appid": 3495870,
+      "name": "镜之心 Heart of the Mirror",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-02T15:30:40.731496"
+    },
+    "3496150": {
+      "appid": 3496150,
+      "name": "404节奏失控",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-02T15:30:41.764205"
+    },
+    "3496170": {
+      "appid": 3496170,
+      "name": "Country Drive Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-02T15:30:42.015645"
+    },
+    "3496540": {
+      "appid": 3496540,
+      "name": "Xreemu",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-02T15:30:42.985744"
+    },
+    "3496840": {
+      "appid": 3496840,
+      "name": "Organic Burger Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-02T15:30:44.754619"
     }
   }
 }
