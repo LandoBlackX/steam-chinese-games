@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-11-03T09:42:33.340115"
+    "updated": "2025-11-03T12:08:50.846154"
   },
   "games": {
     "570": {
@@ -311970,6 +311970,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-11-03T09:28:02.508612"
+    },
+    "3504520": {
+      "appid": 3504520,
+      "name": "Caved In",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-03T12:08:48.863110"
+    },
+    "3504700": {
+      "appid": 3504700,
+      "name": "4Wheel Challenge",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-03T12:08:50.414143"
     }
   }
 }
