@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-11-03T18:45:19.053839"
+    "updated": "2025-11-03T19:38:09.569899"
   },
   "games": {
     "570": {
@@ -312170,6 +312170,38 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-11-03T18:45:18.068898"
+    },
+    "3508910": {
+      "appid": 3508910,
+      "name": "Abyss Kitchen",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-03T19:38:07.433065"
+    },
+    "3509060": {
+      "appid": 3509060,
+      "name": "Finger Soccer",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-03T19:38:07.887452"
+    },
+    "3509200": {
+      "appid": 3509200,
+      "name": "Michelangelo: Stonemason Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-03T19:38:09.420716"
+    },
+    "3509230": {
+      "appid": 3509230,
+      "name": "Gambonanza",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-03T19:38:09.567514"
     }
   }
 }
