@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-11-03T19:38:09.569899"
+    "updated": "2025-11-03T20:08:43.715776"
   },
   "games": {
     "570": {
@@ -312202,6 +312202,38 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-11-03T19:38:09.567514"
+    },
+    "2407530": {
+      "appid": 2407530,
+      "name": "Money Glitch",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-03T19:46:30.729092"
+    },
+    "3509380": {
+      "appid": 3509380,
+      "name": "GrimKeep",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-03T20:08:40.580542"
+    },
+    "3509430": {
+      "appid": 3509430,
+      "name": "双喵成行",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-03T20:08:41.032474"
+    },
+    "3509550": {
+      "appid": 3509550,
+      "name": "药店模拟器",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-03T20:08:41.293585"
     }
   }
 }
