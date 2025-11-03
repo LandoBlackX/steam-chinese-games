@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-11-03T13:37:34.456483"
+    "updated": "2025-11-03T14:40:31.706336"
   },
   "games": {
     "570": {
@@ -312034,6 +312034,38 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-11-03T13:37:34.015439"
+    },
+    "3505680": {
+      "appid": 3505680,
+      "name": "Real Estate Tycoon!",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-03T14:40:28.212296"
+    },
+    "3505770": {
+      "appid": 3505770,
+      "name": "Kin and Quarry",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-03T14:40:28.627148"
+    },
+    "3505790": {
+      "appid": 3505790,
+      "name": "Garden of Love",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-03T14:40:28.746260"
+    },
+    "3506050": {
+      "appid": 3506050,
+      "name": "Pixel Fortress: Tower Defense",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-03T14:40:30.451345"
     }
   }
 }
