@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-11-03T12:08:50.846154"
+    "updated": "2025-11-03T12:48:58.535263"
   },
   "games": {
     "570": {
@@ -311986,6 +311986,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-11-03T12:08:50.414143"
+    },
+    "2945200": {
+      "appid": 2945200,
+      "name": "Cabin Corpse - Season 1",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-03T12:34:41.244164"
     }
   }
 }
