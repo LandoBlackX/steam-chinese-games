@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-11-03T00:06:59.680040"
+    "updated": "2025-11-03T01:20:57.819283"
   },
   "games": {
     "570": {
@@ -311898,6 +311898,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-11-02T23:52:35.367670"
+    },
+    "3502260": {
+      "appid": 3502260,
+      "name": "Memento Machinam",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-03T01:20:57.817368"
     }
   }
 }
