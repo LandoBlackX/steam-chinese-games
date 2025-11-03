@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-11-02T22:08:26.176729"
+    "updated": "2025-11-03T00:06:59.680040"
   },
   "games": {
     "570": {
@@ -311874,6 +311874,30 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-11-02T22:08:15.013307"
+    },
+    "1644050": {
+      "appid": 1644050,
+      "name": "Bad Badger",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-02T23:39:59.821957"
+    },
+    "2935460": {
+      "appid": 2935460,
+      "name": "Descent: The Dark Corridors",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-02T23:52:33.257488"
+    },
+    "2935710": {
+      "appid": 2935710,
+      "name": "Disinherited",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-02T23:52:35.367670"
     }
   }
 }
