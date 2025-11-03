@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-11-03T06:13:14.002817"
+    "updated": "2025-11-03T09:42:33.340115"
   },
   "games": {
     "570": {
@@ -311962,6 +311962,14 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-11-03T06:13:13.417286"
+    },
+    "2941630": {
+      "appid": 2941630,
+      "name": "Dungeons and Dining Tables",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-03T09:28:02.508612"
     }
   }
 }
