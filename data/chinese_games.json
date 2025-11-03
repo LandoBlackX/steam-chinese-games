@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-11-03T04:08:40.526760"
+    "updated": "2025-11-03T05:41:59.622077"
   },
   "games": {
     "570": {
@@ -311922,6 +311922,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-11-03T04:08:39.985878"
+    },
+    "3502970": {
+      "appid": 3502970,
+      "name": "别玩",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-03T05:41:58.100293"
     }
   }
 }
