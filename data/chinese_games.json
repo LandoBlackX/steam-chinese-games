@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-11-03T12:48:58.535263"
+    "updated": "2025-11-03T13:37:34.456483"
   },
   "games": {
     "570": {
@@ -311994,6 +311994,46 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-11-03T12:34:41.244164"
+    },
+    "3505060": {
+      "appid": 3505060,
+      "name": "古堡迷雾",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-03T13:37:30.639827"
+    },
+    "3505260": {
+      "appid": 3505260,
+      "name": "鬼之守护者",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-03T13:37:31.812796"
+    },
+    "3505310": {
+      "appid": 3505310,
+      "name": "Moebious: Endless Dream",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-03T13:37:32.494723"
+    },
+    "3505320": {
+      "appid": 3505320,
+      "name": "十品芝麻官",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-03T13:37:32.817099"
+    },
+    "3505600": {
+      "appid": 3505600,
+      "name": "Panopticon",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-03T13:37:34.015439"
     }
   }
 }
