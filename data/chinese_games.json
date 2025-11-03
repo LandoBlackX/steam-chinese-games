@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-11-03T01:20:57.819283"
+    "updated": "2025-11-03T04:08:40.526760"
   },
   "games": {
     "570": {
@@ -311906,6 +311906,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-11-03T01:20:57.817368"
+    },
+    "3502720": {
+      "appid": 3502720,
+      "name": "VTuberのQ",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-03T04:08:39.322201"
+    },
+    "3502860": {
+      "appid": 3502860,
+      "name": "Caller of the Crows",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-03T04:08:39.985878"
     }
   }
 }
