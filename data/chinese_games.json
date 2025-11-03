@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-11-03T20:41:48.371341"
+    "updated": "2025-11-03T22:39:25.711503"
   },
   "games": {
     "570": {
@@ -312258,6 +312258,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-11-03T20:41:48.037873"
+    },
+    "2948190": {
+      "appid": 2948190,
+      "name": "World of Sea Battle",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-03T22:24:54.517665"
     }
   }
 }

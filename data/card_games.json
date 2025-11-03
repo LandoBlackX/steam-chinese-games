@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-11-03T20:41:48.371341"
+    "updated": "2025-11-03T22:39:25.711503"
   },
   "games": {
     "570": {
@@ -88906,6 +88906,14 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-11-03T06:13:13.417286"
+    },
+    "251710": {
+      "appid": 251710,
+      "name": "Chainsaw Warrior",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-11-03T22:10:28.269237"
     }
   }
 }
