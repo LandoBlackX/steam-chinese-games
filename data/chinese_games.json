@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-11-03T17:40:26.278179"
+    "updated": "2025-11-03T18:12:06.875375"
   },
   "games": {
     "570": {
@@ -312114,6 +312114,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-11-03T17:40:25.945738"
+    },
+    "3508080": {
+      "appid": 3508080,
+      "name": "灵能麻将 Arcane Mahjong",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-03T18:12:06.561614"
     }
   }
 }
