@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-11-03T20:08:43.715776"
+    "updated": "2025-11-03T20:41:48.371341"
   },
   "games": {
     "570": {
@@ -312234,6 +312234,30 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-11-03T20:08:41.293585"
+    },
+    "3509970": {
+      "appid": 3509970,
+      "name": "Medieval Archer Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-03T20:41:43.804052"
+    },
+    "3510160": {
+      "appid": 3510160,
+      "name": "My Dorm - 第一季",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-03T20:41:44.502151"
+    },
+    "3510960": {
+      "appid": 3510960,
+      "name": "星欲少女",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-03T20:41:48.037873"
     }
   }
 }
