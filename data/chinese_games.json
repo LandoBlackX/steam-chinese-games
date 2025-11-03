@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-11-03T05:41:59.622077"
+    "updated": "2025-11-03T06:13:14.002817"
   },
   "games": {
     "570": {
@@ -311930,6 +311930,38 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-11-03T05:41:58.100293"
+    },
+    "3503260": {
+      "appid": 3503260,
+      "name": "Ryugaku Ren'ai",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-03T06:13:11.922415"
+    },
+    "3503300": {
+      "appid": 3503300,
+      "name": "Toxic Yuri",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-03T06:13:12.253942"
+    },
+    "3503530": {
+      "appid": 3503530,
+      "name": "全线出击",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-03T06:13:13.190439"
+    },
+    "3503570": {
+      "appid": 3503570,
+      "name": "Whispers of Lust",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-11-03T06:13:13.417286"
     }
   }
 }

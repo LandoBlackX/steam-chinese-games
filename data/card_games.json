@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-11-03T05:41:59.622077"
+    "updated": "2025-11-03T06:13:14.002817"
   },
   "games": {
     "570": {
@@ -88898,6 +88898,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-11-02T14:16:21.479493"
+    },
+    "3503570": {
+      "appid": 3503570,
+      "name": "Whispers of Lust",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-11-03T06:13:13.417286"
     }
   }
 }
