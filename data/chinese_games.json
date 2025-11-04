@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-11-04T17:46:29.549952"
+    "updated": "2025-11-04T20:52:18.454294"
   },
   "games": {
     "570": {
@@ -312418,6 +312418,30 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-11-04T17:46:29.547481"
+    },
+    "3516460": {
+      "appid": 3516460,
+      "name": "Shoot for the Moon",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-04T20:52:17.331472"
+    },
+    "3516580": {
+      "appid": 3516580,
+      "name": "无基之谈",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-04T20:52:17.651369"
+    },
+    "3516640": {
+      "appid": 3516640,
+      "name": "桌面栏: 动物牧场",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-04T20:52:18.452035"
     }
   }
 }

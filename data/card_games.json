@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-11-04T17:46:29.549952"
+    "updated": "2025-11-04T20:52:18.454294"
   },
   "games": {
     "570": {
@@ -88914,6 +88914,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-11-03T22:10:28.269237"
+    },
+    "3516620": {
+      "appid": 3516620,
+      "name": "MAGICAL BEAT",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-11-04T20:52:18.101961"
     }
   }
 }
