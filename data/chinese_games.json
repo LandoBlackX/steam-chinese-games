@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-11-04T06:13:37.075913"
+    "updated": "2025-11-04T13:43:57.870963"
   },
   "games": {
     "570": {
@@ -312378,6 +312378,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-11-04T06:13:36.226366"
+    },
+    "3515550": {
+      "appid": 3515550,
+      "name": "Mr. Meat",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-04T13:43:57.268018"
     }
   }
 }
