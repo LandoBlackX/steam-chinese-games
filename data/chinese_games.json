@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-11-04T02:55:10.862492"
+    "updated": "2025-11-04T04:43:15.109937"
   },
   "games": {
     "570": {
@@ -312330,6 +312330,30 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-11-04T02:55:09.282603"
+    },
+    "2949560": {
+      "appid": 2949560,
+      "name": "NO LIFE BABY OF THE END",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-04T04:27:24.389164"
+    },
+    "3143300": {
+      "appid": 3143300,
+      "name": "Amairo Chocolate 3",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-04T04:30:45.814170"
+    },
+    "3513600": {
+      "appid": 3513600,
+      "name": "女吊",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-04T04:43:14.923194"
     }
   }
 }
