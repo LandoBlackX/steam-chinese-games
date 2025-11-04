@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-11-04T14:45:08.290229"
+    "updated": "2025-11-04T17:46:29.549952"
   },
   "games": {
     "570": {
@@ -312394,6 +312394,30 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-11-04T14:44:45.918111"
+    },
+    "3516180": {
+      "appid": 3516180,
+      "name": "请不要欺负我，大小姐们！",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-04T17:46:28.940011"
+    },
+    "3516420": {
+      "appid": 3516420,
+      "name": "Beyond the Grove",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-04T17:46:29.252110"
+    },
+    "3516450": {
+      "appid": 3516450,
+      "name": "回家吧喵",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-04T17:46:29.547481"
     }
   }
 }
