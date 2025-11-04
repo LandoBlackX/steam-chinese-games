@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-11-04T05:41:35.502569"
+    "updated": "2025-11-04T06:13:37.075913"
   },
   "games": {
     "570": {
@@ -312362,6 +312362,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-11-04T05:41:35.128700"
+    },
+    "3514630": {
+      "appid": 3514630,
+      "name": "Roach Post",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-04T06:13:14.422321"
+    },
+    "3514750": {
+      "appid": 3514750,
+      "name": "Fantasy Burger",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-04T06:13:36.226366"
     }
   }
 }
