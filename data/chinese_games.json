@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-11-03T22:39:25.711503"
+    "updated": "2025-11-04T00:09:30.580169"
   },
   "games": {
     "570": {
@@ -312266,6 +312266,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-11-03T22:24:54.517665"
+    },
+    "3511130": {
+      "appid": 3511130,
+      "name": "hololive 滚滚山",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-04T00:09:26.085034"
     }
   }
 }
