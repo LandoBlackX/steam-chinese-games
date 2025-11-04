@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-11-04T00:09:30.580169"
+    "updated": "2025-11-04T01:17:25.743941"
   },
   "games": {
     "570": {
@@ -312274,6 +312274,54 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-11-04T00:09:26.085034"
+    },
+    "3511950": {
+      "appid": 3511950,
+      "name": "travis, the frog",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-04T01:17:10.408979"
+    },
+    "3512250": {
+      "appid": 3512250,
+      "name": "Paranormal Torment",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-04T01:17:11.538113"
+    },
+    "3512300": {
+      "appid": 3512300,
+      "name": "断指游戏",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-04T01:17:12.185070"
+    },
+    "3512480": {
+      "appid": 3512480,
+      "name": "Drownlight",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-04T01:17:12.501267"
+    },
+    "3512750": {
+      "appid": 3512750,
+      "name": "夜魅之纱",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-04T01:17:13.762991"
+    },
+    "3512870": {
+      "appid": 3512870,
+      "name": "Epoch Makers",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-04T01:17:14.533758"
     }
   }
 }
