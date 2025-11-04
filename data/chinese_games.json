@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-11-04T04:43:15.109937"
+    "updated": "2025-11-04T05:41:35.502569"
   },
   "games": {
     "570": {
@@ -312354,6 +312354,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-11-04T04:43:14.923194"
+    },
+    "3514580": {
+      "appid": 3514580,
+      "name": "Golf Pro Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-04T05:41:35.128700"
     }
   }
 }
