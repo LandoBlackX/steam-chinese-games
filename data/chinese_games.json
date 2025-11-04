@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-11-04T21:46:40.790544"
+    "updated": "2025-11-04T22:48:04.069765"
   },
   "games": {
     "570": {
@@ -312450,6 +312450,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-11-04T21:29:48.590980"
+    },
+    "3516920": {
+      "appid": 3516920,
+      "name": "开心宝藏王",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-04T22:48:03.595673"
     }
   }
 }
