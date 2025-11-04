@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-11-04T20:52:18.454294"
+    "updated": "2025-11-04T21:46:40.790544"
   },
   "games": {
     "570": {
@@ -312442,6 +312442,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-11-04T20:52:18.452035"
+    },
+    "3019870": {
+      "appid": 3019870,
+      "name": "三更",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-04T21:29:48.590980"
     }
   }
 }
