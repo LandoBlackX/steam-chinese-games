@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-11-04T01:17:25.743941"
+    "updated": "2025-11-04T02:55:10.862492"
   },
   "games": {
     "570": {
@@ -312322,6 +312322,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-11-04T01:17:14.533758"
+    },
+    "3513030": {
+      "appid": 3513030,
+      "name": "Forks and Daggers",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-04T02:55:09.282603"
     }
   }
 }
