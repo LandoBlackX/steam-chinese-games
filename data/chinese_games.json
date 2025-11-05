@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-11-05T11:48:00.183888"
+    "updated": "2025-11-05T14:00:49.314785"
   },
   "games": {
     "570": {
@@ -312530,6 +312530,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-11-05T11:47:59.263494"
+    },
+    "3211490": {
+      "appid": 3211490,
+      "name": "DYSTHANASIA -终末期异化-",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-05T13:47:22.436113"
     }
   }
 }
