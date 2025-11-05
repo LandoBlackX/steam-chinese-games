@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-11-05T09:50:47.964948"
+    "updated": "2025-11-05T11:48:00.183888"
   },
   "games": {
     "570": {
@@ -312514,6 +312514,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-11-05T09:32:58.309154"
+    },
+    "1843480": {
+      "appid": 1843480,
+      "name": "Autobahn Racing",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-05T11:17:59.862012"
+    },
+    "3519210": {
+      "appid": 3519210,
+      "name": "Universe Conflict",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-05T11:47:59.263494"
     }
   }
 }
