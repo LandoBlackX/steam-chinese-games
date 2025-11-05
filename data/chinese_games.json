@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-11-05T01:48:02.504587"
+    "updated": "2025-11-05T04:52:47.210182"
   },
   "games": {
     "570": {
@@ -312490,6 +312490,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-11-05T01:48:02.502766"
+    },
+    "3518050": {
+      "appid": 3518050,
+      "name": "Chicken Chasers",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-05T04:52:45.983613"
     }
   }
 }
