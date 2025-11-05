@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-11-05T21:48:55.423653"
+    "updated": "2025-11-05T22:48:49.336013"
   },
   "games": {
     "570": {
@@ -312602,6 +312602,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-11-05T21:48:55.205498"
+    },
+    "3521410": {
+      "appid": 3521410,
+      "name": "喵喵甜品屋",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-05T22:48:49.181639"
     }
   }
 }
