@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-11-05T16:54:02.533645"
+    "updated": "2025-11-05T18:56:11.211949"
   },
   "games": {
     "570": {
@@ -312578,6 +312578,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-11-05T16:54:02.157202"
+    },
+    "3520820": {
+      "appid": 3520820,
+      "name": "挂机猫猫传",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-05T18:56:10.837241"
     }
   }
 }
