@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-11-05T04:52:47.210182"
+    "updated": "2025-11-05T06:57:42.872677"
   },
   "games": {
     "570": {
@@ -312498,6 +312498,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-11-05T04:52:45.983613"
+    },
+    "3518730": {
+      "appid": 3518730,
+      "name": "Nuice Industries",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-05T06:57:42.527980"
     }
   }
 }
