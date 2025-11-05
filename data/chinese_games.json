@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-11-05T15:50:49.819936"
+    "updated": "2025-11-05T16:54:02.533645"
   },
   "games": {
     "570": {
@@ -312554,6 +312554,30 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-11-05T15:50:49.511056"
+    },
+    "3520300": {
+      "appid": 3520300,
+      "name": "This is Love",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-05T16:54:01.173794"
+    },
+    "3520310": {
+      "appid": 3520310,
+      "name": "Where's My Futa Deck?",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-05T16:54:01.319884"
+    },
+    "3520420": {
+      "appid": 3520420,
+      "name": "Nullpoint Protocol",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-05T16:54:02.157202"
     }
   }
 }
