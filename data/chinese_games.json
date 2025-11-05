@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-11-05T06:57:42.872677"
+    "updated": "2025-11-05T09:50:47.964948"
   },
   "games": {
     "570": {
@@ -312506,6 +312506,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-11-05T06:57:42.527980"
+    },
+    "2959010": {
+      "appid": 2959010,
+      "name": "Lovish",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-05T09:32:58.309154"
     }
   }
 }
