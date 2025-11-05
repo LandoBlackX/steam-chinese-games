@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-11-05T14:00:49.314785"
+    "updated": "2025-11-05T14:50:10.503004"
   },
   "games": {
     "570": {
@@ -312538,6 +312538,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-11-05T13:47:22.436113"
+    },
+    "3519480": {
+      "appid": 3519480,
+      "name": "Carthage: Bellum Punicum",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-05T14:50:09.089598"
     }
   }
 }
