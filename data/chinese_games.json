@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-11-05T22:48:49.336013"
+    "updated": "2025-11-06T03:45:04.716265"
   },
   "games": {
     "570": {
@@ -312610,6 +312610,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-11-05T22:48:49.181639"
+    },
+    "2753740": {
+      "appid": 2753740,
+      "name": "TOREROWA",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-06T03:22:54.528109"
     }
   }
 }
