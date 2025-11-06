@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-11-06T03:45:04.716265"
+    "updated": "2025-11-06T04:55:37.851347"
   },
   "games": {
     "570": {
@@ -312618,6 +312618,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-11-06T03:22:54.528109"
+    },
+    "2857670": {
+      "appid": 2857670,
+      "name": "Pot",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-06T04:35:42.432117"
     }
   }
 }
