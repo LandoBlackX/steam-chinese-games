@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-11-06T06:53:32.843199"
+    "updated": "2025-11-06T10:47:31.082146"
   },
   "games": {
     "570": {
@@ -312634,6 +312634,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-11-06T06:47:12.367505"
+    },
+    "2800560": {
+      "appid": 2800560,
+      "name": "软趴趴大乱斗",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-06T10:31:38.406395"
+    },
+    "2967800": {
+      "appid": 2967800,
+      "name": "Sex on the beach",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-06T10:33:17.231649"
     }
   }
 }
