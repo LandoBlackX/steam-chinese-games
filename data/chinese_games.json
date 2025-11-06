@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-11-06T13:01:36.034587"
+    "updated": "2025-11-06T17:50:28.782355"
   },
   "games": {
     "570": {
@@ -312666,6 +312666,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-11-06T12:47:02.178821"
+    },
+    "3234720": {
+      "appid": 3234720,
+      "name": "Lugh World",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-06T17:34:21.098731"
     }
   }
 }
