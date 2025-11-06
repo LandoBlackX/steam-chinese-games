@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-11-06T17:50:28.782355"
+    "updated": "2025-11-06T18:57:33.809008"
   },
   "games": {
     "570": {
@@ -312674,6 +312674,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-11-06T17:34:21.098731"
+    },
+    "3523750": {
+      "appid": 3523750,
+      "name": "Down with the Ship",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-06T18:57:33.065729"
     }
   }
 }
