@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-11-06T04:55:37.851347"
+    "updated": "2025-11-06T06:53:32.843199"
   },
   "games": {
     "570": {
@@ -312626,6 +312626,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-11-06T04:35:42.432117"
+    },
+    "3397110": {
+      "appid": 3397110,
+      "name": "光翼战姬～ExS-TIA 3",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-06T06:47:12.367505"
     }
   }
 }
