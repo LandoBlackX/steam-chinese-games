@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-11-07T19:48:09.185071"
+    "updated": "2025-11-07T21:45:41.256534"
   },
   "games": {
     "570": {
@@ -312746,6 +312746,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-11-07T19:48:08.711848"
+    },
+    "3044420": {
+      "appid": 3044420,
+      "name": "Rabbit Comes Home",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-07T21:26:54.918682"
     }
   }
 }
