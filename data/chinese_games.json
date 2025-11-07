@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-11-06T22:47:10.728844"
+    "updated": "2025-11-07T03:42:26.866784"
   },
   "games": {
     "570": {
@@ -312690,6 +312690,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-11-06T22:29:21.896889"
+    },
+    "3524160": {
+      "appid": 3524160,
+      "name": "Crescent Tower ～新月之塔～",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-07T03:42:26.864317"
     }
   }
 }
