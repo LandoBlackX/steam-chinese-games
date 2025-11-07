@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-11-07T15:51:11.819280"
+    "updated": "2025-11-07T19:48:09.185071"
   },
   "games": {
     "570": {
@@ -312730,6 +312730,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-11-07T15:51:11.817142"
+    },
+    "2702300": {
+      "appid": 2702300,
+      "name": "THRASHER",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-07T19:24:24.089511"
+    },
+    "3525430": {
+      "appid": 3525430,
+      "name": "研究生战斗",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-07T19:48:08.711848"
     }
   }
 }
