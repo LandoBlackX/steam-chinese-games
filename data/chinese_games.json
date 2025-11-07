@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-11-07T07:50:11.551602"
+    "updated": "2025-11-07T09:51:24.572927"
   },
   "games": {
     "570": {
@@ -312706,6 +312706,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-11-07T07:50:10.974341"
+    },
+    "3524620": {
+      "appid": 3524620,
+      "name": "杀戮剧院",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-07T09:51:24.571174"
     }
   }
 }
