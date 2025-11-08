@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-11-08T04:52:06.391547"
+    "updated": "2025-11-08T05:50:04.960748"
   },
   "games": {
     "570": {
@@ -312762,6 +312762,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-11-08T04:45:04.219425"
+    },
+    "3526460": {
+      "appid": 3526460,
+      "name": "Garbage Collector",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-08T05:50:04.487344"
     }
   }
 }
