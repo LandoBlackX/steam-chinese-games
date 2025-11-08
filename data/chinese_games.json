@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-11-08T06:56:07.325057"
+    "updated": "2025-11-08T07:46:43.256677"
   },
   "games": {
     "570": {
@@ -312786,6 +312786,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-11-08T06:56:07.163878"
+    },
+    "3462870": {
+      "appid": 3462870,
+      "name": "Landslip",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-08T07:42:11.603729"
     }
   }
 }

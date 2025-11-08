@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-11-08T06:56:07.325057"
+    "updated": "2025-11-08T07:46:43.256677"
   },
   "games": {
     "570": {
@@ -88922,6 +88922,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-11-04T20:52:18.101961"
+    },
+    "2978440": {
+      "appid": 2978440,
+      "name": "PROJEKT GODHAND",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-11-08T07:28:41.838591"
     }
   }
 }
