@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-11-08T22:48:03.329906"
+    "updated": "2025-11-08T23:48:13.117663"
   },
   "games": {
     "570": {
@@ -312842,6 +312842,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-11-08T22:48:03.154092"
+    },
+    "3528320": {
+      "appid": 3528320,
+      "name": "Secret Seeker",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-08T23:48:12.835951"
     }
   }
 }
