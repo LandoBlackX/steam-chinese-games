@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-11-08T05:50:04.960748"
+    "updated": "2025-11-08T06:56:07.325057"
   },
   "games": {
     "570": {
@@ -312770,6 +312770,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-11-08T05:50:04.487344"
+    },
+    "3441500": {
+      "appid": 3441500,
+      "name": "悠久之追憶-光與影的旅程",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-08T06:48:38.170644"
+    },
+    "3526710": {
+      "appid": 3526710,
+      "name": "Everything is Crab: The Animal Evolution Roguelite",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-08T06:56:07.163878"
     }
   }
 }
