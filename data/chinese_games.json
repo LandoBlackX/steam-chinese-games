@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-11-08T07:46:43.256677"
+    "updated": "2025-11-08T09:46:49.250251"
   },
   "games": {
     "570": {
@@ -312794,6 +312794,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-11-08T07:42:11.603729"
+    },
+    "2979500": {
+      "appid": 2979500,
+      "name": "Serial World",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-08T09:29:11.716707"
+    },
+    "2979520": {
+      "appid": 2979520,
+      "name": "Eternal",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-08T09:29:11.993368"
     }
   }
 }
