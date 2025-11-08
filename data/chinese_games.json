@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-11-07T21:45:41.256534"
+    "updated": "2025-11-08T04:52:06.391547"
   },
   "games": {
     "570": {
@@ -312754,6 +312754,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-11-07T21:26:54.918682"
+    },
+    "3449480": {
+      "appid": 3449480,
+      "name": "楼兰王国",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-08T04:45:04.219425"
     }
   }
 }
