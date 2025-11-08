@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-11-08T09:46:49.250251"
+    "updated": "2025-11-08T15:48:22.160671"
   },
   "games": {
     "570": {
@@ -88930,6 +88930,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2025-11-08T07:28:41.838591"
+    },
+    "3527290": {
+      "appid": 3527290,
+      "name": "PEAK",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2025-11-08T15:48:22.158958"
     }
   }
 }
