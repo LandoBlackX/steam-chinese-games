@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-11-08T18:56:27.335193"
+    "updated": "2025-11-08T22:48:03.329906"
   },
   "games": {
     "570": {
@@ -312834,6 +312834,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-11-08T18:56:26.408976"
+    },
+    "3528280": {
+      "appid": 3528280,
+      "name": "Crime Detective: Red Flags",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-08T22:48:03.154092"
     }
   }
 }
