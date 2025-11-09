@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-11-09T14:47:43.949760"
+    "updated": "2025-11-09T15:48:07.619047"
   },
   "games": {
     "570": {
@@ -312874,6 +312874,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-11-09T14:47:43.611170"
+    },
+    "3529780": {
+      "appid": 3529780,
+      "name": "星际猎人",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-09T15:48:07.323486"
+    },
+    "3529870": {
+      "appid": 3529870,
+      "name": "晓慧同学的完美推理",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-09T15:48:07.616646"
     }
   }
 }
