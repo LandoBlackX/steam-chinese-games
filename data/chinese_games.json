@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-11-09T15:48:07.619047"
+    "updated": "2025-11-09T18:54:16.766199"
   },
   "games": {
     "570": {
@@ -312890,6 +312890,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-11-09T15:48:07.616646"
+    },
+    "3077540": {
+      "appid": 3077540,
+      "name": "Love: Fall in Death",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-09T18:35:47.163329"
     }
   }
 }
