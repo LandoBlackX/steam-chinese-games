@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-11-09T18:54:16.766199"
+    "updated": "2025-11-09T19:46:36.244895"
   },
   "games": {
     "570": {
@@ -312898,6 +312898,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-11-09T18:35:47.163329"
+    },
+    "3501560": {
+      "appid": 3501560,
+      "name": "Sweep The Underworld",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-09T19:41:48.621079"
     }
   }
 }
