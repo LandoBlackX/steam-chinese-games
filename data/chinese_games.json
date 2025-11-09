@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-11-09T04:53:30.433949"
+    "updated": "2025-11-09T14:47:43.949760"
   },
   "games": {
     "570": {
@@ -312866,6 +312866,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-11-09T04:53:30.016935"
+    },
+    "3529690": {
+      "appid": 3529690,
+      "name": "惊悚故事：雪孩子",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-09T14:47:43.611170"
     }
   }
 }
