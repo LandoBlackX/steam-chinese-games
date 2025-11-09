@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-11-09T01:51:24.495842"
+    "updated": "2025-11-09T04:53:30.433949"
   },
   "games": {
     "570": {
@@ -312858,6 +312858,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-11-09T01:51:24.493241"
+    },
+    "3528590": {
+      "appid": 3528590,
+      "name": "U.N.P.O.C. Vessel of Opportunity",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-09T04:53:30.016935"
     }
   }
 }
