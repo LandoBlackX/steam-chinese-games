@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-11-10T11:49:36.465891"
+    "updated": "2025-11-10T13:08:28.066660"
   },
   "games": {
     "570": {
@@ -312946,6 +312946,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-11-10T11:32:50.226952"
+    },
+    "3531390": {
+      "appid": 3531390,
+      "name": "乌托邦的钥匙/The key of Utopia",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-10T13:08:27.899798"
     }
   }
 }
