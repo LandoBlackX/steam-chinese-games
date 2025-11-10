@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-11-10T08:58:25.869469"
+    "updated": "2025-11-10T11:49:36.465891"
   },
   "games": {
     "570": {
@@ -312938,6 +312938,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-11-10T08:58:25.865526"
+    },
+    "3244370": {
+      "appid": 3244370,
+      "name": "Bounty Fusion",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-10T11:32:50.226952"
     }
   }
 }
