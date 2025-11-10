@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-11-10T18:58:20.289626"
+    "updated": "2025-11-10T19:48:36.366883"
   },
   "games": {
     "570": {
@@ -312978,6 +312978,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-11-10T18:58:09.624995"
+    },
+    "2751530": {
+      "appid": 2751530,
+      "name": "Burnogue",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-10T19:24:45.376097"
     }
   }
 }
