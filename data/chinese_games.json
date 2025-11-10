@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-11-09T21:48:01.079177"
+    "updated": "2025-11-10T01:51:36.592848"
   },
   "games": {
     "570": {
@@ -312914,6 +312914,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-11-09T21:48:00.909136"
+    },
+    "3530820": {
+      "appid": 3530820,
+      "name": "Puzzling Places - 3D Jigsaw Sim",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-10T01:51:36.590071"
     }
   }
 }
