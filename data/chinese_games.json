@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-11-10T14:51:01.548077"
+    "updated": "2025-11-10T17:49:42.622706"
   },
   "games": {
     "570": {
@@ -312962,6 +312962,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-11-10T14:51:01.545555"
+    },
+    "3349020": {
+      "appid": 3349020,
+      "name": "Tails Island",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-10T17:36:06.811084"
     }
   }
 }
