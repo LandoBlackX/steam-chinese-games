@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-11-10T01:51:36.592848"
+    "updated": "2025-11-10T07:01:17.660785"
   },
   "games": {
     "570": {
@@ -312922,6 +312922,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-11-10T01:51:36.590071"
+    },
+    "3531160": {
+      "appid": 3531160,
+      "name": "荒岛求生：逃出美女岛",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-10T07:01:17.658424"
     }
   }
 }
