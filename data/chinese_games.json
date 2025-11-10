@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-11-10T13:08:28.066660"
+    "updated": "2025-11-10T14:51:01.548077"
   },
   "games": {
     "570": {
@@ -312954,6 +312954,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-11-10T13:08:27.899798"
+    },
+    "3531470": {
+      "appid": 3531470,
+      "name": "Driving Life",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-10T14:51:01.545555"
     }
   }
 }
