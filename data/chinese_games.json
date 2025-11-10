@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-11-10T07:01:17.660785"
+    "updated": "2025-11-10T08:58:25.869469"
   },
   "games": {
     "570": {
@@ -312930,6 +312930,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-11-10T07:01:17.658424"
+    },
+    "3531260": {
+      "appid": 3531260,
+      "name": "Superhero Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-10T08:58:25.865526"
     }
   }
 }
