@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-11-10T17:49:42.622706"
+    "updated": "2025-11-10T18:58:20.289626"
   },
   "games": {
     "570": {
@@ -312970,6 +312970,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-11-10T17:36:06.811084"
+    },
+    "3531610": {
+      "appid": 3531610,
+      "name": "Stellar Raiders",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-10T18:58:09.624995"
     }
   }
 }
