@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-11-11T11:49:23.888882"
+    "updated": "2025-11-11T19:47:39.424151"
   },
   "games": {
     "570": {
@@ -313010,6 +313010,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-11-11T11:44:27.138275"
+    },
+    "2416100": {
+      "appid": 2416100,
+      "name": "Goodnight Universe",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-11T19:20:37.637526"
     }
   }
 }
