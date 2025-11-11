@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-11-11T03:46:02.447112"
+    "updated": "2025-11-11T09:52:44.385939"
   },
   "games": {
     "570": {
@@ -312994,6 +312994,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-11-11T03:46:02.445454"
+    },
+    "3030200": {
+      "appid": 3030200,
+      "name": "Bashnya",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-11T09:33:08.827767"
     }
   }
 }
