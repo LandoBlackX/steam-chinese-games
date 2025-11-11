@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-11-11T09:52:44.385939"
+    "updated": "2025-11-11T11:49:23.888882"
   },
   "games": {
     "570": {
@@ -313002,6 +313002,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-11-11T09:33:08.827767"
+    },
+    "3508880": {
+      "appid": 3508880,
+      "name": "Outpost Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-11T11:44:27.138275"
     }
   }
 }
