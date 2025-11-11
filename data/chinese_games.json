@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-11-10T19:48:36.366883"
+    "updated": "2025-11-11T03:46:02.447112"
   },
   "games": {
     "570": {
@@ -312986,6 +312986,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-11-10T19:24:45.376097"
+    },
+    "3531680": {
+      "appid": 3531680,
+      "name": "Mathigo",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-11T03:46:02.445454"
     }
   }
 }
