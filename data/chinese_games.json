@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-11-12T13:08:28.696284"
+    "updated": "2025-11-12T15:53:06.729969"
   },
   "games": {
     "570": {
@@ -313034,6 +313034,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-11-12T12:51:14.493923"
+    },
+    "3531980": {
+      "appid": 3531980,
+      "name": "OBSCURITE MAGIE ~ 女神的精灵石",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-12T15:53:06.727572"
     }
   }
 }
