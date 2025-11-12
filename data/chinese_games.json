@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-11-11T19:47:39.424151"
+    "updated": "2025-11-12T11:49:16.512279"
   },
   "games": {
     "570": {
@@ -313018,6 +313018,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-11-11T19:20:37.637526"
+    },
+    "3065710": {
+      "appid": 3065710,
+      "name": "幸运推币机",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-12T11:30:26.304992"
     }
   }
 }
