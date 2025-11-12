@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-11-12T11:49:16.512279"
+    "updated": "2025-11-12T13:08:28.696284"
   },
   "games": {
     "570": {
@@ -313026,6 +313026,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-11-12T11:30:26.304992"
+    },
+    "3140260": {
+      "appid": 3140260,
+      "name": "引.故事",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-12T12:51:14.493923"
     }
   }
 }
