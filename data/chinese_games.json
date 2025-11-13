@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-11-13T08:56:52.382713"
+    "updated": "2025-11-13T09:53:11.668802"
   },
   "games": {
     "570": {
@@ -313058,6 +313058,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-11-13T08:56:52.379990"
+    },
+    "3532400": {
+      "appid": 3532400,
+      "name": "圣灵家族 Rinato",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-13T09:53:11.666840"
     }
   }
 }
