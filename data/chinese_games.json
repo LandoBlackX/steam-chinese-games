@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-11-13T15:53:58.239041"
+    "updated": "2025-11-13T16:55:08.460200"
   },
   "games": {
     "570": {
@@ -313074,6 +313074,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-11-13T15:53:58.236868"
+    },
+    "3532610": {
+      "appid": 3532610,
+      "name": "弹弹：弹幕基因| DanDan: Danmaku Gene | DDD",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-13T16:55:08.457772"
     }
   }
 }
