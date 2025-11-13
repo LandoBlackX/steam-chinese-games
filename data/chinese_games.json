@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-11-13T09:53:11.668802"
+    "updated": "2025-11-13T15:53:58.239041"
   },
   "games": {
     "570": {
@@ -313066,6 +313066,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-11-13T09:53:11.666840"
+    },
+    "3532590": {
+      "appid": 3532590,
+      "name": "我家大师兄无尽重生",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-13T15:53:58.236868"
     }
   }
 }
