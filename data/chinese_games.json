@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-11-12T18:59:00.197301"
+    "updated": "2025-11-13T08:56:52.382713"
   },
   "games": {
     "570": {
@@ -313050,6 +313050,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-11-12T18:59:00.195076"
+    },
+    "3532340": {
+      "appid": 3532340,
+      "name": "Bobo in Hell",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-13T08:56:52.379990"
     }
   }
 }
