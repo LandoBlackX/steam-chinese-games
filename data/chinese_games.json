@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-11-13T19:47:20.345437"
+    "updated": "2025-11-13T21:49:51.642325"
   },
   "games": {
     "570": {
@@ -313090,6 +313090,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-11-13T19:47:20.343704"
+    },
+    "3532690": {
+      "appid": 3532690,
+      "name": "Climbing Gym Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-13T21:49:51.639909"
     }
   }
 }
