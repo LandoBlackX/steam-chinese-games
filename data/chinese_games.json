@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-11-13T21:49:51.642325"
+    "updated": "2025-11-14T01:48:45.075923"
   },
   "games": {
     "570": {
@@ -313098,6 +313098,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-11-13T21:49:51.639909"
+    },
+    "3532810": {
+      "appid": 3532810,
+      "name": "鸥买嘎!",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-14T01:48:45.073685"
     }
   }
 }
