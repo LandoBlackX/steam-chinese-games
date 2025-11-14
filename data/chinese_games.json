@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-11-14T01:48:45.075923"
+    "updated": "2025-11-14T04:54:13.550550"
   },
   "games": {
     "570": {
@@ -313106,6 +313106,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-11-14T01:48:45.073685"
+    },
+    "3532860": {
+      "appid": 3532860,
+      "name": "漂流到岛",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-14T04:54:13.548485"
     }
   }
 }
