@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-11-14T04:54:13.550550"
+    "updated": "2025-11-14T05:51:16.174691"
   },
   "games": {
     "570": {
@@ -313114,6 +313114,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-11-14T04:54:13.548485"
+    },
+    "3532870": {
+      "appid": 3532870,
+      "name": "双面王牌",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-14T05:51:16.169518"
     }
   }
 }
