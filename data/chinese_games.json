@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-11-19T19:42:45.207496"
+    "updated": "2025-11-19T22:44:49.989811"
   },
   "games": {
     "570": {
@@ -313170,6 +313170,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-11-19T19:28:02.026397"
+    },
+    "3001110": {
+      "appid": 3001110,
+      "name": "Olaf and the Crowning Hangover",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-19T22:30:24.711863"
     }
   }
 }
