@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-11-19T17:46:10.180113"
+    "updated": "2025-11-19T19:42:45.207496"
   },
   "games": {
     "570": {
@@ -313154,6 +313154,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-11-19T17:30:58.566603"
+    },
+    "2997840": {
+      "appid": 2997840,
+      "name": "Animalkind",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-19T19:28:01.704125"
+    },
+    "2997880": {
+      "appid": 2997880,
+      "name": "日落高中",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-19T19:28:02.026397"
     }
   }
 }
