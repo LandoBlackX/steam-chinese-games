@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-11-14T05:51:16.174691"
+    "updated": "2025-11-19T04:53:21.794182"
   },
   "games": {
     "570": {
@@ -313122,6 +313122,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-11-14T05:51:16.169518"
+    },
+    "1869500": {
+      "appid": 1869500,
+      "name": "DAIMON BLADES",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-19T04:23:36.968685"
     }
   }
 }
