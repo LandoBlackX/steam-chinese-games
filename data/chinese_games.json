@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-11-19T04:53:21.794182"
+    "updated": "2025-11-19T13:03:08.428206"
   },
   "games": {
     "570": {
@@ -313130,6 +313130,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-11-19T04:23:36.968685"
+    },
+    "2990040": {
+      "appid": 2990040,
+      "name": "Last Mage",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-19T12:48:34.350733"
     }
   }
 }
