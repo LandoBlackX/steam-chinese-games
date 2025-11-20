@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-11-20T06:53:46.717843"
+    "updated": "2025-11-20T07:45:47.428344"
   },
   "games": {
     "570": {
@@ -313194,6 +313194,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-11-20T06:38:50.736508"
+    },
+    "3007650": {
+      "appid": 3007650,
+      "name": "Rise of Realms",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-20T07:30:57.823338"
     }
   }
 }
