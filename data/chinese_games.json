@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-11-20T11:44:30.979305"
+    "updated": "2025-11-20T14:48:54.288624"
   },
   "games": {
     "570": {
@@ -313218,6 +313218,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-11-20T11:29:32.956342"
+    },
+    "3014040": {
+      "appid": 3014040,
+      "name": "Stellar Dynasty",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-20T14:31:19.747369"
     }
   }
 }
