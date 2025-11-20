@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-11-19T22:44:49.989811"
+    "updated": "2025-11-20T01:41:29.826687"
   },
   "games": {
     "570": {
@@ -313178,6 +313178,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-11-19T22:30:24.711863"
+    },
+    "3003640": {
+      "appid": 3003640,
+      "name": "Guns are Funs",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-20T01:27:05.780661"
     }
   }
 }
