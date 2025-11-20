@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-11-20T07:45:47.428344"
+    "updated": "2025-11-20T10:47:40.737446"
   },
   "games": {
     "570": {
@@ -313202,6 +313202,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-11-20T07:30:57.823338"
+    },
+    "3010290": {
+      "appid": 3010290,
+      "name": "Heroes of the Seven Islands",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-20T10:32:48.194765"
     }
   }
 }
