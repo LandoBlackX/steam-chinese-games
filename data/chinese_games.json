@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-11-20T01:41:29.826687"
+    "updated": "2025-11-20T06:53:46.717843"
   },
   "games": {
     "570": {
@@ -313186,6 +313186,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-11-20T01:27:05.780661"
+    },
+    "3006280": {
+      "appid": 3006280,
+      "name": "羊羊集合啦!（Sheepherds!）",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-20T06:38:50.736508"
     }
   }
 }
