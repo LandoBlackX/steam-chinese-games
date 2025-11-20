@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-11-20T10:47:40.737446"
+    "updated": "2025-11-20T11:44:30.979305"
   },
   "games": {
     "570": {
@@ -313210,6 +313210,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-11-20T10:32:48.194765"
+    },
+    "3011050": {
+      "appid": 3011050,
+      "name": "Poison is Served!",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-20T11:29:32.956342"
     }
   }
 }
