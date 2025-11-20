@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-11-20T14:48:54.288624"
+    "updated": "2025-11-20T19:43:13.672162"
   },
   "games": {
     "570": {
@@ -313226,6 +313226,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-11-20T14:31:19.747369"
+    },
+    "3018730": {
+      "appid": 3018730,
+      "name": "Question Mark 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-20T19:28:03.191752"
     }
   }
 }
