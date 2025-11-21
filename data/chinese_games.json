@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-11-20T19:43:13.672162"
+    "updated": "2025-11-21T03:37:48.398430"
   },
   "games": {
     "570": {
@@ -313234,6 +313234,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-11-20T19:28:03.191752"
+    },
+    "3025180": {
+      "appid": 3025180,
+      "name": "La Salamanca",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-21T03:22:47.963719"
+    },
+    "3025310": {
+      "appid": 3025310,
+      "name": "Midnight Swamp",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-21T03:22:48.842783"
     }
   }
 }
