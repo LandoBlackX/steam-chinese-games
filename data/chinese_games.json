@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-11-22T06:52:33.311311"
+    "updated": "2025-11-22T12:59:16.598298"
   },
   "games": {
     "570": {
@@ -313274,6 +313274,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-11-22T06:29:34.028860"
+    },
+    "2440940": {
+      "appid": 2440940,
+      "name": "JUMPING JUMP NINJA",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-22T12:36:22.614750"
     }
   }
 }
