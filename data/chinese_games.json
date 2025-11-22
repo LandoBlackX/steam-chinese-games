@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-11-22T15:45:18.157039"
+    "updated": "2025-11-22T16:49:02.135162"
   },
   "games": {
     "570": {
@@ -313290,6 +313290,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-11-22T15:29:42.660657"
+    },
+    "3055250": {
+      "appid": 3055250,
+      "name": "Gothic Clicker",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-22T16:33:27.728782"
     }
   }
 }
