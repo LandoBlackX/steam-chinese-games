@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-11-21T19:44:18.974323"
+    "updated": "2025-11-22T06:52:33.311311"
   },
   "games": {
     "570": {
@@ -313266,6 +313266,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-11-21T19:28:41.970162"
+    },
+    "2423760": {
+      "appid": 2423760,
+      "name": "Above the Snow",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-22T06:29:34.028860"
     }
   }
 }
