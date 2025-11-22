@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-11-22T16:49:02.135162"
+    "updated": "2025-11-22T19:43:09.666309"
   },
   "games": {
     "570": {
@@ -313298,6 +313298,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-11-22T16:33:27.728782"
+    },
+    "3057190": {
+      "appid": 3057190,
+      "name": "LOOTPLOT",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-22T19:27:33.742080"
     }
   }
 }
