@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-11-22T12:59:16.598298"
+    "updated": "2025-11-22T15:45:18.157039"
   },
   "games": {
     "570": {
@@ -313282,6 +313282,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-11-22T12:36:22.614750"
+    },
+    "3054550": {
+      "appid": 3054550,
+      "name": "Sil与消逝之境",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-22T15:29:42.660657"
     }
   }
 }
