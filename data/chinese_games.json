@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-11-23T05:03:18.322868"
+    "updated": "2025-11-23T09:47:00.322881"
   },
   "games": {
     "570": {
@@ -313330,6 +313330,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-11-23T04:45:57.186250"
+    },
+    "3065870": {
+      "appid": 3065870,
+      "name": "Varthos - Heir to the Throne",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-23T09:31:23.977366"
     }
   }
 }
