@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-11-23T09:47:00.322881"
+    "updated": "2025-11-23T12:59:51.823136"
   },
   "games": {
     "570": {
@@ -313338,6 +313338,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-11-23T09:31:23.977366"
+    },
+    "3067260": {
+      "appid": 3067260,
+      "name": "Tales from the Mabinogion",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-23T12:43:56.737283"
     }
   }
 }
