@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-11-22T22:47:09.714969"
+    "updated": "2025-11-23T05:03:18.322868"
   },
   "games": {
     "570": {
@@ -313314,6 +313314,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-11-22T22:31:26.737211"
+    },
+    "3062170": {
+      "appid": 3062170,
+      "name": "谜案档案",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-23T04:45:55.847691"
+    },
+    "3062500": {
+      "appid": 3062500,
+      "name": "The Adventurers",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-23T04:45:57.186250"
     }
   }
 }
