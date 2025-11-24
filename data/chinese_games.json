@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-11-23T19:44:41.481111"
+    "updated": "2025-11-24T13:06:12.229517"
   },
   "games": {
     "570": {
@@ -313354,6 +313354,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-11-23T19:28:32.270378"
+    },
+    "3079190": {
+      "appid": 3079190,
+      "name": "PACS - Post Apocalypse Courier Service: Co-op Delivery Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-24T12:50:04.037016"
     }
   }
 }
