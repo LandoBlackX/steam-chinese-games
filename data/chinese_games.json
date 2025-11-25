@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-11-25T20:51:59.823685"
+    "updated": "2025-11-25T21:48:56.373989"
   },
   "games": {
     "570": {
@@ -313378,6 +313378,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-11-25T20:27:59.993331"
+    },
+    "2643390": {
+      "appid": 2643390,
+      "name": "星际迷航：航海家号 - 穿越未知",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-25T21:24:51.323626"
     }
   }
 }
