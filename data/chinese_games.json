@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-11-25T09:51:59.070433"
+    "updated": "2025-11-25T20:51:59.823685"
   },
   "games": {
     "570": {
@@ -313370,6 +313370,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-11-25T09:35:35.776221"
+    },
+    "2640090": {
+      "appid": 2640090,
+      "name": "Arcane Eats",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-25T20:27:59.993331"
     }
   }
 }
