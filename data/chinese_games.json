@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-11-24T13:06:12.229517"
+    "updated": "2025-11-25T09:51:59.070433"
   },
   "games": {
     "570": {
@@ -313362,6 +313362,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-11-24T12:50:04.037016"
+    },
+    "3088070": {
+      "appid": 3088070,
+      "name": "Dark Light: Survivor",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-25T09:35:35.776221"
     }
   }
 }
