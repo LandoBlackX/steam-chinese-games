@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-11-26T15:48:40.003472"
+    "updated": "2025-11-26T22:50:02.573905"
   },
   "games": {
     "570": {
@@ -313402,6 +313402,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-11-26T15:32:07.805987"
+    },
+    "2698420": {
+      "appid": 2698420,
+      "name": "重建你的岛屿",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-26T22:26:26.484072"
     }
   }
 }
