@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-11-25T21:48:56.373989"
+    "updated": "2025-11-26T03:45:08.229815"
   },
   "games": {
     "570": {
@@ -88938,6 +88938,14 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2025-11-08T15:48:22.158958"
+    },
+    "3094150": {
+      "appid": 3094150,
+      "name": "Take Notes",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2025-11-26T03:28:25.675198"
     }
   }
 }
