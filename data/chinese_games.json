@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-11-26T06:58:43.502766"
+    "updated": "2025-11-26T15:48:40.003472"
   },
   "games": {
     "570": {
@@ -313394,6 +313394,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-11-26T06:42:01.556291"
+    },
+    "3097510": {
+      "appid": 3097510,
+      "name": "赏金乱斗：头号通缉",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-26T15:32:07.805987"
     }
   }
 }
