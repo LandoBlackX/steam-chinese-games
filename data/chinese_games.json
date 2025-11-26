@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-11-26T22:50:02.573905"
+    "updated": "2025-11-26T23:47:52.921328"
   },
   "games": {
     "570": {
@@ -313410,6 +313410,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-11-26T22:26:26.484072"
+    },
+    "2702450": {
+      "appid": 2702450,
+      "name": "RECOUP",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-26T23:25:33.220389"
     }
   }
 }
