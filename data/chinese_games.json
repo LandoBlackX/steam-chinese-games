@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-11-26T23:47:52.921328"
+    "updated": "2025-11-27T04:53:53.015292"
   },
   "games": {
     "570": {
@@ -313418,6 +313418,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-11-26T23:25:33.220389"
+    },
+    "2709790": {
+      "appid": 2709790,
+      "name": "Tiny Circuits",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-27T04:31:22.346578"
     }
   }
 }
