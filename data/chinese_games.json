@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-11-27T04:53:53.015292"
+    "updated": "2025-11-27T08:57:16.431968"
   },
   "games": {
     "570": {
@@ -313426,6 +313426,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-11-27T04:31:22.346578"
+    },
+    "2721340": {
+      "appid": 2721340,
+      "name": "Last Flag",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-27T08:34:43.451534"
     }
   }
 }
