@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-11-27T08:57:16.431968"
+    "updated": "2025-11-28T09:50:28.722403"
   },
   "games": {
     "570": {
@@ -313434,6 +313434,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-11-27T08:34:43.451534"
+    },
+    "2781470": {
+      "appid": 2781470,
+      "name": "The Killing Stone",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-28T09:29:37.476720"
     }
   }
 }
