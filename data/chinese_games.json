@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-11-28T09:50:28.722403"
+    "updated": "2025-11-28T20:51:04.414941"
   },
   "games": {
     "570": {
@@ -313442,6 +313442,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-11-28T09:29:37.476720"
+    },
+    "2808550": {
+      "appid": 2808550,
+      "name": "Sudden Strike 5",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-28T20:30:10.769769"
     }
   }
 }
