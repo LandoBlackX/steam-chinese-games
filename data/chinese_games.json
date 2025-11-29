@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-11-29T06:56:24.459298"
+    "updated": "2025-11-29T18:55:49.124890"
   },
   "games": {
     "570": {
@@ -313458,6 +313458,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-11-29T06:36:07.793661"
+    },
+    "3112290": {
+      "appid": 3112290,
+      "name": "Sofia's Dark Fantasies - Episode 1",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-29T18:38:27.108939"
     }
   }
 }
