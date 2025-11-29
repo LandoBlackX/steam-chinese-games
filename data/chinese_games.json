@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-11-28T20:51:04.414941"
+    "updated": "2025-11-29T06:56:24.459298"
   },
   "games": {
     "570": {
@@ -313450,6 +313450,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-11-28T20:30:10.769769"
+    },
+    "2829830": {
+      "appid": 2829830,
+      "name": "RogueStacks",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-11-29T06:36:07.793661"
     }
   }
 }
