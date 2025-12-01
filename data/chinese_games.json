@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-12-01T09:57:27.681997"
+    "updated": "2025-12-01T10:52:32.919044"
   },
   "games": {
     "570": {
@@ -313498,6 +313498,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-12-01T09:38:09.529199"
+    },
+    "2948680": {
+      "appid": 2948680,
+      "name": "Outlive 25",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-12-01T10:33:37.987930"
+    },
+    "2950790": {
+      "appid": 2950790,
+      "name": "铁巢重炮",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-12-01T10:33:38.275513"
     }
   }
 }
