@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-12-01T07:53:00.995736"
+    "updated": "2025-12-01T09:57:27.681997"
   },
   "games": {
     "570": {
@@ -313490,6 +313490,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-12-01T07:33:53.280939"
+    },
+    "2947540": {
+      "appid": 2947540,
+      "name": "军事物流模拟器",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-12-01T09:38:09.529199"
     }
   }
 }
