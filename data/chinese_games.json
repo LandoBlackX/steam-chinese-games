@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-12-01T10:52:32.919044"
+    "updated": "2025-12-02T05:50:28.698692"
   },
   "games": {
     "570": {
@@ -313514,6 +313514,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-12-01T10:33:38.275513"
+    },
+    "2832000": {
+      "appid": 2832000,
+      "name": "Hidden in Space",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-12-02T05:29:40.852050"
     }
   }
 }
