@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-12-03T04:58:45.992871"
+    "updated": "2025-12-03T23:47:38.949131"
   },
   "games": {
     "570": {
@@ -313554,6 +313554,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-12-03T04:40:38.419192"
+    },
+    "3125250": {
+      "appid": 3125250,
+      "name": "STORROR Parkour Pro",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-12-03T23:30:48.914606"
     }
   }
 }
