@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-12-02T23:49:34.729806"
+    "updated": "2025-12-03T04:58:45.992871"
   },
   "games": {
     "570": {
@@ -313546,6 +313546,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-12-02T23:30:31.989456"
+    },
+    "3042650": {
+      "appid": 3042650,
+      "name": "Race Max Pro",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-12-03T04:40:38.419192"
     }
   }
 }
