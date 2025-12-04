@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-12-04T11:49:42.864180"
+    "updated": "2025-12-04T21:50:53.978388"
   },
   "games": {
     "570": {
@@ -313578,6 +313578,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-12-04T11:32:38.843439"
+    },
+    "3126410": {
+      "appid": 3126410,
+      "name": "Expedition: Into Darkness",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-12-04T21:33:27.049373"
     }
   }
 }
