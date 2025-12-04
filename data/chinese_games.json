@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-12-04T05:50:47.861445"
+    "updated": "2025-12-04T11:49:42.864180"
   },
   "games": {
     "570": {
@@ -313570,6 +313570,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-12-04T05:33:16.942588"
+    },
+    "3115160": {
+      "appid": 3115160,
+      "name": "Warhammer 40,000: Boltgun 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-12-04T11:32:38.843439"
     }
   }
 }
