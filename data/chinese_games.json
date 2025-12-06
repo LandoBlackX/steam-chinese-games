@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-12-04T21:50:53.978388"
+    "updated": "2025-12-06T18:56:04.083223"
   },
   "games": {
     "570": {
@@ -313586,6 +313586,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-12-04T21:33:27.049373"
+    },
+    "3532990": {
+      "appid": 3532990,
+      "name": "The Map Is The Thing",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-12-06T18:56:04.081448"
     }
   }
 }
