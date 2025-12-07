@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-12-06T18:56:04.083223"
+    "updated": "2025-12-07T08:54:35.622673"
   },
   "games": {
     "570": {
@@ -313594,6 +313594,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-12-06T18:56:04.081448"
+    },
+    "3533210": {
+      "appid": 3533210,
+      "name": "看不见的房间",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-12-07T08:54:35.620044"
     }
   }
 }
