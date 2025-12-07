@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-12-07T08:54:35.622673"
+    "updated": "2025-12-07T16:53:25.290768"
   },
   "games": {
     "570": {
@@ -313602,6 +313602,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-12-07T08:54:35.620044"
+    },
+    "3533400": {
+      "appid": 3533400,
+      "name": "Paint Rumble",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-12-07T16:53:25.288295"
     }
   }
 }
