@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-12-07T19:47:10.429798"
+    "updated": "2025-12-08T03:54:07.434432"
   },
   "games": {
     "570": {
@@ -313618,6 +313618,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-12-07T19:47:10.427480"
+    },
+    "3533720": {
+      "appid": 3533720,
+      "name": "Escape Room: Tiny Room Collection",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-12-08T03:54:07.432663"
     }
   }
 }
