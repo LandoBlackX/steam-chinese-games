@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-12-08T05:53:26.876320"
+    "updated": "2025-12-08T09:59:15.150041"
   },
   "games": {
     "570": {
@@ -313634,6 +313634,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-12-08T05:53:26.874389"
+    },
+    "3534100": {
+      "appid": 3534100,
+      "name": "Staged",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-12-08T09:59:14.977242"
     }
   }
 }
