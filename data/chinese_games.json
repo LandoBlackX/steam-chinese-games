@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-12-08T11:50:10.548894"
+    "updated": "2025-12-08T13:09:46.958403"
   },
   "games": {
     "570": {
@@ -313650,6 +313650,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-12-08T11:50:10.390669"
+    },
+    "2819600": {
+      "appid": 2819600,
+      "name": "Puppy Park",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-12-08T12:47:53.808961"
     }
   }
 }
