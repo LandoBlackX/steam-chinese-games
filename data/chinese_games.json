@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-12-08T03:54:07.434432"
+    "updated": "2025-12-08T05:53:26.876320"
   },
   "games": {
     "570": {
@@ -313626,6 +313626,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-12-08T03:54:07.432663"
+    },
+    "3533890": {
+      "appid": 3533890,
+      "name": "HardDriverz",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-12-08T05:53:26.874389"
     }
   }
 }
