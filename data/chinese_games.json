@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-12-09T17:51:46.460062"
+    "updated": "2025-12-09T19:47:38.630180"
   },
   "games": {
     "570": {
@@ -313730,6 +313730,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-12-09T17:51:46.458081"
+    },
+    "3535830": {
+      "appid": 3535830,
+      "name": "Anomaly Report",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-12-09T19:47:38.453221"
     }
   }
 }
