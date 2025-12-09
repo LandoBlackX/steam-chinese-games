@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-12-09T08:59:14.997743"
+    "updated": "2025-12-09T09:55:01.973120"
   },
   "games": {
     "570": {
@@ -313706,6 +313706,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-12-09T08:59:14.752104"
+    },
+    "3535330": {
+      "appid": 3535330,
+      "name": "Terraspace",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-12-09T09:55:01.970546"
     }
   }
 }
