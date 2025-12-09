@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-12-09T07:01:13.060267"
+    "updated": "2025-12-09T08:59:14.997743"
   },
   "games": {
     "570": {
@@ -313698,6 +313698,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-12-09T07:01:12.908970"
+    },
+    "3535270": {
+      "appid": 3535270,
+      "name": "螺钉与浮城",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-12-09T08:59:14.752104"
     }
   }
 }
