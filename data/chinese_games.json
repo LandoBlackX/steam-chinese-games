@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-12-09T14:08:03.337401"
+    "updated": "2025-12-09T17:51:46.460062"
   },
   "games": {
     "570": {
@@ -313722,6 +313722,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-12-09T14:08:03.335551"
+    },
+    "3535770": {
+      "appid": 3535770,
+      "name": "救援战记",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-12-09T17:51:46.458081"
     }
   }
 }
