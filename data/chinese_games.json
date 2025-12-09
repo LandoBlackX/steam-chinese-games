@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-12-09T05:00:33.584368"
+    "updated": "2025-12-09T05:51:54.994085"
   },
   "games": {
     "570": {
@@ -313682,6 +313682,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-12-09T05:00:33.581715"
+    },
+    "3535110": {
+      "appid": 3535110,
+      "name": "HEXA-WORLD-3D",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-12-09T05:51:54.813385"
     }
   }
 }
