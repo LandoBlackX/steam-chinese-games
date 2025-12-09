@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-12-08T15:53:50.466565"
+    "updated": "2025-12-09T05:00:33.584368"
   },
   "games": {
     "570": {
@@ -313666,6 +313666,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-12-08T15:53:50.463949"
+    },
+    "3535090": {
+      "appid": 3535090,
+      "name": "루나 : 월영의 전쟁",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-12-09T05:00:33.373004"
+    },
+    "3535100": {
+      "appid": 3535100,
+      "name": "Character Generator Plus",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-12-09T05:00:33.581715"
     }
   }
 }
