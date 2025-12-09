@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-12-09T09:55:01.973120"
+    "updated": "2025-12-09T14:08:03.337401"
   },
   "games": {
     "570": {
@@ -313714,6 +313714,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-12-09T09:55:01.970546"
+    },
+    "3535530": {
+      "appid": 3535530,
+      "name": "Circus of Pain",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-12-09T14:08:03.335551"
     }
   }
 }
