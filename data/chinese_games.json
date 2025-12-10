@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-12-10T01:52:45.655954"
+    "updated": "2025-12-10T05:53:10.421860"
   },
   "games": {
     "570": {
@@ -313754,6 +313754,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-12-10T01:52:45.653692"
+    },
+    "3536260": {
+      "appid": 3536260,
+      "name": "染色的纯白",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-12-10T05:53:10.419980"
     }
   }
 }
