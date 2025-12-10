@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-12-10T05:53:10.421860"
+    "updated": "2025-12-10T08:58:16.018263"
   },
   "games": {
     "570": {
@@ -313762,6 +313762,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-12-10T05:53:10.419980"
+    },
+    "3536480": {
+      "appid": 3536480,
+      "name": "AC130丧尸炮艇",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-12-10T08:58:15.681382"
     }
   }
 }
