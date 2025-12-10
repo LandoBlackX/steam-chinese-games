@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-12-09T19:47:38.630180"
+    "updated": "2025-12-10T01:52:45.655954"
   },
   "games": {
     "570": {
@@ -313738,6 +313738,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-12-09T19:47:38.453221"
+    },
+    "3536080": {
+      "appid": 3536080,
+      "name": "里世界学院1：终末轮回救赎",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-12-10T01:52:45.396092"
+    },
+    "3536120": {
+      "appid": 3536120,
+      "name": "空之歌：每当磁针再次振动，我便在此等待",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-12-10T01:52:45.653692"
     }
   }
 }
