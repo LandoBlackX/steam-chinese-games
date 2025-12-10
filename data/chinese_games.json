@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-12-10T19:49:29.236345"
+    "updated": "2025-12-10T23:48:53.247432"
   },
   "games": {
     "570": {
@@ -313778,6 +313778,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-12-10T19:29:46.036580"
+    },
+    "3537350": {
+      "appid": 3537350,
+      "name": "叁音·徵羽",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-12-10T23:48:53.056690"
     }
   }
 }
