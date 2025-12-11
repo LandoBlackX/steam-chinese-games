@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-12-10T23:48:53.247432"
+    "updated": "2025-12-11T07:55:38.978282"
   },
   "games": {
     "570": {
@@ -313786,6 +313786,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-12-10T23:48:53.056690"
+    },
+    "3537660": {
+      "appid": 3537660,
+      "name": "爱氏物语：明治温泉篇",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-12-11T07:55:38.824844"
     }
   }
 }
