@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-12-11T13:11:24.935490"
+    "updated": "2025-12-11T20:53:59.187303"
   },
   "games": {
     "570": {
@@ -313802,6 +313802,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-12-11T13:11:24.764691"
+    },
+    "3538140": {
+      "appid": 3538140,
+      "name": "Heading Over It with The Twins",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-12-11T20:53:58.979212"
+    },
+    "3538180": {
+      "appid": 3538180,
+      "name": "Foxo",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-12-11T20:53:59.185078"
     }
   }
 }
