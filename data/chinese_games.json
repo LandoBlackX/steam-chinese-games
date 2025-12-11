@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-12-11T07:55:38.978282"
+    "updated": "2025-12-11T13:11:24.935490"
   },
   "games": {
     "570": {
@@ -313794,6 +313794,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-12-11T07:55:38.824844"
+    },
+    "3537950": {
+      "appid": 3537950,
+      "name": "Cleaning Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-12-11T13:11:24.764691"
     }
   }
 }
