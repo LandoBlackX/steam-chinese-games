@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-12-12T07:02:16.772360"
+    "updated": "2025-12-12T15:53:10.620362"
   },
   "games": {
     "570": {
@@ -313834,6 +313834,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-12-12T07:02:16.770335"
+    },
+    "3538950": {
+      "appid": 3538950,
+      "name": "昆仑仙境",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-12-12T15:53:10.465084"
     }
   }
 }
