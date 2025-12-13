@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-12-12T23:50:58.199701"
+    "updated": "2025-12-13T01:48:16.827212"
   },
   "games": {
     "570": {
@@ -313850,6 +313850,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-12-12T20:53:11.200078"
+    },
+    "3539500": {
+      "appid": 3539500,
+      "name": "My Witch Wants Elixirs!",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-12-13T01:48:16.665223"
     }
   }
 }
