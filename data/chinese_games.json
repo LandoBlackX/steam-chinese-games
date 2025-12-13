@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-12-13T20:52:01.137579"
+    "updated": "2025-12-13T22:50:04.573871"
   },
   "games": {
     "570": {
@@ -313882,6 +313882,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-12-13T20:52:00.841301"
+    },
+    "3540880": {
+      "appid": 3540880,
+      "name": "Balloon Hater",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-12-13T22:50:04.571221"
     }
   }
 }
