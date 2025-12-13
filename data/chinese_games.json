@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-12-13T08:55:08.945225"
+    "updated": "2025-12-13T18:56:13.257523"
   },
   "games": {
     "570": {
@@ -313866,6 +313866,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-12-13T08:55:08.942843"
+    },
+    "3540610": {
+      "appid": 3540610,
+      "name": "星源猎手：归航",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-12-13T18:56:13.056781"
     }
   }
 }
