@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-12-13T22:50:04.573871"
+    "updated": "2025-12-14T04:00:05.122806"
   },
   "games": {
     "570": {
@@ -313890,6 +313890,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-12-13T22:50:04.571221"
+    },
+    "3541100": {
+      "appid": 3541100,
+      "name": "DigSite: Archeology in Egypt",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-12-14T04:00:04.980385"
+    },
+    "3541130": {
+      "appid": 3541130,
+      "name": "Many Nights a Whisper",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-12-14T04:00:05.120990"
     }
   }
 }
