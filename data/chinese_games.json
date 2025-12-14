@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-12-14T06:59:00.678969"
+    "updated": "2025-12-14T14:49:44.957281"
   },
   "games": {
     "570": {
@@ -313914,6 +313914,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-12-14T06:59:00.676380"
+    },
+    "3541490": {
+      "appid": 3541490,
+      "name": "Dancing Bones",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-12-14T14:49:44.954449"
     }
   }
 }
