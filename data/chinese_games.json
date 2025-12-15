@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-12-15T07:56:00.561133"
+    "updated": "2025-12-15T23:51:46.079869"
   },
   "games": {
     "570": {
@@ -313930,6 +313930,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-12-15T07:56:00.558746"
+    },
+    "3542490": {
+      "appid": 3542490,
+      "name": "Bubbler",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-12-15T23:51:46.077350"
     }
   }
 }
