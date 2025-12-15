@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-12-14T14:49:44.957281"
+    "updated": "2025-12-15T07:56:00.561133"
   },
   "games": {
     "570": {
@@ -313922,6 +313922,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-12-14T14:49:44.954449"
+    },
+    "3541820": {
+      "appid": 3541820,
+      "name": "Galactic Space Guard",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-12-15T07:56:00.558746"
     }
   }
 }
