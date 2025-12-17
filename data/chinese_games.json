@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-12-17T07:01:38.681632"
+    "updated": "2025-12-17T07:55:08.174386"
   },
   "games": {
     "570": {
@@ -313970,6 +313970,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-12-17T07:01:38.679865"
+    },
+    "3543120": {
+      "appid": 3543120,
+      "name": "黎明之前",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-12-17T07:55:08.171975"
     }
   }
 }
