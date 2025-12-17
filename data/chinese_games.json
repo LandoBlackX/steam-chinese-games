@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-12-16T05:07:28.987392"
+    "updated": "2025-12-17T05:53:54.165950"
   },
   "games": {
     "570": {
@@ -313954,6 +313954,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-12-16T05:07:28.985110"
+    },
+    "3543040": {
+      "appid": 3543040,
+      "name": "明末：伐定天下",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-12-17T05:53:54.162695"
     }
   }
 }
