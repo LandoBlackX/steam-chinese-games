@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-12-17T07:55:08.174386"
+    "updated": "2025-12-17T16:57:50.733767"
   },
   "games": {
     "570": {
@@ -313978,6 +313978,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-12-17T07:55:08.171975"
+    },
+    "3543320": {
+      "appid": 3543320,
+      "name": "春泥",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-12-17T16:57:50.731525"
     }
   }
 }
