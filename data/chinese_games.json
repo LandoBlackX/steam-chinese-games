@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-12-17T05:53:54.165950"
+    "updated": "2025-12-17T07:01:38.681632"
   },
   "games": {
     "570": {
@@ -313962,6 +313962,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-12-17T05:53:54.162695"
+    },
+    "3543070": {
+      "appid": 3543070,
+      "name": "诗与咒语",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-12-17T07:01:38.679865"
     }
   }
 }
