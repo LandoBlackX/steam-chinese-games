@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-12-17T23:50:31.138136"
+    "updated": "2025-12-18T01:50:03.179523"
   },
   "games": {
     "570": {
@@ -313994,6 +313994,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-12-17T17:54:52.718889"
+    },
+    "3543440": {
+      "appid": 3543440,
+      "name": "女王的继承者",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-12-18T01:50:03.176597"
     }
   }
 }
