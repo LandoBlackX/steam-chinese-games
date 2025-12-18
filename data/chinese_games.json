@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-12-18T09:57:14.261366"
+    "updated": "2025-12-18T10:55:06.938221"
   },
   "games": {
     "570": {
@@ -314018,6 +314018,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-12-18T09:57:14.258983"
+    },
+    "3543860": {
+      "appid": 3543860,
+      "name": "Seven Sinners",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-12-18T10:55:06.935392"
     }
   }
 }
