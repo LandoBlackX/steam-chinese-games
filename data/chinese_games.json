@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-12-19T07:53:41.183898"
+    "updated": "2025-12-19T19:48:48.821136"
   },
   "games": {
     "570": {
@@ -314042,6 +314042,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-12-19T07:53:41.179921"
+    },
+    "3544640": {
+      "appid": 3544640,
+      "name": "Data Drift: Cyberpunk Shooter Top Down indie action",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-12-19T19:48:48.818941"
     }
   }
 }
