@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-12-19T19:48:48.821136"
+    "updated": "2025-12-20T04:57:39.556535"
   },
   "games": {
     "570": {
@@ -314050,6 +314050,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-12-19T19:48:48.818941"
+    },
+    "3544900": {
+      "appid": 3544900,
+      "name": "Davy Jones' Deckhand",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-12-20T04:57:39.554119"
     }
   }
 }
