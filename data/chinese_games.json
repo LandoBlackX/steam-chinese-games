@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-12-21T08:55:27.903662"
+    "updated": "2025-12-21T09:52:51.321752"
   },
   "games": {
     "570": {
@@ -314082,6 +314082,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-12-21T08:55:27.654260"
+    },
+    "3545990": {
+      "appid": 3545990,
+      "name": "美女，请别影响我成仙",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-12-21T09:52:50.964985"
     }
   }
 }
