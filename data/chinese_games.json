@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-12-20T04:57:39.556535"
+    "updated": "2025-12-21T07:00:13.478312"
   },
   "games": {
     "570": {
@@ -314058,6 +314058,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-12-20T04:57:39.554119"
+    },
+    "3545790": {
+      "appid": 3545790,
+      "name": "神火之痕",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-12-21T07:00:13.280811"
+    },
+    "3545810": {
+      "appid": 3545810,
+      "name": "伽蓝战歌",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-12-21T07:00:13.476527"
     }
   }
 }
