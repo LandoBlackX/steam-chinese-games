@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-12-21T09:52:51.321752"
+    "updated": "2025-12-21T14:49:53.517039"
   },
   "games": {
     "570": {
@@ -314090,6 +314090,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-12-21T09:52:50.964985"
+    },
+    "3546440": {
+      "appid": 3546440,
+      "name": "超级包租公",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-12-21T14:49:53.514723"
     }
   }
 }
