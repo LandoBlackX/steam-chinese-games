@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-12-22T14:06:59.784031"
+    "updated": "2025-12-22T21:50:02.473299"
   },
   "games": {
     "570": {
@@ -314114,6 +314114,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-12-22T14:06:59.781273"
+    },
+    "2193110": {
+      "appid": 2193110,
+      "name": "Hive and Seek",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-12-22T21:20:30.784660"
     }
   }
 }
