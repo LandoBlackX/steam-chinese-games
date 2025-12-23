@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-12-23T09:55:48.544972"
+    "updated": "2025-12-23T23:50:19.671876"
   },
   "games": {
     "570": {
@@ -314130,6 +314130,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-12-23T09:55:48.542740"
+    },
+    "2968540": {
+      "appid": 2968540,
+      "name": "Choomby",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-12-23T23:29:31.039324"
     }
   }
 }
