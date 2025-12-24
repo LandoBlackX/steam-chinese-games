@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-12-24T05:07:36.966611"
+    "updated": "2025-12-24T09:55:49.904179"
   },
   "games": {
     "570": {
@@ -314154,6 +314154,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-12-24T05:07:36.964171"
+    },
+    "3548050": {
+      "appid": 3548050,
+      "name": "The Lost Song",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-12-24T09:55:49.901830"
     }
   }
 }
