@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-12-24T01:52:19.044380"
+    "updated": "2025-12-24T05:07:36.966611"
   },
   "games": {
     "570": {
@@ -314146,6 +314146,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-12-24T01:52:19.042359"
+    },
+    "3547980": {
+      "appid": 3547980,
+      "name": "Seen Before",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-12-24T05:07:36.964171"
     }
   }
 }
