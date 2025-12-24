@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-12-23T23:50:19.671876"
+    "updated": "2025-12-24T01:52:19.044380"
   },
   "games": {
     "570": {
@@ -314138,6 +314138,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-12-23T23:29:31.039324"
+    },
+    "3547960": {
+      "appid": 3547960,
+      "name": "Chronominion Idler",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-12-24T01:52:19.042359"
     }
   }
 }
