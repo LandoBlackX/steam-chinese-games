@@ -5957,8 +5957,8 @@
     },
     {
       "appid": 3546320,
-      "reason": "503 Server Error: Service Unavailable for url: https://store.steampowered.com/api/appdetails?appids=3546320&l=schinese",
-      "timestamp": "2025-12-24T23:05:46.953603"
+      "reason": "API 返回 success: false",
+      "timestamp": "2025-12-25T01:55:20.962895"
     }
   ]
 }
