@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-12-25T07:55:18.463683"
+    "updated": "2025-12-25T11:50:37.531704"
   },
   "games": {
     "570": {
@@ -314170,6 +314170,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-12-25T07:55:18.459377"
+    },
+    "3548580": {
+      "appid": 3548580,
+      "name": "放松时光：与你共享Lo-Fi故事",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-12-25T11:50:37.529969"
     }
   }
 }
