@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-12-24T09:55:49.904179"
+    "updated": "2025-12-25T07:55:18.463683"
   },
   "games": {
     "570": {
@@ -314162,6 +314162,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-12-24T09:55:49.901830"
+    },
+    "3548520": {
+      "appid": 3548520,
+      "name": "汪!巫!录!",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-12-25T07:55:18.459377"
     }
   }
 }
