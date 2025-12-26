@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-12-25T11:50:37.531704"
+    "updated": "2025-12-26T22:53:12.525578"
   },
   "games": {
     "570": {
@@ -314178,6 +314178,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-12-25T11:50:37.529969"
+    },
+    "3549860": {
+      "appid": 3549860,
+      "name": "Backrooms Blackmarket",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-12-26T22:53:12.523261"
     }
   }
 }
