@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-12-27T20:54:08.534207"
+    "updated": "2025-12-27T21:50:01.072135"
   },
   "games": {
     "570": {
@@ -314210,6 +314210,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-12-27T20:54:08.532197"
+    },
+    "3550490": {
+      "appid": 3550490,
+      "name": "Overcome Your Fears - Caretaker",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-12-27T21:50:01.069635"
     }
   }
 }
