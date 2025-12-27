@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-12-27T13:08:03.407845"
+    "updated": "2025-12-27T20:54:08.534207"
   },
   "games": {
     "570": {
@@ -314202,6 +314202,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-12-27T13:08:03.404810"
+    },
+    "3550470": {
+      "appid": 3550470,
+      "name": "Infinite Einstein Tiles",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-12-27T20:54:08.532197"
     }
   }
 }
