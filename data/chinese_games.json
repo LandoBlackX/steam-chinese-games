@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-12-28T07:00:45.992897"
+    "updated": "2025-12-28T10:51:10.060086"
   },
   "games": {
     "570": {
@@ -314242,6 +314242,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-12-28T07:00:45.990338"
+    },
+    "3550880": {
+      "appid": 3550880,
+      "name": "武道残编",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-12-28T10:51:10.057805"
     }
   }
 }
