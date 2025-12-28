@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-12-28T15:50:17.195156"
+    "updated": "2025-12-28T18:57:51.888169"
   },
   "games": {
     "570": {
@@ -314258,6 +314258,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-12-28T15:50:17.192941"
+    },
+    "3551190": {
+      "appid": 3551190,
+      "name": "最终夺回小分队",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-12-28T18:57:51.886244"
     }
   }
 }
