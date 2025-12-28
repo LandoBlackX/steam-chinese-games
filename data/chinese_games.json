@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-12-28T18:57:51.888169"
+    "updated": "2025-12-28T20:52:58.249779"
   },
   "games": {
     "570": {
@@ -314266,6 +314266,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-12-28T18:57:51.886244"
+    },
+    "3551230": {
+      "appid": 3551230,
+      "name": "Zory",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-12-28T20:52:58.247890"
     }
   }
 }
