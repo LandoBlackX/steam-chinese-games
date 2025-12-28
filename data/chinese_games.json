@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-12-28T10:51:10.060086"
+    "updated": "2025-12-28T15:50:17.195156"
   },
   "games": {
     "570": {
@@ -314250,6 +314250,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-12-28T10:51:10.057805"
+    },
+    "3551130": {
+      "appid": 3551130,
+      "name": "东方绮樱绘 ～  Categorical Imperative Valid?",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-12-28T15:50:17.192941"
     }
   }
 }
