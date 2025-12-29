@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-12-29T05:19:23.464130"
+    "updated": "2025-12-29T10:00:54.824534"
   },
   "games": {
     "570": {
@@ -314290,6 +314290,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-12-29T05:19:23.461906"
+    },
+    "3551600": {
+      "appid": 3551600,
+      "name": "Jumpscare Simulator: System Breach",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-12-29T10:00:54.822314"
     }
   }
 }
