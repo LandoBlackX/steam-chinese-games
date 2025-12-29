@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-12-28T20:52:58.249779"
+    "updated": "2025-12-29T04:19:52.014205"
   },
   "games": {
     "570": {
@@ -314274,6 +314274,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-12-28T20:52:58.247890"
+    },
+    "3551340": {
+      "appid": 3551340,
+      "name": "足球经理26",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-12-29T04:19:52.010445"
     }
   }
 }
