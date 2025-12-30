@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-12-29T13:11:40.643870"
+    "updated": "2025-12-30T03:58:28.326090"
   },
   "games": {
     "570": {
@@ -314306,6 +314306,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-12-29T13:11:40.641844"
+    },
+    "3552200": {
+      "appid": 3552200,
+      "name": "It's John's House",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-12-30T03:58:28.323302"
     }
   }
 }
