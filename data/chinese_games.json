@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-12-31T07:02:14.552468"
+    "updated": "2025-12-31T23:50:19.337523"
   },
   "games": {
     "570": {
@@ -314338,6 +314338,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-12-31T07:02:14.550025"
+    },
+    "3553150": {
+      "appid": 3553150,
+      "name": "The Cascadier",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2025-12-31T23:50:19.335227"
     }
   }
 }
