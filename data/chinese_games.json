@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-01T09:55:28.989463"
+    "updated": "2026-01-01T19:48:51.492408"
   },
   "games": {
     "570": {
@@ -314362,6 +314362,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-01-01T09:55:28.985397"
+    },
+    "3553610": {
+      "appid": 3553610,
+      "name": "Mainu",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-01T19:48:51.489900"
     }
   }
 }
