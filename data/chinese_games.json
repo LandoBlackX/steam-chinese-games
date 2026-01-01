@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2025-12-31T23:50:19.337523"
+    "updated": "2026-01-01T05:57:59.875875"
   },
   "games": {
     "570": {
@@ -314346,6 +314346,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2025-12-31T23:50:19.335227"
+    },
+    "3553250": {
+      "appid": 3553250,
+      "name": "Holey",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-01T05:57:59.873891"
     }
   }
 }
