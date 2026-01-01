@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-01T05:57:59.875875"
+    "updated": "2026-01-01T09:55:28.989463"
   },
   "games": {
     "570": {
@@ -314354,6 +314354,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-01-01T05:57:59.873891"
+    },
+    "3553350": {
+      "appid": 3553350,
+      "name": "双人抬棺",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-01T09:55:28.985397"
     }
   }
 }
