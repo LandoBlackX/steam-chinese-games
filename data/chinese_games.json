@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-02T14:04:26.315099"
+    "updated": "2026-01-02T17:49:50.715047"
   },
   "games": {
     "570": {
@@ -314386,6 +314386,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-01-02T14:04:26.312833"
+    },
+    "3554100": {
+      "appid": 3554100,
+      "name": "Warrior's Dilemma",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-02T17:49:50.713160"
     }
   }
 }
