@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-02T10:52:26.897041"
+    "updated": "2026-01-02T14:04:26.315099"
   },
   "games": {
     "570": {
@@ -314378,6 +314378,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-01-02T10:52:26.894267"
+    },
+    "3554010": {
+      "appid": 3554010,
+      "name": "璃星的数织世界",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-02T14:04:26.312833"
     }
   }
 }
