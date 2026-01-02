@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-02T17:49:50.715047"
+    "updated": "2026-01-02T23:50:35.538401"
   },
   "games": {
     "570": {
@@ -314394,6 +314394,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-01-02T17:49:50.713160"
+    },
+    "3554220": {
+      "appid": 3554220,
+      "name": "Funorbit",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-02T23:50:35.536142"
     }
   }
 }
