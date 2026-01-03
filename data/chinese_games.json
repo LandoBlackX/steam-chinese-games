@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-02T23:50:35.538401"
+    "updated": "2026-01-03T18:56:59.452261"
   },
   "games": {
     "570": {
@@ -314402,6 +314402,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-01-02T23:50:35.536142"
+    },
+    "3554660": {
+      "appid": 3554660,
+      "name": "小小忍猫团战棋",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-03T18:56:59.449715"
     }
   }
 }
