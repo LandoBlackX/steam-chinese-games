@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-03T18:56:59.452261"
+    "updated": "2026-01-04T04:21:32.894704"
   },
   "games": {
     "570": {
@@ -314410,6 +314410,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-01-03T18:56:59.449715"
+    },
+    "3554830": {
+      "appid": 3554830,
+      "name": "二战装备自走棋",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-04T04:21:32.892307"
     }
   }
 }
