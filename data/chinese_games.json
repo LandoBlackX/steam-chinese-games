@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-04T11:48:00.919619"
+    "updated": "2026-01-04T17:48:40.409664"
   },
   "games": {
     "570": {
@@ -314450,6 +314450,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-01-04T11:48:00.917541"
+    },
+    "3555150": {
+      "appid": 3555150,
+      "name": "我被女神盯上了! Beauty’s Target",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-04T17:48:40.406799"
     }
   }
 }
