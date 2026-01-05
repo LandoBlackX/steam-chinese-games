@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-04T17:48:40.409664"
+    "updated": "2026-01-05T05:28:12.723063"
   },
   "games": {
     "570": {
@@ -314458,6 +314458,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-01-04T17:48:40.406799"
+    },
+    "3555460": {
+      "appid": 3555460,
+      "name": "KILL ALL ENEMIES",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-05T05:28:12.721250"
     }
   }
 }
