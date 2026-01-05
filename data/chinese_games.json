@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-05T07:59:27.075978"
+    "updated": "2026-01-05T10:55:02.248191"
   },
   "games": {
     "570": {
@@ -314482,6 +314482,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-01-05T07:59:27.074382"
+    },
+    "3555630": {
+      "appid": 3555630,
+      "name": "占山为王",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-05T10:55:02.245827"
     }
   }
 }
