@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-05T07:07:38.485478"
+    "updated": "2026-01-05T07:59:27.075978"
   },
   "games": {
     "570": {
@@ -314474,6 +314474,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-01-05T07:07:38.483525"
+    },
+    "3555520": {
+      "appid": 3555520,
+      "name": "HAMSTERMIND",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-05T07:59:27.074382"
     }
   }
 }
