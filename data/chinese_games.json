@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-05T05:28:12.723063"
+    "updated": "2026-01-05T07:07:38.485478"
   },
   "games": {
     "570": {
@@ -314466,6 +314466,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-01-05T05:28:12.721250"
+    },
+    "3555500": {
+      "appid": 3555500,
+      "name": "Salvage Shop Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-05T07:07:38.483525"
     }
   }
 }
