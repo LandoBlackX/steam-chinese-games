@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-05T10:55:02.248191"
+    "updated": "2026-01-05T19:01:59.427594"
   },
   "games": {
     "570": {
@@ -314490,6 +314490,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-01-05T10:55:02.245827"
+    },
+    "3555780": {
+      "appid": 3555780,
+      "name": "Bookbinding",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-05T19:01:59.425428"
     }
   }
 }
