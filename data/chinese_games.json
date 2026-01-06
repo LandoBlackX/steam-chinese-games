@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-05T21:51:23.212668"
+    "updated": "2026-01-06T01:54:59.114934"
   },
   "games": {
     "570": {
@@ -314506,6 +314506,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-01-05T21:51:23.210483"
+    },
+    "3555930": {
+      "appid": 3555930,
+      "name": "孤寂图书馆",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-06T01:54:59.112677"
     }
   }
 }
