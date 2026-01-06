@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-06T07:02:53.842238"
+    "updated": "2026-01-06T07:57:28.305914"
   },
   "games": {
     "570": {
@@ -314522,6 +314522,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-01-06T07:02:53.839872"
+    },
+    "3555980": {
+      "appid": 3555980,
+      "name": "Caput Mortum",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-06T07:57:28.303716"
     }
   }
 }
