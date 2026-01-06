@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-06T07:57:28.305914"
+    "updated": "2026-01-06T11:50:09.594600"
   },
   "games": {
     "570": {
@@ -314530,6 +314530,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-01-06T07:57:28.303716"
+    },
+    "3556370": {
+      "appid": 3556370,
+      "name": "SNOW HELL",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-06T11:50:09.592386"
     }
   }
 }
