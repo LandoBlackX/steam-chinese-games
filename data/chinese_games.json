@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-06T14:08:38.694545"
+    "updated": "2026-01-06T23:51:30.742639"
   },
   "games": {
     "570": {
@@ -314546,6 +314546,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-01-06T14:08:38.692224"
+    },
+    "3556740": {
+      "appid": 3556740,
+      "name": "雨夜迷醉时～A night filled with the sound of rain～",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-06T23:51:30.740426"
     }
   }
 }
