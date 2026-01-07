@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-07T11:51:33.013983"
+    "updated": "2026-01-07T20:54:57.000652"
   },
   "games": {
     "570": {
@@ -314578,6 +314578,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-01-07T11:51:33.012155"
+    },
+    "3557270": {
+      "appid": 3557270,
+      "name": "小魔女的狂欢节",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-07T20:54:56.998380"
     }
   }
 }
