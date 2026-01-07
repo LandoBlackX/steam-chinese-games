@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-07T07:02:14.573661"
+    "updated": "2026-01-07T11:51:33.013983"
   },
   "games": {
     "570": {
@@ -314570,6 +314570,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-01-07T07:02:14.571446"
+    },
+    "3557050": {
+      "appid": 3557050,
+      "name": "武林奇才2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-07T11:51:33.012155"
     }
   }
 }
