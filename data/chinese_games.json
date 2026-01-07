@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-06T23:51:30.742639"
+    "updated": "2026-01-07T02:15:09.636287"
   },
   "games": {
     "570": {
@@ -314554,6 +314554,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-01-06T23:51:30.740426"
+    },
+    "3556750": {
+      "appid": 3556750,
+      "name": "Warhammer 40,000: Dawn of War - Definitive Edition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-07T02:15:09.634515"
     }
   }
 }
