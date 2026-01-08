@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-08T05:10:18.439952"
+    "updated": "2026-01-08T08:59:18.725023"
   },
   "games": {
     "570": {
@@ -314602,6 +314602,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-01-08T05:10:18.438181"
+    },
+    "3557620": {
+      "appid": 3557620,
+      "name": "Blue Archive",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-08T08:59:18.723082"
     }
   }
 }
