@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-08T13:11:44.241976"
+    "updated": "2026-01-08T18:57:02.649580"
   },
   "games": {
     "570": {
@@ -314618,6 +314618,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-01-08T13:11:44.239866"
+    },
+    "3557990": {
+      "appid": 3557990,
+      "name": "Cats Organized Neatly 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-08T18:57:02.647813"
     }
   }
 }
