@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-08T18:57:02.649580"
+    "updated": "2026-01-08T20:55:09.839184"
   },
   "games": {
     "570": {
@@ -314626,6 +314626,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-01-08T18:57:02.647813"
+    },
+    "3558050": {
+      "appid": 3558050,
+      "name": "Bad Teams",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-08T20:55:09.836950"
     }
   }
 }
