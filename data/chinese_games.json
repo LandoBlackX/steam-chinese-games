@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-07T22:51:53.796329"
+    "updated": "2026-01-08T05:10:18.439952"
   },
   "games": {
     "570": {
@@ -314594,6 +314594,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-01-07T22:51:53.793756"
+    },
+    "3557530": {
+      "appid": 3557530,
+      "name": "Bug Cleaners",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-08T05:10:18.438181"
     }
   }
 }
