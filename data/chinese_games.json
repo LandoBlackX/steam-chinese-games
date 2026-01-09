@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-09T08:59:33.869098"
+    "updated": "2026-01-09T11:50:41.798025"
   },
   "games": {
     "570": {
@@ -314642,6 +314642,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-01-09T08:59:33.866527"
+    },
+    "3558260": {
+      "appid": 3558260,
+      "name": "奈布的冒险 - Naib's Adventure",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-09T11:50:41.795700"
     }
   }
 }
