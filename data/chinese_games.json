@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-09T11:50:41.798025"
+    "updated": "2026-01-09T15:54:26.904804"
   },
   "games": {
     "570": {
@@ -314650,6 +314650,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-01-09T11:50:41.795700"
+    },
+    "3558400": {
+      "appid": 3558400,
+      "name": "Backseat Drivers",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-09T15:54:26.903030"
     }
   }
 }
