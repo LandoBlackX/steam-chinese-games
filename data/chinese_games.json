@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-10T05:04:44.187466"
+    "updated": "2026-01-10T05:52:47.034276"
   },
   "games": {
     "570": {
@@ -314666,6 +314666,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-01-10T05:04:44.185484"
+    },
+    "3558600": {
+      "appid": 3558600,
+      "name": "绿植小筑",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-10T05:52:47.032223"
     }
   }
 }
