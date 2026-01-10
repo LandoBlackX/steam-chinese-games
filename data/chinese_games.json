@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-10T09:50:33.785605"
+    "updated": "2026-01-10T13:06:52.157809"
   },
   "games": {
     "570": {
@@ -314682,6 +314682,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-01-10T09:50:33.783481"
+    },
+    "3558770": {
+      "appid": 3558770,
+      "name": "Harpoon Arena",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-10T13:06:52.155664"
     }
   }
 }
