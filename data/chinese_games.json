@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-10T05:52:47.034276"
+    "updated": "2026-01-10T09:50:33.785605"
   },
   "games": {
     "570": {
@@ -314674,6 +314674,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-01-10T05:52:47.032223"
+    },
+    "3558720": {
+      "appid": 3558720,
+      "name": "Out of Sight VR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-10T09:50:33.783481"
     }
   }
 }
