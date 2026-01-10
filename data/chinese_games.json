@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-09T15:54:26.904804"
+    "updated": "2026-01-10T05:04:44.187466"
   },
   "games": {
     "570": {
@@ -314658,6 +314658,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-01-09T15:54:26.903030"
+    },
+    "3558590": {
+      "appid": 3558590,
+      "name": "Stoneseeker",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-10T05:04:44.185484"
     }
   }
 }
