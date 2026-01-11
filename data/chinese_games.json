@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-11T11:14:26.358939"
+    "updated": "2026-01-11T14:21:21.421318"
   },
   "games": {
     "570": {
@@ -314698,6 +314698,14 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2026-01-11T11:14:04.448856"
+    },
+    "303590": {
+      "appid": 303590,
+      "name": "Hidden in Plain Sight",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-11T14:16:09.532630"
     }
   }
 }
