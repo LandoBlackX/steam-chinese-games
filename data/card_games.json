@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-11T18:29:22.850440"
+    "updated": "2026-01-12T16:28:34.013544"
   },
   "games": {
     "570": {
@@ -88978,6 +88978,22 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2026-01-11T16:20:21.430798"
+    },
+    "617990": {
+      "appid": 617990,
+      "name": "Thieves Of Dingirra",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2026-01-12T16:23:02.221747"
+    },
+    "618330": {
+      "appid": 618330,
+      "name": "Within the Cosmos",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2026-01-12T16:23:02.492727"
     }
   }
 }
