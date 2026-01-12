@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-12T16:28:34.013544"
+    "updated": "2026-01-12T22:17:05.963620"
   },
   "games": {
     "570": {
@@ -314714,6 +314714,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-01-11T18:24:15.870534"
+    },
+    "669290": {
+      "appid": 669290,
+      "name": "Espire 1: VR Operative",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-12T22:16:25.973191"
     }
   }
 }
