@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-13T14:27:34.903403"
+    "updated": "2026-01-13T15:26:24.623733"
   },
   "games": {
     "570": {
@@ -314746,6 +314746,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-01-13T07:22:52.103606"
+    },
+    "767470": {
+      "appid": 767470,
+      "name": "Creatio Ex Nihilo II: Deus Otiosus",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-13T15:21:01.002472"
     }
   }
 }
