@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-12T22:17:05.963620"
+    "updated": "2026-01-13T01:23:08.027791"
   },
   "games": {
     "570": {
@@ -314722,6 +314722,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-01-12T22:16:25.973191"
+    },
+    "683900": {
+      "appid": 683900,
+      "name": "RollerCoaster Tycoon® Classic",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-13T01:18:02.799637"
     }
   }
 }
