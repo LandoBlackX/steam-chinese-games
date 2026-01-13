@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-13T07:27:54.231128"
+    "updated": "2026-01-13T14:27:34.903403"
   },
   "games": {
     "570": {
@@ -88994,6 +88994,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2026-01-12T16:23:02.492727"
+    },
+    "764010": {
+      "appid": 764010,
+      "name": "Insane Cold: Back to the Ice Age",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2026-01-13T14:22:20.557262"
     }
   }
 }
