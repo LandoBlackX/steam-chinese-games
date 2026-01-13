@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-13T05:28:21.117989"
+    "updated": "2026-01-13T07:27:54.231128"
   },
   "games": {
     "570": {
@@ -314738,6 +314738,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-01-13T05:23:14.303944"
+    },
+    "718010": {
+      "appid": 718010,
+      "name": "Robbie Swifthand and the Orb of Mysteries",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-13T07:22:52.103606"
     }
   }
 }
