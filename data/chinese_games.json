@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-13T15:26:24.623733"
+    "updated": "2026-01-13T17:29:28.457997"
   },
   "games": {
     "570": {
@@ -314754,6 +314754,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-01-13T15:21:01.002472"
+    },
+    "781030": {
+      "appid": 781030,
+      "name": "DK Online",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-13T17:23:59.240632"
+    },
+    "782060": {
+      "appid": 782060,
+      "name": "Creatio Ex Nihilo III: Amor Dei",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-13T17:24:06.213670"
     }
   }
 }

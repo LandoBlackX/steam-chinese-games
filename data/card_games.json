@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-13T15:26:24.623733"
+    "updated": "2026-01-13T17:29:28.457997"
   },
   "games": {
     "570": {
@@ -89002,6 +89002,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2026-01-13T14:22:20.557262"
+    },
+    "782250": {
+      "appid": 782250,
+      "name": "Hush Hush - Only Your Love Can Save Them",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2026-01-13T17:24:07.701083"
     }
   }
 }
