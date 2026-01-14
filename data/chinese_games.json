@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-13T17:29:28.457997"
+    "updated": "2026-01-14T13:43:23.442416"
   },
   "games": {
     "570": {
@@ -314770,6 +314770,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-01-13T17:24:06.213670"
+    },
+    "903930": {
+      "appid": 903930,
+      "name": "Brigador Killers",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-14T13:37:56.925894"
     }
   }
 }
