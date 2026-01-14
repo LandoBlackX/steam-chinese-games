@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-14T13:43:23.442416"
+    "updated": "2026-01-14T16:30:58.305806"
   },
   "games": {
     "570": {
@@ -314778,6 +314778,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-01-14T13:37:56.925894"
+    },
+    "929800": {
+      "appid": 929800,
+      "name": "Bikini Heaven",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-14T16:25:50.784906"
     }
   }
 }
