@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-15T04:42:59.930056"
+    "updated": "2026-01-15T12:43:27.054944"
   },
   "games": {
     "570": {
@@ -89010,6 +89010,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2026-01-13T17:24:07.701083"
+    },
+    "1061470": {
+      "appid": 1061470,
+      "name": "Nyasha Valkyrie",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2026-01-15T12:38:25.724388"
     }
   }
 }
