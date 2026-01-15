@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-15T18:37:06.552920"
+    "updated": "2026-01-15T20:26:49.278647"
   },
   "games": {
     "570": {
@@ -314810,6 +314810,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-01-15T18:31:56.870875"
+    },
+    "1114150": {
+      "appid": 1114150,
+      "name": "CarX Street",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-15T20:21:36.046426"
     }
   }
 }
