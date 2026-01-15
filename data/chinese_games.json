@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-15T12:43:27.054944"
+    "updated": "2026-01-15T17:34:30.089143"
   },
   "games": {
     "570": {
@@ -314794,6 +314794,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-01-15T04:37:47.037222"
+    },
+    "1093890": {
+      "appid": 1093890,
+      "name": "秋秋人",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-15T17:29:22.110770"
     }
   }
 }
