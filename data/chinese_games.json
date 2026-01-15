@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-14T16:30:58.305806"
+    "updated": "2026-01-15T04:42:59.930056"
   },
   "games": {
     "570": {
@@ -314786,6 +314786,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-01-14T16:25:50.784906"
+    },
+    "1005240": {
+      "appid": 1005240,
+      "name": "Pixel Puzzles Illustrations & Anime Jigsaw Puzzles",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-15T04:37:47.037222"
     }
   }
 }
