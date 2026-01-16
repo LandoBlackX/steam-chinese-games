@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-16T11:22:38.791746"
+    "updated": "2026-01-16T13:41:16.701630"
   },
   "games": {
     "570": {
@@ -314834,6 +314834,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-01-16T11:17:16.934734"
+    },
+    "1212400": {
+      "appid": 1212400,
+      "name": "剑与魔法的女主角们",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-16T13:35:44.113957"
     }
   }
 }
