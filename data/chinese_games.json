@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-16T17:27:22.871160"
+    "updated": "2026-01-16T18:33:29.918056"
   },
   "games": {
     "570": {
@@ -314850,6 +314850,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-01-16T17:22:10.405157"
+    },
+    "1252160": {
+      "appid": 1252160,
+      "name": "Pejes Vs Zombies",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-16T18:28:18.166859"
     }
   }
 }
