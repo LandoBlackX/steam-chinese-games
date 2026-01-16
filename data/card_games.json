@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-16T18:33:29.918056"
+    "updated": "2026-01-16T19:24:20.488225"
   },
   "games": {
     "570": {
@@ -89018,6 +89018,22 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2026-01-15T12:38:25.724388"
+    },
+    "1254500": {
+      "appid": 1254500,
+      "name": "Bad Lady",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2026-01-16T19:18:47.740672"
+    },
+    "1257430": {
+      "appid": 1257430,
+      "name": "My Harem",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2026-01-16T19:18:58.887898"
     }
   }
 }
