@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-16T20:24:37.066013"
+    "updated": "2026-01-16T22:23:56.279835"
   },
   "games": {
     "570": {
@@ -314874,6 +314874,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-01-16T20:19:30.776599"
+    },
+    "1280060": {
+      "appid": 1280060,
+      "name": "Hoverflow",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-16T22:18:43.431203"
     }
   }
 }
