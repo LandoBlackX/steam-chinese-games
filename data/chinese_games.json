@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-16T19:24:20.488225"
+    "updated": "2026-01-16T20:24:37.066013"
   },
   "games": {
     "570": {
@@ -314858,6 +314858,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-01-16T18:28:18.166859"
+    },
+    "1263240": {
+      "appid": 1263240,
+      "name": "Skate Story",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-16T20:19:23.356447"
+    },
+    "1265570": {
+      "appid": 1265570,
+      "name": "D.M.L.C.！欢闹炸恋生死斗",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-16T20:19:30.776599"
     }
   }
 }
