@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-15T20:26:49.278647"
+    "updated": "2026-01-16T06:34:33.827732"
   },
   "games": {
     "570": {
@@ -314818,6 +314818,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-01-15T20:21:36.046426"
+    },
+    "1162750": {
+      "appid": 1162750,
+      "name": "希克斯之歌",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-16T06:29:10.031926"
     }
   }
 }
