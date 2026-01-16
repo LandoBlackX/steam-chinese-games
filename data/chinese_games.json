@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-16T13:41:16.701630"
+    "updated": "2026-01-16T17:27:22.871160"
   },
   "games": {
     "570": {
@@ -314842,6 +314842,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-01-16T13:35:44.113957"
+    },
+    "1242630": {
+      "appid": 1242630,
+      "name": "Skid Cities",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-16T17:22:10.405157"
     }
   }
 }
