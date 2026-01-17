@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-17T05:23:48.552979"
+    "updated": "2026-01-17T06:31:33.994697"
   },
   "games": {
     "570": {
@@ -314922,6 +314922,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-01-17T05:18:29.137181"
+    },
+    "1318240": {
+      "appid": 1318240,
+      "name": "Shields of Loyalty",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-17T06:26:14.627902"
     }
   }
 }
