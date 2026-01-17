@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-17T03:26:52.338127"
+    "updated": "2026-01-17T04:35:56.912318"
   },
   "games": {
     "570": {
@@ -314906,6 +314906,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-01-17T03:21:34.074766"
+    },
+    "1303670": {
+      "appid": 1303670,
+      "name": "WORLD OF ART JIGSAW PUZZLES ",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-17T04:30:35.657946"
     }
   }
 }
