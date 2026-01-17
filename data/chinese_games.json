@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-17T06:31:33.994697"
+    "updated": "2026-01-17T09:22:58.645208"
   },
   "games": {
     "570": {
@@ -314930,6 +314930,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-01-17T06:26:14.627902"
+    },
+    "1344990": {
+      "appid": 1344990,
+      "name": "如风：盗贼之歌",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-17T09:17:45.890270"
     }
   }
 }
