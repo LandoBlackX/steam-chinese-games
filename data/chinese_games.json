@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-17T13:32:35.110204"
+    "updated": "2026-01-17T15:22:43.421535"
   },
   "games": {
     "570": {
@@ -314954,6 +314954,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-01-17T13:27:18.364047"
+    },
+    "1380980": {
+      "appid": 1380980,
+      "name": "SONZAI：神在之地",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-17T15:17:19.789341"
     }
   }
 }
