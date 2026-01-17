@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-17T16:25:14.596998"
+    "updated": "2026-01-17T17:20:51.361849"
   },
   "games": {
     "570": {
@@ -89042,6 +89042,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2026-01-17T01:18:25.572043"
+    },
+    "1395520": {
+      "appid": 1395520,
+      "name": "The Séance of Blake Manor",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2026-01-17T17:15:36.615096"
     }
   }
 }
