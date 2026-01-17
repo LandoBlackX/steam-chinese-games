@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-16T22:23:56.279835"
+    "updated": "2026-01-17T01:24:01.892921"
   },
   "games": {
     "570": {
@@ -314882,6 +314882,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-01-16T22:18:43.431203"
+    },
+    "1290750": {
+      "appid": 1290750,
+      "name": "Crawl Tactics",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-17T01:18:40.648558"
     }
   }
 }

@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-16T22:23:56.279835"
+    "updated": "2026-01-17T01:24:01.892921"
   },
   "games": {
     "570": {
@@ -89034,6 +89034,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2026-01-16T19:18:58.887898"
+    },
+    "1289670": {
+      "appid": 1289670,
+      "name": "EA Play",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2026-01-17T01:18:25.572043"
     }
   }
 }
