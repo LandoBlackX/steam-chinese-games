@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-17T10:23:01.660795"
+    "updated": "2026-01-17T13:32:35.110204"
   },
   "games": {
     "570": {
@@ -314946,6 +314946,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-01-17T10:17:57.974761"
+    },
+    "1371040": {
+      "appid": 1371040,
+      "name": "Corridors of Their Memories",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-17T13:27:18.364047"
     }
   }
 }
