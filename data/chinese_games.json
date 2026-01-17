@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-17T15:22:43.421535"
+    "updated": "2026-01-17T16:25:14.596998"
   },
   "games": {
     "570": {
@@ -314962,6 +314962,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-01-17T15:17:19.789341"
+    },
+    "1386720": {
+      "appid": 1386720,
+      "name": "Domynyo",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-17T16:19:47.661126"
     }
   }
 }
