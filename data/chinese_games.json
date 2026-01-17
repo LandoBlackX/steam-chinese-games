@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-17T01:24:01.892921"
+    "updated": "2026-01-17T03:26:52.338127"
   },
   "games": {
     "570": {
@@ -314890,6 +314890,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-01-17T01:18:40.648558"
+    },
+    "1296660": {
+      "appid": 1296660,
+      "name": "兵连祸结",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-17T03:20:57.195795"
+    },
+    "1299290": {
+      "appid": 1299290,
+      "name": "Somber Echoes",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-17T03:21:34.074766"
     }
   }
 }
