@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-18T17:20:59.430890"
+    "updated": "2026-01-18T18:29:44.657244"
   },
   "games": {
     "570": {
@@ -315042,6 +315042,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-01-18T17:15:43.348558"
+    },
+    "1544540": {
+      "appid": 1544540,
+      "name": "ALONE",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-18T18:24:32.169307"
     }
   }
 }
