@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-18T06:32:46.858474"
+    "updated": "2026-01-18T09:24:13.271573"
   },
   "games": {
     "570": {
@@ -314986,6 +314986,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-01-17T21:15:58.780635"
+    },
+    "1485160": {
+      "appid": 1485160,
+      "name": "Black Noise",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-18T09:18:58.139342"
+    },
+    "1486350": {
+      "appid": 1486350,
+      "name": "VRoid Studio",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-18T09:19:01.819738"
     }
   }
 }
