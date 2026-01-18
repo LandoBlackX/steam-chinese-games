@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-18T18:29:44.657244"
+    "updated": "2026-01-18T21:21:50.152838"
   },
   "games": {
     "570": {
@@ -315050,6 +315050,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-01-18T18:24:32.169307"
+    },
+    "1560250": {
+      "appid": 1560250,
+      "name": "Rising Front",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-18T21:16:15.280397"
     }
   }
 }
