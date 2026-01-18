@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-18T11:20:15.944123"
+    "updated": "2026-01-18T15:23:00.186162"
   },
   "games": {
     "570": {
@@ -315026,6 +315026,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-01-18T11:15:00.376553"
+    },
+    "1520370": {
+      "appid": 1520370,
+      "name": "Mon Bazou",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-18T15:17:30.715657"
     }
   }
 }
