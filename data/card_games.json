@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-17T21:21:22.923591"
+    "updated": "2026-01-18T06:32:46.858474"
   },
   "games": {
     "570": {
@@ -89050,6 +89050,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2026-01-17T17:15:36.615096"
+    },
+    "1471530": {
+      "appid": 1471530,
+      "name": "100 hidden gnomes",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2026-01-18T06:27:39.454306"
     }
   }
 }
