@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-18T09:24:13.271573"
+    "updated": "2026-01-18T10:23:28.567973"
   },
   "games": {
     "570": {
@@ -315002,6 +315002,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-01-18T09:19:01.819738"
+    },
+    "1492750": {
+      "appid": 1492750,
+      "name": "Mega Knockdown",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-18T10:18:14.714418"
+    },
+    "1493440": {
+      "appid": 1493440,
+      "name": "TORMENTOR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-18T10:18:16.753501"
     }
   }
 }

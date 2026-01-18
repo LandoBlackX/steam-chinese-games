@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-18T09:24:13.271573"
+    "updated": "2026-01-18T10:23:28.567973"
   },
   "games": {
     "570": {
@@ -89058,6 +89058,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2026-01-18T06:27:39.454306"
+    },
+    "1493300": {
+      "appid": 1493300,
+      "name": "100 hidden aliens",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2026-01-18T10:18:16.361159"
     }
   }
 }
