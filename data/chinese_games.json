@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-18T15:23:00.186162"
+    "updated": "2026-01-18T17:20:59.430890"
   },
   "games": {
     "570": {
@@ -315034,6 +315034,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-01-18T15:17:30.715657"
+    },
+    "1537440": {
+      "appid": 1537440,
+      "name": "恶霸反抗军 Bosslords  ",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-18T17:15:43.348558"
     }
   }
 }
