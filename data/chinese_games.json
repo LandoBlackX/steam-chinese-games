@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-19T12:47:45.637606"
+    "updated": "2026-01-19T14:31:15.236802"
   },
   "games": {
     "570": {
@@ -315114,6 +315114,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-01-19T12:42:21.715507"
+    },
+    "1648360": {
+      "appid": 1648360,
+      "name": "Luminary",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-19T14:25:41.374141"
+    },
+    "1649950": {
+      "appid": 1649950,
+      "name": "News Tower",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-19T14:25:57.669855"
     }
   }
 }
