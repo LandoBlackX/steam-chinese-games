@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-18T21:21:50.152838"
+    "updated": "2026-01-19T03:53:38.442278"
   },
   "games": {
     "570": {
@@ -315058,6 +315058,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-01-18T21:16:15.280397"
+    },
+    "1583600": {
+      "appid": 1583600,
+      "name": "赌博时光机",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-19T03:48:14.593649"
     }
   }
 }
