@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-19T14:31:15.236802"
+    "updated": "2026-01-19T18:34:10.975643"
   },
   "games": {
     "570": {
@@ -315130,6 +315130,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-01-19T14:25:57.669855"
+    },
+    "1674820": {
+      "appid": 1674820,
+      "name": "TFC: The Fertile Crescent",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-19T18:28:50.470918"
     }
   }
 }
