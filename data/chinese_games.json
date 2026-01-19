@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-19T10:30:51.986324"
+    "updated": "2026-01-19T11:25:36.105393"
   },
   "games": {
     "570": {
@@ -315082,6 +315082,30 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-01-19T10:25:33.021650"
+    },
+    "1630290": {
+      "appid": 1630290,
+      "name": "Yu Crossing Animals",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-19T11:20:13.337552"
+    },
+    "1630530": {
+      "appid": 1630530,
+      "name": "Universe999999",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-19T11:20:14.918509"
+    },
+    "1632060": {
+      "appid": 1632060,
+      "name": "Terminal Earth",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-19T11:20:23.222264"
     }
   }
 }
