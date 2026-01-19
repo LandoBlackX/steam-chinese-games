@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-19T03:53:38.442278"
+    "updated": "2026-01-19T10:30:51.986324"
   },
   "games": {
     "570": {
@@ -315066,6 +315066,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-01-19T03:48:14.593649"
+    },
+    "1624190": {
+      "appid": 1624190,
+      "name": "满室繁星",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-19T10:25:26.661565"
+    },
+    "1625170": {
+      "appid": 1625170,
+      "name": "Skull Seeker",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-19T10:25:33.021650"
     }
   }
 }
