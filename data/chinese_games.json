@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-19T11:25:36.105393"
+    "updated": "2026-01-19T12:47:45.637606"
   },
   "games": {
     "570": {
@@ -315106,6 +315106,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-01-19T11:20:23.222264"
+    },
+    "1636460": {
+      "appid": 1636460,
+      "name": "Magissy",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-19T12:42:21.715507"
     }
   }
 }
