@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-20T15:34:47.992889"
+    "updated": "2026-01-20T17:33:46.540975"
   },
   "games": {
     "570": {
@@ -315154,6 +315154,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-01-20T14:29:41.475622"
+    },
+    "1792770": {
+      "appid": 1792770,
+      "name": "DEVICE 0101",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-20T17:28:32.515819"
     }
   }
 }
