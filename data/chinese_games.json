@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-20T01:27:52.506891"
+    "updated": "2026-01-20T04:48:49.443497"
   },
   "games": {
     "570": {
@@ -315138,6 +315138,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-01-19T18:28:50.470918"
+    },
+    "1719420": {
+      "appid": 1719420,
+      "name": "Slenderman: Unbecoming",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-20T04:43:39.235692"
     }
   }
 }
