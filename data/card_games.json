@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-19T18:34:10.975643"
+    "updated": "2026-01-20T01:27:52.506891"
   },
   "games": {
     "570": {
@@ -89074,6 +89074,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2026-01-18T15:22:58.923813"
+    },
+    "1708190": {
+      "appid": 1708190,
+      "name": "100 hidden rams",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2026-01-20T01:22:45.835086"
     }
   }
 }
