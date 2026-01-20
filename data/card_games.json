@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-20T14:34:56.241321"
+    "updated": "2026-01-20T15:34:47.992889"
   },
   "games": {
     "570": {
@@ -89090,6 +89090,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2026-01-20T04:43:36.568323"
+    },
+    "1780370": {
+      "appid": 1780370,
+      "name": "Mr. Rainer's Solve-It Service",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2026-01-20T15:29:27.122897"
     }
   }
 }
