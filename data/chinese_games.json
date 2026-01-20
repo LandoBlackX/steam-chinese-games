@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-20T04:48:49.443497"
+    "updated": "2026-01-20T14:34:56.241321"
   },
   "games": {
     "570": {
@@ -315146,6 +315146,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-01-20T04:43:39.235692"
+    },
+    "1777480": {
+      "appid": 1777480,
+      "name": "拓路者：漂泊之刃 Pathbreakers: Roaming Blades",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-20T14:29:41.475622"
     }
   }
 }
