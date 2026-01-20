@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-20T18:38:02.774289"
+    "updated": "2026-01-20T22:27:36.849409"
   },
   "games": {
     "570": {
@@ -315170,6 +315170,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-01-20T18:32:41.797673"
+    },
+    "1817500": {
+      "appid": 1817500,
+      "name": "Abandoned Archive",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-20T22:22:29.817165"
     }
   }
 }
