@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-20T17:33:46.540975"
+    "updated": "2026-01-20T18:38:02.774289"
   },
   "games": {
     "570": {
@@ -315162,6 +315162,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-01-20T17:28:32.515819"
+    },
+    "1799840": {
+      "appid": 1799840,
+      "name": "Queen's Domain",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-20T18:32:41.797673"
     }
   }
 }
