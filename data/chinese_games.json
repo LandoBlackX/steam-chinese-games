@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-21T20:31:09.641245"
+    "updated": "2026-01-21T22:26:17.714904"
   },
   "games": {
     "570": {
@@ -315250,6 +315250,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-01-21T20:30:59.755929"
+    },
+    "1933930": {
+      "appid": 1933930,
+      "name": "古农庄",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2026-01-21T22:25:51.148050"
     }
   }
 }
