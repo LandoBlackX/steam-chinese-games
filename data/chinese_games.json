@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-21T10:32:39.978581"
+    "updated": "2026-01-21T13:51:16.701873"
   },
   "games": {
     "570": {
@@ -315202,6 +315202,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-01-21T09:32:27.818395"
+    },
+    "1889120": {
+      "appid": 1889120,
+      "name": "The Forked Road",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-21T13:51:11.342075"
+    },
+    "1889810": {
+      "appid": 1889810,
+      "name": "波波萌宠大作战",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-21T13:51:15.352677"
     }
   }
 }
