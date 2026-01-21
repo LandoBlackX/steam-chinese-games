@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-21T13:51:16.701873"
+    "updated": "2026-01-21T15:36:35.622021"
   },
   "games": {
     "570": {
@@ -315218,6 +315218,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-01-21T13:51:15.352677"
+    },
+    "1897590": {
+      "appid": 1897590,
+      "name": "VIKING - Sagas of the Norse Lands",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-21T15:31:18.502256"
+    },
+    "1899120": {
+      "appid": 1899120,
+      "name": "Shyftrs",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-21T15:31:26.942573"
     }
   }
 }
