@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-21T06:39:27.316809"
+    "updated": "2026-01-21T09:37:35.138531"
   },
   "games": {
     "570": {
@@ -315194,6 +315194,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-01-21T06:39:26.591491"
+    },
+    "1866130": {
+      "appid": 1866130,
+      "name": "异变金属",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-21T09:32:27.818395"
     }
   }
 }
