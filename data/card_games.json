@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-21T09:37:35.138531"
+    "updated": "2026-01-21T10:32:39.978581"
   },
   "games": {
     "570": {
@@ -89098,6 +89098,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2026-01-20T15:29:27.122897"
+    },
+    "1868360": {
+      "appid": 1868360,
+      "name": "Deep Sleep: Labyrinth of the Forsaken",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2026-01-21T10:27:08.968283"
     }
   }
 }
