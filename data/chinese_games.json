@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-21T22:26:17.714904"
+    "updated": "2026-01-21T23:26:07.455978"
   },
   "games": {
     "570": {
@@ -315258,6 +315258,22 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2026-01-21T22:25:51.148050"
+    },
+    "1938750": {
+      "appid": 1938750,
+      "name": "Out of Stock!",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-21T23:25:47.525624"
+    },
+    "1939390": {
+      "appid": 1939390,
+      "name": "Dino Party",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-21T23:25:49.548211"
     }
   }
 }
