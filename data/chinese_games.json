@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-20T22:27:36.849409"
+    "updated": "2026-01-21T06:39:27.316809"
   },
   "games": {
     "570": {
@@ -315178,6 +315178,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-01-20T22:22:29.817165"
+    },
+    "1847420": {
+      "appid": 1847420,
+      "name": "Tatari",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-21T06:34:08.320969"
+    },
+    "1850280": {
+      "appid": 1850280,
+      "name": "GwenBlade",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-21T06:39:26.591491"
     }
   }
 }
