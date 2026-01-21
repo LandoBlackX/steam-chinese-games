@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-21T15:36:35.622021"
+    "updated": "2026-01-21T16:47:26.011532"
   },
   "games": {
     "570": {
@@ -89106,6 +89106,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2026-01-21T10:27:08.968283"
+    },
+    "1905950": {
+      "appid": 1905950,
+      "name": "Shelter 69",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2026-01-21T16:47:21.804766"
     }
   }
 }
