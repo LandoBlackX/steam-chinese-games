@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-21T23:26:07.455978"
+    "updated": "2026-01-22T01:27:52.326414"
   },
   "games": {
     "570": {
@@ -315274,6 +315274,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-01-21T23:25:49.548211"
+    },
+    "1946140": {
+      "appid": 1946140,
+      "name": "Jigsaw Puzzles Infinite",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-22T01:27:37.796887"
     }
   }
 }
