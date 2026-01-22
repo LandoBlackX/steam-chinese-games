@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-22T05:35:06.427527"
+    "updated": "2026-01-22T06:33:43.743329"
   },
   "games": {
     "570": {
@@ -315306,6 +315306,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-01-22T05:35:01.901208"
+    },
+    "1968440": {
+      "appid": 1968440,
+      "name": "Strange Hunting Grounds",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-22T06:33:37.654468"
     }
   }
 }
