@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-22T15:31:53.307036"
+    "updated": "2026-01-22T18:31:52.429176"
   },
   "games": {
     "570": {
@@ -89130,6 +89130,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2026-01-22T12:44:09.898801"
+    },
+    "2057760": {
+      "appid": 2057760,
+      "name": "Esoteric Ebb",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2026-01-22T18:31:07.146362"
     }
   }
 }
