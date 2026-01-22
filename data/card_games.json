@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-22T10:28:02.629214"
+    "updated": "2026-01-22T12:49:43.723761"
   },
   "games": {
     "570": {
@@ -89122,6 +89122,14 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2026-01-21T22:25:51.148050"
+    },
+    "2000970": {
+      "appid": 2000970,
+      "name": "Beacon of Neyda",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2026-01-22T12:44:09.898801"
     }
   }
 }

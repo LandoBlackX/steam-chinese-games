@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-22T10:28:02.629214"
+    "updated": "2026-01-22T12:49:43.723761"
   },
   "games": {
     "570": {
@@ -315330,6 +315330,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-01-22T10:27:44.308206"
+    },
+    "1998310": {
+      "appid": 1998310,
+      "name": "弧旋极速（Max Twist）",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-22T12:43:59.012852"
     }
   }
 }
