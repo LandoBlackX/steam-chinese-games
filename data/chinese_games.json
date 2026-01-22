@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-22T22:24:54.773137"
+    "updated": "2026-01-22T23:23:24.948680"
   },
   "games": {
     "570": {
@@ -315370,6 +315370,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-01-22T22:23:53.880212"
+    },
+    "2085660": {
+      "appid": 2085660,
+      "name": "Devices Tycoon",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-22T23:23:11.151518"
     }
   }
 }

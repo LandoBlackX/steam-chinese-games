@@ -5956,9 +5956,9 @@
       "timestamp": "2026-01-14T11:17:39.782326"
     },
     {
-      "appid": 2080700,
-      "reason": "502 Server Error: Bad Gateway for url: https://store.steampowered.com/api/appdetails?appids=2080700&l=schinese",
-      "timestamp": "2026-01-22T22:24:29.753079"
+      "appid": 2080670,
+      "reason": "API 返回 success: false",
+      "timestamp": "2026-01-22T23:22:55.887846"
     }
   ]
 }
