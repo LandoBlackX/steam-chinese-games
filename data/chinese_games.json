@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-22T08:31:16.177674"
+    "updated": "2026-01-22T10:28:02.629214"
   },
   "games": {
     "570": {
@@ -315322,6 +315322,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-01-22T08:31:11.133178"
+    },
+    "1987550": {
+      "appid": 1987550,
+      "name": "Via Mortis",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-22T10:27:44.308206"
     }
   }
 }
