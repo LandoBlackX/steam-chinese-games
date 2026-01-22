@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-22T21:24:42.886774"
+    "updated": "2026-01-22T22:24:54.773137"
   },
   "games": {
     "570": {
@@ -89138,6 +89138,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2026-01-22T18:31:07.146362"
+    },
+    "2079180": {
+      "appid": 2079180,
+      "name": "VIDEOVERSE",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2026-01-22T22:23:58.647549"
     }
   }
 }
