@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-22T01:27:52.326414"
+    "updated": "2026-01-22T05:35:06.427527"
   },
   "games": {
     "570": {
@@ -315282,6 +315282,30 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-01-22T01:27:37.796887"
+    },
+    "1962020": {
+      "appid": 1962020,
+      "name": "Space Tournament",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-22T05:29:50.624641"
+    },
+    "1962950": {
+      "appid": 1962950,
+      "name": "The Green Light",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-22T05:29:54.715078"
+    },
+    "1964380": {
+      "appid": 1964380,
+      "name": "My little sister: Prologue",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-22T05:35:01.901208"
     }
   }
 }
