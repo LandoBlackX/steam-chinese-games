@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-23T06:35:02.396064"
+    "updated": "2026-01-23T07:28:29.654053"
   },
   "games": {
     "570": {
@@ -315394,6 +315394,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-01-23T06:34:31.766383"
+    },
+    "2115490": {
+      "appid": 2115490,
+      "name": "High School Dirty Secrets/学园秽闻",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-23T07:28:05.430083"
     }
   }
 }
