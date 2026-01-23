@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-23T01:26:59.547380"
+    "updated": "2026-01-23T03:44:54.597616"
   },
   "games": {
     "570": {
@@ -89146,6 +89146,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2026-01-22T22:23:58.647549"
+    },
+    "2093900": {
+      "appid": 2093900,
+      "name": "Island Cities - Jigsaw Puzzle",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2026-01-23T03:44:29.216072"
     }
   }
 }
