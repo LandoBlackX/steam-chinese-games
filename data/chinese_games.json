@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-23T13:45:26.635219"
+    "updated": "2026-01-23T17:29:12.283697"
   },
   "games": {
     "570": {
@@ -315418,6 +315418,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-01-23T13:45:15.039829"
+    },
+    "2168190": {
+      "appid": 2168190,
+      "name": "Cats Cradle",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-23T17:28:47.304139"
     }
   }
 }
