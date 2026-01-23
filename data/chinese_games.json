@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-23T17:29:12.283697"
+    "updated": "2026-01-23T18:33:53.887826"
   },
   "games": {
     "570": {
@@ -315426,6 +315426,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-01-23T17:28:47.304139"
+    },
+    "2174500": {
+      "appid": 2174500,
+      "name": "Parasite Black",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-23T18:33:05.878224"
+    },
+    "2177510": {
+      "appid": 2177510,
+      "name": "EthrA",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-23T18:33:42.561640"
     }
   }
 }
