@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-23T09:32:26.852046"
+    "updated": "2026-01-23T13:45:26.635219"
   },
   "games": {
     "570": {
@@ -315410,6 +315410,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-01-23T09:32:24.127070"
+    },
+    "2147900": {
+      "appid": 2147900,
+      "name": "Evil Nightmares",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-23T13:45:15.039829"
     }
   }
 }
