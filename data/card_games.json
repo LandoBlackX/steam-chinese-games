@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-23T18:33:53.887826"
+    "updated": "2026-01-23T22:21:23.522679"
   },
   "games": {
     "570": {
@@ -89154,6 +89154,22 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2026-01-23T03:44:29.216072"
+    },
+    "2194790": {
+      "appid": 2194790,
+      "name": "Studio System : Guardian Angel",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2026-01-23T22:20:44.099762"
+    },
+    "2197890": {
+      "appid": 2197890,
+      "name": "Paranormal Cleanup",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2026-01-23T22:21:19.028106"
     }
   }
 }

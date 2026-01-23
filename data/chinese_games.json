@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-23T18:33:53.887826"
+    "updated": "2026-01-23T22:21:23.522679"
   },
   "games": {
     "570": {
@@ -315442,6 +315442,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-01-23T18:33:42.561640"
+    },
+    "2197170": {
+      "appid": 2197170,
+      "name": "Aswang Detective: The Case of New York",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-23T22:21:16.480974"
+    },
+    "2197890": {
+      "appid": 2197890,
+      "name": "Paranormal Cleanup",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2026-01-23T22:21:19.028106"
     }
   }
 }
