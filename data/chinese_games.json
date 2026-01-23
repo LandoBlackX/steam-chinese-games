@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-22T23:23:24.948680"
+    "updated": "2026-01-23T01:26:59.547380"
   },
   "games": {
     "570": {
@@ -315378,6 +315378,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-01-22T23:23:11.151518"
+    },
+    "2091150": {
+      "appid": 2091150,
+      "name": "Apocalypse Factory",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-23T01:26:46.028011"
     }
   }
 }
