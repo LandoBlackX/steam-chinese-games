@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-23T07:28:29.654053"
+    "updated": "2026-01-23T09:32:26.852046"
   },
   "games": {
     "570": {
@@ -315402,6 +315402,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-01-23T07:28:05.430083"
+    },
+    "2128430": {
+      "appid": 2128430,
+      "name": "Seven Seas: Adventures",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-23T09:32:24.127070"
     }
   }
 }
