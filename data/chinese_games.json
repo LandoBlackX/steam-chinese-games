@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-23T03:44:54.597616"
+    "updated": "2026-01-23T06:35:02.396064"
   },
   "games": {
     "570": {
@@ -315386,6 +315386,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-01-23T01:26:46.028011"
+    },
+    "2111550": {
+      "appid": 2111550,
+      "name": "Schrodinger's Cat Burglar",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-23T06:34:31.766383"
     }
   }
 }
