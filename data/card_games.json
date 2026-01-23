@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-23T22:21:23.522679"
+    "updated": "2026-01-23T23:24:19.039976"
   },
   "games": {
     "570": {
@@ -89170,6 +89170,14 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2026-01-23T22:21:19.028106"
+    },
+    "2204350": {
+      "appid": 2204350,
+      "name": "Midnight Heist",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2026-01-23T23:24:18.851311"
     }
   }
 }
