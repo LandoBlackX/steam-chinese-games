@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-24T06:33:42.463127"
+    "updated": "2026-01-24T08:28:43.007203"
   },
   "games": {
     "570": {
@@ -89186,6 +89186,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2026-01-24T04:39:22.182533"
+    },
+    "2236070": {
+      "appid": 2236070,
+      "name": "Peaks of Yore",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2026-01-24T08:28:20.822554"
     }
   }
 }
