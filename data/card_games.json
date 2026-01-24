@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-24T08:28:43.007203"
+    "updated": "2026-01-24T09:23:48.833995"
   },
   "games": {
     "570": {
@@ -89194,6 +89194,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2026-01-24T08:28:20.822554"
+    },
+    "2240920": {
+      "appid": 2240920,
+      "name": "Vaudeville",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2026-01-24T09:23:34.491053"
     }
   }
 }
