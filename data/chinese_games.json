@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-24T20:24:57.098004"
+    "updated": "2026-01-24T21:21:26.393600"
   },
   "games": {
     "570": {
@@ -315546,6 +315546,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-01-24T20:24:48.135987"
+    },
+    "2305380": {
+      "appid": 2305380,
+      "name": "Attack on Hex Island",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-24T21:21:16.306320"
+    },
+    "2305990": {
+      "appid": 2305990,
+      "name": "Street Basket Challenge",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-24T21:21:18.129049"
     }
   }
 }
