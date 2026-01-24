@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-24T04:39:25.166798"
+    "updated": "2026-01-24T06:33:42.463127"
   },
   "games": {
     "570": {
@@ -315498,6 +315498,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-01-24T04:39:20.243750"
+    },
+    "2228840": {
+      "appid": 2228840,
+      "name": "西格洛夫的低语",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-24T06:33:35.927373"
     }
   }
 }
