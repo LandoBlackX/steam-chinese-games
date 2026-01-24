@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-24T19:20:55.573775"
+    "updated": "2026-01-24T20:24:57.098004"
   },
   "games": {
     "570": {
@@ -315538,6 +315538,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-01-24T19:20:44.192792"
+    },
+    "2301240": {
+      "appid": 2301240,
+      "name": "Mutter",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-24T20:24:48.135987"
     }
   }
 }
