@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-24T11:21:35.348363"
+    "updated": "2026-01-24T12:40:04.762749"
   },
   "games": {
     "570": {
@@ -315514,6 +315514,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-01-24T11:21:34.492321"
+    },
+    "2257440": {
+      "appid": 2257440,
+      "name": "Tom the postgirl",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-24T12:39:41.438886"
     }
   }
 }
