@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-24T09:23:48.833995"
+    "updated": "2026-01-24T11:21:35.348363"
   },
   "games": {
     "570": {
@@ -89202,6 +89202,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2026-01-24T09:23:34.491053"
+    },
+    "2254910": {
+      "appid": 2254910,
+      "name": "100 hidden frogs 2",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2026-01-24T11:21:29.740728"
     }
   }
 }

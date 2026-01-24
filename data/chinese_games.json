@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-24T09:23:48.833995"
+    "updated": "2026-01-24T11:21:35.348363"
   },
   "games": {
     "570": {
@@ -315506,6 +315506,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-01-24T06:33:35.927373"
+    },
+    "2256240": {
+      "appid": 2256240,
+      "name": "有生命的文字",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-24T11:21:34.492321"
     }
   }
 }
