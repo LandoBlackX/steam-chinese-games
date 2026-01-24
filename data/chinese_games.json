@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-24T18:31:13.784532"
+    "updated": "2026-01-24T19:20:55.573775"
   },
   "games": {
     "570": {
@@ -315530,6 +315530,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-01-24T18:31:06.328341"
+    },
+    "2295170": {
+      "appid": 2295170,
+      "name": "Emberville",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-24T19:20:44.192792"
     }
   }
 }

@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-24T18:31:13.784532"
+    "updated": "2026-01-24T19:20:55.573775"
   },
   "games": {
     "570": {
@@ -89210,6 +89210,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2026-01-24T11:21:29.740728"
+    },
+    "2295070": {
+      "appid": 2295070,
+      "name": "Poems & Codes",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2026-01-24T19:20:43.666862"
     }
   }
 }
