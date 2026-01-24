@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-23T23:24:19.039976"
+    "updated": "2026-01-24T04:39:25.166798"
   },
   "games": {
     "570": {
@@ -89178,6 +89178,14 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2026-01-23T23:24:18.851311"
+    },
+    "2218970": {
+      "appid": 2218970,
+      "name": "Plains of Pain",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2026-01-24T04:39:22.182533"
     }
   }
 }

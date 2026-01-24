@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-23T23:24:19.039976"
+    "updated": "2026-01-24T04:39:25.166798"
   },
   "games": {
     "570": {
@@ -315482,6 +315482,22 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2026-01-23T23:24:18.851311"
+    },
+    "2215390": {
+      "appid": 2215390,
+      "name": "Five Nights at Freddy's: Secret of the Mimic",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-24T04:39:11.525651"
+    },
+    "2218500": {
+      "appid": 2218500,
+      "name": "Vector Wave",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-24T04:39:20.243750"
     }
   }
 }
