@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-24T21:21:26.393600"
+    "updated": "2026-01-25T01:35:44.910665"
   },
   "games": {
     "570": {
@@ -315562,6 +315562,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-01-24T21:21:18.129049"
+    },
+    "2320250": {
+      "appid": 2320250,
+      "name": "如风：序章",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-25T01:35:22.697099"
     }
   }
 }
