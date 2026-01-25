@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-25T17:21:56.893675"
+    "updated": "2026-01-25T23:30:15.558317"
   },
   "games": {
     "570": {
@@ -89218,6 +89218,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2026-01-24T19:20:43.666862"
+    },
+    "2424810": {
+      "appid": 2424810,
+      "name": "Lost at Birth",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2026-01-25T23:24:56.586287"
     }
   }
 }

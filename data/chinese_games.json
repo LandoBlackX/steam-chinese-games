@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-25T17:21:56.893675"
+    "updated": "2026-01-25T23:30:15.558317"
   },
   "games": {
     "570": {
@@ -315626,6 +315626,30 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-01-25T17:21:44.705840"
+    },
+    "2423090": {
+      "appid": 2423090,
+      "name": "Reincarnated as a Noble - RPG",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-25T23:24:49.108623"
+    },
+    "2425320": {
+      "appid": 2425320,
+      "name": "Blind Bullet",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-25T23:24:58.695363"
+    },
+    "2426120": {
+      "appid": 2426120,
+      "name": "Concubine",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-25T23:25:03.954610"
     }
   }
 }
