@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-25T08:29:01.963482"
+    "updated": "2026-01-25T11:22:05.277117"
   },
   "games": {
     "570": {
@@ -315594,6 +315594,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-01-25T08:29:00.883770"
+    },
+    "2366500": {
+      "appid": 2366500,
+      "name": "RuneQuest: Warlords",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-25T11:21:58.907644"
     }
   }
 }
