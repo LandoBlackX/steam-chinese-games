@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-25T01:35:44.910665"
+    "updated": "2026-01-25T08:29:01.963482"
   },
   "games": {
     "570": {
@@ -315570,6 +315570,30 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-01-25T01:35:22.697099"
+    },
+    "2351640": {
+      "appid": 2351640,
+      "name": "时间试炼",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-25T08:28:56.838153"
+    },
+    "2352670": {
+      "appid": 2352670,
+      "name": "Arcadium - Space Odyssey",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-25T08:28:59.810804"
+    },
+    "2353050": {
+      "appid": 2353050,
+      "name": "WTF - Waifu Tactical Force",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-25T08:29:00.883770"
     }
   }
 }
