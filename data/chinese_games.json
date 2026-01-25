@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-25T16:33:42.428532"
+    "updated": "2026-01-25T17:21:56.893675"
   },
   "games": {
     "570": {
@@ -315618,6 +315618,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-01-25T16:28:09.282983"
+    },
+    "2393870": {
+      "appid": 2393870,
+      "name": "Whispers of the Luminaries",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-25T17:21:44.705840"
     }
   }
 }
