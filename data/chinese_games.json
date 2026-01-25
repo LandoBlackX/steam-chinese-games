@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-25T11:22:05.277117"
+    "updated": "2026-01-25T15:23:42.228238"
   },
   "games": {
     "570": {
@@ -315602,6 +315602,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-01-25T11:21:58.907644"
+    },
+    "2386380": {
+      "appid": 2386380,
+      "name": "The Mighty Claw",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-25T15:23:38.611240"
     }
   }
 }
