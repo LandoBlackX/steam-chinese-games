@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-25T15:23:42.228238"
+    "updated": "2026-01-25T16:33:42.428532"
   },
   "games": {
     "570": {
@@ -315610,6 +315610,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-01-25T15:23:38.611240"
+    },
+    "2390130": {
+      "appid": 2390130,
+      "name": "Design and Conjure",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-25T16:28:09.282983"
     }
   }
 }
