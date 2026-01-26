@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-26T04:06:37.898647"
+    "updated": "2026-01-26T05:06:14.446346"
   },
   "games": {
     "570": {
@@ -315674,6 +315674,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-01-26T04:01:35.237991"
+    },
+    "2437390": {
+      "appid": 2437390,
+      "name": "引擎坠落",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-26T05:00:37.142454"
     }
   }
 }
