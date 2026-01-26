@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-26T17:40:46.713108"
+    "updated": "2026-01-26T19:34:17.315185"
   },
   "games": {
     "570": {
@@ -315770,6 +315770,30 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-01-26T17:35:19.693816"
+    },
+    "2517860": {
+      "appid": 2517860,
+      "name": "JustWatchMyCat",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-26T19:29:02.082413"
+    },
+    "2519440": {
+      "appid": 2519440,
+      "name": "Tangled Crisis",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-26T19:29:08.006443"
+    },
+    "2521500": {
+      "appid": 2521500,
+      "name": "Speechbound - A language RPG",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-26T19:34:17.017581"
     }
   }
 }
