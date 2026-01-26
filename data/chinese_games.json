@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-26T05:06:14.446346"
+    "updated": "2026-01-26T05:43:33.886365"
   },
   "games": {
     "570": {
@@ -315682,6 +315682,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-01-26T05:00:37.142454"
+    },
+    "2442860": {
+      "appid": 2442860,
+      "name": "Math & Topology",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-26T05:38:14.712098"
+    },
+    "2443770": {
+      "appid": 2443770,
+      "name": "Will You Wheel?",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-26T05:38:18.828903"
     }
   }
 }
