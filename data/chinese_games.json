@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-25T23:30:15.558317"
+    "updated": "2026-01-26T04:06:37.898647"
   },
   "games": {
     "570": {
@@ -315650,6 +315650,30 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-01-25T23:25:03.954610"
+    },
+    "2434290": {
+      "appid": 2434290,
+      "name": "Box Dungeons",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-26T04:01:17.636974"
+    },
+    "2436350": {
+      "appid": 2436350,
+      "name": "十八层地狱",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-26T04:01:33.566501"
+    },
+    "2436810": {
+      "appid": 2436810,
+      "name": "Go! Go! Mister Chickums",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-26T04:01:35.237991"
     }
   }
 }
