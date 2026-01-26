@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-26T12:52:02.135709"
+    "updated": "2026-01-26T13:54:29.248534"
   },
   "games": {
     "570": {
@@ -315738,6 +315738,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-01-26T12:46:56.429805"
+    },
+    "2486730": {
+      "appid": 2486730,
+      "name": "ART IS RIFLE",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-26T13:49:14.362848"
     }
   }
 }
