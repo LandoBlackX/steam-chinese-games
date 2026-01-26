@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-26T15:38:58.894893"
+    "updated": "2026-01-26T17:40:46.713108"
   },
   "games": {
     "570": {
@@ -315754,6 +315754,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-01-26T15:33:32.513468"
+    },
+    "2508150": {
+      "appid": 2508150,
+      "name": "Untrusted: hackers at large",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-26T17:35:14.852366"
+    },
+    "2509270": {
+      "appid": 2509270,
+      "name": "TANK STORAGE",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-26T17:35:19.693816"
     }
   }
 }
