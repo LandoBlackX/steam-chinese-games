@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-26T05:43:33.886365"
+    "updated": "2026-01-26T09:44:03.721578"
   },
   "games": {
     "570": {
@@ -315698,6 +315698,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-01-26T05:38:18.828903"
+    },
+    "2464640": {
+      "appid": 2464640,
+      "name": "Forsaken Lands",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-26T09:38:14.606626"
+    },
+    "2469560": {
+      "appid": 2469560,
+      "name": "Coloniser",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-26T09:44:02.919854"
     }
   }
 }
