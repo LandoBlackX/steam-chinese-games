@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-26T13:54:29.248534"
+    "updated": "2026-01-26T15:38:58.894893"
   },
   "games": {
     "570": {
@@ -315746,6 +315746,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-01-26T13:49:14.362848"
+    },
+    "2497020": {
+      "appid": 2497020,
+      "name": "Sick Samurai",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-26T15:33:32.513468"
     }
   }
 }
