@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-26T09:44:03.721578"
+    "updated": "2026-01-26T10:35:39.517663"
   },
   "games": {
     "570": {
@@ -315714,6 +315714,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-01-26T09:44:02.919854"
+    },
+    "2471090": {
+      "appid": 2471090,
+      "name": "Gah! 哀叹地牢",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-26T10:30:07.652255"
+    },
+    "2471680": {
+      "appid": 2471680,
+      "name": "废柴逊练师(Risimon)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-26T10:30:11.210509"
     }
   }
 }
