@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-26T23:32:56.020163"
+    "updated": "2026-01-27T04:57:36.438555"
   },
   "games": {
     "570": {
@@ -315802,6 +315802,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-01-26T23:27:45.562494"
+    },
+    "2557900": {
+      "appid": 2557900,
+      "name": "荒岛求生",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-27T04:57:34.114013"
     }
   }
 }
