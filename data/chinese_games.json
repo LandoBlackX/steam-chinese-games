@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-27T17:39:19.678646"
+    "updated": "2026-01-27T19:38:01.676603"
   },
   "games": {
     "570": {
@@ -315866,6 +315866,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-01-27T16:34:26.491252"
+    },
+    "2634870": {
+      "appid": 2634870,
+      "name": "Hazard Protocol",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-27T19:32:54.062643"
     }
   }
 }
