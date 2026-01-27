@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-27T04:57:36.438555"
+    "updated": "2026-01-27T05:37:46.455320"
   },
   "games": {
     "570": {
@@ -315810,6 +315810,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-01-27T04:57:34.114013"
+    },
+    "2562040": {
+      "appid": 2562040,
+      "name": "Conge's Crunch Time",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-27T05:37:44.686392"
     }
   }
 }
