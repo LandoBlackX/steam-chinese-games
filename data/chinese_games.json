@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-27T14:40:00.286745"
+    "updated": "2026-01-27T15:42:09.857615"
   },
   "games": {
     "570": {
@@ -315850,6 +315850,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-01-27T14:34:52.100680"
+    },
+    "2611440": {
+      "appid": 2611440,
+      "name": "Steel Chaos",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-27T15:36:44.684817"
     }
   }
 }
