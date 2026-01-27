@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-27T19:38:01.676603"
+    "updated": "2026-01-27T20:28:51.518257"
   },
   "games": {
     "570": {
@@ -315874,6 +315874,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-01-27T19:32:54.062643"
+    },
+    "2639380": {
+      "appid": 2639380,
+      "name": "虚域传说 - 第1卷",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-27T20:28:31.070879"
     }
   }
 }
