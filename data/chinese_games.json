@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-27T15:42:09.857615"
+    "updated": "2026-01-27T16:39:49.002225"
   },
   "games": {
     "570": {
@@ -315858,6 +315858,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-01-27T15:36:44.684817"
+    },
+    "2616800": {
+      "appid": 2616800,
+      "name": "Merchants of Rosewall",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-27T16:34:26.491252"
     }
   }
 }
