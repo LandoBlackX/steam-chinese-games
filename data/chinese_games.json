@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-27T20:28:51.518257"
+    "updated": "2026-01-27T21:25:31.925985"
   },
   "games": {
     "570": {
@@ -315882,6 +315882,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-01-27T20:28:31.070879"
+    },
+    "2642840": {
+      "appid": 2642840,
+      "name": "Humans are not that against Lizardwomen 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-27T21:24:40.703731"
+    },
+    "2646720": {
+      "appid": 2646720,
+      "name": "Dead Weight",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-27T21:25:27.973062"
     }
   }
 }
