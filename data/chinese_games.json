@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-27T07:38:43.609776"
+    "updated": "2026-01-27T11:34:50.455578"
   },
   "games": {
     "570": {
@@ -315834,6 +315834,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-01-27T07:33:35.439541"
+    },
+    "2591710": {
+      "appid": 2591710,
+      "name": "加勒比海盗：战争之潮",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-27T11:29:30.947040"
     }
   }
 }
