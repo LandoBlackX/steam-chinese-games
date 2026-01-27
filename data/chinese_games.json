@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-27T05:37:46.455320"
+    "updated": "2026-01-27T06:43:42.905019"
   },
   "games": {
     "570": {
@@ -315818,6 +315818,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-01-27T05:37:44.686392"
+    },
+    "2564910": {
+      "appid": 2564910,
+      "name": "CRYO",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-27T06:38:29.938012"
     }
   }
 }
