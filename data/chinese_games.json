@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-28T12:51:47.585581"
+    "updated": "2026-01-28T13:55:33.909248"
   },
   "games": {
     "570": {
@@ -315970,6 +315970,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-01-28T12:51:14.485411"
+    },
+    "2715810": {
+      "appid": 2715810,
+      "name": "AirlineSim",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-28T13:55:28.721222"
+    },
+    "2715870": {
+      "appid": 2715870,
+      "name": "Before I Go",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-28T13:55:29.030785"
     }
   }
 }
