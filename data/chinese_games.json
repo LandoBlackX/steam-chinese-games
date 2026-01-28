@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-28T10:34:38.352662"
+    "updated": "2026-01-28T11:30:31.626385"
   },
   "games": {
     "570": {
@@ -315946,6 +315946,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-01-28T10:34:27.488245"
+    },
+    "2704090": {
+      "appid": 2704090,
+      "name": "Celestial Return",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-28T11:30:23.076174"
     }
   }
 }
