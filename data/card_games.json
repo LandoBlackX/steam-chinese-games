@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-27T23:28:34.247756"
+    "updated": "2026-01-28T01:33:05.276735"
   },
   "games": {
     "570": {
@@ -89234,6 +89234,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2026-01-27T17:34:11.646090"
+    },
+    "2657900": {
+      "appid": 2657900,
+      "name": "For Sale",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2026-01-28T01:32:31.265254"
     }
   }
 }
