@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-28T21:37:24.525143"
+    "updated": "2026-01-28T22:34:02.065649"
   },
   "games": {
     "570": {
@@ -316042,6 +316042,30 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-01-28T21:37:20.644209"
+    },
+    "2757540": {
+      "appid": 2757540,
+      "name": "Mechanophagia",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-28T22:33:38.775765"
+    },
+    "2759240": {
+      "appid": 2759240,
+      "name": "Rubber Hose Rampage",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-28T22:33:44.128096"
+    },
+    "2759280": {
+      "appid": 2759280,
+      "name": "Kumitantei: Old-School Slaughter",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2026-01-28T22:33:44.210471"
     }
   }
 }
