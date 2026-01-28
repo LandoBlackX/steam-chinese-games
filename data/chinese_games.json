@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-28T01:33:05.276735"
+    "updated": "2026-01-28T03:52:29.531287"
   },
   "games": {
     "570": {
@@ -315914,6 +315914,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-01-28T01:32:34.875368"
+    },
+    "2664910": {
+      "appid": 2664910,
+      "name": "LOCKED",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-28T03:52:15.105595"
     }
   }
 }
