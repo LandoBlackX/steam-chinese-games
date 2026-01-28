@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-28T15:39:38.529420"
+    "updated": "2026-01-28T16:42:31.578308"
   },
   "games": {
     "570": {
@@ -89250,6 +89250,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2026-01-28T07:33:18.850907"
+    },
+    "2727660": {
+      "appid": 2727660,
+      "name": "GlitchSPANKR",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2026-01-28T16:42:14.025041"
     }
   }
 }
