@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-28T13:55:33.909248"
+    "updated": "2026-01-28T14:36:52.731383"
   },
   "games": {
     "570": {
@@ -315986,6 +315986,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-01-28T13:55:29.030785"
+    },
+    "2718320": {
+      "appid": 2718320,
+      "name": "绿色再临 Green Again",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-28T14:36:34.679620"
     }
   }
 }
