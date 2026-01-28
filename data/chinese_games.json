@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-28T11:30:31.626385"
+    "updated": "2026-01-28T12:51:47.585581"
   },
   "games": {
     "570": {
@@ -315954,6 +315954,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-01-28T11:30:23.076174"
+    },
+    "2707080": {
+      "appid": 2707080,
+      "name": "Inflatum",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-28T12:51:09.331590"
+    },
+    "2707810": {
+      "appid": 2707810,
+      "name": "时间机器",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-28T12:51:14.485411"
     }
   }
 }
