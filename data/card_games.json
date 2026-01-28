@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-28T03:52:29.531287"
+    "updated": "2026-01-28T07:33:28.810652"
   },
   "games": {
     "570": {
@@ -89242,6 +89242,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2026-01-28T01:32:31.265254"
+    },
+    "2685380": {
+      "appid": 2685380,
+      "name": "CHAIRS",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2026-01-28T07:33:18.850907"
     }
   }
 }
