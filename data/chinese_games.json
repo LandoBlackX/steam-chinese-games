@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-28T14:36:52.731383"
+    "updated": "2026-01-28T15:39:38.529420"
   },
   "games": {
     "570": {
@@ -315994,6 +315994,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-01-28T14:36:34.679620"
+    },
+    "2722200": {
+      "appid": 2722200,
+      "name": "Sugar,sugar,sugarcoat",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-28T15:39:08.369320"
     }
   }
 }
