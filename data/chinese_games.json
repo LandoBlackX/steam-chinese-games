@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-28T18:43:52.142009"
+    "updated": "2026-01-28T21:37:24.525143"
   },
   "games": {
     "570": {
@@ -316026,6 +316026,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-01-28T18:43:18.135576"
+    },
+    "2754380": {
+      "appid": 2754380,
+      "name": "鲁特里一家死了（The Roottrees are Dead）",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-28T21:37:15.947194"
+    },
+    "2755680": {
+      "appid": 2755680,
+      "name": "Forged in Epic",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-28T21:37:20.644209"
     }
   }
 }
