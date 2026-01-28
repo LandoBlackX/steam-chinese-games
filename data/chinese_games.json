@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-28T16:42:31.578308"
+    "updated": "2026-01-28T18:43:52.142009"
   },
   "games": {
     "570": {
@@ -316002,6 +316002,30 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-01-28T15:39:08.369320"
+    },
+    "2736370": {
+      "appid": 2736370,
+      "name": "Helix: Descent N Ascent",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-28T18:43:13.350677"
+    },
+    "2736840": {
+      "appid": 2736840,
+      "name": "The August Before",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-28T18:43:17.581027"
+    },
+    "2736900": {
+      "appid": 2736900,
+      "name": "Quest Industries",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-28T18:43:18.135576"
     }
   }
 }
