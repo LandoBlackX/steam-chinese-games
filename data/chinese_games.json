@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-28T09:40:54.795029"
+    "updated": "2026-01-28T10:34:38.352662"
   },
   "games": {
     "570": {
@@ -315930,6 +315930,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-01-28T09:40:47.796149"
+    },
+    "2699280": {
+      "appid": 2699280,
+      "name": "Valor Of Man",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-28T10:34:26.539219"
+    },
+    "2699550": {
+      "appid": 2699550,
+      "name": "Fightland",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-28T10:34:27.488245"
     }
   }
 }
