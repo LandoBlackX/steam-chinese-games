@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-29T18:51:24.007267"
+    "updated": "2026-01-29T21:36:56.297996"
   },
   "games": {
     "570": {
@@ -316210,6 +316210,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-01-29T18:51:21.082079"
+    },
+    "2852760": {
+      "appid": 2852760,
+      "name": "并非山洞",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-29T21:36:54.765142"
+    },
+    "2852970": {
+      "appid": 2852970,
+      "name": "Hateful Days",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-29T21:36:55.933439"
     }
   }
 }
