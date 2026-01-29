@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-29T05:52:02.278673"
+    "updated": "2026-01-29T06:52:32.587550"
   },
   "games": {
     "570": {
@@ -316106,6 +316106,22 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2026-01-29T05:52:00.602735"
+    },
+    "2783830": {
+      "appid": 2783830,
+      "name": "Cozy Crest",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-29T06:52:25.546563"
+    },
+    "2785880": {
+      "appid": 2785880,
+      "name": "Ninth Hell",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-29T06:52:32.491881"
     }
   }
 }
