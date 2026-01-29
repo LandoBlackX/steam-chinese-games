@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-29T11:40:28.042482"
+    "updated": "2026-01-29T14:51:18.186348"
   },
   "games": {
     "570": {
@@ -316146,6 +316146,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-01-29T11:40:27.673402"
+    },
+    "2823690": {
+      "appid": 2823690,
+      "name": "REVERSI xVSx",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-29T14:51:14.941577"
     }
   }
 }
