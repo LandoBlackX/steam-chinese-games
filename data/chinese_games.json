@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-29T08:45:45.443422"
+    "updated": "2026-01-29T11:40:28.042482"
   },
   "games": {
     "570": {
@@ -316138,6 +316138,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-01-29T08:45:41.835470"
+    },
+    "2810700": {
+      "appid": 2810700,
+      "name": "Octopus Goulash",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-29T11:40:27.673402"
     }
   }
 }
