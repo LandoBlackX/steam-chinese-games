@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-29T04:16:50.528017"
+    "updated": "2026-01-29T05:52:02.278673"
   },
   "games": {
     "570": {
@@ -89266,6 +89266,22 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2026-01-28T22:33:44.210471"
+    },
+    "2778250": {
+      "appid": 2778250,
+      "name": "Solace Inc.",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2026-01-29T05:51:40.650381"
+    },
+    "2780980": {
+      "appid": 2780980,
+      "name": "LOCKDOWN Protocol",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2026-01-29T05:52:00.602735"
     }
   }
 }

@@ -5956,9 +5956,9 @@
       "timestamp": "2026-01-14T11:17:39.782326"
     },
     {
-      "appid": 2772470,
-      "reason": "HTTPSConnectionPool(host='store.steampowered.com', port=443): Read timed out. (read timeout=15)",
-      "timestamp": "2026-01-29T04:16:25.585342"
+      "appid": 2780380,
+      "reason": "API 返回 success: false",
+      "timestamp": "2026-01-29T05:51:58.228213"
     }
   ]
 }
