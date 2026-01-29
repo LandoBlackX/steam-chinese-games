@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-28T23:34:19.132922"
+    "updated": "2026-01-29T01:55:11.187793"
   },
   "games": {
     "570": {
@@ -316074,6 +316074,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-01-28T23:33:59.256087"
+    },
+    "2770500": {
+      "appid": 2770500,
+      "name": "Waving Around",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-29T01:55:07.101513"
     }
   }
 }
