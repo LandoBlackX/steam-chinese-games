@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-29T06:52:32.587550"
+    "updated": "2026-01-29T07:49:10.736461"
   },
   "games": {
     "570": {
@@ -316122,6 +316122,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-01-29T06:52:32.491881"
+    },
+    "2788520": {
+      "appid": 2788520,
+      "name": "Cozy Caravan",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-29T07:49:05.301413"
     }
   }
 }
