@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-29T15:44:26.918435"
+    "updated": "2026-01-29T16:51:45.082256"
   },
   "games": {
     "570": {
@@ -316162,6 +316162,30 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-01-29T15:44:23.333693"
+    },
+    "2831070": {
+      "appid": 2831070,
+      "name": "Dimachaerus",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-29T16:51:24.893116"
+    },
+    "2832310": {
+      "appid": 2832310,
+      "name": "ITER-8",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-29T16:51:38.716418"
+    },
+    "2832580": {
+      "appid": 2832580,
+      "name": "Dating Joyce: a Deckbuilding Game",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-29T16:51:40.976117"
     }
   }
 }
