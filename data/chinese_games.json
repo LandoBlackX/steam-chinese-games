@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-29T17:46:57.191513"
+    "updated": "2026-01-29T18:51:24.007267"
   },
   "games": {
     "570": {
@@ -316202,6 +316202,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-01-29T17:46:52.411418"
+    },
+    "2841320": {
+      "appid": 2841320,
+      "name": "Foobar Zero",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-29T18:51:21.082079"
     }
   }
 }
