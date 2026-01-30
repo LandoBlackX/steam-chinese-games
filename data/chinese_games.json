@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-30T14:49:14.976274"
+    "updated": "2026-01-30T15:46:31.830235"
   },
   "games": {
     "570": {
@@ -316306,6 +316306,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-01-30T14:46:13.181586"
+    },
+    "3136570": {
+      "appid": 3136570,
+      "name": "解谜大师：触电迷宫",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-30T15:46:30.160916"
     }
   }
 }
