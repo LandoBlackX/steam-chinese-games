@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-30T15:46:31.830235"
+    "updated": "2026-01-30T16:51:15.200328"
   },
   "games": {
     "570": {
@@ -316314,6 +316314,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-01-30T15:46:30.160916"
+    },
+    "2914050": {
+      "appid": 2914050,
+      "name": "Jugs Bay",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-30T16:47:28.489149"
     }
   }
 }
