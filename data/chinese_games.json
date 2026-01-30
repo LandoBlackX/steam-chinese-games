@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-30T19:46:24.320243"
+    "updated": "2026-01-30T22:38:25.592575"
   },
   "games": {
     "570": {
@@ -316346,6 +316346,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-01-30T19:46:20.681786"
+    },
+    "3151840": {
+      "appid": 3151840,
+      "name": "Umblight",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-30T22:38:05.599115"
+    },
+    "3152710": {
+      "appid": 3152710,
+      "name": "House Of Horror: Outside Is Better",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-30T22:38:13.382716"
     }
   }
 }
