@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-30T14:06:25.765014"
+    "updated": "2026-01-30T14:49:14.976274"
   },
   "games": {
     "570": {
@@ -316290,6 +316290,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-01-30T14:06:10.986178"
+    },
+    "2908500": {
+      "appid": 2908500,
+      "name": "Buggos 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-30T14:45:52.905483"
+    },
+    "2918690": {
+      "appid": 2918690,
+      "name": "Underneath: Dwarven Artifacts",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-30T14:46:13.181586"
     }
   }
 }
