@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-30T12:58:00.151321"
+    "updated": "2026-01-30T14:06:25.765014"
   },
   "games": {
     "570": {
@@ -316282,6 +316282,14 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2026-01-30T12:57:58.757782"
+    },
+    "2905650": {
+      "appid": 2905650,
+      "name": "超次元盤上遊戯カオスボード",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-30T14:06:10.986178"
     }
   }
 }
