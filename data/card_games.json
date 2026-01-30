@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-30T22:38:25.592575"
+    "updated": "2026-01-30T23:38:34.214110"
   },
   "games": {
     "570": {
@@ -89306,6 +89306,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2026-01-30T19:46:13.630188"
+    },
+    "3156770": {
+      "appid": 3156770,
+      "name": "Witchfire",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2026-01-30T23:38:32.878141"
     }
   }
 }
