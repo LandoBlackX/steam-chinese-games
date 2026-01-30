@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-30T17:47:32.288303"
+    "updated": "2026-01-30T19:46:24.320243"
   },
   "games": {
     "570": {
@@ -89298,6 +89298,14 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2026-01-30T12:57:58.757782"
+    },
+    "3144190": {
+      "appid": 3144190,
+      "name": "Break Wolf",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2026-01-30T19:46:13.630188"
     }
   }
 }

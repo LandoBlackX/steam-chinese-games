@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-30T17:47:32.288303"
+    "updated": "2026-01-30T19:46:24.320243"
   },
   "games": {
     "570": {
@@ -316338,6 +316338,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-01-30T17:47:26.438934"
+    },
+    "3145930": {
+      "appid": 3145930,
+      "name": "Jeff the Skinner",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-30T19:46:20.681786"
     }
   }
 }
