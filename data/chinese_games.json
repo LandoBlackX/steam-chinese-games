@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-30T04:19:20.988491"
+    "updated": "2026-01-30T05:56:33.210551"
   },
   "games": {
     "570": {
@@ -316234,6 +316234,30 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-01-30T04:19:17.370967"
+    },
+    "2871870": {
+      "appid": 2871870,
+      "name": "Project Rebearth",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-30T05:56:23.550079"
+    },
+    "2873610": {
+      "appid": 2873610,
+      "name": "Hope Timbre",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-30T05:56:28.098531"
+    },
+    "2874540": {
+      "appid": 2874540,
+      "name": "Symbiosis",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-30T05:56:31.098585"
     }
   }
 }
