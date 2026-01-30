@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-30T05:56:33.210551"
+    "updated": "2026-01-30T12:58:00.151321"
   },
   "games": {
     "570": {
@@ -316258,6 +316258,30 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-01-30T05:56:31.098585"
+    },
+    "2901160": {
+      "appid": 2901160,
+      "name": "翻弹球",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-30T12:57:45.933161"
+    },
+    "2902780": {
+      "appid": 2902780,
+      "name": "Ghost Villa",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-30T12:57:55.075577"
+    },
+    "2903690": {
+      "appid": 2903690,
+      "name": "Horny Villa",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2026-01-30T12:57:58.757782"
     }
   }
 }
