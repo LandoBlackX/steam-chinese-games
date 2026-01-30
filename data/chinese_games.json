@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-29T21:36:56.297996"
+    "updated": "2026-01-30T04:19:20.988491"
   },
   "games": {
     "570": {
@@ -316226,6 +316226,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-01-29T21:36:55.933439"
+    },
+    "2870160": {
+      "appid": 2870160,
+      "name": "Primland The Magus -プリムランド　ザ　メイガス-",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-30T04:19:17.370967"
     }
   }
 }
