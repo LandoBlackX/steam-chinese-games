@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-31T14:38:35.220881"
+    "updated": "2026-01-31T15:37:49.166956"
   },
   "games": {
     "570": {
@@ -316442,6 +316442,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-01-31T14:38:29.776130"
+    },
+    "3191490": {
+      "appid": 3191490,
+      "name": "ZOMBIE KEBAB VR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-31T15:37:45.409210"
     }
   }
 }
