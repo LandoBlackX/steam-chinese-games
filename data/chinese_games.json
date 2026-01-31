@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-31T05:53:16.629764"
+    "updated": "2026-01-31T06:50:51.428386"
   },
   "games": {
     "570": {
@@ -316370,6 +316370,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-01-31T05:53:10.688314"
+    },
+    "3166250": {
+      "appid": 3166250,
+      "name": "Backrooms The Levels",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-31T06:50:50.248981"
     }
   }
 }
