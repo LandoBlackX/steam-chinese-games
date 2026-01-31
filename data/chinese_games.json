@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-31T21:35:46.217836"
+    "updated": "2026-01-31T22:36:14.502852"
   },
   "games": {
     "570": {
@@ -316514,6 +316514,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-01-31T21:35:46.062187"
+    },
+    "3210650": {
+      "appid": 3210650,
+      "name": "石化兵卒",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-31T22:36:05.536521"
     }
   }
 }
