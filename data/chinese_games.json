@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-31T12:55:36.418137"
+    "updated": "2026-01-31T13:56:52.535142"
   },
   "games": {
     "570": {
@@ -316418,6 +316418,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-01-31T12:51:34.166651"
+    },
+    "3183330": {
+      "appid": 3183330,
+      "name": "Deep Sea Arena",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-31T13:56:31.770566"
+    },
+    "3184080": {
+      "appid": 3184080,
+      "name": "Tranquil Koi 鯉の池",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-31T13:56:35.200021"
     }
   }
 }
