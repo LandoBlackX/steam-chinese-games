@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-31T19:35:30.685230"
+    "updated": "2026-01-31T21:35:46.217836"
   },
   "games": {
     "570": {
@@ -316506,6 +316506,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-01-31T19:35:26.603723"
+    },
+    "3209240": {
+      "appid": 3209240,
+      "name": "Canvas - The Board Game",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-31T21:35:46.062187"
     }
   }
 }
