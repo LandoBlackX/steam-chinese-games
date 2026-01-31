@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-31T08:41:49.677835"
+    "updated": "2026-01-31T10:37:19.825535"
   },
   "games": {
     "570": {
@@ -316402,6 +316402,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-01-31T08:41:49.057291"
+    },
+    "3175050": {
+      "appid": 3175050,
+      "name": "Space Cat Solitaire",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-31T10:37:11.997075"
     }
   }
 }
