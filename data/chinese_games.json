@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-31T10:37:19.825535"
+    "updated": "2026-01-31T12:55:36.418137"
   },
   "games": {
     "570": {
@@ -316410,6 +316410,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-01-31T10:37:11.997075"
+    },
+    "2930270": {
+      "appid": 2930270,
+      "name": "Tackle for Loss",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-31T12:51:34.166651"
     }
   }
 }
