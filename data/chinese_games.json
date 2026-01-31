@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-31T06:50:51.428386"
+    "updated": "2026-01-31T07:42:44.908977"
   },
   "games": {
     "570": {
@@ -316378,6 +316378,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-01-31T06:50:50.248981"
+    },
+    "3167000": {
+      "appid": 3167000,
+      "name": "Bread & Bravery",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-31T07:42:32.707455"
+    },
+    "3168310": {
+      "appid": 3168310,
+      "name": "True Fear: Forsaken Souls Part 3",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-31T07:42:37.720531"
     }
   }
 }
