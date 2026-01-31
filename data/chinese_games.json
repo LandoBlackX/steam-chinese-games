@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-31T13:56:52.535142"
+    "updated": "2026-01-31T14:38:35.220881"
   },
   "games": {
     "570": {
@@ -316434,6 +316434,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-01-31T13:56:35.200021"
+    },
+    "3187120": {
+      "appid": 3187120,
+      "name": "Vitta Lucis",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-31T14:38:29.776130"
     }
   }
 }
