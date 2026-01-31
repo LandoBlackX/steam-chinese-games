@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-31T15:37:49.166956"
+    "updated": "2026-01-31T16:41:33.497520"
   },
   "games": {
     "570": {
@@ -316450,6 +316450,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-01-31T15:37:45.409210"
+    },
+    "3192970": {
+      "appid": 3192970,
+      "name": "银河贸易大亨",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-31T16:41:20.159182"
     }
   }
 }
