@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-30T23:38:34.214110"
+    "updated": "2026-01-31T05:53:16.629764"
   },
   "games": {
     "570": {
@@ -316362,6 +316362,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-01-30T22:38:13.382716"
+    },
+    "3163460": {
+      "appid": 3163460,
+      "name": "The Waiting Game",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-31T05:53:10.688314"
     }
   }
 }
