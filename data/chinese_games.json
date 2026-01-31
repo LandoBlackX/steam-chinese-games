@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-31T18:44:22.612469"
+    "updated": "2026-01-31T19:35:30.685230"
   },
   "games": {
     "570": {
@@ -316474,6 +316474,38 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-01-31T18:44:13.277949"
+    },
+    "3203280": {
+      "appid": 3203280,
+      "name": "Retail Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-31T19:35:24.112475"
+    },
+    "3203340": {
+      "appid": 3203340,
+      "name": "九石迷阵",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-31T19:35:24.703445"
+    },
+    "3203370": {
+      "appid": 3203370,
+      "name": "Ala Mobile",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-31T19:35:24.784812"
+    },
+    "3204120": {
+      "appid": 3204120,
+      "name": "Maestro's Cold War 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-31T19:35:26.603723"
     }
   }
 }
