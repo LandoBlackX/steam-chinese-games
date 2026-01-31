@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-01-31T16:41:33.497520"
+    "updated": "2026-01-31T17:37:46.407000"
   },
   "games": {
     "570": {
@@ -316458,6 +316458,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-01-31T16:41:20.159182"
+    },
+    "3196800": {
+      "appid": 3196800,
+      "name": "Barman Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-01-31T17:37:40.313617"
     }
   }
 }
