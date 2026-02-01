@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-02-01T18:46:53.278351"
+    "updated": "2026-02-01T22:38:12.619802"
   },
   "games": {
     "570": {
@@ -316634,6 +316634,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-02-01T18:46:43.694415"
+    },
+    "3272300": {
+      "appid": 3272300,
+      "name": "Yasuke Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-02-01T22:38:05.920890"
+    },
+    "3273620": {
+      "appid": 3273620,
+      "name": "Hell Hold'em",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-02-01T22:38:10.751713"
     }
   }
 }
