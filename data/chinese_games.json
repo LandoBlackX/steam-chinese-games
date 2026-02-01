@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-02-01T16:42:38.804169"
+    "updated": "2026-02-01T17:39:25.452354"
   },
   "games": {
     "570": {
@@ -316618,6 +316618,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-02-01T16:42:36.443222"
+    },
+    "3255840": {
+      "appid": 3255840,
+      "name": "不要害怕：精神病院",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-02-01T17:39:24.693332"
     }
   }
 }
