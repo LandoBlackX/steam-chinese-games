@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-02-01T06:15:49.992915"
+    "updated": "2026-02-01T07:10:47.092977"
   },
   "games": {
     "570": {
@@ -316554,6 +316554,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-02-01T06:15:48.398006"
+    },
+    "2151380": {
+      "appid": 2151380,
+      "name": "Chaosborn",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-02-01T06:58:22.918530"
+    },
+    "3222970": {
+      "appid": 3222970,
+      "name": "Find 100 Ducks and Blast Them!",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-02-01T07:10:42.968193"
     }
   }
 }
