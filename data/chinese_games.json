@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-02-01T17:39:25.452354"
+    "updated": "2026-02-01T18:46:53.278351"
   },
   "games": {
     "570": {
@@ -316626,6 +316626,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-02-01T17:39:24.693332"
+    },
+    "3256790": {
+      "appid": 3256790,
+      "name": "Satelital",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-02-01T18:46:43.694415"
     }
   }
 }
