@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-02-01T12:57:52.005552"
+    "updated": "2026-02-01T13:57:57.182749"
   },
   "games": {
     "570": {
@@ -316602,6 +316602,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-02-01T12:57:47.467898"
+    },
+    "3239940": {
+      "appid": 3239940,
+      "name": "Mesoké",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-02-01T13:57:46.664587"
     }
   }
 }
