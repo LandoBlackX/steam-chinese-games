@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-02-01T13:57:57.182749"
+    "updated": "2026-02-01T16:42:38.804169"
   },
   "games": {
     "570": {
@@ -316610,6 +316610,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-02-01T13:57:46.664587"
+    },
+    "3252390": {
+      "appid": 3252390,
+      "name": "Rock Paper Scissors - The Final Match",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-02-01T16:42:36.443222"
     }
   }
 }
