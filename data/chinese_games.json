@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-02-01T22:38:12.619802"
+    "updated": "2026-02-01T23:38:57.792188"
   },
   "games": {
     "570": {
@@ -316650,6 +316650,30 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-02-01T22:38:10.751713"
+    },
+    "3274320": {
+      "appid": 3274320,
+      "name": "Heart of the Forest",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-02-01T23:38:50.754423"
+    },
+    "3275050": {
+      "appid": 3275050,
+      "name": "Ex Sanguis",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-02-01T23:38:53.246733"
+    },
+    "3275880": {
+      "appid": 3275880,
+      "name": "Chronoquartz",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-02-01T23:38:56.427585"
     }
   }
 }
