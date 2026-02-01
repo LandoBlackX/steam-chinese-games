@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-02-01T02:15:56.896867"
+    "updated": "2026-02-01T04:48:03.760557"
   },
   "games": {
     "570": {
@@ -316530,6 +316530,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-02-01T02:11:48.250142"
+    },
+    "3218680": {
+      "appid": 3218680,
+      "name": "东方：蛙蛙幻想谭",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-02-01T04:47:56.358296"
+    },
+    "3219110": {
+      "appid": 3219110,
+      "name": "Globs",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-02-01T04:47:58.585312"
     }
   }
 }
