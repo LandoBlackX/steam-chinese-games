@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-02-01T07:10:47.092977"
+    "updated": "2026-02-01T07:52:04.640208"
   },
   "games": {
     "570": {
@@ -89314,6 +89314,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2026-01-30T23:38:32.878141"
+    },
+    "3224840": {
+      "appid": 3224840,
+      "name": "Sophie: The Girl From The Zone",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2026-02-01T07:51:45.595340"
     }
   }
 }
