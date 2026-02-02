@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-02-02T15:09:12.498856"
+    "updated": "2026-02-02T16:54:17.510984"
   },
   "games": {
     "570": {
@@ -316786,6 +316786,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-02-02T15:09:11.720613"
+    },
+    "3309750": {
+      "appid": 3309750,
+      "name": "只愿有你 - As Long As You're Here",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-02-02T16:54:08.778302"
     }
   }
 }
