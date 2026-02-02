@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-02-02T16:54:17.510984"
+    "updated": "2026-02-02T17:54:41.396442"
   },
   "games": {
     "570": {
@@ -316794,6 +316794,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-02-02T16:54:08.778302"
+    },
+    "3312350": {
+      "appid": 3312350,
+      "name": "War Angels",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-02-02T17:54:32.977151"
     }
   }
 }
