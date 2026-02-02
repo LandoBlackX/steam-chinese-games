@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-02-02T14:19:20.345275"
+    "updated": "2026-02-02T15:09:12.498856"
   },
   "games": {
     "570": {
@@ -316762,6 +316762,30 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-02-02T14:18:29.289576"
+    },
+    "3304010": {
+      "appid": 3304010,
+      "name": "Blackblade Revenant",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-02-02T15:08:54.581690"
+    },
+    "3304120": {
+      "appid": 3304120,
+      "name": "Delusional",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-02-02T15:08:55.717055"
+    },
+    "3305200": {
+      "appid": 3305200,
+      "name": "步行减肥法",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-02-02T15:09:11.720613"
     }
   }
 }
