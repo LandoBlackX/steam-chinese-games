@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-02-02T18:57:24.906311"
+    "updated": "2026-02-02T23:44:39.476606"
   },
   "games": {
     "570": {
@@ -316810,6 +316810,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-02-02T18:57:23.027125"
+    },
+    "2922630": {
+      "appid": 2922630,
+      "name": "Chicken Chicken",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-02-02T23:37:55.601461"
+    },
+    "2957130": {
+      "appid": 2957130,
+      "name": "Bugscraper",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-02-02T23:38:15.750053"
     }
   }
 }
