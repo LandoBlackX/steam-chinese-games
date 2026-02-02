@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-02-02T10:01:08.200566"
+    "updated": "2026-02-02T10:58:12.438669"
   },
   "games": {
     "570": {
@@ -316714,6 +316714,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-02-02T10:01:05.209379"
+    },
+    "3292760": {
+      "appid": 3292760,
+      "name": "The Lone Sword",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-02-02T10:58:03.479379"
+    },
+    "3293010": {
+      "appid": 3293010,
+      "name": "黑猫速递",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-02-02T10:58:04.790853"
     }
   }
 }
