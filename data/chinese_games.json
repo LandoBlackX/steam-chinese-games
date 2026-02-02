@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-02-02T11:51:15.308102"
+    "updated": "2026-02-02T13:09:58.847395"
   },
   "games": {
     "570": {
@@ -316738,6 +316738,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-02-02T11:50:54.257664"
+    },
+    "3298880": {
+      "appid": 3298880,
+      "name": "Clicker Kingdom",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-02-02T13:09:52.238040"
     }
   }
 }
