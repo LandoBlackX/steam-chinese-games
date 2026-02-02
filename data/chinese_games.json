@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-02-02T13:09:58.847395"
+    "updated": "2026-02-02T14:19:20.345275"
   },
   "games": {
     "570": {
@@ -316746,6 +316746,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-02-02T13:09:52.238040"
+    },
+    "3301040": {
+      "appid": 3301040,
+      "name": "FANTATALE",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-02-02T14:18:16.860473"
+    },
+    "3301370": {
+      "appid": 3301370,
+      "name": "Comatose",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-02-02T14:18:29.289576"
     }
   }
 }
