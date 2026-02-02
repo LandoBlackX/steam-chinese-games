@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-02-02T06:19:04.442710"
+    "updated": "2026-02-02T10:01:08.200566"
   },
   "games": {
     "570": {
@@ -316698,6 +316698,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-02-02T06:14:21.148619"
+    },
+    "3289090": {
+      "appid": 3289090,
+      "name": "Ghost Master: Resurrection",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-02-02T10:00:54.310898"
+    },
+    "3291880": {
+      "appid": 3291880,
+      "name": "Spud Customs",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-02-02T10:01:05.209379"
     }
   }
 }
