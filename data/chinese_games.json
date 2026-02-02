@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-02-02T10:58:12.438669"
+    "updated": "2026-02-02T11:51:15.308102"
   },
   "games": {
     "570": {
@@ -316730,6 +316730,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-02-02T10:58:04.790853"
+    },
+    "3295430": {
+      "appid": 3295430,
+      "name": "Type Ride",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-02-02T11:50:54.257664"
     }
   }
 }
