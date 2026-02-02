@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-02-02T17:54:41.396442"
+    "updated": "2026-02-02T18:57:24.906311"
   },
   "games": {
     "570": {
@@ -89322,6 +89322,14 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2026-02-01T07:51:45.595340"
+    },
+    "3316940": {
+      "appid": 3316940,
+      "name": "The Legend of Heroes: Trails beyond the Horizon",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2026-02-02T18:57:21.336049"
     }
   }
 }

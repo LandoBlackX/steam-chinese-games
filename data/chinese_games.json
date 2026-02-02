@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-02-02T17:54:41.396442"
+    "updated": "2026-02-02T18:57:24.906311"
   },
   "games": {
     "570": {
@@ -316802,6 +316802,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-02-02T17:54:32.977151"
+    },
+    "3317170": {
+      "appid": 3317170,
+      "name": "Neon Knives",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-02-02T18:57:23.027125"
     }
   }
 }
