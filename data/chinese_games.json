@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-02-01T23:38:57.792188"
+    "updated": "2026-02-02T02:09:24.903387"
   },
   "games": {
     "570": {
@@ -316674,6 +316674,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-02-01T23:38:56.427585"
+    },
+    "1162660": {
+      "appid": 1162660,
+      "name": "SCAV",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-02-02T01:51:05.932541"
+    },
+    "2274030": {
+      "appid": 2274030,
+      "name": "GameTranslate",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-02-02T01:56:39.383929"
     }
   }
 }
