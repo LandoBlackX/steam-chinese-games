@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-02-03T13:12:05.474137"
+    "updated": "2026-02-03T14:22:19.681083"
   },
   "games": {
     "570": {
@@ -316994,6 +316994,30 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-02-03T13:12:01.545133"
+    },
+    "3342190": {
+      "appid": 3342190,
+      "name": "Lycoris",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-02-03T14:22:11.676836"
+    },
+    "3342880": {
+      "appid": 3342880,
+      "name": "Erotic Shop Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-02-03T14:22:14.980203"
+    },
+    "3343040": {
+      "appid": 3343040,
+      "name": "Potion & Fortune",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-02-03T14:22:15.783436"
     }
   }
 }
