@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-02-03T04:31:46.062154"
+    "updated": "2026-02-03T06:08:13.957109"
   },
   "games": {
     "570": {
@@ -316866,6 +316866,30 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-02-03T04:31:40.231731"
+    },
+    "3324320": {
+      "appid": 3324320,
+      "name": "MYRIAD DEATH",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-02-03T06:08:06.462267"
+    },
+    "3325350": {
+      "appid": 3325350,
+      "name": "Catfall",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-02-03T06:08:09.813224"
+    },
+    "3325570": {
+      "appid": 3325570,
+      "name": "Kaodi",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-02-03T06:08:10.418499"
     }
   }
 }
