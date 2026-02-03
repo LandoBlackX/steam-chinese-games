@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-02-03T21:50:44.105513"
+    "updated": "2026-02-03T22:46:52.230935"
   },
   "games": {
     "570": {
@@ -317098,6 +317098,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-02-03T21:50:44.103744"
+    },
+    "3363680": {
+      "appid": 3363680,
+      "name": "EverSiege: Untold Ages（暂译名：永恒围城：无尽纪元）",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-02-03T22:46:46.545209"
     }
   }
 }
