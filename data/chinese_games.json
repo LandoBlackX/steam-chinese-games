@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-02-03T20:51:59.053999"
+    "updated": "2026-02-03T21:50:44.105513"
   },
   "games": {
     "570": {
@@ -317082,6 +317082,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-02-03T20:51:55.799036"
+    },
+    "3360890": {
+      "appid": 3360890,
+      "name": "Project Thea",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-02-03T21:50:38.487030"
+    },
+    "3362130": {
+      "appid": 3362130,
+      "name": "Room 502 : School Mystery Game",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-02-03T21:50:44.103744"
     }
   }
 }
