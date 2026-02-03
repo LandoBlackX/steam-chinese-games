@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-02-03T07:04:31.038097"
+    "updated": "2026-02-03T07:59:46.473644"
   },
   "games": {
     "570": {
@@ -316898,6 +316898,30 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-02-03T07:04:20.948311"
+    },
+    "3330350": {
+      "appid": 3330350,
+      "name": "TrackDown: Genesis",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-02-03T07:59:42.280349"
+    },
+    "3330840": {
+      "appid": 3330840,
+      "name": "Street Food Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-02-03T07:59:43.662450"
+    },
+    "3331090": {
+      "appid": 3331090,
+      "name": "Fall in Flowers - フォール イン フラワーズ",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-02-03T07:59:44.415944"
     }
   }
 }
