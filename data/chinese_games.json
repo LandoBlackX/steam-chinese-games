@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-02-03T19:12:08.783224"
+    "updated": "2026-02-03T20:51:59.053999"
   },
   "games": {
     "570": {
@@ -317066,6 +317066,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-02-03T19:12:05.307195"
+    },
+    "3357480": {
+      "appid": 3357480,
+      "name": "Space is Red: 赤色太空",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-02-03T20:51:47.005640"
+    },
+    "3359440": {
+      "appid": 3359440,
+      "name": "Soko Spectacle",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-02-03T20:51:55.799036"
     }
   }
 }
