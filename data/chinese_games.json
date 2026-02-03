@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-02-03T18:10:23.551051"
+    "updated": "2026-02-03T19:12:08.783224"
   },
   "games": {
     "570": {
@@ -317050,6 +317050,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-02-03T18:10:20.168753"
+    },
+    "3352240": {
+      "appid": 3352240,
+      "name": "Raiders of Blackveil",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-02-03T19:11:57.862352"
+    },
+    "3354220": {
+      "appid": 3354220,
+      "name": "Comic Book Store Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-02-03T19:12:05.307195"
     }
   }
 }
