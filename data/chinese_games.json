@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-02-03T17:07:28.530137"
+    "updated": "2026-02-03T18:10:23.551051"
   },
   "games": {
     "570": {
@@ -317026,6 +317026,30 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-02-03T17:07:26.525456"
+    },
+    "3349850": {
+      "appid": 3349850,
+      "name": "Balantica",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-02-03T18:10:04.132631"
+    },
+    "3349980": {
+      "appid": 3349980,
+      "name": "碎拍超人",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-02-03T18:10:04.633566"
+    },
+    "3351280": {
+      "appid": 3351280,
+      "name": "愤怒的飞弹",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-02-03T18:10:20.168753"
     }
   }
 }
