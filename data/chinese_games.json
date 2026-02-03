@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-02-03T06:08:13.957109"
+    "updated": "2026-02-03T07:04:31.038097"
   },
   "games": {
     "570": {
@@ -316890,6 +316890,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-02-03T06:08:10.418499"
+    },
+    "3326820": {
+      "appid": 3326820,
+      "name": "Mr. Sparkle's Nightmare",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-02-03T07:04:20.948311"
     }
   }
 }
