@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-02-03T11:51:38.784888"
+    "updated": "2026-02-03T13:12:05.474137"
   },
   "games": {
     "570": {
@@ -316978,6 +316978,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-02-03T11:51:37.222176"
+    },
+    "3340890": {
+      "appid": 3340890,
+      "name": "Necrowhisper",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-02-03T13:11:49.593328"
+    },
+    "3341150": {
+      "appid": 3341150,
+      "name": "The Last Prisoner",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-02-03T13:12:01.545133"
     }
   }
 }
