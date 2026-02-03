@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-02-03T09:56:35.355690"
+    "updated": "2026-02-03T10:55:54.029873"
   },
   "games": {
     "570": {
@@ -316954,6 +316954,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-02-03T09:56:35.352765"
+    },
+    "2959890": {
+      "appid": 2959890,
+      "name": "Echoes of the Town",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-02-03T10:49:15.689617"
     }
   }
 }
