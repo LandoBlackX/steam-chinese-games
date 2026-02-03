@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-02-02T23:44:39.476606"
+    "updated": "2026-02-03T02:09:29.560435"
   },
   "games": {
     "570": {
@@ -316826,6 +316826,38 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-02-02T23:38:15.750053"
+    },
+    "3318490": {
+      "appid": 3318490,
+      "name": "Bunker Constructor Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-02-03T02:09:15.456215"
+    },
+    "3320410": {
+      "appid": 3320410,
+      "name": "Thot on Trial",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-02-03T02:09:25.001635"
+    },
+    "3320490": {
+      "appid": 3320490,
+      "name": "Row Hard",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-02-03T02:09:25.509106"
+    },
+    "3320840": {
+      "appid": 3320840,
+      "name": "Odile: Black Duckling Tale",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-02-03T02:09:27.317767"
     }
   }
 }
