@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-02-03T10:55:54.029873"
+    "updated": "2026-02-03T11:51:38.784888"
   },
   "games": {
     "570": {
@@ -316962,6 +316962,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-02-03T10:49:15.689617"
+    },
+    "3338630": {
+      "appid": 3338630,
+      "name": "Little gods of Ancient Echoes",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-02-03T11:51:23.801386"
+    },
+    "3339600": {
+      "appid": 3339600,
+      "name": "HO-HOP! - Christmas Board Game",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-02-03T11:51:37.222176"
     }
   }
 }

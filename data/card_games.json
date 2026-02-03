@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-02-03T10:55:54.029873"
+    "updated": "2026-02-03T11:51:38.784888"
   },
   "games": {
     "570": {
@@ -89330,6 +89330,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2026-02-02T18:57:21.336049"
+    },
+    "3339880": {
+      "appid": 3339880,
+      "name": "OFF",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2026-02-03T11:51:38.627804"
     }
   }
 }
