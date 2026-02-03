@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-02-03T07:59:46.473644"
+    "updated": "2026-02-03T09:56:35.355690"
   },
   "games": {
     "570": {
@@ -316922,6 +316922,38 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-02-03T07:59:44.415944"
+    },
+    "2608610": {
+      "appid": 2608610,
+      "name": "Gently Packed",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-02-03T09:45:27.082644"
+    },
+    "2958140": {
+      "appid": 2958140,
+      "name": "NET.CRAWL",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-02-03T09:50:07.254636"
+    },
+    "3334770": {
+      "appid": 3334770,
+      "name": "99Managers Futsal Edition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-02-03T09:56:34.616675"
+    },
+    "3335060": {
+      "appid": 3335060,
+      "name": "The Campsite",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-02-03T09:56:35.352765"
     }
   }
 }
