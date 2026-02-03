@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-02-03T02:09:29.560435"
+    "updated": "2026-02-03T04:31:46.062154"
   },
   "games": {
     "570": {
@@ -316858,6 +316858,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-02-03T02:09:27.317767"
+    },
+    "3322940": {
+      "appid": 3322940,
+      "name": "十秒奪取！",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-02-03T04:31:40.231731"
     }
   }
 }
