@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-02-03T14:22:19.681083"
+    "updated": "2026-02-03T17:07:28.530137"
   },
   "games": {
     "570": {
@@ -317018,6 +317018,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-02-03T14:22:15.783436"
+    },
+    "3349290": {
+      "appid": 3349290,
+      "name": "Returnless",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-02-03T17:07:26.525456"
     }
   }
 }
