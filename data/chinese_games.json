@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-02-04T08:56:15.391139"
+    "updated": "2026-02-04T10:54:59.182983"
   },
   "games": {
     "570": {
@@ -317170,6 +317170,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-02-04T08:56:11.103629"
+    },
+    "2967950": {
+      "appid": 2967950,
+      "name": "The Witch's Bakery",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-02-04T10:48:00.529227"
+    },
+    "3384130": {
+      "appid": 3384130,
+      "name": "Trophies: A Corruption Tale",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-02-04T10:54:56.484357"
     }
   }
 }
