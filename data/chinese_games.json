@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-02-04T13:11:49.272929"
+    "updated": "2026-02-04T15:59:58.387422"
   },
   "games": {
     "570": {
@@ -317194,6 +317194,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-02-04T13:11:48.515432"
+    },
+    "3393850": {
+      "appid": 3393850,
+      "name": "动物骰 Dicewood",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-02-04T15:59:55.008051"
     }
   }
 }
