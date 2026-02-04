@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-02-04T02:05:34.940536"
+    "updated": "2026-02-04T04:28:57.389530"
   },
   "games": {
     "570": {
@@ -317114,6 +317114,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-02-04T02:05:34.248551"
+    },
+    "3369850": {
+      "appid": 3369850,
+      "name": "The Sushi Bar | 寿司バー",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-02-04T04:28:46.410095"
+    },
+    "3372410": {
+      "appid": 3372410,
+      "name": "Audioglide",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-02-04T04:28:56.493279"
     }
   }
 }
