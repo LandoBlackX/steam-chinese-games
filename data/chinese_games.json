@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-02-04T19:04:27.024464"
+    "updated": "2026-02-04T19:58:35.473717"
   },
   "games": {
     "570": {
@@ -317210,6 +317210,30 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-02-04T19:04:24.833666"
+    },
+    "2219850": {
+      "appid": 2219850,
+      "name": "Cartomantic",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-02-04T19:41:43.550110"
+    },
+    "3400930": {
+      "appid": 3400930,
+      "name": "袜罪并罚！",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-02-04T19:58:26.782254"
+    },
+    "3402720": {
+      "appid": 3402720,
+      "name": "Clean Up Earth",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-02-04T19:58:34.664999"
     }
   }
 }
