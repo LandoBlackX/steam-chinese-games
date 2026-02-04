@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-02-04T10:54:59.182983"
+    "updated": "2026-02-04T13:11:49.272929"
   },
   "games": {
     "570": {
@@ -317186,6 +317186,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-02-04T10:54:56.484357"
+    },
+    "3389620": {
+      "appid": 3389620,
+      "name": "The Shadow Beneath",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-02-04T13:11:48.515432"
     }
   }
 }
