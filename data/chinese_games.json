@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-02-04T08:01:30.195472"
+    "updated": "2026-02-04T08:56:15.391139"
   },
   "games": {
     "570": {
@@ -317138,6 +317138,38 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-02-04T08:01:23.134968"
+    },
+    "3379780": {
+      "appid": 3379780,
+      "name": "Dash Dash Dead",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-02-04T08:56:07.604682"
+    },
+    "3380620": {
+      "appid": 3380620,
+      "name": "鞋带物语",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-02-04T08:56:08.684012"
+    },
+    "3380830": {
+      "appid": 3380830,
+      "name": "КВАДРОБЕРЫ",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-02-04T08:56:09.266385"
+    },
+    "3381290": {
+      "appid": 3381290,
+      "name": "LIBRA: There Are Two",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-02-04T08:56:11.103629"
     }
   }
 }

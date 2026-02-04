@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-02-04T08:01:30.195472"
+    "updated": "2026-02-04T08:56:15.391139"
   },
   "games": {
     "570": {
@@ -89338,6 +89338,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2026-02-03T11:51:38.627804"
+    },
+    "3380950": {
+      "appid": 3380950,
+      "name": "DISCOPUP",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2026-02-04T08:56:10.155713"
     }
   }
 }
