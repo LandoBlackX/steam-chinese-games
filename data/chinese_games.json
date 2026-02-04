@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-02-04T20:51:31.427279"
+    "updated": "2026-02-04T21:51:38.451650"
   },
   "games": {
     "570": {
@@ -317242,6 +317242,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-02-04T20:30:30.430943"
+    },
+    "3406330": {
+      "appid": 3406330,
+      "name": "Quacolé Tennis",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-02-04T21:51:33.215436"
     }
   }
 }
