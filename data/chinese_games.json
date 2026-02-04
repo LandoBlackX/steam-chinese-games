@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-02-04T15:59:58.387422"
+    "updated": "2026-02-04T19:04:27.024464"
   },
   "games": {
     "570": {
@@ -317202,6 +317202,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-02-04T15:59:55.008051"
+    },
+    "3400150": {
+      "appid": 3400150,
+      "name": "Crazy Robot Ball",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-02-04T19:04:24.833666"
     }
   }
 }
