@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-02-04T04:28:57.389530"
+    "updated": "2026-02-04T08:01:30.195472"
   },
   "games": {
     "570": {
@@ -317130,6 +317130,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-02-04T04:28:56.493279"
+    },
+    "3376570": {
+      "appid": 3376570,
+      "name": "Coffee, Snow, and You",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-02-04T08:01:23.134968"
     }
   }
 }
