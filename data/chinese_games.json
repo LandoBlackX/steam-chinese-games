@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-02-04T21:51:38.451650"
+    "updated": "2026-02-04T22:45:07.531671"
   },
   "games": {
     "570": {
@@ -317250,6 +317250,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-02-04T21:51:33.215436"
+    },
+    "3408810": {
+      "appid": 3408810,
+      "name": "WonderLang Spanish",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-02-04T22:45:03.726629"
     }
   }
 }
