@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-02-04T22:45:07.531671"
+    "updated": "2026-02-04T23:45:41.714752"
   },
   "games": {
     "570": {
@@ -317258,6 +317258,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-02-04T22:45:03.726629"
+    },
+    "3411590": {
+      "appid": 3411590,
+      "name": "Survivor of Egypt: The Ancient Curse",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-02-04T23:45:29.371051"
     }
   }
 }
