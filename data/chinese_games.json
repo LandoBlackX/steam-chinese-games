@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-02-04T19:58:35.473717"
+    "updated": "2026-02-04T20:51:31.427279"
   },
   "games": {
     "570": {
@@ -317234,6 +317234,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-02-04T19:58:34.664999"
+    },
+    "1617400": {
+      "appid": 1617400,
+      "name": "大巴扎 The Bazaar",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-02-04T20:30:30.430943"
     }
   }
 }
