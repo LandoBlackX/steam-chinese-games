@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-02-03T22:46:52.230935"
+    "updated": "2026-02-04T02:05:34.940536"
   },
   "games": {
     "570": {
@@ -317106,6 +317106,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-02-03T22:46:46.545209"
+    },
+    "3369610": {
+      "appid": 3369610,
+      "name": "Berserk Warrior: Infinite Roguelike",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-02-04T02:05:34.248551"
     }
   }
 }
