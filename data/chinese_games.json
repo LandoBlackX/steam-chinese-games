@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-02-05T09:01:59.005048"
+    "updated": "2026-02-05T11:58:00.028662"
   },
   "games": {
     "570": {
@@ -317298,6 +317298,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-02-05T08:51:06.614304"
+    },
+    "3428430": {
+      "appid": 3428430,
+      "name": "Deep Sea Heroes",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-02-05T11:57:59.602850"
     }
   }
 }
