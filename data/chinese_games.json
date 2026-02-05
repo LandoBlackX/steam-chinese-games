@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-02-05T20:01:14.592932"
+    "updated": "2026-02-05T20:55:16.602428"
   },
   "games": {
     "570": {
@@ -317346,6 +317346,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-02-05T20:01:13.844322"
+    },
+    "3439430": {
+      "appid": 3439430,
+      "name": "Gridle",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-02-05T20:55:10.052932"
     }
   }
 }
