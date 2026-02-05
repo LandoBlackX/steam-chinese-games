@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-02-05T13:19:29.735626"
+    "updated": "2026-02-05T14:29:31.628354"
   },
   "games": {
     "570": {
@@ -317314,6 +317314,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-02-05T13:19:13.218659"
+    },
+    "3430340": {
+      "appid": 3430340,
+      "name": "Dice A Million",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-02-05T14:29:28.530820"
     }
   }
 }
