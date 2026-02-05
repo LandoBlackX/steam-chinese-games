@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-02-05T18:09:26.445718"
+    "updated": "2026-02-05T20:01:14.592932"
   },
   "games": {
     "570": {
@@ -317338,6 +317338,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-02-05T18:09:24.952311"
+    },
+    "3438850": {
+      "appid": 3438850,
+      "name": "Sledding Game",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-02-05T20:01:13.844322"
     }
   }
 }
