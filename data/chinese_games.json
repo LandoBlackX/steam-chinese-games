@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-02-05T02:08:55.934504"
+    "updated": "2026-02-05T08:11:42.457205"
   },
   "games": {
     "570": {
@@ -317282,6 +317282,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-02-05T02:08:19.131839"
+    },
+    "3421740": {
+      "appid": 3421740,
+      "name": "Garden Ink",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-02-05T08:11:42.275499"
     }
   }
 }
