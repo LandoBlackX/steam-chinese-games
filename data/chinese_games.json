@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-02-05T11:58:00.028662"
+    "updated": "2026-02-05T13:19:29.735626"
   },
   "games": {
     "570": {
@@ -317306,6 +317306,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-02-05T11:57:59.602850"
+    },
+    "3428790": {
+      "appid": 3428790,
+      "name": "WonderLang German",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-02-05T13:19:13.218659"
     }
   }
 }
