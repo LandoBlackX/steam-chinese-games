@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-02-04T23:45:41.714752"
+    "updated": "2026-02-05T02:08:55.934504"
   },
   "games": {
     "570": {
@@ -317266,6 +317266,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-02-04T23:45:29.371051"
+    },
+    "3219230": {
+      "appid": 3219230,
+      "name": "Anomaly Clinic",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-02-05T02:02:56.993174"
+    },
+    "3413130": {
+      "appid": 3413130,
+      "name": "可爱 -虐系陷阱地牢-",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-02-05T02:08:19.131839"
     }
   }
 }
