@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-02-05T21:50:17.926303"
+    "updated": "2026-02-05T23:45:40.780075"
   },
   "games": {
     "570": {
@@ -317362,6 +317362,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-02-05T21:50:15.337009"
+    },
+    "3444540": {
+      "appid": 3444540,
+      "name": "Living with Temptation 2: French Confessions",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-02-05T23:45:37.494570"
     }
   }
 }
