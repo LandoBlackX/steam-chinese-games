@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-02-05T08:11:42.457205"
+    "updated": "2026-02-05T09:01:59.005048"
   },
   "games": {
     "570": {
@@ -317290,6 +317290,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-02-05T08:11:42.275499"
+    },
+    "2975950": {
+      "appid": 2975950,
+      "name": "Solasta II",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-02-05T08:51:06.614304"
     }
   }
 }
