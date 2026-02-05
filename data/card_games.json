@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-02-05T17:07:38.278453"
+    "updated": "2026-02-05T18:09:26.445718"
   },
   "games": {
     "570": {
@@ -89346,6 +89346,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2026-02-04T08:56:10.155713"
+    },
+    "3435260": {
+      "appid": 3435260,
+      "name": "Dice With Death",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2026-02-05T18:09:24.859770"
     }
   }
 }
