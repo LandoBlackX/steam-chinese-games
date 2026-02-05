@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-02-05T14:29:31.628354"
+    "updated": "2026-02-05T17:07:38.278453"
   },
   "games": {
     "570": {
@@ -317322,6 +317322,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-02-05T14:29:28.530820"
+    },
+    "3433230": {
+      "appid": 3433230,
+      "name": "The Gretlow Tapes",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-02-05T17:07:34.067688"
     }
   }
 }
