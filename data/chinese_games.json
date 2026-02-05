@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-02-05T20:55:16.602428"
+    "updated": "2026-02-05T21:50:17.926303"
   },
   "games": {
     "570": {
@@ -317354,6 +317354,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-02-05T20:55:10.052932"
+    },
+    "3441280": {
+      "appid": 3441280,
+      "name": "The Greenening",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-02-05T21:50:15.337009"
     }
   }
 }
