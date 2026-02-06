@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-02-06T21:53:13.299794"
+    "updated": "2026-02-06T22:45:40.376820"
   },
   "games": {
     "570": {
@@ -317482,6 +317482,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-02-06T21:53:06.772782"
+    },
+    "3475880": {
+      "appid": 3475880,
+      "name": "Train Goes Right",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-02-06T22:45:33.567309"
     }
   }
 }
