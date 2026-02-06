@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-02-06T02:11:33.628270"
+    "updated": "2026-02-06T06:17:39.955784"
   },
   "games": {
     "570": {
@@ -89354,6 +89354,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2026-02-05T18:09:24.859770"
+    },
+    "3449030": {
+      "appid": 3449030,
+      "name": "Upwards, Rain! The Post Office of Farewells",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2026-02-06T06:17:37.209291"
     }
   }
 }

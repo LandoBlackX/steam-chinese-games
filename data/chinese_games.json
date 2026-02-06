@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-02-06T02:11:33.628270"
+    "updated": "2026-02-06T06:17:39.955784"
   },
   "games": {
     "570": {
@@ -317394,6 +317394,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-02-06T02:11:30.147085"
+    },
+    "3448760": {
+      "appid": 3448760,
+      "name": "TRACE Definitive Edition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-02-06T06:17:34.849700"
+    },
+    "3448930": {
+      "appid": 3448930,
+      "name": "Untitled Hand Game: Titled Edition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-02-06T06:17:36.701957"
     }
   }
 }
