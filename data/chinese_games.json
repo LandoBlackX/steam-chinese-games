@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-02-06T07:14:32.272581"
+    "updated": "2026-02-06T11:02:02.289894"
   },
   "games": {
     "570": {
@@ -317418,6 +317418,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-02-06T07:14:08.684343"
+    },
+    "3454860": {
+      "appid": 3454860,
+      "name": "Clerks and Quirks",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-02-06T11:01:55.723399"
+    },
+    "3456730": {
+      "appid": 3456730,
+      "name": "WonderLang Portuguese",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-02-06T11:01:59.906856"
     }
   }
 }
