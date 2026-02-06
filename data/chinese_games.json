@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-02-06T14:26:33.121527"
+    "updated": "2026-02-06T15:11:02.470860"
   },
   "games": {
     "570": {
@@ -317450,6 +317450,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-02-06T14:13:27.784001"
+    },
+    "3460680": {
+      "appid": 3460680,
+      "name": "WonderLang Italian",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-02-06T15:10:58.006604"
     }
   }
 }
