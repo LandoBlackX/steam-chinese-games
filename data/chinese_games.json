@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-02-06T06:17:39.955784"
+    "updated": "2026-02-06T07:14:32.272581"
   },
   "games": {
     "570": {
@@ -317410,6 +317410,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-02-06T06:17:36.701957"
+    },
+    "3450600": {
+      "appid": 3450600,
+      "name": "King's Legacy: A Crown Divided Collector's Edition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-02-06T07:14:08.684343"
     }
   }
 }
