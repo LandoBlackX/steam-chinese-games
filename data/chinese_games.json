@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-02-06T19:09:35.224857"
+    "updated": "2026-02-06T21:53:13.299794"
   },
   "games": {
     "570": {
@@ -317474,6 +317474,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-02-06T19:09:32.630459"
+    },
+    "3474310": {
+      "appid": 3474310,
+      "name": "缠人背后灵",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-02-06T21:53:06.772782"
     }
   }
 }
