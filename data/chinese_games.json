@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-02-05T23:45:40.780075"
+    "updated": "2026-02-06T02:11:33.628270"
   },
   "games": {
     "570": {
@@ -317370,6 +317370,30 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-02-05T23:45:37.494570"
+    },
+    "3445500": {
+      "appid": 3445500,
+      "name": "Perpetuo",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-02-06T02:11:26.043788"
+    },
+    "3445980": {
+      "appid": 3445980,
+      "name": "Another World Adventures",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-02-06T02:11:28.851830"
+    },
+    "3446200": {
+      "appid": 3446200,
+      "name": "Sharks and Minnows",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-02-06T02:11:30.147085"
     }
   }
 }
