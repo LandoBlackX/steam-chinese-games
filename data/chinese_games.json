@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-02-06T22:45:40.376820"
+    "updated": "2026-02-06T23:48:40.616756"
   },
   "games": {
     "570": {
@@ -317490,6 +317490,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-02-06T22:45:33.567309"
+    },
+    "3477720": {
+      "appid": 3477720,
+      "name": "致命安眠",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-02-06T23:48:34.824371"
     }
   }
 }
