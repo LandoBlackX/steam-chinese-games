@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-02-06T15:11:02.470860"
+    "updated": "2026-02-06T19:09:35.224857"
   },
   "games": {
     "570": {
@@ -317458,6 +317458,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-02-06T15:10:58.006604"
+    },
+    "1907430": {
+      "appid": 1907430,
+      "name": "黄高乐的游戏合集",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-02-06T18:46:02.648212"
+    },
+    "3470070": {
+      "appid": 3470070,
+      "name": "Kimbow Escape",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-02-06T19:09:32.630459"
     }
   }
 }
