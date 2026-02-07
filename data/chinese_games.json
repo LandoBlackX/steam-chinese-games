@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-02-07T15:49:45.383874"
+    "updated": "2026-02-07T20:50:30.935366"
   },
   "games": {
     "570": {
@@ -317538,6 +317538,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-02-07T14:08:06.474082"
+    },
+    "3505640": {
+      "appid": 3505640,
+      "name": "Time Heals",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-02-07T20:50:28.065375"
     }
   }
 }
