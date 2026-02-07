@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-02-07T20:50:30.935366"
+    "updated": "2026-02-07T21:50:30.614336"
   },
   "games": {
     "570": {
@@ -317546,6 +317546,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-02-07T20:50:28.065375"
+    },
+    "3506220": {
+      "appid": 3506220,
+      "name": "WonderLang Japanese",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-02-07T21:50:25.407877"
+    },
+    "3506750": {
+      "appid": 3506750,
+      "name": "Monster Punk",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-02-07T21:50:28.299092"
     }
   }
 }
