@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-02-07T21:50:30.614336"
+    "updated": "2026-02-07T22:50:19.107562"
   },
   "games": {
     "570": {
@@ -317562,6 +317562,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-02-07T21:50:28.299092"
+    },
+    "3507830": {
+      "appid": 3507830,
+      "name": "Buzz Off!",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-02-07T22:50:16.093752"
     }
   }
 }
