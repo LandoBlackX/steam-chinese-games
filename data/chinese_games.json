@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-02-07T06:05:53.086883"
+    "updated": "2026-02-07T13:06:06.554826"
   },
   "games": {
     "570": {
@@ -317506,6 +317506,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-02-07T06:05:41.659941"
+    },
+    "3493730": {
+      "appid": 3493730,
+      "name": "炎上棉HOT糖",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-02-07T13:06:00.551536"
+    },
+    "3494290": {
+      "appid": 3494290,
+      "name": "Master of Jewelry",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-02-07T13:06:02.233607"
     }
   }
 }
