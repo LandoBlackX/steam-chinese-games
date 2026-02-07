@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-02-07T14:08:11.077666"
+    "updated": "2026-02-07T15:49:45.383874"
   },
   "games": {
     "570": {
@@ -89362,6 +89362,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2026-02-06T06:17:37.209291"
+    },
+    "3499520": {
+      "appid": 3499520,
+      "name": "Piano Glow",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2026-02-07T15:49:21.213234"
     }
   }
 }
