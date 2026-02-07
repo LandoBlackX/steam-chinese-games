@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-02-07T13:06:06.554826"
+    "updated": "2026-02-07T14:08:11.077666"
   },
   "games": {
     "570": {
@@ -317522,6 +317522,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-02-07T13:06:02.233607"
+    },
+    "3495820": {
+      "appid": 3495820,
+      "name": "КВАРТИРАНТ",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-02-07T14:08:05.976069"
+    },
+    "3495910": {
+      "appid": 3495910,
+      "name": "Smalltown Architect",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-02-07T14:08:06.474082"
     }
   }
 }
