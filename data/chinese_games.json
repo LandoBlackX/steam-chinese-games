@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-02-08T08:59:03.961795"
+    "updated": "2026-02-08T11:52:43.896412"
   },
   "games": {
     "570": {
@@ -317578,6 +317578,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-02-08T08:56:35.088169"
+    },
+    "3517100": {
+      "appid": 3517100,
+      "name": "コ、今に在り - Ko ima ni ari",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-02-08T11:52:43.369956"
     }
   }
 }
