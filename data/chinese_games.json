@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-02-07T22:50:19.107562"
+    "updated": "2026-02-08T08:59:03.961795"
   },
   "games": {
     "570": {
@@ -317570,6 +317570,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-02-07T22:50:16.093752"
+    },
+    "3514670": {
+      "appid": 3514670,
+      "name": "超级严肃高尔夫",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-02-08T08:56:35.088169"
     }
   }
 }
