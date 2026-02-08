@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-02-08T11:52:43.896412"
+    "updated": "2026-02-08T14:56:21.789320"
   },
   "games": {
     "570": {
@@ -317586,6 +317586,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-02-08T11:52:43.369956"
+    },
+    "1675860": {
+      "appid": 1675860,
+      "name": "Junkster",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-02-08T14:26:11.094494"
+    },
+    "3518990": {
+      "appid": 3518990,
+      "name": "Isekai Mining Defense",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-02-08T14:56:21.370210"
     }
   }
 }
