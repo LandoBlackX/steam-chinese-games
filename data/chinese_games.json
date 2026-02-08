@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-02-08T15:53:55.275113"
+    "updated": "2026-02-08T16:57:43.727366"
   },
   "games": {
     "570": {
@@ -317610,6 +317610,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-02-08T15:53:54.721835"
+    },
+    "1356120": {
+      "appid": 1356120,
+      "name": "Éclaircies",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-02-08T16:26:35.881955"
+    },
+    "3520330": {
+      "appid": 3520330,
+      "name": "CASE RECORDS: Lost Night",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-02-08T16:57:43.357107"
     }
   }
 }
