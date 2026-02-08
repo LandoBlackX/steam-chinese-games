@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-02-08T16:57:43.727366"
+    "updated": "2026-02-08T17:54:45.885764"
   },
   "games": {
     "570": {
@@ -317626,6 +317626,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-02-08T16:57:43.357107"
+    },
+    "3520620": {
+      "appid": 3520620,
+      "name": "Computer Store Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-02-08T17:54:45.284798"
     }
   }
 }
