@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-02-08T21:54:11.703026"
+    "updated": "2026-02-09T11:31:21.451938"
   },
   "games": {
     "570": {
@@ -317642,6 +317642,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-02-08T21:54:10.091789"
+    },
+    "3525970": {
+      "appid": 3525970,
+      "name": "Horripilant",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-02-09T11:31:20.245668"
     }
   }
 }
