@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-02-09T18:21:24.612712"
+    "updated": "2026-02-09T22:09:11.492870"
   },
   "games": {
     "570": {
@@ -317658,6 +317658,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-02-09T18:01:32.245638"
+    },
+    "3528860": {
+      "appid": 3528860,
+      "name": "Sonak",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-02-09T22:09:10.836599"
     }
   }
 }
