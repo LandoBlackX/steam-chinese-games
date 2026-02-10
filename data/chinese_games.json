@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-02-09T22:09:11.492870"
+    "updated": "2026-02-10T00:07:05.644664"
   },
   "games": {
     "570": {
@@ -317666,6 +317666,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-02-09T22:09:10.836599"
+    },
+    "3529530": {
+      "appid": 3529530,
+      "name": "SpinWave Survivors",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-02-10T00:07:05.640584"
     }
   }
 }
