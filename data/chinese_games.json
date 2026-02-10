@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-02-10T09:27:49.985855"
+    "updated": "2026-02-10T13:37:32.320851"
   },
   "games": {
     "570": {
@@ -317682,6 +317682,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-02-10T08:59:45.248532"
+    },
+    "3531750": {
+      "appid": 3531750,
+      "name": "Catventure: The Curse of the Dark Tower",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-02-10T13:37:31.057320"
+    },
+    "3531760": {
+      "appid": 3531760,
+      "name": "WonderLang Korean",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-02-10T13:37:31.308420"
     }
   }
 }
