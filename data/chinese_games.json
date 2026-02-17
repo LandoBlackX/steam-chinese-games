@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-02-17T17:22:42.024492"
+    "updated": "2026-02-17T20:13:13.133429"
   },
   "games": {
     "570": {
@@ -317730,6 +317730,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-02-17T17:07:16.917985"
+    },
+    "2282770": {
+      "appid": 2282770,
+      "name": "Jack the Ripper: Hunter Clan",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-02-17T19:49:43.139791"
+    },
+    "2997460": {
+      "appid": 2997460,
+      "name": "Stick Infinite Kingdom",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-02-17T19:58:00.687079"
     }
   }
 }
