@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-02-17T06:22:53.287555"
+    "updated": "2026-02-17T13:24:04.178780"
   },
   "games": {
     "570": {
@@ -317706,6 +317706,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-02-17T06:00:43.731333"
+    },
+    "2266060": {
+      "appid": 2266060,
+      "name": "Psalm VR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-02-17T13:00:30.454075"
     }
   }
 }
