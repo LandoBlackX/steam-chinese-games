@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-02-17T20:13:13.133429"
+    "updated": "2026-02-17T23:53:45.314048"
   },
   "games": {
     "570": {
@@ -317746,6 +317746,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-02-17T19:58:00.687079"
+    },
+    "3001640": {
+      "appid": 3001640,
+      "name": "The Bucketlist Tourist",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-02-17T23:39:05.000854"
     }
   }
 }
