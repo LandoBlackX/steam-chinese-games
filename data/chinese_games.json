@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-02-17T13:24:04.178780"
+    "updated": "2026-02-17T14:35:11.559308"
   },
   "games": {
     "570": {
@@ -317714,6 +317714,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-02-17T13:00:30.454075"
+    },
+    "2991450": {
+      "appid": 2991450,
+      "name": "DeckLand",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-02-17T14:19:30.642278"
     }
   }
 }
