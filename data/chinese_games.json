@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-02-18T04:48:30.633619"
+    "updated": "2026-02-18T11:09:34.477092"
   },
   "games": {
     "570": {
@@ -317762,6 +317762,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-02-18T04:33:00.825473"
+    },
+    "3010870": {
+      "appid": 3010870,
+      "name": "Match Tree",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-02-18T10:54:16.111572"
     }
   }
 }
