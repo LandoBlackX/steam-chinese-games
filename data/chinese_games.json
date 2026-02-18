@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-02-17T23:53:45.314048"
+    "updated": "2026-02-18T04:48:30.633619"
   },
   "games": {
     "570": {
@@ -317754,6 +317754,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-02-17T23:39:05.000854"
+    },
+    "3004170": {
+      "appid": 3004170,
+      "name": "Palettopia",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-02-18T04:33:00.825473"
     }
   }
 }
