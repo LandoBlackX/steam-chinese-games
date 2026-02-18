@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-02-18T11:09:34.477092"
+    "updated": "2026-02-18T16:13:53.092936"
   },
   "games": {
     "570": {
@@ -317770,6 +317770,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-02-18T10:54:16.111572"
+    },
+    "2330930": {
+      "appid": 2330930,
+      "name": "夜行之旅：放置式角色扮演冒险",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-02-18T15:52:50.941874"
     }
   }
 }
