@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-02-19T09:08:25.608099"
+    "updated": "2026-02-19T14:37:50.961517"
   },
   "games": {
     "570": {
@@ -317794,6 +317794,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-02-19T08:52:51.411629"
+    },
+    "3035140": {
+      "appid": 3035140,
+      "name": "WonderLang French",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-02-19T14:22:05.196518"
     }
   }
 }
