@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-02-18T16:13:53.092936"
+    "updated": "2026-02-19T06:21:09.023170"
   },
   "games": {
     "570": {
@@ -317778,6 +317778,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-02-18T15:52:50.941874"
+    },
+    "3027310": {
+      "appid": 3027310,
+      "name": "Zombi Efem",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-02-19T06:10:06.572800"
     }
   }
 }
