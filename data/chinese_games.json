@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-02-19T06:21:09.023170"
+    "updated": "2026-02-19T09:08:25.608099"
   },
   "games": {
     "570": {
@@ -317786,6 +317786,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-02-19T06:10:06.572800"
+    },
+    "3030290": {
+      "appid": 3030290,
+      "name": "Submarine Survivor",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-02-19T08:52:51.411629"
     }
   }
 }
