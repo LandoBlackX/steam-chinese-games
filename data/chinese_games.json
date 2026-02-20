@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-02-19T14:37:50.961517"
+    "updated": "2026-02-20T02:12:46.228987"
   },
   "games": {
     "570": {
@@ -317802,6 +317802,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-02-19T14:22:05.196518"
+    },
+    "3044240": {
+      "appid": 3044240,
+      "name": "Sigil Of Chaos",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-02-20T02:00:53.331281"
     }
   }
 }
