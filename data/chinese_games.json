@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-02-20T06:17:11.160129"
+    "updated": "2026-02-20T14:29:05.908748"
   },
   "games": {
     "570": {
@@ -317818,6 +317818,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-02-20T05:57:27.337761"
+    },
+    "3053720": {
+      "appid": 3053720,
+      "name": "Psycho",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-02-20T14:13:20.497393"
     }
   }
 }
