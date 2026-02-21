@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-02-20T14:29:05.908748"
+    "updated": "2026-02-21T09:57:15.098663"
   },
   "games": {
     "570": {
@@ -317826,6 +317826,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-02-20T14:13:20.497393"
+    },
+    "3064810": {
+      "appid": 3064810,
+      "name": "Strategos",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-02-21T09:41:13.750867"
     }
   }
 }
