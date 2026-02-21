@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-02-21T09:57:15.098663"
+    "updated": "2026-02-21T15:53:12.184186"
   },
   "games": {
     "570": {
@@ -317834,6 +317834,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-02-21T09:41:13.750867"
+    },
+    "3068300": {
+      "appid": 3068300,
+      "name": "Katawa Shoujo",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-02-21T15:36:20.261982"
     }
   }
 }
