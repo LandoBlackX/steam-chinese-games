@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-02-21T15:53:12.184186"
+    "updated": "2026-02-21T17:53:18.844718"
   },
   "games": {
     "570": {
@@ -317842,6 +317842,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-02-21T15:36:20.261982"
+    },
+    "3069810": {
+      "appid": 3069810,
+      "name": "鼠鼠登月 Rocket Rats",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-02-21T17:36:59.005220"
     }
   }
 }
