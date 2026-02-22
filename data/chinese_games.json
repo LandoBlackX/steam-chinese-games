@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-02-22T14:11:51.944126"
+    "updated": "2026-02-22T16:56:34.929356"
   },
   "games": {
     "570": {
@@ -317866,6 +317866,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-02-22T13:49:16.414189"
+    },
+    "2568390": {
+      "appid": 2568390,
+      "name": "Survivor Strain - Season 1",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-02-22T16:33:08.889913"
     }
   }
 }
