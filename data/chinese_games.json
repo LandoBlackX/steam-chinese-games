@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-02-22T08:04:40.313429"
+    "updated": "2026-02-22T14:11:51.944126"
   },
   "games": {
     "570": {
@@ -317858,6 +317858,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-02-22T07:41:40.392582"
+    },
+    "2564960": {
+      "appid": 2564960,
+      "name": "I'm on Observation Duty 8",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-02-22T13:49:16.414189"
     }
   }
 }
