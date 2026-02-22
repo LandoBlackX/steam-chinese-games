@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-02-21T17:53:18.844718"
+    "updated": "2026-02-22T08:04:40.313429"
   },
   "games": {
     "570": {
@@ -317850,6 +317850,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-02-21T17:36:59.005220"
+    },
+    "2548440": {
+      "appid": 2548440,
+      "name": "Boxing Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-02-22T07:41:40.392582"
     }
   }
 }
