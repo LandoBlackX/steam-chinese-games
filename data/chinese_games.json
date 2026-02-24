@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-02-22T16:56:34.929356"
+    "updated": "2026-02-24T04:47:31.753984"
   },
   "games": {
     "570": {
@@ -317874,6 +317874,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-02-22T16:33:08.889913"
+    },
+    "3093910": {
+      "appid": 3093910,
+      "name": "Dokkalfar: The Ballads of Vivi the Dark Elf",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-02-24T04:30:09.033434"
     }
   }
 }
