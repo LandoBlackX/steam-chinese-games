@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-02-24T04:47:31.753984"
+    "updated": "2026-02-24T12:10:07.361290"
   },
   "games": {
     "570": {
@@ -89370,6 +89370,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2026-02-07T15:49:21.213234"
+    },
+    "3096370": {
+      "appid": 3096370,
+      "name": "Hyper Empire",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2026-02-24T11:53:10.572217"
     }
   }
 }
