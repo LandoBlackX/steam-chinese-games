@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-02-24T12:10:07.361290"
+    "updated": "2026-02-24T16:27:33.565031"
   },
   "games": {
     "570": {
@@ -317882,6 +317882,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-02-24T04:30:09.033434"
+    },
+    "3097220": {
+      "appid": 3097220,
+      "name": "Gray Planet",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-02-24T16:10:26.532200"
     }
   }
 }
