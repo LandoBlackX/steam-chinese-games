@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-02-24T16:27:33.565031"
+    "updated": "2026-02-25T16:30:58.127483"
   },
   "games": {
     "570": {
@@ -317890,6 +317890,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-02-24T16:10:26.532200"
+    },
+    "3102340": {
+      "appid": 3102340,
+      "name": "Princess of the Water Lilies",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-02-25T16:14:30.752795"
     }
   }
 }
