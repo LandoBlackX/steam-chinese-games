@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-02-26T17:28:21.489619"
+    "updated": "2026-02-26T18:28:39.333673"
   },
   "games": {
     "570": {
@@ -317906,6 +317906,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-02-26T17:09:46.568391"
+    },
+    "2800080": {
+      "appid": 2800080,
+      "name": "Thief VR: Legacy of Shadow",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-02-26T18:07:08.472896"
     }
   }
 }
