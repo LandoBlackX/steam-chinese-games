@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-02-28T04:23:25.630539"
+    "updated": "2026-02-28T22:51:12.150823"
   },
   "games": {
     "570": {
@@ -317938,6 +317938,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-02-28T04:03:48.221339"
+    },
+    "2921590": {
+      "appid": 2921590,
+      "name": "Microwave Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-02-28T22:31:54.879911"
     }
   }
 }
