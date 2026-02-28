@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-02-27T06:20:18.597651"
+    "updated": "2026-02-28T04:23:25.630539"
   },
   "games": {
     "570": {
@@ -317930,6 +317930,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-02-27T06:04:50.578959"
+    },
+    "2873660": {
+      "appid": 2873660,
+      "name": "全球救援",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-02-28T04:03:48.221339"
     }
   }
 }
