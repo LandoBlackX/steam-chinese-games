@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-02-28T22:51:12.150823"
+    "updated": "2026-03-02T10:55:17.665396"
   },
   "games": {
     "570": {
@@ -317946,6 +317946,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-02-28T22:31:54.879911"
+    },
+    "3002220": {
+      "appid": 3002220,
+      "name": "VALDIS",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-03-02T10:53:32.611829"
     }
   }
 }
