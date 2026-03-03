@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-03-02T10:55:17.665396"
+    "updated": "2026-03-03T14:12:40.259529"
   },
   "games": {
     "570": {
@@ -317954,6 +317954,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-03-02T10:53:32.611829"
+    },
+    "3062650": {
+      "appid": 3062650,
+      "name": "Resultare",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-03-03T14:11:50.324621"
     }
   }
 }
