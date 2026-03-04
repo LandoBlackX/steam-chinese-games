@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-03-03T14:12:40.259529"
+    "updated": "2026-03-04T05:56:22.513992"
   },
   "games": {
     "570": {
@@ -317962,6 +317962,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-03-03T14:11:50.324621"
+    },
+    "3095820": {
+      "appid": 3095820,
+      "name": "It's Breaking Out",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-03-04T05:55:39.805845"
+    },
+    "3098340": {
+      "appid": 3098340,
+      "name": "Shadow of the Matrix",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-03-04T05:55:50.606055"
     }
   }
 }
