@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-03-04T05:56:22.513992"
+    "updated": "2026-03-04T07:51:08.204509"
   },
   "games": {
     "570": {
@@ -317978,6 +317978,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-03-04T05:55:50.606055"
+    },
+    "3102370": {
+      "appid": 3102370,
+      "name": "Fixer Undercover VR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-03-04T07:51:07.325263"
     }
   }
 }
