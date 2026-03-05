@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-03-04T07:51:08.204509"
+    "updated": "2026-03-05T08:51:58.656577"
   },
   "games": {
     "570": {
@@ -317986,6 +317986,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-03-04T07:51:07.325263"
+    },
+    "3127750": {
+      "appid": 3127750,
+      "name": "Pain Pain Go Away!",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-03-05T08:51:47.780492"
     }
   }
 }
