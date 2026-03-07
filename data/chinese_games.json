@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-03-05T08:51:58.656577"
+    "updated": "2026-03-07T16:38:33.601133"
   },
   "games": {
     "570": {
@@ -317994,6 +317994,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-03-05T08:51:47.780492"
+    },
+    "3135380": {
+      "appid": 3135380,
+      "name": "Verse Project",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-03-07T16:38:12.565745"
     }
   }
 }
