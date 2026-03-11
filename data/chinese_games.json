@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-03-10T18:15:39.568498"
+    "updated": "2026-03-11T07:18:46.028871"
   },
   "games": {
     "570": {
@@ -318010,6 +318010,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-03-10T17:45:19.286571"
+    },
+    "3535970": {
+      "appid": 3535970,
+      "name": "Valhalla: Lilith Rising",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-03-11T07:18:45.664624"
     }
   }
 }
