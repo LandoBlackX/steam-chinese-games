@@ -12,13 +12,13 @@ concurrency:
 jobs:
   update:
     runs-on: ubuntu-latest
-    timeout-minutes: 60  # 增加到 60 分钟（原为15，表示整个 update 作业（包括所有步骤）必须在 15 分钟内完成）
+    timeout-minutes: 60
     permissions:
       contents: write
 
     steps:
       - name: Checkout code
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6  # 升级到 v6（最新 v6.0.2，支持 Node 24）
         with:
           fetch-depth: 1
 
@@ -41,7 +41,7 @@ jobs:
           fi
 
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v6  # 升级到 v6.2.0（最新，支持 Node 24）
         with:
           python-version: '3.10'
 
@@ -68,12 +68,13 @@ jobs:
         run: python Src/scraper.py
 
       - name: Commit changes
-        uses: EndBug/add-and-commit@v9
+        uses: stefanzweifel/git-auto-commit-action@v7  # 替换为活跃维护的 action（v7.1.0 支持 Node 24）
         with:
-          add: 'data/*.json data/*.db'  # 自动包含 invalid_appids.json
-          message: |
+          commit_message: |
             🎮 游戏数据更新 [${{ github.run_number }}]
             统计结果：
             ✅ 中文游戏: ${{ steps.scraper.outputs.new_chinese }}
             🃏 卡牌游戏: ${{ steps.scraper.outputs.new_cards }}
-          push: true
+          file_pattern: 'data/*.json data/*.db'  # 对应原 add: 'data/*.json data/*.db'
+          skip_dirty_check: false                # 如果无变更则不 commit（默认行为）
+          push_options: '--force-with-lease'     # 安全 push，避免意外覆盖
