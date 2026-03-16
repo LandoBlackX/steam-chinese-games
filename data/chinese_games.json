@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-03-11T16:16:46.699579"
+    "updated": "2026-03-16T06:52:40.743311"
   },
   "games": {
     "570": {
@@ -318026,6 +318026,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-03-11T16:16:46.695952"
+    },
+    "3542590": {
+      "appid": 3542590,
+      "name": "Taxi Chaos 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-03-16T06:52:09.287236"
     }
   }
 }
