@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-03-16T06:52:40.743311"
+    "updated": "2026-03-22T13:16:04.273134"
   },
   "games": {
     "570": {
@@ -318034,6 +318034,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-03-16T06:52:09.287236"
+    },
+    "2443140": {
+      "appid": 2443140,
+      "name": "ComeCloser",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-03-22T12:48:43.860834"
     }
   }
 }
