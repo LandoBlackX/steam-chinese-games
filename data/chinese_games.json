@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-03-22T13:16:04.273134"
+    "updated": "2026-03-26T05:08:33.290274"
   },
   "games": {
     "570": {
@@ -318042,6 +318042,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-03-22T12:48:43.860834"
+    },
+    "3549220": {
+      "appid": 3549220,
+      "name": "网球经理25",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-03-26T05:08:12.459516"
     }
   }
 }
