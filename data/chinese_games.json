@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-03-26T05:08:33.290274"
+    "updated": "2026-04-03T02:31:11.840091"
   },
   "games": {
     "570": {
@@ -318050,6 +318050,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-03-26T05:08:12.459516"
+    },
+    "3554230": {
+      "appid": 3554230,
+      "name": "Out of Skull",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-04-03T02:30:51.002760"
     }
   }
 }
