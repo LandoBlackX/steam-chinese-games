@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-04-06T18:14:16.431299"
+    "updated": "2026-04-07T15:37:50.909814"
   },
   "games": {
     "570": {
@@ -318066,6 +318066,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-04-06T18:13:55.871217"
+    },
+    "3557060": {
+      "appid": 3557060,
+      "name": "Lull: Rest After Crying",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-04-07T15:37:50.461326"
     }
   }
 }
