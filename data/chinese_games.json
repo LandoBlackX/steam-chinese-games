@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-04-07T15:37:50.909814"
+    "updated": "2026-04-08T02:35:17.167411"
   },
   "games": {
     "570": {
@@ -318074,6 +318074,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-04-07T15:37:50.461326"
+    },
+    "3557460": {
+      "appid": 3557460,
+      "name": "恶魔宝贝",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-04-08T02:35:06.480821"
     }
   }
 }
