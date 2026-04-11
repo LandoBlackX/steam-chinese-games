@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-04-11T17:32:59.875267"
+    "updated": "2026-04-11T18:43:36.373264"
   },
   "games": {
     "570": {
@@ -318090,6 +318090,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-04-11T17:27:35.929132"
+    },
+    "342860": {
+      "appid": 342860,
+      "name": "Dark Quest",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-04-11T18:37:51.653957"
+    },
+    "345020": {
+      "appid": 345020,
+      "name": "Feeble Origins: Path of a Hero",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-04-11T18:38:01.014697"
     }
   }
 }
