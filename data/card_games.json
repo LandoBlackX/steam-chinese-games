@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-04-08T02:35:17.167411"
+    "updated": "2026-04-11T09:36:25.155980"
   },
   "games": {
     "570": {
@@ -89378,6 +89378,22 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2026-02-24T11:53:10.572217"
+    },
+    "41050": {
+      "appid": 41050,
+      "name": "Serious Sam Classic: The First Encounter",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2026-04-11T09:36:05.266840"
+    },
+    "41060": {
+      "appid": 41060,
+      "name": "Serious Sam Classic: The Second Encounter",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2026-04-11T09:36:05.430622"
     }
   }
 }
