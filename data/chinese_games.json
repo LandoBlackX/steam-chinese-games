@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-04-11T09:36:25.155980"
+    "updated": "2026-04-11T17:32:59.875267"
   },
   "games": {
     "570": {
@@ -318082,6 +318082,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-04-08T02:35:06.480821"
+    },
+    "338170": {
+      "appid": 338170,
+      "name": "Ratz Instagib",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-04-11T17:27:35.929132"
     }
   }
 }
