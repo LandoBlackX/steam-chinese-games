@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-04-12T16:38:49.804342"
+    "updated": "2026-04-12T21:35:50.854087"
   },
   "games": {
     "570": {
@@ -318122,6 +318122,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-04-12T16:33:16.758744"
+    },
+    "639240": {
+      "appid": 639240,
+      "name": "CodeRed: Agent Sarah's Story - Day one",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-04-12T21:30:38.502382"
     }
   }
 }
