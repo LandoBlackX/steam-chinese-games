@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-04-12T21:35:50.854087"
+    "updated": "2026-04-12T22:29:48.440827"
   },
   "games": {
     "570": {
@@ -318130,6 +318130,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-04-12T21:30:38.502382"
+    },
+    "644540": {
+      "appid": 644540,
+      "name": "Dies irae ~Amantes amentes~",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-04-12T22:29:11.589633"
     }
   }
 }
