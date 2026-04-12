@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-04-11T18:43:36.373264"
+    "updated": "2026-04-12T07:14:15.896855"
   },
   "games": {
     "570": {
@@ -318106,6 +318106,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-04-11T18:38:01.014697"
+    },
+    "459040": {
+      "appid": 459040,
+      "name": "Medieval Battlefields",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-04-12T07:08:38.220195"
     }
   }
 }
