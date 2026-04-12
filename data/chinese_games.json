@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-04-12T07:14:15.896855"
+    "updated": "2026-04-12T16:38:49.804342"
   },
   "games": {
     "570": {
@@ -318114,6 +318114,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-04-12T07:08:38.220195"
+    },
+    "568560": {
+      "appid": 568560,
+      "name": "Puzzle Player",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-04-12T16:33:16.758744"
     }
   }
 }
