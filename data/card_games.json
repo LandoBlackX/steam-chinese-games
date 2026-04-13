@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-04-13T20:03:32.230365"
+    "updated": "2026-04-13T23:44:19.221889"
   },
   "games": {
     "570": {
@@ -89394,6 +89394,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2026-04-11T09:36:05.430622"
+    },
+    "738650": {
+      "appid": 738650,
+      "name": "Seers Isle",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2026-04-13T23:39:10.837612"
     }
   }
 }
