@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-04-12T22:29:48.440827"
+    "updated": "2026-04-13T08:02:09.476143"
   },
   "games": {
     "570": {
@@ -318138,6 +318138,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-04-12T22:29:11.589633"
+    },
+    "673100": {
+      "appid": 673100,
+      "name": "Code of The Savage",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-04-13T07:57:04.733034"
     }
   }
 }
