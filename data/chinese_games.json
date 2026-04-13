@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-04-13T08:02:09.476143"
+    "updated": "2026-04-13T20:03:32.230365"
   },
   "games": {
     "570": {
@@ -318146,6 +318146,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-04-13T07:57:04.733034"
+    },
+    "714680": {
+      "appid": 714680,
+      "name": "Ashes of Mankind: Citadels",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-04-13T20:02:59.895939"
     }
   }
 }
