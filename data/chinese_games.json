@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-04-14T09:18:51.199760"
+    "updated": "2026-04-14T12:05:16.272432"
   },
   "games": {
     "570": {
@@ -318170,6 +318170,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-04-14T09:13:40.896395"
+    },
+    "774291": {
+      "appid": 774291,
+      "name": "社畜大作战",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-04-14T11:59:47.717965"
     }
   }
 }
