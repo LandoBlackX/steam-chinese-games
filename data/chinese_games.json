@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-04-13T23:44:19.221889"
+    "updated": "2026-04-14T05:25:05.258711"
   },
   "games": {
     "570": {
@@ -318154,6 +318154,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-04-13T20:02:59.895939"
+    },
+    "752290": {
+      "appid": 752290,
+      "name": "Scientific project: Optic",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-04-14T05:19:55.721095"
     }
   }
 }
