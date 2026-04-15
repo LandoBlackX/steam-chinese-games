@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-04-14T12:05:16.272432"
+    "updated": "2026-04-15T09:19:44.892022"
   },
   "games": {
     "570": {
@@ -318178,6 +318178,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-04-14T11:59:47.717965"
+    },
+    "855970": {
+      "appid": 855970,
+      "name": "Vixens From Outer Space",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-04-15T09:14:20.183334"
     }
   }
 }
