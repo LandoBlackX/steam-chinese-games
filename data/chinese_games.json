@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-04-15T09:19:44.892022"
+    "updated": "2026-04-15T15:08:27.214906"
   },
   "games": {
     "570": {
@@ -318186,6 +318186,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-04-15T09:14:20.183334"
+    },
+    "885030": {
+      "appid": 885030,
+      "name": "Platform Builder",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-04-15T15:03:15.697756"
+    },
+    "885510": {
+      "appid": 885510,
+      "name": " 淫秽卷轴",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-04-15T15:03:17.708021"
     }
   }
 }
