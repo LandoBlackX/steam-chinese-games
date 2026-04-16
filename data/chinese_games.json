@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-04-15T15:08:27.214906"
+    "updated": "2026-04-16T07:30:53.268970"
   },
   "games": {
     "570": {
@@ -318202,6 +318202,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-04-15T15:03:17.708021"
+    },
+    "948820": {
+      "appid": 948820,
+      "name": "Nevergrind",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-04-16T07:25:29.499287"
     }
   }
 }
