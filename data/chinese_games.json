@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-04-16T09:20:00.889689"
+    "updated": "2026-04-16T12:04:56.752998"
   },
   "games": {
     "570": {
@@ -318210,6 +318210,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-04-16T07:25:29.499287"
+    },
+    "970300": {
+      "appid": 970300,
+      "name": "Re.poly",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-04-16T11:59:39.311456"
+    },
+    "974480": {
+      "appid": 974480,
+      "name": "Echoes of Mystralia",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-04-16T11:59:50.906748"
     }
   }
 }
