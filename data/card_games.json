@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-04-16T07:30:53.268970"
+    "updated": "2026-04-16T09:20:00.889689"
   },
   "games": {
     "570": {
@@ -89402,6 +89402,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2026-04-13T23:39:10.837612"
+    },
+    "957820": {
+      "appid": 957820,
+      "name": "Across the Grooves",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2026-04-16T09:14:44.298899"
     }
   }
 }
