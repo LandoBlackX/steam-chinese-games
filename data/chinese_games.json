@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-04-17T20:46:56.785794"
+    "updated": "2026-04-17T23:41:25.779875"
   },
   "games": {
     "570": {
@@ -318258,6 +318258,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-04-17T19:57:11.716748"
+    },
+    "1145910": {
+      "appid": 1145910,
+      "name": "TableTop Soccer: Redux",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-04-17T23:36:03.267005"
     }
   }
 }
