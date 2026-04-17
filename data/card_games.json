@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-04-17T20:02:12.922563"
+    "updated": "2026-04-17T20:46:56.785794"
   },
   "games": {
     "570": {
@@ -89418,6 +89418,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2026-04-17T19:56:41.607075"
+    },
+    "1127390": {
+      "appid": 1127390,
+      "name": "Cute Cute Cuties",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2026-04-17T20:41:43.232828"
     }
   }
 }
