@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-04-17T02:13:36.032317"
+    "updated": "2026-04-17T16:59:17.005391"
   },
   "games": {
     "570": {
@@ -318242,6 +318242,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-04-17T02:08:14.258298"
+    },
+    "1096200": {
+      "appid": 1096200,
+      "name": "The Orville - Interactive Fan Experience",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-04-17T16:53:46.429566"
     }
   }
 }
