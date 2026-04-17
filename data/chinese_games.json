@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-04-17T16:59:17.005391"
+    "updated": "2026-04-17T20:02:12.922563"
   },
   "games": {
     "570": {
@@ -318250,6 +318250,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-04-17T16:53:46.429566"
+    },
+    "1123600": {
+      "appid": 1123600,
+      "name": "SCP: Maintain & Control",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-04-17T19:57:11.716748"
     }
   }
 }

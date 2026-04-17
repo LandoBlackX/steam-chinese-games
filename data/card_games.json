@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-04-17T16:59:17.005391"
+    "updated": "2026-04-17T20:02:12.922563"
   },
   "games": {
     "570": {
@@ -89410,6 +89410,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2026-04-16T09:14:44.298899"
+    },
+    "1117480": {
+      "appid": 1117480,
+      "name": "Dead Hand",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2026-04-17T19:56:41.607075"
     }
   }
 }
