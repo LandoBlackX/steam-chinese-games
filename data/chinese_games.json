@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-04-18T08:03:24.203411"
+    "updated": "2026-04-18T14:05:20.675409"
   },
   "games": {
     "570": {
@@ -318290,6 +318290,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-04-18T07:58:04.918923"
+    },
+    "1212120": {
+      "appid": 1212120,
+      "name": "Just Shoot",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-04-18T13:59:49.199923"
     }
   }
 }
