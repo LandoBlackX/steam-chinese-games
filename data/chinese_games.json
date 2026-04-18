@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-04-18T14:05:20.675409"
+    "updated": "2026-04-18T16:40:30.319458"
   },
   "games": {
     "570": {
@@ -318298,6 +318298,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-04-18T13:59:49.199923"
+    },
+    "1236770": {
+      "appid": 1236770,
+      "name": "SpaceCraft Brawl",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-04-18T16:35:19.849073"
     }
   }
 }
