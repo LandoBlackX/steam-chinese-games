@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-04-18T16:40:30.319458"
+    "updated": "2026-04-18T17:39:09.532091"
   },
   "games": {
     "570": {
@@ -318306,6 +318306,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-04-18T16:35:19.849073"
+    },
+    "1243550": {
+      "appid": 1243550,
+      "name": "SilkRoad Project",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-04-18T17:33:52.367812"
+    },
+    "1244040": {
+      "appid": 1244040,
+      "name": "Crocotile 3D",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-04-18T17:33:53.823268"
     }
   }
 }
