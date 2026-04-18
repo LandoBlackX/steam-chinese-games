@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-04-17T23:41:25.779875"
+    "updated": "2026-04-18T02:04:17.931219"
   },
   "games": {
     "570": {
@@ -318266,6 +318266,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-04-17T23:36:03.267005"
+    },
+    "1154030": {
+      "appid": 1154030,
+      "name": "Titan Quest II",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-04-18T01:59:11.154180"
+    },
+    "1155220": {
+      "appid": 1155220,
+      "name": "METEORA",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-04-18T01:59:14.133741"
     }
   }
 }
