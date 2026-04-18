@@ -5956,9 +5956,9 @@
       "timestamp": "2026-04-14T13:57:49.465580"
     },
     {
-      "appid": 1196310,
-      "reason": "500 Server Error: Internal Server Error for url: https://store.steampowered.com/api/appdetails?appids=1196310&l=schinese",
-      "timestamp": "2026-04-18T11:32:07.000436"
+      "appid": 1160850,
+      "reason": "API 返回 success: false",
+      "timestamp": "2026-04-18T12:54:16.807614"
     }
   ]
 }
