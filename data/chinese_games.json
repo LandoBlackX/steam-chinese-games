@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-04-18T02:04:17.931219"
+    "updated": "2026-04-18T08:03:24.203411"
   },
   "games": {
     "570": {
@@ -318282,6 +318282,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-04-18T01:59:14.133741"
+    },
+    "1171340": {
+      "appid": 1171340,
+      "name": "A.I.M. War Protocol",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-04-18T07:58:04.918923"
     }
   }
 }
