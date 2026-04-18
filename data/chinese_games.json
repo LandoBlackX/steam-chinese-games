@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-04-18T17:39:09.532091"
+    "updated": "2026-04-18T18:47:18.294559"
   },
   "games": {
     "570": {
@@ -318322,6 +318322,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-04-18T17:33:53.823268"
+    },
+    "1252250": {
+      "appid": 1252250,
+      "name": "Rebornia - MMORPG 2D",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-04-18T18:42:04.257349"
+    },
+    "1253220": {
+      "appid": 1253220,
+      "name": "The Gold River Project",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-04-18T18:42:07.401173"
     }
   }
 }
