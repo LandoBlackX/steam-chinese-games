@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-04-18T18:47:18.294559"
+    "updated": "2026-04-18T19:44:15.172788"
   },
   "games": {
     "570": {
@@ -318338,6 +318338,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-04-18T18:42:07.401173"
+    },
+    "1256270": {
+      "appid": 1256270,
+      "name": "王座空悬 Kinstrife",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-04-18T19:38:47.577620"
     }
   }
 }

@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-04-18T18:47:18.294559"
+    "updated": "2026-04-18T19:44:15.172788"
   },
   "games": {
     "570": {
@@ -89426,6 +89426,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2026-04-17T20:41:43.232828"
+    },
+    "1258190": {
+      "appid": 1258190,
+      "name": "Cyber Lady",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2026-04-18T19:38:53.776975"
     }
   }
 }
