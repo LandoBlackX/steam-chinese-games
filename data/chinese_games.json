@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-04-18T19:44:15.172788"
+    "updated": "2026-04-19T02:18:29.840730"
   },
   "games": {
     "570": {
@@ -318346,6 +318346,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-04-18T19:38:47.577620"
+    },
+    "1292860": {
+      "appid": 1292860,
+      "name": "For Evelyn",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-04-19T02:13:15.191187"
     }
   }
 }
