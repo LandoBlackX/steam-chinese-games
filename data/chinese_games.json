@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-04-19T08:55:37.062812"
+    "updated": "2026-04-19T12:59:51.027892"
   },
   "games": {
     "570": {
@@ -318354,6 +318354,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-04-19T02:13:15.191187"
+    },
+    "1344730": {
+      "appid": 1344730,
+      "name": "Evolution adventure",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-04-19T12:54:19.842188"
     }
   }
 }
