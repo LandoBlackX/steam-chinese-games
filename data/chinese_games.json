@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-04-19T12:59:51.027892"
+    "updated": "2026-04-19T14:48:06.809164"
   },
   "games": {
     "570": {
@@ -318362,6 +318362,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-04-19T12:54:19.842188"
+    },
+    "1356950": {
+      "appid": 1356950,
+      "name": "Edentopia",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-04-19T14:42:38.364745"
+    },
+    "1361470": {
+      "appid": 1361470,
+      "name": "illuminati Simulator VR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-04-19T14:43:00.691033"
     }
   }
 }
