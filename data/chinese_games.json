@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-04-19T14:48:06.809164"
+    "updated": "2026-04-19T18:48:05.972402"
   },
   "games": {
     "570": {
@@ -318378,6 +318378,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-04-19T14:43:00.691033"
+    },
+    "1385650": {
+      "appid": 1385650,
+      "name": "一个人的火锅局",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-04-19T18:42:54.855895"
     }
   }
 }

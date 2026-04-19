@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-04-19T14:48:06.809164"
+    "updated": "2026-04-19T18:48:05.972402"
   },
   "games": {
     "570": {
@@ -89442,6 +89442,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2026-04-19T08:50:21.364884"
+    },
+    "1381770": {
+      "appid": 1381770,
+      "name": "Fortune Summoners: Secret of the Elemental Stone",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2026-04-19T18:42:32.215822"
     }
   }
 }
