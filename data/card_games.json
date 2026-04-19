@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-04-19T02:18:29.840730"
+    "updated": "2026-04-19T08:55:37.062812"
   },
   "games": {
     "570": {
@@ -89434,6 +89434,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2026-04-18T19:38:53.776975"
+    },
+    "1312990": {
+      "appid": 1312990,
+      "name": "Awkward Girls",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2026-04-19T08:50:21.364884"
     }
   }
 }
