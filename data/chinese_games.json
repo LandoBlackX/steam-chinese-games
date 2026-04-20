@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-04-20T14:12:20.543728"
+    "updated": "2026-04-20T16:11:43.553407"
   },
   "games": {
     "570": {
@@ -318410,6 +318410,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-04-20T14:07:13.050612"
+    },
+    "1466520": {
+      "appid": 1466520,
+      "name": "崩坏之兆：饥荒",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-04-20T16:06:26.182442"
     }
   }
 }
