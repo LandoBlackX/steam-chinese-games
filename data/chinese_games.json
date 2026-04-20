@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-04-20T12:07:45.376717"
+    "updated": "2026-04-20T14:12:20.543728"
   },
   "games": {
     "570": {
@@ -318402,6 +318402,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-04-20T12:02:33.531850"
+    },
+    "1459360": {
+      "appid": 1459360,
+      "name": "Brain Break",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-04-20T14:07:13.050612"
     }
   }
 }
