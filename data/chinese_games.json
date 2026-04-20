@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-04-20T16:11:43.553407"
+    "updated": "2026-04-20T18:01:26.105939"
   },
   "games": {
     "570": {
@@ -318418,6 +318418,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-04-20T16:06:26.182442"
+    },
+    "1469220": {
+      "appid": 1469220,
+      "name": "猫模拟器",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-04-20T17:55:53.489456"
+    },
+    "1472430": {
+      "appid": 1472430,
+      "name": "Sketchy Fables",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-04-20T18:01:11.924564"
     }
   }
 }
