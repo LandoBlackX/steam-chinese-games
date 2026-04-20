@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-04-19T18:48:05.972402"
+    "updated": "2026-04-20T05:43:10.060856"
   },
   "games": {
     "570": {
@@ -318386,6 +318386,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-04-19T18:42:54.855895"
+    },
+    "1431300": {
+      "appid": 1431300,
+      "name": "SAND: Raiders of Sophie",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-04-20T05:37:50.628531"
     }
   }
 }
