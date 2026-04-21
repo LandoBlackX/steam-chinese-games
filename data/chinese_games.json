@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-04-20T18:01:26.105939"
+    "updated": "2026-04-21T05:30:59.982383"
   },
   "games": {
     "570": {
@@ -318434,6 +318434,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-04-20T18:01:11.924564"
+    },
+    "1510280": {
+      "appid": 1510280,
+      "name": "Isles of Cubes",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-04-21T05:25:21.729641"
     }
   }
 }
