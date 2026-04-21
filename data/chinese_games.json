@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-04-21T11:10:30.647691"
+    "updated": "2026-04-21T17:03:12.243343"
   },
   "games": {
     "570": {
@@ -318450,6 +318450,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-04-21T11:04:55.902498"
+    },
+    "1550920": {
+      "appid": 1550920,
+      "name": "Slime Alchemy",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-04-21T16:58:04.700874"
     }
   }
 }
