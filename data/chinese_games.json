@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-04-21T17:03:12.243343"
+    "updated": "2026-04-21T21:48:54.903285"
   },
   "games": {
     "570": {
@@ -318458,6 +318458,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-04-21T16:58:04.700874"
+    },
+    "1571570": {
+      "appid": 1571570,
+      "name": "Cult of the sons",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-04-21T21:43:34.355729"
     }
   }
 }
