@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-04-21T05:30:59.982383"
+    "updated": "2026-04-21T11:10:30.647691"
   },
   "games": {
     "570": {
@@ -318442,6 +318442,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-04-21T05:25:21.729641"
+    },
+    "1527090": {
+      "appid": 1527090,
+      "name": "Cat's Menace",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-04-21T11:04:55.902498"
     }
   }
 }
