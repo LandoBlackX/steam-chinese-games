@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-04-21T22:42:07.943507"
+    "updated": "2026-04-22T02:13:55.737515"
   },
   "games": {
     "570": {
@@ -89450,6 +89450,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2026-04-19T18:42:32.215822"
+    },
+    "1588940": {
+      "appid": 1588940,
+      "name": "Storm Tale 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2026-04-22T02:08:37.586508"
     }
   }
 }
