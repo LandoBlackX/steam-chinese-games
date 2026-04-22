@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-04-22T22:50:31.857631"
+    "updated": "2026-04-22T23:49:36.638853"
   },
   "games": {
     "570": {
@@ -89466,6 +89466,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2026-04-22T22:45:06.991027"
+    },
+    "1668660": {
+      "appid": 1668660,
+      "name": "Radio",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2026-04-22T23:44:20.493875"
     }
   }
 }

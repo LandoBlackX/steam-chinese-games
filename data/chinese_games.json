@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-04-22T22:50:31.857631"
+    "updated": "2026-04-22T23:49:36.638853"
   },
   "games": {
     "570": {
@@ -318522,6 +318522,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-04-22T22:45:29.339839"
+    },
+    "1664720": {
+      "appid": 1664720,
+      "name": "MOJITO Woody's Rescue",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-04-22T23:43:59.149206"
     }
   }
 }
