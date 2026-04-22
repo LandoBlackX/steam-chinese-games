@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-04-22T13:25:08.971838"
+    "updated": "2026-04-22T15:16:18.991607"
   },
   "games": {
     "570": {
@@ -318506,6 +318506,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-04-22T13:25:05.331069"
+    },
+    "1625460": {
+      "appid": 1625460,
+      "name": "Reptilian Rising",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-04-22T15:11:08.534542"
     }
   }
 }
