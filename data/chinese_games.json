@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-04-22T09:23:09.366098"
+    "updated": "2026-04-22T13:25:08.971838"
   },
   "games": {
     "570": {
@@ -318490,6 +318490,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-04-22T09:17:26.127933"
+    },
+    "1620870": {
+      "appid": 1620870,
+      "name": "Outer Space Shack",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-04-22T13:25:04.420267"
+    },
+    "1621070": {
+      "appid": 1621070,
+      "name": "DeadPoly",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-04-22T13:25:05.331069"
     }
   }
 }
