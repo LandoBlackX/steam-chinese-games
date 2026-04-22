@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-04-22T02:13:55.737515"
+    "updated": "2026-04-22T09:23:09.366098"
   },
   "games": {
     "570": {
@@ -318482,6 +318482,14 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2026-04-22T02:08:37.586508"
+    },
+    "1604630": {
+      "appid": 1604630,
+      "name": "Kriophobia",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-04-22T09:17:26.127933"
     }
   }
 }
