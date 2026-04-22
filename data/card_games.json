@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-04-22T15:16:18.991607"
+    "updated": "2026-04-22T22:50:31.857631"
   },
   "games": {
     "570": {
@@ -89458,6 +89458,14 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2026-04-22T02:08:37.586508"
+    },
+    "1658960": {
+      "appid": 1658960,
+      "name": "End of Lines",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2026-04-22T22:45:06.991027"
     }
   }
 }
