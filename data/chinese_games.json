@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-04-23T11:11:52.173757"
+    "updated": "2026-04-23T19:10:20.476630"
   },
   "games": {
     "570": {
@@ -318546,6 +318546,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-04-23T11:11:50.511164"
+    },
+    "1716570": {
+      "appid": 1716570,
+      "name": "Supersonic Fight",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-04-23T19:05:08.349349"
+    },
+    "1716710": {
+      "appid": 1716710,
+      "name": "Twisted Tower Tactics",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-04-23T19:05:09.207259"
     }
   }
 }
