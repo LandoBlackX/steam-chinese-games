@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-04-23T19:10:20.476630"
+    "updated": "2026-04-23T21:49:18.693344"
   },
   "games": {
     "570": {
@@ -318562,6 +318562,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-04-23T19:05:09.207259"
+    },
+    "1727750": {
+      "appid": 1727750,
+      "name": "Old Salt",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-04-23T21:44:03.018690"
     }
   }
 }
