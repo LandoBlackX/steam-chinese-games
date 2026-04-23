@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-04-22T23:49:36.638853"
+    "updated": "2026-04-23T05:33:46.280579"
   },
   "games": {
     "570": {
@@ -318530,6 +318530,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-04-22T23:43:59.149206"
+    },
+    "1680370": {
+      "appid": 1680370,
+      "name": "Gunning Over It!",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-04-23T05:33:42.078679"
     }
   }
 }
