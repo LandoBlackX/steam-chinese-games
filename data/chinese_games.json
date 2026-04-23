@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-04-23T05:33:46.280579"
+    "updated": "2026-04-23T11:11:52.173757"
   },
   "games": {
     "570": {
@@ -318538,6 +318538,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-04-23T05:33:42.078679"
+    },
+    "1696770": {
+      "appid": 1696770,
+      "name": "The Mermaid Mask",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-04-23T11:11:50.511164"
     }
   }
 }
