@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-04-24T18:51:24.426197"
+    "updated": "2026-04-24T20:49:50.313849"
   },
   "games": {
     "570": {
@@ -318610,6 +318610,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-04-24T16:54:03.574382"
+    },
+    "1805320": {
+      "appid": 1805320,
+      "name": "罗马拓荒录",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-04-24T20:44:08.365187"
     }
   }
 }
