@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-04-24T08:04:00.103098"
+    "updated": "2026-04-24T09:36:11.983747"
   },
   "games": {
     "570": {
@@ -318594,6 +318594,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-04-24T07:58:38.016951"
+    },
+    "1764700": {
+      "appid": 1764700,
+      "name": "超级昭和电动画剧☆太空拌饭海苔碎",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-04-24T09:31:05.875983"
     }
   }
 }
