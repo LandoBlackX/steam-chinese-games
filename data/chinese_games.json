@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-04-24T02:19:14.071070"
+    "updated": "2026-04-24T08:04:00.103098"
   },
   "games": {
     "570": {
@@ -318586,6 +318586,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-04-24T02:19:13.908870"
+    },
+    "1755080": {
+      "appid": 1755080,
+      "name": "Away From Life",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-04-24T07:58:38.016951"
     }
   }
 }
