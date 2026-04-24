@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-04-23T23:48:36.024642"
+    "updated": "2026-04-24T02:19:14.071070"
   },
   "games": {
     "570": {
@@ -318578,6 +318578,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-04-23T23:48:32.874996"
+    },
+    "1748110": {
+      "appid": 1748110,
+      "name": "Town of Zoz",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-04-24T02:19:13.908870"
     }
   }
 }
