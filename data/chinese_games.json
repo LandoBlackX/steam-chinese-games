@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-04-24T20:49:50.313849"
+    "updated": "2026-04-24T22:43:38.087366"
   },
   "games": {
     "570": {
@@ -318618,6 +318618,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-04-24T20:44:08.365187"
+    },
+    "1820400": {
+      "appid": 1820400,
+      "name": "The Ballad Singer: Knights Templar",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-04-24T22:38:33.139438"
     }
   }
 }
