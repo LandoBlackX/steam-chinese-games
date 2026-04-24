@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-04-24T09:36:11.983747"
+    "updated": "2026-04-24T16:59:35.091636"
   },
   "games": {
     "570": {
@@ -318602,6 +318602,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-04-24T09:31:05.875983"
+    },
+    "1785080": {
+      "appid": 1785080,
+      "name": "Arrows",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-04-24T16:54:03.574382"
     }
   }
 }
