@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-04-24T16:59:35.091636"
+    "updated": "2026-04-24T18:51:24.426197"
   },
   "games": {
     "570": {
@@ -89474,6 +89474,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2026-04-22T23:44:20.493875"
+    },
+    "1794880": {
+      "appid": 1794880,
+      "name": "Ys vs. Trails in the Sky: Alternative Saga",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2026-04-24T18:45:43.361921"
     }
   }
 }
