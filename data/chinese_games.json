@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-04-24T22:43:38.087366"
+    "updated": "2026-04-24T23:44:22.244675"
   },
   "games": {
     "570": {
@@ -318626,6 +318626,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-04-24T22:38:33.139438"
+    },
+    "1824480": {
+      "appid": 1824480,
+      "name": "Short Stories Paranoia",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-04-24T23:39:12.818000"
     }
   }
 }
