@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-04-25T20:43:04.591843"
+    "updated": "2026-04-25T22:41:06.180267"
   },
   "games": {
     "570": {
@@ -318746,6 +318746,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-04-25T20:37:41.056654"
+    },
+    "1916890": {
+      "appid": 1916890,
+      "name": "滑块世界 (Slider)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-04-25T22:35:45.914077"
+    },
+    "1918130": {
+      "appid": 1918130,
+      "name": "Grim Quest - Old School RPG",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-04-25T22:35:51.480396"
     }
   }
 }
