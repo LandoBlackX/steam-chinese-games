@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-04-25T19:50:18.385794"
+    "updated": "2026-04-25T20:43:04.591843"
   },
   "games": {
     "570": {
@@ -318738,6 +318738,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-04-25T19:45:00.821902"
+    },
+    "1906430": {
+      "appid": 1906430,
+      "name": "Halve",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-04-25T20:37:41.056654"
     }
   }
 }
