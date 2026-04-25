@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-04-25T13:04:13.331097"
+    "updated": "2026-04-25T16:45:27.015051"
   },
   "games": {
     "570": {
@@ -318698,6 +318698,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-04-25T12:59:06.679352"
+    },
+    "1883370": {
+      "appid": 1883370,
+      "name": "PEPPERED: an existential platformer",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-04-25T16:39:50.815174"
+    },
+    "1888300": {
+      "appid": 1888300,
+      "name": "HOROS - Magnifica",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-04-25T16:45:25.294086"
     }
   }
 }
