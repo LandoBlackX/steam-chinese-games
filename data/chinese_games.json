@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-04-25T08:54:35.077246"
+    "updated": "2026-04-25T09:56:48.270518"
   },
   "games": {
     "570": {
@@ -318658,6 +318658,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-04-25T08:49:21.762161"
+    },
+    "1850200": {
+      "appid": 1850200,
+      "name": "Dodge-imals",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-04-25T09:51:34.944582"
     }
   }
 }
