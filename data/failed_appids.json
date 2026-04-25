@@ -5956,9 +5956,9 @@
       "timestamp": "2026-04-14T13:57:49.465580"
     },
     {
-      "appid": 1887550,
-      "reason": "API 返回 success: false",
-      "timestamp": "2026-04-25T16:45:21.920701"
+      "appid": 1890290,
+      "reason": "403 Client Error: Forbidden for url: https://store.steampowered.com/api/appdetails?appids=1890290&l=schinese",
+      "timestamp": "2026-04-25T17:45:23.694489"
     }
   ]
 }
