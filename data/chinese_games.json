@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-04-25T09:56:48.270518"
+    "updated": "2026-04-25T10:47:09.720434"
   },
   "games": {
     "570": {
@@ -318666,6 +318666,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-04-25T09:51:34.944582"
+    },
+    "1854280": {
+      "appid": 1854280,
+      "name": "The Vision Of The Ant",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-04-25T10:41:48.339518"
+    },
+    "1858710": {
+      "appid": 1858710,
+      "name": "Deep Russian Depression",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-04-25T10:42:04.648813"
     }
   }
 }
