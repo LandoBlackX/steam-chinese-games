@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-04-24T23:44:22.244675"
+    "updated": "2026-04-25T02:09:00.536626"
   },
   "games": {
     "570": {
@@ -318634,6 +318634,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-04-24T23:39:12.818000"
+    },
+    "1830290": {
+      "appid": 1830290,
+      "name": "Fall of an Empire",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-04-25T02:03:53.207854"
     }
   }
 }
