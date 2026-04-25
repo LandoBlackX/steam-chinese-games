@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-04-25T16:45:27.015051"
+    "updated": "2026-04-25T18:52:01.954639"
   },
   "games": {
     "570": {
@@ -318714,6 +318714,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-04-25T16:45:25.294086"
+    },
+    "1896760": {
+      "appid": 1896760,
+      "name": "暴打联盟",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-04-25T18:46:53.917726"
     }
   }
 }
