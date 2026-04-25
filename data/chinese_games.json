@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-04-25T02:09:00.536626"
+    "updated": "2026-04-25T07:16:23.648253"
   },
   "games": {
     "570": {
@@ -318642,6 +318642,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-04-25T02:03:53.207854"
+    },
+    "1839680": {
+      "appid": 1839680,
+      "name": "Titan Isles",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-04-25T07:11:05.750232"
     }
   }
 }
