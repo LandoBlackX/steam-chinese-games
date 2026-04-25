@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-04-25T11:43:43.995535"
+    "updated": "2026-04-25T13:04:13.331097"
   },
   "games": {
     "570": {
@@ -318682,6 +318682,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-04-25T10:42:04.648813"
+    },
+    "1867830": {
+      "appid": 1867830,
+      "name": "BIG DRUG",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-04-25T12:58:53.429331"
+    },
+    "1870460": {
+      "appid": 1870460,
+      "name": "The Forgotten Castle",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-04-25T12:59:06.679352"
     }
   }
 }
