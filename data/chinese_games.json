@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-04-25T07:16:23.648253"
+    "updated": "2026-04-25T08:54:35.077246"
   },
   "games": {
     "570": {
@@ -318650,6 +318650,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-04-25T07:11:05.750232"
+    },
+    "1845740": {
+      "appid": 1845740,
+      "name": "Blood Souls",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-04-25T08:49:21.762161"
     }
   }
 }
