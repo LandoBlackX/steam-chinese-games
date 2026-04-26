@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-04-26T15:47:41.494040"
+    "updated": "2026-04-26T16:46:51.997065"
   },
   "games": {
     "570": {
@@ -318794,6 +318794,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-04-26T15:42:22.301904"
+    },
+    "1985420": {
+      "appid": 1985420,
+      "name": "This is a Ghost",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-04-26T16:46:47.456561"
     }
   }
 }
