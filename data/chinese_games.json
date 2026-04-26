@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-04-26T10:50:40.788872"
+    "updated": "2026-04-26T11:45:38.038402"
   },
   "games": {
     "570": {
@@ -318778,6 +318778,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-04-26T07:31:44.591924"
+    },
+    "1962010": {
+      "appid": 1962010,
+      "name": "Space Scavenger 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-04-26T11:40:25.293718"
     }
   }
 }
