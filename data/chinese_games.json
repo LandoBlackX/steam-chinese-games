@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-04-26T02:32:22.943202"
+    "updated": "2026-04-26T07:31:48.524910"
   },
   "games": {
     "570": {
@@ -318762,6 +318762,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-04-25T22:35:51.480396"
+    },
+    "1938100": {
+      "appid": 1938100,
+      "name": "Notmads",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-04-26T07:26:23.872186"
+    },
+    "1942110": {
+      "appid": 1942110,
+      "name": "Bootstrap Island",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-04-26T07:31:44.591924"
     }
   }
 }
