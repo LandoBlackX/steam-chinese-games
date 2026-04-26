@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-04-26T18:53:41.615140"
+    "updated": "2026-04-26T19:52:20.232890"
   },
   "games": {
     "570": {
@@ -89514,6 +89514,22 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2026-04-26T10:45:31.692345"
+    },
+    "1999140": {
+      "appid": 1999140,
+      "name": "Extraneum",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2026-04-26T19:46:43.931700"
+    },
+    "2004320": {
+      "appid": 2004320,
+      "name": "Duelyst II",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2026-04-26T19:52:18.280334"
     }
   }
 }
