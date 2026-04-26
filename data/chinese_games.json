@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-04-26T11:45:38.038402"
+    "updated": "2026-04-26T15:47:41.494040"
   },
   "games": {
     "570": {
@@ -318786,6 +318786,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-04-26T11:40:25.293718"
+    },
+    "1977610": {
+      "appid": 1977610,
+      "name": "LONG GONE：远逝",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-04-26T15:42:22.301904"
     }
   }
 }
