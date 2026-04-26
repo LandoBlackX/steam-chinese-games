@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-04-26T16:46:51.997065"
+    "updated": "2026-04-26T18:53:41.615140"
   },
   "games": {
     "570": {
@@ -318802,6 +318802,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-04-26T16:46:47.456561"
+    },
+    "1992140": {
+      "appid": 1992140,
+      "name": "Ice Cream",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-04-26T18:48:14.232751"
     }
   }
 }
