@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-04-26T21:43:31.414238"
+    "updated": "2026-04-26T22:43:53.492668"
   },
   "games": {
     "570": {
@@ -318826,6 +318826,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-04-26T21:43:28.898351"
+    },
+    "2022640": {
+      "appid": 2022640,
+      "name": "CALX",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-04-26T22:43:47.874344"
     }
   }
 }
