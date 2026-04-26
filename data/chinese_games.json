@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-04-26T19:52:20.232890"
+    "updated": "2026-04-26T21:43:31.414238"
   },
   "games": {
     "570": {
@@ -318810,6 +318810,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-04-26T18:48:14.232751"
+    },
+    "2015270": {
+      "appid": 2015270,
+      "name": "熔炉密林",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-04-26T21:38:25.326274"
+    },
+    "2016540": {
+      "appid": 2016540,
+      "name": "Chess Pills",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-04-26T21:43:28.898351"
     }
   }
 }
