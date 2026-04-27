@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-04-27T08:19:19.183458"
+    "updated": "2026-04-27T11:04:48.465382"
   },
   "games": {
     "570": {
@@ -318842,6 +318842,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-04-27T08:18:43.673285"
+    },
+    "2073150": {
+      "appid": 2073150,
+      "name": "Eldritch Empathy",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-04-27T11:04:42.502983"
     }
   }
 }
