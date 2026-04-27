@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-04-27T11:04:48.465382"
+    "updated": "2026-04-27T12:26:52.825964"
   },
   "games": {
     "570": {
@@ -89530,6 +89530,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2026-04-26T19:52:18.280334"
+    },
+    "2076260": {
+      "appid": 2076260,
+      "name": "Slaughter Horse 2",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2026-04-27T12:26:41.010958"
     }
   }
 }
