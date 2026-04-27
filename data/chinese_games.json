@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-04-26T22:43:53.492668"
+    "updated": "2026-04-27T08:19:19.183458"
   },
   "games": {
     "570": {
@@ -318834,6 +318834,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-04-26T22:43:47.874344"
+    },
+    "2064710": {
+      "appid": 2064710,
+      "name": "Luminescence",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-04-27T08:18:43.673285"
     }
   }
 }
