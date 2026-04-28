@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-04-28T20:17:04.931956"
+    "updated": "2026-04-28T23:57:27.687615"
   },
   "games": {
     "570": {
@@ -318890,6 +318890,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-04-28T20:16:51.593808"
+    },
+    "2169930": {
+      "appid": 2169930,
+      "name": "R-Type Tactics I • II Cosmos",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-04-28T23:57:24.766197"
     }
   }
 }
