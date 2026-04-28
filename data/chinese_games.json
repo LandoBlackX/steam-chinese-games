@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-04-28T02:38:10.876524"
+    "updated": "2026-04-28T11:06:14.215845"
   },
   "games": {
     "570": {
@@ -318866,6 +318866,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-04-28T02:37:41.396724"
+    },
+    "2134850": {
+      "appid": 2134850,
+      "name": "星际钻探站",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-04-28T11:06:06.001198"
     }
   }
 }
