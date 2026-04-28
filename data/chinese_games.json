@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-04-28T11:06:14.215845"
+    "updated": "2026-04-28T20:17:04.931956"
   },
   "games": {
     "570": {
@@ -318874,6 +318874,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-04-28T11:06:06.001198"
+    },
+    "2148120": {
+      "appid": 2148120,
+      "name": "Evard The Hermit: Through Fears",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-04-28T20:16:41.405069"
+    },
+    "2150200": {
+      "appid": 2150200,
+      "name": "Lockdown 2024",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-04-28T20:16:51.593808"
     }
   }
 }
