@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-04-28T23:57:27.687615"
+    "updated": "2026-04-29T02:38:17.075494"
   },
   "games": {
     "570": {
@@ -89546,6 +89546,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2026-04-27T22:50:55.757957"
+    },
+    "2173460": {
+      "appid": 2173460,
+      "name": "Echoes of the Living",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2026-04-29T02:38:00.476050"
     }
   }
 }
