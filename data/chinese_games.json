@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-04-29T19:23:33.469531"
+    "updated": "2026-04-29T23:57:33.477618"
   },
   "games": {
     "570": {
@@ -318954,6 +318954,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-04-29T19:23:32.868302"
+    },
+    "2225480": {
+      "appid": 2225480,
+      "name": "MEMOLITH: Forsaken by Light",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-04-29T23:56:58.887371"
     }
   }
 }
