@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-04-29T12:19:38.139694"
+    "updated": "2026-04-29T19:23:33.469531"
   },
   "games": {
     "570": {
@@ -89554,6 +89554,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2026-04-29T02:38:00.476050"
+    },
+    "2210000": {
+      "appid": 2210000,
+      "name": "Unnatural: Benighted",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2026-04-29T19:23:17.963127"
     }
   }
 }

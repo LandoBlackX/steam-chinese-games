@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-04-29T12:19:38.139694"
+    "updated": "2026-04-29T19:23:33.469531"
   },
   "games": {
     "570": {
@@ -318930,6 +318930,30 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-04-29T12:19:26.080980"
+    },
+    "2208350": {
+      "appid": 2208350,
+      "name": "Total Chaos",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-04-29T19:23:07.001557"
+    },
+    "2209900": {
+      "appid": 2209900,
+      "name": "Moonlight Peaks",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-04-29T19:23:16.763424"
+    },
+    "2212670": {
+      "appid": 2212670,
+      "name": "MakeRoom",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-04-29T19:23:32.868302"
     }
   }
 }
