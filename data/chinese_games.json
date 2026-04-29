@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-04-29T08:14:17.548169"
+    "updated": "2026-04-29T10:56:54.499502"
   },
   "games": {
     "570": {
@@ -318914,6 +318914,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-04-29T08:14:14.693940"
+    },
+    "2191050": {
+      "appid": 2191050,
+      "name": "LIFE EFFECT",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-04-29T10:56:49.984045"
     }
   }
 }
