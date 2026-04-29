@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-04-29T10:56:54.499502"
+    "updated": "2026-04-29T12:19:38.139694"
   },
   "games": {
     "570": {
@@ -318922,6 +318922,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-04-29T10:56:49.984045"
+    },
+    "2194480": {
+      "appid": 2194480,
+      "name": "Explosive Track - Crazy Action Arcade Racing",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-04-29T12:19:26.080980"
     }
   }
 }
