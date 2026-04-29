@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-04-29T05:55:59.728991"
+    "updated": "2026-04-29T08:14:17.548169"
   },
   "games": {
     "570": {
@@ -318906,6 +318906,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-04-29T05:55:37.116139"
+    },
+    "2185100": {
+      "appid": 2185100,
+      "name": "Children of the Forest",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-04-29T08:14:14.693940"
     }
   }
 }
