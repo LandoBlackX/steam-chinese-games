@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-04-30T06:00:28.006894"
+    "updated": "2026-04-30T17:21:58.693472"
   },
   "games": {
     "570": {
@@ -318986,6 +318986,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-04-30T06:00:00.731332"
+    },
+    "2263450": {
+      "appid": 2263450,
+      "name": "Endless Samurai 無限武者",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-04-30T17:21:41.164758"
     }
   }
 }
