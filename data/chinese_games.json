@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-04-29T23:57:33.477618"
+    "updated": "2026-04-30T02:39:31.979870"
   },
   "games": {
     "570": {
@@ -318962,6 +318962,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-04-29T23:56:58.887371"
+    },
+    "2230220": {
+      "appid": 2230220,
+      "name": "Wilderless 流浪荒野",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-04-30T02:39:10.738031"
     }
   }
 }
