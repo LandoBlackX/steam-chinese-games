@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-04-30T22:00:14.779585"
+    "updated": "2026-04-30T22:56:02.207386"
   },
   "games": {
     "570": {
@@ -319002,6 +319002,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-04-30T19:19:35.145541"
+    },
+    "2283200": {
+      "appid": 2283200,
+      "name": "Eleanor in Miami: Chains of depravity",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-04-30T22:55:50.229758"
     }
   }
 }
