@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-04-30T02:39:31.979870"
+    "updated": "2026-04-30T06:00:28.006894"
   },
   "games": {
     "570": {
@@ -318970,6 +318970,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-04-30T02:39:10.738031"
+    },
+    "2235570": {
+      "appid": 2235570,
+      "name": "Massive Defense",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-04-30T05:59:59.044474"
+    },
+    "2236060": {
+      "appid": 2236060,
+      "name": "Anthro Heat",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-04-30T06:00:00.731332"
     }
   }
 }
