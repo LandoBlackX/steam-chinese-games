@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-04-30T19:19:43.733014"
+    "updated": "2026-04-30T22:00:14.779585"
   },
   "games": {
     "570": {
@@ -89562,6 +89562,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2026-04-29T19:23:17.963127"
+    },
+    "2280350": {
+      "appid": 2280350,
+      "name": "Turbo Dismount® 2",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2026-04-30T22:00:07.300443"
     }
   }
 }
