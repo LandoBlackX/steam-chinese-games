@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-04-30T17:21:58.693472"
+    "updated": "2026-04-30T19:19:43.733014"
   },
   "games": {
     "570": {
@@ -318994,6 +318994,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-04-30T17:21:41.164758"
+    },
+    "2269590": {
+      "appid": 2269590,
+      "name": "BanHown",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-04-30T19:19:35.145541"
     }
   }
 }
