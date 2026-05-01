@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-05-01T19:13:19.508978"
+    "updated": "2026-05-01T23:54:09.037533"
   },
   "games": {
     "570": {
@@ -319082,6 +319082,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-05-01T19:12:49.982872"
+    },
+    "2366060": {
+      "appid": 2366060,
+      "name": "Weyrdlets 2.0 : Desktop Pets",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-01T23:53:51.660662"
     }
   }
 }
