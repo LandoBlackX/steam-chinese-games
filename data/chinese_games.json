@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-05-01T12:02:23.857600"
+    "updated": "2026-05-01T13:18:59.838606"
   },
   "games": {
     "570": {
@@ -319042,6 +319042,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-05-01T12:02:15.567884"
+    },
+    "2322260": {
+      "appid": 2322260,
+      "name": "一线生机",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-01T13:18:35.994493"
     }
   }
 }
