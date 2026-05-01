@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-05-01T13:18:59.838606"
+    "updated": "2026-05-01T16:00:24.331604"
   },
   "games": {
     "570": {
@@ -319050,6 +319050,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-05-01T13:18:35.994493"
+    },
+    "2334400": {
+      "appid": 2334400,
+      "name": "The Tale of LUMI",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-01T16:00:21.083385"
     }
   }
 }
