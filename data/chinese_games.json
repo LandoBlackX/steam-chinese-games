@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-04-30T23:55:14.459856"
+    "updated": "2026-05-01T10:28:56.048541"
   },
   "games": {
     "570": {
@@ -319018,6 +319018,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-04-30T23:55:07.776031"
+    },
+    "2312520": {
+      "appid": 2312520,
+      "name": "永恒岛梦旅",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-01T10:28:46.205661"
     }
   }
 }
