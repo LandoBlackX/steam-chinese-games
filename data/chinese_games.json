@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-05-01T16:59:45.765627"
+    "updated": "2026-05-01T18:02:46.277362"
   },
   "games": {
     "570": {
@@ -319066,6 +319066,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-05-01T16:59:41.035203"
+    },
+    "2341030": {
+      "appid": 2341030,
+      "name": "Grim Tides - Old School RPG",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-01T18:02:24.694575"
     }
   }
 }
