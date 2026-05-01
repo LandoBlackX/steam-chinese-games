@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-05-01T16:00:24.331604"
+    "updated": "2026-05-01T16:59:45.765627"
   },
   "games": {
     "570": {
@@ -319058,6 +319058,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-05-01T16:00:21.083385"
+    },
+    "2339000": {
+      "appid": 2339000,
+      "name": "Portabellows",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-01T16:59:41.035203"
     }
   }
 }
