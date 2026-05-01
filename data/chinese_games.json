@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-05-01T18:02:46.277362"
+    "updated": "2026-05-01T19:13:19.508978"
   },
   "games": {
     "570": {
@@ -319074,6 +319074,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-05-01T18:02:24.694575"
+    },
+    "2344710": {
+      "appid": 2344710,
+      "name": "Duckified: Cosmic Legends",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-01T19:12:49.982872"
     }
   }
 }
