@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-05-02T13:07:44.982733"
+    "updated": "2026-05-02T14:20:04.126406"
   },
   "games": {
     "570": {
@@ -319122,6 +319122,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-05-02T13:07:34.984301"
+    },
+    "2407830": {
+      "appid": 2407830,
+      "name": "变废为宝哥布林",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-02T14:19:50.344151"
     }
   }
 }
