@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-05-01T23:54:09.037533"
+    "updated": "2026-05-02T09:08:25.746456"
   },
   "games": {
     "570": {
@@ -319090,6 +319090,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-05-01T23:53:51.660662"
+    },
+    "2384600": {
+      "appid": 2384600,
+      "name": "Monster College",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-02T09:08:06.101083"
+    },
+    "2388580": {
+      "appid": 2388580,
+      "name": "Forest of Deceit",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-02T09:08:21.696811"
     }
   }
 }

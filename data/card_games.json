@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-05-01T23:54:09.037533"
+    "updated": "2026-05-02T09:08:25.746456"
   },
   "games": {
     "570": {
@@ -89570,6 +89570,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2026-04-30T22:00:07.300443"
+    },
+    "2389240": {
+      "appid": 2389240,
+      "name": "G.O.P.O.T.A",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2026-05-02T09:08:24.447924"
     }
   }
 }
