@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-05-02T19:59:27.810127"
+    "updated": "2026-05-02T21:44:17.903260"
   },
   "games": {
     "570": {
@@ -319186,6 +319186,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-05-02T19:59:20.408869"
+    },
+    "2444700": {
+      "appid": 2444700,
+      "name": "The Event",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-02T21:44:15.448095"
     }
   }
 }
