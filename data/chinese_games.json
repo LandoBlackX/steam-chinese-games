@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-05-02T10:53:21.332971"
+    "updated": "2026-05-02T13:07:44.982733"
   },
   "games": {
     "570": {
@@ -319114,6 +319114,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-05-02T10:52:41.914303"
+    },
+    "2402620": {
+      "appid": 2402620,
+      "name": "World Guesser",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-02T13:07:34.984301"
     }
   }
 }
