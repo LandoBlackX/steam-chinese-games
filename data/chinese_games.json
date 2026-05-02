@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-05-02T15:49:12.122641"
+    "updated": "2026-05-02T17:53:13.243991"
   },
   "games": {
     "570": {
@@ -319138,6 +319138,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-05-02T15:49:10.904886"
+    },
+    "2419800": {
+      "appid": 2419800,
+      "name": "异世界后宫",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-02T17:47:47.418662"
+    },
+    "2421520": {
+      "appid": 2421520,
+      "name": "Cosmula",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-02T17:47:57.250593"
     }
   }
 }
