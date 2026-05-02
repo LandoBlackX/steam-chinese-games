@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-05-02T09:08:25.746456"
+    "updated": "2026-05-02T10:53:21.332971"
   },
   "games": {
     "570": {
@@ -89578,6 +89578,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2026-05-02T09:08:24.447924"
+    },
+    "2391870": {
+      "appid": 2391870,
+      "name": "MareQuest: An Interactive Tail",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2026-05-02T10:53:09.801287"
     }
   }
 }

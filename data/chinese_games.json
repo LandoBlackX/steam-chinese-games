@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-05-02T09:08:25.746456"
+    "updated": "2026-05-02T10:53:21.332971"
   },
   "games": {
     "570": {
@@ -319106,6 +319106,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-05-02T09:08:21.696811"
+    },
+    "2389830": {
+      "appid": 2389830,
+      "name": "閃攻機人アスラ - ASURA THE STRIKER -",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-02T10:52:41.914303"
     }
   }
 }
