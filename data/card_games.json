@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-05-02T17:53:13.243991"
+    "updated": "2026-05-02T19:05:44.746467"
   },
   "games": {
     "570": {
@@ -89586,6 +89586,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2026-05-02T10:53:09.801287"
+    },
+    "2428980": {
+      "appid": 2428980,
+      "name": "Bye Sweet Carole",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2026-05-02T19:00:36.107382"
     }
   }
 }

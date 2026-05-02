@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-05-02T17:53:13.243991"
+    "updated": "2026-05-02T19:05:44.746467"
   },
   "games": {
     "570": {
@@ -319154,6 +319154,30 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-05-02T17:47:57.250593"
+    },
+    "2425720": {
+      "appid": 2425720,
+      "name": "Shards of the Past",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-02T19:00:19.887955"
+    },
+    "2426150": {
+      "appid": 2426150,
+      "name": "Collapsed State",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-02T19:00:22.093674"
+    },
+    "2429600": {
+      "appid": 2429600,
+      "name": "Herdles",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-02T19:00:40.461179"
     }
   }
 }
