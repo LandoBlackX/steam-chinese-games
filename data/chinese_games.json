@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-05-03T09:33:25.087267"
+    "updated": "2026-05-03T11:04:33.485938"
   },
   "games": {
     "570": {
@@ -319218,6 +319218,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-05-03T09:28:10.252350"
+    },
+    "2482840": {
+      "appid": 2482840,
+      "name": "Sky Harvest",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-03T10:59:32.146085"
     }
   }
 }
