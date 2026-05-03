@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-05-03T11:04:33.485938"
+    "updated": "2026-05-03T11:51:49.002635"
   },
   "games": {
     "570": {
@@ -319226,6 +319226,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-05-03T10:59:32.146085"
+    },
+    "2488290": {
+      "appid": 2488290,
+      "name": "RUSHING BEAT X: Return Of Brawl Brothers",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-03T11:51:48.228783"
     }
   }
 }
