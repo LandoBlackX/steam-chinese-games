@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-05-03T11:51:49.002635"
+    "updated": "2026-05-03T16:56:39.732860"
   },
   "games": {
     "570": {
@@ -319234,6 +319234,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-05-03T11:51:48.228783"
+    },
+    "2505440": {
+      "appid": 2505440,
+      "name": "SHANGHAI ANGEL - 18+ Adult Only",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-03T16:51:13.023965"
+    },
+    "2509870": {
+      "appid": 2509870,
+      "name": "别眨眼",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-03T16:51:37.553530"
     }
   }
 }
