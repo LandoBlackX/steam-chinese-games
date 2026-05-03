@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-05-03T20:05:27.794427"
+    "updated": "2026-05-03T22:49:41.846094"
   },
   "games": {
     "570": {
@@ -319258,6 +319258,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-05-03T20:00:10.893696"
+    },
+    "2537270": {
+      "appid": 2537270,
+      "name": "4:AM",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-03T22:44:22.215716"
+    },
+    "2538870": {
+      "appid": 2538870,
+      "name": "False Hero",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-03T22:44:29.178815"
     }
   }
 }
