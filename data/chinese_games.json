@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-05-03T08:09:25.137815"
+    "updated": "2026-05-03T09:33:25.087267"
   },
   "games": {
     "570": {
@@ -319210,6 +319210,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-05-03T08:04:14.939241"
+    },
+    "2474430": {
+      "appid": 2474430,
+      "name": "TetherGeist",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-03T09:28:10.252350"
     }
   }
 }
