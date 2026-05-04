@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-05-04T21:18:10.226777"
+    "updated": "2026-05-04T23:08:15.922358"
   },
   "games": {
     "570": {
@@ -319290,6 +319290,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-05-04T21:12:58.981985"
+    },
+    "2599690": {
+      "appid": 2599690,
+      "name": "Better Than Dead",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-04T23:03:11.511549"
     }
   }
 }
