@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-05-04T19:32:34.565840"
+    "updated": "2026-05-04T21:18:10.226777"
   },
   "games": {
     "570": {
@@ -319274,6 +319274,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-05-03T22:44:29.178815"
+    },
+    "2590670": {
+      "appid": 2590670,
+      "name": "Falling Down XR",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-04T21:12:48.763268"
+    },
+    "2593740": {
+      "appid": 2593740,
+      "name": "Operation Terra",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-04T21:12:58.981985"
     }
   }
 }
