@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-05-03T22:49:41.846094"
+    "updated": "2026-05-04T19:32:34.565840"
   },
   "games": {
     "570": {
@@ -89602,6 +89602,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2026-05-03T11:46:26.961941"
+    },
+    "2585890": {
+      "appid": 2585890,
+      "name": "Demon Tides",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2026-05-04T19:32:03.479354"
     }
   }
 }
