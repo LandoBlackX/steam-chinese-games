@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-05-05T08:16:56.652955"
+    "updated": "2026-05-05T12:07:31.110552"
   },
   "games": {
     "570": {
@@ -319314,6 +319314,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-05-05T08:11:40.390160"
+    },
+    "2629230": {
+      "appid": 2629230,
+      "name": "The Adventures of Sir Kicksalot",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-05T12:07:05.406006"
     }
   }
 }
