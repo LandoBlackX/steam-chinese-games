@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-05-05T12:07:31.110552"
+    "updated": "2026-05-05T16:00:26.994022"
   },
   "games": {
     "570": {
@@ -319322,6 +319322,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-05-05T12:07:05.406006"
+    },
+    "2632690": {
+      "appid": 2632690,
+      "name": "FoMO",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-05T16:00:05.503949"
     }
   }
 }
