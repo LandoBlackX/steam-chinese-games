@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-05-05T02:38:20.069120"
+    "updated": "2026-05-05T08:16:56.652955"
   },
   "games": {
     "570": {
@@ -319306,6 +319306,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-05-05T02:33:13.024337"
+    },
+    "2618390": {
+      "appid": 2618390,
+      "name": "地龙神话：石器时代",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-05T08:11:40.390160"
     }
   }
 }
