@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-05-05T19:22:52.319432"
+    "updated": "2026-05-05T21:08:23.992321"
   },
   "games": {
     "570": {
@@ -319338,6 +319338,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-05-05T19:22:13.723354"
+    },
+    "2652460": {
+      "appid": 2652460,
+      "name": "Dark Age Gladiator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-05T21:08:19.423837"
     }
   }
 }
