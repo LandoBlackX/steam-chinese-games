@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-05-05T21:08:23.992321"
+    "updated": "2026-05-05T22:12:26.345081"
   },
   "games": {
     "570": {
@@ -319346,6 +319346,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-05-05T21:08:19.423837"
+    },
+    "2658040": {
+      "appid": 2658040,
+      "name": "Responding",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-05T22:12:25.713642"
     }
   }
 }
