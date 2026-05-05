@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-05-05T22:12:26.345081"
+    "updated": "2026-05-05T23:53:50.801509"
   },
   "games": {
     "570": {
@@ -319354,6 +319354,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-05-05T22:12:25.713642"
+    },
+    "2659610": {
+      "appid": 2659610,
+      "name": "Realms of Riddles: Wizards'Keep",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-05T23:53:39.121224"
     }
   }
 }
