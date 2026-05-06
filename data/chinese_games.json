@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-05-06T22:04:00.219035"
+    "updated": "2026-05-06T22:55:54.580417"
   },
   "games": {
     "570": {
@@ -319402,6 +319402,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-05-06T22:03:58.594073"
+    },
+    "2707710": {
+      "appid": 2707710,
+      "name": "Is There a Way?",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-06T22:55:23.198724"
+    },
+    "2710460": {
+      "appid": 2710460,
+      "name": "Berserk High",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-06T22:55:48.662110"
     }
   }
 }
