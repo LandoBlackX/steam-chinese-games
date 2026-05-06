@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-05-06T18:22:57.910175"
+    "updated": "2026-05-06T22:04:00.219035"
   },
   "games": {
     "570": {
@@ -319386,6 +319386,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-05-06T18:22:38.760501"
+    },
+    "2704900": {
+      "appid": 2704900,
+      "name": "Bohnice: Within The Mind",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-06T22:03:46.734992"
+    },
+    "2706980": {
+      "appid": 2706980,
+      "name": "漩光奇旅：争分夺秒",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-06T22:03:58.594073"
     }
   }
 }
