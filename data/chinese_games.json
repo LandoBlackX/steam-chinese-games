@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-05-05T23:53:50.801509"
+    "updated": "2026-05-06T14:08:46.543330"
   },
   "games": {
     "570": {
@@ -319362,6 +319362,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-05-05T23:53:39.121224"
+    },
+    "2685810": {
+      "appid": 2685810,
+      "name": "Micro macro farm",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-06T14:08:33.710679"
     }
   }
 }
