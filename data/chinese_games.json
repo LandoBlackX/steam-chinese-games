@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-05-06T14:08:46.543330"
+    "updated": "2026-05-06T18:22:57.910175"
   },
   "games": {
     "570": {
@@ -319370,6 +319370,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-05-06T14:08:33.710679"
+    },
+    "2694020": {
+      "appid": 2694020,
+      "name": "星际播种王",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-06T18:22:27.284016"
+    },
+    "2695260": {
+      "appid": 2695260,
+      "name": "The Crimson Maid",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-06T18:22:38.760501"
     }
   }
 }
