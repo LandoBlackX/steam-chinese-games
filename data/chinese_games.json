@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-05-07T16:15:41.963154"
+    "updated": "2026-05-07T18:31:44.339344"
   },
   "games": {
     "570": {
@@ -319442,6 +319442,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-05-07T16:15:15.454488"
+    },
+    "2748030": {
+      "appid": 2748030,
+      "name": "Knightborn",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-07T18:31:25.065531"
     }
   }
 }
