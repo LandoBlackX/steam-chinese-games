@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-05-07T18:31:44.339344"
+    "updated": "2026-05-07T20:22:06.399350"
   },
   "games": {
     "570": {
@@ -319450,6 +319450,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-05-07T18:31:25.065531"
+    },
+    "2753000": {
+      "appid": 2753000,
+      "name": "GOALS",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-07T20:21:31.890446"
     }
   }
 }
