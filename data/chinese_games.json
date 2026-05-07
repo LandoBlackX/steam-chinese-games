@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-05-06T22:55:54.580417"
+    "updated": "2026-05-07T02:41:23.953393"
   },
   "games": {
     "570": {
@@ -319418,6 +319418,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-05-06T22:55:48.662110"
+    },
+    "2717940": {
+      "appid": 2717940,
+      "name": "RC: Car Maniacs",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-07T02:41:06.317493"
+    },
+    "2721420": {
+      "appid": 2721420,
+      "name": "Who am I: Remedy",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-07T02:41:19.538701"
     }
   }
 }
