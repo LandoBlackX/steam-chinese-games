@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-05-07T02:41:23.953393"
+    "updated": "2026-05-07T16:15:41.963154"
   },
   "games": {
     "570": {
@@ -319434,6 +319434,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-05-07T02:41:19.538701"
+    },
+    "2742920": {
+      "appid": 2742920,
+      "name": "Silent Planet - Elegy of a Dying World",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-07T16:15:15.454488"
     }
   }
 }
