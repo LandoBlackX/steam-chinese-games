@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-05-07T20:22:06.399350"
+    "updated": "2026-05-07T23:09:26.146744"
   },
   "games": {
     "570": {
@@ -319458,6 +319458,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-05-07T20:21:31.890446"
+    },
+    "2766810": {
+      "appid": 2766810,
+      "name": "Scuttle",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-07T23:09:08.818708"
     }
   }
 }
