@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-05-08T21:08:02.981421"
+    "updated": "2026-05-08T23:06:49.496618"
   },
   "games": {
     "570": {
@@ -319578,6 +319578,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-05-08T21:07:38.300450"
+    },
+    "2829910": {
+      "appid": 2829910,
+      "name": "Ruiga Pirates: First Survivors",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-08T23:06:45.205611"
     }
   }
 }
