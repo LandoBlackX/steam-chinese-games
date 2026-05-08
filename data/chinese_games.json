@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-05-08T02:49:09.033188"
+    "updated": "2026-05-08T05:38:38.144879"
   },
   "games": {
     "570": {
@@ -319506,6 +319506,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-05-08T02:49:08.617629"
+    },
+    "2781430": {
+      "appid": 2781430,
+      "name": "Sushi Bar \"Moebius\"",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-08T05:38:29.991579"
+    },
+    "2783370": {
+      "appid": 2783370,
+      "name": "Teeto",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-08T05:38:37.846373"
     }
   }
 }
