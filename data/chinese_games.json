@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-05-08T07:35:51.296390"
+    "updated": "2026-05-08T09:25:49.934010"
   },
   "games": {
     "570": {
@@ -319538,6 +319538,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-05-08T07:35:25.209522"
+    },
+    "2790850": {
+      "appid": 2790850,
+      "name": "Wing Haven",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-08T09:25:41.020088"
     }
   }
 }
