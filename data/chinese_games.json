@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-05-08T00:05:35.331552"
+    "updated": "2026-05-08T02:49:09.033188"
   },
   "games": {
     "570": {
@@ -319474,6 +319474,38 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-05-08T00:05:34.212029"
+    },
+    "2774580": {
+      "appid": 2774580,
+      "name": "Vikings: Sex and Blood",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-08T02:48:52.972810"
+    },
+    "2777640": {
+      "appid": 2777640,
+      "name": "Lecherous Village",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-08T02:49:06.710804"
+    },
+    "2778080": {
+      "appid": 2778080,
+      "name": "THE BATHROOMS",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-08T02:49:08.504796"
+    },
+    "2778110": {
+      "appid": 2778110,
+      "name": "Project ZETA",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-08T02:49:08.617629"
     }
   }
 }
