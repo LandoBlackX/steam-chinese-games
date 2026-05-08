@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-05-08T19:23:24.029950"
+    "updated": "2026-05-08T21:08:02.981421"
   },
   "games": {
     "570": {
@@ -319570,6 +319570,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-05-08T19:23:22.987408"
+    },
+    "2819920": {
+      "appid": 2819920,
+      "name": "OOLO",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-08T21:07:38.300450"
     }
   }
 }
