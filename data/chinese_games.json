@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-05-07T23:09:26.146744"
+    "updated": "2026-05-08T00:05:35.331552"
   },
   "games": {
     "570": {
@@ -319466,6 +319466,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-05-07T23:09:08.818708"
+    },
+    "2772990": {
+      "appid": 2772990,
+      "name": "Ghost Janitors",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-08T00:05:34.212029"
     }
   }
 }
