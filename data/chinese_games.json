@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-05-08T05:38:38.144879"
+    "updated": "2026-05-08T07:35:51.296390"
   },
   "games": {
     "570": {
@@ -319522,6 +319522,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-05-08T05:38:37.846373"
+    },
+    "2785210": {
+      "appid": 2785210,
+      "name": "HYDROPUNK",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-08T07:35:18.802055"
+    },
+    "2786830": {
+      "appid": 2786830,
+      "name": "Epstein",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-08T07:35:25.209522"
     }
   }
 }
