@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-05-08T17:23:29.874044"
+    "updated": "2026-05-08T19:23:24.029950"
   },
   "games": {
     "570": {
@@ -319554,6 +319554,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-05-08T13:35:18.057655"
+    },
+    "2816140": {
+      "appid": 2816140,
+      "name": "Smile, you're being filmed",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-08T19:23:16.033504"
+    },
+    "2817760": {
+      "appid": 2817760,
+      "name": "Yokai Tales: Fox",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-08T19:23:22.987408"
     }
   }
 }
