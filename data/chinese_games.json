@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-05-08T09:25:49.934010"
+    "updated": "2026-05-08T13:35:41.934828"
   },
   "games": {
     "570": {
@@ -319546,6 +319546,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-05-08T09:25:41.020088"
+    },
+    "2800170": {
+      "appid": 2800170,
+      "name": "Shogun Curse",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-08T13:35:18.057655"
     }
   }
 }
