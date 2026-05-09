@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-05-08T23:06:49.496618"
+    "updated": "2026-05-09T00:06:43.714003"
   },
   "games": {
     "570": {
@@ -319586,6 +319586,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-05-08T23:06:45.205611"
+    },
+    "2832380": {
+      "appid": 2832380,
+      "name": "Fleximan",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-09T00:06:02.708362"
     }
   }
 }
