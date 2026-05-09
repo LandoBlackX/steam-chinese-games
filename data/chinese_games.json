@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-05-09T20:53:15.349320"
+    "updated": "2026-05-09T21:52:51.735598"
   },
   "games": {
     "570": {
@@ -319690,6 +319690,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-05-09T20:52:54.580154"
+    },
+    "2895680": {
+      "appid": 2895680,
+      "name": "Below, Rusted Gods",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-09T21:52:34.208497"
+    },
+    "2896260": {
+      "appid": 2896260,
+      "name": "ODDCORE",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-09T21:52:37.026517"
     }
   }
 }
