@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-05-09T14:58:56.535573"
+    "updated": "2026-05-09T15:59:18.038772"
   },
   "games": {
     "570": {
@@ -319634,6 +319634,30 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-05-09T14:58:55.588480"
+    },
+    "2869590": {
+      "appid": 2869590,
+      "name": "绝不后退！苏德战场1941-1945",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-09T15:59:00.654603"
+    },
+    "2871520": {
+      "appid": 2871520,
+      "name": "Deep Dish Dungeon",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-09T15:59:08.821520"
+    },
+    "2872930": {
+      "appid": 2872930,
+      "name": "project canvas 〜ヰ世界情緒育成計画〜",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-09T15:59:14.501883"
     }
   }
 }
