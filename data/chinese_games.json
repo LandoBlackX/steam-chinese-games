@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-05-09T11:59:56.847814"
+    "updated": "2026-05-09T13:20:07.340305"
   },
   "games": {
     "570": {
@@ -319618,6 +319618,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-05-09T11:59:56.124460"
+    },
+    "2863300": {
+      "appid": 2863300,
+      "name": "Absym",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-09T13:19:58.106548"
     }
   }
 }
