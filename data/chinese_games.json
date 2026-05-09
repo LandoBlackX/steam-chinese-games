@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-05-09T08:03:13.970495"
+    "updated": "2026-05-09T09:27:50.077438"
   },
   "games": {
     "570": {
@@ -319602,6 +319602,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-05-09T08:02:50.165930"
+    },
+    "2850960": {
+      "appid": 2850960,
+      "name": "They Speak To Us",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-09T09:27:49.785134"
     }
   }
 }
