@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-05-09T09:27:50.077438"
+    "updated": "2026-05-09T11:59:56.847814"
   },
   "games": {
     "570": {
@@ -319610,6 +319610,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-05-09T09:27:49.785134"
+    },
+    "2860130": {
+      "appid": 2860130,
+      "name": "Demon Kingdom",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-09T11:59:56.124460"
     }
   }
 }
