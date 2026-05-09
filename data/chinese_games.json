@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-05-09T21:52:51.735598"
+    "updated": "2026-05-09T22:51:43.238324"
   },
   "games": {
     "570": {
@@ -319706,6 +319706,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-05-09T21:52:37.026517"
+    },
+    "2902400": {
+      "appid": 2902400,
+      "name": "3 Shots Left",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-09T22:51:39.202907"
     }
   }
 }
