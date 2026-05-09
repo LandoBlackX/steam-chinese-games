@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-05-09T00:06:43.714003"
+    "updated": "2026-05-09T08:03:13.970495"
   },
   "games": {
     "570": {
@@ -319594,6 +319594,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-05-09T00:06:02.708362"
+    },
+    "2844290": {
+      "appid": 2844290,
+      "name": "Hard Chip",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-09T08:02:50.165930"
     }
   }
 }
