@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-05-09T19:07:17.025114"
+    "updated": "2026-05-09T20:08:12.754021"
   },
   "games": {
     "570": {
@@ -319666,6 +319666,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-05-09T19:07:14.032002"
+    },
+    "2887450": {
+      "appid": 2887450,
+      "name": "Panic Delivery",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-09T20:08:00.044420"
+    },
+    "2890150": {
+      "appid": 2890150,
+      "name": "U4iA - Season 1",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-09T20:08:11.528795"
     }
   }
 }
