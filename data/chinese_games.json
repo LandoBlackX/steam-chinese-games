@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-05-10T13:22:32.877768"
+    "updated": "2026-05-10T16:02:23.919755"
   },
   "games": {
     "570": {
@@ -319738,6 +319738,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-05-10T13:22:23.476920"
+    },
+    "2939600": {
+      "appid": 2939600,
+      "name": "Tower Networking Inc.",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-10T16:02:09.137313"
     }
   }
 }
