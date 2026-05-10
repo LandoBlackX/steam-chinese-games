@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-05-09T23:55:47.554439"
+    "updated": "2026-05-10T12:00:27.255571"
   },
   "games": {
     "570": {
@@ -319722,6 +319722,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-05-09T23:55:41.383314"
+    },
+    "2929140": {
+      "appid": 2929140,
+      "name": "Ataegina Act I",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-10T12:00:23.400165"
     }
   }
 }
