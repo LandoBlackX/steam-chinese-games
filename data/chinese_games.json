@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-05-10T19:09:32.264078"
+    "updated": "2026-05-10T21:57:00.326006"
   },
   "games": {
     "570": {
@@ -319786,6 +319786,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-05-10T19:09:26.069916"
+    },
+    "2963800": {
+      "appid": 2963800,
+      "name": "DrainSim",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-10T21:56:43.698579"
+    },
+    "2965220": {
+      "appid": 2965220,
+      "name": "Strings of Fate XI: Magic dream",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-10T21:56:50.195442"
     }
   }
 }
