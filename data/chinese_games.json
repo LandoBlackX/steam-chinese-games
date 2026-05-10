@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-05-10T17:03:47.331249"
+    "updated": "2026-05-10T19:09:32.264078"
   },
   "games": {
     "570": {
@@ -319754,6 +319754,38 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-05-10T17:03:27.477203"
+    },
+    "2950410": {
+      "appid": 2950410,
+      "name": "Gear Up Einstein!",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-10T19:09:13.638614"
+    },
+    "2950750": {
+      "appid": 2950750,
+      "name": "Shallow Pond",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-10T19:09:15.556536"
+    },
+    "2952180": {
+      "appid": 2952180,
+      "name": "Dragon Front: Adventures",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-10T19:09:20.041142"
+    },
+    "2953270": {
+      "appid": 2953270,
+      "name": "Physio",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-10T19:09:26.069916"
     }
   }
 }
