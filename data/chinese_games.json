@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-05-11T06:51:59.046109"
+    "updated": "2026-05-11T10:50:47.151031"
   },
   "games": {
     "570": {
@@ -319818,6 +319818,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-05-11T06:51:49.136763"
+    },
+    "3140810": {
+      "appid": 3140810,
+      "name": "D3AD HAND",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-11T10:50:44.512981"
     }
   }
 }
