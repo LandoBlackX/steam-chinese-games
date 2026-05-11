@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-05-11T21:01:21.721187"
+    "updated": "2026-05-11T22:20:00.527751"
   },
   "games": {
     "570": {
@@ -319842,6 +319842,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-05-11T21:01:21.570475"
+    },
+    "3156550": {
+      "appid": 3156550,
+      "name": "Garden and a Goat",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-11T22:19:42.281938"
     }
   }
 }
