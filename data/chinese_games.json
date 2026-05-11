@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-05-11T10:50:47.151031"
+    "updated": "2026-05-11T16:45:56.065885"
   },
   "games": {
     "570": {
@@ -319826,6 +319826,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-05-11T10:50:44.512981"
+    },
+    "3146440": {
+      "appid": 3146440,
+      "name": "SPORTAL",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-11T16:45:42.855406"
     }
   }
 }
