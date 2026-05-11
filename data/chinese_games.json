@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-05-10T21:57:00.326006"
+    "updated": "2026-05-11T06:51:59.046109"
   },
   "games": {
     "570": {
@@ -319802,6 +319802,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-05-10T21:56:50.195442"
+    },
+    "3122790": {
+      "appid": 3122790,
+      "name": "Augmented Fear",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-11T06:51:04.781257"
+    },
+    "3135990": {
+      "appid": 3135990,
+      "name": "Finnish Cabin Mayhem - Mökkimähinä",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-11T06:51:49.136763"
     }
   }
 }
