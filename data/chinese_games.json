@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-05-11T22:20:00.527751"
+    "updated": "2026-05-12T00:11:04.057897"
   },
   "games": {
     "570": {
@@ -319850,6 +319850,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-05-11T22:19:42.281938"
+    },
+    "3161400": {
+      "appid": 3161400,
+      "name": "战术扫雷：肉鸽Plus",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-12T00:10:49.055337"
     }
   }
 }
