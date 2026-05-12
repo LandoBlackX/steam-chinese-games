@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-05-12T00:11:04.057897"
+    "updated": "2026-05-12T06:27:57.129134"
   },
   "games": {
     "570": {
@@ -319858,6 +319858,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-05-12T00:10:49.055337"
+    },
+    "3168400": {
+      "appid": 3168400,
+      "name": "Awaken Infinity",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-12T06:27:49.736782"
+    },
+    "3168560": {
+      "appid": 3168560,
+      "name": "Dragon's Brew",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-12T06:27:50.319973"
     }
   }
 }
