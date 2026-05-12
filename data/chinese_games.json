@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-05-12T17:24:04.664467"
+    "updated": "2026-05-12T20:01:21.057187"
   },
   "games": {
     "570": {
@@ -319922,6 +319922,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-05-12T17:23:59.325112"
+    },
+    "3187030": {
+      "appid": 3187030,
+      "name": "Satisfactory Modeler",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-12T20:01:11.417968"
+    },
+    "3188810": {
+      "appid": 3188810,
+      "name": "菜骁",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-12T20:01:17.436997"
     }
   }
 }
