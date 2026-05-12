@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-05-12T09:50:04.249221"
+    "updated": "2026-05-12T12:08:15.140599"
   },
   "games": {
     "570": {
@@ -319890,6 +319890,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-05-12T09:49:54.237133"
+    },
+    "3176520": {
+      "appid": 3176520,
+      "name": "Scorchie Adventures",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-12T12:08:09.948323"
     }
   }
 }
