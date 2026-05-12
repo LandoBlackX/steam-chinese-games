@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-05-12T12:08:15.140599"
+    "updated": "2026-05-12T14:27:55.701245"
   },
   "games": {
     "570": {
@@ -319898,6 +319898,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-05-12T12:08:09.948323"
+    },
+    "3179010": {
+      "appid": 3179010,
+      "name": "Fisherman Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-12T14:27:44.642345"
+    },
+    "3179460": {
+      "appid": 3179460,
+      "name": "Ritualist",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-12T14:27:46.938309"
     }
   }
 }
