@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-05-12T06:27:57.129134"
+    "updated": "2026-05-12T09:50:04.249221"
   },
   "games": {
     "570": {
@@ -319874,6 +319874,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-05-12T06:27:50.319973"
+    },
+    "3170790": {
+      "appid": 3170790,
+      "name": "地牢血腥：失落的宝藏",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-12T09:49:52.015373"
+    },
+    "3171480": {
+      "appid": 3171480,
+      "name": "HauntedManager / ホーンテッドマネージャー",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-12T09:49:54.237133"
     }
   }
 }
