@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-05-13T12:17:27.112258"
+    "updated": "2026-05-13T15:09:34.350905"
   },
   "games": {
     "570": {
@@ -320010,6 +320010,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-05-13T12:17:23.326943"
+    },
+    "3215560": {
+      "appid": 3215560,
+      "name": "Irreversible",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-13T15:09:22.964584"
     }
   }
 }
