@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-05-13T15:09:34.350905"
+    "updated": "2026-05-13T23:19:45.929911"
   },
   "games": {
     "570": {
@@ -320018,6 +320018,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-05-13T15:09:22.964584"
+    },
+    "3228900": {
+      "appid": 3228900,
+      "name": "The Kharzov Effect",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-13T23:19:34.274939"
     }
   }
 }
