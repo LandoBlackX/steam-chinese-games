@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-05-13T03:16:20.896856"
+    "updated": "2026-05-13T06:45:32.526472"
   },
   "games": {
     "570": {
@@ -319978,6 +319978,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-05-13T03:16:20.894937"
+    },
+    "3204330": {
+      "appid": 3204330,
+      "name": "财富郡：贸易与生产",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-13T06:45:22.629929"
+    },
+    "3205380": {
+      "appid": 3205380,
+      "name": "你有饼吗？",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-13T06:45:26.816724"
     }
   }
 }
