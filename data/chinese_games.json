@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-05-12T21:32:39.742611"
+    "updated": "2026-05-13T00:15:00.588046"
   },
   "games": {
     "570": {
@@ -319946,6 +319946,30 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-05-12T21:32:12.692242"
+    },
+    "3196850": {
+      "appid": 3196850,
+      "name": "Travellin Cats in USA",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-13T00:14:36.149442"
+    },
+    "3198540": {
+      "appid": 3198540,
+      "name": "地下古域",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-13T00:14:48.178906"
+    },
+    "3198890": {
+      "appid": 3198890,
+      "name": "深海刮刮乐",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-13T00:14:49.948507"
     }
   }
 }
