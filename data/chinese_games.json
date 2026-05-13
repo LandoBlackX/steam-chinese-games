@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-05-13T06:45:32.526472"
+    "updated": "2026-05-13T09:58:09.719380"
   },
   "games": {
     "570": {
@@ -319994,6 +319994,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-05-13T06:45:26.816724"
+    },
+    "3209160": {
+      "appid": 3209160,
+      "name": "Grandpa's Bee Haven",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-13T09:58:06.945330"
     }
   }
 }
