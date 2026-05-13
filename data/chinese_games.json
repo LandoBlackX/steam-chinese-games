@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-05-13T00:15:00.588046"
+    "updated": "2026-05-13T03:16:20.896856"
   },
   "games": {
     "570": {
@@ -319970,6 +319970,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-05-13T00:14:49.948507"
+    },
+    "3204320": {
+      "appid": 3204320,
+      "name": "Welcome to Doll Town",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-13T03:16:20.894937"
     }
   }
 }
