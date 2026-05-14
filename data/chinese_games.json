@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-05-14T03:01:11.438363"
+    "updated": "2026-05-14T12:05:50.938373"
   },
   "games": {
     "570": {
@@ -320034,6 +320034,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-05-14T03:01:00.719866"
+    },
+    "3243370": {
+      "appid": 3243370,
+      "name": "GRIDbeat!",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-14T12:05:41.657539"
+    },
+    "3245640": {
+      "appid": 3245640,
+      "name": "Starfinder: Afterlight",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-14T12:05:49.120109"
     }
   }
 }
