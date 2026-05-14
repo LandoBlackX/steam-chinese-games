@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-05-13T23:19:45.929911"
+    "updated": "2026-05-14T03:01:11.438363"
   },
   "games": {
     "570": {
@@ -320026,6 +320026,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-05-13T23:19:34.274939"
+    },
+    "3233140": {
+      "appid": 3233140,
+      "name": "Dewlight Horizon",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-14T03:01:00.719866"
     }
   }
 }
