@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-05-14T12:05:50.938373"
+    "updated": "2026-05-14T14:17:13.815839"
   },
   "games": {
     "570": {
@@ -320050,6 +320050,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-05-14T12:05:49.120109"
+    },
+    "3248550": {
+      "appid": 3248550,
+      "name": "Pizza Empire",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-14T14:17:07.903037"
     }
   }
 }
