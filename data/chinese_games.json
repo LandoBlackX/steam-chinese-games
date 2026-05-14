@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-05-14T19:09:11.380769"
+    "updated": "2026-05-14T20:43:01.541742"
   },
   "games": {
     "570": {
@@ -320066,6 +320066,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-05-14T19:09:04.629082"
+    },
+    "3257150": {
+      "appid": 3257150,
+      "name": "Robo娘: 冥星任务",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-14T20:42:36.748418"
+    },
+    "3259380": {
+      "appid": 3259380,
+      "name": "Bouncing to the top with Quantum Quacks",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-14T20:42:42.953657"
     }
   }
 }
