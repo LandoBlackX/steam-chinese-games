@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-05-14T14:17:13.815839"
+    "updated": "2026-05-14T19:09:11.380769"
   },
   "games": {
     "570": {
@@ -320058,6 +320058,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-05-14T14:17:07.903037"
+    },
+    "3256040": {
+      "appid": 3256040,
+      "name": "Shardbreakers",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-14T19:09:04.629082"
     }
   }
 }
