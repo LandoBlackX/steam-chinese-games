@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-05-15T12:09:41.366625"
+    "updated": "2026-05-15T14:14:22.665731"
   },
   "games": {
     "570": {
@@ -320154,6 +320154,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-05-15T12:09:40.821632"
+    },
+    "3284450": {
+      "appid": 3284450,
+      "name": "Eldritch Escape",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-15T14:14:01.203496"
     }
   }
 }
