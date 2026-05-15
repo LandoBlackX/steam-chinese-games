@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-05-15T03:02:02.004293"
+    "updated": "2026-05-15T06:48:21.669834"
   },
   "games": {
     "570": {
@@ -320098,6 +320098,30 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-05-15T03:02:01.223324"
+    },
+    "3275000": {
+      "appid": 3275000,
+      "name": "Silent Howl",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-15T06:48:12.658290"
+    },
+    "3275210": {
+      "appid": 3275210,
+      "name": "Pionero Capital",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-15T06:48:13.364823"
+    },
+    "3277010": {
+      "appid": 3277010,
+      "name": "Tin Lord",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-15T06:48:20.223007"
     }
   }
 }
