@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-05-15T14:14:22.665731"
+    "updated": "2026-05-15T22:14:25.646068"
   },
   "games": {
     "570": {
@@ -320162,6 +320162,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-05-15T14:14:01.203496"
+    },
+    "3299450": {
+      "appid": 3299450,
+      "name": "Calame",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-15T22:14:06.173927"
     }
   }
 }
