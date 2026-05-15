@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-05-15T06:48:21.669834"
+    "updated": "2026-05-15T10:01:37.842531"
   },
   "games": {
     "570": {
@@ -320122,6 +320122,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-05-15T06:48:20.223007"
+    },
+    "3277320": {
+      "appid": 3277320,
+      "name": "Tumbles",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-15T10:01:10.533167"
+    },
+    "3278330": {
+      "appid": 3278330,
+      "name": "Forever Time",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-15T10:01:16.892647"
     }
   }
 }
