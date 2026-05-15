@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-05-14T20:43:01.541742"
+    "updated": "2026-05-15T00:11:41.223534"
   },
   "games": {
     "570": {
@@ -320082,6 +320082,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-05-14T20:42:42.953657"
+    },
+    "3265230": {
+      "appid": 3265230,
+      "name": "Cursed Companions",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-15T00:11:24.618993"
     }
   }
 }
