@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-05-15T00:11:41.223534"
+    "updated": "2026-05-15T03:02:02.004293"
   },
   "games": {
     "570": {
@@ -320090,6 +320090,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-05-15T00:11:24.618993"
+    },
+    "3273380": {
+      "appid": 3273380,
+      "name": "Shadow of Ancients",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-15T03:02:01.223324"
     }
   }
 }
