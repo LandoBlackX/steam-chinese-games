@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-05-15T10:01:37.842531"
+    "updated": "2026-05-15T12:09:41.366625"
   },
   "games": {
     "570": {
@@ -320138,6 +320138,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-05-15T10:01:16.892647"
+    },
+    "3283310": {
+      "appid": 3283310,
+      "name": "Kioku: 夏日记忆岛",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-15T12:09:37.717418"
+    },
+    "3284260": {
+      "appid": 3284260,
+      "name": "Blades & Battles",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-15T12:09:40.821632"
     }
   }
 }
