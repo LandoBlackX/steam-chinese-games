@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-05-16T10:01:25.032662"
+    "updated": "2026-05-16T15:11:59.964009"
   },
   "games": {
     "570": {
@@ -320194,6 +320194,30 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-05-16T10:01:06.431628"
+    },
+    "3328580": {
+      "appid": 3328580,
+      "name": "Planes of Fear",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-16T15:11:49.143000"
+    },
+    "3328620": {
+      "appid": 3328620,
+      "name": "Tabletop Shop Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-16T15:11:49.319087"
+    },
+    "3330210": {
+      "appid": 3330210,
+      "name": "旧日铁锅炖主理人",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-16T15:11:56.023689"
     }
   }
 }
