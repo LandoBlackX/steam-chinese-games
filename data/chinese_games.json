@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-05-16T08:17:16.592658"
+    "updated": "2026-05-16T10:01:25.032662"
   },
   "games": {
     "570": {
@@ -320186,6 +320186,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-05-16T08:17:09.549827"
+    },
+    "3316960": {
+      "appid": 3316960,
+      "name": "Ashes of Morgravia",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-16T10:01:06.431628"
     }
   }
 }
