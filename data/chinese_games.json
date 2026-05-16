@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-05-16T20:21:27.170269"
+    "updated": "2026-05-16T22:03:08.539109"
   },
   "games": {
     "570": {
@@ -320234,6 +320234,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-05-16T20:21:11.277827"
+    },
+    "3346410": {
+      "appid": 3346410,
+      "name": "Club Soko",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-16T22:02:58.410077"
     }
   }
 }
