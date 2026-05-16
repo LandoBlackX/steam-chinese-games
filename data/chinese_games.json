@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-05-16T15:11:59.964009"
+    "updated": "2026-05-16T20:21:27.170269"
   },
   "games": {
     "570": {
@@ -320218,6 +320218,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-05-16T15:11:56.023689"
+    },
+    "3343910": {
+      "appid": 3343910,
+      "name": "Chicken Craft",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-16T20:21:08.709654"
+    },
+    "3344550": {
+      "appid": 3344550,
+      "name": "THE NEW TENANT",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-16T20:21:11.277827"
     }
   }
 }
