@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-05-15T22:14:25.646068"
+    "updated": "2026-05-16T02:53:22.274769"
   },
   "games": {
     "570": {
@@ -320170,6 +320170,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-05-15T22:14:06.173927"
+    },
+    "3306920": {
+      "appid": 3306920,
+      "name": "Cosmic Fear",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-16T02:52:46.950424"
     }
   }
 }
