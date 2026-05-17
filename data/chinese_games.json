@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-05-17T11:21:03.595960"
+    "updated": "2026-05-17T13:30:24.054873"
   },
   "games": {
     "570": {
@@ -320274,6 +320274,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-05-17T11:20:56.449050"
+    },
+    "3366710": {
+      "appid": 3366710,
+      "name": "Color-A-Cube",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-17T13:30:12.789707"
     }
   }
 }
