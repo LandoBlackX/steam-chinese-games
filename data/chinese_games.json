@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-05-17T13:30:24.054873"
+    "updated": "2026-05-17T15:12:44.839672"
   },
   "games": {
     "570": {
@@ -320282,6 +320282,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-05-17T13:30:12.789707"
+    },
+    "3369220": {
+      "appid": 3369220,
+      "name": "BitBeasts",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-17T15:12:29.466259"
     }
   }
 }
