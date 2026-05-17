@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-05-17T22:12:11.351714"
+    "updated": "2026-05-17T23:09:36.160801"
   },
   "games": {
     "570": {
@@ -320306,6 +320306,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-05-17T22:11:50.723738"
+    },
+    "3392510": {
+      "appid": 3392510,
+      "name": "泽克西昂 Zexion",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-17T23:09:35.163777"
     }
   }
 }
