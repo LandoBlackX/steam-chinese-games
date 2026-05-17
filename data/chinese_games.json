@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-05-17T06:39:08.758723"
+    "updated": "2026-05-17T11:21:03.595960"
   },
   "games": {
     "570": {
@@ -320266,6 +320266,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-05-17T06:39:04.585675"
+    },
+    "3364470": {
+      "appid": 3364470,
+      "name": "Forklift Certified",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-17T11:20:56.449050"
     }
   }
 }
