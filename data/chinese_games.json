@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-05-17T15:12:44.839672"
+    "updated": "2026-05-17T17:14:08.358386"
   },
   "games": {
     "570": {
@@ -320290,6 +320290,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-05-17T15:12:29.466259"
+    },
+    "3375490": {
+      "appid": 3375490,
+      "name": "Block Block Block",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-17T17:13:57.887371"
     }
   }
 }
