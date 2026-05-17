@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-05-17T00:08:30.828292"
+    "updated": "2026-05-17T06:39:08.758723"
   },
   "games": {
     "570": {
@@ -320250,6 +320250,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-05-17T00:08:26.501282"
+    },
+    "3359190": {
+      "appid": 3359190,
+      "name": "Wolley's Dungeon Adventure",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-17T06:39:01.736116"
+    },
+    "3359840": {
+      "appid": 3359840,
+      "name": "Block Sprawl",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-17T06:39:04.585675"
     }
   }
 }
