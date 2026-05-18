@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-05-18T15:33:51.248301"
+    "updated": "2026-05-18T18:19:08.563078"
   },
   "games": {
     "570": {
@@ -320386,6 +320386,38 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-05-18T15:33:41.034861"
+    },
+    "2991110": {
+      "appid": 2991110,
+      "name": "Wilderless: Meadowfell",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-18T18:15:03.910668"
+    },
+    "2991870": {
+      "appid": 2991870,
+      "name": "Arenion",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-18T18:15:05.264508"
+    },
+    "2994250": {
+      "appid": 2994250,
+      "name": "Beer Runner",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-18T18:15:10.267994"
+    },
+    "2994600": {
+      "appid": 2994600,
+      "name": "Lysward",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-18T18:15:10.750861"
     }
   }
 }
