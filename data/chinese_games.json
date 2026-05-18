@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-05-18T21:29:32.215319"
+    "updated": "2026-05-18T23:18:33.846036"
   },
   "games": {
     "570": {
@@ -320434,6 +320434,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-05-18T21:21:56.862612"
+    },
+    "3399940": {
+      "appid": 3399940,
+      "name": "Drift Survivors",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-18T23:18:32.429229"
     }
   }
 }
