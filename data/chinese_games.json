@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-05-17T23:09:36.160801"
+    "updated": "2026-05-18T07:15:05.642651"
   },
   "games": {
     "570": {
@@ -320314,6 +320314,46 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-05-17T23:09:35.163777"
+    },
+    "2217470": {
+      "appid": 2217470,
+      "name": "Wilderings: The Lost Spring",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-18T06:58:34.891505"
+    },
+    "2980830": {
+      "appid": 2980830,
+      "name": "COLLAPSE MACHINE",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-18T07:07:21.645906"
+    },
+    "2981220": {
+      "appid": 2981220,
+      "name": "Forefront",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-18T07:07:23.342805"
+    },
+    "2981880": {
+      "appid": 2981880,
+      "name": "KADO HUNTER",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-18T07:07:25.665690"
+    },
+    "3397400": {
+      "appid": 3397400,
+      "name": "Frick It",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-18T07:15:02.723163"
     }
   }
 }
