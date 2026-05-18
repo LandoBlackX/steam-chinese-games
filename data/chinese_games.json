@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-05-18T20:03:21.671400"
+    "updated": "2026-05-18T21:29:32.215319"
   },
   "games": {
     "570": {
@@ -320426,6 +320426,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-05-18T19:55:47.520977"
+    },
+    "2999050": {
+      "appid": 2999050,
+      "name": "Rising Army",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-18T21:21:56.862612"
     }
   }
 }
