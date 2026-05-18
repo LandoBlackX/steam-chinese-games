@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-05-18T11:18:01.861996"
+    "updated": "2026-05-18T15:33:51.248301"
   },
   "games": {
     "570": {
@@ -320370,6 +320370,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-05-18T11:18:00.363736"
+    },
+    "2988100": {
+      "appid": 2988100,
+      "name": "Invaders X",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-18T15:33:40.917939"
+    },
+    "2988120": {
+      "appid": 2988120,
+      "name": "Never Be Alone",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-18T15:33:41.034861"
     }
   }
 }
