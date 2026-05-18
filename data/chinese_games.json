@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-05-18T07:15:05.642651"
+    "updated": "2026-05-18T11:18:01.861996"
   },
   "games": {
     "570": {
@@ -320354,6 +320354,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-05-18T07:15:02.723163"
+    },
+    "2985920": {
+      "appid": 2985920,
+      "name": "Vampvasion",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-18T11:17:48.578801"
+    },
+    "2986450": {
+      "appid": 2986450,
+      "name": "重力音轨 Metro Gravity",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-18T11:18:00.363736"
     }
   }
 }
