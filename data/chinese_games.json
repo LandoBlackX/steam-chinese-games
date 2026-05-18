@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-05-18T18:19:08.563078"
+    "updated": "2026-05-18T20:03:21.671400"
   },
   "games": {
     "570": {
@@ -320418,6 +320418,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-05-18T18:15:10.750861"
+    },
+    "2996080": {
+      "appid": 2996080,
+      "name": "TAMASHIKA",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-18T19:55:47.520977"
     }
   }
 }
