@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-05-19T08:43:51.257082"
+    "updated": "2026-05-19T12:12:53.423177"
   },
   "games": {
     "570": {
@@ -320482,6 +320482,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-05-19T08:39:08.631510"
+    },
+    "3009440": {
+      "appid": 3009440,
+      "name": "勇撞地牢",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-19T12:12:44.578290"
     }
   }
 }
