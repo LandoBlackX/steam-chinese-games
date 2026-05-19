@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-05-19T00:25:49.167621"
+    "updated": "2026-05-19T05:16:30.002487"
   },
   "games": {
     "570": {
@@ -320466,6 +320466,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-05-19T00:25:48.234121"
+    },
+    "3004270": {
+      "appid": 3004270,
+      "name": "Civilización Caral Perú, la más antigua de América",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-19T05:10:43.317657"
     }
   }
 }
