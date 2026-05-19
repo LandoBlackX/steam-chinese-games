@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-05-19T05:16:30.002487"
+    "updated": "2026-05-19T08:43:51.257082"
   },
   "games": {
     "570": {
@@ -320474,6 +320474,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-05-19T05:10:43.317657"
+    },
+    "3005690": {
+      "appid": 3005690,
+      "name": "GameLib",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-19T08:39:08.631510"
     }
   }
 }
