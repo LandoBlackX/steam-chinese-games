@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-05-18T23:18:33.846036"
+    "updated": "2026-05-19T00:25:49.167621"
   },
   "games": {
     "570": {
@@ -320442,6 +320442,30 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-05-18T23:18:32.429229"
+    },
+    "3000970": {
+      "appid": 3000970,
+      "name": "掀桌模拟器",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-19T00:18:17.867629"
+    },
+    "3400960": {
+      "appid": 3400960,
+      "name": "橡木塔",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-19T00:25:46.666768"
+    },
+    "3401490": {
+      "appid": 3401490,
+      "name": "Replicube",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-19T00:25:48.234121"
     }
   }
 }
