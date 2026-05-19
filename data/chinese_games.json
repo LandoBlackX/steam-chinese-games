@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-05-19T12:12:53.423177"
+    "updated": "2026-05-19T15:51:06.108682"
   },
   "games": {
     "570": {
@@ -320490,6 +320490,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-05-19T12:12:44.578290"
+    },
+    "3012410": {
+      "appid": 3012410,
+      "name": "Everise",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-19T15:44:47.822818"
+    },
+    "3013460": {
+      "appid": 3013460,
+      "name": "水果大乱逗",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-19T15:44:51.541140"
     }
   }
 }
