@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-05-20T12:04:26.788023"
+    "updated": "2026-05-20T22:43:54.375424"
   },
   "games": {
     "570": {
@@ -320546,6 +320546,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-05-20T12:00:56.427622"
+    },
+    "3405070": {
+      "appid": 3405070,
+      "name": "Trick Or Beat",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-20T22:43:49.587377"
     }
   }
 }
