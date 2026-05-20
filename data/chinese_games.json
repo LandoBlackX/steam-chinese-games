@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-05-20T00:20:49.388446"
+    "updated": "2026-05-20T04:28:11.286621"
   },
   "games": {
     "570": {
@@ -320530,6 +320530,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-05-20T00:20:47.312183"
+    },
+    "3404260": {
+      "appid": 3404260,
+      "name": "亡命迪斯科",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-20T04:27:58.485029"
     }
   }
 }
