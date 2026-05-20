@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-05-19T22:34:51.936057"
+    "updated": "2026-05-20T00:20:49.388446"
   },
   "games": {
     "570": {
@@ -320514,6 +320514,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-05-19T22:34:49.614040"
+    },
+    "3403540": {
+      "appid": 3403540,
+      "name": "Space Grunts: Chrono Shard",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-20T00:20:47.028829"
+    },
+    "3403590": {
+      "appid": 3403590,
+      "name": "Glimvale : My Mini Overworld",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-20T00:20:47.312183"
     }
   }
 }
