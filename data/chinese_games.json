@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-05-20T04:28:11.286621"
+    "updated": "2026-05-20T12:04:26.788023"
   },
   "games": {
     "570": {
@@ -320538,6 +320538,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-05-20T04:27:58.485029"
+    },
+    "3032150": {
+      "appid": 3032150,
+      "name": "Frontier Legends",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-20T12:00:56.427622"
     }
   }
 }
