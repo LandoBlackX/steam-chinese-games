@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-05-20T22:43:54.375424"
+    "updated": "2026-05-21T09:47:08.141758"
   },
   "games": {
     "570": {
@@ -320554,6 +320554,30 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-05-20T22:43:49.587377"
+    },
+    "3045520": {
+      "appid": 3045520,
+      "name": "Sea Sniffers",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-21T09:45:37.226221"
+    },
+    "3046540": {
+      "appid": 3046540,
+      "name": "10 Second Mixtape",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-21T09:45:42.336436"
+    },
+    "3046740": {
+      "appid": 3046740,
+      "name": "Explorers of Esmar",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-21T09:45:43.376995"
     }
   }
 }
