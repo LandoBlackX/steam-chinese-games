@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-05-21T09:47:08.141758"
+    "updated": "2026-05-21T13:03:57.369316"
   },
   "games": {
     "570": {
@@ -320578,6 +320578,38 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-05-21T09:45:43.376995"
+    },
+    "3048930": {
+      "appid": 3048930,
+      "name": "Duriano",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-21T12:56:24.085682"
+    },
+    "3049380": {
+      "appid": 3049380,
+      "name": "Zaraq",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-21T12:56:26.434134"
+    },
+    "3049460": {
+      "appid": 3049460,
+      "name": "Milking Mira!",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-21T12:56:27.347408"
+    },
+    "3051160": {
+      "appid": 3051160,
+      "name": "Black State",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-21T12:56:34.645166"
     }
   }
 }
