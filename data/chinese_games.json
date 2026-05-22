@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-05-22T17:29:16.106704"
+    "updated": "2026-05-22T23:17:55.947207"
   },
   "games": {
     "570": {
@@ -320626,6 +320626,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-05-22T17:20:27.320309"
+    },
+    "3419850": {
+      "appid": 3419850,
+      "name": "Trackastrophe!",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-22T23:17:50.196372"
     }
   }
 }
