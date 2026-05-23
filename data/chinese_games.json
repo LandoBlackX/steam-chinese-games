@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-05-22T23:17:55.947207"
+    "updated": "2026-05-23T00:26:28.919013"
   },
   "games": {
     "570": {
@@ -320634,6 +320634,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-05-22T23:17:50.196372"
+    },
+    "3421220": {
+      "appid": 3421220,
+      "name": "RrrrrAbbits",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-23T00:26:12.572069"
     }
   }
 }
