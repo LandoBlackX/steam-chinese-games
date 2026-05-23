@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-05-23T15:21:30.447143"
+    "updated": "2026-05-23T19:38:36.405214"
   },
   "games": {
     "570": {
@@ -320666,6 +320666,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-05-23T15:21:19.174863"
+    },
+    "3429410": {
+      "appid": 3429410,
+      "name": "Essence Hunters",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-23T19:38:30.103704"
     }
   }
 }
