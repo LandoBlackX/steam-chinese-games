@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-05-23T00:26:28.919013"
+    "updated": "2026-05-23T11:30:53.281310"
   },
   "games": {
     "570": {
@@ -320642,6 +320642,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-05-23T00:26:12.572069"
+    },
+    "3424800": {
+      "appid": 3424800,
+      "name": "Code of Shadows",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-23T11:30:51.083293"
     }
   }
 }
