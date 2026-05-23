@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-05-23T11:30:53.281310"
+    "updated": "2026-05-23T15:21:30.447143"
   },
   "games": {
     "570": {
@@ -320650,6 +320650,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-05-23T11:30:51.083293"
+    },
+    "3426440": {
+      "appid": 3426440,
+      "name": "LOVE SHOP Simulator 💕🛒",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-23T15:21:16.925632"
+    },
+    "3427370": {
+      "appid": 3427370,
+      "name": "寂夜孤行",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-23T15:21:19.174863"
     }
   }
 }
