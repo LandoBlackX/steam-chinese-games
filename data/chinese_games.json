@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-05-24T03:14:39.450809"
+    "updated": "2026-05-24T07:00:08.020376"
   },
   "games": {
     "570": {
@@ -320682,6 +320682,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-05-24T03:14:37.399930"
+    },
+    "3436030": {
+      "appid": 3436030,
+      "name": "IDLE BOSS RUSH",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2026-05-24T07:00:07.586154"
     }
   }
 }
