@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-05-24T09:44:34.000552"
+    "updated": "2026-05-24T16:30:36.726656"
   },
   "games": {
     "570": {
@@ -320690,6 +320690,38 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2026-05-24T07:00:07.586154"
+    },
+    "3440390": {
+      "appid": 3440390,
+      "name": "Drunkard Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-24T16:30:34.257539"
+    },
+    "3440510": {
+      "appid": 3440510,
+      "name": "Zap Colony",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-24T16:30:34.560751"
+    },
+    "3440810": {
+      "appid": 3440810,
+      "name": "Rescue Heli RH407",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-24T16:30:35.494288"
+    },
+    "3440840": {
+      "appid": 3440840,
+      "name": "小律翻！Rhythmic Flip (Re)Turn",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-24T16:30:35.610625"
     }
   }
 }
