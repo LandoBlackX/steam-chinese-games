@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-05-23T19:38:36.405214"
+    "updated": "2026-05-24T03:14:39.450809"
   },
   "games": {
     "570": {
@@ -320674,6 +320674,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-05-23T19:38:30.103704"
+    },
+    "3435610": {
+      "appid": 3435610,
+      "name": "Exark",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-24T03:14:37.399930"
     }
   }
 }
