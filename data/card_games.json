@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-05-24T07:00:08.020376"
+    "updated": "2026-05-24T09:44:34.000552"
   },
   "games": {
     "570": {
@@ -89642,6 +89642,14 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2026-05-24T07:00:07.586154"
+    },
+    "3087180": {
+      "appid": 3087180,
+      "name": "Stellar Dream - Part 1",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2026-05-24T09:34:09.147653"
     }
   }
 }
