@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-05-24T16:30:36.726656"
+    "updated": "2026-05-25T08:40:33.423153"
   },
   "games": {
     "570": {
@@ -89650,6 +89650,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2026-05-24T09:34:09.147653"
+    },
+    "3094210": {
+      "appid": 3094210,
+      "name": "Nullstar: Solus",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2026-05-25T08:31:42.152152"
     }
   }
 }
