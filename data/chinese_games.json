@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-05-25T08:40:33.423153"
+    "updated": "2026-05-25T18:05:48.435387"
   },
   "games": {
     "570": {
@@ -320722,6 +320722,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-05-24T16:30:35.610625"
+    },
+    "3097300": {
+      "appid": 3097300,
+      "name": "Creature Kitchen",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-25T17:55:01.014880"
     }
   }
 }
