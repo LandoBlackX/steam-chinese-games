@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-05-26T00:30:21.335442"
+    "updated": "2026-05-26T09:01:37.439194"
   },
   "games": {
     "570": {
@@ -320738,6 +320738,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-05-26T00:30:17.738601"
+    },
+    "3100540": {
+      "appid": 3100540,
+      "name": "Webstore Mogul",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-26T08:51:04.718593"
     }
   }
 }
