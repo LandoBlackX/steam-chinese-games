@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-05-25T18:05:48.435387"
+    "updated": "2026-05-26T00:30:21.335442"
   },
   "games": {
     "570": {
@@ -320730,6 +320730,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-05-25T17:55:01.014880"
+    },
+    "3457200": {
+      "appid": 3457200,
+      "name": "Witch Pachi",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-26T00:30:17.738601"
     }
   }
 }
