@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-05-27T15:52:17.482085"
+    "updated": "2026-05-27T18:48:41.731548"
   },
   "games": {
     "570": {
@@ -320786,6 +320786,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-05-27T15:43:54.358139"
+    },
+    "3465440": {
+      "appid": 3465440,
+      "name": "CitaDrill",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-27T18:48:41.729288"
     }
   }
 }
