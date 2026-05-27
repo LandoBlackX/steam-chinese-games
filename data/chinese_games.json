@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-05-27T03:22:47.994844"
+    "updated": "2026-05-27T15:52:17.482085"
   },
   "games": {
     "570": {
@@ -320778,6 +320778,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-05-27T03:12:04.327179"
+    },
+    "3106240": {
+      "appid": 3106240,
+      "name": "Rich & Youn",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-27T15:43:54.358139"
     }
   }
 }
