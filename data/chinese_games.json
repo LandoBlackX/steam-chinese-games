@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-05-26T22:06:26.023759"
+    "updated": "2026-05-27T03:22:47.994844"
   },
   "games": {
     "570": {
@@ -320762,6 +320762,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-05-26T21:55:18.718853"
+    },
+    "2755280": {
+      "appid": 2755280,
+      "name": "Stranded in Conflict",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-27T03:07:09.798979"
+    },
+    "3104030": {
+      "appid": 3104030,
+      "name": "oath",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-27T03:12:04.327179"
     }
   }
 }
