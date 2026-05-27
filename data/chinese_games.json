@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-05-27T18:48:41.731548"
+    "updated": "2026-05-27T21:25:30.835074"
   },
   "games": {
     "570": {
@@ -320794,6 +320794,30 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-05-27T18:48:41.729288"
+    },
+    "3465660": {
+      "appid": 3465660,
+      "name": "Baddies, Inc.",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-27T21:25:26.129861"
+    },
+    "3465820": {
+      "appid": 3465820,
+      "name": "Cyber Siege",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-27T21:25:26.620186"
+    },
+    "3466240": {
+      "appid": 3466240,
+      "name": "Valkyrie Iteration: 口袋养成模拟 少女机甲驾驶员",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-27T21:25:28.142806"
     }
   }
 }
