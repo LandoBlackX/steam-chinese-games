@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-05-28T08:19:29.917870"
+    "updated": "2026-05-28T16:06:37.281966"
   },
   "games": {
     "570": {
@@ -320850,6 +320850,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-05-28T08:08:44.858524"
+    },
+    "3110760": {
+      "appid": 3110760,
+      "name": "皓白初晓",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-28T15:55:50.897642"
     }
   }
 }
