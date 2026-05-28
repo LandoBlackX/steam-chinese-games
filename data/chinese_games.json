@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-05-28T00:24:09.723948"
+    "updated": "2026-05-28T08:19:29.917870"
   },
   "games": {
     "570": {
@@ -320842,6 +320842,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-05-28T00:24:05.933239"
+    },
+    "3108980": {
+      "appid": 3108980,
+      "name": "Part-Time Witch",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-28T08:08:44.858524"
     }
   }
 }
