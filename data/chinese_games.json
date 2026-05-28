@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-05-28T16:06:37.281966"
+    "updated": "2026-05-28T21:31:27.944036"
   },
   "games": {
     "570": {
@@ -320858,6 +320858,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-05-28T15:55:50.897642"
+    },
+    "3474620": {
+      "appid": 3474620,
+      "name": "EXONAUTIS",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-28T21:31:25.492263"
     }
   }
 }
