@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-05-27T23:10:59.761063"
+    "updated": "2026-05-28T00:24:09.723948"
   },
   "games": {
     "570": {
@@ -320826,6 +320826,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-05-27T23:10:56.291081"
+    },
+    "3107870": {
+      "appid": 3107870,
+      "name": "Highland Keep",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-28T00:13:21.239649"
+    },
+    "3469750": {
+      "appid": 3469750,
+      "name": "军工放置大亨",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-28T00:24:05.933239"
     }
   }
 }
