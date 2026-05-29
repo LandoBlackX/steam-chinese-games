@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-05-29T03:13:31.656048"
+    "updated": "2026-05-29T14:22:55.994465"
   },
   "games": {
     "570": {
@@ -320890,6 +320890,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-05-29T03:13:28.906699"
+    },
+    "3115240": {
+      "appid": 3115240,
+      "name": "Alchemist: Journey of the Soul",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-29T14:11:49.422639"
     }
   }
 }
