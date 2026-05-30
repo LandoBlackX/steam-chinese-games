@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-05-30T00:33:36.222856"
+    "updated": "2026-05-30T08:04:40.821878"
   },
   "games": {
     "570": {
@@ -320914,6 +320914,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-05-30T00:33:24.257062"
+    },
+    "3485300": {
+      "appid": 3485300,
+      "name": "A Little Perspective",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-30T08:04:38.817211"
     }
   }
 }
