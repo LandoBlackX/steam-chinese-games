@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-05-30T08:04:40.821878"
+    "updated": "2026-05-30T13:46:35.493317"
   },
   "games": {
     "570": {
@@ -320922,6 +320922,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-05-30T08:04:38.817211"
+    },
+    "3488640": {
+      "appid": 3488640,
+      "name": "《魔法腮红》",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-30T13:46:33.176456"
     }
   }
 }
