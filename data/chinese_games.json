@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-05-30T13:46:35.493317"
+    "updated": "2026-05-30T20:33:59.625848"
   },
   "games": {
     "570": {
@@ -320930,6 +320930,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-05-30T13:46:33.176456"
+    },
+    "3492120": {
+      "appid": 3492120,
+      "name": "千面人在此 Legion Was Here",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-30T20:33:55.668303"
     }
   }
 }

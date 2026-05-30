@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-05-30T13:46:35.493317"
+    "updated": "2026-05-30T20:33:59.625848"
   },
   "games": {
     "570": {
@@ -89658,6 +89658,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2026-05-25T08:31:42.152152"
+    },
+    "3492830": {
+      "appid": 3492830,
+      "name": "Gunlocked 2",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2026-05-30T20:33:59.054921"
     }
   }
 }
