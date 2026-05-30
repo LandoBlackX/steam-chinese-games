@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-05-29T22:52:54.664220"
+    "updated": "2026-05-30T00:33:36.222856"
   },
   "games": {
     "570": {
@@ -320906,6 +320906,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-05-29T22:52:52.819402"
+    },
+    "3484210": {
+      "appid": 3484210,
+      "name": "WALKER",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-30T00:33:24.257062"
     }
   }
 }
