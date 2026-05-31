@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-05-31T00:27:45.774442"
+    "updated": "2026-05-31T05:12:09.427051"
   },
   "games": {
     "570": {
@@ -320954,6 +320954,30 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-05-31T00:27:45.094699"
+    },
+    "2983740": {
+      "appid": 2983740,
+      "name": "Animal Game",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-31T04:58:24.737632"
+    },
+    "3497800": {
+      "appid": 3497800,
+      "name": "Bonehold",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-31T05:12:08.328319"
+    },
+    "3497930": {
+      "appid": 3497930,
+      "name": "掏枪干吧",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-31T05:12:09.074467"
     }
   }
 }
