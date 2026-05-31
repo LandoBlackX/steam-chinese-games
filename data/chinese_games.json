@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-05-31T05:12:09.427051"
+    "updated": "2026-05-31T19:47:04.635275"
   },
   "games": {
     "570": {
@@ -320978,6 +320978,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-05-31T05:12:09.074467"
+    },
+    "3504400": {
+      "appid": 3504400,
+      "name": "慈悲之刃：猩红女伯爵",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-31T19:47:04.052191"
     }
   }
 }
