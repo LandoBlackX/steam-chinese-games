@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-05-31T21:23:25.734414"
+    "updated": "2026-05-31T22:25:15.290306"
   },
   "games": {
     "570": {
@@ -320994,6 +320994,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-05-31T21:23:25.517653"
+    },
+    "3505850": {
+      "appid": 3505850,
+      "name": "Schizo Dark",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-31T22:25:12.407700"
     }
   }
 }
