@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-05-31T19:47:04.635275"
+    "updated": "2026-05-31T21:23:25.734414"
   },
   "games": {
     "570": {
@@ -320986,6 +320986,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-05-31T19:47:04.052191"
+    },
+    "3505140": {
+      "appid": 3505140,
+      "name": "Pekla",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-31T21:23:25.517653"
     }
   }
 }
