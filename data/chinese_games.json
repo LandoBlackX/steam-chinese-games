@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-05-30T20:33:59.625848"
+    "updated": "2026-05-31T00:27:45.774442"
   },
   "games": {
     "570": {
@@ -320938,6 +320938,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-05-30T20:33:55.668303"
+    },
+    "3496110": {
+      "appid": 3496110,
+      "name": "Defense&Making",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-31T00:27:41.985205"
+    },
+    "3497010": {
+      "appid": 3497010,
+      "name": "死娩花-SHIMENKA",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-05-31T00:27:45.094699"
     }
   }
 }
