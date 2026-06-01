@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-06-01T12:07:17.683864"
+    "updated": "2026-06-01T17:58:02.364881"
   },
   "games": {
     "570": {
@@ -321018,6 +321018,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-06-01T06:12:15.940621"
+    },
+    "3071240": {
+      "appid": 3071240,
+      "name": "巫毒垂钓",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-06-01T17:44:16.551268"
     }
   }
 }
