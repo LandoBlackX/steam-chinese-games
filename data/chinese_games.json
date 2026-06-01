@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-06-01T00:35:11.388779"
+    "updated": "2026-06-01T06:26:43.665783"
   },
   "games": {
     "570": {
@@ -321010,6 +321010,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-06-01T00:35:09.435055"
+    },
+    "3034650": {
+      "appid": 3034650,
+      "name": "BloomKeeper",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-06-01T06:12:15.940621"
     }
   }
 }
