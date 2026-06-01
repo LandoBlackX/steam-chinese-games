@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-06-01T17:58:02.364881"
+    "updated": "2026-06-01T21:55:58.223743"
   },
   "games": {
     "570": {
@@ -321026,6 +321026,30 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-06-01T17:44:16.551268"
+    },
+    "3071860": {
+      "appid": 3071860,
+      "name": "WARAG",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-06-01T21:41:59.899038"
+    },
+    "3079100": {
+      "appid": 3079100,
+      "name": "Island Architect",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-06-01T21:42:01.948183"
+    },
+    "3509340": {
+      "appid": 3509340,
+      "name": "Clean",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-06-01T21:55:55.569149"
     }
   }
 }
