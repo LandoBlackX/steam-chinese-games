@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-06-01T06:26:43.665783"
+    "updated": "2026-06-01T12:07:17.683864"
   },
   "games": {
     "570": {
@@ -89666,6 +89666,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2026-05-30T20:33:59.054921"
+    },
+    "3043940": {
+      "appid": 3043940,
+      "name": "Croc Legend of the Gobbos",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2026-06-01T11:53:31.193703"
     }
   }
 }
