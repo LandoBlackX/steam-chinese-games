@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-06-02T08:53:10.840465"
+    "updated": "2026-06-02T17:45:54.002272"
   },
   "games": {
     "570": {
@@ -321066,6 +321066,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-06-02T08:53:09.444424"
+    },
+    "3115310": {
+      "appid": 3115310,
+      "name": "Bloodmoon Survivors",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-06-02T17:32:54.135772"
     }
   }
 }
