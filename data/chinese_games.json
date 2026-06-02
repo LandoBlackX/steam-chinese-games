@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-06-01T21:55:58.223743"
+    "updated": "2026-06-02T04:00:35.166583"
   },
   "games": {
     "570": {
@@ -321050,6 +321050,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-06-01T21:55:55.569149"
+    },
+    "3510640": {
+      "appid": 3510640,
+      "name": "Terra Trials",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-06-02T04:00:32.218542"
     }
   }
 }
