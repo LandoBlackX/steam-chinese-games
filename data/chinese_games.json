@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-06-02T04:00:35.166583"
+    "updated": "2026-06-02T08:53:10.840465"
   },
   "games": {
     "570": {
@@ -321058,6 +321058,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-06-02T04:00:32.218542"
+    },
+    "3511530": {
+      "appid": 3511530,
+      "name": "Gulyabani",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-06-02T08:53:09.444424"
     }
   }
 }
