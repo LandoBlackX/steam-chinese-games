@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-06-04T04:06:34.236620"
+    "updated": "2026-06-04T22:17:06.494614"
   },
   "games": {
     "570": {
@@ -321090,6 +321090,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-06-04T03:50:44.044130"
+    },
+    "3516780": {
+      "appid": 3516780,
+      "name": "2nd EVE",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-06-04T22:17:06.031974"
     }
   }
 }
