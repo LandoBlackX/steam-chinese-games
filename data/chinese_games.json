@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-06-03T23:34:33.125850"
+    "updated": "2026-06-04T04:06:34.236620"
   },
   "games": {
     "570": {
@@ -321082,6 +321082,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-06-03T23:18:58.342979"
+    },
+    "3131340": {
+      "appid": 3131340,
+      "name": "莱露",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-06-04T03:50:44.044130"
     }
   }
 }
