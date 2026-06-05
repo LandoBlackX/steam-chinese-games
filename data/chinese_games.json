@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-06-04T22:17:06.494614"
+    "updated": "2026-06-05T07:39:29.567512"
   },
   "games": {
     "570": {
@@ -321098,6 +321098,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-06-04T22:17:06.031974"
+    },
+    "3518470": {
+      "appid": 3518470,
+      "name": "Roughly Crafted",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-06-05T07:39:29.400358"
     }
   }
 }
