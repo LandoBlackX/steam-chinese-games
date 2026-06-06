@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-06-05T07:39:29.567512"
+    "updated": "2026-06-06T19:47:50.087713"
   },
   "games": {
     "570": {
@@ -321106,6 +321106,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-06-05T07:39:29.400358"
+    },
+    "3524740": {
+      "appid": 3524740,
+      "name": "Talystro",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-06-06T19:47:48.619629"
     }
   }
 }
