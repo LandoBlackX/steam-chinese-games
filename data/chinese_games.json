@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-06-07T00:33:38.560242"
+    "updated": "2026-06-08T15:18:10.230708"
   },
   "games": {
     "570": {
@@ -321122,6 +321122,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-06-07T00:33:37.103366"
+    },
+    "3530160": {
+      "appid": 3530160,
+      "name": "Heartreasure: Stellar Journey",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-06-08T15:18:10.028109"
     }
   }
 }
