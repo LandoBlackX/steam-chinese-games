@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-06-08T15:18:10.230708"
+    "updated": "2026-06-08T18:22:17.196605"
   },
   "games": {
     "570": {
@@ -321130,6 +321130,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-06-08T15:18:10.028109"
+    },
+    "3530640": {
+      "appid": 3530640,
+      "name": "Pecking Order",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-06-08T18:22:17.005894"
     }
   }
 }
