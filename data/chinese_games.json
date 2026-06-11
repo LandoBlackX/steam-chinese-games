@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-06-10T05:46:32.823082"
+    "updated": "2026-06-11T13:13:48.205005"
   },
   "games": {
     "570": {
@@ -321146,6 +321146,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-06-10T05:46:32.594544"
+    },
+    "3534750": {
+      "appid": 3534750,
+      "name": "Descent Into Darkness",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-06-11T13:13:47.919997"
     }
   }
 }
