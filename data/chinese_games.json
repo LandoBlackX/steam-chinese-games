@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-06-11T13:13:48.205005"
+    "updated": "2026-06-12T23:47:29.575179"
   },
   "games": {
     "570": {
@@ -321154,6 +321154,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-06-11T13:13:47.919997"
+    },
+    "3536520": {
+      "appid": 3536520,
+      "name": "Warding Witches",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-06-12T23:47:28.515139"
     }
   }
 }
