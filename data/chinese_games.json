@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-06-12T23:47:29.575179"
+    "updated": "2026-06-13T16:13:49.032874"
   },
   "games": {
     "570": {
@@ -321162,6 +321162,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-06-12T23:47:28.515139"
+    },
+    "3537690": {
+      "appid": 3537690,
+      "name": "贴纸弹珠 | STICKER/BALL",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-06-13T16:13:49.030715"
     }
   }
 }
