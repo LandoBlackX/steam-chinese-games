@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-06-18T04:02:03.386042"
+    "updated": "2026-06-19T15:28:22.489073"
   },
   "games": {
     "570": {
@@ -321194,6 +321194,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-06-18T04:02:03.142168"
+    },
+    "1593970": {
+      "appid": 1593970,
+      "name": "The Haunted House : Dark Island",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-06-19T14:55:55.284358"
     }
   }
 }
