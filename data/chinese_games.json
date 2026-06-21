@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-06-19T15:28:22.489073"
+    "updated": "2026-06-21T16:30:45.633967"
   },
   "games": {
     "570": {
@@ -321202,6 +321202,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-06-19T14:55:55.284358"
+    },
+    "3546650": {
+      "appid": 3546650,
+      "name": "MakeShift Mayhem",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-06-21T16:30:45.393855"
     }
   }
 }
