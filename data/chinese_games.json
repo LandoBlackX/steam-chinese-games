@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-06-21T16:30:45.633967"
+    "updated": "2026-06-22T04:16:40.141389"
   },
   "games": {
     "570": {
@@ -321210,6 +321210,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-06-21T16:30:45.393855"
+    },
+    "3547270": {
+      "appid": 3547270,
+      "name": "居家扮工虫",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-06-22T04:16:39.849086"
     }
   }
 }
