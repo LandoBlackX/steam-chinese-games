@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-06-22T04:16:40.141389"
+    "updated": "2026-06-28T04:33:00.786592"
   },
   "games": {
     "570": {
@@ -321218,6 +321218,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-06-22T04:16:39.849086"
+    },
+    "3552140": {
+      "appid": 3552140,
+      "name": "Retro Rewind - Video Store Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2026-06-28T04:33:00.596689"
     }
   }
 }
