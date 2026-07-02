@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-06-28T04:33:00.786592"
+    "updated": "2026-07-02T10:31:25.128057"
   },
   "games": {
     "570": {
@@ -321226,6 +321226,14 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2026-06-28T04:33:00.596689"
+    },
+    "3554370": {
+      "appid": 3554370,
+      "name": "吸血鬼大战机甲",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-07-02T10:31:25.016847"
     }
   }
 }
