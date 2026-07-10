@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-07-02T10:31:25.128057"
+    "updated": "2026-07-10T08:17:33.743182"
   },
   "games": {
     "570": {
@@ -89682,6 +89682,14 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2026-06-28T04:33:00.596689"
+    },
+    "4780": {
+      "appid": 4780,
+      "name": "Medieval II: Total War™ Kingdoms",
+      "type": "dlc",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2026-07-10T08:17:02.830806"
     }
   }
 }
