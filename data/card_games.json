@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-07-10T08:17:33.743182"
+    "updated": "2026-07-10T20:18:50.890832"
   },
   "games": {
     "570": {
@@ -89690,6 +89690,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2026-07-10T08:17:02.830806"
+    },
+    "224900": {
+      "appid": 224900,
+      "name": "Iron Sky: Invasion",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2026-07-10T20:18:48.521701"
     }
   }
 }
