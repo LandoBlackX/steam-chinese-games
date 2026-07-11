@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-07-11T16:57:28.354263"
+    "updated": "2026-07-11T22:42:30.791637"
   },
   "games": {
     "570": {
@@ -89714,6 +89714,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2026-07-11T16:51:57.464991"
+    },
+    "497320": {
+      "appid": 497320,
+      "name": "The Spirit of Twelve",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2026-07-11T22:42:18.424615"
     }
   }
 }
