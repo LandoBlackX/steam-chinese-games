@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-07-11T10:16:50.574003"
+    "updated": "2026-07-11T16:57:28.354263"
   },
   "games": {
     "570": {
@@ -321234,6 +321234,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-07-02T10:31:25.016847"
+    },
+    "406890": {
+      "appid": 406890,
+      "name": "Fruit Golf",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-07-11T16:51:42.208007"
     }
   }
 }

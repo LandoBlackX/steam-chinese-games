@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-07-11T10:16:50.574003"
+    "updated": "2026-07-11T16:57:28.354263"
   },
   "games": {
     "570": {
@@ -89706,6 +89706,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2026-07-11T10:11:14.702430"
+    },
+    "412050": {
+      "appid": 412050,
+      "name": "HordeZ",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2026-07-11T16:51:57.464991"
     }
   }
 }
