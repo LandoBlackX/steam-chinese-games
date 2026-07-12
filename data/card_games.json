@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-07-12T10:28:05.965449"
+    "updated": "2026-07-12T16:00:49.225024"
   },
   "games": {
     "570": {
@@ -89722,6 +89722,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2026-07-11T22:42:18.424615"
+    },
+    "590830": {
+      "appid": 590830,
+      "name": "s&box",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2026-07-12T15:55:11.320083"
     }
   }
 }
