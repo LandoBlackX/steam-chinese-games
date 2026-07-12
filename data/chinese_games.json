@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-07-11T22:42:30.791637"
+    "updated": "2026-07-12T08:14:41.993096"
   },
   "games": {
     "570": {
@@ -321242,6 +321242,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-07-11T16:51:42.208007"
+    },
+    "536280": {
+      "appid": 536280,
+      "name": "Disintegration",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-07-12T08:09:12.038752"
     }
   }
 }
