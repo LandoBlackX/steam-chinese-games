@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-07-12T19:06:25.668144"
+    "updated": "2026-07-12T22:42:54.324928"
   },
   "games": {
     "570": {
@@ -89730,6 +89730,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2026-07-12T15:55:11.320083"
+    },
+    "658600": {
+      "appid": 658600,
+      "name": "Lawnmower Game",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2026-07-12T22:42:17.098476"
     }
   }
 }
