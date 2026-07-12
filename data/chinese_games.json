@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-07-12T16:00:49.225024"
+    "updated": "2026-07-12T19:06:25.668144"
   },
   "games": {
     "570": {
@@ -321258,6 +321258,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-07-12T10:22:35.855903"
+    },
+    "637340": {
+      "appid": 637340,
+      "name": "Solar Core",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-07-12T19:01:12.522757"
     }
   }
 }
