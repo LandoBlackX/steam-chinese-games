@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-07-12T08:14:41.993096"
+    "updated": "2026-07-12T10:28:05.965449"
   },
   "games": {
     "570": {
@@ -321250,6 +321250,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-07-12T08:09:12.038752"
+    },
+    "547870": {
+      "appid": 547870,
+      "name": "Clown2Beat",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-07-12T10:22:35.855903"
     }
   }
 }
