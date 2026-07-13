@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-07-13T16:33:26.166164"
+    "updated": "2026-07-13T23:56:07.588477"
   },
   "games": {
     "570": {
@@ -89738,6 +89738,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2026-07-12T22:42:17.098476"
+    },
+    "727720": {
+      "appid": 727720,
+      "name": "Found Horror Game 101.exe",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2026-07-13T23:50:41.820355"
     }
   }
 }
