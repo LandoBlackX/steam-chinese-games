@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-07-12T22:42:54.324928"
+    "updated": "2026-07-13T13:23:22.236639"
   },
   "games": {
     "570": {
@@ -321266,6 +321266,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-07-12T19:01:12.522757"
+    },
+    "686290": {
+      "appid": 686290,
+      "name": "RADical ROACH: Infinity",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-07-13T13:17:55.412943"
     }
   }
 }
