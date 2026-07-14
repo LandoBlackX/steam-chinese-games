@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-07-13T23:56:07.588477"
+    "updated": "2026-07-14T08:00:09.383954"
   },
   "games": {
     "570": {
@@ -321282,6 +321282,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-07-13T16:28:07.343396"
+    },
+    "752900": {
+      "appid": 752900,
+      "name": "Prehistoric Hunt",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-07-14T07:55:00.817636"
     }
   }
 }
