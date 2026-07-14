@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-07-14T08:00:09.383954"
+    "updated": "2026-07-14T11:28:48.359916"
   },
   "games": {
     "570": {
@@ -321290,6 +321290,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-07-14T07:55:00.817636"
+    },
+    "762930": {
+      "appid": 762930,
+      "name": "sppl-魔女爱丽丝 第一章 春日已至2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-07-14T11:23:03.909923"
     }
   }
 }
