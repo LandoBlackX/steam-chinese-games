@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-07-15T07:17:43.656773"
+    "updated": "2026-07-15T11:41:34.949364"
   },
   "games": {
     "570": {
@@ -321306,6 +321306,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-07-15T07:12:26.868547"
+    },
+    "848930": {
+      "appid": 848930,
+      "name": "Rising Dusk",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-07-15T11:36:09.583076"
     }
   }
 }
