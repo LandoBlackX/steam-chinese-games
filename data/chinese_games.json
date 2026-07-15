@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-07-15T11:41:34.949364"
+    "updated": "2026-07-15T15:28:56.807463"
   },
   "games": {
     "570": {
@@ -321314,6 +321314,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-07-15T11:36:09.583076"
+    },
+    "864780": {
+      "appid": 864780,
+      "name": "World Cup Waifu Clicker: Soccer Evolution",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-07-15T15:23:39.091609"
     }
   }
 }
