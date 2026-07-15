@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-07-15T15:28:56.807463"
+    "updated": "2026-07-15T17:18:30.895792"
   },
   "games": {
     "570": {
@@ -321322,6 +321322,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-07-15T15:23:39.091609"
+    },
+    "868450": {
+      "appid": 868450,
+      "name": "Full Colour Tiles",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-07-15T17:12:53.733125"
     }
   }
 }
