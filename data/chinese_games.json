@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-07-14T11:28:48.359916"
+    "updated": "2026-07-15T07:17:43.656773"
   },
   "games": {
     "570": {
@@ -321298,6 +321298,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-07-14T11:23:03.909923"
+    },
+    "839030": {
+      "appid": 839030,
+      "name": "Mad Frost",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-07-15T07:12:26.868547"
     }
   }
 }
