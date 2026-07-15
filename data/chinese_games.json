@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-07-15T21:01:17.810130"
+    "updated": "2026-07-15T23:01:00.642207"
   },
   "games": {
     "570": {
@@ -321338,6 +321338,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-07-15T20:56:15.085837"
+    },
+    "900490": {
+      "appid": 900490,
+      "name": "Power Gunner",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-07-15T22:55:47.530580"
     }
   }
 }
