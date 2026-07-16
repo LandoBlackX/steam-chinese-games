@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-07-15T23:01:00.642207"
+    "updated": "2026-07-16T18:07:44.508185"
   },
   "games": {
     "570": {
@@ -321346,6 +321346,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-07-15T22:55:47.530580"
+    },
+    "965940": {
+      "appid": 965940,
+      "name": "HyperTros",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-07-16T18:02:22.289717"
     }
   }
 }
