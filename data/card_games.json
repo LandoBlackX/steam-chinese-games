@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-07-16T18:07:44.508185"
+    "updated": "2026-07-16T20:04:55.311502"
   },
   "games": {
     "570": {
@@ -89746,6 +89746,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2026-07-13T23:50:41.820355"
+    },
+    "974910": {
+      "appid": 974910,
+      "name": "Magical Diary: Wolf Hall",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2026-07-16T19:59:41.355871"
     }
   }
 }
