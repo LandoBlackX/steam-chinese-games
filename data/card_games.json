@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-07-17T18:06:48.526650"
+    "updated": "2026-07-17T21:48:21.818009"
   },
   "games": {
     "570": {
@@ -89770,6 +89770,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2026-07-17T18:01:41.797263"
+    },
+    "1067020": {
+      "appid": 1067020,
+      "name": "PUSSY 3",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2026-07-17T21:48:05.271475"
     }
   }
 }

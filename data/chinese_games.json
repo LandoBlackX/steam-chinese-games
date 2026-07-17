@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-07-17T18:06:48.526650"
+    "updated": "2026-07-17T21:48:21.818009"
   },
   "games": {
     "570": {
@@ -321378,6 +321378,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-07-17T14:29:58.305013"
+    },
+    "1067320": {
+      "appid": 1067320,
+      "name": "Pathogenesis: Overcome",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-07-17T21:48:06.452987"
     }
   }
 }
