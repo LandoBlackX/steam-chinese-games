@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-07-16T20:04:55.311502"
+    "updated": "2026-07-17T05:43:02.350962"
   },
   "games": {
     "570": {
@@ -321354,6 +321354,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-07-16T18:02:22.289717"
+    },
+    "1009410": {
+      "appid": 1009410,
+      "name": "Eternal Exodus",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-07-17T05:37:40.045075"
     }
   }
 }
