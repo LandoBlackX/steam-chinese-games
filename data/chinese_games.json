@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-07-17T05:43:02.350962"
+    "updated": "2026-07-17T10:47:49.089013"
   },
   "games": {
     "570": {
@@ -321362,6 +321362,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-07-17T05:37:40.045075"
+    },
+    "1023310": {
+      "appid": 1023310,
+      "name": "Logical Now!",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-07-17T10:42:20.255640"
     }
   }
 }
