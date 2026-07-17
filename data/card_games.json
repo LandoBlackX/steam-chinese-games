@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-07-17T16:17:12.846390"
+    "updated": "2026-07-17T18:06:48.526650"
   },
   "games": {
     "570": {
@@ -89762,6 +89762,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2026-07-17T16:11:27.255259"
+    },
+    "1055540": {
+      "appid": 1055540,
+      "name": "A Short Hike",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2026-07-17T18:01:41.797263"
     }
   }
 }
