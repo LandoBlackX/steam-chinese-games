@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-07-17T10:47:49.089013"
+    "updated": "2026-07-17T14:35:12.837527"
   },
   "games": {
     "570": {
@@ -321370,6 +321370,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-07-17T10:42:20.255640"
+    },
+    "1041050": {
+      "appid": 1041050,
+      "name": "Tokyo Re:Connect",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-07-17T14:29:58.305013"
     }
   }
 }
