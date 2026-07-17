@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-07-17T14:35:12.837527"
+    "updated": "2026-07-17T16:17:12.846390"
   },
   "games": {
     "570": {
@@ -89754,6 +89754,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2026-07-16T19:59:41.355871"
+    },
+    "1044040": {
+      "appid": 1044040,
+      "name": "Survive the Blackout",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2026-07-17T16:11:27.255259"
     }
   }
 }
