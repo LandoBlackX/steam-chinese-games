@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-07-17T21:48:21.818009"
+    "updated": "2026-07-17T22:49:34.144680"
   },
   "games": {
     "570": {
@@ -321386,6 +321386,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-07-17T21:48:06.452987"
+    },
+    "1070500": {
+      "appid": 1070500,
+      "name": "He Who Watches",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-07-17T22:43:59.012152"
     }
   }
 }
