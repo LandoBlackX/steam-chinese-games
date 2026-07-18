@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-07-18T11:59:25.884408"
+    "updated": "2026-07-18T16:58:03.629678"
   },
   "games": {
     "570": {
@@ -321402,6 +321402,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-07-18T11:54:15.872784"
+    },
+    "1148480": {
+      "appid": 1148480,
+      "name": "SPACERIFT: Arcanum System",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-07-18T16:52:48.185177"
     }
   }
 }
