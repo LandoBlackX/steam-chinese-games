@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-07-17T22:49:34.144680"
+    "updated": "2026-07-18T11:59:25.884408"
   },
   "games": {
     "570": {
@@ -321394,6 +321394,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-07-17T22:43:59.012152"
+    },
+    "1121510": {
+      "appid": 1121510,
+      "name": "Shadows of Kepler",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-07-18T11:54:15.872784"
     }
   }
 }
