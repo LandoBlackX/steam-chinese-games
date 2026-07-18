@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-07-18T16:58:03.629678"
+    "updated": "2026-07-18T21:45:59.904536"
   },
   "games": {
     "570": {
@@ -321410,6 +321410,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-07-18T16:52:48.185177"
+    },
+    "1173100": {
+      "appid": 1173100,
+      "name": "Choppa: Rescue Rivals",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-07-18T21:45:28.079523"
     }
   }
 }
