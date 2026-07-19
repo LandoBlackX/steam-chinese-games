@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-07-18T21:45:59.904536"
+    "updated": "2026-07-19T05:53:18.662895"
   },
   "games": {
     "570": {
@@ -321418,6 +321418,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-07-18T21:45:28.079523"
+    },
+    "1204470": {
+      "appid": 1204470,
+      "name": "Space Elite Force II",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-07-19T05:48:10.579369"
     }
   }
 }
