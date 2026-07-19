@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-07-19T18:00:45.360694"
+    "updated": "2026-07-19T21:52:27.233971"
   },
   "games": {
     "570": {
@@ -321442,6 +321442,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-07-19T17:55:34.753299"
+    },
+    "1281480": {
+      "appid": 1281480,
+      "name": "Epica",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-07-19T21:47:08.924301"
     }
   }
 }
