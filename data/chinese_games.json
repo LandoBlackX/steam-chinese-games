@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-07-19T05:53:18.662895"
+    "updated": "2026-07-19T08:14:26.088855"
   },
   "games": {
     "570": {
@@ -321426,6 +321426,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-07-19T05:48:10.579369"
+    },
+    "1212610": {
+      "appid": 1212610,
+      "name": "Nijikoi no Houkakou",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-07-19T08:14:25.148557"
     }
   }
 }
