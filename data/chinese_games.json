@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-07-19T08:14:26.088855"
+    "updated": "2026-07-19T18:00:45.360694"
   },
   "games": {
     "570": {
@@ -321434,6 +321434,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-07-19T08:14:25.148557"
+    },
+    "1261280": {
+      "appid": 1261280,
+      "name": "No Exit : Torments of Hell",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-07-19T17:55:34.753299"
     }
   }
 }
