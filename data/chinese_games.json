@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-07-19T21:52:27.233971"
+    "updated": "2026-07-20T02:39:04.084778"
   },
   "games": {
     "570": {
@@ -321450,6 +321450,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-07-19T21:47:08.924301"
+    },
+    "1299170": {
+      "appid": 1299170,
+      "name": "神奇四叶镇",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-07-20T02:33:31.727641"
     }
   }
 }
