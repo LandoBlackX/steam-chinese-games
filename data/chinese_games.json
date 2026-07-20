@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-07-20T02:39:04.084778"
+    "updated": "2026-07-20T10:01:30.714830"
   },
   "games": {
     "570": {
@@ -321458,6 +321458,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-07-20T02:33:31.727641"
+    },
+    "1312480": {
+      "appid": 1312480,
+      "name": "Ratico Puzzle Adventure",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-07-20T09:56:13.090906"
     }
   }
 }
