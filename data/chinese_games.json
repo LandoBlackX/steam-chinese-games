@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-07-20T23:01:24.897589"
+    "updated": "2026-07-20T23:59:46.348131"
   },
   "games": {
     "570": {
@@ -321482,6 +321482,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-07-20T22:56:08.168418"
+    },
+    "1365760": {
+      "appid": 1365760,
+      "name": "Defold",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-07-20T23:54:28.951313"
+    },
+    "1368160": {
+      "appid": 1368160,
+      "name": "Heart Of Muriet",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-07-20T23:54:37.735024"
     }
   }
 }
