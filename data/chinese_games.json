@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-07-20T23:59:46.348131"
+    "updated": "2026-07-21T02:17:08.907256"
   },
   "games": {
     "570": {
@@ -321498,6 +321498,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-07-20T23:54:37.735024"
+    },
+    "1374490": {
+      "appid": 1374490,
+      "name": "RuneScape: Dragonwilds 符文世界：龙之荒野",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-07-21T02:11:59.246017"
     }
   }
 }
