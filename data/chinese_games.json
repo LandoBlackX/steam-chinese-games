@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-07-21T19:19:33.495197"
+    "updated": "2026-07-21T22:57:23.739627"
   },
   "games": {
     "570": {
@@ -321530,6 +321530,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-07-21T19:14:07.160426"
+    },
+    "1431280": {
+      "appid": 1431280,
+      "name": "FMVMachine",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-07-21T22:52:08.895847"
     }
   }
 }
