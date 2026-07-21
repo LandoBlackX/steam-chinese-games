@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-07-21T22:57:23.739627"
+    "updated": "2026-07-21T23:59:05.493035"
   },
   "games": {
     "570": {
@@ -321538,6 +321538,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-07-21T22:52:08.895847"
+    },
+    "1438800": {
+      "appid": 1438800,
+      "name": "Safari Park Ranger",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-07-21T23:53:43.664985"
     }
   }
 }
