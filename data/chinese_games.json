@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-07-21T05:51:30.366343"
+    "updated": "2026-07-21T19:19:33.495197"
   },
   "games": {
     "570": {
@@ -321514,6 +321514,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-07-21T05:46:28.015032"
+    },
+    "1417640": {
+      "appid": 1417640,
+      "name": "Stella Voyager",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-07-21T19:14:04.414413"
+    },
+    "1418010": {
+      "appid": 1418010,
+      "name": "Black Chapter",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-07-21T19:14:07.160426"
     }
   }
 }
