@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-07-22T21:06:47.392544"
+    "updated": "2026-07-22T22:18:40.825498"
   },
   "games": {
     "570": {
@@ -321594,6 +321594,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-07-22T21:01:21.945887"
+    },
+    "1502680": {
+      "appid": 1502680,
+      "name": "Dobo's Heroes",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-07-22T22:13:27.502118"
     }
   }
 }
