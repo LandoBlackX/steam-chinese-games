@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-07-21T23:59:05.493035"
+    "updated": "2026-07-22T05:50:58.232759"
   },
   "games": {
     "570": {
@@ -321546,6 +321546,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-07-21T23:53:43.664985"
+    },
+    "1449700": {
+      "appid": 1449700,
+      "name": "Soul Machine",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-07-22T05:45:26.222198"
+    },
+    "1449780": {
+      "appid": 1449780,
+      "name": "Cyberwar: Neon City",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-07-22T05:45:26.626454"
     }
   }
 }
