@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-07-22T15:35:40.769104"
+    "updated": "2026-07-22T21:06:47.392544"
   },
   "games": {
     "570": {
@@ -321586,6 +321586,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-07-22T15:35:38.471499"
+    },
+    "1493460": {
+      "appid": 1493460,
+      "name": "叛军 – 被魔法迷惑（第一章）",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-07-22T21:01:21.945887"
     }
   }
 }
