@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-07-22T05:50:58.232759"
+    "updated": "2026-07-22T15:35:40.769104"
   },
   "games": {
     "570": {
@@ -321562,6 +321562,30 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-07-22T05:45:26.626454"
+    },
+    "1478500": {
+      "appid": 1478500,
+      "name": "Big Walk",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-07-22T15:30:19.704146"
+    },
+    "1478970": {
+      "appid": 1478970,
+      "name": "AI Olympius",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-07-22T15:30:23.887301"
+    },
+    "1480810": {
+      "appid": 1480810,
+      "name": "绯红战术：白旗之黎明",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-07-22T15:35:38.471499"
     }
   }
 }
