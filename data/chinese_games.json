@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-07-23T09:28:33.126000"
+    "updated": "2026-07-23T15:59:13.331290"
   },
   "games": {
     "570": {
@@ -321610,6 +321610,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-07-23T09:23:25.144426"
+    },
+    "1546090": {
+      "appid": 1546090,
+      "name": "RAIDBORN",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-07-23T15:53:42.208384"
     }
   }
 }
