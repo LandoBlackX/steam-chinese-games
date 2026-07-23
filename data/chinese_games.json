@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-07-22T22:18:40.825498"
+    "updated": "2026-07-23T09:28:33.126000"
   },
   "games": {
     "570": {
@@ -321602,6 +321602,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-07-22T22:13:27.502118"
+    },
+    "1528910": {
+      "appid": 1528910,
+      "name": "Cradle-18",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-07-23T09:23:25.144426"
     }
   }
 }
