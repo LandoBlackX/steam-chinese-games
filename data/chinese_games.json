@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-07-24T14:57:40.305804"
+    "updated": "2026-07-24T20:23:30.068936"
   },
   "games": {
     "570": {
@@ -321642,6 +321642,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-07-24T14:52:12.693456"
+    },
+    "1628170": {
+      "appid": 1628170,
+      "name": "Rules: Politically Incorrect",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-07-24T20:18:11.916280"
     }
   }
 }
