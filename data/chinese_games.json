@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-07-24T02:28:58.529347"
+    "updated": "2026-07-24T12:29:47.291321"
   },
   "games": {
     "570": {
@@ -321626,6 +321626,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-07-23T23:57:34.369737"
+    },
+    "1605850": {
+      "appid": 1605850,
+      "name": "零度空间 ZeroSpace",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-07-24T12:24:34.543122"
     }
   }
 }
