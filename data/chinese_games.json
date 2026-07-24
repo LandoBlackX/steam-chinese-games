@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-07-24T12:29:47.291321"
+    "updated": "2026-07-24T14:57:40.305804"
   },
   "games": {
     "570": {
@@ -321634,6 +321634,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-07-24T12:24:34.543122"
+    },
+    "1608730": {
+      "appid": 1608730,
+      "name": "Dawn of Corruption",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-07-24T14:52:12.693456"
     }
   }
 }
