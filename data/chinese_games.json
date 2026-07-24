@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-07-23T15:59:13.331290"
+    "updated": "2026-07-24T00:02:59.442923"
   },
   "games": {
     "570": {
@@ -321618,6 +321618,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-07-23T15:53:42.208384"
+    },
+    "1575810": {
+      "appid": 1575810,
+      "name": "Wander Stars",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-07-23T23:57:34.369737"
     }
   }
 }
