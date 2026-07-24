@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-07-24T00:02:59.442923"
+    "updated": "2026-07-24T02:28:58.529347"
   },
   "games": {
     "570": {
@@ -89778,6 +89778,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2026-07-17T21:48:05.271475"
+    },
+    "1579920": {
+      "appid": 1579920,
+      "name": "Opportunity: A Sugar Baby Story",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2026-07-24T02:23:38.305277"
     }
   }
 }
