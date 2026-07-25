@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-07-25T13:21:31.819418"
+    "updated": "2026-07-25T15:05:52.957983"
   },
   "games": {
     "570": {
@@ -89786,6 +89786,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2026-07-24T02:23:38.305277"
+    },
+    "1684410": {
+      "appid": 1684410,
+      "name": "海豹世界",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2026-07-25T15:00:39.894401"
     }
   }
 }
