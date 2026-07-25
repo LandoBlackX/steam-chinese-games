@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-07-25T15:05:52.957983"
+    "updated": "2026-07-25T22:57:33.412722"
   },
   "games": {
     "570": {
@@ -321690,6 +321690,14 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2026-07-25T15:00:39.894401"
+    },
+    "1717190": {
+      "appid": 1717190,
+      "name": "Fallen City Brawl",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-07-25T22:52:24.429620"
     }
   }
 }
