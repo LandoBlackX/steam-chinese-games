@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-07-26T02:32:45.688618"
+    "updated": "2026-07-26T08:28:47.753890"
   },
   "games": {
     "570": {
@@ -89794,6 +89794,14 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2026-07-25T15:00:39.894401"
+    },
+    "1743080": {
+      "appid": 1743080,
+      "name": "Night Cascades",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2026-07-26T08:28:44.850087"
     }
   }
 }
