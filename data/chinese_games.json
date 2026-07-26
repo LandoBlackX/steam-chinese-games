@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-07-26T19:22:09.032417"
+    "updated": "2026-07-26T21:00:32.595649"
   },
   "games": {
     "570": {
@@ -321778,6 +321778,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-07-26T19:16:36.833392"
+    },
+    "1785950": {
+      "appid": 1785950,
+      "name": "Razgovor Online",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-07-26T20:55:12.265368"
     }
   }
 }
