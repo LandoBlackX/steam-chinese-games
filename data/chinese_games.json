@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-07-26T13:46:47.495757"
+    "updated": "2026-07-26T15:08:34.211313"
   },
   "games": {
     "570": {
@@ -321738,6 +321738,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-07-26T13:41:28.689413"
+    },
+    "1764280": {
+      "appid": 1764280,
+      "name": "Dungeons of the Amber Griffin",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-07-26T15:03:15.855702"
+    },
+    "1766240": {
+      "appid": 1766240,
+      "name": "Mazey Village",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-07-26T15:08:30.198571"
     }
   }
 }
