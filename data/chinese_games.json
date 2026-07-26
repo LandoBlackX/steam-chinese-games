@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-07-26T18:06:21.743221"
+    "updated": "2026-07-26T19:22:09.032417"
   },
   "games": {
     "570": {
@@ -321770,6 +321770,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-07-26T18:01:07.887533"
+    },
+    "1779280": {
+      "appid": 1779280,
+      "name": "文明老虎机",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-07-26T19:16:36.833392"
     }
   }
 }
