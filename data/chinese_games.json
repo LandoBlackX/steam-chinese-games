@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-07-26T21:00:32.595649"
+    "updated": "2026-07-26T23:04:02.546514"
   },
   "games": {
     "570": {
@@ -321786,6 +321786,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-07-26T20:55:12.265368"
+    },
+    "1800670": {
+      "appid": 1800670,
+      "name": "Dream Loop",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-07-26T22:58:58.721696"
     }
   }
 }
