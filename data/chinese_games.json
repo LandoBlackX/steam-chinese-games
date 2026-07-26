@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-07-26T16:17:52.172461"
+    "updated": "2026-07-26T18:06:21.743221"
   },
   "games": {
     "570": {
@@ -321762,6 +321762,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-07-26T16:12:26.736429"
+    },
+    "1777000": {
+      "appid": 1777000,
+      "name": "Cut to the Core",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-07-26T18:01:07.887533"
     }
   }
 }

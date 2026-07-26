@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-07-26T16:17:52.172461"
+    "updated": "2026-07-26T18:06:21.743221"
   },
   "games": {
     "570": {
@@ -89802,6 +89802,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2026-07-26T08:28:44.850087"
+    },
+    "1775960": {
+      "appid": 1775960,
+      "name": "Contract Rush DX",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2026-07-26T18:01:01.463802"
     }
   }
 }
