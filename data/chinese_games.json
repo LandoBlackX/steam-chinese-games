@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-07-26T00:03:18.248607"
+    "updated": "2026-07-26T02:32:45.688618"
   },
   "games": {
     "570": {
@@ -321714,6 +321714,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-07-25T23:58:11.875589"
+    },
+    "1730520": {
+      "appid": 1730520,
+      "name": "1000 hidden snails",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-07-26T02:27:40.327691"
     }
   }
 }
