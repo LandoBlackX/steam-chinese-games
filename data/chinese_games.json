@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-07-26T10:49:27.394583"
+    "updated": "2026-07-26T13:46:47.495757"
   },
   "games": {
     "570": {
@@ -321730,6 +321730,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-07-26T10:43:54.317861"
+    },
+    "1756180": {
+      "appid": 1756180,
+      "name": "CARNAGE OFFERING",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-07-26T13:41:28.689413"
     }
   }
 }
