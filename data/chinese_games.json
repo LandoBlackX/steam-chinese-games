@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-07-25T22:57:33.412722"
+    "updated": "2026-07-26T00:03:18.248607"
   },
   "games": {
     "570": {
@@ -321698,6 +321698,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-07-25T22:52:24.429620"
+    },
+    "1722800": {
+      "appid": 1722800,
+      "name": "巨像：蚀世之灾",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-07-25T23:58:09.136426"
+    },
+    "1723780": {
+      "appid": 1723780,
+      "name": "Finnish Cottage Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-07-25T23:58:11.875589"
     }
   }
 }
