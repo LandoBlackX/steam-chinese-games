@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-07-27T16:21:16.240513"
+    "updated": "2026-07-27T18:29:21.893297"
   },
   "games": {
     "570": {
@@ -321834,6 +321834,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-07-27T16:21:15.632461"
+    },
+    "1834530": {
+      "appid": 1834530,
+      "name": "Witch Slide",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-07-27T18:23:58.736558"
     }
   }
 }
