@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-07-27T00:04:30.321084"
+    "updated": "2026-07-27T06:32:17.529265"
   },
   "games": {
     "570": {
@@ -321802,6 +321802,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-07-27T00:04:28.358576"
+    },
+    "1816640": {
+      "appid": 1816640,
+      "name": "Modern Naval Warfare",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-07-27T06:32:11.818202"
     }
   }
 }
