@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-07-27T06:32:17.529265"
+    "updated": "2026-07-27T16:21:16.240513"
   },
   "games": {
     "570": {
@@ -321810,6 +321810,30 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-07-27T06:32:11.818202"
+    },
+    "1829470": {
+      "appid": 1829470,
+      "name": "Melody's Escape 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-07-27T16:15:50.060486"
+    },
+    "1833340": {
+      "appid": 1833340,
+      "name": "Anima: Scattered Light",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-07-27T16:21:12.620973"
+    },
+    "1833860": {
+      "appid": 1833860,
+      "name": "Olympian Knights",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-07-27T16:21:15.632461"
     }
   }
 }
