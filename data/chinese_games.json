@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-07-26T23:04:02.546514"
+    "updated": "2026-07-27T00:04:30.321084"
   },
   "games": {
     "570": {
@@ -321794,6 +321794,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-07-26T22:58:58.721696"
+    },
+    "1806340": {
+      "appid": 1806340,
+      "name": "MuGen - The Music Generator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-07-27T00:04:28.358576"
     }
   }
 }
