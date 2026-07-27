@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-07-27T18:29:21.893297"
+    "updated": "2026-07-27T20:26:39.270965"
   },
   "games": {
     "570": {
@@ -321842,6 +321842,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-07-27T18:23:58.736558"
+    },
+    "1839060": {
+      "appid": 1839060,
+      "name": "Polylithic",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-07-27T20:21:19.383704"
+    },
+    "1841660": {
+      "appid": 1841660,
+      "name": "nanos world™",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-07-27T20:21:28.923494"
     }
   }
 }
