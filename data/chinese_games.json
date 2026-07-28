@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-07-28T02:50:07.900697"
+    "updated": "2026-07-28T11:21:48.079779"
   },
   "games": {
     "570": {
@@ -321866,6 +321866,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-07-28T02:44:48.609916"
+    },
+    "1878730": {
+      "appid": 1878730,
+      "name": "冰海孤船",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-07-28T11:21:45.904971"
     }
   }
 }
