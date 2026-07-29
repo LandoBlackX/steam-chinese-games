@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-07-29T15:59:16.436718"
+    "updated": "2026-07-29T17:19:40.493310"
   },
   "games": {
     "570": {
@@ -321946,6 +321946,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-07-29T15:54:09.901827"
+    },
+    "1949970": {
+      "appid": 1949970,
+      "name": "J-Jump Arena",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-07-29T17:19:36.184627"
     }
   }
 }
