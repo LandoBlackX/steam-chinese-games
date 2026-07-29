@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-07-29T17:19:40.493310"
+    "updated": "2026-07-29T20:59:32.505021"
   },
   "games": {
     "570": {
@@ -321954,6 +321954,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-07-29T17:19:36.184627"
+    },
+    "1960530": {
+      "appid": 1960530,
+      "name": "Voltcube",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-07-29T20:59:27.823871"
+    },
+    "1960920": {
+      "appid": 1960920,
+      "name": "Zetria",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-07-29T20:59:29.011827"
     }
   }
 }
