@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-07-29T08:40:28.320039"
+    "updated": "2026-07-29T15:59:16.436718"
   },
   "games": {
     "570": {
@@ -321930,6 +321930,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-07-29T08:40:28.232054"
+    },
+    "1941780": {
+      "appid": 1941780,
+      "name": "Zumbi Blocks 2 Open Alpha",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-07-29T15:54:00.619064"
+    },
+    "1943730": {
+      "appid": 1943730,
+      "name": "Wicked Island",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-07-29T15:54:09.901827"
     }
   }
 }
