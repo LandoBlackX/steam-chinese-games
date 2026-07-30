@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-07-30T00:07:49.751943"
+    "updated": "2026-07-30T05:45:09.807899"
   },
   "games": {
     "570": {
@@ -321978,6 +321978,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-07-30T00:02:17.779090"
+    },
+    "1983620": {
+      "appid": 1983620,
+      "name": "Infinitevania",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-07-30T05:39:37.697401"
     }
   }
 }
