@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-07-29T20:59:32.505021"
+    "updated": "2026-07-30T00:07:49.751943"
   },
   "games": {
     "570": {
@@ -321970,6 +321970,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-07-29T20:59:29.011827"
+    },
+    "1972450": {
+      "appid": 1972450,
+      "name": "Earth of Oryn",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-07-30T00:02:17.779090"
     }
   }
 }
