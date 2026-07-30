@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-07-30T05:45:09.807899"
+    "updated": "2026-07-30T19:27:17.333370"
   },
   "games": {
     "570": {
@@ -321986,6 +321986,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-07-30T05:39:37.697401"
+    },
+    "2026040": {
+      "appid": 2026040,
+      "name": "Dig Dig Boom",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-07-30T19:27:16.230907"
     }
   }
 }
