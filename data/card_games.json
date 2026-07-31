@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-07-30T19:27:17.333370"
+    "updated": "2026-07-31T00:16:28.436388"
   },
   "games": {
     "570": {
@@ -89818,6 +89818,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2026-07-29T05:55:40.285053"
+    },
+    "2063480": {
+      "appid": 2063480,
+      "name": "Voltage High Society",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2026-07-31T00:15:44.110295"
     }
   }
 }

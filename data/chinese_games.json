@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-07-30T19:27:17.333370"
+    "updated": "2026-07-31T00:16:28.436388"
   },
   "games": {
     "570": {
@@ -321994,6 +321994,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-07-30T19:27:16.230907"
+    },
+    "2065400": {
+      "appid": 2065400,
+      "name": "Cloud Keeper: Shrine of Dal",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-07-31T00:16:18.056527"
     }
   }
 }
