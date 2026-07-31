@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-07-31T04:24:23.546128"
+    "updated": "2026-07-31T12:58:01.677979"
   },
   "games": {
     "570": {
@@ -322018,6 +322018,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-07-31T04:24:20.029762"
+    },
+    "2084450": {
+      "appid": 2084450,
+      "name": "DIRECT CONTACT",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-07-31T12:57:48.461869"
     }
   }
 }
