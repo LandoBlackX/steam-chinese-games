@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-07-31T00:16:28.436388"
+    "updated": "2026-07-31T04:24:23.546128"
   },
   "games": {
     "570": {
@@ -322002,6 +322002,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-07-31T00:16:18.056527"
+    },
+    "2067960": {
+      "appid": 2067960,
+      "name": "Peaky Circus",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-07-31T04:24:10.706390"
+    },
+    "2070750": {
+      "appid": 2070750,
+      "name": "NeonCyber.exe",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-07-31T04:24:20.029762"
     }
   }
 }
