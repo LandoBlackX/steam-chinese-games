@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-08-01T16:03:27.950926"
+    "updated": "2026-08-01T20:49:03.933706"
   },
   "games": {
     "570": {
@@ -322058,6 +322058,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-08-01T16:03:07.064332"
+    },
+    "2178560": {
+      "appid": 2178560,
+      "name": "Horde Hunters",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-01T20:49:02.268095"
     }
   }
 }

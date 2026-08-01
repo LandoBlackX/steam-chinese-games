@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-08-01T16:03:27.950926"
+    "updated": "2026-08-01T20:49:03.933706"
   },
   "games": {
     "570": {
@@ -89842,6 +89842,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2026-08-01T02:51:21.808313"
+    },
+    "2178590": {
+      "appid": 2178590,
+      "name": "Coin Pusher Casino",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2026-08-01T20:49:02.379085"
     }
   }
 }
