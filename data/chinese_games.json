@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-08-01T21:55:36.109720"
+    "updated": "2026-08-01T22:55:16.941806"
   },
   "games": {
     "570": {
@@ -322074,6 +322074,30 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-08-01T21:55:11.614580"
+    },
+    "2185510": {
+      "appid": 2185510,
+      "name": "TOUCHSTARVED",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-01T22:55:06.096749"
+    },
+    "2186690": {
+      "appid": 2186690,
+      "name": "BRXKEN INSIDE",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-01T22:55:08.752367"
+    },
+    "2187300": {
+      "appid": 2187300,
+      "name": "Active Soccer 3",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-01T22:55:09.944752"
     }
   }
 }
