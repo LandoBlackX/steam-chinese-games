@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-08-01T02:51:36.166289"
+    "updated": "2026-08-01T05:56:20.999276"
   },
   "games": {
     "570": {
@@ -322034,6 +322034,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-07-31T15:20:48.921513"
+    },
+    "2124780": {
+      "appid": 2124780,
+      "name": "Endoparasitic",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-01T05:56:05.866392"
     }
   }
 }
