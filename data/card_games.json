@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-07-31T21:04:30.066162"
+    "updated": "2026-08-01T02:51:36.166289"
   },
   "games": {
     "570": {
@@ -89834,6 +89834,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2026-07-31T21:04:17.629105"
+    },
+    "2120070": {
+      "appid": 2120070,
+      "name": "Pro Philosopher 2: Governments & Grievances",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2026-08-01T02:51:21.808313"
     }
   }
 }
