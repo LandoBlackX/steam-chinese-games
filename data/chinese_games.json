@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-08-01T20:49:03.933706"
+    "updated": "2026-08-01T21:55:36.109720"
   },
   "games": {
     "570": {
@@ -322066,6 +322066,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-08-01T20:49:02.268095"
+    },
+    "2179030": {
+      "appid": 2179030,
+      "name": "BOT.vinnik Chess: Prodigies",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-01T21:55:11.614580"
     }
   }
 }
