@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-08-02T02:23:44.420478"
+    "updated": "2026-08-02T10:41:49.157230"
   },
   "games": {
     "570": {
@@ -322106,6 +322106,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-08-02T02:23:40.415775"
+    },
+    "2212680": {
+      "appid": 2212680,
+      "name": "Evil Of Fate",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-02T10:41:29.135497"
     }
   }
 }
