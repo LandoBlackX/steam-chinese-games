@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-08-02T10:41:49.157230"
+    "updated": "2026-08-02T12:04:02.226701"
   },
   "games": {
     "570": {
@@ -322114,6 +322114,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-08-02T10:41:29.135497"
+    },
+    "2217550": {
+      "appid": 2217550,
+      "name": "Wizard's Wheel 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-02T12:03:21.141179"
+    },
+    "2218060": {
+      "appid": 2218060,
+      "name": "Backdraft",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-02T12:03:24.264701"
     }
   }
 }
