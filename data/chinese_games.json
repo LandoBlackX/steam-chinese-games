@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-08-02T18:04:06.255696"
+    "updated": "2026-08-02T19:17:23.793260"
   },
   "games": {
     "570": {
@@ -322162,6 +322162,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-08-02T18:03:55.230477"
+    },
+    "2245130": {
+      "appid": 2245130,
+      "name": "Handshakes: Hands On",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-02T19:17:05.929267"
     }
   }
 }
