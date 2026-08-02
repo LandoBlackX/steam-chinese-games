@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-08-01T22:55:16.941806"
+    "updated": "2026-08-02T02:23:44.420478"
   },
   "games": {
     "570": {
@@ -89850,6 +89850,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2026-08-01T20:49:02.379085"
+    },
+    "2199080": {
+      "appid": 2199080,
+      "name": "STARBITES",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2026-08-02T02:23:41.029155"
     }
   }
 }

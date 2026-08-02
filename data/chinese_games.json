@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-08-01T22:55:16.941806"
+    "updated": "2026-08-02T02:23:44.420478"
   },
   "games": {
     "570": {
@@ -322098,6 +322098,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-08-01T22:55:09.944752"
+    },
+    "2198830": {
+      "appid": 2198830,
+      "name": "Wet Sand",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-02T02:23:40.415775"
     }
   }
 }
