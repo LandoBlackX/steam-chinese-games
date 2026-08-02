@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-08-02T12:04:02.226701"
+    "updated": "2026-08-02T15:04:00.941401"
   },
   "games": {
     "570": {
@@ -322130,6 +322130,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-08-02T12:03:24.264701"
+    },
+    "2228720": {
+      "appid": 2228720,
+      "name": "Hack 'n' Stack",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-02T15:03:35.198874"
+    },
+    "2232840": {
+      "appid": 2232840,
+      "name": "Garten of Banban",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-02T15:03:59.256977"
     }
   }
 }
