@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-08-02T16:08:03.656340"
+    "updated": "2026-08-02T18:04:06.255696"
   },
   "games": {
     "570": {
@@ -322146,6 +322146,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-08-02T15:03:59.256977"
+    },
+    "2241940": {
+      "appid": 2241940,
+      "name": "桌宠引擎",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-02T18:03:53.321042"
+    },
+    "2242100": {
+      "appid": 2242100,
+      "name": "Fargone",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-02T18:03:55.230477"
     }
   }
 }
