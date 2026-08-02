@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-08-02T15:04:00.941401"
+    "updated": "2026-08-02T16:08:03.656340"
   },
   "games": {
     "570": {
@@ -89858,6 +89858,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2026-08-02T02:23:41.029155"
+    },
+    "2237320": {
+      "appid": 2237320,
+      "name": "Dwarf Delve",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2026-08-02T16:08:00.121142"
     }
   }
 }
