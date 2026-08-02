@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-08-02T19:17:23.793260"
+    "updated": "2026-08-02T22:57:13.048068"
   },
   "games": {
     "570": {
@@ -322170,6 +322170,30 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-08-02T19:17:05.929267"
+    },
+    "2262630": {
+      "appid": 2262630,
+      "name": "Wish Upon A Llama",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-02T22:56:59.763367"
+    },
+    "2263250": {
+      "appid": 2263250,
+      "name": "A Song Of Sunlight",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-02T22:57:03.020619"
+    },
+    "2263290": {
+      "appid": 2263290,
+      "name": "Gravitaws",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-02T22:57:03.311588"
     }
   }
 }
