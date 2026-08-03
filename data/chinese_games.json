@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-08-03T13:43:06.291582"
+    "updated": "2026-08-03T16:25:33.671055"
   },
   "games": {
     "570": {
@@ -322202,6 +322202,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-08-03T13:42:31.965958"
+    },
+    "2295410": {
+      "appid": 2295410,
+      "name": "Ragnarok Survivors: Valhalla",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-03T16:25:21.820361"
     }
   }
 }
