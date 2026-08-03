@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-08-03T06:22:45.780966"
+    "updated": "2026-08-03T13:43:06.291582"
   },
   "games": {
     "570": {
@@ -322194,6 +322194,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-08-02T22:57:03.311588"
+    },
+    "2286070": {
+      "appid": 2286070,
+      "name": "Tale of REN ~ [Searching for HEART droplets] ~",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-03T13:42:31.965958"
     }
   }
 }
