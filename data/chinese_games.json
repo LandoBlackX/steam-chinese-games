@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-08-03T16:25:33.671055"
+    "updated": "2026-08-03T18:53:40.933513"
   },
   "games": {
     "570": {
@@ -322210,6 +322210,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-08-03T16:25:21.820361"
+    },
+    "2298650": {
+      "appid": 2298650,
+      "name": "Magnet Mania 3D",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-03T18:52:50.652595"
     }
   }
 }
