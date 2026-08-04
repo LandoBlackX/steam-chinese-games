@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-08-04T00:10:54.093279"
+    "updated": "2026-08-04T04:15:44.208697"
   },
   "games": {
     "570": {
@@ -89874,6 +89874,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2026-08-03T06:22:35.675949"
+    },
+    "2321860": {
+      "appid": 2321860,
+      "name": "8th Heaven",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2026-08-04T04:15:20.220525"
     }
   }
 }
