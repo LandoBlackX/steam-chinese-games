@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-08-04T19:31:13.730316"
+    "updated": "2026-08-04T21:13:22.645211"
   },
   "games": {
     "570": {
@@ -322234,6 +322234,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-08-04T19:30:53.990529"
+    },
+    "2359270": {
+      "appid": 2359270,
+      "name": "Bravest Chicken",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-04T21:13:21.753143"
     }
   }
 }
