@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-08-03T18:53:40.933513"
+    "updated": "2026-08-04T00:10:54.093279"
   },
   "games": {
     "570": {
@@ -322218,6 +322218,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-08-03T18:52:50.652595"
+    },
+    "2317640": {
+      "appid": 2317640,
+      "name": "JUMP KING QUEST",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-04T00:10:45.661419"
     }
   }
 }
