@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-08-05T21:10:58.772497"
+    "updated": "2026-08-05T23:01:47.259973"
   },
   "games": {
     "570": {
@@ -322282,6 +322282,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-08-05T21:10:29.278946"
+    },
+    "2415240": {
+      "appid": 2415240,
+      "name": "DNA疑云",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-05T23:01:05.660760"
     }
   }
 }
