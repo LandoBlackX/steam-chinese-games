@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-08-05T16:07:51.822362"
+    "updated": "2026-08-05T18:01:08.303790"
   },
   "games": {
     "570": {
@@ -322266,6 +322266,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-08-05T16:07:29.040730"
+    },
+    "2402470": {
+      "appid": 2402470,
+      "name": "World of Anterra",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-05T17:55:47.716842"
     }
   }
 }
