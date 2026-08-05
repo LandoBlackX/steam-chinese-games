@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-08-05T06:30:54.175531"
+    "updated": "2026-08-05T12:02:23.364435"
   },
   "games": {
     "570": {
@@ -322250,6 +322250,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-08-05T06:30:48.597069"
+    },
+    "2386000": {
+      "appid": 2386000,
+      "name": "果てのマキナ",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-05T12:02:09.945140"
     }
   }
 }
