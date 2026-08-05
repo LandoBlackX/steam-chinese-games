@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-08-05T12:02:23.364435"
+    "updated": "2026-08-05T16:07:51.822362"
   },
   "games": {
     "570": {
@@ -322258,6 +322258,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-08-05T12:02:09.945140"
+    },
+    "2395120": {
+      "appid": 2395120,
+      "name": "Milfvania Ep. 1",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-05T16:07:29.040730"
     }
   }
 }
