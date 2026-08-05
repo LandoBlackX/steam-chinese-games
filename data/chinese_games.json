@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-08-04T21:13:22.645211"
+    "updated": "2026-08-05T06:30:54.175531"
   },
   "games": {
     "570": {
@@ -322242,6 +322242,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-08-04T21:13:21.753143"
+    },
+    "2377480": {
+      "appid": 2377480,
+      "name": "Suds",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-05T06:30:48.597069"
     }
   }
 }
