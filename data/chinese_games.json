@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-08-05T23:01:47.259973"
+    "updated": "2026-08-06T00:08:52.567282"
   },
   "games": {
     "570": {
@@ -322290,6 +322290,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-08-05T23:01:05.660760"
+    },
+    "2420800": {
+      "appid": 2420800,
+      "name": "生死宇共",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-06T00:03:31.635922"
+    },
+    "2421430": {
+      "appid": 2421430,
+      "name": "War For Galaxy: New Era",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-06T00:03:36.553990"
     }
   }
 }
