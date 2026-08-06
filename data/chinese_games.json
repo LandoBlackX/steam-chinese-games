@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-08-06T05:56:21.294765"
+    "updated": "2026-08-06T16:22:14.647904"
   },
   "games": {
     "570": {
@@ -322314,6 +322314,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-08-06T05:51:03.140931"
+    },
+    "2451750": {
+      "appid": 2451750,
+      "name": "NOK",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-06T16:16:58.143657"
     }
   }
 }
