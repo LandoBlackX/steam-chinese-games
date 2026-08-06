@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-08-06T00:08:52.567282"
+    "updated": "2026-08-06T05:56:21.294765"
   },
   "games": {
     "570": {
@@ -322306,6 +322306,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-08-06T00:03:36.553990"
+    },
+    "2431730": {
+      "appid": 2431730,
+      "name": "V-Air Traffic Control",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-06T05:51:03.140931"
     }
   }
 }
