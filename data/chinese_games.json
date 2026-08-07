@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-08-07T22:43:12.639729"
+    "updated": "2026-08-07T23:42:58.375659"
   },
   "games": {
     "570": {
@@ -322426,6 +322426,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-08-07T22:37:55.956629"
+    },
+    "2558300": {
+      "appid": 2558300,
+      "name": "Netherwyn",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-07T23:42:57.854466"
     }
   }
 }
