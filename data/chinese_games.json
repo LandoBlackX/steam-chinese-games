@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-08-07T11:02:35.650453"
+    "updated": "2026-08-07T11:54:52.499596"
   },
   "games": {
     "570": {
@@ -322370,6 +322370,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-08-07T10:57:26.163334"
+    },
+    "2497570": {
+      "appid": 2497570,
+      "name": "AfterWar",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-07T11:49:35.269409"
     }
   }
 }
