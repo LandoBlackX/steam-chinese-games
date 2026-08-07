@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-08-07T10:09:31.212685"
+    "updated": "2026-08-07T11:02:35.650453"
   },
   "games": {
     "570": {
@@ -322362,6 +322362,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-08-07T10:04:24.546615"
+    },
+    "2490650": {
+      "appid": 2490650,
+      "name": "SuperNatural Market: Sell or Die",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-07T10:57:26.163334"
     }
   }
 }
