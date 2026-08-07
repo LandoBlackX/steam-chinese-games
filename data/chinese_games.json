@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-08-07T05:48:48.677072"
+    "updated": "2026-08-07T10:09:31.212685"
   },
   "games": {
     "570": {
@@ -322346,6 +322346,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-08-07T05:43:31.843868"
+    },
+    "2485430": {
+      "appid": 2485430,
+      "name": "Bullets & Brains",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-07T10:04:06.579415"
+    },
+    "2487190": {
+      "appid": 2487190,
+      "name": "Main Sequence",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-07T10:04:24.546615"
     }
   }
 }
