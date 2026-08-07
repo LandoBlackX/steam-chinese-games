@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-08-07T13:05:59.774878"
+    "updated": "2026-08-07T14:22:49.797007"
   },
   "games": {
     "570": {
@@ -322378,6 +322378,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-08-07T11:49:35.269409"
+    },
+    "2505430": {
+      "appid": 2505430,
+      "name": "Pickaxe Friends",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-07T14:17:24.786177"
     }
   }
 }
