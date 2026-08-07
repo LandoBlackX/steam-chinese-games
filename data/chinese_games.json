@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-08-06T16:22:14.647904"
+    "updated": "2026-08-07T00:51:11.272074"
   },
   "games": {
     "570": {
@@ -322322,6 +322322,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-08-06T16:16:58.143657"
+    },
+    "2458980": {
+      "appid": 2458980,
+      "name": "Dimhaven - The Lost Source",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-07T00:45:59.724266"
+    },
+    "2459030": {
+      "appid": 2459030,
+      "name": "Locator ：寻找阿比盖尔",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-07T00:45:59.860108"
     }
   }
 }
