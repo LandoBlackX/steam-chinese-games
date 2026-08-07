@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-08-07T00:51:11.272074"
+    "updated": "2026-08-07T05:48:48.677072"
   },
   "games": {
     "570": {
@@ -322338,6 +322338,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-08-07T00:45:59.860108"
+    },
+    "2467960": {
+      "appid": 2467960,
+      "name": "Mocap2D",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-07T05:43:31.843868"
     }
   }
 }

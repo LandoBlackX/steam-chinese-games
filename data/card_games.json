@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-08-07T00:51:11.272074"
+    "updated": "2026-08-07T05:48:48.677072"
   },
   "games": {
     "570": {
@@ -89882,6 +89882,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2026-08-04T04:15:20.220525"
+    },
+    "2469950": {
+      "appid": 2469950,
+      "name": "Siren's Call: Escape Velocity",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2026-08-07T05:43:37.972437"
     }
   }
 }
