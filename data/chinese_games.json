@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-08-07T20:02:51.692034"
+    "updated": "2026-08-07T21:47:44.810102"
   },
   "games": {
     "570": {
@@ -322402,6 +322402,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-08-07T19:57:27.466453"
+    },
+    "2542350": {
+      "appid": 2542350,
+      "name": "Masks of the Void: Origins",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-07T21:42:15.514908"
     }
   }
 }
