@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-08-07T18:56:39.500195"
+    "updated": "2026-08-07T20:02:51.692034"
   },
   "games": {
     "570": {
@@ -322394,6 +322394,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-08-07T18:56:13.768683"
+    },
+    "2532340": {
+      "appid": 2532340,
+      "name": "Unaware in The City",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-07T19:57:27.466453"
     }
   }
 }
