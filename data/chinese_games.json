@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-08-07T17:02:18.065233"
+    "updated": "2026-08-07T18:56:39.500195"
   },
   "games": {
     "570": {
@@ -322386,6 +322386,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-08-07T14:17:24.786177"
+    },
+    "2527160": {
+      "appid": 2527160,
+      "name": "桌面探索者",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-07T18:56:13.768683"
     }
   }
 }
