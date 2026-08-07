@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-08-07T11:54:52.499596"
+    "updated": "2026-08-07T13:05:59.774878"
   },
   "games": {
     "570": {
@@ -89890,6 +89890,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2026-08-07T05:43:37.972437"
+    },
+    "2499420": {
+      "appid": 2499420,
+      "name": "Broken Hearts Island",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2026-08-07T13:00:33.742507"
     }
   }
 }
