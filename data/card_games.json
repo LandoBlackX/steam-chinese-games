@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-08-07T14:22:49.797007"
+    "updated": "2026-08-07T17:02:18.065233"
   },
   "games": {
     "570": {
@@ -89898,6 +89898,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2026-08-07T13:00:33.742507"
+    },
+    "2517200": {
+      "appid": 2517200,
+      "name": "Repair this!",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2026-08-07T16:57:00.884468"
     }
   }
 }
