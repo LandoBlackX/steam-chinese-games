@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-08-08T15:38:23.341785"
+    "updated": "2026-08-08T16:40:40.576517"
   },
   "games": {
     "570": {
@@ -322522,6 +322522,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-08-08T15:32:58.243159"
+    },
+    "2637210": {
+      "appid": 2637210,
+      "name": "Flow Of War",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-08T16:35:35.588297"
     }
   }
 }
