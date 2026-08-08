@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-08-08T01:26:30.477451"
+    "updated": "2026-08-08T05:52:26.945349"
   },
   "games": {
     "570": {
@@ -322450,6 +322450,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-08-08T01:21:09.242778"
+    },
+    "2578960": {
+      "appid": 2578960,
+      "name": "孤胆少女",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-08T05:47:16.764420"
     }
   }
 }
