@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-08-08T18:39:31.312755"
+    "updated": "2026-08-08T19:34:36.460637"
   },
   "games": {
     "570": {
@@ -322546,6 +322546,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-08-08T18:39:11.800992"
+    },
+    "2654490": {
+      "appid": 2654490,
+      "name": "Relic Arena",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-08T19:34:34.489668"
     }
   }
 }
