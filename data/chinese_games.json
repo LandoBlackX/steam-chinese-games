@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-08-08T05:52:26.945349"
+    "updated": "2026-08-08T06:55:55.670015"
   },
   "games": {
     "570": {
@@ -322458,6 +322458,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-08-08T05:47:16.764420"
+    },
+    "2584400": {
+      "appid": 2584400,
+      "name": "旧途 Beaten Path",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-08T06:50:49.564120"
     }
   }
 }
