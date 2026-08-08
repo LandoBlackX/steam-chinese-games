@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-08-08T19:34:36.460637"
+    "updated": "2026-08-08T20:33:37.394957"
   },
   "games": {
     "570": {
@@ -322554,6 +322554,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-08-08T19:34:34.489668"
+    },
+    "2657320": {
+      "appid": 2657320,
+      "name": "Isle of Echoes",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-08T20:33:14.714853"
     }
   }
 }
