@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-08-07T23:42:58.375659"
+    "updated": "2026-08-08T01:26:30.477451"
   },
   "games": {
     "570": {
@@ -322434,6 +322434,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-08-07T23:42:57.854466"
+    },
+    "2559690": {
+      "appid": 2559690,
+      "name": "Draco and the Seven Scales",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-08T01:21:01.691941"
+    },
+    "2560720": {
+      "appid": 2560720,
+      "name": "Akasha: 32-MECHA",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-08T01:21:09.242778"
     }
   }
 }
