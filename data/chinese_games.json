@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-08-08T09:46:28.147503"
+    "updated": "2026-08-08T10:35:24.824968"
   },
   "games": {
     "570": {
@@ -322490,6 +322490,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-08-08T09:46:26.618072"
+    },
+    "2605790": {
+      "appid": 2605790,
+      "name": "深岩银河：异动核心",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-08T10:35:20.717745"
     }
   }
 }
