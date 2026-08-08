@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-08-08T11:37:03.444291"
+    "updated": "2026-08-08T12:51:02.070290"
   },
   "games": {
     "570": {
@@ -322506,6 +322506,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-08-08T11:31:51.849875"
+    },
+    "2614910": {
+      "appid": 2614910,
+      "name": "Dunchess",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-08T12:45:50.162530"
     }
   }
 }
