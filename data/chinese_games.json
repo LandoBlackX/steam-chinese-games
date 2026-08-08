@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-08-08T17:39:16.624568"
+    "updated": "2026-08-08T18:39:31.312755"
   },
   "games": {
     "570": {
@@ -322538,6 +322538,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-08-08T17:39:16.386764"
+    },
+    "2646170": {
+      "appid": 2646170,
+      "name": "My Arms Are Longer Now",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-08T18:39:11.800992"
     }
   }
 }
