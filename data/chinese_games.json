@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-08-08T10:35:24.824968"
+    "updated": "2026-08-08T11:37:03.444291"
   },
   "games": {
     "570": {
@@ -322498,6 +322498,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-08-08T10:35:20.717745"
+    },
+    "2608310": {
+      "appid": 2608310,
+      "name": "Hermit Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-08T11:31:51.849875"
     }
   }
 }
