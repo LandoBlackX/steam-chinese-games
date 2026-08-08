@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-08-08T06:55:55.670015"
+    "updated": "2026-08-08T09:46:28.147503"
   },
   "games": {
     "570": {
@@ -322466,6 +322466,30 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-08-08T06:50:49.564120"
+    },
+    "2597020": {
+      "appid": 2597020,
+      "name": "无心黑客",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-08T09:40:59.544481"
+    },
+    "2597810": {
+      "appid": 2597810,
+      "name": "Afallon",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-08T09:41:05.243323"
+    },
+    "2600970": {
+      "appid": 2600970,
+      "name": "Flawed Tactics",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-08T09:46:26.618072"
     }
   }
 }
