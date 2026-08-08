@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-08-08T16:40:40.576517"
+    "updated": "2026-08-08T17:39:16.624568"
   },
   "games": {
     "570": {
@@ -322530,6 +322530,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-08-08T16:35:35.588297"
+    },
+    "2644100": {
+      "appid": 2644100,
+      "name": "Allogloom",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-08T17:39:16.386764"
     }
   }
 }
