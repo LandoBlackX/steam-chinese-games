@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-08-09T14:40:28.519254"
+    "updated": "2026-08-09T15:37:02.884188"
   },
   "games": {
     "570": {
@@ -322610,6 +322610,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-08-09T14:40:09.627131"
+    },
+    "2740170": {
+      "appid": 2740170,
+      "name": "Horse Racing Manager",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-09T15:36:31.755328"
     }
   }
 }
