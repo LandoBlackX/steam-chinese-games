@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-08-09T10:39:03.776439"
+    "updated": "2026-08-09T11:33:48.335869"
   },
   "games": {
     "570": {
@@ -322594,6 +322594,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-08-09T10:38:54.438461"
+    },
+    "2722940": {
+      "appid": 2722940,
+      "name": "Agecraft",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-09T11:33:44.155893"
     }
   }
 }
