@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-08-08T20:33:37.394957"
+    "updated": "2026-08-09T06:00:05.672883"
   },
   "games": {
     "570": {
@@ -322562,6 +322562,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-08-08T20:33:14.714853"
+    },
+    "2692620": {
+      "appid": 2692620,
+      "name": "Hazard Pay",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-09T05:59:53.666038"
     }
   }
 }
