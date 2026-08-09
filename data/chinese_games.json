@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-08-09T06:00:05.672883"
+    "updated": "2026-08-09T06:57:14.241332"
   },
   "games": {
     "570": {
@@ -322570,6 +322570,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-08-09T05:59:53.666038"
+    },
+    "2699130": {
+      "appid": 2699130,
+      "name": "Network Euphoria",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-09T06:57:11.436225"
     }
   }
 }
