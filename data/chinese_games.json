@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-08-09T11:33:48.335869"
+    "updated": "2026-08-09T14:40:28.519254"
   },
   "games": {
     "570": {
@@ -322602,6 +322602,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-08-09T11:33:44.155893"
+    },
+    "2736110": {
+      "appid": 2736110,
+      "name": "Ant secret",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-09T14:40:09.627131"
     }
   }
 }
