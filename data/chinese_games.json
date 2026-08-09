@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-08-09T06:57:14.241332"
+    "updated": "2026-08-09T08:46:37.469331"
   },
   "games": {
     "570": {
@@ -322578,6 +322578,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-08-09T06:57:11.436225"
+    },
+    "2705650": {
+      "appid": 2705650,
+      "name": "Mithra",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-09T08:46:09.855038"
     }
   }
 }
