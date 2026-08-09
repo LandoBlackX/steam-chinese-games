@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-08-09T20:36:55.194888"
+    "updated": "2026-08-09T22:36:09.558514"
   },
   "games": {
     "570": {
@@ -322626,6 +322626,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-08-09T20:36:50.194866"
+    },
+    "2778220": {
+      "appid": 2778220,
+      "name": "彼岸的棕榈糖：只是一个印度故事",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-09T22:35:48.923811"
+    },
+    "2780040": {
+      "appid": 2780040,
+      "name": "破防打工妹♥死线节拍!!",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-09T22:35:54.711832"
     }
   }
 }
