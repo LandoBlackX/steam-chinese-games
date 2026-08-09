@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-08-09T08:46:37.469331"
+    "updated": "2026-08-09T10:39:03.776439"
   },
   "games": {
     "570": {
@@ -322586,6 +322586,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-08-09T08:46:09.855038"
+    },
+    "2716830": {
+      "appid": 2716830,
+      "name": "Don't Fret",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-09T10:38:54.438461"
     }
   }
 }
