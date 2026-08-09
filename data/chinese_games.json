@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-08-09T15:37:02.884188"
+    "updated": "2026-08-09T20:36:55.194888"
   },
   "games": {
     "570": {
@@ -322618,6 +322618,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-08-09T15:36:31.755328"
+    },
+    "2769570": {
+      "appid": 2769570,
+      "name": "神鬼寓言",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-09T20:36:50.194866"
     }
   }
 }
