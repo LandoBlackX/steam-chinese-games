@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-08-10T20:49:13.685224"
+    "updated": "2026-08-10T21:49:39.628357"
   },
   "games": {
     "570": {
@@ -322778,6 +322778,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-08-10T20:49:13.176487"
+    },
+    "2851770": {
+      "appid": 2851770,
+      "name": "奈落",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-10T21:49:14.556565"
+    },
+    "2852350": {
+      "appid": 2852350,
+      "name": "Racing: Breakthrough Gaming Arcade",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-10T21:49:26.599426"
     }
   }
 }
