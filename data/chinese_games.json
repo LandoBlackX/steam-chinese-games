@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-08-10T11:15:36.285932"
+    "updated": "2026-08-10T13:09:00.950885"
   },
   "games": {
     "570": {
@@ -322714,6 +322714,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-08-10T11:15:28.475946"
+    },
+    "2818410": {
+      "appid": 2818410,
+      "name": "Factory Tower",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-10T13:08:46.054089"
+    },
+    "2819110": {
+      "appid": 2819110,
+      "name": "The Chronicles of Lancelot GOLD",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-10T13:08:50.241461"
     }
   }
 }
