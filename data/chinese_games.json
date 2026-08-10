@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-08-10T09:26:04.911596"
+    "updated": "2026-08-10T11:15:36.285932"
   },
   "games": {
     "570": {
@@ -322698,6 +322698,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-08-10T09:25:48.350465"
+    },
+    "2812120": {
+      "appid": 2812120,
+      "name": "Clock Rogue",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-10T11:15:17.717937"
+    },
+    "2814880": {
+      "appid": 2814880,
+      "name": "Synchro",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-10T11:15:28.475946"
     }
   }
 }
