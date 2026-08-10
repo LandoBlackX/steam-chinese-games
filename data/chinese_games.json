@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-08-10T01:31:12.967480"
+    "updated": "2026-08-10T05:34:04.606521"
   },
   "games": {
     "570": {
@@ -322666,6 +322666,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-08-10T01:31:07.291858"
+    },
+    "2797460": {
+      "appid": 2797460,
+      "name": "RaceOnLife",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-10T05:33:25.755939"
     }
   }
 }
