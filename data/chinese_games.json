@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-08-09T22:36:09.558514"
+    "updated": "2026-08-10T01:31:12.967480"
   },
   "games": {
     "570": {
@@ -322642,6 +322642,30 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-08-09T22:35:54.711832"
+    },
+    "2786760": {
+      "appid": 2786760,
+      "name": "Another Door",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-10T01:30:46.747668"
+    },
+    "2786890": {
+      "appid": 2786890,
+      "name": "Perfect Castle",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-10T01:30:47.417276"
+    },
+    "2789810": {
+      "appid": 2789810,
+      "name": "疯狂轮盘 / Bingle Bingle",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-10T01:31:07.291858"
     }
   }
 }
