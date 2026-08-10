@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-08-10T17:03:36.142503"
+    "updated": "2026-08-10T18:00:29.747746"
   },
   "games": {
     "570": {
@@ -322754,6 +322754,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-08-10T17:03:31.795167"
+    },
+    "2836500": {
+      "appid": 2836500,
+      "name": "Mattami Restaurant & Cafe Tycoon",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-10T18:00:16.239503"
     }
   }
 }
