@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-08-10T18:00:29.747746"
+    "updated": "2026-08-10T19:03:11.412503"
   },
   "games": {
     "570": {
@@ -322762,6 +322762,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-08-10T18:00:16.239503"
+    },
+    "2840000": {
+      "appid": 2840000,
+      "name": "破幕荧光",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-10T19:02:48.377628"
     }
   }
 }
