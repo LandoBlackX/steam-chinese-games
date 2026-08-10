@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-08-10T07:33:55.079898"
+    "updated": "2026-08-10T09:26:04.911596"
   },
   "games": {
     "570": {
@@ -322690,6 +322690,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-08-10T07:33:51.569803"
+    },
+    "2807250": {
+      "appid": 2807250,
+      "name": "My Friend's Family (Captain Kitty)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-10T09:25:48.350465"
     }
   }
 }
