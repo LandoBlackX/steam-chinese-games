@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-08-10T13:09:00.950885"
+    "updated": "2026-08-10T14:30:48.939611"
   },
   "games": {
     "570": {
@@ -322730,6 +322730,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-08-10T13:08:50.241461"
+    },
+    "2822770": {
+      "appid": 2822770,
+      "name": "Dead Faces",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-10T14:30:32.897503"
     }
   }
 }
