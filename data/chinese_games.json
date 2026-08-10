@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-08-10T05:34:04.606521"
+    "updated": "2026-08-10T07:33:55.079898"
   },
   "games": {
     "570": {
@@ -322674,6 +322674,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-08-10T05:33:25.755939"
+    },
+    "2805070": {
+      "appid": 2805070,
+      "name": "Screenbound",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-10T07:33:51.186695"
+    },
+    "2805140": {
+      "appid": 2805140,
+      "name": "Football: Breakthrough Gaming Arcade",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-10T07:33:51.569803"
     }
   }
 }
