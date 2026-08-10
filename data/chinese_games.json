@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-08-10T19:03:11.412503"
+    "updated": "2026-08-10T20:49:13.685224"
   },
   "games": {
     "570": {
@@ -322770,6 +322770,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-08-10T19:02:48.377628"
+    },
+    "2850560": {
+      "appid": 2850560,
+      "name": "昨日头条",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-10T20:49:13.176487"
     }
   }
 }
