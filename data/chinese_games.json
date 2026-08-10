@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-08-10T14:30:48.939611"
+    "updated": "2026-08-10T16:09:23.925166"
   },
   "games": {
     "570": {
@@ -322738,6 +322738,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-08-10T14:30:32.897503"
+    },
+    "2827820": {
+      "appid": 2827820,
+      "name": "The Relic: First Guardian",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-10T16:09:10.824607"
     }
   }
 }
