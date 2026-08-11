@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-08-11T03:51:38.826249"
+    "updated": "2026-08-11T07:11:08.844361"
   },
   "games": {
     "570": {
@@ -322834,6 +322834,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-08-11T03:51:36.119509"
+    },
+    "2879790": {
+      "appid": 2879790,
+      "name": "Son of Thanjai",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-11T07:10:49.075838"
     }
   }
 }
