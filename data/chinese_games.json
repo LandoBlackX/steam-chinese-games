@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-08-11T19:09:22.686878"
+    "updated": "2026-08-11T22:49:58.594234"
   },
   "games": {
     "570": {
@@ -322906,6 +322906,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-08-11T19:09:02.917016"
+    },
+    "2939510": {
+      "appid": 2939510,
+      "name": "与森为邻",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-11T22:49:40.332702"
+    },
+    "2941450": {
+      "appid": 2941450,
+      "name": "Steal Deal",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-11T22:49:51.040680"
     }
   }
 }
