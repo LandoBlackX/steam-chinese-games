@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-08-11T07:11:08.844361"
+    "updated": "2026-08-11T11:53:20.823248"
   },
   "games": {
     "570": {
@@ -322842,6 +322842,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-08-11T07:10:49.075838"
+    },
+    "2895170": {
+      "appid": 2895170,
+      "name": "Circulation",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-11T11:53:06.541818"
+    },
+    "2897580": {
+      "appid": 2897580,
+      "name": "放置英雄TD:塔防RPG (Idle Hero TD)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-11T11:53:15.485325"
     }
   }
 }
