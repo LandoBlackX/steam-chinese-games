@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-08-11T16:09:35.159335"
+    "updated": "2026-08-11T17:07:43.303828"
   },
   "games": {
     "570": {
@@ -322874,6 +322874,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-08-11T16:09:15.437832"
+    },
+    "2914110": {
+      "appid": 2914110,
+      "name": "Carrot Commotion",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-11T17:07:21.391727"
     }
   }
 }
