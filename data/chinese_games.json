@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-08-11T14:30:29.135019"
+    "updated": "2026-08-11T16:09:35.159335"
   },
   "games": {
     "570": {
@@ -322866,6 +322866,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-08-11T14:30:09.706724"
+    },
+    "2908050": {
+      "appid": 2908050,
+      "name": "猫猫邮局",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-11T16:09:15.437832"
     }
   }
 }
