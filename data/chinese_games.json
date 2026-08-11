@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-08-11T01:30:40.391226"
+    "updated": "2026-08-11T03:51:38.826249"
   },
   "games": {
     "570": {
@@ -322810,6 +322810,30 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-08-11T01:30:35.905613"
+    },
+    "2868790": {
+      "appid": 2868790,
+      "name": "一只狗的日子",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-11T03:51:18.668896"
+    },
+    "2870550": {
+      "appid": 2870550,
+      "name": "Galactic Love Utopia",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-11T03:51:25.229976"
+    },
+    "2872810": {
+      "appid": 2872810,
+      "name": "4 Kingdoms Supremacy",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-11T03:51:36.119509"
     }
   }
 }
