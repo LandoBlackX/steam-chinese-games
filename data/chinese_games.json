@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-08-12T12:04:05.622744"
+    "updated": "2026-08-12T17:10:13.611517"
   },
   "games": {
     "570": {
@@ -322970,6 +322970,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-08-12T12:03:45.675079"
+    },
+    "3139440": {
+      "appid": 3139440,
+      "name": "GunZ: The Duel",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-12T17:09:54.957284"
     }
   }
 }
