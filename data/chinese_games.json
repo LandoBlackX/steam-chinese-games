@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-08-12T01:39:52.056681"
+    "updated": "2026-08-12T04:15:35.261109"
   },
   "games": {
     "570": {
@@ -322930,6 +322930,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-08-12T01:39:40.218655"
+    },
+    "2950640": {
+      "appid": 2950640,
+      "name": "Reaktor",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-12T04:15:34.292441"
     }
   }
 }
