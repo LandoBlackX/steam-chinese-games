@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-08-12T04:15:35.261109"
+    "updated": "2026-08-12T06:23:11.403453"
   },
   "games": {
     "570": {
@@ -322938,6 +322938,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-08-12T04:15:34.292441"
+    },
+    "2954090": {
+      "appid": 2954090,
+      "name": "Nion Forge",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-12T06:23:05.066789"
     }
   }
 }
