@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-08-12T18:11:45.964907"
+    "updated": "2026-08-12T20:16:23.067244"
   },
   "games": {
     "570": {
@@ -323002,6 +323002,30 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-08-12T18:11:35.352749"
+    },
+    "3150160": {
+      "appid": 3150160,
+      "name": "Another Pint",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-12T20:16:07.095057"
+    },
+    "3151220": {
+      "appid": 3151220,
+      "name": "Bot slash Bot",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-12T20:16:13.454775"
+    },
+    "3151360": {
+      "appid": 3151360,
+      "name": "Agni: Village of Calamity",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-12T20:16:14.843260"
     }
   }
 }
