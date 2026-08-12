@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-08-12T20:16:23.067244"
+    "updated": "2026-08-12T21:08:23.048078"
   },
   "games": {
     "570": {
@@ -323026,6 +323026,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-08-12T20:16:14.843260"
+    },
+    "3152750": {
+      "appid": 3152750,
+      "name": "灵伴世界",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-12T21:08:01.254500"
     }
   }
 }
