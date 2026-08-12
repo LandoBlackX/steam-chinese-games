@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-08-12T17:10:13.611517"
+    "updated": "2026-08-12T18:11:45.964907"
   },
   "games": {
     "570": {
@@ -322978,6 +322978,30 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-08-12T17:09:54.957284"
+    },
+    "3143000": {
+      "appid": 3143000,
+      "name": "Dr. Priori’s Time Escape",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-12T18:11:24.030259"
+    },
+    "3143910": {
+      "appid": 3143910,
+      "name": "纹身清除模拟器",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-12T18:11:30.719457"
+    },
+    "3144430": {
+      "appid": 3144430,
+      "name": "行星矿业",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-12T18:11:35.352749"
     }
   }
 }
