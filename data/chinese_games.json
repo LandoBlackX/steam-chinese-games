@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-08-12T21:57:01.927290"
+    "updated": "2026-08-12T23:52:52.931983"
   },
   "games": {
     "570": {
@@ -323050,6 +323050,38 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-08-12T21:56:59.142453"
+    },
+    "3163480": {
+      "appid": 3163480,
+      "name": "Gearo Shard",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-12T23:52:37.730443"
+    },
+    "3164310": {
+      "appid": 3164310,
+      "name": "Verde ",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-12T23:52:42.633732"
+    },
+    "3165210": {
+      "appid": 3165210,
+      "name": "锐评Vtuber！键盘侠模拟",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-12T23:52:45.813187"
+    },
+    "3166730": {
+      "appid": 3166730,
+      "name": "Forest Time",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-12T23:52:51.209047"
     }
   }
 }
