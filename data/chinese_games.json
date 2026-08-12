@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-08-12T11:12:18.319692"
+    "updated": "2026-08-12T12:04:05.622744"
   },
   "games": {
     "570": {
@@ -322962,6 +322962,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-08-12T11:12:05.656386"
+    },
+    "2968860": {
+      "appid": 2968860,
+      "name": "Palpus X Annihilation",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-12T12:03:45.675079"
     }
   }
 }
