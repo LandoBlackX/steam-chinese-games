@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-08-12T08:25:56.003426"
+    "updated": "2026-08-12T11:12:18.319692"
   },
   "games": {
     "570": {
@@ -322954,6 +322954,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-08-12T08:25:45.850324"
+    },
+    "2964550": {
+      "appid": 2964550,
+      "name": "VR Realms",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-12T11:12:05.656386"
     }
   }
 }
