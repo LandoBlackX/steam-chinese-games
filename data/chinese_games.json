@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-08-12T21:08:23.048078"
+    "updated": "2026-08-12T21:57:01.927290"
   },
   "games": {
     "570": {
@@ -323034,6 +323034,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-08-12T21:08:01.254500"
+    },
+    "3157380": {
+      "appid": 3157380,
+      "name": "汪者远征",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-12T21:56:41.483170"
+    },
+    "3159750": {
+      "appid": 3159750,
+      "name": "奶头乐TV",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-12T21:56:59.142453"
     }
   }
 }
