@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-08-11T22:49:58.594234"
+    "updated": "2026-08-12T01:39:52.056681"
   },
   "games": {
     "570": {
@@ -322922,6 +322922,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-08-11T22:49:51.040680"
+    },
+    "2944490": {
+      "appid": 2944490,
+      "name": "A Dungeon Is You",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-12T01:39:40.218655"
     }
   }
 }
