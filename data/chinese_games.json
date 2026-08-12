@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-08-12T06:23:11.403453"
+    "updated": "2026-08-12T08:25:56.003426"
   },
   "games": {
     "570": {
@@ -322946,6 +322946,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-08-12T06:23:05.066789"
+    },
+    "2956400": {
+      "appid": 2956400,
+      "name": "Break Games",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-12T08:25:45.850324"
     }
   }
 }
