@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-08-13T18:11:33.623519"
+    "updated": "2026-08-13T19:14:16.577477"
   },
   "games": {
     "570": {
@@ -323186,6 +323186,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-08-13T18:11:24.528583"
+    },
+    "3206220": {
+      "appid": 3206220,
+      "name": "BRAINSHELL",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-13T19:14:02.906857"
+    },
+    "3207340": {
+      "appid": 3207340,
+      "name": "Hide and Sheep",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-13T19:14:11.359878"
     }
   }
 }
