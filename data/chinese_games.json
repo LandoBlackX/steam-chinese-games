@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-08-13T22:53:11.805349"
+    "updated": "2026-08-13T23:53:00.005689"
   },
   "games": {
     "570": {
@@ -323242,6 +323242,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-08-13T22:53:06.735353"
+    },
+    "3223160": {
+      "appid": 3223160,
+      "name": "Apocalypse Express",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-13T23:52:49.430750"
+    },
+    "3224540": {
+      "appid": 3224540,
+      "name": "VOIDFACE",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-13T23:52:54.422998"
     }
   }
 }
