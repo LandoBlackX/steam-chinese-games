@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-08-13T01:45:01.456339"
+    "updated": "2026-08-13T10:15:51.424808"
   },
   "games": {
     "570": {
@@ -323106,6 +323106,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-08-13T01:44:45.165572"
+    },
+    "3184730": {
+      "appid": 3184730,
+      "name": "Find Us Cats",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-13T10:15:44.759266"
+    },
+    "3185880": {
+      "appid": 3185880,
+      "name": "Wish Of Hers",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-13T10:15:48.870462"
     }
   }
 }
