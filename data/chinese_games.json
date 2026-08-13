@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-08-13T20:53:54.615113"
+    "updated": "2026-08-13T21:56:37.921938"
   },
   "games": {
     "570": {
@@ -323218,6 +323218,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-08-13T20:53:45.572938"
+    },
+    "3216340": {
+      "appid": 3216340,
+      "name": "Tearscape",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-13T21:56:29.158100"
+    },
+    "3218880": {
+      "appid": 3218880,
+      "name": "The Succession of Changing Kings",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-13T21:56:37.819754"
     }
   }
 }
