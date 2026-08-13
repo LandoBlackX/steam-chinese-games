@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-08-13T10:15:51.424808"
+    "updated": "2026-08-13T13:15:52.328947"
   },
   "games": {
     "570": {
@@ -323122,6 +323122,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-08-13T10:15:48.870462"
+    },
+    "3191170": {
+      "appid": 3191170,
+      "name": "Clover's Quadrants",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-13T13:15:18.761345"
+    },
+    "3192590": {
+      "appid": 3192590,
+      "name": "结晶姬的迷宫",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-13T13:15:46.891978"
     }
   }
 }
