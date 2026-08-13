@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-08-13T13:15:52.328947"
+    "updated": "2026-08-13T16:11:44.848077"
   },
   "games": {
     "570": {
@@ -323138,6 +323138,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-08-13T13:15:46.891978"
+    },
+    "3195440": {
+      "appid": 3195440,
+      "name": "欢迎来到古原镇",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-13T16:11:38.003804"
     }
   }
 }
