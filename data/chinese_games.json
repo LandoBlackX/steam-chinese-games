@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-08-13T17:09:07.456591"
+    "updated": "2026-08-13T18:11:33.623519"
   },
   "games": {
     "570": {
@@ -323178,6 +323178,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-08-13T17:09:07.084238"
+    },
+    "3204240": {
+      "appid": 3204240,
+      "name": "The Tale of Relm",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-13T18:11:24.528583"
     }
   }
 }
