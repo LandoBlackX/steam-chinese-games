@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-08-13T16:11:44.848077"
+    "updated": "2026-08-13T17:09:07.456591"
   },
   "games": {
     "570": {
@@ -323146,6 +323146,38 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-08-13T16:11:38.003804"
+    },
+    "3199470": {
+      "appid": 3199470,
+      "name": "炎拳天使",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-13T17:08:57.973966"
+    },
+    "3200520": {
+      "appid": 3200520,
+      "name": "Banban's Garten: Distorting Clay",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-13T17:09:03.029874"
+    },
+    "3200960": {
+      "appid": 3200960,
+      "name": "Sinful Gods",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-13T17:09:06.018139"
+    },
+    "3201240": {
+      "appid": 3201240,
+      "name": "Dig Night",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-13T17:09:07.084238"
     }
   }
 }
