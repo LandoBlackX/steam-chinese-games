@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-08-13T20:12:16.135260"
+    "updated": "2026-08-13T20:53:54.615113"
   },
   "games": {
     "570": {
@@ -323210,6 +323210,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-08-13T20:12:11.021236"
+    },
+    "3212160": {
+      "appid": 3212160,
+      "name": "Deepscape Inc",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-13T20:53:45.572938"
     }
   }
 }
