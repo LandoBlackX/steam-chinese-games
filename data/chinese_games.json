@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-08-12T23:52:52.931983"
+    "updated": "2026-08-13T01:45:01.456339"
   },
   "games": {
     "570": {
@@ -323082,6 +323082,30 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-08-12T23:52:51.209047"
+    },
+    "3167800": {
+      "appid": 3167800,
+      "name": "Therapy",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-13T01:44:44.848769"
+    },
+    "3167810": {
+      "appid": 3167810,
+      "name": "Monitor",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-13T01:44:44.986940"
+    },
+    "3167820": {
+      "appid": 3167820,
+      "name": "Resplendent",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-13T01:44:45.165572"
     }
   }
 }
