@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-08-13T19:14:16.577477"
+    "updated": "2026-08-13T20:12:16.135260"
   },
   "games": {
     "570": {
@@ -323202,6 +323202,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-08-13T19:14:11.359878"
+    },
+    "3210330": {
+      "appid": 3210330,
+      "name": "Orbi Universo II",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-13T20:12:11.021236"
     }
   }
 }
