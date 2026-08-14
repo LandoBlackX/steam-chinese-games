@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-08-13T23:53:00.005689"
+    "updated": "2026-08-14T06:26:53.036591"
   },
   "games": {
     "570": {
@@ -323258,6 +323258,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-08-13T23:52:54.422998"
+    },
+    "3233740": {
+      "appid": 3233740,
+      "name": "TetriMatch",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-14T06:26:39.097773"
+    },
+    "3234850": {
+      "appid": 3234850,
+      "name": "HYPERWIRED",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-14T06:26:46.584480"
     }
   }
 }

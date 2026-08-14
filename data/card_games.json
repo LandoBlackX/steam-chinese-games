@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-08-13T23:53:00.005689"
+    "updated": "2026-08-14T06:26:53.036591"
   },
   "games": {
     "570": {
@@ -89922,6 +89922,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2026-08-13T17:09:01.939779"
+    },
+    "3234760": {
+      "appid": 3234760,
+      "name": "Orange Roulette",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2026-08-14T06:26:46.004297"
     }
   }
 }
