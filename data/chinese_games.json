@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-08-14T19:03:47.859052"
+    "updated": "2026-08-14T20:43:38.819740"
   },
   "games": {
     "570": {
@@ -323362,6 +323362,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-08-14T19:03:36.822389"
+    },
+    "3281300": {
+      "appid": 3281300,
+      "name": "DUNGEON RAZE",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-14T20:43:31.795798"
     }
   }
 }
