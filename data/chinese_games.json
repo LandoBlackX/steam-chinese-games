@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-08-14T11:57:52.844630"
+    "updated": "2026-08-14T14:31:01.764560"
   },
   "games": {
     "570": {
@@ -323282,6 +323282,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-08-14T11:57:44.029792"
+    },
+    "3256890": {
+      "appid": 3256890,
+      "name": "Flexible Frosty",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-14T14:30:50.453000"
     }
   }
 }
