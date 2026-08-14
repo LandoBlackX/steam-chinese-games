@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-08-14T17:07:31.201449"
+    "updated": "2026-08-14T18:05:43.414871"
   },
   "games": {
     "570": {
@@ -323346,6 +323346,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-08-14T17:07:21.648967"
+    },
+    "3267760": {
+      "appid": 3267760,
+      "name": "律动少女：One More Mix",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-14T18:05:31.710506"
     }
   }
 }
