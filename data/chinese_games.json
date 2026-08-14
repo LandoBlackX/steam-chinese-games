@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-08-14T20:43:38.819740"
+    "updated": "2026-08-14T23:35:12.775996"
   },
   "games": {
     "570": {
@@ -323370,6 +323370,30 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-08-14T20:43:31.795798"
+    },
+    "3292270": {
+      "appid": 3292270,
+      "name": "Project MT",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-14T23:35:03.278017"
+    },
+    "3292500": {
+      "appid": 3292500,
+      "name": "Anathema's Symphony",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-14T23:35:04.168633"
+    },
+    "3292730": {
+      "appid": 3292730,
+      "name": "Death In Your Dice",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-14T23:35:06.019473"
     }
   }
 }
