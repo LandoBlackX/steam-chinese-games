@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-08-14T06:26:53.036591"
+    "updated": "2026-08-14T11:57:52.844630"
   },
   "games": {
     "570": {
@@ -323274,6 +323274,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-08-14T06:26:46.584480"
+    },
+    "3248310": {
+      "appid": 3248310,
+      "name": "Karting of Banban",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-14T11:57:44.029792"
     }
   }
 }
