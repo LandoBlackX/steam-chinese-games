@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-08-14T16:03:28.936839"
+    "updated": "2026-08-14T17:07:31.201449"
   },
   "games": {
     "570": {
@@ -323298,6 +323298,54 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-08-14T16:03:24.468479"
+    },
+    "3263540": {
+      "appid": 3263540,
+      "name": "The Beautiful Game - Book One",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-14T17:07:11.653059"
+    },
+    "3264250": {
+      "appid": 3264250,
+      "name": "Knights of the Apocalypse",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-14T17:07:14.071013"
+    },
+    "3264630": {
+      "appid": 3264630,
+      "name": "Astral Enterprises",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-14T17:07:16.816010"
+    },
+    "3264960": {
+      "appid": 3264960,
+      "name": "Cardburners",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-14T17:07:19.550515"
+    },
+    "3265100": {
+      "appid": 3265100,
+      "name": "UNSHAKEN",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-14T17:07:20.803159"
+    },
+    "3265290": {
+      "appid": 3265290,
+      "name": "Swan Song",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-14T17:07:21.648967"
     }
   }
 }
