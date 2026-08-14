@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-08-14T14:31:01.764560"
+    "updated": "2026-08-14T16:03:28.936839"
   },
   "games": {
     "570": {
@@ -323290,6 +323290,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-08-14T14:30:50.453000"
+    },
+    "3262520": {
+      "appid": 3262520,
+      "name": "Victory of Seeker",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-14T16:03:24.468479"
     }
   }
 }
