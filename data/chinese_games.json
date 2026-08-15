@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-08-15T03:52:58.341472"
+    "updated": "2026-08-15T04:43:31.591306"
   },
   "games": {
     "570": {
@@ -323426,6 +323426,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-08-15T03:52:32.661232"
+    },
+    "3304580": {
+      "appid": 3304580,
+      "name": "AUTO-CRISIS",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-15T04:43:14.111725"
+    },
+    "3305540": {
+      "appid": 3305540,
+      "name": "A Night Duty",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-15T04:43:29.604852"
     }
   }
 }
