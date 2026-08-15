@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-08-15T16:38:09.950844"
+    "updated": "2026-08-15T17:36:22.717235"
   },
   "games": {
     "570": {
@@ -323538,6 +323538,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-08-15T16:37:59.306612"
+    },
+    "3344740": {
+      "appid": 3344740,
+      "name": "Hunk Empire",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-15T17:36:07.494823"
     }
   }
 }
