@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-08-15T18:40:51.609183"
+    "updated": "2026-08-15T19:38:23.808509"
   },
   "games": {
     "570": {
@@ -323554,6 +323554,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-08-15T18:40:51.131677"
+    },
+    "3349190": {
+      "appid": 3349190,
+      "name": "Luminora: Tides Of Colors",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-15T19:38:01.271873"
+    },
+    "3349520": {
+      "appid": 3349520,
+      "name": "Iris Dissolution",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-15T19:38:02.809140"
     }
   }
 }
