@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-08-15T01:15:10.819184"
+    "updated": "2026-08-15T03:52:58.341472"
   },
   "games": {
     "570": {
@@ -323418,6 +323418,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-08-15T01:15:10.070929"
+    },
+    "3302140": {
+      "appid": 3302140,
+      "name": "Gatestodian",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-15T03:52:32.661232"
     }
   }
 }
