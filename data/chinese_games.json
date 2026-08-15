@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-08-15T13:45:35.009086"
+    "updated": "2026-08-15T14:36:20.486569"
   },
   "games": {
     "570": {
@@ -323506,6 +323506,30 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-08-15T13:45:24.641291"
+    },
+    "3334170": {
+      "appid": 3334170,
+      "name": "咩咩狂想曲",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-15T14:36:02.590531"
+    },
+    "3335460": {
+      "appid": 3335460,
+      "name": "断剑：烟镜",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-15T14:36:05.995640"
+    },
+    "3336670": {
+      "appid": 3336670,
+      "name": "[AFANTASIA]",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-15T14:36:19.551056"
     }
   }
 }
