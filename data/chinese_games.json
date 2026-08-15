@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-08-15T19:38:23.808509"
+    "updated": "2026-08-15T21:36:22.817246"
   },
   "games": {
     "570": {
@@ -323570,6 +323570,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-08-15T19:38:02.809140"
+    },
+    "3355070": {
+      "appid": 3355070,
+      "name": "安布鲁瓦兹与收获之钟",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-15T21:36:10.512009"
+    },
+    "3356440": {
+      "appid": 3356440,
+      "name": "Fleshbound",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-15T21:36:16.630016"
     }
   }
 }
