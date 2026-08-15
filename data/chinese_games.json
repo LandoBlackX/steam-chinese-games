@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-08-15T10:37:01.366979"
+    "updated": "2026-08-15T11:34:49.845843"
   },
   "games": {
     "570": {
@@ -323490,6 +323490,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-08-15T10:37:01.226953"
+    },
+    "3327120": {
+      "appid": 3327120,
+      "name": "Dreadline Express",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-15T11:34:44.775954"
     }
   }
 }
