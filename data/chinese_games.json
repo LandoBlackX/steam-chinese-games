@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-08-15T06:49:00.262118"
+    "updated": "2026-08-15T09:40:17.803652"
   },
   "games": {
     "570": {
@@ -323458,6 +323458,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-08-15T06:48:56.246700"
+    },
+    "3319380": {
+      "appid": 3319380,
+      "name": "GEMINI SYNDRXME",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-15T09:40:06.072227"
+    },
+    "3321290": {
+      "appid": 3321290,
+      "name": "Cold Sweat",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-15T09:40:13.736027"
     }
   }
 }
