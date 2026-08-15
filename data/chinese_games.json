@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-08-15T14:36:20.486569"
+    "updated": "2026-08-15T16:38:09.950844"
   },
   "games": {
     "570": {
@@ -323530,6 +323530,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-08-15T14:36:19.551056"
+    },
+    "3340810": {
+      "appid": 3340810,
+      "name": "王国英雄：失落传说3",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-15T16:37:59.306612"
     }
   }
 }
