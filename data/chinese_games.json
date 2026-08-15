@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-08-15T11:34:49.845843"
+    "updated": "2026-08-15T13:45:35.009086"
   },
   "games": {
     "570": {
@@ -323498,6 +323498,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-08-15T11:34:44.775954"
+    },
+    "3331580": {
+      "appid": 3331580,
+      "name": "The Chronicles of Lancelot 2 - The Adventure to Avalon",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-15T13:45:24.641291"
     }
   }
 }
