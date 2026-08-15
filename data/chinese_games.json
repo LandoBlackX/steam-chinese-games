@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-08-14T23:35:12.775996"
+    "updated": "2026-08-15T01:15:10.819184"
   },
   "games": {
     "570": {
@@ -323394,6 +323394,30 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-08-14T23:35:06.019473"
+    },
+    "3294440": {
+      "appid": 3294440,
+      "name": "Memoirium",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-15T01:14:48.767928"
+    },
+    "3294880": {
+      "appid": 3294880,
+      "name": "不安ごと - 不安事 -",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-15T01:14:50.441684"
+    },
+    "3297110": {
+      "appid": 3297110,
+      "name": "阿内莫莉 Anemorie",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-15T01:15:10.070929"
     }
   }
 }

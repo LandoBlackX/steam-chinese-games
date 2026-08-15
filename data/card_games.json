@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-08-14T23:35:12.775996"
+    "updated": "2026-08-15T01:15:10.819184"
   },
   "games": {
     "570": {
@@ -89930,6 +89930,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2026-08-14T06:26:46.004297"
+    },
+    "3297210": {
+      "appid": 3297210,
+      "name": "Project Mnemosyne",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2026-08-15T01:15:10.504121"
     }
   }
 }
