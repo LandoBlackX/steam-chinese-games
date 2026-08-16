@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-08-15T21:36:22.817246"
+    "updated": "2026-08-16T02:42:58.666428"
   },
   "games": {
     "570": {
@@ -323586,6 +323586,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-08-15T21:36:16.630016"
+    },
+    "3367020": {
+      "appid": 3367020,
+      "name": "UNGALAND!",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-16T02:42:51.046968"
     }
   }
 }
