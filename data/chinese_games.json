@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-08-16T04:03:42.880430"
+    "updated": "2026-08-16T04:50:36.973072"
   },
   "games": {
     "570": {
@@ -323602,6 +323602,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-08-16T04:03:37.928464"
+    },
+    "3372980": {
+      "appid": 3372980,
+      "name": "摩天法师塔 Tower Wizard",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-16T04:50:20.215371"
     }
   }
 }
