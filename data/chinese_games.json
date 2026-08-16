@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-08-16T20:38:10.052904"
+    "updated": "2026-08-16T22:37:43.079224"
   },
   "games": {
     "570": {
@@ -323682,6 +323682,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-08-16T20:30:33.198241"
+    },
+    "2998920": {
+      "appid": 2998920,
+      "name": "Port of Jumanah",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-16T22:29:49.466042"
     }
   }
 }
