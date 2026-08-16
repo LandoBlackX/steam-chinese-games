@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-08-16T05:43:22.424515"
+    "updated": "2026-08-16T06:51:43.179659"
   },
   "games": {
     "570": {
@@ -323626,6 +323626,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-08-16T05:43:20.242748"
+    },
+    "3380700": {
+      "appid": 3380700,
+      "name": "Papercraft Tactics",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-16T06:51:40.084270"
     }
   }
 }
