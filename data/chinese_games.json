@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-08-16T18:39:33.143022"
+    "updated": "2026-08-16T20:38:10.052904"
   },
   "games": {
     "570": {
@@ -323666,6 +323666,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-08-16T18:25:36.957301"
+    },
+    "2994940": {
+      "appid": 2994940,
+      "name": "STEM Defense",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-16T20:30:15.229744"
+    },
+    "2996390": {
+      "appid": 2996390,
+      "name": "Scavenged By Sunset",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-16T20:30:33.198241"
     }
   }
 }
