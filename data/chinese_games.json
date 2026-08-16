@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-08-16T02:42:58.666428"
+    "updated": "2026-08-16T04:03:42.880430"
   },
   "games": {
     "570": {
@@ -323594,6 +323594,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-08-16T02:42:51.046968"
+    },
+    "3370950": {
+      "appid": 3370950,
+      "name": "Phantom Demon Siege",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-16T04:03:37.928464"
     }
   }
 }
