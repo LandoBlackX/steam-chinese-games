@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-08-16T04:50:36.973072"
+    "updated": "2026-08-16T05:43:22.424515"
   },
   "games": {
     "570": {
@@ -323610,6 +323610,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-08-16T04:50:20.215371"
+    },
+    "3375110": {
+      "appid": 3375110,
+      "name": "Tiny Eden",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-16T05:43:10.157304"
+    },
+    "3377400": {
+      "appid": 3377400,
+      "name": "Few Shall Return",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-16T05:43:20.242748"
     }
   }
 }
