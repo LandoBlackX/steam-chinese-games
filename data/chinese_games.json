@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-08-16T06:51:43.179659"
+    "updated": "2026-08-16T09:42:59.335351"
   },
   "games": {
     "570": {
@@ -323634,6 +323634,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-08-16T06:51:40.084270"
+    },
+    "3385960": {
+      "appid": 3385960,
+      "name": "BattleGroupVR2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-16T09:42:37.060580"
+    },
+    "3386930": {
+      "appid": 3386930,
+      "name": "Tools of the trade",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-16T09:42:39.490604"
     }
   }
 }
