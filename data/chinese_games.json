@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-08-17T12:48:06.697919"
+    "updated": "2026-08-17T21:43:07.446011"
   },
   "games": {
     "570": {
@@ -323698,6 +323698,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-08-17T12:47:38.583405"
+    },
+    "3017580": {
+      "appid": 3017580,
+      "name": "灵视寻轨",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-17T21:35:12.476549"
+    },
+    "3018500": {
+      "appid": 3018500,
+      "name": "破碎的贝壳",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-17T21:35:18.097055"
     }
   }
 }
