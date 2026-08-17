@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-08-17T21:43:07.446011"
+    "updated": "2026-08-17T23:40:08.491070"
   },
   "games": {
     "570": {
@@ -323714,6 +323714,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-08-17T21:35:18.097055"
+    },
+    "3019850": {
+      "appid": 3019850,
+      "name": "钓鱼磨练",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-17T23:32:08.496158"
+    },
+    "3401960": {
+      "appid": 3401960,
+      "name": "JOIN US",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-17T23:39:46.574122"
     }
   }
 }
