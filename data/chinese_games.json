@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-08-16T22:37:43.079224"
+    "updated": "2026-08-17T12:48:06.697919"
   },
   "games": {
     "570": {
@@ -323690,6 +323690,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-08-16T22:29:49.466042"
+    },
+    "3007430": {
+      "appid": 3007430,
+      "name": "Broken Bonds",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-17T12:47:38.583405"
     }
   }
 }
