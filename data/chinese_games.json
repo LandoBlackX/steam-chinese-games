@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-08-18T04:52:22.194212"
+    "updated": "2026-08-18T09:41:32.999754"
   },
   "games": {
     "570": {
@@ -323738,6 +323738,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-08-18T04:44:17.951300"
+    },
+    "3026730": {
+      "appid": 3026730,
+      "name": "Tamer: King of Dinosaurs",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-18T09:40:52.271322"
     }
   }
 }
