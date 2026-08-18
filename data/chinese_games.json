@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-08-18T15:44:14.075619"
+    "updated": "2026-08-18T18:52:21.021338"
   },
   "games": {
     "570": {
@@ -323762,6 +323762,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-08-18T15:40:02.307260"
+    },
+    "3036350": {
+      "appid": 3036350,
+      "name": "诈欺谜案（A Case of Fraud）",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-18T18:44:36.945664"
+    },
+    "3036360": {
+      "appid": 3036360,
+      "name": "Heaven Crawler",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-18T18:44:37.043753"
     }
   }
 }
