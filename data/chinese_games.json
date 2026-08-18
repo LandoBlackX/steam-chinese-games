@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-08-18T18:52:21.021338"
+    "updated": "2026-08-18T21:40:49.378708"
   },
   "games": {
     "570": {
@@ -323778,6 +323778,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-08-18T18:44:37.043753"
+    },
+    "3038010": {
+      "appid": 3038010,
+      "name": "Kalia",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-18T21:32:45.155404"
     }
   }
 }
