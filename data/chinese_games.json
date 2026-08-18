@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-08-18T09:41:32.999754"
+    "updated": "2026-08-18T12:52:57.194029"
   },
   "games": {
     "570": {
@@ -323746,6 +323746,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-08-18T09:40:52.271322"
+    },
+    "3032210": {
+      "appid": 3032210,
+      "name": "Detective NEKKO - ディテクティブネッコ -",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-18T12:49:16.118743"
     }
   }
 }
