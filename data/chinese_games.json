@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-08-18T12:52:57.194029"
+    "updated": "2026-08-18T15:44:14.075619"
   },
   "games": {
     "570": {
@@ -323754,6 +323754,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-08-18T12:49:16.118743"
+    },
+    "3032790": {
+      "appid": 3032790,
+      "name": "Idle Casino Empire",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-18T15:40:02.307260"
     }
   }
 }
