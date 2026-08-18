@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-08-18T21:40:49.378708"
+    "updated": "2026-08-18T23:39:44.636121"
   },
   "games": {
     "570": {
@@ -323786,6 +323786,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-08-18T21:32:45.155404"
+    },
+    "3405140": {
+      "appid": 3405140,
+      "name": "MEDIX",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-18T23:39:26.266323"
     }
   }
 }
