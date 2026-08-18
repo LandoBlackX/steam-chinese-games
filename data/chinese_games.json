@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-08-17T23:40:08.491070"
+    "updated": "2026-08-18T04:52:22.194212"
   },
   "games": {
     "570": {
@@ -323730,6 +323730,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-08-17T23:39:46.574122"
+    },
+    "3023270": {
+      "appid": 3023270,
+      "name": "The End",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-18T04:44:17.951300"
     }
   }
 }
