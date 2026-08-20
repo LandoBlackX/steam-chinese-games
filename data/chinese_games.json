@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-08-20T15:51:53.682468"
+    "updated": "2026-08-20T19:01:30.625627"
   },
   "games": {
     "570": {
@@ -323826,6 +323826,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-08-20T15:51:39.192271"
+    },
+    "3416270": {
+      "appid": 3416270,
+      "name": "Cross The Boundaries",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-20T18:55:28.213988"
     }
   }
 }
