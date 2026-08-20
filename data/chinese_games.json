@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-08-20T19:01:30.625627"
+    "updated": "2026-08-20T20:45:51.772803"
   },
   "games": {
     "570": {
@@ -323834,6 +323834,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-08-20T18:55:28.213988"
+    },
+    "3417550": {
+      "appid": 3417550,
+      "name": "POLDERS",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-20T20:45:47.016803"
+    },
+    "3418500": {
+      "appid": 3418500,
+      "name": "CS Manager",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-20T20:45:51.399209"
     }
   }
 }

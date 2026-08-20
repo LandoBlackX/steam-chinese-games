@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-08-20T19:01:30.625627"
+    "updated": "2026-08-20T20:45:51.772803"
   },
   "games": {
     "570": {
@@ -89946,6 +89946,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2026-08-15T04:43:11.552261"
+    },
+    "3069630": {
+      "appid": 3069630,
+      "name": "Galaxy Princess Zorana",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2026-08-20T20:37:05.317372"
     }
   }
 }
