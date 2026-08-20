@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-08-20T01:19:47.403097"
+    "updated": "2026-08-20T15:51:53.682468"
   },
   "games": {
     "570": {
@@ -323810,6 +323810,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-08-20T01:11:58.477985"
+    },
+    "2496330": {
+      "appid": 2496330,
+      "name": "Tremble of Towers",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-20T15:35:40.632575"
+    },
+    "3415350": {
+      "appid": 3415350,
+      "name": "Badassgard",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-20T15:51:39.192271"
     }
   }
 }
