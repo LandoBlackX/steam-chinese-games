@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-08-19T16:59:09.828227"
+    "updated": "2026-08-20T01:19:47.403097"
   },
   "games": {
     "570": {
@@ -323802,6 +323802,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-08-19T16:32:04.642745"
+    },
+    "3058660": {
+      "appid": 3058660,
+      "name": "HARK THE GHOUL",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-20T01:11:58.477985"
     }
   }
 }
