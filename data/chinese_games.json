@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-08-21T01:25:45.707288"
+    "updated": "2026-08-21T13:01:01.777629"
   },
   "games": {
     "570": {
@@ -323858,6 +323858,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-08-21T01:16:11.997204"
+    },
+    "3077650": {
+      "appid": 3077650,
+      "name": "Parasited Will",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-21T12:51:14.789395"
     }
   }
 }
