@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-08-20T20:45:51.772803"
+    "updated": "2026-08-21T01:25:45.707288"
   },
   "games": {
     "570": {
@@ -323850,6 +323850,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-08-20T20:45:51.399209"
+    },
+    "3072450": {
+      "appid": 3072450,
+      "name": "FAKEBOOK : 假书",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-21T01:16:11.997204"
     }
   }
 }
