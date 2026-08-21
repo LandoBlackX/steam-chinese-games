@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-08-21T14:05:08.985871"
+    "updated": "2026-08-21T16:55:33.626338"
   },
   "games": {
     "570": {
@@ -89954,6 +89954,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2026-08-20T20:37:05.317372"
+    },
+    "3080560": {
+      "appid": 3080560,
+      "name": "Graphite",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2026-08-21T16:42:15.166280"
     }
   }
 }
