@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-08-21T18:55:05.453201"
+    "updated": "2026-08-21T20:45:35.805179"
   },
   "games": {
     "570": {
@@ -323882,6 +323882,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-08-21T18:37:37.893977"
+    },
+    "3430470": {
+      "appid": 3430470,
+      "name": "白金档案 PLATiNA :: LAB",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-21T20:45:03.418166"
+    },
+    "3430620": {
+      "appid": 3430620,
+      "name": "赫尔铸界",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-21T20:45:04.166268"
     }
   }
 }
