@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-08-21T16:55:33.626338"
+    "updated": "2026-08-21T18:55:05.453201"
   },
   "games": {
     "570": {
@@ -323874,6 +323874,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-08-21T14:05:08.983866"
+    },
+    "2570300": {
+      "appid": 2570300,
+      "name": "Lost Soul",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-21T18:37:37.893977"
     }
   }
 }
