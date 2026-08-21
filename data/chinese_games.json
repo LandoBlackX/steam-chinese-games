@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-08-21T20:45:35.805179"
+    "updated": "2026-08-21T21:44:32.885935"
   },
   "games": {
     "570": {
@@ -323898,6 +323898,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-08-21T20:45:04.166268"
+    },
+    "3431340": {
+      "appid": 3431340,
+      "name": "Call of Ponchy : Mahjong Warfare",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-21T21:44:31.768287"
     }
   }
 }
