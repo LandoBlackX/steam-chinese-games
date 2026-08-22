@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-08-22T21:42:38.473783"
+    "updated": "2026-08-22T23:41:27.759888"
   },
   "games": {
     "570": {
@@ -323938,6 +323938,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-08-22T21:42:37.218773"
+    },
+    "3445440": {
+      "appid": 3445440,
+      "name": "Fablery",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-22T23:41:04.322849"
     }
   }
 }
