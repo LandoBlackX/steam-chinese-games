@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-08-22T16:44:17.613811"
+    "updated": "2026-08-22T21:42:38.473783"
   },
   "games": {
     "570": {
@@ -323930,6 +323930,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-08-22T14:41:50.038213"
+    },
+    "3444810": {
+      "appid": 3444810,
+      "name": "Wonderfall",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-22T21:42:37.218773"
     }
   }
 }
