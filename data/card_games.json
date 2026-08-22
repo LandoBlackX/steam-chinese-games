@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-08-22T14:42:13.931998"
+    "updated": "2026-08-22T16:44:17.613811"
   },
   "games": {
     "570": {
@@ -89962,6 +89962,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2026-08-21T16:42:15.166280"
+    },
+    "3439010": {
+      "appid": 3439010,
+      "name": "Clicker Conquest",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2026-08-22T16:43:11.423370"
     }
   }
 }
