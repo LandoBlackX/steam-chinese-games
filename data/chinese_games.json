@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-08-22T23:41:27.759888"
+    "updated": "2026-08-23T09:46:53.640480"
   },
   "games": {
     "570": {
@@ -323946,6 +323946,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-08-22T23:41:04.322849"
+    },
+    "3094870": {
+      "appid": 3094870,
+      "name": "Amarillo's Desktop Pets",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-23T09:37:46.126236"
     }
   }
 }
