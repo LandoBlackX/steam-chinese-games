@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-08-23T18:47:42.572260"
+    "updated": "2026-08-23T20:43:11.520340"
   },
   "games": {
     "570": {
@@ -323962,6 +323962,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-08-23T18:36:45.556816"
+    },
+    "3451980": {
+      "appid": 3451980,
+      "name": "Soul's Remnant",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-23T20:42:46.445586"
     }
   }
 }
