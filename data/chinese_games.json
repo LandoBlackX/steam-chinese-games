@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-08-23T09:46:53.640480"
+    "updated": "2026-08-23T18:47:42.572260"
   },
   "games": {
     "570": {
@@ -323954,6 +323954,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-08-23T09:37:46.126236"
+    },
+    "3098030": {
+      "appid": 3098030,
+      "name": "Glowlings",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-23T18:36:45.556816"
     }
   }
 }
