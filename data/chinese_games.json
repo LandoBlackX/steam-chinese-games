@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-08-24T17:48:32.267957"
+    "updated": "2026-08-24T20:49:56.821239"
   },
   "games": {
     "570": {
@@ -324002,6 +324002,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-08-24T17:36:38.773578"
+    },
+    "3459570": {
+      "appid": 3459570,
+      "name": "Fofumia",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-24T20:49:43.914092"
+    },
+    "3459720": {
+      "appid": 3459720,
+      "name": "Soul Tides",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-24T20:49:44.631536"
     }
   }
 }
