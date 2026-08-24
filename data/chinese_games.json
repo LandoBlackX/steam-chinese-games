@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-08-23T20:43:11.520340"
+    "updated": "2026-08-24T01:25:35.733419"
   },
   "games": {
     "570": {
@@ -323970,6 +323970,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-08-23T20:42:46.445586"
+    },
+    "3454680": {
+      "appid": 3454680,
+      "name": "Mini Soccer",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-24T01:25:31.252486"
+    },
+    "3454780": {
+      "appid": 3454780,
+      "name": "Terradune",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-24T01:25:32.004019"
     }
   }
 }
