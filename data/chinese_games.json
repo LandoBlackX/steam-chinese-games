@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-08-25T16:54:46.878028"
+    "updated": "2026-08-25T23:47:14.283573"
   },
   "games": {
     "570": {
@@ -324042,6 +324042,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-08-25T16:46:13.159749"
+    },
+    "3107680": {
+      "appid": 3107680,
+      "name": "Don't Drop The Cake: Prologue",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-25T23:36:14.859939"
     }
   }
 }
