@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-08-24T20:49:56.821239"
+    "updated": "2026-08-25T01:26:42.310967"
   },
   "games": {
     "570": {
@@ -324018,6 +324018,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-08-24T20:49:44.631536"
+    },
+    "3462240": {
+      "appid": 3462240,
+      "name": "Warmace: Miniature Shop Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-25T01:25:57.635040"
     }
   }
 }
