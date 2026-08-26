@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-08-25T23:47:14.283573"
+    "updated": "2026-08-26T22:03:03.062893"
   },
   "games": {
     "570": {
@@ -324050,6 +324050,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-08-25T23:36:14.859939"
+    },
+    "2856750": {
+      "appid": 2856750,
+      "name": "Aliro1",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-26T21:48:41.471196"
     }
   }
 }
