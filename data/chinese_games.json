@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-08-26T22:03:03.062893"
+    "updated": "2026-08-27T14:01:45.497515"
   },
   "games": {
     "570": {
@@ -324058,6 +324058,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-08-26T21:48:41.471196"
+    },
+    "3113510": {
+      "appid": 3113510,
+      "name": "Skidaddle Skidoodle",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-27T13:55:20.918460"
     }
   }
 }
