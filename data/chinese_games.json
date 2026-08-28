@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-08-27T14:01:45.497515"
+    "updated": "2026-08-28T09:06:57.574709"
   },
   "games": {
     "570": {
@@ -324066,6 +324066,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-08-27T13:55:20.918460"
+    },
+    "3118840": {
+      "appid": 3118840,
+      "name": "Sibir",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-28T08:57:49.772289"
+    },
+    "3118910": {
+      "appid": 3118910,
+      "name": "现实侵蚀",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-28T08:57:50.242888"
     }
   }
 }
