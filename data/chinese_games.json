@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-08-28T09:06:57.574709"
+    "updated": "2026-08-28T20:56:56.308610"
   },
   "games": {
     "570": {
@@ -324082,6 +324082,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-08-28T08:57:50.242888"
+    },
+    "3119990": {
+      "appid": 3119990,
+      "name": "Eclipsi",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-28T20:54:19.782002"
     }
   }
 }
