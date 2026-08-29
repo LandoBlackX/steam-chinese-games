@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-08-28T20:56:56.308610"
+    "updated": "2026-08-29T11:07:39.880912"
   },
   "games": {
     "570": {
@@ -324090,6 +324090,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-08-28T20:54:19.782002"
+    },
+    "3476610": {
+      "appid": 3476610,
+      "name": "AI Clicker",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-29T11:07:39.103731"
     }
   }
 }
