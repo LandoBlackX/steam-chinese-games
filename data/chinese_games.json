@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-08-29T11:07:39.880912"
+    "updated": "2026-08-29T15:51:55.828832"
   },
   "games": {
     "570": {
@@ -324098,6 +324098,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-08-29T11:07:39.103731"
+    },
+    "3123320": {
+      "appid": 3123320,
+      "name": "Sort of Justice - Chapter 1",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-29T15:41:22.370739"
     }
   }
 }
