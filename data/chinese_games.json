@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-08-29T15:51:55.828832"
+    "updated": "2026-08-29T22:40:43.906036"
   },
   "games": {
     "570": {
@@ -324106,6 +324106,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-08-29T15:41:22.370739"
+    },
+    "3021550": {
+      "appid": 3021550,
+      "name": "Flock Off!",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-29T22:28:02.680148"
     }
   }
 }
