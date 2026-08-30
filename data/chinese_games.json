@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-08-30T01:25:41.048506"
+    "updated": "2026-08-30T23:31:56.141232"
   },
   "games": {
     "570": {
@@ -324122,6 +324122,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-08-30T01:25:24.603590"
+    },
+    "3485830": {
+      "appid": 3485830,
+      "name": "Backrooms Fishing",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-30T23:31:54.812810"
     }
   }
 }
