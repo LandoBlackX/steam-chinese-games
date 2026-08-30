@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-08-29T22:40:43.906036"
+    "updated": "2026-08-30T01:25:41.048506"
   },
   "games": {
     "570": {
@@ -324114,6 +324114,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-08-29T22:28:02.680148"
+    },
+    "3479420": {
+      "appid": 3479420,
+      "name": "Okko The Exiled",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-30T01:25:24.603590"
     }
   }
 }
