@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-08-30T23:31:56.141232"
+    "updated": "2026-08-31T10:51:44.785674"
   },
   "games": {
     "570": {
@@ -324130,6 +324130,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-08-30T23:31:54.812810"
+    },
+    "3089420": {
+      "appid": 3089420,
+      "name": "Prop Sumo",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-08-31T10:39:41.359951"
     }
   }
 }
