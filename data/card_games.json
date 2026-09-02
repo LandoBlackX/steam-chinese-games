@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-09-02T01:17:32.861039"
+    "updated": "2026-09-02T05:50:03.840998"
   },
   "games": {
     "570": {
@@ -89970,6 +89970,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2026-08-22T16:43:11.423370"
+    },
+    "3496890": {
+      "appid": 3496890,
+      "name": "Slot or Not",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2026-09-02T05:50:03.291910"
     }
   }
 }
