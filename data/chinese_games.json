@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-09-02T05:50:03.840998"
+    "updated": "2026-09-02T15:22:42.687190"
   },
   "games": {
     "570": {
@@ -324154,6 +324154,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-09-02T01:17:32.108549"
+    },
+    "3498270": {
+      "appid": 3498270,
+      "name": "百宜佳超市模拟器",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-09-02T15:22:41.195964"
     }
   }
 }
