@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-08-31T22:47:12.796680"
+    "updated": "2026-09-02T01:17:32.861039"
   },
   "games": {
     "570": {
@@ -324146,6 +324146,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-08-31T22:47:12.103794"
+    },
+    "3495250": {
+      "appid": 3495250,
+      "name": "一起来造大火箭",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-09-02T01:17:32.108549"
     }
   }
 }
