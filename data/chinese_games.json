@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-09-03T00:16:37.131239"
+    "updated": "2026-09-03T17:21:10.621456"
   },
   "games": {
     "570": {
@@ -324170,6 +324170,54 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-09-03T00:16:24.126026"
+    },
+    "3505820": {
+      "appid": 3505820,
+      "name": "Cyber Tower 2048",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-09-03T17:21:09.315833"
+    },
+    "3505830": {
+      "appid": 3505830,
+      "name": "Kitty's Hungry Adventure",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-09-03T17:21:09.457362"
+    },
+    "3505840": {
+      "appid": 3505840,
+      "name": "Magic Tiny Lands",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-09-03T17:21:09.601224"
+    },
+    "3505880": {
+      "appid": 3505880,
+      "name": "SNAKE GAME ULTRA CORE",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-09-03T17:21:09.896608"
+    },
+    "3505890": {
+      "appid": 3505890,
+      "name": "Tech Blast",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-09-03T17:21:10.059904"
+    },
+    "3505910": {
+      "appid": 3505910,
+      "name": "Unusual and not safe experiments",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-09-03T17:21:10.289168"
     }
   }
 }
