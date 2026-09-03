@@ -1,7 +1,6 @@
 # Steam中文及卡牌游戏追踪器
 
-[![自动更新](https://github.com/LandoBlackX/steam-chinese-games/actions/workflows/update.yml/badge.svg)](https://github.com/LandoBlackX/steam-chinese-games/actions)
-
+[![自动更新](https://github.com/LandoBlackX/steam-chinese-games/actions/workflows/update-game-data.yml/badge.svg)](https://github.com/LandoBlackX/steam-chinese-games/actions/workflows/update-game-data.yml)
 自动收集Steam平台支持**简体/繁体中文**和**集换式卡牌**的游戏列表。
 
 ## 数据文件
