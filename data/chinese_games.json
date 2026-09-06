@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-09-03T17:21:10.621456"
+    "updated": "2026-09-06T15:20:20.577175"
   },
   "games": {
     "570": {
@@ -324218,6 +324218,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-09-03T17:21:10.289168"
+    },
+    "3522350": {
+      "appid": 3522350,
+      "name": "Leadbelly",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-09-06T15:20:19.327725"
     }
   }
 }
