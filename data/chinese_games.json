@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-09-07T08:22:52.389738"
+    "updated": "2026-09-07T22:25:41.356333"
   },
   "games": {
     "570": {
@@ -324234,6 +324234,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-09-07T08:22:51.068098"
+    },
+    "2968230": {
+      "appid": 2968230,
+      "name": "RUN Gor I",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-09-07T22:06:08.783578"
     }
   }
 }
