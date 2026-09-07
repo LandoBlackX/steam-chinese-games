@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-09-06T15:20:20.577175"
+    "updated": "2026-09-07T08:22:52.389738"
   },
   "games": {
     "570": {
@@ -324226,6 +324226,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-09-06T15:20:19.327725"
+    },
+    "3524950": {
+      "appid": 3524950,
+      "name": "The Last Good Boy",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-09-07T08:22:51.068098"
     }
   }
 }
