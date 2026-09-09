@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-09-07T22:25:41.356333"
+    "updated": "2026-09-09T22:44:20.034425"
   },
   "games": {
     "570": {
@@ -324242,6 +324242,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-09-07T22:06:08.783578"
+    },
+    "3530380": {
+      "appid": 3530380,
+      "name": "Bloodbreaker: Labyrinth of the Witch",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-09-09T22:44:19.440467"
     }
   }
 }
