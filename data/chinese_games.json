@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-09-09T22:44:20.034425"
+    "updated": "2026-09-16T01:33:27.408840"
   },
   "games": {
     "570": {
@@ -324250,6 +324250,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-09-09T22:44:19.440467"
+    },
+    "3538250": {
+      "appid": 3538250,
+      "name": "The Book of Plagues",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-09-16T01:33:27.016962"
     }
   }
 }
