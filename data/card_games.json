@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-09-16T06:24:50.020586"
+    "updated": "2026-09-18T19:57:49.641542"
   },
   "games": {
     "570": {
@@ -89978,6 +89978,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2026-09-02T05:50:03.291910"
+    },
+    "3541590": {
+      "appid": 3541590,
+      "name": "Arcadie II: Cold Lands",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2026-09-18T19:57:49.360095"
     }
   }
 }
