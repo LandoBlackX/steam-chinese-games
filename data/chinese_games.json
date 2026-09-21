@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-09-19T05:59:51.947198"
+    "updated": "2026-09-21T18:18:25.211316"
   },
   "games": {
     "570": {
@@ -324274,6 +324274,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-09-19T05:30:15.836112"
+    },
+    "2854800": {
+      "appid": 2854800,
+      "name": "Alex & Arty",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-09-21T17:56:53.190521"
     }
   }
 }
