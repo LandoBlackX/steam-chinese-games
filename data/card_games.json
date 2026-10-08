@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-09-21T18:18:25.211316"
+    "updated": "2026-10-08T21:46:13.290435"
   },
   "games": {
     "570": {
@@ -89986,6 +89986,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2026-09-18T19:57:49.360095"
+    },
+    "25900": {
+      "appid": 25900,
+      "name": "国王的恩赐：传奇",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2026-10-08T21:45:51.823204"
     }
   }
 }
