@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-10-08T21:46:13.290435"
+    "updated": "2026-10-09T08:23:06.851405"
   },
   "games": {
     "570": {
@@ -324290,6 +324290,14 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2026-10-08T21:45:51.823204"
+    },
+    "63910": {
+      "appid": 63910,
+      "name": "国王的恩赐：交错世界",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-10-09T08:22:42.481393"
     }
   }
 }
