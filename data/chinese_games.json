@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-10-09T08:23:06.851405"
+    "updated": "2026-10-09T20:30:12.637914"
   },
   "games": {
     "570": {
@@ -324298,6 +324298,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-10-09T08:22:42.481393"
+    },
+    "251670": {
+      "appid": 251670,
+      "name": "Battle Nations",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-10-09T20:30:02.939310"
     }
   }
 }
