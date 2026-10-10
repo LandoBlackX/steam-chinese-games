@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-10-09T20:30:12.637914"
+    "updated": "2026-10-10T13:20:44.245204"
   },
   "games": {
     "570": {
@@ -324306,6 +324306,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-10-09T20:30:02.939310"
+    },
+    "306910": {
+      "appid": 306910,
+      "name": "龙窟破坏者",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-10-10T13:15:18.524246"
     }
   }
 }
