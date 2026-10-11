@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-10-10T13:20:44.245204"
+    "updated": "2026-10-11T15:23:21.187393"
   },
   "games": {
     "570": {
@@ -324314,6 +324314,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-10-10T13:15:18.524246"
+    },
+    "368950": {
+      "appid": 368950,
+      "name": "Jigoku Kisetsukan: Sense of the Seasons",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-10-11T15:17:42.512750"
+    },
+    "370750": {
+      "appid": 370750,
+      "name": "Dungeoncraft",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-10-11T15:17:49.708489"
     }
   }
 }
