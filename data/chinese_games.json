@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-10-12T20:49:14.614401"
+    "updated": "2026-10-14T22:02:12.938680"
   },
   "games": {
     "570": {
@@ -324338,6 +324338,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-10-12T20:48:33.517925"
+    },
+    "560080": {
+      "appid": 560080,
+      "name": "I was rebuilt",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-10-14T22:01:39.572139"
     }
   }
 }
