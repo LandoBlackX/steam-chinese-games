@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-10-14T22:02:12.938680"
+    "updated": "2026-10-15T20:57:45.373124"
   },
   "games": {
     "570": {
@@ -89994,6 +89994,14 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2026-10-08T21:45:51.823204"
+    },
+    "622980": {
+      "appid": 622980,
+      "name": "TrainClicker Idle Evolution",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2026-10-15T20:52:25.948737"
     }
   }
 }
