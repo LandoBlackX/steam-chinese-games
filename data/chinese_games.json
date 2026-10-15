@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-10-15T20:57:45.373124"
+    "updated": "2026-10-15T23:36:59.519031"
   },
   "games": {
     "570": {
@@ -324346,6 +324346,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-10-14T22:01:39.572139"
+    },
+    "640970": {
+      "appid": 640970,
+      "name": "In Game Adventure: Legend of Monsters",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-10-15T23:31:43.539860"
     }
   }
 }
