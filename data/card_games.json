@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-10-16T02:57:07.729293"
+    "updated": "2026-10-16T13:03:51.204084"
   },
   "games": {
     "570": {
@@ -90002,6 +90002,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2026-10-15T20:52:25.948737"
+    },
+    "661500": {
+      "appid": 661500,
+      "name": "Rekindling",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2026-10-16T12:58:36.475643"
     }
   }
 }
