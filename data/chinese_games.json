@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-10-15T23:36:59.519031"
+    "updated": "2026-10-16T02:57:07.729293"
   },
   "games": {
     "570": {
@@ -324354,6 +324354,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-10-15T23:31:43.539860"
+    },
+    "648410": {
+      "appid": 648410,
+      "name": "Colony Ship: A Post-Earth Role Playing Game",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-10-16T02:51:53.796828"
     }
   }
 }
