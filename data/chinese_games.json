@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-10-16T17:17:52.957151"
+    "updated": "2026-10-16T23:19:00.058581"
   },
   "games": {
     "570": {
@@ -324370,6 +324370,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-10-16T17:12:27.862318"
+    },
+    "675810": {
+      "appid": 675810,
+      "name": "Bang! Howdy",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-10-16T23:13:32.151625"
     }
   }
 }
