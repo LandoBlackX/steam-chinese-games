@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-10-16T13:03:51.204084"
+    "updated": "2026-10-16T17:17:52.957151"
   },
   "games": {
     "570": {
@@ -324362,6 +324362,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-10-16T02:51:53.796828"
+    },
+    "665300": {
+      "appid": 665300,
+      "name": "Stream Avatars",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-10-16T17:12:27.862318"
     }
   }
 }
