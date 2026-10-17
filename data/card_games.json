@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-10-17T07:33:28.257147"
+    "updated": "2026-10-17T15:02:41.002813"
   },
   "games": {
     "570": {
@@ -90018,6 +90018,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2026-10-17T07:28:23.845030"
+    },
+    "701040": {
+      "appid": 701040,
+      "name": "CometStriker DX",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2026-10-17T14:57:06.861474"
     }
   }
 }
