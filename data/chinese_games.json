@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-10-17T15:02:41.002813"
+    "updated": "2026-10-17T17:51:55.107618"
   },
   "games": {
     "570": {
@@ -324386,6 +324386,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-10-17T07:27:57.921473"
+    },
+    "710230": {
+      "appid": 710230,
+      "name": "Urban Strife",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-10-17T17:46:36.276739"
     }
   }
 }
