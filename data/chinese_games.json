@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-10-16T23:19:00.058581"
+    "updated": "2026-10-17T07:33:28.257147"
   },
   "games": {
     "570": {
@@ -324378,6 +324378,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-10-16T23:13:32.151625"
+    },
+    "686060": {
+      "appid": 686060,
+      "name": "喵喵的结合",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-10-17T07:27:57.921473"
     }
   }
 }

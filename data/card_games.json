@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-10-16T23:19:00.058581"
+    "updated": "2026-10-17T07:33:28.257147"
   },
   "games": {
     "570": {
@@ -90010,6 +90010,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2026-10-16T12:58:36.475643"
+    },
+    "691320": {
+      "appid": 691320,
+      "name": "Gun Club VR",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2026-10-17T07:28:23.845030"
     }
   }
 }
