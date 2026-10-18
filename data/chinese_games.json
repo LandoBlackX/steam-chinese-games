@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-10-18T05:26:14.255313"
+    "updated": "2026-10-18T10:21:40.315989"
   },
   "games": {
     "570": {
@@ -324410,6 +324410,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-10-18T05:21:00.350622"
+    },
+    "747320": {
+      "appid": 747320,
+      "name": "Bravium",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-10-18T10:16:35.768488"
     }
   }
 }
