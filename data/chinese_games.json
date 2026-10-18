@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-10-17T20:00:40.874783"
+    "updated": "2026-10-18T05:26:14.255313"
   },
   "games": {
     "570": {
@@ -324402,6 +324402,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-10-17T20:00:31.371471"
+    },
+    "738090": {
+      "appid": 738090,
+      "name": "GRIT",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-10-18T05:21:00.350622"
     }
   }
 }
