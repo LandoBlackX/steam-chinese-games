@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-10-19T00:49:34.087086"
+    "updated": "2026-10-19T12:00:40.091504"
   },
   "games": {
     "570": {
@@ -90034,6 +90034,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2026-10-18T05:20:50.890676"
+    },
+    "789260": {
+      "appid": 789260,
+      "name": "Unmoor",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2026-10-19T11:55:16.867289"
     }
   }
 }
