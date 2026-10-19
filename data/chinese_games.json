@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-10-18T10:21:40.315989"
+    "updated": "2026-10-19T00:49:34.087086"
   },
   "games": {
     "570": {
@@ -324418,6 +324418,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-10-18T10:16:35.768488"
+    },
+    "776830": {
+      "appid": 776830,
+      "name": "Tears - 9, 10",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-10-19T00:43:59.725607"
+    },
+    "777150": {
+      "appid": 777150,
+      "name": "Adventure Land - The Code MMORPG",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-10-19T00:44:02.362555"
     }
   }
 }
