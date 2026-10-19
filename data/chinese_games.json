@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-10-19T12:00:40.091504"
+    "updated": "2026-10-19T22:52:10.734642"
   },
   "games": {
     "570": {
@@ -324434,6 +324434,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-10-19T00:44:02.362555"
+    },
+    "801290": {
+      "appid": 801290,
+      "name": "Diabolic",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2026-10-19T22:46:30.934121"
     }
   }
 }
