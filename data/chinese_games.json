@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-10-19T22:52:10.734642"
+    "updated": "2026-10-20T07:08:48.409503"
   },
   "games": {
     "570": {
@@ -324442,6 +324442,14 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2026-10-19T22:46:30.934121"
+    },
+    "818370": {
+      "appid": 818370,
+      "name": "远望号：当宇宙回望",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-10-20T07:03:38.532870"
     }
   }
 }
