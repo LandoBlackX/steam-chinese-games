@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-10-20T18:21:55.349324"
+    "updated": "2026-10-21T07:01:54.122618"
   },
   "games": {
     "570": {
@@ -324458,6 +324458,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-10-20T18:16:46.421852"
+    },
+    "853770": {
+      "appid": 853770,
+      "name": "Maximum Action",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-10-21T06:56:40.455138"
     }
   }
 }
