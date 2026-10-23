@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-10-23T14:42:03.028275"
+    "updated": "2026-10-23T18:56:32.000858"
   },
   "games": {
     "570": {
@@ -90058,6 +90058,14 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2026-10-23T09:02:07.498987"
+    },
+    "946670": {
+      "appid": 946670,
+      "name": "School Owner",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2026-10-23T18:51:24.262798"
     }
   }
 }
