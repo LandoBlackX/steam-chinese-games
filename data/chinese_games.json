@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-10-21T07:01:54.122618"
+    "updated": "2026-10-23T09:07:20.875525"
   },
   "games": {
     "570": {
@@ -324466,6 +324466,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-10-21T06:56:40.455138"
+    },
+    "931060": {
+      "appid": 931060,
+      "name": "Tormentum II",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2026-10-23T09:02:07.498987"
+    },
+    "932530": {
+      "appid": 932530,
+      "name": "Skull's Impossible Quest",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-10-23T09:02:15.383270"
     }
   }
 }

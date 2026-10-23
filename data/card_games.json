@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-10-21T07:01:54.122618"
+    "updated": "2026-10-23T09:07:20.875525"
   },
   "games": {
     "570": {
@@ -90050,6 +90050,14 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2026-10-19T22:46:30.934121"
+    },
+    "931060": {
+      "appid": 931060,
+      "name": "Tormentum II",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": true,
+      "last_checked": "2026-10-23T09:02:07.498987"
     }
   }
 }
