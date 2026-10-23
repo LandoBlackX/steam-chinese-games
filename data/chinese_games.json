@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-10-23T09:07:20.875525"
+    "updated": "2026-10-23T14:42:03.028275"
   },
   "games": {
     "570": {
@@ -324482,6 +324482,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-10-23T09:02:15.383270"
+    },
+    "935490": {
+      "appid": 935490,
+      "name": "AREAZ",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-10-23T14:36:42.969244"
     }
   }
 }
