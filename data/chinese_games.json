@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-10-24T17:52:28.721446"
+    "updated": "2026-10-24T20:12:02.843616"
   },
   "games": {
     "570": {
@@ -324514,6 +324514,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-10-24T17:47:21.291511"
+    },
+    "993580": {
+      "appid": 993580,
+      "name": "Enchanted Path",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-10-24T20:06:34.804829"
     }
   }
 }
