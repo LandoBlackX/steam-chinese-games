@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-10-24T10:15:35.351272"
+    "updated": "2026-10-24T17:52:28.721446"
   },
   "games": {
     "570": {
@@ -324506,6 +324506,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-10-24T10:10:30.072689"
+    },
+    "992070": {
+      "appid": 992070,
+      "name": "Idle Wizard",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-10-24T17:47:21.291511"
     }
   }
 }
