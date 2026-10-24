@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-10-24T20:12:02.843616"
+    "updated": "2026-10-24T22:56:00.551865"
   },
   "games": {
     "570": {
@@ -324522,6 +324522,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-10-24T20:06:34.804829"
+    },
+    "1005180": {
+      "appid": 1005180,
+      "name": "Sente",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-10-24T22:50:30.229822"
+    },
+    "1008740": {
+      "appid": 1008740,
+      "name": "Cube Mission",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-10-24T22:50:53.330771"
     }
   }
 }
