@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-10-23T18:56:32.000858"
+    "updated": "2026-10-24T10:15:35.351272"
   },
   "games": {
     "570": {
@@ -324498,6 +324498,14 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2026-10-23T18:51:24.262798"
+    },
+    "977490": {
+      "appid": 977490,
+      "name": "Jigsaw Masterpieces",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-10-24T10:10:30.072689"
     }
   }
 }
