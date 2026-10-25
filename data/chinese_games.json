@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-10-25T00:51:06.058979"
+    "updated": "2026-10-25T23:49:59.325229"
   },
   "games": {
     "570": {
@@ -324546,6 +324546,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-10-25T00:45:49.120471"
+    },
+    "1056170": {
+      "appid": 1056170,
+      "name": "SUPERVERSE",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-10-25T23:44:54.958296"
     }
   }
 }
