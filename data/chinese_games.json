@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-10-25T23:49:59.325229"
+    "updated": "2026-10-26T20:57:20.260299"
   },
   "games": {
     "570": {
@@ -324554,6 +324554,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-10-25T23:44:54.958296"
+    },
+    "1082450": {
+      "appid": 1082450,
+      "name": "Gold Hunter",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-10-26T20:52:14.141688"
     }
   }
 }
