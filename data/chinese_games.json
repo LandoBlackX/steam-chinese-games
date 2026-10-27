@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-10-27T11:35:26.024764"
+    "updated": "2026-10-27T17:25:01.276479"
   },
   "games": {
     "570": {
@@ -324570,6 +324570,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-10-27T11:30:20.174225"
+    },
+    "1107440": {
+      "appid": 1107440,
+      "name": "Last Warrior",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-10-27T17:19:32.106154"
     }
   }
 }
