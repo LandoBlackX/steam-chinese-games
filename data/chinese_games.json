@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-10-26T20:57:20.260299"
+    "updated": "2026-10-27T11:35:26.024764"
   },
   "games": {
     "570": {
@@ -324562,6 +324562,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-10-26T20:52:14.141688"
+    },
+    "1103640": {
+      "appid": 1103640,
+      "name": "Escape Game Cake",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-10-27T11:30:20.174225"
     }
   }
 }
