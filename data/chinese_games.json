@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-10-27T17:25:01.276479"
+    "updated": "2026-10-27T21:45:50.059757"
   },
   "games": {
     "570": {
@@ -324578,6 +324578,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-10-27T17:19:32.106154"
+    },
+    "1114230": {
+      "appid": 1114230,
+      "name": "Gear Enigmas",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-10-27T21:45:19.815401"
     }
   }
 }
