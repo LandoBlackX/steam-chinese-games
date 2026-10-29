@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-10-27T21:45:50.059757"
+    "updated": "2026-10-29T11:20:37.430923"
   },
   "games": {
     "570": {
@@ -324586,6 +324586,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-10-27T21:45:19.815401"
+    },
+    "1161360": {
+      "appid": 1161360,
+      "name": "Shisensho Solitaire",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-10-29T11:15:19.921896"
     }
   }
 }
