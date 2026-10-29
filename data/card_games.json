@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-10-29T11:20:37.430923"
+    "updated": "2026-10-29T18:02:25.266925"
   },
   "games": {
     "570": {
@@ -90066,6 +90066,14 @@
       "supports_chinese": true,
       "supports_cards": true,
       "last_checked": "2026-10-23T18:51:24.262798"
+    },
+    "1170970": {
+      "appid": 1170970,
+      "name": "Marbles on Stream",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2026-10-29T17:57:18.582273"
     }
   }
 }
