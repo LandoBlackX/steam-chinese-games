@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-10-30T02:27:40.828328"
+    "updated": "2026-10-30T21:26:35.671281"
   },
   "games": {
     "570": {
@@ -324602,6 +324602,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-10-30T02:22:14.931048"
+    },
+    "1202360": {
+      "appid": 1202360,
+      "name": "VR Gigapixel Gallery",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-10-30T21:21:04.226823"
     }
   }
 }
