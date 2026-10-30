@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-10-29T18:02:25.266925"
+    "updated": "2026-10-30T02:27:40.828328"
   },
   "games": {
     "570": {
@@ -324594,6 +324594,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-10-29T11:15:19.921896"
+    },
+    "1180690": {
+      "appid": 1180690,
+      "name": "Spaceman",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-10-30T02:22:14.931048"
     }
   }
 }
