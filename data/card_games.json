@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-10-30T21:26:35.671281"
+    "updated": "2026-10-31T14:20:53.689951"
   },
   "games": {
     "570": {
@@ -90074,6 +90074,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2026-10-29T17:57:18.582273"
+    },
+    "1221950": {
+      "appid": 1221950,
+      "name": "Nighthawks",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2026-10-31T14:15:37.528331"
     }
   }
 }
