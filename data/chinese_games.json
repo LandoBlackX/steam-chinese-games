@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-10-31T14:20:53.689951"
+    "updated": "2026-11-01T02:06:46.112384"
   },
   "games": {
     "570": {
@@ -324610,6 +324610,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-10-30T21:21:04.226823"
+    },
+    "1245220": {
+      "appid": 1245220,
+      "name": "Serial Lover",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-11-01T02:01:20.567294"
     }
   }
 }
