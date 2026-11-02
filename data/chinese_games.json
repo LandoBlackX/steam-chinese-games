@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-11-01T02:06:46.112384"
+    "updated": "2026-11-02T07:13:31.958159"
   },
   "games": {
     "570": {
@@ -324618,6 +324618,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-11-01T02:01:20.567294"
+    },
+    "1279510": {
+      "appid": 1279510,
+      "name": "Screw Drivers",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-11-02T07:08:04.515123"
+    },
+    "1283520": {
+      "appid": 1283520,
+      "name": "The Odd Neon Void",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-11-02T07:08:24.180792"
     }
   }
 }
