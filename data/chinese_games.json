@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-11-03T00:30:08.320532"
+    "updated": "2026-11-03T21:33:51.693617"
   },
   "games": {
     "570": {
@@ -324650,6 +324650,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-11-03T00:30:08.146526"
+    },
+    "1318990": {
+      "appid": 1318990,
+      "name": "Web Host Simulator",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-11-03T21:28:42.004818"
     }
   }
 }
