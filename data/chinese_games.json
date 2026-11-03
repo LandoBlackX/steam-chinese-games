@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-11-02T07:13:31.958159"
+    "updated": "2026-11-03T00:30:08.320532"
   },
   "games": {
     "570": {
@@ -324634,6 +324634,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-11-02T07:08:24.180792"
+    },
+    "1292180": {
+      "appid": 1292180,
+      "name": "Krush Kill ‘N Destroy 2: Krossfire",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-11-03T00:24:25.721273"
+    },
+    "1298540": {
+      "appid": 1298540,
+      "name": "Halloween Candy Reclaim",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-11-03T00:30:08.146526"
     }
   }
 }
