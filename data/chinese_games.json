@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-11-04T08:36:59.730151"
+    "updated": "2026-11-04T16:53:32.059441"
   },
   "games": {
     "570": {
@@ -324666,6 +324666,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-11-04T08:31:18.710093"
+    },
+    "1339900": {
+      "appid": 1339900,
+      "name": "BOT.vinnik Chess: Combination Lessons",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-11-04T16:47:56.282970"
     }
   }
 }
