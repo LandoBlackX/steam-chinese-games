@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-11-05T03:09:57.888090"
+    "updated": "2026-11-05T11:49:36.328076"
   },
   "games": {
     "570": {
@@ -324682,6 +324682,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-11-05T03:04:33.866132"
+    },
+    "1363940": {
+      "appid": 1363940,
+      "name": "天术",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-11-05T11:49:23.354992"
     }
   }
 }
