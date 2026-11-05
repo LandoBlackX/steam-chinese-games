@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-11-04T16:53:32.059441"
+    "updated": "2026-11-05T03:09:57.888090"
   },
   "games": {
     "570": {
@@ -324674,6 +324674,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-11-04T16:47:56.282970"
+    },
+    "1352700": {
+      "appid": 1352700,
+      "name": "与灵共舞 (Dancing with Ghosts)",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-11-05T03:04:33.866132"
     }
   }
 }
