@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-11-05T11:49:36.328076"
+    "updated": "2026-11-07T15:28:31.743044"
   },
   "games": {
     "570": {
@@ -324690,6 +324690,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-11-05T11:49:23.354992"
+    },
+    "1411780": {
+      "appid": 1411780,
+      "name": "Seedless Light",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-11-07T15:23:09.742380"
+    },
+    "1415010": {
+      "appid": 1415010,
+      "name": "Lynium: Play the Rhythm",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-11-07T15:23:27.795787"
     }
   }
 }
