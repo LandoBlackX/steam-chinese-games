@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-11-07T19:55:51.713908"
+    "updated": "2026-11-07T23:27:56.819089"
   },
   "games": {
     "570": {
@@ -324714,6 +324714,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-11-07T19:50:36.981051"
+    },
+    "1424540": {
+      "appid": 1424540,
+      "name": "The Boo Croo",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-11-07T23:22:38.228497"
+    },
+    "1426580": {
+      "appid": 1426580,
+      "name": "Situation Normal",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-11-07T23:22:45.706448"
     }
   }
 }
