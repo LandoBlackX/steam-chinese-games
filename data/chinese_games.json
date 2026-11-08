@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-11-08T11:19:14.783921"
+    "updated": "2026-11-08T21:44:51.225430"
   },
   "games": {
     "570": {
@@ -324738,6 +324738,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-11-08T11:13:59.536024"
+    },
+    "1451830": {
+      "appid": 1451830,
+      "name": "OBSCURY : THE LAST",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-11-08T21:38:38.827947"
     }
   }
 }
