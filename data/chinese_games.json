@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-11-07T23:27:56.819089"
+    "updated": "2026-11-08T11:19:14.783921"
   },
   "games": {
     "570": {
@@ -324730,6 +324730,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-11-07T23:22:45.706448"
+    },
+    "1440570": {
+      "appid": 1440570,
+      "name": "Angelic: Dark Symphony",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-11-08T11:13:59.536024"
     }
   }
 }
