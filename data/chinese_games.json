@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-11-08T21:44:51.225430"
+    "updated": "2026-11-09T01:29:49.639701"
   },
   "games": {
     "570": {
@@ -324746,6 +324746,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-11-08T21:38:38.827947"
+    },
+    "1459800": {
+      "appid": 1459800,
+      "name": "Fakutori",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-11-09T01:24:22.575987"
     }
   }
 }
