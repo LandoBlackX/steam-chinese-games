@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-11-10T10:49:18.317277"
+    "updated": "2026-11-10T23:59:15.310055"
   },
   "games": {
     "570": {
@@ -324770,6 +324770,30 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-11-10T10:44:14.870485"
+    },
+    "1493290": {
+      "appid": 1493290,
+      "name": "Bring Me Hope",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-11-10T23:53:27.677259"
+    },
+    "1496620": {
+      "appid": 1496620,
+      "name": "Color Cube",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-11-10T23:53:59.576393"
+    },
+    "1496970": {
+      "appid": 1496970,
+      "name": "Masters of Mayhem",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-11-10T23:54:00.931142"
     }
   }
 }
