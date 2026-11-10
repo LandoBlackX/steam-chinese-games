@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-11-09T01:29:49.639701"
+    "updated": "2026-11-10T02:37:11.433991"
   },
   "games": {
     "570": {
@@ -90090,6 +90090,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2026-11-07T15:23:13.085203"
+    },
+    "1476680": {
+      "appid": 1476680,
+      "name": "Runika: A World of Little Legends",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2026-11-10T02:31:20.120141"
     }
   }
 }
