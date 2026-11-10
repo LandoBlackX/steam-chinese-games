@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-11-10T02:37:11.433991"
+    "updated": "2026-11-10T10:49:18.317277"
   },
   "games": {
     "570": {
@@ -324754,6 +324754,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-11-09T01:24:22.575987"
+    },
+    "1485650": {
+      "appid": 1485650,
+      "name": "Zen World",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-11-10T10:44:09.145792"
+    },
+    "1486940": {
+      "appid": 1486940,
+      "name": "EarthX 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-11-10T10:44:14.870485"
     }
   }
 }
