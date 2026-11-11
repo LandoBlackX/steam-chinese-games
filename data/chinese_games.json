@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-11-11T12:29:06.634636"
+    "updated": "2026-11-11T20:05:10.082308"
   },
   "games": {
     "570": {
@@ -324802,6 +324802,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-11-11T12:23:43.477121"
+    },
+    "1514610": {
+      "appid": 1514610,
+      "name": "Rising Mist",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-11-11T19:59:59.474535"
     }
   }
 }
