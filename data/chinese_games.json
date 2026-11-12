@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-11-11T20:05:10.082308"
+    "updated": "2026-11-12T09:15:20.122001"
   },
   "games": {
     "570": {
@@ -324810,6 +324810,38 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-11-11T19:59:59.474535"
+    },
+    "1526370": {
+      "appid": 1526370,
+      "name": "Bilkins' Folly",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-11-12T09:10:06.087506"
+    },
+    "1529780": {
+      "appid": 1529780,
+      "name": "Quant",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-11-12T09:10:15.165804"
+    },
+    "1530440": {
+      "appid": 1530440,
+      "name": "Balance Ball",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-11-12T09:10:17.015442"
+    },
+    "1531180": {
+      "appid": 1531180,
+      "name": "神葬之岛",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-11-12T09:15:20.119759"
     }
   }
 }
