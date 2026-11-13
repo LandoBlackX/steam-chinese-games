@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-11-12T09:15:20.122001"
+    "updated": "2026-11-13T04:52:53.751335"
   },
   "games": {
     "570": {
@@ -324842,6 +324842,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-11-12T09:15:20.119759"
+    },
+    "1549850": {
+      "appid": 1549850,
+      "name": "Virtual Hunter",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-11-13T04:47:45.340021"
     }
   }
 }
