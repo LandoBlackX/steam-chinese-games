@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-11-13T04:52:53.751335"
+    "updated": "2026-11-13T12:54:51.769044"
   },
   "games": {
     "570": {
@@ -324850,6 +324850,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-11-13T04:47:45.340021"
+    },
+    "1556010": {
+      "appid": 1556010,
+      "name": "DriveCrazy 玩命狂飙",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-11-13T12:49:48.615184"
     }
   }
 }
