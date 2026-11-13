@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-11-13T12:54:51.769044"
+    "updated": "2026-11-13T20:22:40.433811"
   },
   "games": {
     "570": {
@@ -324858,6 +324858,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-11-13T12:49:48.615184"
+    },
+    "1561540": {
+      "appid": 1561540,
+      "name": "Ship of Theseus",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-11-13T20:17:30.538780"
     }
   }
 }
