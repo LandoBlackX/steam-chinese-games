@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-11-14T01:19:36.258790"
+    "updated": "2026-11-14T15:36:16.097104"
   },
   "games": {
     "570": {
@@ -324890,6 +324890,30 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-11-14T01:14:15.526971"
+    },
+    "1575990": {
+      "appid": 1575990,
+      "name": "Twisted Tower",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-11-14T15:30:50.433890"
+    },
+    "1577260": {
+      "appid": 1577260,
+      "name": "Dininho Adventures: Definitive Edition",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-11-14T15:30:57.418120"
+    },
+    "1580560": {
+      "appid": 1580560,
+      "name": "Puzzledorf",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-11-14T15:36:15.628364"
     }
   }
 }
