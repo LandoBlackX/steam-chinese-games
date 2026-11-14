@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-11-13T20:22:40.433811"
+    "updated": "2026-11-14T01:19:36.258790"
   },
   "games": {
     "570": {
@@ -324866,6 +324866,30 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-11-13T20:17:30.538780"
+    },
+    "1564060": {
+      "appid": 1564060,
+      "name": "疯狂灯塔 Lighthouse of Madness",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-11-14T01:13:47.211124"
+    },
+    "1564600": {
+      "appid": 1564600,
+      "name": "终焉之疫：枯萎",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-11-14T01:13:51.627411"
+    },
+    "1566200": {
+      "appid": 1566200,
+      "name": "Tape to Tape",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-11-14T01:14:15.526971"
     }
   }
 }
