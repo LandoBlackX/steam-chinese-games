@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-11-15T07:35:15.922561"
+    "updated": "2026-11-15T15:21:16.716816"
   },
   "games": {
     "570": {
@@ -324930,6 +324930,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-11-15T07:30:07.274767"
+    },
+    "1599780": {
+      "appid": 1599780,
+      "name": "Afterlove EP",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-11-15T15:16:03.551480"
     }
   }
 }
