@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-11-14T15:36:16.097104"
+    "updated": "2026-11-15T00:46:37.079253"
   },
   "games": {
     "570": {
@@ -324914,6 +324914,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-11-14T15:36:15.628364"
+    },
+    "1587920": {
+      "appid": 1587920,
+      "name": "末日钉子户2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-11-15T00:41:14.592712"
     }
   }
 }
