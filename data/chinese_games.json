@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-11-15T15:21:16.716816"
+    "updated": "2026-11-16T07:41:16.184549"
   },
   "games": {
     "570": {
@@ -324938,6 +324938,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-11-15T15:16:03.551480"
+    },
+    "1617120": {
+      "appid": 1617120,
+      "name": "背锅天神",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-11-16T07:35:56.557816"
+    },
+    "1619810": {
+      "appid": 1619810,
+      "name": "BUNNY-HOP",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-11-16T07:36:07.152665"
     }
   }
 }
