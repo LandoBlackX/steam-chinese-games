@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-11-17T10:08:57.118874"
+    "updated": "2026-11-17T19:38:34.689818"
   },
   "games": {
     "570": {
@@ -324962,6 +324962,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-11-17T10:03:51.476780"
+    },
+    "1641570": {
+      "appid": 1641570,
+      "name": "TREMEN",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-11-17T19:33:15.991244"
     }
   }
 }
