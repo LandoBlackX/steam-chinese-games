@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-11-16T07:41:16.184549"
+    "updated": "2026-11-17T10:08:57.118874"
   },
   "games": {
     "570": {
@@ -324954,6 +324954,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-11-16T07:36:07.152665"
+    },
+    "1637730": {
+      "appid": 1637730,
+      "name": "水晶计划",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-11-17T10:03:51.476780"
     }
   }
 }
