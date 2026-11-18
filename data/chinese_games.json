@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-11-17T19:38:34.689818"
+    "updated": "2026-11-18T02:08:06.182276"
   },
   "games": {
     "570": {
@@ -324970,6 +324970,30 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-11-17T19:33:15.991244"
+    },
+    "1646850": {
+      "appid": 1646850,
+      "name": "SpaceBourne 2",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-11-18T02:02:31.517367"
+    },
+    "1648190": {
+      "appid": 1648190,
+      "name": "QANGA",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-11-18T02:02:38.116353"
+    },
+    "1651300": {
+      "appid": 1651300,
+      "name": "TUG II: The Unnamed Game",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-11-18T02:03:02.360523"
     }
   }
 }
