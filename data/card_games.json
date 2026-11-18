@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-11-18T02:08:06.182276"
+    "updated": "2026-11-18T11:07:11.890355"
   },
   "games": {
     "570": {
@@ -90098,6 +90098,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2026-11-10T02:31:20.120141"
+    },
+    "1653230": {
+      "appid": 1653230,
+      "name": "Guild & Gals",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2026-11-18T11:01:51.669899"
     }
   }
 }
