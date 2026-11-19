@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-11-19T01:45:29.301859"
+    "updated": "2026-11-19T09:53:37.192225"
   },
   "games": {
     "570": {
@@ -324994,6 +324994,30 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-11-18T02:03:02.360523"
+    },
+    "1674010": {
+      "appid": 1674010,
+      "name": "Nin Online",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-11-19T09:48:22.146314"
+    },
+    "1674150": {
+      "appid": 1674150,
+      "name": "Gromopoli",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-11-19T09:48:23.264809"
+    },
+    "1675260": {
+      "appid": 1675260,
+      "name": "黑森林迷踪 Among the Trolls",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-11-19T09:48:29.326714"
     }
   }
 }
