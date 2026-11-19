@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-11-18T11:07:11.890355"
+    "updated": "2026-11-19T01:45:29.301859"
   },
   "games": {
     "570": {
@@ -90106,6 +90106,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2026-11-18T11:01:51.669899"
+    },
+    "1668310": {
+      "appid": 1668310,
+      "name": "24 Killers",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2026-11-19T01:40:09.748526"
     }
   }
 }
