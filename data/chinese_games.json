@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-11-19T09:53:37.192225"
+    "updated": "2026-11-19T18:55:05.864802"
   },
   "games": {
     "570": {
@@ -325018,6 +325018,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-11-19T09:48:29.326714"
+    },
+    "1678280": {
+      "appid": 1678280,
+      "name": "Black Hole Simulation with Python",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-11-19T18:49:39.416105"
     }
   }
 }
