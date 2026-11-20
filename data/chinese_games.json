@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-11-19T18:55:05.864802"
+    "updated": "2026-11-20T01:07:27.582090"
   },
   "games": {
     "570": {
@@ -325026,6 +325026,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-11-19T18:49:39.416105"
+    },
+    "1686230": {
+      "appid": 1686230,
+      "name": "Mayday: The Survival Island",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-11-20T01:01:46.287692"
     }
   }
 }
