@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-11-20T01:07:27.582090"
+    "updated": "2026-11-20T08:21:55.537782"
   },
   "games": {
     "570": {
@@ -90114,6 +90114,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2026-11-19T01:40:09.748526"
+    },
+    "1692060": {
+      "appid": 1692060,
+      "name": "Bad Dream: Stories",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2026-11-20T08:16:51.297352"
     }
   }
 }

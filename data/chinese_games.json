@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-11-20T01:07:27.582090"
+    "updated": "2026-11-20T08:21:55.537782"
   },
   "games": {
     "570": {
@@ -325034,6 +325034,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-11-20T01:01:46.287692"
+    },
+    "1690980": {
+      "appid": 1690980,
+      "name": "Sigma World Online",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-11-20T08:16:45.790637"
     }
   }
 }
