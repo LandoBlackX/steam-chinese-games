@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-11-20T08:21:55.537782"
+    "updated": "2026-11-20T17:36:19.692512"
   },
   "games": {
     "570": {
@@ -325042,6 +325042,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-11-20T08:16:45.790637"
+    },
+    "1696370": {
+      "appid": 1696370,
+      "name": "Gangs of Rikton",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-11-20T17:31:03.197232"
     }
   }
 }
