@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-11-21T14:11:23.757485"
+    "updated": "2026-11-21T20:52:07.872677"
   },
   "games": {
     "570": {
@@ -325058,6 +325058,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-11-21T14:05:44.981111"
+    },
+    "1715510": {
+      "appid": 1715510,
+      "name": "Pollito & Xiang Xiang: Adventure in the Forest",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-11-21T20:46:37.066358"
+    },
+    "1716760": {
+      "appid": 1716760,
+      "name": "Trinity Archetype",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-11-21T20:46:46.849906"
     }
   }
 }

@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-11-21T14:11:23.757485"
+    "updated": "2026-11-21T20:52:07.872677"
   },
   "games": {
     "570": {
@@ -90122,6 +90122,14 @@
       "supports_chinese": false,
       "supports_cards": true,
       "last_checked": "2026-11-20T08:16:51.297352"
+    },
+    "1715590": {
+      "appid": 1715590,
+      "name": "Wizordum",
+      "type": "game",
+      "supports_chinese": false,
+      "supports_cards": true,
+      "last_checked": "2026-11-21T20:46:37.617258"
     }
   }
 }
