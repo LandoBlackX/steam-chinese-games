@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-11-20T17:36:19.692512"
+    "updated": "2026-11-21T14:11:23.757485"
   },
   "games": {
     "570": {
@@ -325050,6 +325050,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-11-20T17:31:03.197232"
+    },
+    "1709540": {
+      "appid": 1709540,
+      "name": "Kill King",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-11-21T14:05:44.981111"
     }
   }
 }
