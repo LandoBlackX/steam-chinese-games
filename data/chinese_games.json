@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-11-22T15:59:19.277549"
+    "updated": "2026-11-22T21:35:33.004893"
   },
   "games": {
     "570": {
@@ -325114,6 +325114,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-11-22T15:59:15.970919"
+    },
+    "1742040": {
+      "appid": 1742040,
+      "name": "Kingslayers",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-11-22T21:30:18.111220"
     }
   }
 }
