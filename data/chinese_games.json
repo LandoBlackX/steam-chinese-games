@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-11-22T07:50:00.854012"
+    "updated": "2026-11-22T15:59:19.277549"
   },
   "games": {
     "570": {
@@ -325090,6 +325090,30 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-11-22T07:44:53.357039"
+    },
+    "1737870": {
+      "appid": 1737870,
+      "name": "蕾卡的移动工坊",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-11-22T15:54:13.555131"
+    },
+    "1737910": {
+      "appid": 1737910,
+      "name": "XPELLIT",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-11-22T15:54:14.012154"
+    },
+    "1738540": {
+      "appid": 1738540,
+      "name": "Dancing Cube",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-11-22T15:59:15.970919"
     }
   }
 }
