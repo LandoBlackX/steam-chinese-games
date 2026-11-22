@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-11-21T20:52:07.872677"
+    "updated": "2026-11-22T01:00:02.429619"
   },
   "games": {
     "570": {
@@ -325074,6 +325074,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-11-21T20:46:46.849906"
+    },
+    "1725270": {
+      "appid": 1725270,
+      "name": "Ekoh Beach",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-11-22T00:54:55.361396"
     }
   }
 }
