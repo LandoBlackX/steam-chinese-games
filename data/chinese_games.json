@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-11-22T01:00:02.429619"
+    "updated": "2026-11-22T07:50:00.854012"
   },
   "games": {
     "570": {
@@ -325082,6 +325082,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-11-22T00:54:55.361396"
+    },
+    "1731170": {
+      "appid": 1731170,
+      "name": "Space Defender: Frontier Squadron - 太空防御者",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-11-22T07:44:53.357039"
     }
   }
 }
