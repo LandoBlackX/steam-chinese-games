@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-11-22T21:35:33.004893"
+    "updated": "2026-11-23T02:16:37.037150"
   },
   "games": {
     "570": {
@@ -325122,6 +325122,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-11-22T21:30:18.111220"
+    },
+    "1749050": {
+      "appid": 1749050,
+      "name": "Revasion",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-11-23T02:11:29.059120"
     }
   }
 }
