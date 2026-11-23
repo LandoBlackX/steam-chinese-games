@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-11-23T02:16:37.037150"
+    "updated": "2026-11-23T23:24:28.900361"
   },
   "games": {
     "570": {
@@ -325130,6 +325130,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-11-23T02:11:29.059120"
+    },
+    "1756330": {
+      "appid": 1756330,
+      "name": "Secrets of Magic 5: Back to School",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-11-23T23:18:45.095065"
+    },
+    "1758910": {
+      "appid": 1758910,
+      "name": "Time Commando",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-11-23T23:19:04.052613"
     }
   }
 }
