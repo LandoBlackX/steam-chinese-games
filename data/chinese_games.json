@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-11-23T23:24:28.900361"
+    "updated": "2026-11-25T03:26:47.665993"
   },
   "games": {
     "570": {
@@ -325146,6 +325146,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-11-23T23:19:04.052613"
+    },
+    "1775320": {
+      "appid": 1775320,
+      "name": "Spellpowder: Uprising",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-11-25T03:21:12.800103"
+    },
+    "1775490": {
+      "appid": 1775490,
+      "name": "Slice & Dice",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-11-25T03:21:14.008118"
     }
   }
 }
