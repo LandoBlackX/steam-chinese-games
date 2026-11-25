@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-11-25T13:56:59.427819"
+    "updated": "2026-11-25T23:02:24.629398"
   },
   "games": {
     "570": {
@@ -325170,6 +325170,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-11-25T13:51:36.923465"
+    },
+    "1787670": {
+      "appid": 1787670,
+      "name": "A Fishy RPG",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-11-25T22:57:03.444475"
+    },
+    "1788410": {
+      "appid": 1788410,
+      "name": "BOT.vinnik Chess: Mid-Century USSR Championships",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-11-25T22:57:07.079987"
     }
   }
 }
