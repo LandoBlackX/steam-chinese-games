@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-11-25T03:26:47.665993"
+    "updated": "2026-11-25T13:56:59.427819"
   },
   "games": {
     "570": {
@@ -325162,6 +325162,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-11-25T03:21:14.008118"
+    },
+    "1781550": {
+      "appid": 1781550,
+      "name": "Bounce Castle",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-11-25T13:51:36.923465"
     }
   }
 }
