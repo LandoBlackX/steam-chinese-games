@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-11-26T14:48:08.305318"
+    "updated": "2026-11-26T23:35:00.713466"
   },
   "games": {
     "570": {
@@ -325210,6 +325210,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-11-26T14:48:01.767392"
+    },
+    "1807330": {
+      "appid": 1807330,
+      "name": "Tough Love Arena",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-11-26T23:34:57.349951"
     }
   }
 }
