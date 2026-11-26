@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-11-26T04:48:09.300227"
+    "updated": "2026-11-26T14:48:08.305318"
   },
   "games": {
     "570": {
@@ -325194,6 +325194,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-11-26T04:43:02.804043"
+    },
+    "1800470": {
+      "appid": 1800470,
+      "name": "Moonwakers",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-11-26T14:42:50.569379"
+    },
+    "1802110": {
+      "appid": 1802110,
+      "name": "Take Over Body",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-11-26T14:48:01.767392"
     }
   }
 }
