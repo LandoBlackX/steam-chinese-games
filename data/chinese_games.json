@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-11-26T23:35:00.713466"
+    "updated": "2026-11-27T06:30:59.969095"
   },
   "games": {
     "570": {
@@ -325218,6 +325218,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-11-26T23:34:57.349951"
+    },
+    "1810630": {
+      "appid": 1810630,
+      "name": "Lokko",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-11-27T06:25:46.579243"
+    },
+    "1813170": {
+      "appid": 1813170,
+      "name": "Surrounded",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-11-27T06:30:58.042617"
     }
   }
 }
