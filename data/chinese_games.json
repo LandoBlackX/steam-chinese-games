@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-11-27T17:18:23.531504"
+    "updated": "2026-11-28T01:07:00.013638"
   },
   "games": {
     "570": {
@@ -325242,6 +325242,22 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-11-27T17:18:14.839478"
+    },
+    "1819570": {
+      "appid": 1819570,
+      "name": "Eraser",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-11-28T01:01:37.361835"
+    },
+    "1822640": {
+      "appid": 1822640,
+      "name": "Rogue Dungeon",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-11-28T01:01:52.933836"
     }
   }
 }
