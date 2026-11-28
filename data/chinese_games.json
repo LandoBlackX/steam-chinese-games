@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-11-28T01:07:00.013638"
+    "updated": "2026-11-28T08:53:19.042854"
   },
   "games": {
     "570": {
@@ -325258,6 +325258,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-11-28T01:01:52.933836"
+    },
+    "1826980": {
+      "appid": 1826980,
+      "name": "Football Street: Fight",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-11-28T08:47:58.102317"
     }
   }
 }
