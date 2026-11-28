@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "updated": "2026-11-28T08:53:19.042854"
+    "updated": "2026-11-28T17:27:08.083912"
   },
   "games": {
     "570": {
@@ -325266,6 +325266,14 @@
       "supports_chinese": true,
       "supports_cards": false,
       "last_checked": "2026-11-28T08:47:58.102317"
+    },
+    "1830160": {
+      "appid": 1830160,
+      "name": "Reloader: subject_alpha",
+      "type": "game",
+      "supports_chinese": true,
+      "supports_cards": false,
+      "last_checked": "2026-11-28T17:21:43.930927"
     }
   }
 }
